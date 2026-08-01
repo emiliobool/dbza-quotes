@@ -5,3 +5,4 @@ public/data/
 src/gen/
 .wrangler/
 .DS_Store
+.dev.vars

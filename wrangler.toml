@@ -3,14 +3,10 @@ name = "dbza-quotes"
 compatibility_date = "2026-07-01"
 pages_build_output_dir = "dist"
 
-# After creating the D1 database, uncomment and fill in:
-#   npx wrangler d1 create dbza-quotes
-#   npx wrangler d1 execute dbza-quotes --remote --file db/schema.sql
-#
-# [[d1_databases]]
-# binding = "DB"
-# database_name = "dbza-quotes"
-# database_id = "REPLACE_ME"
+[[d1_databases]]
+binding = "DB"
+database_name = "dbza-quotes"
+database_id = "7de548fe-3e0a-4fe5-8e44-ff0eddaf9d18"
 
 # Secrets (set in the Pages dashboard or `wrangler pages secret put`):
 #   ADMIN_TOKEN      — bearer token for /api/queue*
