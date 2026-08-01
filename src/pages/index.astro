@@ -6,15 +6,19 @@ const nLines = null; // shown client-side
 ---
 
 <Base>
-  <h1>Search Dragon Ball Z Abridged</h1>
-  <input type="search" id="q" placeholder='Try "muffin button", "dodge", "my way"…' autofocus autocomplete="off" />
-  <p class="meta" id="status">Loading transcripts…</p>
+  <div class="hero">
+    <h1>Every line of <span class="hl">DBZA</span>, one search away</h1>
+    <div class="search-wrap">
+      <input type="search" id="q" placeholder='Try "muffin button", "dodge", "my way"…' autofocus autocomplete="off" />
+    </div>
+    <p class="meta" id="status">Loading transcripts…</p>
+  </div>
   <div id="results"></div>
 
   <div id="home-extra">
-    <h2>Popular quotes</h2>
+    <h2>Greatest hits</h2>
     <div class="clip-grid" id="top-clips"></div>
-    <p class="meta"><a href="/quotes/">All {nClips} quotes →</a></p>
+    <p class="meta" style="margin-top:1rem"><a href="/quotes/">All {nClips} quotes →</a></p>
   </div>
   <div class="toast" id="toast"></div>
 </Base>
@@ -72,20 +76,24 @@ const nLines = null; // shown client-side
     const hits = mini.search(q).slice(0, 40);
     let html = "";
     for (const c of clipHits) {
-      html += `<a class="card" style="display:block;color:inherit" href="/clip/dbza/${c.docId}/">
-        <span class="badge">quote</span> <strong>${esc(c.title)}</strong>
+      html += `<a class="card hit hit-quote" href="/clip/dbza/${c.docId}/">
+        <div class="hit-head"><span class="badge badge-hot">Quote</span>
+        <span class="hit-title">${esc(c.title)}</span></div>
         <div class="quote-line"><span class="speaker">${esc(c.speaker || "")}</span> ${hl(c.quote, q)}</div>
-        <div class="meta">${esc(mediaLabel(media[c.media]))}</div></a>`;
+        <div class="hit-meta"><span class="hit-src">${esc(mediaLabel(media[c.media]))}</span></div></a>`;
     }
     for (const h of hits) {
       const m = media[h.item];
-      html += `<div class="card">
+      html += `<div class="card hit">
         <div class="quote-line"><span class="speaker">${esc(h.speaker)}${h.speaker ? ":" : ""}</span> ${hl(h.text, q)}</div>
-        <div class="meta">${esc(mediaLabel(m))} · <span class="tstamp">${fmtTime(h.start)}</span>
-        · <a href="${clipUrl("dbza", h.item, Math.max(0, h.start - 1), h.end + 1.5)}">open clip</a>
-        · <a href="/dbza/${h.item}/#L${h.i}">transcript</a></div></div>`;
+        <div class="hit-meta"><span class="hit-src">${esc(mediaLabel(m))}</span>
+        <span class="tstamp">${fmtTime(h.start)}</span> <span class="sep">·</span>
+        <a href="${clipUrl("dbza", h.item, Math.max(0, h.start - 1), h.end + 1.5)}">Open clip</a>
+        <span class="sep">·</span>
+        <a href="/dbza/${h.item}/#L${h.i}">Transcript</a></div></div>`;
     }
-    resultsEl.innerHTML = html || `<p class="meta">No matches. Try fewer or different words.</p>`;
+    resultsEl.innerHTML = html || `<div class="empty"><strong>Nothing. Not even a senzu bean.</strong>
+      <span>That search is weaker than Yamcha — try fewer or different words.</span></div>`;
   }
 
   let timer;

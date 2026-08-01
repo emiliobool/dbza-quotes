@@ -3,8 +3,8 @@ import Base from "../layouts/Base.astro";
 ---
 
 <Base title="Saved clips | DBZA Quotes" description="Clips you saved on this device.">
-  <h1>Saved clips</h1>
-  <p class="meta">Stored in your browser only — nothing is uploaded.</p>
+  <h1>Saved <span class="hl">clips</span></h1>
+  <p class="meta" style="margin-top:-0.4rem">Stored in your browser only — nothing is uploaded.</p>
   <div id="list"></div>
 </Base>
 
@@ -19,7 +19,8 @@ import Base from "../layouts/Base.astro";
         <div class="quote-line dim">${esc(c.quote)}</div>
         <button class="btn" data-del="${i}" style="margin-top:0.4rem">Remove</button>
       </div>`).join("")
-    : `<p class="meta">Nothing saved yet. Open any clip and hit “☆ Save”.</p>`;
+    : `<div class="empty"><strong>Emptier than Yamcha's trophy case</strong>
+      <span>Open any clip and hit “☆” to stash it here.</span></div>`;
   document.getElementById("list").addEventListener("click", (e) => {
     const b = e.target.closest("[data-del]");
     if (!b) return;

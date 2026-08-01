@@ -29,12 +29,16 @@ const ogImage = clip.image ? new URL(clip.image, Astro.site).href : ytThumb(m.yo
 ---
 
 <Base title={`"${clip.title}" — ${mediaLabel(m)} | DBZA Quotes`} description={desc || clip.quote} ogImage={ogImage} ogType="video.other" wide>
-  <h1 style="margin-top:0">“{clip.title}”</h1>
-  <p class="meta" style="margin-top:-0.5rem">
-    {clip.speaker && <span class="speaker">{clip.speaker}</span>}
-    · <a href={`/${show}/${clip.media}/`} title="Episode page & full transcript">{mediaLabel(m)}</a>
-    · <span title="Start time in the episode">{fmtTime(clip.start)}</span>
-  </p>
+  <div class="clip-head">
+    <h1><span class="qmark">“</span>{clip.title}<span class="qmark">”</span></h1>
+    <p class="clip-credits">
+      {clip.speaker && <span class="speaker">{clip.speaker}</span>}
+      {clip.speaker && <span class="sep">·</span>}
+      <a href={`/${show}/${clip.media}/`} title="Episode page & full transcript">{mediaLabel(m)}</a>
+      <span class="sep">·</span>
+      <span class="tstamp" title="Start time in the episode">{fmtTime(clip.start)}</span>
+    </p>
+  </div>
 
   <div class="clip-layout">
     <div>
@@ -43,7 +47,7 @@ const ogImage = clip.image ? new URL(clip.image, Astro.site).href : ytThumb(m.yo
       <div class="caption-bar" id="caption"></div>
 
       <div class="btn-row">
-        <button class="btn" id="copy-link" title="Copy this page's link">Link</button>
+        <button class="btn primary" id="copy-link" title="Copy this page's link">Copy link</button>
         <button class="btn" id="copy-yt" title="Copy a YouTube link at this timestamp — plays inline on Discord">YouTube</button>
         <button class="btn" id="copy-quote" title="Copy the dialog as text">Quote</button>
         <a class="btn" href={clipUrl(show, clip.media, clip.start, clip.end)} title="Adjust the range, save, or remix">Edit</a>
@@ -51,6 +55,7 @@ const ogImage = clip.image ? new URL(clip.image, Astro.site).href : ytThumb(m.yo
 
       {clip.images && (
         <div class="variant-strip">
+          <span class="strip-label">Grab a frame</span>
           {clip.images.map((img) => (
             <a href={img.url} download={`${clip.id}${img.id === "default" ? "" : "-" + img.id}.jpg`} title="Download image">
               <img src={img.url} alt={clip.quote} loading="lazy" />
@@ -60,7 +65,9 @@ const ogImage = clip.image ? new URL(clip.image, Astro.site).href : ytThumb(m.yo
       )}
 
       {others.length > 0 && (
-        <div class="clip-grid" style="margin-top:1.2rem">
+        <>
+        <h2>More from this one</h2>
+        <div class="clip-grid">
           {others.map((c) => (
             <a class="clip-card" href={`/clip/${show}/${c.id}/`} title={c.quote}>
               {c.image && <img loading="lazy" src={c.image} alt={c.quote} />}
@@ -71,6 +78,7 @@ const ogImage = clip.image ? new URL(clip.image, Astro.site).href : ytThumb(m.yo
             </a>
           ))}
         </div>
+        </>
       )}
     </div>
 

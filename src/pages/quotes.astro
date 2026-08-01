@@ -10,9 +10,12 @@ const mediaById = Object.fromEntries(site.media.dbza.map((m) => [m.id, m]));
 ---
 
 <Base title="Quotes | DBZA Quotes" description={`${clips.length} iconic DBZA moments with captioned frames.`} wide>
-  <h1>Quotes</h1>
-  <input type="search" id="filter" placeholder={`Filter ${clips.length} quotes…`} autocomplete="off" />
-  <div class="clip-grid" id="grid" style="margin-top:1rem">
+  <h1>The <span class="hl">Quote</span> Vault</h1>
+  <p class="meta" style="margin:-0.4rem 0 1rem">{clips.length} certified moments, captioned and ready to paste.</p>
+  <div class="search-wrap">
+    <input type="search" id="filter" placeholder={`Filter ${clips.length} quotes…`} autocomplete="off" />
+  </div>
+  <div class="clip-grid" id="grid" style="margin-top:1.2rem">
     {clips.map((c) => {
       const m = mediaById[c.media];
       return (

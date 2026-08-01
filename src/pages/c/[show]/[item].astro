@@ -20,7 +20,7 @@ const label = mediaLabel(m);
   ogType="video.other"
   wide
 >
-  <p class="meta" style="margin:0 0 0.6rem"><a href={`/${show}/${item}/`}>← {label}</a></p>
+  <p class="meta" style="margin:0 0 0.9rem"><a class="backlink" href={`/${show}/${item}/`}>← {label}</a></p>
 
   <div class="clip-layout">
     <div>
@@ -29,7 +29,7 @@ const label = mediaLabel(m);
       <div class="caption-bar" id="caption"></div>
 
       <div class="btn-row">
-        <button class="btn" id="copy-link" title="Copy this page's link — it encodes the current range">Link</button>
+        <button class="btn primary" id="copy-link" title="Copy this page's link — it encodes the current range">Copy link</button>
         <button class="btn" id="copy-yt" title="Copy a YouTube link at this timestamp — plays inline on Discord">YouTube</button>
         <button class="btn" id="copy-quote" title="Copy the selected dialog as text">Quote</button>
         <button class="btn" id="save-clip" title="Save on this device">☆</button>

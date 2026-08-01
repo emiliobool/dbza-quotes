@@ -23,11 +23,12 @@ const dialogCount = lines.filter((l) => l.kind === "dialog").length;
   description={`Full searchable transcript of ${mediaLabel(m)} (${dialogCount} lines). Link any moment.`}
   ogImage={ytThumb(m.youtube)}
 >
-  <p class="meta"><a href={`/${show}/`}>← All episodes</a></p>
+  <p class="meta"><a class="backlink" href={`/${show}/`}>← All episodes</a></p>
   <h1>{m.title}</h1>
-  <p class="meta">
-    {fmtTime(m.duration)} · {dialogCount} dialog lines ·
-    <a href={ytLink(m.youtube)}>Watch on YouTube</a> ·
+  <p class="clip-credits">
+    <span class="tstamp">{fmtTime(m.duration)}</span> <span class="sep">·</span>
+    {dialogCount} dialog lines <span class="sep">·</span>
+    <a href={ytLink(m.youtube)}>Watch on YouTube</a> <span class="sep">·</span>
     <a href={clipUrl(show, item, 0, 15)}>Open in clip editor</a>
   </p>
 

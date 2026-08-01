@@ -26,7 +26,7 @@ const clipCount = Object.fromEntries(
         <img loading="lazy" src={ytThumb(m.youtube, "mqdefault")} alt={m.title} />
         <div class="pad">
           <div class="title">{m.title}</div>
-          <div class="meta">{fmtTime(m.duration)}{clipCount[m.id] ? ` · ${clipCount[m.id]} quotes` : ""}</div>
+          <div class="meta">{fmtTime(m.duration)}{clipCount[m.id] ? ` · ${clipCount[m.id]} quote${clipCount[m.id] === 1 ? "" : "s"}` : ""}</div>
         </div>
       </a>
     ))}
@@ -39,7 +39,7 @@ const clipCount = Object.fromEntries(
         <img loading="lazy" src={ytThumb(m.youtube, "mqdefault")} alt={m.title} />
         <div class="pad">
           <div class="title">{m.title}</div>
-          <div class="meta">{fmtTime(m.duration)}{clipCount[m.id] ? ` · ${clipCount[m.id]} quotes` : ""}</div>
+          <div class="meta">{fmtTime(m.duration)}{clipCount[m.id] ? ` · ${clipCount[m.id]} quote${clipCount[m.id] === 1 ? "" : "s"}` : ""}</div>
         </div>
       </a>
     ))}

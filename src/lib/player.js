@@ -59,6 +59,7 @@ export async function createClipPlayer({ mountId, youtube, lines, captionEl, con
     });
     scrub.addEventListener("input", () => {
       state.scrubbing = true;
+      paintScrub();
       state.player.seekTo(parseFloat(scrub.value), true);
     });
     scrub.addEventListener("change", () => { state.scrubbing = false; });
@@ -74,11 +75,19 @@ export async function createClipPlayer({ mountId, youtube, lines, captionEl, con
     return hit;
   }
 
+  // paints the filled portion of the scrubber track (--pct drives a CSS gradient)
+  function paintScrub() {
+    const span = (+scrub.max || 0) - (+scrub.min || 0);
+    const pct = span > 0 ? ((+scrub.value - +scrub.min) / span) * 100 : 0;
+    scrub.style.setProperty("--pct", `${Math.min(100, Math.max(0, pct))}%`);
+  }
+
   function syncControls() {
     if (!controlsEl || state.end == null) return;
     scrub.min = state.start;
     scrub.max = state.end;
     timeLabel.textContent = fmt(state.end - state.start) + "s";
+    paintScrub();
   }
 
   function tick() {
@@ -94,7 +103,10 @@ export async function createClipPlayer({ mountId, youtube, lines, captionEl, con
     }
     if (controlsEl) {
       playBtn.textContent = playing ? "❚❚" : "▶";
-      if (!state.scrubbing) scrub.value = Math.min(Math.max(t, state.start), state.end ?? t);
+      if (!state.scrubbing) {
+        scrub.value = Math.min(Math.max(t, state.start), state.end ?? t);
+        paintScrub();
+      }
       timeLabel.textContent = `${fmt(Math.max(0, t - state.start))} / ${fmt((state.end ?? t) - state.start)}`;
     }
     if (state.end != null && playing && t >= state.end && !state.scrubbing) p.pauseVideo();
