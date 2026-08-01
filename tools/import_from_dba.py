@@ -30,7 +30,8 @@ CONTENT = ROOT / "content"
 TITLE_NOISE = [
     re.compile(r"^Dragon\s?Ball Z Abridged(?: Movie)?:\s*", re.IGNORECASE),
     re.compile(r"^DBZ Kai Abridged.*?:\s*", re.IGNORECASE),
-    re.compile(r"\s*-\s*Team\s?Four\s?Star\s*\(TFS\)\s*$", re.IGNORECASE),
+    re.compile(r"\s*[|-]\s*Team\s?Four\s?Star(\s*\(TFS\)|\s*#\w+)?\s*$", re.IGNORECASE),
+    re.compile(r"\s*-?\s*#(CellGames|DBZA\d+|TFS\w+)\s*$", re.IGNORECASE),
     re.compile(r"\s*#\s*$"),
 ]
 

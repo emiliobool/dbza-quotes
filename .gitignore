@@ -6,3 +6,4 @@ src/gen/
 .wrangler/
 .DS_Store
 .dev.vars
+frames-store/
