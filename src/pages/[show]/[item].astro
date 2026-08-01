@@ -48,8 +48,7 @@ const dialogCount = lines.filter((l) => l.kind === "dialog").length;
   )}
 
   <h2>Transcript</h2>
-  <p class="meta">Click a timestamp to open that moment in the clip editor.</p>
-  <div class="transcript card">
+  <div class="transcript card" title="Click a timestamp to open that moment in the clip editor">
     {lines.map((l) => (
       <div class={`line ${l.kind}`} id={`L${l.i}`}>
         <a class="tstamp" href={clipUrl(show, item, Math.max(0, l.start - 1), l.end + 1.5)}>{fmtTime(l.start)}</a>

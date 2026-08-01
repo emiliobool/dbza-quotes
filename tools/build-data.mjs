@@ -4,7 +4,7 @@
 //   public/data/clips.json                — published clips for client islands
 //   public/data/search/{show}.json        — dialog docs for MiniSearch
 //   public/data/transcripts/{show}/{item}.json — compact lines for editor/OG
-import { readFileSync, readdirSync, writeFileSync, mkdirSync, rmSync } from "node:fs";
+import { readFileSync, readdirSync, writeFileSync, mkdirSync, rmSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import YAML from "yaml";
@@ -65,6 +65,23 @@ for (const show of shows) {
   const clips = readdirSync(clipsDir)
     .filter((f) => f.endsWith(".yaml"))
     .map((f) => readYaml(join(clipsDir, f)));
+  // attach rendered quote frames (public/frames/{show}/{slug}[.{variant}].jpg)
+  const framesDir = join(ROOT, "public", "frames", show.id);
+  const frameFiles = existsSync(framesDir) ? readdirSync(framesDir) : [];
+  for (const c of clips) {
+    const images = [];
+    if (frameFiles.includes(`${c.id}.jpg`))
+      images.push({ id: "default", url: `/frames/${show.id}/${c.id}.jpg` });
+    for (const f of frameFiles) {
+      const m = f.match(new RegExp(`^${c.id}\\.([a-z0-9-]+)\\.jpg$`));
+      if (m) images.push({ id: m[1], url: `/frames/${show.id}/${f}` });
+    }
+    if (images.length) {
+      c.images = images;
+      c.image = images[0].url;
+    }
+  }
+
   const slugs = new Set();
   for (const c of clips) {
     if (slugs.has(c.id)) errors.push(`duplicate clip id ${show.id}/${c.id}`);

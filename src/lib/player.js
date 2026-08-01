@@ -1,6 +1,7 @@
-// YouTube IFrame player + synced captions from our transcript data.
-// Loads the IFrame API on demand; polls getCurrentTime() to drive a caption bar
-// and clip-range stop behavior. Used by the clip editor and curated clip pages.
+// YouTube IFrame player with a custom control bar scoped to the clip range.
+// YouTube's native controls are hidden (controls:0); our bar drives the player
+// via the API: play/pause + a scrubber that only spans [start, end]. A caption
+// bar is synced from our transcript by polling getCurrentTime().
 
 let apiPromise = null;
 function loadApi() {
@@ -17,26 +18,54 @@ function loadApi() {
   return apiPromise;
 }
 
-export async function createClipPlayer({ mountId, youtube, lines, captionEl, onTime, start = 0 }) {
-  await loadApi();
-  const state = { start, end: null, loopStop: true, player: null, timer: null };
+const fmt = (s) => {
+  s = Math.max(0, Math.floor(s));
+  return `${Math.floor(s / 60)}:${String(s % 60).padStart(2, "0")}`;
+};
 
-  // resolve only once the player is ready — before onReady, methods like
-  // seekTo/playVideo don't exist on the instance yet
+export async function createClipPlayer({ mountId, youtube, lines, captionEl, controlsEl, onTime, start = 0, end = null }) {
+  await loadApi();
+  const state = { start, end, player: null, scrubbing: false };
+
   await new Promise((ready) => {
     state.player = new window.YT.Player(mountId, {
       videoId: youtube,
       playerVars: {
         rel: 0, modestbranding: 1, cc_load_policy: 1, playsinline: 1,
-        start: Math.floor(start),
+        controls: 0, iv_load_policy: 3, start: Math.floor(start),
       },
       events: { onReady: ready },
     });
   });
 
+  // control bar
+  let playBtn, scrub, timeLabel;
+  if (controlsEl) {
+    controlsEl.innerHTML = `
+      <button class="play-btn" title="Play / pause clip">▶</button>
+      <input class="scrub" type="range" step="0.1" title="Seek within the clip">
+      <span class="time-label"></span>`;
+    playBtn = controlsEl.querySelector(".play-btn");
+    scrub = controlsEl.querySelector(".scrub");
+    timeLabel = controlsEl.querySelector(".time-label");
+    playBtn.addEventListener("click", () => {
+      const p = state.player;
+      if (p.getPlayerState() === 1) p.pauseVideo();
+      else {
+        const t = p.getCurrentTime();
+        if (state.end != null && (t < state.start - 0.5 || t >= state.end - 0.1)) p.seekTo(state.start, true);
+        p.playVideo();
+      }
+    });
+    scrub.addEventListener("input", () => {
+      state.scrubbing = true;
+      state.player.seekTo(parseFloat(scrub.value), true);
+    });
+    scrub.addEventListener("change", () => { state.scrubbing = false; });
+  }
+
   const dialog = lines.filter((l) => l[2] === "dialog");
   function lineAt(t) {
-    // last dialog line whose start <= t and end+0.3 >= t
     let hit = null;
     for (const l of dialog) {
       if (l[0] <= t && t <= l[1] + 0.3) hit = l;
@@ -45,26 +74,38 @@ export async function createClipPlayer({ mountId, youtube, lines, captionEl, onT
     return hit;
   }
 
+  function syncControls() {
+    if (!controlsEl || state.end == null) return;
+    scrub.min = state.start;
+    scrub.max = state.end;
+    timeLabel.textContent = fmt(state.end - state.start) + "s";
+  }
+
   function tick() {
     const p = state.player;
     if (!p?.getCurrentTime) return;
     const t = p.getCurrentTime();
+    const playing = p.getPlayerState?.() === 1;
     if (captionEl) {
       const l = lineAt(t);
       captionEl.innerHTML = l
         ? `${l[3] ? `<span class="speaker">${l[3]}:</span> ` : ""}${escapeHtml(l[4])}`
         : "";
     }
-    if (state.loopStop && state.end != null && t >= state.end && p.getPlayerState?.() === 1) {
-      p.pauseVideo();
+    if (controlsEl) {
+      playBtn.textContent = playing ? "❚❚" : "▶";
+      if (!state.scrubbing) scrub.value = Math.min(Math.max(t, state.start), state.end ?? t);
+      timeLabel.textContent = `${fmt(Math.max(0, t - state.start))} / ${fmt((state.end ?? t) - state.start)}`;
     }
+    if (state.end != null && playing && t >= state.end && !state.scrubbing) p.pauseVideo();
     onTime?.(t);
   }
-  state.timer = setInterval(tick, 250);
+  setInterval(tick, 250);
+  syncControls();
 
   return {
     raw: () => state.player,
-    setRange(start, end) { state.start = start; state.end = end; },
+    setRange(s, e) { state.start = s; state.end = e; syncControls(); },
     playClip() {
       state.player.seekTo(state.start, true);
       state.player.playVideo();
@@ -73,7 +114,6 @@ export async function createClipPlayer({ mountId, youtube, lines, captionEl, onT
       state.player.seekTo(t, true);
       if (play) state.player.playVideo();
     },
-    setLoopStop(v) { state.loopStop = v; },
   };
 }
 

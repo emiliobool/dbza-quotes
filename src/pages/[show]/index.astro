@@ -1,7 +1,7 @@
 ---
 import Base from "../../layouts/Base.astro";
 import site from "../../gen/site.json";
-import { fmtTime } from "../../lib/util.js";
+import { fmtTime, ytThumb } from "../../lib/util.js";
 
 export function getStaticPaths() {
   return site.shows.map((s) => ({ params: { show: s.id } }));
@@ -16,26 +16,32 @@ const clipCount = Object.fromEntries(
 );
 ---
 
-<Base title={`${showMeta.title} — episodes & transcripts`}>
+<Base title={`${showMeta.title} — episodes & transcripts`} wide>
   <h1>{showMeta.title}</h1>
-  <p class="meta">
-    {episodes.length} episodes · {movies.length} movies & specials — every transcript searchable,
-    every line linkable. Video plays on <a href={`https://www.youtube.com/playlist?list=${showMeta.sources[0].playlist}`}>TeamFourStar's YouTube</a>.
-  </p>
 
   <h2>Episodes</h2>
-  {episodes.map((m) => (
-    <div class="card">
-      <a href={`/${show}/${m.id}/`}><strong>{m.title}</strong></a>
-      <span class="meta"> · {fmtTime(m.duration)}{clipCount[m.id] ? ` · ${clipCount[m.id]} clips` : ""}</span>
-    </div>
-  ))}
+  <div class="clip-grid">
+    {episodes.map((m) => (
+      <a class="clip-card" href={`/${show}/${m.id}/`}>
+        <img loading="lazy" src={ytThumb(m.youtube, "mqdefault")} alt={m.title} />
+        <div class="pad">
+          <div class="title">{m.title}</div>
+          <div class="meta">{fmtTime(m.duration)}{clipCount[m.id] ? ` · ${clipCount[m.id]} quotes` : ""}</div>
+        </div>
+      </a>
+    ))}
+  </div>
 
   <h2>Movies & specials</h2>
-  {movies.map((m) => (
-    <div class="card">
-      <a href={`/${show}/${m.id}/`}><strong>{m.title}</strong></a>
-      <span class="meta"> · {fmtTime(m.duration)}{clipCount[m.id] ? ` · ${clipCount[m.id]} clips` : ""}</span>
-    </div>
-  ))}
+  <div class="clip-grid">
+    {movies.map((m) => (
+      <a class="clip-card" href={`/${show}/${m.id}/`}>
+        <img loading="lazy" src={ytThumb(m.youtube, "mqdefault")} alt={m.title} />
+        <div class="pad">
+          <div class="title">{m.title}</div>
+          <div class="meta">{fmtTime(m.duration)}{clipCount[m.id] ? ` · ${clipCount[m.id]} quotes` : ""}</div>
+        </div>
+      </a>
+    ))}
+  </div>
 </Base>

@@ -12,9 +12,9 @@ const nLines = null; // shown client-side
   <div id="results"></div>
 
   <div id="home-extra">
-    <h2>Popular clips</h2>
-    <p class="meta">{nClips} curated clips mined from a decade of r/TeamFourStar favorites. <a href="/browse/">Browse the catalog →</a></p>
+    <h2>Popular quotes</h2>
     <div class="clip-grid" id="top-clips"></div>
+    <p class="meta"><a href="/quotes/">All {nClips} quotes →</a></p>
   </div>
   <div class="toast" id="toast"></div>
 </Base>
@@ -73,7 +73,7 @@ const nLines = null; // shown client-side
     let html = "";
     for (const c of clipHits) {
       html += `<a class="card" style="display:block;color:inherit" href="/clip/dbza/${c.docId}/">
-        <span class="badge">catalog</span> <strong>${esc(c.title)}</strong>
+        <span class="badge">quote</span> <strong>${esc(c.title)}</strong>
         <div class="quote-line"><span class="speaker">${esc(c.speaker || "")}</span> ${hl(c.quote, q)}</div>
         <div class="meta">${esc(mediaLabel(media[c.media]))}</div></a>`;
     }
@@ -101,11 +101,11 @@ const nLines = null; // shown client-side
   const initial = new URL(location).searchParams.get("q");
   if (initial) { input.value = initial; render(initial); }
 
-  // top clips on the home view
+  // top quotes on the home view
   const top = [...clips].sort((a, b) => (b.signal || 0) - (a.signal || 0)).slice(0, 6);
   $("#top-clips").innerHTML = top.map((c) => `
-    <a class="clip-card" href="/clip/dbza/${c.id}/">
-      <img loading="lazy" src="https://i.ytimg.com/vi/${media[c.media]?.youtube}/mqdefault.jpg" alt="">
+    <a class="clip-card" href="/clip/dbza/${c.id}/" title="${esc(c.quote)}">
+      <img loading="lazy" src="${c.image ?? `https://i.ytimg.com/vi/${media[c.media]?.youtube}/mqdefault.jpg`}" alt="${esc(c.quote)}">
       <div class="pad"><div class="title">${esc(c.title)}</div>
       <div class="meta">${esc(c.speaker || "")} · ${esc(mediaLabel(media[c.media]))}</div></div>
     </a>`).join("");

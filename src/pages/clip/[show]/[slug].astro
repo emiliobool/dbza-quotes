@@ -1,7 +1,7 @@
 ---
 import Base from "../../../layouts/Base.astro";
 import site from "../../../gen/site.json";
-import { fmtTime, ytThumb, ytLink, mediaLabel, clipUrl } from "../../../lib/util.js";
+import { fmtTime, ytThumb, mediaLabel, clipUrl } from "../../../lib/util.js";
 
 export function getStaticPaths() {
   return site.clips
@@ -16,93 +16,88 @@ const transcripts = import.meta.glob("../../../../content/transcripts/**/*.json"
 const t = transcripts[`../../../../content/transcripts/${show}/${clip.media}.json`];
 const inRange = (l) => l.end > clip.start && l.start < clip.end && l.kind === "dialog";
 const quoteLines = t.lines.filter(inRange);
-const first = t.lines.findIndex((l) => inRange(l));
-const ctx = first === -1 ? [] : t.lines.slice(Math.max(0, first - 4), first + quoteLines.length + 4);
+const first = t.lines.findIndex(inRange);
+const last = first === -1 ? 0 : t.lines.findLastIndex(inRange);
+const ctx = first === -1 ? [] : t.lines.slice(Math.max(0, first - 12), Math.min(t.lines.length, last + 13));
 
 const others = site.clips
   .filter((c) => c.status === "published" && c.media === clip.media && c.id !== clip.id)
   .slice(0, 6);
-const desc = quoteLines.map((l) => (l.speaker ? `${l.speaker}: ${l.text}` : l.text)).join(" ").slice(0, 280);
+const quoteText = quoteLines.map((l) => (l.speaker ? `${l.speaker}: ${l.text}` : l.text)).join("\n");
+const desc = quoteText.replaceAll("\n", " ").slice(0, 280);
+const ogImage = clip.image ? new URL(clip.image, Astro.site).href : ytThumb(m.youtube);
 ---
 
-<Base
-  title={`"${clip.title}" — ${mediaLabel(m)} | DBZA Quotes`}
-  description={desc || clip.quote}
-  ogImage={ytThumb(m.youtube)}
-  ogType="video.other"
->
-  <p class="meta"><a href="/browse/">← Catalog</a></p>
-  <h1>“{clip.title}”</h1>
-  <p class="meta">
-    {clip.speaker && <span class="speaker">{clip.speaker}</span>} · {mediaLabel(m)} ·
-    {fmtTime(clip.start)} · {Math.round(clip.end - clip.start)}s
+<Base title={`"${clip.title}" — ${mediaLabel(m)} | DBZA Quotes`} description={desc || clip.quote} ogImage={ogImage} ogType="video.other" wide>
+  <h1 style="margin-top:0">“{clip.title}”</h1>
+  <p class="meta" style="margin-top:-0.5rem">
+    {clip.speaker && <span class="speaker">{clip.speaker}</span>}
+    · <a href={`/${show}/${clip.media}/`} title="Episode page & full transcript">{mediaLabel(m)}</a>
+    · <span title="Start time in the episode">{fmtTime(clip.start)}</span>
   </p>
 
-  <div class="player-wrap"><div id="yt-player"></div></div>
-  <div class="caption-bar" id="caption"></div>
+  <div class="clip-layout">
+    <div>
+      <div class="player-wrap"><div id="yt-player"></div></div>
+      <div class="clip-controls" id="controls"></div>
+      <div class="caption-bar" id="caption"></div>
 
-  <div class="btn-row">
-    <button class="btn primary" id="play-clip">▶ Play clip</button>
-    <button class="btn" id="copy-link">Copy link</button>
-    <button class="btn" id="copy-yt">Copy YouTube link</button>
-    <button class="btn" id="copy-quote">Copy quote</button>
-    <a class="btn" href={clipUrl(show, clip.media, clip.start, clip.end)}>Open in editor</a>
-  </div>
-
-  <div class="card">
-    {quoteLines.map((l) => (
-      <div class="quote-line">
-        {l.speaker && <span class="speaker">{l.speaker}: </span>}{l.text}
+      <div class="btn-row">
+        <button class="btn" id="copy-link" title="Copy this page's link">Link</button>
+        <button class="btn" id="copy-yt" title="Copy a YouTube link at this timestamp — plays inline on Discord">YouTube</button>
+        <button class="btn" id="copy-quote" title="Copy the dialog as text">Quote</button>
+        <a class="btn" href={clipUrl(show, clip.media, clip.start, clip.end)} title="Adjust the range, save, or remix">Edit</a>
       </div>
-    ))}
-  </div>
 
-  <h2>In context</h2>
-  <div class="transcript card">
-    {ctx.map((l) => (
-      <div class={`line ${l.kind} ${inRange(l) ? "in-range" : ""}`} data-t={l.start}>
-        <span class="tstamp">{fmtTime(l.start)}</span>
-        <div class="text">
-          {l.kind === "dialog" ? (
-            <>{l.speaker && <span class="speaker">{l.speaker}: </span>}{l.text}</>
-          ) : (
-            <>[{l.text}]</>
-          )}
+      {clip.images && (
+        <div class="variant-strip">
+          {clip.images.map((img) => (
+            <a href={img.url} download={`${clip.id}${img.id === "default" ? "" : "-" + img.id}.jpg`} title="Download image">
+              <img src={img.url} alt={clip.quote} loading="lazy" />
+            </a>
+          ))}
         </div>
-      </div>
-    ))}
-  </div>
-  <p class="meta">
-    <a href={`/${show}/${clip.media}/#L${first === -1 ? 0 : first}`}>Full transcript →</a> ·
-    <a href={`/?q=${encodeURIComponent(clip.quote.split(" ").slice(0, 4).join(" "))}`}>Similar quotes →</a>
-  </p>
+      )}
 
-  {others.length > 0 && (
-    <>
-      <h2>More from this episode</h2>
-      <div class="clip-grid">
-        {others.map((c) => (
-          <a class="clip-card" href={`/clip/${show}/${c.id}/`}>
-            <div class="pad">
-              <div class="title">{c.title}</div>
-              <div class="meta">{c.speaker} · {fmtTime(c.start)}</div>
-            </div>
-          </a>
-        ))}
-      </div>
-    </>
-  )}
+      {others.length > 0 && (
+        <div class="clip-grid" style="margin-top:1.2rem">
+          {others.map((c) => (
+            <a class="clip-card" href={`/clip/${show}/${c.id}/`} title={c.quote}>
+              {c.image && <img loading="lazy" src={c.image} alt={c.quote} />}
+              <div class="pad">
+                <div class="title">{c.title}</div>
+                <div class="meta">{c.speaker} · {fmtTime(c.start)}</div>
+              </div>
+            </a>
+          ))}
+        </div>
+      )}
+    </div>
+
+    <div class="transcript card dialog-panel" id="dialog" title="Click a line to jump there">
+      {ctx.map((l) => (
+        <div class={`line ${l.kind} ${inRange(l) ? "in-range" : ""}`} data-t={l.start} data-e={l.end}>
+          <span class="tstamp">{fmtTime(l.start)}</span>
+          <div class="text">
+            {l.kind === "dialog" ? (
+              <>{l.speaker && <span class="speaker">{l.speaker}: </span>}{l.text}</>
+            ) : (
+              <>[{l.text}]</>
+            )}
+          </div>
+        </div>
+      ))}
+      <p class="meta" style="padding:0.3rem 0.5rem">
+        <a href={`/${show}/${clip.media}/#L${Math.max(0, first)}`}>Full transcript →</a>
+      </p>
+    </div>
+  </div>
+
   <div class="toast" id="toast"></div>
   <script
     type="application/json"
     id="clip-cfg"
-    set:html={JSON.stringify({
-      show,
-      media: clip.media,
-      start: clip.start,
-      end: clip.end,
-      quoteText: quoteLines.map((l) => (l.speaker ? `${l.speaker}: ${l.text}` : l.text)).join("\n"),
-    })}
+    set:html={JSON.stringify({ show, media: clip.media, start: clip.start, end: clip.end, quoteText })}
   />
 </Base>
 
@@ -111,15 +106,28 @@ const desc = quoteLines.map((l) => (l.speaker ? `${l.speaker}: ${l.text}` : l.te
 
   const cfg = JSON.parse(document.getElementById("clip-cfg").textContent);
   const data = await fetch(`/data/transcripts/${cfg.show}/${cfg.media}.json`).then((r) => r.json());
+  const lineEls = [...document.querySelectorAll("#dialog .line")];
+
   const player = await createClipPlayer({
     mountId: "yt-player",
     youtube: data.youtube,
     lines: data.lines,
     captionEl: document.getElementById("caption"),
+    controlsEl: document.getElementById("controls"),
     start: cfg.start,
+    end: cfg.end,
+    onTime: (t) => {
+      for (const el of lineEls) {
+        const active = +el.dataset.t <= t && t <= +el.dataset.e + 0.3;
+        if (active && !el.classList.contains("active")) el.scrollIntoView({ block: "nearest" });
+        el.classList.toggle("active", active);
+      }
+    },
   });
-  player.setRange(cfg.start, cfg.end);
-  document.getElementById("play-clip").addEventListener("click", () => player.playClip());
+  document.getElementById("dialog").addEventListener("click", (e) => {
+    const el = e.target.closest(".line");
+    if (el) player.seek(parseFloat(el.dataset.t));
+  });
 
   const toast = (msg) => {
     const t = document.getElementById("toast");
@@ -131,8 +139,4 @@ const desc = quoteLines.map((l) => (l.speaker ? `${l.speaker}: ${l.text}` : l.te
   document.getElementById("copy-yt").addEventListener("click", () =>
     copy(`https://youtu.be/${data.youtube}?t=${Math.floor(cfg.start)}`, "YouTube link copied"));
   document.getElementById("copy-quote").addEventListener("click", () => copy(cfg.quoteText, "Quote copied"));
-
-  // seek from context lines
-  document.querySelectorAll(".transcript .line").forEach((el) =>
-    el.addEventListener("click", () => player.seek(parseFloat(el.dataset.t))));
 </script>

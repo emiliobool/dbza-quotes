@@ -5,4 +5,5 @@ export default defineConfig({
   site: "https://dbza-quotes.pages.dev",
   output: "static",
   build: { format: "directory" },
+  redirects: { "/browse/": "/quotes/" },
 });

@@ -9,19 +9,16 @@ const clips = site.clips
 const mediaById = Object.fromEntries(site.media.dbza.map((m) => [m.id, m]));
 ---
 
-<Base title="Clip catalog | DBZA Quotes" description={`${clips.length} curated DBZA moments, mined from a decade of fan favorites.`}>
-  <h1>Clip catalog</h1>
-  <p class="meta">
-    {clips.length} curated moments — seeded from the most-quoted lines in r/TeamFourStar history.
-    Missing one? Open it in the <a href="/">search</a>, adjust, and hit “Suggest for catalog”.
-  </p>
-  <input type="search" id="filter" placeholder="Filter by quote, character, episode…" autocomplete="off" />
+<Base title="Quotes | DBZA Quotes" description={`${clips.length} iconic DBZA moments with captioned frames.`} wide>
+  <h1>Quotes</h1>
+  <input type="search" id="filter" placeholder={`Filter ${clips.length} quotes…`} autocomplete="off" />
   <div class="clip-grid" id="grid" style="margin-top:1rem">
     {clips.map((c) => {
       const m = mediaById[c.media];
       return (
-        <a class="clip-card" href={`/clip/dbza/${c.id}/`} data-k={`${c.title} ${c.quote} ${c.speaker} ${mediaLabel(m)}`.toLowerCase()}>
-          <img loading="lazy" src={ytThumb(m.youtube, "mqdefault")} alt="" />
+        <a class="clip-card" href={`/clip/dbza/${c.id}/`} title={c.quote}
+          data-k={`${c.title} ${c.quote} ${c.speaker} ${mediaLabel(m)}`.toLowerCase()}>
+          <img loading="lazy" src={c.image ?? ytThumb(m.youtube, "mqdefault")} alt={c.quote} />
           <div class="pad">
             <div class="title">{c.title}</div>
             <div class="meta">{c.speaker} · {mediaLabel(m)} · {fmtTime(c.start)}</div>

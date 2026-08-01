@@ -4,6 +4,7 @@ const {
   description = "Search Dragon Ball Z Abridged dialog, link any moment, share clips.",
   ogImage = null,
   ogType = "website",
+  wide = false,
 } = Astro.props;
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
 ---
@@ -28,13 +29,13 @@ const canonical = new URL(Astro.url.pathname, Astro.site).href;
     <header class="site-header">
       <nav>
         <a href="/" class="brand">🐉 DBZA Quotes</a>
-        <a href="/browse/">Catalog</a>
+        <a href="/quotes/">Quotes</a>
         <a href="/dbza/">Episodes</a>
         <a href="/saved/">Saved</a>
         <a href="/about/">About</a>
       </nav>
     </header>
-    <main><slot /></main>
+    <main class:list={{ wide }}><slot /></main>
     <footer class="site-footer">
       Unofficial fan reference for <a href="https://teamfourstar.com">TeamFourStar</a>'s Dragon Ball
       Z Abridged. All video plays on YouTube. <a href="/about/">About / takedown</a>
@@ -65,6 +66,7 @@ const canonical = new URL(Astro.url.pathname, Astro.site).href;
   a { color: var(--accent2); text-decoration: none; }
   a:hover { text-decoration: underline; }
   main { max-width: 880px; margin: 0 auto; padding: 1.5rem 1rem 4rem; }
+  main.wide { max-width: 1150px; }
   h1 { font-size: 1.6rem; margin: 0.5rem 0 1rem; }
   h2 { font-size: 1.15rem; margin: 1.6rem 0 0.6rem; color: var(--accent); }
 
@@ -131,6 +133,34 @@ const canonical = new URL(Astro.url.pathname, Astro.site).href;
     border-radius: 99px; border: 1px solid var(--border); color: var(--fg-dim);
     vertical-align: middle;
   }
+  /* clip pages: player + dialog sidebar */
+  .clip-layout { display: grid; gap: 1.1rem; align-items: start; }
+  @media (min-width: 950px) {
+    .clip-layout { grid-template-columns: minmax(0, 1fr) 340px; }
+    .dialog-panel { position: sticky; top: 1rem; max-height: calc(100vh - 2rem); overflow-y: auto; }
+  }
+  .dialog-panel { padding: 0.4rem; }
+  .dialog-panel .line { cursor: pointer; }
+
+  /* custom player controls (range-scoped) */
+  .clip-controls {
+    display: flex; align-items: center; gap: 0.7rem;
+    background: var(--bg2); border: 1px solid var(--border);
+    border-radius: var(--radius); padding: 0.45rem 0.8rem; margin-top: 0.5rem;
+  }
+  .clip-controls .play-btn {
+    background: var(--accent); color: #14161a; border: 0; border-radius: 8px;
+    width: 2.4rem; height: 2rem; font-size: 0.95rem; cursor: pointer; flex: none;
+  }
+  .clip-controls .scrub { flex: 1; accent-color: var(--accent); cursor: pointer; }
+  .clip-controls .time-label { color: var(--fg-dim); font-size: 0.85rem; font-variant-numeric: tabular-nums; flex: none; }
+
+  /* quote image variants */
+  .variant-strip { display: flex; gap: 0.6rem; flex-wrap: wrap; margin: 0.8rem 0; }
+  .variant-strip a { display: block; }
+  .variant-strip img { height: 92px; border-radius: 8px; border: 1px solid var(--border); display: block; }
+  .variant-strip img:hover { border-color: var(--accent2); }
+
   .toast {
     position: fixed; bottom: 1.2rem; left: 50%; transform: translateX(-50%);
     background: var(--accent); color: #14161a; font-weight: 600;

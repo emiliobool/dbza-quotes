@@ -15,51 +15,48 @@ const label = mediaLabel(m);
 
 <Base
   title={`Clip — ${label} | DBZA Quotes`}
-  description={`A moment from ${label}. Watch on YouTube with synced captions, adjust the range, share the link.`}
+  description={`A moment from ${label}. Watch with synced captions, adjust the range, share the link.`}
   ogImage={ytThumb(m.youtube)}
   ogType="video.other"
+  wide
 >
-  <p class="meta"><a href={`/${show}/${item}/`}>← {label}</a></p>
+  <p class="meta" style="margin:0 0 0.6rem"><a href={`/${show}/${item}/`}>← {label}</a></p>
 
-  <div class="player-wrap"><div id="yt-player"></div></div>
-  <div class="caption-bar" id="caption"></div>
+  <div class="clip-layout">
+    <div>
+      <div class="player-wrap"><div id="yt-player"></div></div>
+      <div class="clip-controls" id="controls"></div>
+      <div class="caption-bar" id="caption"></div>
 
-  <div class="btn-row">
-    <button class="btn primary" id="play-clip">▶ Play clip</button>
-    <span class="meta" id="range-label"></span>
-  </div>
+      <div class="btn-row">
+        <button class="btn" id="copy-link" title="Copy this page's link — it encodes the current range">Link</button>
+        <button class="btn" id="copy-yt" title="Copy a YouTube link at this timestamp — plays inline on Discord">YouTube</button>
+        <button class="btn" id="copy-quote" title="Copy the selected dialog as text">Quote</button>
+        <button class="btn" id="save-clip" title="Save on this device">☆</button>
+        <button class="btn" id="submit-clip" title="Suggest this clip for the public quotes page">Suggest</button>
+      </div>
 
-  <div class="card" id="quote-box"></div>
-
-  <div class="btn-row">
-    <button class="btn" id="copy-link">Copy link</button>
-    <button class="btn" id="copy-yt">Copy YouTube link</button>
-    <button class="btn" id="copy-quote">Copy quote</button>
-    <button class="btn" id="save-clip">☆ Save</button>
-    <button class="btn" id="submit-clip">Suggest for catalog</button>
-  </div>
-
-  <details class="card">
-    <summary>Adjust clip range</summary>
-    <div class="btn-row" style="margin-top:0.6rem">
-      <span class="meta" style="width:4rem">Start</span>
-      <button class="btn" data-adj="start-prev">⇤ prev line</button>
-      <button class="btn" data-adj="start-minus">−0.5s</button>
-      <button class="btn" data-adj="start-plus">+0.5s</button>
-      <button class="btn" data-adj="start-next">next line ⇥</button>
+      <details class="card">
+        <summary title="Fine-tune where the clip starts and ends">Adjust range <span class="meta" id="range-label"></span></summary>
+        <div class="btn-row" style="margin-top:0.6rem">
+          <span class="meta" style="width:3.2rem">Start</span>
+          <button class="btn" data-adj="start-prev" title="Snap to previous line">⇤</button>
+          <button class="btn" data-adj="start-minus" title="Start 0.5s earlier">−0.5</button>
+          <button class="btn" data-adj="start-plus" title="Start 0.5s later">+0.5</button>
+          <button class="btn" data-adj="start-next" title="Snap to next line">⇥</button>
+        </div>
+        <div class="btn-row">
+          <span class="meta" style="width:3.2rem">End</span>
+          <button class="btn" data-adj="end-prev" title="Snap to previous line">⇤</button>
+          <button class="btn" data-adj="end-minus" title="End 0.5s earlier">−0.5</button>
+          <button class="btn" data-adj="end-plus" title="End 0.5s later">+0.5</button>
+          <button class="btn" data-adj="end-next" title="Snap to next line">⇥</button>
+        </div>
+      </details>
     </div>
-    <div class="btn-row">
-      <span class="meta" style="width:4rem">End</span>
-      <button class="btn" data-adj="end-prev">⇤ prev line</button>
-      <button class="btn" data-adj="end-minus">−0.5s</button>
-      <button class="btn" data-adj="end-plus">+0.5s</button>
-      <button class="btn" data-adj="end-next">next line ⇥</button>
-    </div>
-    <p class="meta">The link in your address bar always reflects the current range — copy any time.</p>
-  </details>
 
-  <h2>Dialog around this moment</h2>
-  <div class="transcript card" id="context"></div>
+    <div class="transcript card dialog-panel" id="dialog" title="Click a line to jump there"></div>
+  </div>
 
   <div class="toast" id="toast"></div>
 </Base>
@@ -88,17 +85,26 @@ const label = mediaLabel(m);
     youtube: data.youtube,
     lines,
     captionEl: $("#caption"),
-    onTime: (t) => highlightActive(t),
+    controlsEl: $("#controls"),
     start,
+    end,
+    onTime: (t) => {
+      document.querySelectorAll("#dialog .line").forEach((el) => {
+        const l = lines[+el.dataset.i];
+        const active = l[0] <= t && t <= l[1] + 0.3;
+        if (active && !el.classList.contains("active")) el.scrollIntoView({ block: "nearest" });
+        el.classList.toggle("active", active);
+      });
+    },
   });
 
   function inRange(l) { return l[1] > start && l[0] < end; }
 
-  function renderContext() {
+  function renderDialog() {
     const first = lines.findIndex(inRange);
-    const lo = Math.max(0, (first === -1 ? 0 : first) - 6);
-    const hi = Math.min(lines.length, (first === -1 ? 0 : lines.findLastIndex(inRange)) + 7);
-    $("#context").innerHTML = lines.slice(lo, hi).map((l, k) => {
+    const lo = Math.max(0, (first === -1 ? 0 : first) - 12);
+    const hi = Math.min(lines.length, (first === -1 ? 0 : lines.findLastIndex(inRange)) + 13);
+    $("#dialog").innerHTML = lines.slice(lo, hi).map((l, k) => {
       const i = lo + k;
       const cls = ["line", l[2], inRange(l) ? "in-range" : ""].join(" ");
       const body = l[2] === "dialog"
@@ -107,36 +113,24 @@ const label = mediaLabel(m);
       return `<div class="${cls}" data-i="${i}" data-t="${l[0]}">
         <span class="tstamp">${fmtTime(l[0])}</span><div class="text">${body}</div></div>`;
     }).join("");
-    $("#quote-box").innerHTML = lines.filter(inRange).filter((l) => l[2] === "dialog").map((l) =>
-      `<div class="quote-line">${l[3] ? `<span class="speaker">${escapeHtml(l[3])}:</span> ` : ""}${escapeHtml(l[4])}</div>`
-    ).join("") || `<span class="dim">No dialog in this range.</span>`;
-  }
-
-  function highlightActive(t) {
-    document.querySelectorAll("#context .line").forEach((el) => {
-      const lt = parseFloat(el.dataset.t);
-      const l = lines[+el.dataset.i];
-      el.classList.toggle("active", lt <= t && t <= l[1] + 0.3);
-    });
   }
 
   function sync() {
     end = Math.max(start + 0.5, end);
     player.setRange(start, end);
-    $("#range-label").textContent = `${fmtTime(start)} → ${fmtTime(end)} (${(end - start).toFixed(1)}s)`;
+    $("#range-label").textContent = `${fmtTime(start)} → ${fmtTime(end)}`;
     const u = new URL(location);
     u.searchParams.set("t", String(Math.round(start * 10) / 10));
     u.searchParams.set("d", String(Math.round((end - start) * 10) / 10));
     history.replaceState(null, "", u);
-    renderContext();
+    renderDialog();
   }
   sync();
 
-  $("#context").addEventListener("click", (e) => {
+  $("#dialog").addEventListener("click", (e) => {
     const el = e.target.closest(".line");
     if (el) player.seek(parseFloat(el.dataset.t));
   });
-  $("#play-clip").addEventListener("click", () => player.playClip());
 
   const snap = (arr, t, dir) => {
     const c = dir < 0 ? arr.filter((x) => x < t - 0.05) : arr.filter((x) => x > t + 0.05);
@@ -156,7 +150,6 @@ const label = mediaLabel(m);
     })
   );
 
-  // actions
   const toast = (msg) => {
     const t = $("#toast");
     t.textContent = msg; t.classList.add("show");
@@ -169,7 +162,7 @@ const label = mediaLabel(m);
 
   $("#copy-link").addEventListener("click", () => copy(location.href, "Link copied"));
   $("#copy-yt").addEventListener("click", () =>
-    copy(`https://youtu.be/${data.youtube}?t=${Math.floor(start)}`, "YouTube link copied — plays inline on Discord"));
+    copy(`https://youtu.be/${data.youtube}?t=${Math.floor(start)}`, "YouTube link copied"));
   $("#copy-quote").addEventListener("click", () => copy(quoteText(), "Quote copied"));
 
   $("#save-clip").addEventListener("click", () => {
@@ -181,7 +174,7 @@ const label = mediaLabel(m);
   });
 
   $("#submit-clip").addEventListener("click", async () => {
-    const note = prompt("Suggest this clip for the public catalog?\nOptional note (why it's great, a title):") ;
+    const note = prompt("Suggest this clip for the quotes page?\nOptional note:");
     if (note === null) return;
     try {
       const r = await fetch("/api/submit", {
