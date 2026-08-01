@@ -199,13 +199,15 @@ export async function initQuoteNav(cfg) {
   function loadFrame(t) {
     const url = frameUrl(cfg.item, Math.min(t, cfg.duration ?? t));
     if (!frameCache.has(url)) {
-      frameCache.set(url, new Promise((res, rej) => {
+      const p = new Promise((res, rej) => {
         const im = new Image();
         im.crossOrigin = "anonymous";
         im.onload = () => res(im);
         im.onerror = rej;
         im.src = url;
-      }));
+      });
+      p.catch(() => frameCache.delete(url)); // don't memoize failures
+      frameCache.set(url, p);
     }
     return frameCache.get(url);
   }
