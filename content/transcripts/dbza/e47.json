@@ -1,0 +1,1875 @@
+{
+ "item": "e47",
+ "show": "dbza",
+ "youtube": "IomiOdc62HQ",
+ "title": "Episode 43",
+ "duration": 564,
+ "lines": [
+  {
+   "i": 0,
+   "start": 14.2,
+   "end": 16.2,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Winds blowing through town"
+  },
+  {
+   "i": 1,
+   "start": 21.22,
+   "end": 24.2,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Mysterious mutant moans menacingly"
+  },
+  {
+   "i": 2,
+   "start": 25.26,
+   "end": 27.38,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "What the hell is going on here?"
+  },
+  {
+   "i": 3,
+   "start": 27.38,
+   "end": 29.06,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "Ohohohohoho..."
+  },
+  {
+   "i": 4,
+   "start": 29.06,
+   "end": 32.82,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "Let's answer your question... with another question:"
+  },
+  {
+   "i": 5,
+   "start": 32.96,
+   "end": 33.62,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Yeah?"
+  },
+  {
+   "i": 6,
+   "start": 33.98,
+   "end": 34.68,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "And what's tha--"
+  },
+  {
+   "i": 7,
+   "start": 34.68,
+   "end": 36.52,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "WANNA SEE ME DRINK THIS GUY?!"
+  },
+  {
+   "i": 8,
+   "start": 36.52,
+   "end": 37.02,
+   "kind": "dialog",
+   "speaker": "Man",
+   "text": "AHHH--!"
+  },
+  {
+   "i": 9,
+   "start": 37.02,
+   "end": 38.74,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"Cha-La Head-Cha-La\" ♫"
+  },
+  {
+   "i": 10,
+   "start": 38.74,
+   "end": 41.52,
+   "kind": "dialog",
+   "speaker": "Man",
+   "text": "♫ CHA-LA HEAD-CHA-LA ♫"
+  },
+  {
+   "i": 11,
+   "start": 42.28,
+   "end": 46.0,
+   "kind": "dialog",
+   "speaker": "Man",
+   "text": "♫ Egao urutora zetto de ♫ (With a smile that’s Ultra-Z)"
+  },
+  {
+   "i": 12,
+   "start": 46.0,
+   "end": 49.3,
+   "kind": "dialog",
+   "speaker": "Man",
+   "text": "♫ Kyô mo ai-yai-yai-yai-yai~ ♫ (Even today is ai-yai-yai-yai-yai~)"
+  },
+  {
+   "i": 13,
+   "start": 49.3,
+   "end": 51.1,
+   "kind": "dialog",
+   "speaker": "Man",
+   "text": "♫ Sparking! [fading echo] ♫"
+  },
+  {
+   "i": 14,
+   "start": 57.54,
+   "end": 60.86,
+   "kind": "dialog",
+   "speaker": "Man",
+   "text": "-AHHHHHHhhhhhhh-"
+  },
+  {
+   "i": 15,
+   "start": 60.86,
+   "end": 65.3,
+   "kind": "dialog",
+   "speaker": "Man",
+   "text": "-ughhhhhhhhhhh..."
+  },
+  {
+   "i": 16,
+   "start": 62.68,
+   "end": 65.3,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'Oh... oh God, I, I think I'm gonna *puke*!'"
+  },
+  {
+   "i": 17,
+   "start": 65.3,
+   "end": 67.0,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'You CAN'T PUKE! You're in my--'"
+  },
+  {
+   "i": 18,
+   "start": 67.0,
+   "end": 67.94,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "(Throws up)"
+  },
+  {
+   "i": 19,
+   "start": 67.94,
+   "end": 70.02,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "'Oh, good Lord, it's everywhere!!'"
+  },
+  {
+   "i": 20,
+   "start": 70.58,
+   "end": 71.9,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "Ahhhhh..."
+  },
+  {
+   "i": 21,
+   "start": 72.48,
+   "end": 76.1,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "So Piccolo... What brings you to myyy neighborhood?"
+  },
+  {
+   "i": 22,
+   "start": 76.46,
+   "end": 78.22,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "I sensed a disturbance."
+  },
+  {
+   "i": 23,
+   "start": 78.22,
+   "end": 79.84,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "WELL I AM pretty disturbing!"
+  },
+  {
+   "i": 24,
+   "start": 80.1,
+   "end": 81.9,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "Remember that time I drank that guy?"
+  },
+  {
+   "i": 25,
+   "start": 82.02,
+   "end": 83.32,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "THAT was f*cking weird."
+  },
+  {
+   "i": 26,
+   "start": 83.48,
+   "end": 86.62,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "So I take it you're the one who exterminated this entire city then."
+  },
+  {
+   "i": 27,
+   "start": 86.62,
+   "end": 88.36,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "Oh no, no, that was another guy."
+  },
+  {
+   "i": 28,
+   "start": 88.36,
+   "end": 90.56,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "His name was, \"Shit Sherlock\", first name, \"No\"."
+  },
+  {
+   "i": 29,
+   "start": 90.72,
+   "end": 92.58,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Why...? JUST WHY?!"
+  },
+  {
+   "i": 30,
+   "start": 92.7,
+   "end": 94.22,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "Well... three reasons:"
+  },
+  {
+   "i": 31,
+   "start": 94.46,
+   "end": 98.6,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "First: I was asleep, for like, four years, and I am understandably hungry."
+  },
+  {
+   "i": 32,
+   "start": 98.88,
+   "end": 104.0,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "Two: There's nothing more satisfying than the rush I get from watching a person disappear."
+  },
+  {
+   "i": 33,
+   "start": 104.2,
+   "end": 107.36,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "And three - and I need you to pay attention on this one:"
+  },
+  {
+   "i": 34,
+   "start": 107.56,
+   "end": 109.98,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "HEEEEEEEEE YAAAAAAAAAA!"
+  },
+  {
+   "i": 35,
+   "start": 110.44,
+   "end": 111.26,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Huh!?"
+  },
+  {
+   "i": 36,
+   "start": 111.38,
+   "end": 113.86,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Why does it feel like my Dad is fighting Mr. Piccolo?"
+  },
+  {
+   "i": 37,
+   "start": 114.42,
+   "end": 116.32,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "And Vegeta is fighting Mr. Piccolo?"
+  },
+  {
+   "i": 38,
+   "start": 117.04,
+   "end": 120.02,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "And Mr. Piccolo is fighting... Mr. Piccolo?"
+  },
+  {
+   "i": 39,
+   "start": 120.14,
+   "end": 122.32,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "That's weird. It even feels like I'm out there."
+  },
+  {
+   "i": 40,
+   "start": 122.32,
+   "end": 125.66,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "It feels like everyone we know is fighting Mr. Piccolo."
+  },
+  {
+   "i": 41,
+   "start": 125.66,
+   "end": 126.86,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "'Cept for Yamcha."
+  },
+  {
+   "i": 42,
+   "start": 126.86,
+   "end": 128.84,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Well duh, that's because I'm right here."
+  },
+  {
+   "i": 43,
+   "start": 129.78,
+   "end": 131.6,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Yeah, that's gotta be it..."
+  },
+  {
+   "i": 44,
+   "start": 136.34,
+   "end": 137.36,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "Ahhhh..."
+  },
+  {
+   "i": 45,
+   "start": 137.36,
+   "end": 138.6,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "and threeee:"
+  },
+  {
+   "i": 46,
+   "start": 138.94,
+   "end": 142.92,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "*That* is how I power the beautiful temple that is my body."
+  },
+  {
+   "i": 47,
+   "start": 143.24,
+   "end": 145.44,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "You.... You're a monster!"
+  },
+  {
+   "i": 48,
+   "start": 145.44,
+   "end": 147.0,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "\"Oh, I'm a monster!\""
+  },
+  {
+   "i": 49,
+   "start": 147.18,
+   "end": 149.42,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "I haven't heard that one screamed at me today."
+  },
+  {
+   "i": 50,
+   "start": 149.42,
+   "end": 150.44,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "Of all peop--"
+  },
+  {
+   "i": 51,
+   "start": 150.44,
+   "end": 150.94,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "PLAH!"
+  },
+  {
+   "i": 52,
+   "start": 152.82,
+   "end": 154.82,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "Oh, that is just EMBARRASSING!"
+  },
+  {
+   "i": 53,
+   "start": 154.82,
+   "end": 156.22,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "It's not even the right hole..."
+  },
+  {
+   "i": 54,
+   "start": 156.22,
+   "end": 160.84,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "As much as it disgusts me to admit... You and I have at least one thing in common."
+  },
+  {
+   "i": 55,
+   "start": 160.84,
+   "end": 162.22,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "More than you know..."
+  },
+  {
+   "i": 56,
+   "start": 162.22,
+   "end": 163.32,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "But continue."
+  },
+  {
+   "i": 57,
+   "start": 163.46,
+   "end": 166.44,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "We both get a significant power-up when we absorb someone."
+  },
+  {
+   "i": 58,
+   "start": 166.6,
+   "end": 167.56,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "Ominous!"
+  },
+  {
+   "i": 59,
+   "start": 167.76,
+   "end": 170.2,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "HRGHHHHHHHHH!"
+  },
+  {
+   "i": 60,
+   "start": 170.4,
+   "end": 172.48,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Harmonica is played"
+  },
+  {
+   "i": 61,
+   "start": 172.82,
+   "end": 174.6,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "I can't believe you screwed up the van..."
+  },
+  {
+   "i": 62,
+   "start": 174.66,
+   "end": 180.42,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Honestly, I don't know what you were expecting, I didn't even get my license before Dr. Gero went all \"Blade Runner\" on us."
+  },
+  {
+   "i": 63,
+   "start": 180.42,
+   "end": 181.64,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Excuses..."
+  },
+  {
+   "i": 64,
+   "start": 181.92,
+   "end": 183.1,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Hey, Sixteen!"
+  },
+  {
+   "i": 65,
+   "start": 183.1,
+   "end": 184.74,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "How's that tranny coming along?"
+  },
+  {
+   "i": 66,
+   "start": 184.76,
+   "end": 188.98,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "I don't believe the car identifies as either male or female..."
+  },
+  {
+   "i": 67,
+   "start": 190.44,
+   "end": 192.58,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "So... Whaddya think that explosion was?"
+  },
+  {
+   "i": 68,
+   "start": 192.58,
+   "end": 194.0,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Meh, who cares?"
+  },
+  {
+   "i": 69,
+   "start": 194.0,
+   "end": 196.38,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Probably just Vegeta throwing a hissy-fit or some--"
+  },
+  {
+   "i": 70,
+   "start": 196.38,
+   "end": 196.88,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "Wait!"
+  },
+  {
+   "i": 71,
+   "start": 197.06,
+   "end": 198.5,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "Did you mean the transmission?"
+  },
+  {
+   "i": 72,
+   "start": 199.16,
+   "end": 200.34,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "Because it's fixed."
+  },
+  {
+   "i": 73,
+   "start": 200.94,
+   "end": 203.0,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Android 16 starts the van"
+  },
+  {
+   "i": 74,
+   "start": 206.64,
+   "end": 207.28,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "OO-AH!"
+  },
+  {
+   "i": 75,
+   "start": 208.4,
+   "end": 209.76,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "'Oh, so he fused with Kami.'"
+  },
+  {
+   "i": 76,
+   "start": 210.26,
+   "end": 211.32,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "'So that's a thing...'"
+  },
+  {
+   "i": 77,
+   "start": 211.32,
+   "end": 212.3,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "AHHH!"
+  },
+  {
+   "i": 78,
+   "start": 212.3,
+   "end": 214.16,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "'Did you just SPIN-kick him?!'"
+  },
+  {
+   "i": 79,
+   "start": 214.16,
+   "end": 216.08,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'I know, right!? I've always wanted to do that!'"
+  },
+  {
+   "i": 80,
+   "start": 216.08,
+   "end": 217.48,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'Please don't do it again...'"
+  },
+  {
+   "i": 81,
+   "start": 217.48,
+   "end": 218.9,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'MY body, MY rules!'"
+  },
+  {
+   "i": 82,
+   "start": 219.36,
+   "end": 220.1,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'DAMMIT!'"
+  },
+  {
+   "i": 83,
+   "start": 220.38,
+   "end": 221.76,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "'Huh, faster than me.'"
+  },
+  {
+   "i": 84,
+   "start": 221.9,
+   "end": 223.54,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "'That could be a slight pain in the ass.'"
+  },
+  {
+   "i": 85,
+   "start": 223.7,
+   "end": 224.2,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "'But--'"
+  },
+  {
+   "i": 86,
+   "start": 224.2,
+   "end": 225.1,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "AH! MY ASS-BUTT!"
+  },
+  {
+   "i": 87,
+   "start": 225.42,
+   "end": 228.3,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "AHHHHHHHHHHHHH!"
+  },
+  {
+   "i": 88,
+   "start": 229.58,
+   "end": 230.94,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "Wanna see something cool?"
+  },
+  {
+   "i": 89,
+   "start": 230.94,
+   "end": 232.04,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "HYAAAAAAAAAAAH!"
+  },
+  {
+   "i": 90,
+   "start": 233.4,
+   "end": 235.3,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "Ahhhhhhhh."
+  },
+  {
+   "i": 91,
+   "start": 235.5,
+   "end": 236.82,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'What is he doing?'"
+  },
+  {
+   "i": 92,
+   "start": 236.82,
+   "end": 238.44,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "'That looks like your technique.'"
+  },
+  {
+   "i": 93,
+   "start": 238.44,
+   "end": 239.5,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'Well it's not!'"
+  },
+  {
+   "i": 94,
+   "start": 239.5,
+   "end": 241.06,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'He is doing the finger-thing.'"
+  },
+  {
+   "i": 95,
+   "start": 241.06,
+   "end": 242.66,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'So?! Goku does that when he telepor--'"
+  },
+  {
+   "i": 96,
+   "start": 242.66,
+   "end": 244.32,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "Makankōsappō!"
+  },
+  {
+   "i": 97,
+   "start": 244.32,
+   "end": 244.96,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'Oh crap!'"
+  },
+  {
+   "i": 98,
+   "start": 244.96,
+   "end": 246.52,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "'So *that's* how you pronounce it...'"
+  },
+  {
+   "i": 99,
+   "start": 246.78,
+   "end": 247.28,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "RAH!"
+  },
+  {
+   "i": 100,
+   "start": 250.08,
+   "end": 251.6,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "'...He's gonna kick me again, isn't he?'"
+  },
+  {
+   "i": 101,
+   "start": 259.16,
+   "end": 263.2,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "Alright, I'm going to need you to do me a solid and NOT kick me anymore."
+  },
+  {
+   "i": 102,
+   "start": 263.2,
+   "end": 267.56,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Start by telling me how you know my technique, and maybe I'll consider it..."
+  },
+  {
+   "i": 103,
+   "start": 267.72,
+   "end": 269.02,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "Well, what can I say?"
+  },
+  {
+   "i": 104,
+   "start": 269.34,
+   "end": 272.14,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "\"Imitation is the greatest form of flattery.\""
+  },
+  {
+   "i": 105,
+   "start": 272.36,
+   "end": 273.88,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "Speaking of which..."
+  },
+  {
+   "i": 106,
+   "start": 274.12,
+   "end": 276.14,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "Kaaaaaaaa...."
+  },
+  {
+   "i": 107,
+   "start": 276.14,
+   "end": 277.68,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'No! That's impossible!'"
+  },
+  {
+   "i": 108,
+   "start": 278.12,
+   "end": 280.6,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'The only one who knows that technique is Goku!'"
+  },
+  {
+   "i": 109,
+   "start": 280.6,
+   "end": 281.38,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "Meeeee...."
+  },
+  {
+   "i": 110,
+   "start": 281.38,
+   "end": 282.76,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'And Gohan...'"
+  },
+  {
+   "i": 111,
+   "start": 281.38,
+   "end": 282.76,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "Meeeee...."
+  },
+  {
+   "i": 112,
+   "start": 283.08,
+   "end": 285.32,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'Aaaand Master Roshi...'"
+  },
+  {
+   "i": 113,
+   "start": 283.08,
+   "end": 285.32,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "Haaaaaa...."
+  },
+  {
+   "i": 114,
+   "start": 285.32,
+   "end": 286.22,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'Aaand Krillin...'"
+  },
+  {
+   "i": 115,
+   "start": 286.38,
+   "end": 286.88,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "MEEEEE...."
+  },
+  {
+   "i": 116,
+   "start": 286.88,
+   "end": 287.78,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'Aaand Yamcha...'"
+  },
+  {
+   "i": 117,
+   "start": 286.88,
+   "end": 287.78,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "MEEEEE...."
+  },
+  {
+   "i": 118,
+   "start": 288.26,
+   "end": 290.82,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'And me that one time I tried to just to see if I coul--'"
+  },
+  {
+   "i": 119,
+   "start": 290.82,
+   "end": 293.5,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "HAAAAAAAAAA!"
+  },
+  {
+   "i": 120,
+   "start": 294.72,
+   "end": 295.42,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Dammit!"
+  },
+  {
+   "i": 121,
+   "start": 295.54,
+   "end": 299.76,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "* A duplicate Time Machine * A monster on the loose * And now an entire city gone missing!"
+  },
+  {
+   "i": 122,
+   "start": 300.16,
+   "end": 302.16,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "And we still don't know where the Androids are."
+  },
+  {
+   "i": 123,
+   "start": 302.32,
+   "end": 302.96,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I know, right?"
+  },
+  {
+   "i": 124,
+   "start": 302.96,
+   "end": 304.9,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "A toootal fuster-cluck."
+  },
+  {
+   "i": 125,
+   "start": 304.9,
+   "end": 305.4,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "AH!"
+  },
+  {
+   "i": 126,
+   "start": 305.76,
+   "end": 306.44,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "When did you--?"
+  },
+  {
+   "i": 127,
+   "start": 306.74,
+   "end": 308.04,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "I didn't even feel you!"
+  },
+  {
+   "i": 128,
+   "start": 308.12,
+   "end": 310.88,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I affectionately refer to it as \"Stealth-Mode\"!"
+  },
+  {
+   "i": 129,
+   "start": 311.08,
+   "end": 312.28,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "So! What're we looking at?"
+  },
+  {
+   "i": 130,
+   "start": 312.28,
+   "end": 313.36,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "I have no idea!"
+  },
+  {
+   "i": 131,
+   "start": 313.52,
+   "end": 315.88,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "It could be a giant Cicada monster for all we know!"
+  },
+  {
+   "i": 132,
+   "start": 316.14,
+   "end": 318.34,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Hopefully Piccolo will be able to hold his own until--"
+  },
+  {
+   "i": 133,
+   "start": 318.34,
+   "end": 318.84,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Ah!"
+  },
+  {
+   "i": 134,
+   "start": 318.84,
+   "end": 320.84,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Explosion vibrations"
+  },
+  {
+   "i": 135,
+   "start": 321.42,
+   "end": 325.22,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "So, is that Piccolo, or... \"Piccolo\" Piccolo?"
+  },
+  {
+   "i": 136,
+   "start": 328.44,
+   "end": 330.98,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'Huh, this thing's just full of surprises...'"
+  },
+  {
+   "i": 137,
+   "start": 330.98,
+   "end": 331.58,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "Surpriiise!"
+  },
+  {
+   "i": 138,
+   "start": 331.58,
+   "end": 332.08,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "AH!"
+  },
+  {
+   "i": 139,
+   "start": 332.08,
+   "end": 332.58,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "UGH!"
+  },
+  {
+   "i": 140,
+   "start": 332.98,
+   "end": 334.2,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'Oh 'ey, he's behind you.'"
+  },
+  {
+   "i": 141,
+   "start": 334.2,
+   "end": 335.56,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "Howdy, neighbor..."
+  },
+  {
+   "i": 142,
+   "start": 337.02,
+   "end": 339.16,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "AHHHAHAHAHAAAA!"
+  },
+  {
+   "i": 143,
+   "start": 339.78,
+   "end": 341.66,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "Ohohohoho! It must be your first time!"
+  },
+  {
+   "i": 144,
+   "start": 341.66,
+   "end": 344.04,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "Because you are TIGHT!"
+  },
+  {
+   "i": 145,
+   "start": 344.04,
+   "end": 347.54,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "And unfortunately for you... it's also your last."
+  },
+  {
+   "i": 146,
+   "start": 347.98,
+   "end": 349.88,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'Uhhh, he's drinking your arm!'"
+  },
+  {
+   "i": 147,
+   "start": 349.88,
+   "end": 350.84,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'I KNOW!'"
+  },
+  {
+   "i": 148,
+   "start": 350.84,
+   "end": 352.42,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "'Well, then DO SOMETHING!'"
+  },
+  {
+   "i": 149,
+   "start": 352.42,
+   "end": 353.2,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'I AM!'"
+  },
+  {
+   "i": 150,
+   "start": 353.5,
+   "end": 354.64,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "AH! My beak-mouth!"
+  },
+  {
+   "i": 151,
+   "start": 359.0,
+   "end": 362.22,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "*Oh, God*... you're even starting to *look* like Kami!"
+  },
+  {
+   "i": 152,
+   "start": 362.56,
+   "end": 363.38,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "'Dick...'"
+  },
+  {
+   "i": 153,
+   "start": 363.64,
+   "end": 365.64,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "You sure you don't want me to do the other arm?"
+  },
+  {
+   "i": 154,
+   "start": 365.8,
+   "end": 366.8,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "Even you out?"
+  },
+  {
+   "i": 155,
+   "start": 366.96,
+   "end": 368.72,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "'Cause that's just distracting."
+  },
+  {
+   "i": 156,
+   "start": 368.86,
+   "end": 373.66,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Listen, I've obviously lost this fight. Without my arm, I'm finished."
+  },
+  {
+   "i": 157,
+   "start": 373.7,
+   "end": 375.24,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'Wait, can't you *regrow* your ar--?'"
+  },
+  {
+   "i": 158,
+   "start": 375.24,
+   "end": 376.94,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "'Shut up, Nail! He's doing a thing.'"
+  },
+  {
+   "i": 159,
+   "start": 377.06,
+   "end": 378.5,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "Ahh, submission."
+  },
+  {
+   "i": 160,
+   "start": 378.66,
+   "end": 381.28,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "A second-favorite to futile resistance."
+  },
+  {
+   "i": 161,
+   "start": 381.28,
+   "end": 382.92,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "But before you finish me off,"
+  },
+  {
+   "i": 162,
+   "start": 382.92,
+   "end": 384.12,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "Ehehehehehe."
+  },
+  {
+   "i": 163,
+   "start": 384.12,
+   "end": 387.18,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "How about you tell me EVERYTHING about you?"
+  },
+  {
+   "i": 164,
+   "start": 387.42,
+   "end": 389.16,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "Ohhh, wellll...."
+  },
+  {
+   "i": 165,
+   "start": 389.16,
+   "end": 391.58,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Unless you don't have anything important to say."
+  },
+  {
+   "i": 166,
+   "start": 391.58,
+   "end": 392.8,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "No, no, it's just...."
+  },
+  {
+   "i": 167,
+   "start": 393.28,
+   "end": 395.36,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "You're the first person to ask me, \"Who?\" or \"What?\""
+  },
+  {
+   "i": 168,
+   "start": 395.84,
+   "end": 398.52,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "Normally they just ask, \"Why?\""
+  },
+  {
+   "i": 169,
+   "start": 399.46,
+   "end": 400.98,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "Well, to start us off, then:"
+  },
+  {
+   "i": 170,
+   "start": 401.36,
+   "end": 407.04,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "I'm sure by now you're more than familiar with my father... Dr. Gero!"
+  },
+  {
+   "i": 171,
+   "start": 407.04,
+   "end": 408.26,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Oh goddammit."
+  },
+  {
+   "i": 172,
+   "start": 408.3,
+   "end": 410.34,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "Oh, BUT WAIT! *There's more*!"
+  },
+  {
+   "i": 173,
+   "start": 410.56,
+   "end": 412.88,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "I am purely bio-mechanical!"
+  },
+  {
+   "i": 174,
+   "start": 413.02,
+   "end": 416.68,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "Unlike my brother and sister: Cyborgs 17 and 18."
+  },
+  {
+   "i": 175,
+   "start": 416.68,
+   "end": 417.72,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "We call them \"Androids.\""
+  },
+  {
+   "i": 176,
+   "start": 417.72,
+   "end": 419.28,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "Well good for you! You're wrong."
+  },
+  {
+   "i": 177,
+   "start": 419.76,
+   "end": 426.54,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "As I was saying... our father created me with the sole purpose of becoming... Perfect."
+  },
+  {
+   "i": 178,
+   "start": 426.78,
+   "end": 432.94,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "Infused with the genetic makeup of the galaxy's strongest warriors... collected over several decades."
+  },
+  {
+   "i": 179,
+   "start": 432.94,
+   "end": 434.84,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "So that's how you know our techniques!"
+  },
+  {
+   "i": 180,
+   "start": 434.84,
+   "end": 438.04,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "Ohh, but I know much more than that..."
+  },
+  {
+   "i": 181,
+   "start": 438.04,
+   "end": 443.74,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "I know that in this timeline, there lies the secret to my true, perfect form."
+  },
+  {
+   "i": 182,
+   "start": 443.9,
+   "end": 446.96,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "A secret I had all but conceded lost to me."
+  },
+  {
+   "i": 183,
+   "start": 446.96,
+   "end": 448.14,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "\"This\" timeline?"
+  },
+  {
+   "i": 184,
+   "start": 448.3,
+   "end": 449.74,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "So you're from the future."
+  },
+  {
+   "i": 185,
+   "start": 449.92,
+   "end": 450.76,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "But how?"
+  },
+  {
+   "i": 186,
+   "start": 450.76,
+   "end": 452.12,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "Ohhhh."
+  },
+  {
+   "i": 187,
+   "start": 453.0,
+   "end": 455.24,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Timeline 3"
+  },
+  {
+   "i": 188,
+   "start": 453.0,
+   "end": 455.24,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Ahh, AHHHHH!"
+  },
+  {
+   "i": 189,
+   "start": 456.62,
+   "end": 458.48,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "I found a way..."
+  },
+  {
+   "i": 190,
+   "start": 458.7,
+   "end": 464.58,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "All you need to know is that I'm here now. And I will stop at nothing to achieve my perfection!"
+  },
+  {
+   "i": 191,
+   "start": 465.04,
+   "end": 467.46,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Well then, I guess I know your story."
+  },
+  {
+   "i": 192,
+   "start": 467.46,
+   "end": 468.52,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "You're welcome."
+  },
+  {
+   "i": 193,
+   "start": 468.52,
+   "end": 470.3,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "But I don't know your name."
+  },
+  {
+   "i": 194,
+   "start": 470.52,
+   "end": 472.78,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "Oh, truth is, I don't really have one."
+  },
+  {
+   "i": 195,
+   "start": 473.1,
+   "end": 477.9,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "But all things considered... I think I'll go with, \"Cell\"."
+  },
+  {
+   "i": 196,
+   "start": 479.08,
+   "end": 480.18,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "That's kind of boring."
+  },
+  {
+   "i": 197,
+   "start": 480.18,
+   "end": 482.78,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "Coming from the guy named after a woodwind instrument."
+  },
+  {
+   "i": 198,
+   "start": 483.0,
+   "end": 484.64,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "You know what?! Doesn't matter anyway!"
+  },
+  {
+   "i": 199,
+   "start": 484.94,
+   "end": 486.24,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "I'ma drink you now!"
+  },
+  {
+   "i": 200,
+   "start": 486.36,
+   "end": 486.86,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Wait!"
+  },
+  {
+   "i": 201,
+   "start": 486.86,
+   "end": 487.72,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "Huh?"
+  },
+  {
+   "i": 202,
+   "start": 486.86,
+   "end": 490.8,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Before that, do YOU wanna see something cool?!"
+  },
+  {
+   "i": 203,
+   "start": 491.34,
+   "end": 494.34,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "Now I know you're playing me... and I do!"
+  },
+  {
+   "i": 204,
+   "start": 495.2,
+   "end": 495.7,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Urgh!"
+  },
+  {
+   "i": 205,
+   "start": 496.28,
+   "end": 497.56,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "RAH!"
+  },
+  {
+   "i": 206,
+   "start": 498.22,
+   "end": 499.92,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "Oh, that is HARDCORE!"
+  },
+  {
+   "i": 207,
+   "start": 500.14,
+   "end": 501.56,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "Also not good for me."
+  },
+  {
+   "i": 208,
+   "start": 503.5,
+   "end": 504.88,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "ALSO not good for me!"
+  },
+  {
+   "i": 209,
+   "start": 506.6,
+   "end": 508.02,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "What the hell is that?!"
+  },
+  {
+   "i": 210,
+   "start": 508.32,
+   "end": 511.72,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "And why is it giving me the most ominous sense of déjà vu?"
+  },
+  {
+   "i": 211,
+   "start": 513.36,
+   "end": 515.9,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "Sorry, kids! Not telling the story again!"
+  },
+  {
+   "i": 212,
+   "start": 516.58,
+   "end": 519.46,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "But I will leave you all *enlightened*!"
+  },
+  {
+   "i": 213,
+   "start": 520.06,
+   "end": 521.62,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "SOLAR FLARE!"
+  },
+  {
+   "i": 214,
+   "start": 521.98,
+   "end": 522.54,
+   "kind": "direction",
+   "speaker": null,
+   "text": "⚤"
+  },
+  {
+   "i": 215,
+   "start": 524.42,
+   "end": 525.72,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "Ahahahahaha!"
+  },
+  {
+   "i": 216,
+   "start": 526.78,
+   "end": 528.04,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "But that's Tien's thing!"
+  },
+  {
+   "i": 217,
+   "start": 528.04,
+   "end": 529.6,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "I F*CKING KNOW!"
+  },
+  {
+   "i": 218,
+   "start": 529.76,
+   "end": 533.08,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ Closing theme (DBZ intermission) ♫"
+  },
+  {
+   "i": 219,
+   "start": 537.86,
+   "end": 540.24,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Okay, *what the hell* am I sensing?"
+  },
+  {
+   "i": 220,
+   "start": 540.24,
+   "end": 546.66,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Is that the Namekian? Is that me?! IS THAT ME STRONGER THAN ME?! *I'LL F*CKING KILL ME*!!!"
+  }
+ ],
+ "segments": [
+  {
+   "start": 24.8,
+   "end": 41.52,
+   "title": "Wanna See Me Drink This Guy?",
+   "quote": "WANNA SEE ME DRINK THIS GUY?! / AHHH--! ♫ CHA-LA HEAD-CHA-LA ♫",
+   "line_start": 2,
+   "line_end": 10
+  },
+  {
+   "start": 83.0,
+   "end": 92.58,
+   "title": "No Shit Sherlock",
+   "quote": "His name was, \"Shit Sherlock\", first name, \"No\".",
+   "line_start": 26,
+   "line_end": 29
+  },
+  {
+   "start": 92.2,
+   "end": 109.98,
+   "title": "Three Reasons",
+   "quote": "And three - and I need you to pay attention on this one: HEEEEEEEEE YAAAAAAAAA!",
+   "line_start": 30,
+   "line_end": 34
+  },
+  {
+   "start": 110.0,
+   "end": 131.6,
+   "title": "Everyone Is Fighting Mr. Piccolo",
+   "quote": "It feels like everyone we know is fighting Mr. Piccolo. / 'Cept for Yamcha.",
+   "line_start": 35,
+   "line_end": 43
+  },
+  {
+   "start": 206.1,
+   "end": 228.3,
+   "title": "Did You Just SPIN-Kick Him?",
+   "quote": "'Did you just SPIN-kick him?!' 'I know, right!? I've always wanted to do that!' / AH! MY ASS-BUTT!",
+   "line_start": 74,
+   "line_end": 87
+  },
+  {
+   "start": 229.1,
+   "end": 251.6,
+   "title": "Makankosappo",
+   "quote": "Makankōsappō! / 'So *that's* how you pronounce it...'",
+   "line_start": 88,
+   "line_end": 100
+  },
+  {
+   "start": 267.2,
+   "end": 293.5,
+   "title": "Kamehameha Roll Call",
+   "quote": "'The only one who knows that technique is Goku!' Meeeee.... 'And Gohan...' 'Aaaand Master Roshi...'",
+   "line_start": 103,
+   "line_end": 119
+  },
+  {
+   "start": 332.5,
+   "end": 354.64,
+   "title": "Because You Are TIGHT",
+   "quote": "Ohohohoho! It must be your first time! Because you are TIGHT! / 'Uhhh, he's drinking your arm!'",
+   "line_start": 140,
+   "line_end": 150
+  },
+  {
+   "start": 468.0,
+   "end": 482.78,
+   "title": "I Think I'll Go With \"Cell\"",
+   "quote": "But all things considered... I think I'll go with, \"Cell\". / That's kind of boring. / Coming from the guy named after a woodwind instrument.",
+   "line_start": 193,
+   "line_end": 197
+  },
+  {
+   "start": 485.9,
+   "end": 504.88,
+   "title": "ALSO Not Good for Me",
+   "quote": "Oh, that is HARDCORE! Also not good for me. ...ALSO not good for me!",
+   "line_start": 200,
+   "line_end": 208
+  },
+  {
+   "start": 512.9,
+   "end": 529.6,
+   "title": "But That's Tien's Thing!",
+   "quote": "SOLAR FLARE! / But that's Tien's thing! / I F*CKING KNOW!",
+   "line_start": 211,
+   "line_end": 217
+  },
+  {
+   "start": 537.4,
+   "end": 546.66,
+   "title": "I'll F*cking Kill Me",
+   "quote": "Is that me?! IS THAT ME STRONGER THAN ME?! *I'LL F*CKING KILL ME*!!!",
+   "line_start": 219,
+   "line_end": 220
+  }
+ ]
+}

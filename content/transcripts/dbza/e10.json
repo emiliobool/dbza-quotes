@@ -1,0 +1,1467 @@
+{
+ "item": "e10",
+ "show": "dbza",
+ "youtube": "dPIJLU1DkiI",
+ "title": "Episode 10 Part 1",
+ "duration": 532,
+ "lines": [
+  {
+   "i": 0,
+   "start": 7.52,
+   "end": 11.4,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Hahaha! Aha! He’s gone! He’s finally gone!"
+  },
+  {
+   "i": 1,
+   "start": 11.4,
+   "end": 15.16,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I’m so happy right now! I might not even slaughter you all!"
+  },
+  {
+   "i": 2,
+   "start": 15.48,
+   "end": 16.88,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "R-- really?"
+  },
+  {
+   "i": 3,
+   "start": 17.1,
+   "end": 19.6,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Haha! Ha! Oho! Oh."
+  },
+  {
+   "i": 4,
+   "start": 19.6,
+   "end": 21.4,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Oh no; you’re all thoroughly screwed."
+  },
+  {
+   "i": 5,
+   "start": 21.68,
+   "end": 22.48,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Awww..."
+  },
+  {
+   "i": 6,
+   "start": 22.94,
+   "end": 26.0,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Gohan, Krillin – I’ll handle Vegeta on my own."
+  },
+  {
+   "i": 7,
+   "start": 26.24,
+   "end": 28.32,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I need the both of you to get as far away as--"
+  },
+  {
+   "i": 8,
+   "start": 28.32,
+   "end": 30.18,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Whoooosh"
+  },
+  {
+   "i": 9,
+   "start": 30.18,
+   "end": 31.34,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Where’d Krillin go?"
+  },
+  {
+   "i": 10,
+   "start": 31.62,
+   "end": 33.86,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Aaaahahaahaah...!!"
+  },
+  {
+   "i": 11,
+   "start": 35.14,
+   "end": 38.02,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Gohan, follow Krillin. Get home to your mother."
+  },
+  {
+   "i": 12,
+   "start": 38.18,
+   "end": 40.96,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Right, Daddy. Is there anything you want me to tell her?"
+  },
+  {
+   "i": 13,
+   "start": 40.96,
+   "end": 41.9,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Yes, Gohan."
+  },
+  {
+   "i": 14,
+   "start": 42.68,
+   "end": 43.34,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Tell her"
+  },
+  {
+   "i": 15,
+   "start": 43.34,
+   "end": 45.5,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♪♪Coming Undone♪♪"
+  },
+  {
+   "i": 16,
+   "start": 45.5,
+   "end": 47.16,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "To put dinner on."
+  },
+  {
+   "i": 17,
+   "start": 47.22,
+   "end": 49.52,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♪♪Coming Undone♪♪"
+  },
+  {
+   "i": 18,
+   "start": 49.52,
+   "end": 51.22,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Because I'm hungry."
+  },
+  {
+   "i": 19,
+   "start": 51.22,
+   "end": 53.62,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♪♪Coming Undone♪♪"
+  },
+  {
+   "i": 20,
+   "start": 54.26,
+   "end": 56.16,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"Cha-La Head-Cha-La\" ♫"
+  },
+  {
+   "i": 21,
+   "start": 56.16,
+   "end": 58.98,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ CHA-LA HEAD-CHA-LA ♫"
+  },
+  {
+   "i": 22,
+   "start": 59.6,
+   "end": 63.3,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ Egao urutora zetto de ♫ (With a smile that’s Ultra-Z)"
+  },
+  {
+   "i": 23,
+   "start": 63.3,
+   "end": 66.54,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ Kyô mo ai-yai-yai-yai-yai~ ♫ (Even today is ai-yai-yai-yai-yai~)"
+  },
+  {
+   "i": 24,
+   "start": 66.54,
+   "end": 68.54,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ Sparking! [fading echo] ♫"
+  },
+  {
+   "i": 25,
+   "start": 75.22,
+   "end": 77.22,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Alright, are you ready for this?"
+  },
+  {
+   "i": 26,
+   "start": 77.22,
+   "end": 81.52,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "You bet I am! But first, why don’t we take this battle somewhere else?"
+  },
+  {
+   "i": 27,
+   "start": 81.52,
+   "end": 83.06,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "What's wrong with here?"
+  },
+  {
+   "i": 28,
+   "start": 83.06,
+   "end": 86.7,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I don’t know. Something about it doesn’t feel right."
+  },
+  {
+   "i": 29,
+   "start": 86.82,
+   "end": 88.82,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Well, it is a little corpse-y."
+  },
+  {
+   "i": 30,
+   "start": 88.82,
+   "end": 90.6,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Wind blowing"
+  },
+  {
+   "i": 31,
+   "start": 90.94,
+   "end": 93.6,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "Meanwhile, on King Kai’s planet..."
+  },
+  {
+   "i": 32,
+   "start": 93.82,
+   "end": 95.82,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "'So, the fight is about to begin.'"
+  },
+  {
+   "i": 33,
+   "start": 96.06,
+   "end": 100.72,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "'The showdown between the Saiyan elite; and the low-class warrior, trained by me.'"
+  },
+  {
+   "i": 34,
+   "start": 101.36,
+   "end": 103.86,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Takin’ all bets, guys! Takin’ all bets!"
+  },
+  {
+   "i": 35,
+   "start": 103.86,
+   "end": 104.8,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Monkey noises"
+  },
+  {
+   "i": 36,
+   "start": 105.9,
+   "end": 108.94,
+   "kind": "dialog",
+   "speaker": "Bojack",
+   "text": "Yargh! I bet 50 gold doubloons on the short one."
+  },
+  {
+   "i": 37,
+   "start": 109.16,
+   "end": 111.36,
+   "kind": "dialog",
+   "speaker": "Gregory",
+   "text": "Uh, sir, is this really appropriate?"
+  },
+  {
+   "i": 38,
+   "start": 111.64,
+   "end": 114.3,
+   "kind": "dialog",
+   "speaker": "Gregory",
+   "text": "If Goku loses, the entire Earth could be destroyed."
+  },
+  {
+   "i": 39,
+   "start": 115.84,
+   "end": 116.78,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "...You were saying...?"
+  },
+  {
+   "i": 40,
+   "start": 118.24,
+   "end": 120.24,
+   "kind": "dialog",
+   "speaker": "Gregory",
+   "text": "D’ah. 1,000 zeni on Goku."
+  },
+  {
+   "i": 41,
+   "start": 120.64,
+   "end": 122.1,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "Hey, can I get in on this?"
+  },
+  {
+   "i": 42,
+   "start": 122.1,
+   "end": 124.96,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Wait a second! Don’t you already know the outcome of the fight?"
+  },
+  {
+   "i": 43,
+   "start": 125.4,
+   "end": 127.78,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "N-- noooo~"
+  },
+  {
+   "i": 44,
+   "start": 130.74,
+   "end": 132.08,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "This is it!"
+  },
+  {
+   "i": 45,
+   "start": 133.3,
+   "end": 137.78,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Ah, yes. A *perfect* place to mark your grave."
+  },
+  {
+   "i": 46,
+   "start": 138.78,
+   "end": 141.08,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Listen. We don’t have to do this, you know."
+  },
+  {
+   "i": 47,
+   "start": 141.46,
+   "end": 145.4,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "If you leave now and promise to never come back, I’ll let you go."
+  },
+  {
+   "i": 48,
+   "start": 145.6,
+   "end": 147.78,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "And we can stop this meaningless bloodshed."
+  },
+  {
+   "i": 49,
+   "start": 147.98,
+   "end": 151.62,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Such tripe! Where’s your Saiyan pride, Kakarot?"
+  },
+  {
+   "i": 50,
+   "start": 151.64,
+   "end": 155.4,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "We are proud warriors - bred to fight and conquer!"
+  },
+  {
+   "i": 51,
+   "start": 155.72,
+   "end": 157.72,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "This planet has made you soft."
+  },
+  {
+   "i": 52,
+   "start": 158.22,
+   "end": 161.7,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Are you sure about this? Because even if you’re a little~ sorry--"
+  },
+  {
+   "i": 53,
+   "start": 161.7,
+   "end": 163.38,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "No! I'm not sorry!"
+  },
+  {
+   "i": 54,
+   "start": 167.56,
+   "end": 169.14,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Are you absolutely sure you--"
+  },
+  {
+   "i": 55,
+   "start": 169.14,
+   "end": 171.34,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Yes! I am entirely sure!"
+  },
+  {
+   "i": 56,
+   "start": 171.34,
+   "end": 174.94,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I’m going to obliterate you and the rest of this planet myself with my own two--"
+  },
+  {
+   "i": 57,
+   "start": 174.94,
+   "end": 176.06,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Kaio-ken!!"
+  },
+  {
+   "i": 58,
+   "start": 176.06,
+   "end": 177.58,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Kaio-wha--uwagh!"
+  },
+  {
+   "i": 59,
+   "start": 176.88,
+   "end": 177.58,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "AAAH!"
+  },
+  {
+   "i": 60,
+   "start": 180.66,
+   "end": 181.38,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Goku grunts"
+  },
+  {
+   "i": 61,
+   "start": 182.14,
+   "end": 184.14,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Vegeta panting"
+  },
+  {
+   "i": 62,
+   "start": 184.38,
+   "end": 189.84,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Okay, not bad... but still nothing compared to me."
+  },
+  {
+   "i": 63,
+   "start": 190.04,
+   "end": 192.74,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Now witness the power of a Saiyan elite!"
+  },
+  {
+   "i": 64,
+   "start": 192.76,
+   "end": 194.92,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Elite? What's that mean?"
+  },
+  {
+   "i": 65,
+   "start": 194.92,
+   "end": 200.78,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "It means I’m of the upper class. A finer breed! The highest grade of warrior!"
+  },
+  {
+   "i": 66,
+   "start": 201.7,
+   "end": 204.82,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Wind blows"
+  },
+  {
+   "i": 67,
+   "start": 205.08,
+   "end": 209.14,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "(Sigh), okay, consider yourself beef jerky while I’m filet mignon."
+  },
+  {
+   "i": 68,
+   "start": 209.32,
+   "end": 211.4,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oooh, I like both those things!"
+  },
+  {
+   "i": 69,
+   "start": 213.18,
+   "end": 216.54,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I’m going to start beating you now. I don’t know when I’ll stop."
+  },
+  {
+   "i": 70,
+   "start": 216.76,
+   "end": 219.96,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hopefully before dinner. 'Cause I told Gohan to tell Chi-Chi that--"
+  },
+  {
+   "i": 71,
+   "start": 219.96,
+   "end": 221.26,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "AH! Unh!"
+  },
+  {
+   "i": 72,
+   "start": 222.5,
+   "end": 225.44,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Hah! What’s wrong, Kakarot? Can’t keep up?!"
+  },
+  {
+   "i": 73,
+   "start": 228.94,
+   "end": 235.7,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I told you, Kakarot. There’s no way you can measure up to an elite like me! You’re fighting a losing battle here!"
+  },
+  {
+   "i": 74,
+   "start": 235.84,
+   "end": 238.8,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "You may as well just surrender this pathetic planet now and--"
+  },
+  {
+   "i": 75,
+   "start": 238.8,
+   "end": 241.0,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "KAIO-KEN TIMES *THREE*!"
+  },
+  {
+   "i": 76,
+   "start": 241.0,
+   "end": 241.5,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Times wha--?"
+  },
+  {
+   "i": 77,
+   "start": 241.5,
+   "end": 243.5,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "AAAAAGHHH--!!"
+  },
+  {
+   "i": 78,
+   "start": 250.26,
+   "end": 253.32,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "This... proves... nothing...!"
+  },
+  {
+   "i": 79,
+   "start": 254.06,
+   "end": 255.26,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Are you okay in there?"
+  },
+  {
+   "i": 80,
+   "start": 255.54,
+   "end": 260.58,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Yah. I’m fan-f**king-tastic. Nothing but gumdrops and ice cream in here."
+  },
+  {
+   "i": 81,
+   "start": 260.58,
+   "end": 263.04,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh, really?! Can I come in too?!"
+  },
+  {
+   "i": 82,
+   "start": 264.1,
+   "end": 266.82,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I’m surrounded by idiots..."
+  },
+  {
+   "i": 83,
+   "start": 267.1,
+   "end": 269.9,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I thought you were surrounded by gumdrops and ice cream…"
+  },
+  {
+   "i": 84,
+   "start": 270.24,
+   "end": 273.9,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "WAAAAAAAAHHHHH!"
+  },
+  {
+   "i": 85,
+   "start": 275.64,
+   "end": 280.52,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I WILL NOT STAND FOR THIS! I WILL NOT BE HUMILIATED BY A LOW-CLASS WRETCH!"
+  },
+  {
+   "i": 86,
+   "start": 280.88,
+   "end": 284.64,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Aww, sounds like somebody’s got an ice cream headache!"
+  },
+  {
+   "i": 87,
+   "start": 285.16,
+   "end": 287.2,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "THAT’S IT! EVERYONE DIES!"
+  },
+  {
+   "i": 88,
+   "start": 289.58,
+   "end": 292.18,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "SAY GOODBYE TO YOUR PLANET, KAKAROT!"
+  },
+  {
+   "i": 89,
+   "start": 293.04,
+   "end": 294.64,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Well that's not very nice..."
+  },
+  {
+   "i": 90,
+   "start": 294.86,
+   "end": 298.26,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "OF COURSE NOT! I’M F**KING EVIL!!"
+  },
+  {
+   "i": 91,
+   "start": 298.66,
+   "end": 300.66,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "GALICK GUN…!"
+  },
+  {
+   "i": 92,
+   "start": 300.66,
+   "end": 302.16,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oooh! Did he say garlic--"
+  },
+  {
+   "i": 93,
+   "start": 302.16,
+   "end": 303.74,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "HUUUAAAARRRGH...!"
+  },
+  {
+   "i": 94,
+   "start": 303.74,
+   "end": 304.66,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "...Oh, man!"
+  },
+  {
+   "i": 95,
+   "start": 306.66,
+   "end": 308.32,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "KAAAAAAA"
+  },
+  {
+   "i": 96,
+   "start": 308.32,
+   "end": 310.32,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "MEEEEE"
+  },
+  {
+   "i": 97,
+   "start": 312.16,
+   "end": 314.16,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "HAAAAAAAA"
+  },
+  {
+   "i": 98,
+   "start": 315.28,
+   "end": 317.7,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "MEEEEEEEE"
+  },
+  {
+   "i": 99,
+   "start": 318.52,
+   "end": 320.06,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "...FIIIIIIIREEE!!!"
+  },
+  {
+   "i": 100,
+   "start": 320.06,
+   "end": 321.32,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "...HAAAAAAAAA!!!!"
+  },
+  {
+   "i": 101,
+   "start": 329.24,
+   "end": 331.12,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "This is the end, Kakarot!"
+  },
+  {
+   "i": 102,
+   "start": 331.12,
+   "end": 335.54,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "You don’t stand a chance! I put all my power into this attack!"
+  },
+  {
+   "i": 103,
+   "start": 335.54,
+   "end": 339.12,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Now perish, with the rest of your pathetic world!"
+  },
+  {
+   "i": 104,
+   "start": 339.54,
+   "end": 341.54,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "[Grunting]"
+  },
+  {
+   "i": 105,
+   "start": 342.08,
+   "end": 344.08,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "KAIO-KEN..."
+  },
+  {
+   "i": 106,
+   "start": 345.16,
+   "end": 346.6,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Noooo...!"
+  },
+  {
+   "i": 107,
+   "start": 346.6,
+   "end": 348.5,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "TIIIIIIIMES..."
+  },
+  {
+   "i": 108,
+   "start": 348.5,
+   "end": 350.02,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "No, no no!"
+  },
+  {
+   "i": 109,
+   "start": 350.02,
+   "end": 351.92,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "FOUUUURRRR!"
+  },
+  {
+   "i": 110,
+   "start": 350.82,
+   "end": 353.3,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "NononononononoNONO--"
+  },
+  {
+   "i": 111,
+   "start": 353.3,
+   "end": 358.22,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "FUUUUUUUUUUUUUUUuuuuuuuu...!"
+  },
+  {
+   "i": 112,
+   "start": 363.14,
+   "end": 365.14,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "Meanwhile, back at the ranch..."
+  },
+  {
+   "i": 113,
+   "start": 366.02,
+   "end": 366.62,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Clock ticking"
+  },
+  {
+   "i": 114,
+   "start": 370.96,
+   "end": 372.96,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Remember when we used to do stuff?"
+  },
+  {
+   "i": 115,
+   "start": 372.96,
+   "end": 375.58,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "You know? Be out there with them? And help?"
+  },
+  {
+   "i": 116,
+   "start": 375.74,
+   "end": 377.9,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Sounds of agreement"
+  },
+  {
+   "i": 117,
+   "start": 378.22,
+   "end": 380.06,
+   "kind": "dialog",
+   "speaker": "Oolong",
+   "text": "And remember the Red Ribbon Army?"
+  },
+  {
+   "i": 118,
+   "start": 380.22,
+   "end": 382.22,
+   "kind": "direction",
+   "speaker": null,
+   "text": "All agree"
+  },
+  {
+   "i": 119,
+   "start": 382.4,
+   "end": 384.24,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "And what about King Piccolo?"
+  },
+  {
+   "i": 120,
+   "start": 384.42,
+   "end": 386.6,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Assent"
+  },
+  {
+   "i": 121,
+   "start": 386.86,
+   "end": 388.28,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Whatever happened to Launch?"
+  },
+  {
+   "i": 122,
+   "start": 390.02,
+   "end": 390.52,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "Who?"
+  },
+  {
+   "i": 123,
+   "start": 390.98,
+   "end": 394.84,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♪♪ “The Singing Sea” from Cowboy Bebop ♪♪"
+  },
+  {
+   "i": 124,
+   "start": 395.42,
+   "end": 397.42,
+   "kind": "dialog",
+   "speaker": "Launch",
+   "text": "(Sigh)"
+  },
+  {
+   "i": 125,
+   "start": 398.82,
+   "end": 400.9,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "Meanwhile, back at the plot..."
+  },
+  {
+   "i": 126,
+   "start": 401.08,
+   "end": 404.98,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "...UUUUUUUUUUUUUUUUUUUUUUUUUUUUCK!"
+  },
+  {
+   "i": 127,
+   "start": 406.06,
+   "end": 408.44,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Panting"
+  },
+  {
+   "i": 128,
+   "start": 408.44,
+   "end": 409.8,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Son of a BITCH!"
+  },
+  {
+   "i": 129,
+   "start": 410.04,
+   "end": 412.04,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "This can't be happening!"
+  },
+  {
+   "i": 130,
+   "start": 412.22,
+   "end": 415.7,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I’m the Prince! I’m supposed to be the best by default!"
+  },
+  {
+   "i": 131,
+   "start": 416.04,
+   "end": 418.4,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Panting"
+  },
+  {
+   "i": 132,
+   "start": 418.4,
+   "end": 420.08,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I'll show that little bastard!"
+  },
+  {
+   "i": 133,
+   "start": 420.4,
+   "end": 423.52,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I’ll become the mighty Oozaru, and crush him into the--!"
+  },
+  {
+   "i": 134,
+   "start": 424.52,
+   "end": 425.48,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "...Where’s the Moon?"
+  },
+  {
+   "i": 135,
+   "start": 426.14,
+   "end": 428.14,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "WHERE’S THE DAMN MOON?!"
+  },
+  {
+   "i": 136,
+   "start": 432.74,
+   "end": 434.52,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "MOOOOOOOOON~!"
+  },
+  {
+   "i": 137,
+   "start": 437.24,
+   "end": 437.74,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Huh?"
+  },
+  {
+   "i": 138,
+   "start": 440.16,
+   "end": 446.34,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Very clever, Kakarot! I’d taken you for a fool but it seems you’re far more cunning than you let on!"
+  },
+  {
+   "i": 139,
+   "start": 446.86,
+   "end": 453.02,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "But destroying the Moon won’t stop me! We’ve learned to create artificial moons that supply the necessary Bl--"
+  },
+  {
+   "i": 140,
+   "start": 453.02,
+   "end": 453.88,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Question!"
+  },
+  {
+   "i": 141,
+   "start": 454.14,
+   "end": 454.64,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "What?"
+  },
+  {
+   "i": 142,
+   "start": 455.26,
+   "end": 456.32,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Are they made of cheese?"
+  },
+  {
+   "i": 143,
+   "start": 458.1,
+   "end": 460.62,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I’m going to enjoy this far more than I should."
+  },
+  {
+   "i": 144,
+   "start": 462.52,
+   "end": 464.02,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Ah, uwaaahaa...!"
+  },
+  {
+   "i": 145,
+   "start": 462.52,
+   "end": 464.02,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Now watch, Kakarot!"
+  },
+  {
+   "i": 146,
+   "start": 464.02,
+   "end": 469.38,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "As your life becomes inconsequential, as I reveal my GIANT MONKEY--"
+  },
+  {
+   "i": 147,
+   "start": 469.38,
+   "end": 470.32,
+   "kind": "dialog",
+   "speaker": "Audience",
+   "text": "[Aghast gasps]"
+  },
+  {
+   "i": 148,
+   "start": 470.72,
+   "end": 471.22,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "...form!"
+  },
+  {
+   "i": 149,
+   "start": 472.4,
+   "end": 473.76,
+   "kind": "dialog",
+   "speaker": "Audience",
+   "text": "[Sighs of relief]"
+  },
+  {
+   "i": 150,
+   "start": 473.76,
+   "end": 476.24,
+   "kind": "dialog",
+   "speaker": "Bystander",
+   "text": "Thank God; I thought he meant penis!"
+  },
+  {
+   "i": 151,
+   "start": 476.8,
+   "end": 481.4,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "[Growling with a deepening voice]"
+  },
+  {
+   "i": 152,
+   "start": 481.72,
+   "end": 482.94,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'He's getting huge!'"
+  },
+  {
+   "i": 153,
+   "start": 483.7,
+   "end": 487.14,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'That means he’ll only be stronger. That means he won’t be as fast--'"
+  },
+  {
+   "i": 154,
+   "start": 487.14,
+   "end": 488.28,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh-God-he’s-still-as-fast!"
+  },
+  {
+   "i": 155,
+   "start": 488.88,
+   "end": 489.58,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "ROOAAARGH!"
+  },
+  {
+   "i": 156,
+   "start": 489.58,
+   "end": 492.98,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'He’s too powerful! I have to come up with a plan!'"
+  },
+  {
+   "i": 157,
+   "start": 492.98,
+   "end": 498.24,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'Wait! I know!' I just have to think like a monkey! Hmmm…"
+  },
+  {
+   "i": 158,
+   "start": 500.18,
+   "end": 502.18,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Monkey noises"
+  },
+  {
+   "i": 159,
+   "start": 502.18,
+   "end": 503.48,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'Hey! It’s working!'"
+  },
+  {
+   "i": 160,
+   "start": 503.68,
+   "end": 506.46,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "No, that’s just Bubbles. Get off my back, Bubbles!"
+  },
+  {
+   "i": 161,
+   "start": 506.62,
+   "end": 508.78,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Thud"
+  },
+  {
+   "i": 162,
+   "start": 506.62,
+   "end": 508.78,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Bubbles groans"
+  },
+  {
+   "i": 163,
+   "start": 508.78,
+   "end": 513.56,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Goku, listen! The only way you can beat him is if you use the Spirit Bomb!"
+  },
+  {
+   "i": 164,
+   "start": 513.56,
+   "end": 514.2,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "On it!"
+  },
+  {
+   "i": 165,
+   "start": 514.32,
+   "end": 520.24,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "And whatever you do, make sure you’re very well hidden! It’s going to take a lot of time to gather up all that energy!"
+  },
+  {
+   "i": 166,
+   "start": 520.24,
+   "end": 521.36,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "AAAAUGH!"
+  },
+  {
+   "i": 167,
+   "start": 521.36,
+   "end": 522.38,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Static"
+  },
+  {
+   "i": 168,
+   "start": 522.38,
+   "end": 528.14,
+   "kind": "dialog",
+   "speaker": "Phone Operator",
+   "text": "We’re sorry. The number you are trying to reach has been disconnected. Please hang up and try again later."
+  },
+  {
+   "i": 169,
+   "start": 529.92,
+   "end": 530.42,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Huh..."
+  }
+ ],
+ "segments": [
+  {
+   "start": 34.6,
+   "end": 53.62,
+   "title": "Tell Her... Coming Undone",
+   "quote": "Tell her — ♪♪Coming Undone♪♪ — to put dinner on.",
+   "line_start": 11,
+   "line_end": 19
+  },
+  {
+   "start": 100.9,
+   "end": 127.78,
+   "title": "Bojack's Bet",
+   "quote": "Yargh! I bet 50 gold doubloons on the short one.",
+   "line_start": 34,
+   "line_end": 43
+  },
+  {
+   "start": 167.0,
+   "end": 177.58,
+   "title": "Kaio-wha--",
+   "quote": "Kaio-ken!! / Kaio-wha--uwagh!",
+   "line_start": 54,
+   "line_end": 58
+  },
+  {
+   "start": 183.9,
+   "end": 211.4,
+   "title": "Beef Jerky & Filet Mignon",
+   "quote": "Okay, consider yourself beef jerky while I'm filet mignon.",
+   "line_start": 62,
+   "line_end": 68
+  },
+  {
+   "start": 253.6,
+   "end": 284.64,
+   "title": "Gumdrops and Ice Cream",
+   "quote": "Yah. I'm fan-f**king-tastic. Nothing but gumdrops and ice cream in here.",
+   "line_start": 79,
+   "line_end": 86
+  },
+  {
+   "start": 294.4,
+   "end": 321.32,
+   "title": "I'm F**king Evil!",
+   "quote": "OF COURSE NOT! I'M F**KING EVIL!!",
+   "line_start": 90,
+   "line_end": 100
+  },
+  {
+   "start": 328.7,
+   "end": 358.22,
+   "title": "Kaio-ken Times Four",
+   "quote": "KAIO-KEN... TIIIIIIIMES... FOUUUURRRR!",
+   "line_start": 101,
+   "line_end": 111
+  },
+  {
+   "start": 381.9,
+   "end": 404.98,
+   "title": "Whatever Happened to Launch?",
+   "quote": "Whatever happened to Launch? / Who?",
+   "line_start": 119,
+   "line_end": 126
+  },
+  {
+   "start": 417.9,
+   "end": 437.74,
+   "title": "Where's the Damn Moon?",
+   "quote": "WHERE'S THE DAMN MOON?! / MOOOOOOOOON~!",
+   "line_start": 132,
+   "line_end": 137
+  },
+  {
+   "start": 457.6,
+   "end": 476.24,
+   "title": "Giant Monkey... Form",
+   "quote": "Thank God; I thought he meant penis!",
+   "line_start": 143,
+   "line_end": 150
+  },
+  {
+   "start": 489.1,
+   "end": 506.46,
+   "title": "Get Off My Back, Bubbles",
+   "quote": "No, that's just Bubbles. Get off my back, Bubbles!",
+   "line_start": 156,
+   "line_end": 160
+  },
+  {
+   "start": 508.3,
+   "end": 528.14,
+   "title": "Please Hang Up and Try Again",
+   "quote": "We're sorry. The number you are trying to reach has been disconnected.",
+   "line_start": 163,
+   "line_end": 168
+  }
+ ]
+}

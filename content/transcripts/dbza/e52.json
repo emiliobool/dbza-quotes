@@ -1,0 +1,3691 @@
+{
+ "item": "e52",
+ "show": "dbza",
+ "youtube": "69J67L4b0xU",
+ "title": "History of Trunks",
+ "duration": 1509,
+ "lines": [
+  {
+   "i": 0,
+   "start": 10.2,
+   "end": 14.94,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Hello. My name is Trunks. And this... is my story."
+  },
+  {
+   "i": 1,
+   "start": 16.9,
+   "end": 21.08,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "I mean, I was a baby during this part, so... the details are a little unclear."
+  },
+  {
+   "i": 2,
+   "start": 23.4,
+   "end": 24.52,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Mom, what happened?!"
+  },
+  {
+   "i": 3,
+   "start": 24.78,
+   "end": 27.42,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Your Dad is *dead*! *For good*!"
+  },
+  {
+   "i": 4,
+   "start": 27.76,
+   "end": 29.62,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "*Nooooooo*!"
+  },
+  {
+   "i": 5,
+   "start": 29.62,
+   "end": 31.78,
+   "kind": "dialog",
+   "speaker": "Baby Trunks",
+   "text": "Dad dead! Dad dead!"
+  },
+  {
+   "i": 6,
+   "start": 31.78,
+   "end": 33.7,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "I am told those were my first words."
+  },
+  {
+   "i": 7,
+   "start": 33.7,
+   "end": 35.24,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Son of a *bitch*!"
+  },
+  {
+   "i": 8,
+   "start": 35.24,
+   "end": 36.7,
+   "kind": "dialog",
+   "speaker": "Baby Trunks",
+   "text": "Son bitch!"
+  },
+  {
+   "i": 9,
+   "start": 36.7,
+   "end": 38.16,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "And those were my second."
+  },
+  {
+   "i": 10,
+   "start": 38.42,
+   "end": 40.38,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "But he just got back from his training!"
+  },
+  {
+   "i": 11,
+   "start": 40.38,
+   "end": 42.5,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "After getting back from Namek!"
+  },
+  {
+   "i": 12,
+   "start": 42.5,
+   "end": 44.94,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "After *getting back* from his *training*!"
+  },
+  {
+   "i": 13,
+   "start": 44.94,
+   "end": 47.3,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "*After being DEAD*!"
+  },
+  {
+   "i": 14,
+   "start": 47.52,
+   "end": 51.04,
+   "kind": "dialog",
+   "speaker": "Goku's Ghost",
+   "text": "Byyyyye, soooon...!"
+  },
+  {
+   "i": 15,
+   "start": 51.4,
+   "end": 58.32,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "And with the death of Goku, his family and friends were left to mourn... for approximately six months."
+  },
+  {
+   "i": 16,
+   "start": 58.32,
+   "end": 59.88,
+   "kind": "direction",
+   "speaker": null,
+   "text": "The Z-Fighters die painfully."
+  },
+  {
+   "i": 17,
+   "start": 59.88,
+   "end": 62.42,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Hey girl, how you—WAAH!! MY EYES!!"
+  },
+  {
+   "i": 18,
+   "start": 63.0,
+   "end": 65.98,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Leaving the fate of the Earth... with little hope."
+  },
+  {
+   "i": 19,
+   "start": 82.64,
+   "end": 88.66,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Over the next thirteen years, the Androids would destroy small town after small town, working their way up."
+  },
+  {
+   "i": 20,
+   "start": 89.68,
+   "end": 92.04,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Maybe that's why we reacted the way we did."
+  },
+  {
+   "i": 21,
+   "start": 92.34,
+   "end": 95.2,
+   "kind": "dialog",
+   "speaker": "TJ",
+   "text": "...aaand welcome back, folks to TJ—"
+  },
+  {
+   "i": 22,
+   "start": 95.2,
+   "end": 96.58,
+   "kind": "dialog",
+   "speaker": "Wombat",
+   "text": "—and the Wombat!"
+  },
+  {
+   "i": 23,
+   "start": 96.58,
+   "end": 99.94,
+   "kind": "direction",
+   "speaker": null,
+   "text": "The word \"wombat\" echoes while slowing down, followed by a woman saying, \"Me so horny\"."
+  },
+  {
+   "i": 24,
+   "start": 100.38,
+   "end": 106.4,
+   "kind": "dialog",
+   "speaker": "TJ",
+   "text": "Starting us off this hour with sports: The College Battleball Association has had to disband ENTIRELY."
+  },
+  {
+   "i": 25,
+   "start": 106.4,
+   "end": 111.32,
+   "kind": "dialog",
+   "speaker": "Wombat",
+   "text": "As most of its players and associate colleges have been destroyed by the Cyborgs."
+  },
+  {
+   "i": 26,
+   "start": 111.32,
+   "end": 113.76,
+   "kind": "dialog",
+   "speaker": "Audio Clip",
+   "text": "Ahahahahahaha, WIPEOUT!"
+  },
+  {
+   "i": 27,
+   "start": 114.04,
+   "end": 116.68,
+   "kind": "dialog",
+   "speaker": "TJ",
+   "text": "Speaking of which! In Cyborg News..."
+  },
+  {
+   "i": 28,
+   "start": 116.68,
+   "end": 118.26,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Audio clips of a child's laughter, gunshots, and a woman moaning"
+  },
+  {
+   "i": 29,
+   "start": 118.26,
+   "end": 123.58,
+   "kind": "dialog",
+   "speaker": "Wombat",
+   "text": "As we currently speak, Paprikaburg is under siege by the mechanical threat!"
+  },
+  {
+   "i": 30,
+   "start": 123.58,
+   "end": 129.18,
+   "kind": "dialog",
+   "speaker": "TJ",
+   "text": "But on the brighter side — ♪ Wombat's getting married! ♪ Ha ha ha!"
+  },
+  {
+   "i": 31,
+   "start": 127.44,
+   "end": 130.88,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Audio clips of cheering, wedding music, and a woman moaning"
+  },
+  {
+   "i": 32,
+   "start": 131.18,
+   "end": 140.62,
+   "kind": "dialog",
+   "speaker": "Wombat",
+   "text": "That's right! Unfortunately, my beloved fiancée resides in Paprikaburg... and is probably, most certainly dying as we speak."
+  },
+  {
+   "i": 33,
+   "start": 140.62,
+   "end": 144.02,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Audio clips of a collective \"Aww\" of disappointment, funeral music, and a woman moaning"
+  },
+  {
+   "i": 34,
+   "start": 144.46,
+   "end": 147.56,
+   "kind": "dialog",
+   "speaker": "Wombat",
+   "text": "But — silver lining — I'M SINGLE AGAIN!"
+  },
+  {
+   "i": 35,
+   "start": 147.56,
+   "end": 148.98,
+   "kind": "dialog",
+   "speaker": "Audio Clip",
+   "text": "Oh, behave!"
+  },
+  {
+   "i": 36,
+   "start": 148.98,
+   "end": 152.32,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Cheerful music plays before Bulma changes the channel to techno-rock."
+  },
+  {
+   "i": 37,
+   "start": 152.5,
+   "end": 154.32,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "(Sigh) I miss country..."
+  },
+  {
+   "i": 38,
+   "start": 155.42,
+   "end": 157.7,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Mom? Do you believe in destiny?"
+  },
+  {
+   "i": 39,
+   "start": 157.7,
+   "end": 159.84,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "I'm a scientist; so, no."
+  },
+  {
+   "i": 40,
+   "start": 159.84,
+   "end": 164.02,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Paprikaburg is only thirty miles from here. If I hurry, I could save someone."
+  },
+  {
+   "i": 41,
+   "start": 165.3,
+   "end": 166.96,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Or you could die like your father."
+  },
+  {
+   "i": 42,
+   "start": 166.96,
+   "end": 169.38,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Why do you say that every time I want to go fight them?"
+  },
+  {
+   "i": 43,
+   "start": 169.38,
+   "end": 173.82,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Because YOU are 13, I'm 37, and I am all alone."
+  },
+  {
+   "i": 44,
+   "start": 173.82,
+   "end": 176.54,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "My mother had been 37 for ten years..."
+  },
+  {
+   "i": 45,
+   "start": 176.54,
+   "end": 178.52,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "No means no. End of discus—"
+  },
+  {
+   "i": 46,
+   "start": 178.9,
+   "end": 182.2,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Oh! No! Just, just fly away! That's fine!"
+  },
+  {
+   "i": 47,
+   "start": 182.92,
+   "end": 185.12,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "'*God*... bless him...'"
+  },
+  {
+   "i": 48,
+   "start": 185.9,
+   "end": 188.02,
+   "kind": "direction",
+   "speaker": null,
+   "text": "People screaming and running"
+  },
+  {
+   "i": 49,
+   "start": 189.7,
+   "end": 192.12,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Hey, 18! You keeping score?"
+  },
+  {
+   "i": 50,
+   "start": 192.12,
+   "end": 193.48,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "*Why* would I be doing that?"
+  },
+  {
+   "i": 51,
+   "start": 193.48,
+   "end": 195.48,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "(Scoffs) You said you would."
+  },
+  {
+   "i": 52,
+   "start": 195.82,
+   "end": 199.94,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "No, you said, \"Hey, check this shit out!\", then jumped in a car."
+  },
+  {
+   "i": 53,
+   "start": 200.0,
+   "end": 203.66,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Aw, come on, sis! Is this about the shop earlier?"
+  },
+  {
+   "i": 54,
+   "start": 204.7,
+   "end": 207.02,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Oh, man, you wouldn't *believe* this haul!"
+  },
+  {
+   "i": 55,
+   "start": 207.2,
+   "end": 211.38,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "This is why I love these little inner-city shops; they always have the best brands."
+  },
+  {
+   "i": 56,
+   "start": 211.38,
+   "end": 212.6,
+   "kind": "direction",
+   "speaker": null,
+   "text": "17 destroys the inner-city shop"
+  },
+  {
+   "i": 57,
+   "start": 212.6,
+   "end": 217.42,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "What the hell?! Why did you blow it up?! They were giving me free clothes!"
+  },
+  {
+   "i": 58,
+   "start": 217.74,
+   "end": 218.84,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Didn't give me nothin'."
+  },
+  {
+   "i": 59,
+   "start": 219.06,
+   "end": 221.14,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "It was a woman's clothing store."
+  },
+  {
+   "i": 60,
+   "start": 221.14,
+   "end": 222.54,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Hey, I'm perfectly secure."
+  },
+  {
+   "i": 61,
+   "start": 222.82,
+   "end": 224.34,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Is that why you dye your hair?"
+  },
+  {
+   "i": 62,
+   "start": 224.34,
+   "end": 225.24,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Tch, don't hate."
+  },
+  {
+   "i": 63,
+   "start": 226.44,
+   "end": 231.26,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "I wasn't sure if I'd be able to do anything at all... but I had to at least try to stop their chaos."
+  },
+  {
+   "i": 64,
+   "start": 232.12,
+   "end": 234.84,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Unfortunately... I was too late."
+  },
+  {
+   "i": 65,
+   "start": 234.97,
+   "end": 236.35,
+   "kind": "dialog",
+   "speaker": "Young Trunks",
+   "text": "Damn it! I'm too late!"
+  },
+  {
+   "i": 66,
+   "start": 237.32,
+   "end": 244.38,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "But... as I walked the ruins of that demolished city... a hero appeared!"
+  },
+  {
+   "i": 67,
+   "start": 244.98,
+   "end": 247.52,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "The hero of my time: Gohan!"
+  },
+  {
+   "i": 68,
+   "start": 248.3,
+   "end": 251.14,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "And face-to-face with him, all I could say was..."
+  },
+  {
+   "i": 69,
+   "start": 251.14,
+   "end": 257.98,
+   "kind": "dialog",
+   "speaker": "Young Trunks",
+   "text": "Gohan they keep destroying cities and I don't know how to stop them and now everybody's de-he-head!"
+  },
+  {
+   "i": 70,
+   "start": 258.96,
+   "end": 260.64,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "I believe it was profound."
+  },
+  {
+   "i": 71,
+   "start": 264.88,
+   "end": 266.8,
+   "kind": "dialog",
+   "speaker": "Young Trunks",
+   "text": "You remember a time before this, Gohan..."
+  },
+  {
+   "i": 72,
+   "start": 267.16,
+   "end": 268.06,
+   "kind": "dialog",
+   "speaker": "Young Trunks",
+   "text": "What was it like?"
+  },
+  {
+   "i": 73,
+   "start": 268.8,
+   "end": 269.96,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Well..."
+  },
+  {
+   "i": 74,
+   "start": 269.96,
+   "end": 275.5,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "When I was a toddler, my Uncle showed up, kidnapped me, and then Mr. Piccolo killed him and my Dad."
+  },
+  {
+   "i": 75,
+   "start": 275.5,
+   "end": 281.2,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Then *Mr. Piccolo* kidnapped me, the Saiyans showed up, killed a bunch of people — including Mr. Piccolo..."
+  },
+  {
+   "i": 76,
+   "start": 281.2,
+   "end": 286.16,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "then we went to Namek, a bunch more people died, we came back, then my Dad died *again*,"
+  },
+  {
+   "i": 77,
+   "start": 286.16,
+   "end": 289.32,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "then all my friends died, and now everyone else is dying."
+  },
+  {
+   "i": 78,
+   "start": 290.46,
+   "end": 291.94,
+   "kind": "dialog",
+   "speaker": "Young Trunks",
+   "text": "But it was better, right?"
+  },
+  {
+   "i": 79,
+   "start": 292.84,
+   "end": 293.34,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "...No."
+  },
+  {
+   "i": 80,
+   "start": 293.68,
+   "end": 296.94,
+   "kind": "dialog",
+   "speaker": "Young Trunks",
+   "text": "Well, I can help! I'm half-Saiyan, just like you!"
+  },
+  {
+   "i": 81,
+   "start": 297.8,
+   "end": 299.86,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "I've got one, Mr. Piccolo..."
+  },
+  {
+   "i": 82,
+   "start": 299.86,
+   "end": 300.36,
+   "kind": "dialog",
+   "speaker": "Young Trunks",
+   "text": "What?"
+  },
+  {
+   "i": 83,
+   "start": 300.36,
+   "end": 307.32,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "I said from now on, you shall be my pupil... and you will call me Mr. Gohan!"
+  },
+  {
+   "i": 84,
+   "start": 307.72,
+   "end": 311.92,
+   "kind": "dialog",
+   "speaker": "Young Trunks",
+   "text": "Oh! OK. Would you like to stay for dinner, Mr. Gohan?"
+  },
+  {
+   "i": 85,
+   "start": 312.3,
+   "end": 313.84,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "Mr. Gohan would!"
+  },
+  {
+   "i": 86,
+   "start": 314.64,
+   "end": 316.4,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Trunks, are you home?"
+  },
+  {
+   "i": 87,
+   "start": 316.4,
+   "end": 324.18,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Or should I change my dating profile from \"Single Mother\" to just \"Single\"? Because one gets more hits— oh... Gohan! Long time no see!"
+  },
+  {
+   "i": 88,
+   "start": 324.46,
+   "end": 325.06,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "Bulma."
+  },
+  {
+   "i": 89,
+   "start": 325.54,
+   "end": 329.34,
+   "kind": "dialog",
+   "speaker": "Single Mother",
+   "text": "*So*... *Gohan*... you staying the night?"
+  },
+  {
+   "i": 90,
+   "start": 329.78,
+   "end": 334.72,
+   "kind": "dialog",
+   "speaker": "Single Mother",
+   "text": "We got plenty of room here but, you know... no extra beds, so..."
+  },
+  {
+   "i": 91,
+   "start": 335.34,
+   "end": 336.98,
+   "kind": "dialog",
+   "speaker": "Single Mother",
+   "text": "we'll have to share..."
+  },
+  {
+   "i": 92,
+   "start": 336.98,
+   "end": 338.28,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Awkward silence"
+  },
+  {
+   "i": 93,
+   "start": 338.28,
+   "end": 338.92,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "...I'm good."
+  },
+  {
+   "i": 94,
+   "start": 339.7,
+   "end": 341.78,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Well, worth a shot. Who's hungry?"
+  },
+  {
+   "i": 95,
+   "start": 342.42,
+   "end": 347.44,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "You wouldn't believe how hard it is to get produce nowadays. Luckily, we have our own greenhouses."
+  },
+  {
+   "i": 96,
+   "start": 347.94,
+   "end": 350.12,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Don't ask me where I get the protein from, though."
+  },
+  {
+   "i": 97,
+   "start": 350.12,
+   "end": 351.22,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "Can't talk; eating!"
+  },
+  {
+   "i": 98,
+   "start": 351.22,
+   "end": 353.0,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Sounds of Mr. Gohan eating"
+  },
+  {
+   "i": 99,
+   "start": 353.0,
+   "end": 355.08,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Oh, you are *just* like your father..."
+  },
+  {
+   "i": 100,
+   "start": 353.0,
+   "end": 355.08,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Sounds of Mr. Gohan eating"
+  },
+  {
+   "i": 101,
+   "start": 355.44,
+   "end": 356.52,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "In what regard?"
+  },
+  {
+   "i": 102,
+   "start": 356.7,
+   "end": 361.0,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Well, you're strong, and brave, and look at you in that gi."
+  },
+  {
+   "i": 103,
+   "start": 361.28,
+   "end": 363.34,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "It was the only thing he left me."
+  },
+  {
+   "i": 104,
+   "start": 363.44,
+   "end": 364.74,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Aww, that's sweet."
+  },
+  {
+   "i": 105,
+   "start": 365.76,
+   "end": 371.32,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Over the next few weeks, Gohan would begin training me, focusing on making me a Super Saiyan like him."
+  },
+  {
+   "i": 106,
+   "start": 371.8,
+   "end": 374.3,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "His methods were... dodgy."
+  },
+  {
+   "i": 107,
+   "start": 374.3,
+   "end": 374.8,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "DODGE!"
+  },
+  {
+   "i": 108,
+   "start": 374.8,
+   "end": 375.58,
+   "kind": "dialog",
+   "speaker": "Young Trunks",
+   "text": "Aah-haa!"
+  },
+  {
+   "i": 109,
+   "start": 375.58,
+   "end": 377.06,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "SPLASH"
+  },
+  {
+   "i": 110,
+   "start": 378.94,
+   "end": 380.68,
+   "kind": "dialog",
+   "speaker": "Young Trunks",
+   "text": "Help me, Mr. Gohan!"
+  },
+  {
+   "i": 111,
+   "start": 381.02,
+   "end": 381.8,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "FLY UP!"
+  },
+  {
+   "i": 112,
+   "start": 382.18,
+   "end": 385.0,
+   "kind": "dialog",
+   "speaker": "Young Trunks",
+   "text": "The whirlpool's too strong! I can't swim!"
+  },
+  {
+   "i": 113,
+   "start": 385.24,
+   "end": 387.46,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "*I said*, \"FLY UP!\""
+  },
+  {
+   "i": 114,
+   "start": 387.72,
+   "end": 389.22,
+   "kind": "dialog",
+   "speaker": "Young Trunks",
+   "text": "Maybe... I can build a raft!"
+  },
+  {
+   "i": 115,
+   "start": 389.56,
+   "end": 390.98,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "(Frustrated groan)"
+  },
+  {
+   "i": 116,
+   "start": 391.44,
+   "end": 394.72,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Trunks coughing"
+  },
+  {
+   "i": 117,
+   "start": 394.72,
+   "end": 395.52,
+   "kind": "dialog",
+   "speaker": "Crab",
+   "text": "Bumba!"
+  },
+  {
+   "i": 118,
+   "start": 395.74,
+   "end": 397.62,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "Here. Clean yourself up."
+  },
+  {
+   "i": 119,
+   "start": 399.08,
+   "end": 402.56,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "You know, if you think I'm rough, you should have trained with Mr. Piccolo."
+  },
+  {
+   "i": 120,
+   "start": 403.28,
+   "end": 404.98,
+   "kind": "dialog",
+   "speaker": "Young Trunks",
+   "text": "You really looked up to him, didn't you?"
+  },
+  {
+   "i": 121,
+   "start": 405.24,
+   "end": 407.6,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "Yeah. He was like the father I never had."
+  },
+  {
+   "i": 122,
+   "start": 408.04,
+   "end": 412.18,
+   "kind": "dialog",
+   "speaker": "Young Trunks",
+   "text": "You know, speaking of dads... Mom never talks about mine..."
+  },
+  {
+   "i": 123,
+   "start": 412.58,
+   "end": 414.68,
+   "kind": "dialog",
+   "speaker": "Young Trunks",
+   "text": "You knew him, right? What was he like?"
+  },
+  {
+   "i": 124,
+   "start": 415.68,
+   "end": 419.48,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "So what!? You think having a dad who's a Super Saiyan makes you better than me!?"
+  },
+  {
+   "i": 125,
+   "start": 416.18,
+   "end": 419.48,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Ugh! Ugh! Aah! Uuh! Ugh!"
+  },
+  {
+   "i": 126,
+   "start": 419.48,
+   "end": 420.9,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "No-ho-ho...!"
+  },
+  {
+   "i": 127,
+   "start": 420.9,
+   "end": 422.22,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "WRONG ANSWER!"
+  },
+  {
+   "i": 128,
+   "start": 420.9,
+   "end": 422.22,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Uuh! Aah! Uuh!"
+  },
+  {
+   "i": 129,
+   "start": 423.24,
+   "end": 424.64,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "...he had a lot to prove."
+  },
+  {
+   "i": 130,
+   "start": 425.06,
+   "end": 427.2,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Gohan would never talk much about his family."
+  },
+  {
+   "i": 131,
+   "start": 427.2,
+   "end": 430.56,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Apparently, his mother and grandfather lived alone in the woods."
+  },
+  {
+   "i": 132,
+   "start": 430.56,
+   "end": 431.78,
+   "kind": "dialog",
+   "speaker": "Ox King",
+   "text": "I'm home!"
+  },
+  {
+   "i": 133,
+   "start": 431.78,
+   "end": 435.26,
+   "kind": "dialog",
+   "speaker": "Ox King",
+   "text": "And I've got groceries! H-how are you doing, sweetheart?"
+  },
+  {
+   "i": 134,
+   "start": 435.84,
+   "end": 437.32,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "I should be a grandmother, you know."
+  },
+  {
+   "i": 135,
+   "start": 437.86,
+   "end": 439.1,
+   "kind": "dialog",
+   "speaker": "Ox King",
+   "text": "Ohhh..."
+  },
+  {
+   "i": 136,
+   "start": 439.1,
+   "end": 443.14,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "I should be a grandmother, with a Nobel Prize-winning son. But what am I?"
+  },
+  {
+   "i": 137,
+   "start": 443.5,
+   "end": 447.7,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "A widow... with a son who never talks to me and is possibly dead."
+  },
+  {
+   "i": 138,
+   "start": 448.26,
+   "end": 450.76,
+   "kind": "dialog",
+   "speaker": "Ox King",
+   "text": "You... y-y-you, uh..."
+  },
+  {
+   "i": 139,
+   "start": 450.76,
+   "end": 453.78,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "So I'm just gonna sit here, and knit this baby sweater."
+  },
+  {
+   "i": 140,
+   "start": 454.98,
+   "end": 457.56,
+   "kind": "dialog",
+   "speaker": "Ox King",
+   "text": "So, uh... is dinner happening?"
+  },
+  {
+   "i": 141,
+   "start": 457.56,
+   "end": 459.3,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Will dinner bring my husband back!?"
+  },
+  {
+   "i": 142,
+   "start": 459.3,
+   "end": 460.12,
+   "kind": "dialog",
+   "speaker": "Ox King",
+   "text": "Maybe...?"
+  },
+  {
+   "i": 143,
+   "start": 461.1,
+   "end": 465.6,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Gohan would continue pushing me harder and harder, day and night, to become a Super Saiyan."
+  },
+  {
+   "i": 144,
+   "start": 466.7,
+   "end": 470.78,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Trunks yelling in the background"
+  },
+  {
+   "i": 145,
+   "start": 466.7,
+   "end": 470.78,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "That's it. Look at him, Mr. Piccolo — he's almost ready."
+  },
+  {
+   "i": 146,
+   "start": 471.76,
+   "end": 472.7,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "What do you think?"
+  },
+  {
+   "i": 147,
+   "start": 472.7,
+   "end": 477.26,
+   "kind": "dialog",
+   "speaker": "Mr. Piccolo",
+   "text": "'I think the only real training you'll ever get in this world... is on the battlefield.'"
+  },
+  {
+   "i": 148,
+   "start": 479.3,
+   "end": 480.68,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "You're *right*!"
+  },
+  {
+   "i": 149,
+   "start": 481.8,
+   "end": 485.06,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "The next day, the Cyborgs would attack Super World."
+  },
+  {
+   "i": 150,
+   "start": 485.6,
+   "end": 489.18,
+   "kind": "dialog",
+   "speaker": "Announcer",
+   "text": "Hello, and welcome to Super World! \"Slogan pending!\""
+  },
+  {
+   "i": 151,
+   "start": 489.5,
+   "end": 491.18,
+   "kind": "dialog",
+   "speaker": "Announcer",
+   "text": "Please stay behind the line!"
+  },
+  {
+   "i": 152,
+   "start": 492.48,
+   "end": 497.2,
+   "kind": "dialog",
+   "speaker": "Guard",
+   "text": "Huh? E-e-e-excuse me, you two! Y-y-you can't cut the line!"
+  },
+  {
+   "i": 153,
+   "start": 497.2,
+   "end": 500.78,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Do... you not know who we are?"
+  },
+  {
+   "i": 154,
+   "start": 500.78,
+   "end": 505.56,
+   "kind": "dialog",
+   "speaker": "Guard",
+   "text": "If you'd like to get on the rides faster, we do have a Fast Pass system that's only 7900 zen--"
+  },
+  {
+   "i": 155,
+   "start": 505.56,
+   "end": 506.34,
+   "kind": "dialog",
+   "speaker": "Guard",
+   "text": "uuh-hu-huh...!"
+  },
+  {
+   "i": 156,
+   "start": 506.34,
+   "end": 507.88,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "This is why I hate theme parks."
+  },
+  {
+   "i": 157,
+   "start": 509.2,
+   "end": 516.4,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Upbeat music"
+  },
+  {
+   "i": 158,
+   "start": 509.2,
+   "end": 516.4,
+   "kind": "direction",
+   "speaker": null,
+   "text": "17 and 18 enjoy the rides"
+  },
+  {
+   "i": 159,
+   "start": 516.4,
+   "end": 519.02,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Upbeat music"
+  },
+  {
+   "i": 160,
+   "start": 516.4,
+   "end": 519.02,
+   "kind": "direction",
+   "speaker": null,
+   "text": "People flee the park, screaming in terror"
+  },
+  {
+   "i": 161,
+   "start": 519.02,
+   "end": 521.78,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Upbeat music"
+  },
+  {
+   "i": 162,
+   "start": 519.02,
+   "end": 521.78,
+   "kind": "direction",
+   "speaker": null,
+   "text": "17 and 18 enjoy the rides"
+  },
+  {
+   "i": 163,
+   "start": 522.22,
+   "end": 526.1,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Yeah, you know, when you can fly, these rides don't really seem that fun."
+  },
+  {
+   "i": 164,
+   "start": 526.44,
+   "end": 530.72,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "Well, if you're already bored, why not try taking a ride on my fist?"
+  },
+  {
+   "i": 165,
+   "start": 531.42,
+   "end": 535.56,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "...*Wow*. You, uh, want a minute to rephrase that there, chief?"
+  },
+  {
+   "i": 166,
+   "start": 535.57,
+   "end": 538.75,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "Nope! I'd rather take that minute to kick your ass!"
+  },
+  {
+   "i": 167,
+   "start": 538.75,
+   "end": 540.66,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "OK, now see, that's better."
+  },
+  {
+   "i": 168,
+   "start": 540.66,
+   "end": 543.96,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "Now, Trunks, I want you to just sit back and spectate!"
+  },
+  {
+   "i": 169,
+   "start": 544.4,
+   "end": 547.06,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "Unless they team up on me, in which case — jump in."
+  },
+  {
+   "i": 170,
+   "start": 547.06,
+   "end": 549.72,
+   "kind": "dialog",
+   "speaker": "Young Trunks",
+   "text": "I can't help but feel like I'm woefully unprepared for this."
+  },
+  {
+   "i": 171,
+   "start": 549.72,
+   "end": 552.3,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "And that's *exactly* what we prepared for!"
+  },
+  {
+   "i": 172,
+   "start": 555.66,
+   "end": 559.64,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "This would be my first real battle. And I'd never seen anyone fight so fiercely!"
+  },
+  {
+   "i": 173,
+   "start": 562.52,
+   "end": 568.36,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Gohan had always told his stories about the fights in the past... but those had a lot more screaming and posturing."
+  },
+  {
+   "i": 174,
+   "start": 571.62,
+   "end": 574.14,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "But, as soon as Gohan gained the upper hand..."
+  },
+  {
+   "i": 175,
+   "start": 577.24,
+   "end": 579.06,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Damn, he's pissed today!"
+  },
+  {
+   "i": 176,
+   "start": 579.06,
+   "end": 580.54,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "You think it's his time of the month?"
+  },
+  {
+   "i": 177,
+   "start": 580.54,
+   "end": 583.0,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Ha! Ah, it's funny 'cause you're a chick!"
+  },
+  {
+   "i": 178,
+   "start": 583.5,
+   "end": 584.22,
+   "kind": "dialog",
+   "speaker": "Young Trunks",
+   "text": "Gohan!"
+  },
+  {
+   "i": 179,
+   "start": 589.6,
+   "end": 590.56,
+   "kind": "dialog",
+   "speaker": "Young Trunks",
+   "text": "Stop it!"
+  },
+  {
+   "i": 180,
+   "start": 594.4,
+   "end": 596.8,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "I can't believe you brought a kid to a battle!"
+  },
+  {
+   "i": 181,
+   "start": 597.2,
+   "end": 598.46,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Super irresponsible."
+  },
+  {
+   "i": 182,
+   "start": 598.64,
+   "end": 599.7,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "She wasn't wrong..."
+  },
+  {
+   "i": 183,
+   "start": 599.82,
+   "end": 602.66,
+   "kind": "dialog",
+   "speaker": "Young Trunks",
+   "text": "I'm not afraid of you! I can take care of you myself!"
+  },
+  {
+   "i": 184,
+   "start": 602.82,
+   "end": 603.86,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "I, however, was."
+  },
+  {
+   "i": 185,
+   "start": 606.88,
+   "end": 608.02,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Now what do you think?"
+  },
+  {
+   "i": 186,
+   "start": 608.5,
+   "end": 610.24,
+   "kind": "dialog",
+   "speaker": "Young Trunks",
+   "text": "You hit like a girl!"
+  },
+  {
+   "i": 187,
+   "start": 610.24,
+   "end": 613.22,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "(Sigh)... Well... you're not wrong."
+  },
+  {
+   "i": 188,
+   "start": 613.22,
+   "end": 613.8,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "TRUNKS!"
+  },
+  {
+   "i": 189,
+   "start": 614.62,
+   "end": 616.22,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "Oh shit oh shit oh shit oh shit oh shit!"
+  },
+  {
+   "i": 190,
+   "start": 616.46,
+   "end": 617.48,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Oh no, you don't!"
+  },
+  {
+   "i": 191,
+   "start": 617.78,
+   "end": 620.48,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Explosions aplenty"
+  },
+  {
+   "i": 192,
+   "start": 625.36,
+   "end": 627.54,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Well, shit. Think he got away?"
+  },
+  {
+   "i": 193,
+   "start": 627.68,
+   "end": 629.86,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "I don't know; we can't sense life energy."
+  },
+  {
+   "i": 194,
+   "start": 630.12,
+   "end": 633.16,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Seriously, what was the point of not giving us that ability?"
+  },
+  {
+   "i": 195,
+   "start": 633.6,
+   "end": 636.34,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Seems like an intentional design flaw if you ask me."
+  },
+  {
+   "i": 196,
+   "start": 636.68,
+   "end": 638.46,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Oh well. Scorched Earth?"
+  },
+  {
+   "i": 197,
+   "start": 638.88,
+   "end": 639.6,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Scorched Earth."
+  },
+  {
+   "i": 198,
+   "start": 639.92,
+   "end": 641.72,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "'Ah, crapbaskets!'"
+  },
+  {
+   "i": 199,
+   "start": 658.26,
+   "end": 659.62,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "Oww! Pain!"
+  },
+  {
+   "i": 200,
+   "start": 660.06,
+   "end": 664.58,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "Oh, everything's in pain. Ugh, everything but my left ar--"
+  },
+  {
+   "i": 201,
+   "start": 665.42,
+   "end": 666.82,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "...aw, man!"
+  },
+  {
+   "i": 202,
+   "start": 667.98,
+   "end": 673.72,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "Ugh, aagh, too bad I'm not a Namekian. Be reeaally handy right about now..."
+  },
+  {
+   "i": 203,
+   "start": 675.1,
+   "end": 678.66,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "'But I'll just settle on the next best thing and use the Senzu Beans!'"
+  },
+  {
+   "i": 204,
+   "start": 679.62,
+   "end": 681.86,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "'Bean... singular.'"
+  },
+  {
+   "i": 205,
+   "start": 683.1,
+   "end": 684.8,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "Ah, well, that's disappointing..."
+  },
+  {
+   "i": 206,
+   "start": 687.0,
+   "end": 689.34,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Typing"
+  },
+  {
+   "i": 207,
+   "start": 687.0,
+   "end": 689.34,
+   "kind": "dialog",
+   "speaker": "Single Mother",
+   "text": "Looking for... male..."
+  },
+  {
+   "i": 208,
+   "start": 689.8,
+   "end": 691.74,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Typing"
+  },
+  {
+   "i": 209,
+   "start": 689.8,
+   "end": 691.74,
+   "kind": "dialog",
+   "speaker": "Single Mother",
+   "text": "mid-to-late thirties..."
+  },
+  {
+   "i": 210,
+   "start": 692.08,
+   "end": 693.88,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Typing"
+  },
+  {
+   "i": 211,
+   "start": 692.08,
+   "end": 693.88,
+   "kind": "dialog",
+   "speaker": "Single Mother",
+   "text": "black spiky hair..."
+  },
+  {
+   "i": 212,
+   "start": 694.18,
+   "end": 696.18,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Typing"
+  },
+  {
+   "i": 213,
+   "start": 694.18,
+   "end": 696.18,
+   "kind": "dialog",
+   "speaker": "Single Mother",
+   "text": "not too tall..."
+  },
+  {
+   "i": 214,
+   "start": 696.54,
+   "end": 698.18,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Typing"
+  },
+  {
+   "i": 215,
+   "start": 696.54,
+   "end": 698.18,
+   "kind": "dialog",
+   "speaker": "Single Mother",
+   "text": "loves to work out."
+  },
+  {
+   "i": 216,
+   "start": 699.0,
+   "end": 699.98,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Hey, Mom?"
+  },
+  {
+   "i": 217,
+   "start": 700.24,
+   "end": 703.08,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "(Sigh) What is it, Trun—OH, MY GOD!"
+  },
+  {
+   "i": 218,
+   "start": 703.36,
+   "end": 705.34,
+   "kind": "dialog",
+   "speaker": "Young Trunks",
+   "text": "What do you know about reattaching arms?"
+  },
+  {
+   "i": 219,
+   "start": 706.02,
+   "end": 707.6,
+   "kind": "dialog",
+   "speaker": "Young Trunks",
+   "text": "...That I can't find?"
+  },
+  {
+   "i": 220,
+   "start": 708.0,
+   "end": 709.2,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Oh, sweetie."
+  },
+  {
+   "i": 221,
+   "start": 716.8,
+   "end": 719.36,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "So... have you learned anything today?"
+  },
+  {
+   "i": 222,
+   "start": 720.88,
+   "end": 723.2,
+   "kind": "dialog",
+   "speaker": "Young Trunks",
+   "text": "The only good Cyborg is a dead Cyborg?"
+  },
+  {
+   "i": 223,
+   "start": 723.58,
+   "end": 727.3,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "(Sigh)... You really are your father's son..."
+  },
+  {
+   "i": 224,
+   "start": 728.5,
+   "end": 733.46,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Now stronger and more motivated than ever, I was back to training as soon as Gohan was able again."
+  },
+  {
+   "i": 225,
+   "start": 734.12,
+   "end": 737.2,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Though I think he was still a little... sore."
+  },
+  {
+   "i": 226,
+   "start": 737.62,
+   "end": 742.26,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "Come on, Trunks! Just imagine losing someone or something close to you!"
+  },
+  {
+   "i": 227,
+   "start": 742.76,
+   "end": 747.82,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "Like your arm! 'Cause trust me... THAT REALLY FRIGGIN' SUCKS!"
+  },
+  {
+   "i": 228,
+   "start": 749.68,
+   "end": 750.64,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Trunks vomits"
+  },
+  {
+   "i": 229,
+   "start": 752.04,
+   "end": 753.12,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "Alright, take five."
+  },
+  {
+   "i": 230,
+   "start": 754.68,
+   "end": 757.94,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Unfortunately... I wouldn't transform in time."
+  },
+  {
+   "i": 231,
+   "start": 758.88,
+   "end": 762.6,
+   "kind": "dialog",
+   "speaker": "Young Trunks",
+   "text": "So, Gohan — do you usually hang out in wastelands?"
+  },
+  {
+   "i": 232,
+   "start": 762.8,
+   "end": 764.96,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "What do you mean? This is where I live."
+  },
+  {
+   "i": 233,
+   "start": 765.2,
+   "end": 765.7,
+   "kind": "dialog",
+   "speaker": "Young Trunks",
+   "text": "Oh..."
+  },
+  {
+   "i": 234,
+   "start": 766.56,
+   "end": 767.26,
+   "kind": "dialog",
+   "speaker": "Young Trunks",
+   "text": "...it's nice."
+  },
+  {
+   "i": 235,
+   "start": 767.66,
+   "end": 773.24,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "I think you're really close, you know. You just need something to push you over the edge..."
+  },
+  {
+   "i": 236,
+   "start": 773.72,
+   "end": 776.74,
+   "kind": "dialog",
+   "speaker": "Young Trunks",
+   "text": "Well, you always tell me to use the pain of loss."
+  },
+  {
+   "i": 237,
+   "start": 777.36,
+   "end": 779.72,
+   "kind": "dialog",
+   "speaker": "Young Trunks",
+   "text": "But... I've never really lost anyone."
+  },
+  {
+   "i": 238,
+   "start": 780.18,
+   "end": 782.52,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "For me, it's my greatest source of anger."
+  },
+  {
+   "i": 239,
+   "start": 783.06,
+   "end": 785.5,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "I just think about losing Krillin or Mr. Piccolo--"
+  },
+  {
+   "i": 240,
+   "start": 785.5,
+   "end": 786.2,
+   "kind": "dialog",
+   "speaker": "Young Trunks",
+   "text": "Or your dad?"
+  },
+  {
+   "i": 241,
+   "start": 786.2,
+   "end": 787.28,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "Uh, yeah, sure."
+  },
+  {
+   "i": 242,
+   "start": 787.94,
+   "end": 792.5,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "And then it just builds up inside until finally... it explodes."
+  },
+  {
+   "i": 243,
+   "start": 792.5,
+   "end": 794.5,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Explosion"
+  },
+  {
+   "i": 244,
+   "start": 794.52,
+   "end": 796.64,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "Yeah. Like that, only metaphorically."
+  },
+  {
+   "i": 245,
+   "start": 797.16,
+   "end": 800.0,
+   "kind": "dialog",
+   "speaker": "Young Trunks",
+   "text": "The Cyborgs! Mr. Gohan, we have to go!"
+  },
+  {
+   "i": 246,
+   "start": 801.6,
+   "end": 805.34,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "No, Trunks! You stay here this time. We both know you're not ready."
+  },
+  {
+   "i": 247,
+   "start": 805.7,
+   "end": 809.66,
+   "kind": "dialog",
+   "speaker": "Young Trunks",
+   "text": "Mr. Gohan, you only have one arm! What can you do with one arm?!"
+  },
+  {
+   "i": 248,
+   "start": 810.92,
+   "end": 815.12,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "You know what? You're right. What can I do with only one arm?"
+  },
+  {
+   "i": 249,
+   "start": 815.4,
+   "end": 818.48,
+   "kind": "dialog",
+   "speaker": "Young Trunks",
+   "text": "Thank you, Mr. Gohan! I will not let you dow—"
+  },
+  {
+   "i": 250,
+   "start": 818.48,
+   "end": 818.98,
+   "kind": "direction",
+   "speaker": null,
+   "text": "chop"
+  },
+  {
+   "i": 251,
+   "start": 819.92,
+   "end": 822.52,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "*That*. I can do that with one arm."
+  },
+  {
+   "i": 252,
+   "start": 823.2,
+   "end": 827.2,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "'Now... what can I do to the *Cyborgs* with one arm...?'"
+  },
+  {
+   "i": 253,
+   "start": 827.2,
+   "end": 829.34,
+   "kind": "dialog",
+   "speaker": "Mr. Piccolo",
+   "text": "'Use the Makankōsappō!'"
+  },
+  {
+   "i": 254,
+   "start": 829.34,
+   "end": 830.46,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "'You never taught me that.'"
+  },
+  {
+   "i": 255,
+   "start": 830.46,
+   "end": 833.82,
+   "kind": "dialog",
+   "speaker": "Mr. Piccolo",
+   "text": "'Uuuuse iiiiiit!'"
+  },
+  {
+   "i": 256,
+   "start": 836.3,
+   "end": 838.3,
+   "kind": "direction",
+   "speaker": null,
+   "text": "explosion"
+  },
+  {
+   "i": 257,
+   "start": 838.7,
+   "end": 840.74,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "You know what? I'm bored."
+  },
+  {
+   "i": 258,
+   "start": 841.2,
+   "end": 842.7,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Well, we could find another city."
+  },
+  {
+   "i": 259,
+   "start": 842.98,
+   "end": 847.46,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "No, I mean, like... bored of this whole \"Great Destroyer\" shtick, you know?"
+  },
+  {
+   "i": 260,
+   "start": 847.96,
+   "end": 853.54,
+   "kind": "dialog",
+   "speaker": "Mr. Piccolo",
+   "text": "Destroying things, killing people... it's just boring."
+  },
+  {
+   "i": 261,
+   "start": 851.06,
+   "end": 851.82,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Someone screams"
+  },
+  {
+   "i": 262,
+   "start": 853.54,
+   "end": 855.56,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Yeah, it's kinda lost its luster."
+  },
+  {
+   "i": 263,
+   "start": 855.56,
+   "end": 859.28,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "After you wipe an entire genre of music off the face of the Earth, what's left?"
+  },
+  {
+   "i": 264,
+   "start": 859.82,
+   "end": 863.64,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "You know what I always wanted to do? Like, since before all this?"
+  },
+  {
+   "i": 265,
+   "start": 864.42,
+   "end": 865.66,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Be a Park Ranger."
+  },
+  {
+   "i": 266,
+   "start": 865.98,
+   "end": 867.34,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "You want to range a park?"
+  },
+  {
+   "i": 267,
+   "start": 867.5,
+   "end": 868.0,
+   "kind": "direction",
+   "speaker": null,
+   "text": "man screams"
+  },
+  {
+   "i": 268,
+   "start": 868.94,
+   "end": 873.58,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Hell yeah! Livin' outdoors, communicatin' with nature, shootin' poachers..."
+  },
+  {
+   "i": 269,
+   "start": 874.42,
+   "end": 876.62,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Yeah. I think I'ma do tha—"
+  },
+  {
+   "i": 270,
+   "start": 876.62,
+   "end": 877.24,
+   "kind": "direction",
+   "speaker": null,
+   "text": "kick!"
+  },
+  {
+   "i": 271,
+   "start": 876.62,
+   "end": 877.24,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "UUH!"
+  },
+  {
+   "i": 272,
+   "start": 877.24,
+   "end": 877.74,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "GUH!"
+  },
+  {
+   "i": 273,
+   "start": 878.14,
+   "end": 879.96,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "YOU GODDAMN CHEAP SON OF A BITCH!"
+  },
+  {
+   "i": 274,
+   "start": 880.98,
+   "end": 883.14,
+   "kind": "direction",
+   "speaker": null,
+   "text": "18 laughs"
+  },
+  {
+   "i": 275,
+   "start": 883.14,
+   "end": 884.82,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "He slapped your shit!"
+  },
+  {
+   "i": 276,
+   "start": 885.56,
+   "end": 889.78,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "OK! You know what? That's it! I'm killing every human!"
+  },
+  {
+   "i": 277,
+   "start": 890.32,
+   "end": 890.86,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Every."
+  },
+  {
+   "i": 278,
+   "start": 891.16,
+   "end": 891.66,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "One!"
+  },
+  {
+   "i": 279,
+   "start": 892.64,
+   "end": 894.88,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Then I'm gonna range the shit out of that park!"
+  },
+  {
+   "i": 280,
+   "start": 895.08,
+   "end": 899.14,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "Neither of you are leaving here alive! I'm stronger than I was before!"
+  },
+  {
+   "i": 281,
+   "start": 899.44,
+   "end": 903.72,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Yeah; also lighter. Looks like you dropped some weight since last time."
+  },
+  {
+   "i": 282,
+   "start": 903.72,
+   "end": 906.88,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Five, ten pounds? I don't know; how much does an arm weigh?"
+  },
+  {
+   "i": 283,
+   "start": 906.89,
+   "end": 908.62,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Gotta hand it to you, though."
+  },
+  {
+   "i": 284,
+   "start": 908.62,
+   "end": 911.8,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Pretty ballsy coming after us all asymmetrical like that."
+  },
+  {
+   "i": 285,
+   "start": 912.14,
+   "end": 914.46,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "But four hands are better than one."
+  },
+  {
+   "i": 286,
+   "start": 915.0,
+   "end": 917.8,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Long story short: You're gonna die."
+  },
+  {
+   "i": 287,
+   "start": 918.22,
+   "end": 921.0,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "No! This isn't where my story ends!"
+  },
+  {
+   "i": 288,
+   "start": 921.86,
+   "end": 923.7,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "This is where Gohan's story ends."
+  },
+  {
+   "i": 289,
+   "start": 923.7,
+   "end": 924.48,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "D'ugh-egh!"
+  },
+  {
+   "i": 290,
+   "start": 924.48,
+   "end": 925.16,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "D'YAAAGH!"
+  },
+  {
+   "i": 291,
+   "start": 928.58,
+   "end": 932.2,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "'Ahhh, well... this is it, Mr. Piccolo...'"
+  },
+  {
+   "i": 292,
+   "start": 932.86,
+   "end": 936.74,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "'But at least we still have Trunks. I trained him just like you wanted.'"
+  },
+  {
+   "i": 293,
+   "start": 937.66,
+   "end": 939.74,
+   "kind": "dialog",
+   "speaker": "Mr. Piccolo",
+   "text": "'You know I'm not actually here, right?'"
+  },
+  {
+   "i": 294,
+   "start": 941.0,
+   "end": 942.78,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "'Ah...'"
+  },
+  {
+   "i": 295,
+   "start": 942.78,
+   "end": 944.4,
+   "kind": "dialog",
+   "speaker": "Mr. Gohan",
+   "text": "'Ah... crapbaskets...'"
+  },
+  {
+   "i": 296,
+   "start": 945.9,
+   "end": 947.02,
+   "kind": "dialog",
+   "speaker": "Young Trunks",
+   "text": "—down! Huh?"
+  },
+  {
+   "i": 297,
+   "start": 950.26,
+   "end": 951.42,
+   "kind": "dialog",
+   "speaker": "Young Trunks",
+   "text": "Oh no..."
+  },
+  {
+   "i": 298,
+   "start": 952.66,
+   "end": 955.66,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Ominous music"
+  },
+  {
+   "i": 299,
+   "start": 968.06,
+   "end": 968.62,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Shocked gasp"
+  },
+  {
+   "i": 300,
+   "start": 971.78,
+   "end": 974.1,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Music becomes sorrowful"
+  },
+  {
+   "i": 301,
+   "start": 1002.94,
+   "end": 1008.1,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Quiet whimpering and sobbing"
+  },
+  {
+   "i": 302,
+   "start": 1023.1,
+   "end": 1023.8,
+   "kind": "dialog",
+   "speaker": "Young Trunks",
+   "text": "Gohan..."
+  },
+  {
+   "i": 303,
+   "start": 1025.02,
+   "end": 1026.06,
+   "kind": "dialog",
+   "speaker": "Young Trunks",
+   "text": "Gohan!"
+  },
+  {
+   "i": 304,
+   "start": 1026.76,
+   "end": 1029.64,
+   "kind": "dialog",
+   "speaker": "Young Trunks",
+   "text": "GOHAAAAAAN!"
+  },
+  {
+   "i": 305,
+   "start": 1030.42,
+   "end": 1034.34,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Angry screaming"
+  },
+  {
+   "i": 306,
+   "start": 1034.34,
+   "end": 1039.16,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Trunks whimpering."
+  },
+  {
+   "i": 307,
+   "start": 1039.3,
+   "end": 1044.54,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Angry screaming resumes."
+  },
+  {
+   "i": 308,
+   "start": 1047.4,
+   "end": 1052.82,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Angry screaming continues."
+  },
+  {
+   "i": 309,
+   "start": 1061.32,
+   "end": 1064.36,
+   "kind": "dialog",
+   "speaker": "Slightly Older Trunks",
+   "text": "Alright, Mom. I got the rest of the supplies for the Time Machine."
+  },
+  {
+   "i": 310,
+   "start": 1064.68,
+   "end": 1067.12,
+   "kind": "dialog",
+   "speaker": "Slightly Older Trunks",
+   "text": "It's too bad Grandpa isn't here to help you build it."
+  },
+  {
+   "i": 311,
+   "start": 1067.13,
+   "end": 1071.15,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Yeah. Unfortunately, he's still off searching the cosmos for New Namek."
+  },
+  {
+   "i": 312,
+   "start": 1072.26,
+   "end": 1074.92,
+   "kind": "dialog",
+   "speaker": "Dr. Brief",
+   "text": "By *God*! Is that it?!"
+  },
+  {
+   "i": 313,
+   "start": 1075.46,
+   "end": 1076.26,
+   "kind": "dialog",
+   "speaker": "Dr. Brief",
+   "text": "After all these—"
+  },
+  {
+   "i": 314,
+   "start": 1077.58,
+   "end": 1079.08,
+   "kind": "dialog",
+   "speaker": "Dr. Brief",
+   "text": "GOD DAMMIT ALL!"
+  },
+  {
+   "i": 315,
+   "start": 1079.6,
+   "end": 1082.7,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "So until your Grandpa returns — just me."
+  },
+  {
+   "i": 316,
+   "start": 1082.7,
+   "end": 1086.5,
+   "kind": "dialog",
+   "speaker": "Radio",
+   "text": "(Static) Hello! This is an emergency broadcast from Cuminopolis!"
+  },
+  {
+   "i": 317,
+   "start": 1086.5,
+   "end": 1089.66,
+   "kind": "dialog",
+   "speaker": "Radio",
+   "text": "The Cyborgs are attacking! And they are sparing no one!"
+  },
+  {
+   "i": 318,
+   "start": 1089.66,
+   "end": 1090.5,
+   "kind": "dialog",
+   "speaker": "Radio",
+   "text": "No one is saf—!"
+  },
+  {
+   "i": 319,
+   "start": 1090.5,
+   "end": 1091.44,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Radio broadcast terminated"
+  },
+  {
+   "i": 320,
+   "start": 1092.0,
+   "end": 1093.32,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "That's close to here."
+  },
+  {
+   "i": 321,
+   "start": 1093.32,
+   "end": 1096.92,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Trunks, I know what you're thinking, but let me just finish the Time Machine—"
+  },
+  {
+   "i": 322,
+   "start": 1096.92,
+   "end": 1098.52,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "We don't have *time* for that!"
+  },
+  {
+   "i": 323,
+   "start": 1098.52,
+   "end": 1100.72,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "That's what the *Machine* is for!"
+  },
+  {
+   "i": 324,
+   "start": 1100.72,
+   "end": 1103.82,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Listen! I'm stronger now! I'm a Super Saiyan!"
+  },
+  {
+   "i": 325,
+   "start": 1100.72,
+   "end": 1110.5,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Vegeta yelling from another planet... and timeline"
+  },
+  {
+   "i": 326,
+   "start": 1103.82,
+   "end": 1106.24,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "So was Gohan, and look how that turned out!"
+  },
+  {
+   "i": 327,
+   "start": 1106.24,
+   "end": 1109.06,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Oh, so now you're just replacing Dad with *Gohan*?"
+  },
+  {
+   "i": 328,
+   "start": 1109.06,
+   "end": 1110.5,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Trust me, I *tried*!"
+  },
+  {
+   "i": 329,
+   "start": 1110.5,
+   "end": 1114.04,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Disturbed silence, except for Vegeta's yelling (which fades out)"
+  },
+  {
+   "i": 330,
+   "start": 1114.04,
+   "end": 1115.0,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "...I'm going now."
+  },
+  {
+   "i": 331,
+   "start": 1115.0,
+   "end": 1116.04,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Be safe."
+  },
+  {
+   "i": 332,
+   "start": 1116.86,
+   "end": 1123.0,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "And so, armed with the sword given to me by Tapion... which is a whole... other story..."
+  },
+  {
+   "i": 333,
+   "start": 1123.0,
+   "end": 1126.9,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "I raced off to fight the Cyborgs... one last time."
+  },
+  {
+   "i": 334,
+   "start": 1135.2,
+   "end": 1136.56,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "We all wrapped up, then?"
+  },
+  {
+   "i": 335,
+   "start": 1136.78,
+   "end": 1138.9,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Yep! Looks like we're out of people to kill here."
+  },
+  {
+   "i": 336,
+   "start": 1141.06,
+   "end": 1142.36,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Why don't you try me?"
+  },
+  {
+   "i": 337,
+   "start": 1142.76,
+   "end": 1145.1,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Wait, did you just *ask* us to kill you?"
+  },
+  {
+   "i": 338,
+   "start": 1145.36,
+   "end": 1147.22,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "N-no; a-as in \"fight me\"!"
+  },
+  {
+   "i": 339,
+   "start": 1147.54,
+   "end": 1148.98,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "I'm sorry, do we know you?"
+  },
+  {
+   "i": 340,
+   "start": 1149.04,
+   "end": 1150.86,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "YES! You murdered my maste—"
+  },
+  {
+   "i": 341,
+   "start": 1150.86,
+   "end": 1151.78,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Oh wait, hold on..."
+  },
+  {
+   "i": 342,
+   "start": 1152.4,
+   "end": 1153.18,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "I don't care."
+  },
+  {
+   "i": 343,
+   "start": 1156.26,
+   "end": 1159.4,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "To this day, I'm still not sure why I did what I did."
+  },
+  {
+   "i": 344,
+   "start": 1160.52,
+   "end": 1161.64,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Maybe it was grief."
+  },
+  {
+   "i": 345,
+   "start": 1163.12,
+   "end": 1164.46,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Maybe it was puberty."
+  },
+  {
+   "i": 346,
+   "start": 1165.6,
+   "end": 1167.78,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Maybe, I just had something to prove."
+  },
+  {
+   "i": 347,
+   "start": 1168.64,
+   "end": 1172.74,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "A young half-blood Super Saiyan, armed with nothing but a sword and his guts."
+  },
+  {
+   "i": 348,
+   "start": 1174.92,
+   "end": 1182.32,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Unfortunately... half-human and half-Saiyan... might just be analogous to half-brave, and half-stupid."
+  },
+  {
+   "i": 349,
+   "start": 1184.98,
+   "end": 1185.52,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "I..."
+  },
+  {
+   "i": 350,
+   "start": 1187.18,
+   "end": 1188.04,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "I did it!"
+  },
+  {
+   "i": 351,
+   "start": 1188.64,
+   "end": 1192.54,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Hey! Doesn't he kinda remind you of you-know-who?"
+  },
+  {
+   "i": 352,
+   "start": 1192.54,
+   "end": 1199.52,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Now that you mention it, I do see the resemblance... but unlike good ol' Righty, he's still got both arms."
+  },
+  {
+   "i": 353,
+   "start": 1199.8,
+   "end": 1201.84,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Yeah... but not for long."
+  },
+  {
+   "i": 354,
+   "start": 1202.7,
+   "end": 1204.74,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "'Oh... crapbaske—'"
+  },
+  {
+   "i": 355,
+   "start": 1204.74,
+   "end": 1205.3,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "GAH!"
+  },
+  {
+   "i": 356,
+   "start": 1208.46,
+   "end": 1210.06,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "You lost, little boy?"
+  },
+  {
+   "i": 357,
+   "start": 1210.14,
+   "end": 1211.04,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Ohhh..."
+  },
+  {
+   "i": 358,
+   "start": 1211.32,
+   "end": 1215.08,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Pained yells"
+  },
+  {
+   "i": 359,
+   "start": 1219.22,
+   "end": 1221.56,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Hey, Sunshine. Cough if you're still alive."
+  },
+  {
+   "i": 360,
+   "start": 1221.82,
+   "end": 1223.58,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Violent coughing"
+  },
+  {
+   "i": 361,
+   "start": 1223.7,
+   "end": 1224.54,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Good boy!"
+  },
+  {
+   "i": 362,
+   "start": 1224.94,
+   "end": 1228.0,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Why? Why are you doing this?"
+  },
+  {
+   "i": 363,
+   "start": 1228.36,
+   "end": 1232.12,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "The question isn't \"Why?\", kid. It's \"Why not?\""
+  },
+  {
+   "i": 364,
+   "start": 1232.42,
+   "end": 1234.58,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "I mean... who's going to stop us?"
+  },
+  {
+   "i": 365,
+   "start": 1234.9,
+   "end": 1237.26,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Not those guys seventeen years ago."
+  },
+  {
+   "i": 366,
+   "start": 1237.26,
+   "end": 1238.52,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Not ol' One-Arm."
+  },
+  {
+   "i": 367,
+   "start": 1238.52,
+   "end": 1240.6,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "And certainly not you."
+  },
+  {
+   "i": 368,
+   "start": 1241.28,
+   "end": 1243.2,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "You...!"
+  },
+  {
+   "i": 369,
+   "start": 1243.84,
+   "end": 1248.34,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "You evil bunch of jerks, I'll kick your God damn..."
+  },
+  {
+   "i": 370,
+   "start": 1247.3,
+   "end": 1248.34,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Hu-ha-ha!"
+  },
+  {
+   "i": 371,
+   "start": 1248.34,
+   "end": 1249.82,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "This is hilarious!"
+  },
+  {
+   "i": 372,
+   "start": 1248.34,
+   "end": 1250.32,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "...you killed my master..."
+  },
+  {
+   "i": 373,
+   "start": 1250.32,
+   "end": 1250.96,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Yeah!"
+  },
+  {
+   "i": 374,
+   "start": 1250.32,
+   "end": 1252.4,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "...you killed all those people..."
+  },
+  {
+   "i": 375,
+   "start": 1251.66,
+   "end": 1253.26,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Although now it's kind of annoying."
+  },
+  {
+   "i": 376,
+   "start": 1252.4,
+   "end": 1256.6,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "WHY? WHY? WHY? WHY? WHY? WHY?"
+  },
+  {
+   "i": 377,
+   "start": 1253.98,
+   "end": 1255.1,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Now it's sad."
+  },
+  {
+   "i": 378,
+   "start": 1255.68,
+   "end": 1256.6,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "And now it's annoying again."
+  },
+  {
+   "i": 379,
+   "start": 1256.6,
+   "end": 1257.28,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Gah-huu--!"
+  },
+  {
+   "i": 380,
+   "start": 1257.28,
+   "end": 1261.1,
+   "kind": "direction",
+   "speaker": null,
+   "text": "More pain"
+  },
+  {
+   "i": 381,
+   "start": 1263.08,
+   "end": 1266.3,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Wait a sec... this kid look familiar to you, sis?"
+  },
+  {
+   "i": 382,
+   "start": 1266.66,
+   "end": 1269.96,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Yeah...! He was at the amusement park with Stumpy!"
+  },
+  {
+   "i": 383,
+   "start": 1270.96,
+   "end": 1275.38,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Aww, who's a little survivor? You are! Yes, you are!"
+  },
+  {
+   "i": 384,
+   "start": 1276.34,
+   "end": 1277.94,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Let's fix that, shall we?"
+  },
+  {
+   "i": 385,
+   "start": 1280.48,
+   "end": 1281.16,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Dibs!"
+  },
+  {
+   "i": 386,
+   "start": 1281.16,
+   "end": 1281.84,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "SIS! GET OUT OF THE—"
+  },
+  {
+   "i": 387,
+   "start": 1281.84,
+   "end": 1284.1,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Boosh"
+  },
+  {
+   "i": 388,
+   "start": 1284.1,
+   "end": 1285.78,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Did you just friggin' *blast* me?!"
+  },
+  {
+   "i": 389,
+   "start": 1285.78,
+   "end": 1288.6,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "You stepped in *front* of it! What is *wrong* with you?!"
+  },
+  {
+   "i": 390,
+   "start": 1285.78,
+   "end": 1289.999,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "NO-NO-TH-THAT'S IT! We're leaving!"
+  },
+  {
+   "i": 391,
+   "start": 1290.0,
+   "end": 1294.1,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Oh come on, *sis*! ...Sis, get back here!"
+  },
+  {
+   "i": 392,
+   "start": 1290.84,
+   "end": 1294.1,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "I still have *no idea* how I survived..."
+  },
+  {
+   "i": 393,
+   "start": 1298.74,
+   "end": 1300.96,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Trunks, sweetie? You waking up?"
+  },
+  {
+   "i": 394,
+   "start": 1303.54,
+   "end": 1305.98,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Mom? Am I alive?"
+  },
+  {
+   "i": 395,
+   "start": 1306.64,
+   "end": 1308.45,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "How long was I out?"
+  },
+  {
+   "i": 396,
+   "start": 1308.45,
+   "end": 1310.36,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Well, I finished the Time Machine."
+  },
+  {
+   "i": 397,
+   "start": 1310.6,
+   "end": 1312.9,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Oh... is that long?"
+  },
+  {
+   "i": 398,
+   "start": 1312.98,
+   "end": 1318.22,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Yeeeaah, which means you got two options: You take another swing at the Cyborgs..."
+  },
+  {
+   "i": 399,
+   "start": 1318.22,
+   "end": 1319.32,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Groans in pain"
+  },
+  {
+   "i": 400,
+   "start": 1319.32,
+   "end": 1321.54,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Or you use the Time Machine to go save Goku."
+  },
+  {
+   "i": 401,
+   "start": 1322.24,
+   "end": 1323.7,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "I wanna save Goku..."
+  },
+  {
+   "i": 402,
+   "start": 1323.7,
+   "end": 1324.5,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "*Trunks*..."
+  },
+  {
+   "i": 403,
+   "start": 1324.5,
+   "end": 1326.12,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "I want to save Goku!"
+  },
+  {
+   "i": 404,
+   "start": 1326.12,
+   "end": 1327.36,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Good boy!"
+  },
+  {
+   "i": 405,
+   "start": 1328.2,
+   "end": 1331.22,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "After recovering a few months, I was finally ready."
+  },
+  {
+   "i": 406,
+   "start": 1331.62,
+   "end": 1336.5,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Aww! My jacket looks so good on you. All the girls in the past are just gonna love it."
+  },
+  {
+   "i": 407,
+   "start": 1336.58,
+   "end": 1337.22,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Thanks, Mom."
+  },
+  {
+   "i": 408,
+   "start": 1337.88,
+   "end": 1342.3,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "So this is it! I can't believe I finally get to meet history's greatest hero!"
+  },
+  {
+   "i": 409,
+   "start": 1342.52,
+   "end": 1348.78,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Yeah... Goku might not be exactly how you think, so do temper your expectations."
+  },
+  {
+   "i": 410,
+   "start": 1348.78,
+   "end": 1351.04,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "And Dad! I finally get to meet Dad!"
+  },
+  {
+   "i": 411,
+   "start": 1351.36,
+   "end": 1352.76,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Oh shit, you do."
+  },
+  {
+   "i": 412,
+   "start": 1352.76,
+   "end": 1353.3,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Huh?"
+  },
+  {
+   "i": 413,
+   "start": 1353.3,
+   "end": 1357.28,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "I mean, just be yourself, sweetie, and everything will turn out okay!"
+  },
+  {
+   "i": 414,
+   "start": 1359.38,
+   "end": 1361.08,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Alright, Mom. I'm off."
+  },
+  {
+   "i": 415,
+   "start": 1361.42,
+   "end": 1364.92,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Next time you see me... this'll be a Cyborg-free world!"
+  },
+  {
+   "i": 416,
+   "start": 1365.28,
+   "end": 1365.78,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Yup!"
+  },
+  {
+   "i": 417,
+   "start": 1366.2,
+   "end": 1369.4,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "...Unless this actually operates on Multiverse Theory, in which case—"
+  },
+  {
+   "i": 418,
+   "start": 1369.4,
+   "end": 1371.34,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Tardis sound effects"
+  },
+  {
+   "i": 419,
+   "start": 1369.4,
+   "end": 1371.34,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Can't hear you, Mom; Time Machine!"
+  },
+  {
+   "i": 420,
+   "start": 1371.35,
+   "end": 1372.89,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Tardis sound effects"
+  },
+  {
+   "i": 421,
+   "start": 1371.35,
+   "end": 1372.89,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Bye, sweetie!"
+  },
+  {
+   "i": 422,
+   "start": 1372.89,
+   "end": 1377.16,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Tardis sound effects fade out"
+  },
+  {
+   "i": 423,
+   "start": 1378.8,
+   "end": 1381.06,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "...Aaand Multiverse Theory it is."
+  },
+  {
+   "i": 424,
+   "start": 1381.44,
+   "end": 1382.12,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Shit!"
+  },
+  {
+   "i": 425,
+   "start": 1382.6,
+   "end": 1384.8,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"Doctor Chala\" ♫"
+  },
+  {
+   "i": 426,
+   "start": 1445.42,
+   "end": 1447.42,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Static"
+  },
+  {
+   "i": 427,
+   "start": 1451.14,
+   "end": 1453.96,
+   "kind": "dialog",
+   "speaker": "Oolong",
+   "text": "Alright, they haven't been back in two days."
+  },
+  {
+   "i": 428,
+   "start": 1453.96,
+   "end": 1456.26,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "I can't believe they took my house..."
+  },
+  {
+   "i": 429,
+   "start": 1456.62,
+   "end": 1461.2,
+   "kind": "dialog",
+   "speaker": "Oolong",
+   "text": "I'm going in for a food run. All that's left is the Spam and the pork rinds..."
+  },
+  {
+   "i": 430,
+   "start": 1461.34,
+   "end": 1463.56,
+   "kind": "dialog",
+   "speaker": "Puar",
+   "text": "We both knew this day would come, Oolong!"
+  },
+  {
+   "i": 431,
+   "start": 1463.72,
+   "end": 1467.58,
+   "kind": "dialog",
+   "speaker": "Oolong",
+   "text": "I have long since made peace with this. I'm just glad we're still alive."
+  },
+  {
+   "i": 432,
+   "start": 1467.76,
+   "end": 1471.1,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "All thanks to my submarine: The \"U.S.S. M'Dick\"!"
+  },
+  {
+   "i": 433,
+   "start": 1471.54,
+   "end": 1473.3,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "Speaking of which..."
+  },
+  {
+   "i": 434,
+   "start": 1473.3,
+   "end": 1474.24,
+   "kind": "dialog",
+   "speaker": "Oolong",
+   "text": "Oh no..."
+  },
+  {
+   "i": 435,
+   "start": 1474.24,
+   "end": 1476.0,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "I've been meaning to ask...!"
+  },
+  {
+   "i": 436,
+   "start": 1476.0,
+   "end": 1477.24,
+   "kind": "dialog",
+   "speaker": "Oolong",
+   "text": "Knew it, I friggin' knew it!"
+  },
+  {
+   "i": 437,
+   "start": 1477.24,
+   "end": 1479.5,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "HOW DOES IT FEEL RIDING M'DICK!?!"
+  },
+  {
+   "i": 438,
+   "start": 1479.5,
+   "end": 1483.76,
+   "kind": "dialog",
+   "speaker": "Oolong",
+   "text": "*Seventeen years*! Seventeen years you've been holding on to that one!"
+  },
+  {
+   "i": 439,
+   "start": 1483.76,
+   "end": 1486.06,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "You don't know the patience I have..."
+  },
+  {
+   "i": 440,
+   "start": 1486.58,
+   "end": 1488.14,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "Didn't answer my question either."
+  },
+  {
+   "i": 441,
+   "start": 1488.14,
+   "end": 1490.12,
+   "kind": "dialog",
+   "speaker": "Oolong",
+   "text": "It's tight and damp..."
+  },
+  {
+   "i": 442,
+   "start": 1490.12,
+   "end": 1494.42,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Roshi cackles."
+  },
+  {
+   "i": 443,
+   "start": 1494.42,
+   "end": 1495.9,
+   "kind": "dialog",
+   "speaker": "Puar",
+   "text": "We're gonna die in here..."
+  },
+  {
+   "i": 444,
+   "start": 1494.42,
+   "end": 1497.02,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Roshi continues cackling."
+  },
+  {
+   "i": 445,
+   "start": 1497.6,
+   "end": 1509.0,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ Video game variant of \"Cha-La Head-Cha-La\" ♫"
+  }
+ ],
+ "segments": [
+  {
+   "start": 22.9,
+   "end": 51.2,
+   "title": "Dad Dead! Dad Dead!",
+   "quote": "Dad dead! Dad dead! / I am told those were my first words.",
+   "line_start": 2,
+   "line_end": 14
+  },
+  {
+   "start": 154.9,
+   "end": 185.2,
+   "title": "13 Going on 37",
+   "quote": "Because YOU are 13, I'm 37, and I am all alone. / My mother had been 37 for ten years...",
+   "line_start": 37,
+   "line_end": 47
+  },
+  {
+   "start": 264.4,
+   "end": 293.6,
+   "title": "Gohan's Happy Childhood",
+   "quote": "But it was better, right? / ...No.",
+   "line_start": 71,
+   "line_end": 79
+  },
+  {
+   "start": 293.4,
+   "end": 314.0,
+   "title": "Call Me Mr. Gohan",
+   "quote": "From now on, you shall be my pupil... and you will call me Mr. Gohan! / Mr. Gohan would!",
+   "line_start": 80,
+   "line_end": 85
+  },
+  {
+   "start": 371.3,
+   "end": 391.1,
+   "title": "DODGE!",
+   "quote": "His methods were... dodgy. / DODGE!",
+   "line_start": 106,
+   "line_end": 115
+  },
+  {
+   "start": 415.2,
+   "end": 424.7,
+   "title": "WRONG ANSWER",
+   "quote": "You think having a dad who's a Super Saiyan makes you better than me!? / WRONG ANSWER!",
+   "line_start": 124,
+   "line_end": 129
+  },
+  {
+   "start": 629.6,
+   "end": 642.0,
+   "title": "Scorched Earth",
+   "quote": "Seems like an intentional design flaw if you ask me. / Oh well. Scorched Earth? / Scorched Earth.",
+   "line_start": 193,
+   "line_end": 198
+  },
+  {
+   "start": 865.5,
+   "end": 895.1,
+   "title": "Range the Shit Out of That Park",
+   "quote": "You want to range a park? / Hell yeah! ... I'm killing every human! Then I'm gonna range the shit out of that park!",
+   "line_start": 266,
+   "line_end": 279
+  },
+  {
+   "start": 895.0,
+   "end": 918.0,
+   "title": "How Much Does an Arm Weigh?",
+   "quote": "Looks like you dropped some weight since last time. ... Long story short: You're gonna die.",
+   "line_start": 280,
+   "line_end": 286
+  },
+  {
+   "start": 917.7,
+   "end": 944.5,
+   "title": "This Is Where Gohan's Story Ends",
+   "quote": "'This is it, Mr. Piccolo...' / 'You know I'm not actually here, right?' / 'Ah... crapbaskets...'",
+   "line_start": 287,
+   "line_end": 295
+  },
+  {
+   "start": 1022.5,
+   "end": 1034.4,
+   "title": "GOHAAAAAAN!",
+   "quote": "Gohan... Gohan! GOHAAAAAAN!",
+   "line_start": 302,
+   "line_end": 305
+  },
+  {
+   "start": 1243.3,
+   "end": 1257.4,
+   "title": "WHY? WHY? WHY?",
+   "quote": "You evil bunch of jerks... / This is hilarious! / And now it's annoying again.",
+   "line_start": 369,
+   "line_end": 379
+  },
+  {
+   "start": 1358.9,
+   "end": 1382.2,
+   "title": "Multiverse Theory",
+   "quote": "Can't hear you, Mom; Time Machine! / ...Aaand Multiverse Theory it is. Shit!",
+   "line_start": 414,
+   "line_end": 424
+  },
+  {
+   "start": 1467.3,
+   "end": 1490.2,
+   "title": "The U.S.S. M'Dick",
+   "quote": "All thanks to my submarine: The \"U.S.S. M'Dick\"! ... HOW DOES IT FEEL RIDING M'DICK!?!",
+   "line_start": 432,
+   "line_end": 441
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+---
+import Base from "../layouts/Base.astro";
+import site from "../gen/site.json";
+import { mediaLabel, ytThumb, fmtTime } from "../lib/util.js";
+
+const clips = site.clips
+  .filter((c) => c.status === "published")
+  .sort((a, b) => (b.signal || 0) - (a.signal || 0));
+const mediaById = Object.fromEntries(site.media.dbza.map((m) => [m.id, m]));
+---
+
+<Base title="Clip catalog | DBZA Quotes" description={`${clips.length} curated DBZA moments, mined from a decade of fan favorites.`}>
+  <h1>Clip catalog</h1>
+  <p class="meta">
+    {clips.length} curated moments — seeded from the most-quoted lines in r/TeamFourStar history.
+    Missing one? Open it in the <a href="/">search</a>, adjust, and hit “Suggest for catalog”.
+  </p>
+  <input type="search" id="filter" placeholder="Filter by quote, character, episode…" autocomplete="off" />
+  <div class="clip-grid" id="grid" style="margin-top:1rem">
+    {clips.map((c) => {
+      const m = mediaById[c.media];
+      return (
+        <a class="clip-card" href={`/clip/dbza/${c.id}/`} data-k={`${c.title} ${c.quote} ${c.speaker} ${mediaLabel(m)}`.toLowerCase()}>
+          <img loading="lazy" src={ytThumb(m.youtube, "mqdefault")} alt="" />
+          <div class="pad">
+            <div class="title">{c.title}</div>
+            <div class="meta">{c.speaker} · {mediaLabel(m)} · {fmtTime(c.start)}</div>
+          </div>
+        </a>
+      );
+    })}
+  </div>
+</Base>
+
+<script>
+  const input = document.getElementById("filter");
+  const cards = [...document.querySelectorAll("#grid .clip-card")];
+  input.addEventListener("input", () => {
+    const q = input.value.toLowerCase().trim();
+    for (const c of cards) c.style.display = !q || c.dataset.k.includes(q) ? "" : "none";
+  });
+</script>

@@ -1,0 +1,2027 @@
+{
+ "item": "e23",
+ "show": "dbza",
+ "youtube": "ctd84NLgTxw",
+ "title": "Episode 21",
+ "duration": 579,
+ "lines": [
+  {
+   "i": 0,
+   "start": 6.96,
+   "end": 8.04,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "Yes best time!"
+  },
+  {
+   "i": 1,
+   "start": 9.1,
+   "end": 11.58,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Finally! I'm on Planet Namek."
+  },
+  {
+   "i": 2,
+   "start": 11.58,
+   "end": 13.4,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "HELP UUU-UU-UUS!"
+  },
+  {
+   "i": 3,
+   "start": 13.4,
+   "end": 15.26,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "So *serene*..."
+  },
+  {
+   "i": 4,
+   "start": 15.26,
+   "end": 18.0,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "OH GOD, HE'S KILLING US! HE-E-ELP!"
+  },
+  {
+   "i": 5,
+   "start": 18.0,
+   "end": 24.52,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I think I hear a duck... but this far out in space? That doesn't make any sense!"
+  },
+  {
+   "i": 6,
+   "start": 24.52,
+   "end": 25.88,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "QUAAAACK!"
+  },
+  {
+   "i": 7,
+   "start": 25.88,
+   "end": 28.14,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh, no! That sounds like Krillin!"
+  },
+  {
+   "i": 8,
+   "start": 28.14,
+   "end": 29.92,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I'ma COMIN'!"
+  },
+  {
+   "i": 9,
+   "start": 30.6,
+   "end": 34.26,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"Sanjō!! Ginyū Tokusentai!!\" ♫"
+  },
+  {
+   "i": 10,
+   "start": 34.26,
+   "end": 37.08,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Eriito Senshi - Ginyū Tokusentai!"
+  },
+  {
+   "i": 11,
+   "start": 37.94,
+   "end": 42.3,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ Tokusentai! ♫"
+  },
+  {
+   "i": 12,
+   "start": 44.94,
+   "end": 49.98,
+   "kind": "dialog",
+   "speaker": "Announcer",
+   "text": "\"Kono bangumi wa TeamFourStar Soda to goran no suponsaa no teikyou de okurishimasu.\" (This program is brought to you by TeamFourStar Soda and the following sponsors.)"
+  },
+  {
+   "i": 13,
+   "start": 51.7,
+   "end": 56.36,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "I can't believe we came all the way out here and spent a week in the space boonies for nothing!"
+  },
+  {
+   "i": 14,
+   "start": 56.36,
+   "end": 62.6,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Seriously, I'm surprised that we didn't hear banjos on the way in, because everybody's inbred AND LOOKS THE F***ING SAME!"
+  },
+  {
+   "i": 15,
+   "start": 62.6,
+   "end": 72.16,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Not to mention I lost Dodoria *and* Zarbon, the latter of whom spent 400 credits making long distance calls to his girlfriend, WHO I AM CONVINCED IS NAMED CHUCK!!"
+  },
+  {
+   "i": 16,
+   "start": 72.16,
+   "end": 73.06,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Lord Freeza?"
+  },
+  {
+   "i": 17,
+   "start": 73.06,
+   "end": 74.02,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "WHAT!?"
+  },
+  {
+   "i": 18,
+   "start": 74.02,
+   "end": 76.38,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "There may be still be a few holed up somewhere."
+  },
+  {
+   "i": 19,
+   "start": 76.38,
+   "end": 78.2,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Perhaps you should check your Scouter!"
+  },
+  {
+   "i": 20,
+   "start": 79.34,
+   "end": 80.6,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Various Scouter beeps"
+  },
+  {
+   "i": 21,
+   "start": 80.72,
+   "end": 83.18,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Well, would you look at that. Three in that direction!"
+  },
+  {
+   "i": 22,
+   "start": 83.4,
+   "end": 84.36,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Good work, Ginyu."
+  },
+  {
+   "i": 23,
+   "start": 84.36,
+   "end": 85.74,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "All in a day's work, sir."
+  },
+  {
+   "i": 24,
+   "start": 88.9,
+   "end": 91.94,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "And now... The Dance of Solitude!"
+  },
+  {
+   "i": 25,
+   "start": 91.94,
+   "end": 94.1,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"Vogue\" ♫"
+  },
+  {
+   "i": 26,
+   "start": 95.36,
+   "end": 97.6,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "So, are we just waiting for this thing or wha--?"
+  },
+  {
+   "i": 27,
+   "start": 99.12,
+   "end": 100.06,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "'OLY DOOLIE!"
+  },
+  {
+   "i": 28,
+   "start": 100.06,
+   "end": 101.58,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "JESUS, THAT WAS *FAST*!"
+  },
+  {
+   "i": 29,
+   "start": 102.02,
+   "end": 108.12,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "I-I-I mean not as... not as fast as me, considering I'm the fastest in the... i-in the Universe..."
+  },
+  {
+   "i": 30,
+   "start": 108.12,
+   "end": 110.1,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "...but compared to the average person--!"
+  },
+  {
+   "i": 31,
+   "start": 110.1,
+   "end": 111.78,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "We get it, mate. It's cool."
+  },
+  {
+   "i": 32,
+   "start": 111.78,
+   "end": 112.28,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Gohan!"
+  },
+  {
+   "i": 33,
+   "start": 112.28,
+   "end": 113.18,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hey, Gohan!"
+  },
+  {
+   "i": 34,
+   "start": 113.5,
+   "end": 114.26,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Gohan!"
+  },
+  {
+   "i": 35,
+   "start": 114.8,
+   "end": 115.72,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Gohan?"
+  },
+  {
+   "i": 36,
+   "start": 116.16,
+   "end": 118.34,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Maybe he'll wake up if I shake him some more..."
+  },
+  {
+   "i": 37,
+   "start": 118.34,
+   "end": 120.14,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "GOKU! JUST GIVE HIM A SENZU!"
+  },
+  {
+   "i": 38,
+   "start": 120.14,
+   "end": 122.1,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "OH, right! Eat up Gohan!"
+  },
+  {
+   "i": 39,
+   "start": 122.1,
+   "end": 125.1,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "HEY! Recoome was in the middle of a match here!"
+  },
+  {
+   "i": 40,
+   "start": 125.1,
+   "end": 125.98,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "So how about you--"
+  },
+  {
+   "i": 41,
+   "start": 125.98,
+   "end": 129.28,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Sir? I am *talking*... to my *son*."
+  },
+  {
+   "i": 42,
+   "start": 129.28,
+   "end": 130.84,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "Oh; Recoome apologizes."
+  },
+  {
+   "i": 43,
+   "start": 131.32,
+   "end": 135.06,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "...Wait, what am I apologizing for?! RECOOME'S GONNA KILL YOU!"
+  },
+  {
+   "i": 44,
+   "start": 136.2,
+   "end": 137.16,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Dad?"
+  },
+  {
+   "i": 45,
+   "start": 137.16,
+   "end": 137.88,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "DAD!"
+  },
+  {
+   "i": 46,
+   "start": 137.88,
+   "end": 141.38,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Oh my God, you're here! I love you, Dad!"
+  },
+  {
+   "i": 47,
+   "start": 141.38,
+   "end": 143.96,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "That's right, Gohan. I *am* here!"
+  },
+  {
+   "i": 48,
+   "start": 144.36,
+   "end": 146.34,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hey, Krillin! Ya hanging in there?"
+  },
+  {
+   "i": 49,
+   "start": 146.34,
+   "end": 150.04,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Oh! I've had worse. You know, when I died..."
+  },
+  {
+   "i": 50,
+   "start": 150.42,
+   "end": 152.12,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "This is definitely a close second though...."
+  },
+  {
+   "i": 51,
+   "start": 152.12,
+   "end": 154.58,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "RECOOME WILL NOT BE IGNORED!"
+  },
+  {
+   "i": 52,
+   "start": 154.58,
+   "end": 158.06,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "SIR! I am *trying* to talk to my friends!"
+  },
+  {
+   "i": 53,
+   "start": 158.06,
+   "end": 159.7,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hey Vegeta, we're friends now, right?"
+  },
+  {
+   "i": 54,
+   "start": 159.7,
+   "end": 160.32,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "F*** off."
+  },
+  {
+   "i": 55,
+   "start": 160.32,
+   "end": 162.54,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "The best! Now have a magic bean!"
+  },
+  {
+   "i": 56,
+   "start": 163.12,
+   "end": 167.36,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "But make sure you chew it, or else you'll grow a beanstalk in your belly!"
+  },
+  {
+   "i": 57,
+   "start": 167.36,
+   "end": 177.3,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Goku, it was terrible! We landed here, and then there were these really strong guys, and there was even more strong guys, AND THEN OUR SHIP BLEW UP, AND THEN THERE WAS *EVEN MORE STR*--!"
+  },
+  {
+   "i": 58,
+   "start": 177.3,
+   "end": 178.62,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Bored now! Reading your mind!"
+  },
+  {
+   "i": 59,
+   "start": 178.62,
+   "end": 179.12,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Wait wha--?"
+  },
+  {
+   "i": 60,
+   "start": 183.18,
+   "end": 185.74,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Haha! That thing was a guy!"
+  },
+  {
+   "i": 61,
+   "start": 185.74,
+   "end": 187.4,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Goku, did you just read my mind...?"
+  },
+  {
+   "i": 62,
+   "start": 187.4,
+   "end": 188.02,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Yuh-huh!"
+  },
+  {
+   "i": 63,
+   "start": 188.02,
+   "end": 188.74,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "But how could you--??"
+  },
+  {
+   "i": 64,
+   "start": 188.74,
+   "end": 189.58,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Muffin Button."
+  },
+  {
+   "i": 65,
+   "start": 190.12,
+   "end": 190.9,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "...What?"
+  },
+  {
+   "i": 66,
+   "start": 190.12,
+   "end": 190.9,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Huh?"
+  },
+  {
+   "i": 67,
+   "start": 191.12,
+   "end": 194.46,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "*THAT'S*! *IT*! Recoome has had enough!"
+  },
+  {
+   "i": 68,
+   "start": 194.7,
+   "end": 201.74,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "Feel the strength of the REEEEEECOOME... ULTRA FIGHTING MIRACLE--!"
+  },
+  {
+   "i": 69,
+   "start": 201.74,
+   "end": 202.26,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "SIR!"
+  },
+  {
+   "i": 70,
+   "start": 202.26,
+   "end": 203.18,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "THWACK"
+  },
+  {
+   "i": 71,
+   "start": 204.88,
+   "end": 206.64,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I will fight you in a minute."
+  },
+  {
+   "i": 72,
+   "start": 207.0,
+   "end": 209.42,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'This... This is impossible...!'"
+  },
+  {
+   "i": 73,
+   "start": 209.42,
+   "end": 213.02,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'Kakarot was nowhere NEAR that same level when we fought on Earth!'"
+  },
+  {
+   "i": 74,
+   "start": 213.02,
+   "end": 216.0,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'The only way he could've obtained this strength, is...'"
+  },
+  {
+   "i": 75,
+   "start": 216.0,
+   "end": 217.68,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "No... it can't be...!"
+  },
+  {
+   "i": 76,
+   "start": 217.94,
+   "end": 221.08,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "The legend says it only happens every 1,000 YEARS!!"
+  },
+  {
+   "i": 77,
+   "start": 221.58,
+   "end": 224.48,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Has he become... a SUPER SAIYAN?!"
+  },
+  {
+   "i": 78,
+   "start": 225.22,
+   "end": 228.16,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "So, anyway Vegeta, what happened to you?"
+  },
+  {
+   "i": 79,
+   "start": 228.16,
+   "end": 229.64,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Did you get beat up by this guy?"
+  },
+  {
+   "i": 80,
+   "start": 229.64,
+   "end": 231.1,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "(Gurgling)"
+  },
+  {
+   "i": 81,
+   "start": 231.1,
+   "end": 234.5,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Ahh, n-no! I, ummm... uhhh--"
+  },
+  {
+   "i": 82,
+   "start": 234.5,
+   "end": 236.02,
+   "kind": "dialog",
+   "speaker": "Ghost Nappa",
+   "text": "You fell down some stairs."
+  },
+  {
+   "i": 83,
+   "start": 236.02,
+   "end": 237.62,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I fell down some stairs."
+  },
+  {
+   "i": 84,
+   "start": 237.62,
+   "end": 238.5,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "No you didn't, you--"
+  },
+  {
+   "i": 85,
+   "start": 238.5,
+   "end": 240.54,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Shut up before I throw you down a flight."
+  },
+  {
+   "i": 86,
+   "start": 242.54,
+   "end": 244.66,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "So, Dende..."
+  },
+  {
+   "i": 87,
+   "start": 245.56,
+   "end": 247.26,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "sucks about your family--"
+  },
+  {
+   "i": 88,
+   "start": 247.26,
+   "end": 248.48,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "We've gone over this....."
+  },
+  {
+   "i": 89,
+   "start": 248.48,
+   "end": 251.74,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "But do you know who also lost his family?"
+  },
+  {
+   "i": 90,
+   "start": 252.48,
+   "end": 253.4,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "Batman."
+  },
+  {
+   "i": 91,
+   "start": 253.4,
+   "end": 255.08,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "I don't know who that is..."
+  },
+  {
+   "i": 92,
+   "start": 255.48,
+   "end": 258.88,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "See!? This is why we need TVEEE!"
+  },
+  {
+   "i": 93,
+   "start": 258.88,
+   "end": 259.5,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Why?"
+  },
+  {
+   "i": 94,
+   "start": 259.5,
+   "end": 263.02,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Loosely singing to the rhythm of the Batman theme (1966)"
+  },
+  {
+   "i": 95,
+   "start": 259.5,
+   "end": 266.9,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "♪ Nananananananana Dende! ♪"
+  },
+  {
+   "i": 96,
+   "start": 267.44,
+   "end": 268.98,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "♪ Dende! ♪"
+  },
+  {
+   "i": 97,
+   "start": 268.98,
+   "end": 269.56,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Guru--"
+  },
+  {
+   "i": 98,
+   "start": 269.56,
+   "end": 271.04,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "♪ Dende! ♪"
+  },
+  {
+   "i": 99,
+   "start": 271.04,
+   "end": 271.7,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Nail's here..."
+  },
+  {
+   "i": 100,
+   "start": 271.7,
+   "end": 274.28,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "♪ Naaaaaaaaaaillll! ♪"
+  },
+  {
+   "i": 101,
+   "start": 274.76,
+   "end": 276.4,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "♪ Why are you back? ♪"
+  },
+  {
+   "i": 102,
+   "start": 276.56,
+   "end": 280.78,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "I never left, sir. I was outside hitting my head against the wall for 20 minutes."
+  },
+  {
+   "i": 103,
+   "start": 280.78,
+   "end": 281.28,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Flashback"
+  },
+  {
+   "i": 104,
+   "start": 281.28,
+   "end": 282.12,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "THUMP"
+  },
+  {
+   "i": 105,
+   "start": 281.28,
+   "end": 282.12,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "Ugh!"
+  },
+  {
+   "i": 106,
+   "start": 282.12,
+   "end": 282.94,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "THUMP THUMP"
+  },
+  {
+   "i": 107,
+   "start": 282.12,
+   "end": 282.94,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "Ugh! Unh!"
+  },
+  {
+   "i": 108,
+   "start": 282.94,
+   "end": 283.8,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "THUMP THUMP THUMP"
+  },
+  {
+   "i": 109,
+   "start": 282.94,
+   "end": 283.8,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "Ugh! Unh! Unh!"
+  },
+  {
+   "i": 110,
+   "start": 283.8,
+   "end": 284.3,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "THUMP THUMP THUMP THUMP"
+  },
+  {
+   "i": 111,
+   "start": 283.8,
+   "end": 284.3,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "Ugh! Unh! Unh! Ugh!"
+  },
+  {
+   "i": 112,
+   "start": 284.3,
+   "end": 284.8,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Flashback ends"
+  },
+  {
+   "i": 113,
+   "start": 284.3,
+   "end": 286.72,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "So that's what that was..."
+  },
+  {
+   "i": 114,
+   "start": 287.1,
+   "end": 289.5,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "Why have you ignored my order?"
+  },
+  {
+   "i": 115,
+   "start": 289.5,
+   "end": 293.38,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "*Because*, Lord Guru, I can't leave you unguarded, no matter--"
+  },
+  {
+   "i": 116,
+   "start": 293.38,
+   "end": 294.02,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "TUWAHHG!"
+  },
+  {
+   "i": 117,
+   "start": 295.22,
+   "end": 296.74,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "CLEAN THAT UP!"
+  },
+  {
+   "i": 118,
+   "start": 297.12,
+   "end": 298.58,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Batman transition"
+  },
+  {
+   "i": 119,
+   "start": 298.7,
+   "end": 300.48,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "What the *bleedin'* 'ell?!"
+  },
+  {
+   "i": 120,
+   "start": 300.48,
+   "end": 306.78,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "We were havin' a right rip snorter 'ere, and then this piker shows up, and just like that, it's Goodnight Irene!"
+  },
+  {
+   "i": 121,
+   "start": 306.78,
+   "end": 309.36,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "We *get it*, you're from Space Australia!"
+  },
+  {
+   "i": 122,
+   "start": 310.389,
+   "end": 314.329,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Alright, you bastard! Prepare to feel the wrath of the GINYU--!"
+  },
+  {
+   "i": 123,
+   "start": 314.329,
+   "end": 314.929,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "THWACK"
+  },
+  {
+   "i": 124,
+   "start": 314.329,
+   "end": 314.929,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "GUOGH!!"
+  },
+  {
+   "i": 125,
+   "start": 315.129,
+   "end": 318.089,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "D'AAUGH! You *goddamn wanker*!"
+  },
+  {
+   "i": 126,
+   "start": 318.089,
+   "end": 319.249,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "You punched me in the--!"
+  },
+  {
+   "i": 127,
+   "start": 319.249,
+   "end": 320.049,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "THWACK"
+  },
+  {
+   "i": 128,
+   "start": 319.249,
+   "end": 320.049,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "D'UOGH!!"
+  },
+  {
+   "i": 129,
+   "start": 320.049,
+   "end": 321.629,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "D'AUGH! You did it again!"
+  },
+  {
+   "i": 130,
+   "start": 321.889,
+   "end": 322.489,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "THWACK"
+  },
+  {
+   "i": 131,
+   "start": 321.889,
+   "end": 322.489,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "D-- D'AGH!!"
+  },
+  {
+   "i": 132,
+   "start": 322.709,
+   "end": 323.989,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "STOP IT! STOP I--!"
+  },
+  {
+   "i": 133,
+   "start": 323.989,
+   "end": 324.609,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "THWACK"
+  },
+  {
+   "i": 134,
+   "start": 323.989,
+   "end": 324.609,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "DU--!!"
+  },
+  {
+   "i": 135,
+   "start": 324.609,
+   "end": 325.509,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "*PIIIISS*!!"
+  },
+  {
+   "i": 136,
+   "start": 325.789,
+   "end": 329.229,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "'Auugh, what did the Cap'n tell us to do in this situation?!'"
+  },
+  {
+   "i": 137,
+   "start": 329.629,
+   "end": 333.989,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Jeice, if you ever find yourself being punched repeatedly in the face, always remember to--"
+  },
+  {
+   "i": 138,
+   "start": 333.989,
+   "end": 334.509,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "THWACK"
+  },
+  {
+   "i": 139,
+   "start": 333.989,
+   "end": 334.509,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "D'OHH!!"
+  },
+  {
+   "i": 140,
+   "start": 334.509,
+   "end": 336.829,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "OWW, HE CUT OFF THE CAP'N!"
+  },
+  {
+   "i": 141,
+   "start": 336.829,
+   "end": 339.509,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "So... are you gonna *dodge* any of these?"
+  },
+  {
+   "i": 142,
+   "start": 339.509,
+   "end": 342.229,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Ohhhh, THAT'S what the Captain--!"
+  },
+  {
+   "i": 143,
+   "start": 342.229,
+   "end": 343.309,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "THWACK"
+  },
+  {
+   "i": 144,
+   "start": 342.229,
+   "end": 343.309,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "(Wailing)"
+  },
+  {
+   "i": 145,
+   "start": 343.309,
+   "end": 345.269,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "*BURTER*!! *SUPPORT*!!"
+  },
+  {
+   "i": 146,
+   "start": 345.269,
+   "end": 351.969,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "Well, you've got very nice hair, you're a beautiful shade of red, and honestly, you're the only guy I can rely on on this team."
+  },
+  {
+   "i": 147,
+   "start": 351.969,
+   "end": 355.569,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "AH MEANT *PUNCH HIM*, YA DAFT BASTARD!! Ugh...!"
+  },
+  {
+   "i": 148,
+   "start": 355.569,
+   "end": 356.249,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "(Inhaling)"
+  },
+  {
+   "i": 149,
+   "start": 356.249,
+   "end": 359.129,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Oh, but, thanks ya know? Th-that really cheered me--"
+  },
+  {
+   "i": 150,
+   "start": 359.129,
+   "end": 359.829,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "THWACK"
+  },
+  {
+   "i": 151,
+   "start": 359.129,
+   "end": 362.229,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "OHH... GOD, I THINK HE BROKE SOMETHING THAT TIME!!"
+  },
+  {
+   "i": 152,
+   "start": 362.349,
+   "end": 362.849,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "YEGH!"
+  },
+  {
+   "i": 153,
+   "start": 364.089,
+   "end": 366.429,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"U Can't Touch This\" ♫"
+  },
+  {
+   "i": 154,
+   "start": 366.429,
+   "end": 367.249,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Goku Time!"
+  },
+  {
+   "i": 155,
+   "start": 367.249,
+   "end": 368.109,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "OHHWW!!"
+  },
+  {
+   "i": 156,
+   "start": 370.129,
+   "end": 372.629,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Alright - this is just bloody stupid!"
+  },
+  {
+   "i": 157,
+   "start": 372.629,
+   "end": 375.089,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "Calm down! We gotta come up with a plan."
+  },
+  {
+   "i": 158,
+   "start": 375.229,
+   "end": 380.049,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "Listen - if you use your Crusher Ball on him, I can rush him the moment he tries to dodge."
+  },
+  {
+   "i": 159,
+   "start": 380.049,
+   "end": 384.249,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "He may be fast, but he's not faster than the fastest guy in the Universe!"
+  },
+  {
+   "i": 160,
+   "start": 384.249,
+   "end": 388.869,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "OK. Mate, we need to talk... About this whole... \"Fastest in the Universe\" thing..."
+  },
+  {
+   "i": 161,
+   "start": 389.269,
+   "end": 391.989,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "First off, the Captain's got a higher power level than you."
+  },
+  {
+   "i": 162,
+   "start": 391.989,
+   "end": 392.949,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "Yeah, so?"
+  },
+  {
+   "i": 163,
+   "start": 392.949,
+   "end": 397.289,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Well then, correct me if I'm wrong, but a higher power level means he's faster, yeah?"
+  },
+  {
+   "i": 164,
+   "start": 397.289,
+   "end": 398.729,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "Well, okay, maybe--"
+  },
+  {
+   "i": 165,
+   "start": 398.729,
+   "end": 401.789,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "And Lord Freeza's got a higher power level than all of us..."
+  },
+  {
+   "i": 166,
+   "start": 401.789,
+   "end": 403.569,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "OK, that's just not fair!"
+  },
+  {
+   "i": 167,
+   "start": 403.569,
+   "end": 406.689,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "*And*, if you think about it, Guldo can stop time!"
+  },
+  {
+   "i": 168,
+   "start": 405.609,
+   "end": 406.689,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "Hurrh...!"
+  },
+  {
+   "i": 169,
+   "start": 406.689,
+   "end": 408.409,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "So that technically makes him faster than--"
+  },
+  {
+   "i": 170,
+   "start": 408.409,
+   "end": 413.449,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "*NO*!! NO! NO, OKAY?! I am not! Slower! Than f***ing *GULDO*!!"
+  },
+  {
+   "i": 171,
+   "start": 413.449,
+   "end": 414.569,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Burter, calm down!"
+  },
+  {
+   "i": 172,
+   "start": 414.569,
+   "end": 417.789,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "NO! SHUT UP!! You shut your stupid red face!"
+  },
+  {
+   "i": 173,
+   "start": 417.789,
+   "end": 421.069,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "\"Oh, don't worry mate, you're just slower than Guldo!\""
+  },
+  {
+   "i": 174,
+   "start": 421.069,
+   "end": 422.669,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "I don't want to hear it!"
+  },
+  {
+   "i": 175,
+   "start": 421.069,
+   "end": 423.669,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'I wonder if there is a Denny's on this planet...'"
+  },
+  {
+   "i": 176,
+   "start": 422.669,
+   "end": 424.949,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "You! Don't! Get it!"
+  },
+  {
+   "i": 177,
+   "start": 423.669,
+   "end": 425.969,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'I could really go for a Grand Slam!'"
+  },
+  {
+   "i": 178,
+   "start": 424.949,
+   "end": 426.769,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "You don't know what it's like!"
+  },
+  {
+   "i": 179,
+   "start": 426.769,
+   "end": 430.049,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "Everyone has something special! I don't!"
+  },
+  {
+   "i": 180,
+   "start": 430.049,
+   "end": 435.009,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "What am I?! The big blue snake guy! That's all I've got!"
+  },
+  {
+   "i": 181,
+   "start": 435.009,
+   "end": 438.289,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "That's all I've go-oo-ooot...!"
+  },
+  {
+   "i": 182,
+   "start": 438.289,
+   "end": 441.929,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Geez, mate, I'm-I'm sorry. I didn't mean to hurt your feelings..."
+  },
+  {
+   "i": 183,
+   "start": 441.929,
+   "end": 444.509,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "I just... I just want to be special!"
+  },
+  {
+   "i": 184,
+   "start": 444.509,
+   "end": 446.229,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "Something to call my own, you know?"
+  },
+  {
+   "i": 185,
+   "start": 446.229,
+   "end": 449.269,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Mate, mate, you DO got something special!"
+  },
+  {
+   "i": 186,
+   "start": 449.569,
+   "end": 450.529,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "You're me mate."
+  },
+  {
+   "i": 187,
+   "start": 450.529,
+   "end": 451.729,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "Aww, dude!"
+  },
+  {
+   "i": 188,
+   "start": 451.729,
+   "end": 452.949,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "No, no, really!"
+  },
+  {
+   "i": 189,
+   "start": 452.949,
+   "end": 455.749,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Remember when I had to move me piano into me flat?"
+  },
+  {
+   "i": 190,
+   "start": 455.749,
+   "end": 464.409,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "And Recoome was too busy with his match? And Guldo... well, he was Guldo, BUT YOU! YOU got those ivory keys up those five flights in no time at all!"
+  },
+  {
+   "i": 191,
+   "start": 464.409,
+   "end": 465.849,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "You're me best mate!"
+  },
+  {
+   "i": 192,
+   "start": 465.849,
+   "end": 468.769,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "Thanks, Jeice! You're my best friend too!"
+  },
+  {
+   "i": 193,
+   "start": 469.169,
+   "end": 475.669,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "You know? After all this is over, what do you say we head off to Spacey's and just... have a good old time?"
+  },
+  {
+   "i": 194,
+   "start": 475.669,
+   "end": 477.429,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Sounds good, mate!"
+  },
+  {
+   "i": 195,
+   "start": 477.429,
+   "end": 480.829,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "But remember, you still owe me that space soda!"
+  },
+  {
+   "i": 196,
+   "start": 480.829,
+   "end": 482.949,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "HAHA! You're right I do!"
+  },
+  {
+   "i": 197,
+   "start": 482.949,
+   "end": 485.429,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Now! Let's go show that bloke what for--!"
+  },
+  {
+   "i": 198,
+   "start": 485.649,
+   "end": 486.569,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "GAH!"
+  },
+  {
+   "i": 199,
+   "start": 486.569,
+   "end": 487.309,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Brutal impact"
+  },
+  {
+   "i": 200,
+   "start": 488.669,
+   "end": 491.129,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Say, do you know where there is a Denny's around here?"
+  },
+  {
+   "i": 201,
+   "start": 491.229,
+   "end": 493.429,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "BURTER!!! NOOOO!!!"
+  },
+  {
+   "i": 202,
+   "start": 493.429,
+   "end": 496.309,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Butter! That'll go GREAT on my Grand Slam!"
+  },
+  {
+   "i": 203,
+   "start": 496.469,
+   "end": 498.449,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "You just killed me best mate!!"
+  },
+  {
+   "i": 204,
+   "start": 498.769,
+   "end": 503.689,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "I'm... I'm gonna get the Cap'n, and he's gonna BEAT YOU UP!!"
+  },
+  {
+   "i": 205,
+   "start": 503.989,
+   "end": 506.409,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "CAAAAPTAAAAAAAIN...!!"
+  },
+  {
+   "i": 206,
+   "start": 506.829,
+   "end": 509.849,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Well, that was fun. Now where are the fighters?"
+  },
+  {
+   "i": 207,
+   "start": 509.849,
+   "end": 512.189,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I really wanna deck that Freezer guy!"
+  },
+  {
+   "i": 208,
+   "start": 512.489,
+   "end": 514.109,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "You've got to be kidding."
+  },
+  {
+   "i": 209,
+   "start": 514.109,
+   "end": 515.929,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "*This* is a Super Saiyan??"
+  },
+  {
+   "i": 210,
+   "start": 515.929,
+   "end": 517.049,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "A Super wha...?"
+  },
+  {
+   "i": 211,
+   "start": 517.049,
+   "end": 520.069,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Nothing, just... lamenting my crushed dreams."
+  },
+  {
+   "i": 212,
+   "start": 520.069,
+   "end": 522.749,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Goku! I can't believe you're so strong!"
+  },
+  {
+   "i": 213,
+   "start": 522.749,
+   "end": 525.829,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Well, I did train at 100x normal gravity."
+  },
+  {
+   "i": 214,
+   "start": 526.529,
+   "end": 527.029,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "FU--!!!"
+  },
+  {
+   "i": 215,
+   "start": 527.029,
+   "end": 527.769,
+   "kind": "direction",
+   "speaker": null,
+   "text": "900Hz sine wave tone"
+  },
+  {
+   "i": 216,
+   "start": 527.769,
+   "end": 529.929,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Man, no *wonder* you killed them so easily!"
+  },
+  {
+   "i": 217,
+   "start": 527.769,
+   "end": 529.929,
+   "kind": "direction",
+   "speaker": null,
+   "text": "900Hz sine wave tone"
+  },
+  {
+   "i": 218,
+   "start": 529.929,
+   "end": 530.429,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "--CK!"
+  },
+  {
+   "i": 219,
+   "start": 530.969,
+   "end": 532.729,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Krillin, I'm not gonna kill them!"
+  },
+  {
+   "i": 220,
+   "start": 532.729,
+   "end": 533.229,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Mass Effect 2 Renegade Interrupt SFX"
+  },
+  {
+   "i": 221,
+   "start": 532.729,
+   "end": 533.229,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Krillin, I'm not gonna kill them!"
+  },
+  {
+   "i": 222,
+   "start": 533.229,
+   "end": 534.709,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Mass Effect 2 Renegade Interrupt SFX"
+  },
+  {
+   "i": 223,
+   "start": 533.229,
+   "end": 534.709,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "They're hardly even a threat!"
+  },
+  {
+   "i": 224,
+   "start": 535.329,
+   "end": 535.829,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "THWACK"
+  },
+  {
+   "i": 225,
+   "start": 535.329,
+   "end": 535.829,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "Huehg!"
+  },
+  {
+   "i": 226,
+   "start": 541.089,
+   "end": 544.529,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Vegeta! That was *not* very Paragon!"
+  },
+  {
+   "i": 227,
+   "start": 545.509,
+   "end": 546.769,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Renegade for life."
+  },
+  {
+   "i": 228,
+   "start": 547.009,
+   "end": 548.349,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ Tokusentai! ♫"
+  },
+  {
+   "i": 229,
+   "start": 550.529,
+   "end": 553.889,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "You think that's bad? Seriously, if you hit him hard enough, you can play a song."
+  },
+  {
+   "i": 230,
+   "start": 554.009,
+   "end": 554.989,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "♪ Hueh! Hu-hu-hueh! ♪"
+  },
+  {
+   "i": 231,
+   "start": 554.989,
+   "end": 557.029,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "♪ Hu-hu-hueh! ♪"
+  },
+  {
+   "i": 232,
+   "start": 557.109,
+   "end": 557.969,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "♪ Hu-hueh! Hueh! ♪"
+  },
+  {
+   "i": 233,
+   "start": 557.969,
+   "end": 559.269,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "♪ Hueh! Hueh! Huehg! ♪"
+  },
+  {
+   "i": 234,
+   "start": 559.269,
+   "end": 561.529,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Ha-ha-ha! I don't even know what that's from!"
+  },
+  {
+   "i": 235,
+   "start": 561.769,
+   "end": 563.129,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I think that was Tetris."
+  },
+  {
+   "i": 236,
+   "start": 563.129,
+   "end": 565.649,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Isn’t that what you get when you cut yourself with something rusty?"
+  },
+  {
+   "i": 237,
+   "start": 565.729,
+   "end": 567.189,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Nope! That's rabies!"
+  },
+  {
+   "i": 238,
+   "start": 567.269,
+   "end": 571.409,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Actually, Dad, you contract rabies when you’re bitten by an animal with a disease."
+  },
+  {
+   "i": 239,
+   "start": 571.669,
+   "end": 579.349,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Silly Gohan! Animals don’t eat people; people eat animals!"
+  }
+ ],
+ "segments": [
+  {
+   "start": 8.6,
+   "end": 29.92,
+   "title": "Space Duck",
+   "quote": "I think I hear a duck... but this far out in space? That doesn't make any sense!",
+   "line_start": 1,
+   "line_end": 8
+  },
+  {
+   "start": 51.2,
+   "end": 78.2,
+   "title": "Space Boonies & Chuck",
+   "quote": "WHO I AM CONVINCED IS NAMED CHUCK!!",
+   "line_start": 13,
+   "line_end": 19
+  },
+  {
+   "start": 121.6,
+   "end": 135.06,
+   "title": "Talking to My Son",
+   "quote": "Sir? I am *talking*... to my *son*.",
+   "line_start": 39,
+   "line_end": 43
+  },
+  {
+   "start": 166.9,
+   "end": 190.9,
+   "title": "Muffin Button Mind-Read",
+   "quote": "Muffin Button.",
+   "line_start": 57,
+   "line_end": 66
+  },
+  {
+   "start": 224.7,
+   "end": 240.54,
+   "title": "Fell Down Some Stairs",
+   "quote": "I fell down some stairs.",
+   "line_start": 78,
+   "line_end": 85
+  },
+  {
+   "start": 242.0,
+   "end": 266.9,
+   "title": "Nananana Dende!",
+   "quote": "♪ Nananananananana Dende! ♪",
+   "line_start": 86,
+   "line_end": 95
+  },
+  {
+   "start": 276.0,
+   "end": 296.74,
+   "title": "Nail vs. the Wall",
+   "quote": "I never left, sir. I was outside hitting my head against the wall for 20 minutes.",
+   "line_start": 102,
+   "line_end": 117
+  },
+  {
+   "start": 329.1,
+   "end": 345.27,
+   "title": "Gonna Dodge Any of These?",
+   "quote": "So... are you gonna *dodge* any of these?",
+   "line_start": 137,
+   "line_end": 145
+  },
+  {
+   "start": 403.0,
+   "end": 417.79,
+   "title": "Slower Than Guldo",
+   "quote": "*NO*!! NO! NO, OKAY?! I am not! Slower! Than f***ing *GULDO*!!",
+   "line_start": 166,
+   "line_end": 172
+  },
+  {
+   "start": 485.2,
+   "end": 496.31,
+   "title": "Butter on My Grand Slam",
+   "quote": "Butter! That'll go GREAT on my Grand Slam!",
+   "line_start": 198,
+   "line_end": 202
+  },
+  {
+   "start": 534.8,
+   "end": 548.35,
+   "title": "Renegade for Life",
+   "quote": "Renegade for life.",
+   "line_start": 224,
+   "line_end": 228
+  },
+  {
+   "start": 550.0,
+   "end": 579.35,
+   "title": "People Eat Animals",
+   "quote": "Silly Gohan! Animals don’t eat people; people eat animals!",
+   "line_start": 229,
+   "line_end": 239
+  }
+ ]
+}

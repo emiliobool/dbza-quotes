@@ -1,0 +1,196 @@
+---
+import Base from "../../../layouts/Base.astro";
+import site from "../../../gen/site.json";
+import { ytThumb, mediaLabel } from "../../../lib/util.js";
+
+export function getStaticPaths() {
+  return site.shows.flatMap((s) =>
+    site.media[s.id].map((m) => ({ params: { show: s.id, item: m.id } }))
+  );
+}
+const { show, item } = Astro.params;
+const m = site.media[show].find((x) => x.id === item);
+const label = mediaLabel(m);
+---
+
+<Base
+  title={`Clip — ${label} | DBZA Quotes`}
+  description={`A moment from ${label}. Watch on YouTube with synced captions, adjust the range, share the link.`}
+  ogImage={ytThumb(m.youtube)}
+  ogType="video.other"
+>
+  <p class="meta"><a href={`/${show}/${item}/`}>← {label}</a></p>
+
+  <div class="player-wrap"><div id="yt-player"></div></div>
+  <div class="caption-bar" id="caption"></div>
+
+  <div class="btn-row">
+    <button class="btn primary" id="play-clip">▶ Play clip</button>
+    <span class="meta" id="range-label"></span>
+  </div>
+
+  <div class="card" id="quote-box"></div>
+
+  <div class="btn-row">
+    <button class="btn" id="copy-link">Copy link</button>
+    <button class="btn" id="copy-yt">Copy YouTube link</button>
+    <button class="btn" id="copy-quote">Copy quote</button>
+    <button class="btn" id="save-clip">☆ Save</button>
+    <button class="btn" id="submit-clip">Suggest for catalog</button>
+  </div>
+
+  <details class="card">
+    <summary>Adjust clip range</summary>
+    <div class="btn-row" style="margin-top:0.6rem">
+      <span class="meta" style="width:4rem">Start</span>
+      <button class="btn" data-adj="start-prev">⇤ prev line</button>
+      <button class="btn" data-adj="start-minus">−0.5s</button>
+      <button class="btn" data-adj="start-plus">+0.5s</button>
+      <button class="btn" data-adj="start-next">next line ⇥</button>
+    </div>
+    <div class="btn-row">
+      <span class="meta" style="width:4rem">End</span>
+      <button class="btn" data-adj="end-prev">⇤ prev line</button>
+      <button class="btn" data-adj="end-minus">−0.5s</button>
+      <button class="btn" data-adj="end-plus">+0.5s</button>
+      <button class="btn" data-adj="end-next">next line ⇥</button>
+    </div>
+    <p class="meta">The link in your address bar always reflects the current range — copy any time.</p>
+  </details>
+
+  <h2>Dialog around this moment</h2>
+  <div class="transcript card" id="context"></div>
+
+  <div class="toast" id="toast"></div>
+</Base>
+
+<script>
+  import { createClipPlayer, escapeHtml } from "../../../lib/player.js";
+  import { fmtTime } from "../../../lib/util.js";
+
+  const SHOW = location.pathname.split("/")[2];
+  const ITEM = location.pathname.split("/")[3];
+  const $ = (s) => document.querySelector(s);
+
+  const data = await fetch(`/data/transcripts/${SHOW}/${ITEM}.json`).then((r) => r.json());
+  const lines = data.lines; // [start, end, kind, speaker, text]
+
+  const params = new URLSearchParams(location.search);
+  let start = Math.max(0, parseFloat(params.get("t") ?? "0") || 0);
+  let dur = parseFloat(params.get("d") ?? "15") || 15;
+  let end = Math.min(data.duration ?? start + dur, start + dur);
+
+  const dialogStarts = lines.filter((l) => l[2] === "dialog").map((l) => l[0]);
+  const dialogEnds = lines.filter((l) => l[2] === "dialog").map((l) => l[1]);
+
+  const player = await createClipPlayer({
+    mountId: "yt-player",
+    youtube: data.youtube,
+    lines,
+    captionEl: $("#caption"),
+    onTime: (t) => highlightActive(t),
+    start,
+  });
+
+  function inRange(l) { return l[1] > start && l[0] < end; }
+
+  function renderContext() {
+    const first = lines.findIndex(inRange);
+    const lo = Math.max(0, (first === -1 ? 0 : first) - 6);
+    const hi = Math.min(lines.length, (first === -1 ? 0 : lines.findLastIndex(inRange)) + 7);
+    $("#context").innerHTML = lines.slice(lo, hi).map((l, k) => {
+      const i = lo + k;
+      const cls = ["line", l[2], inRange(l) ? "in-range" : ""].join(" ");
+      const body = l[2] === "dialog"
+        ? `${l[3] ? `<span class="speaker">${escapeHtml(l[3])}: </span>` : ""}${escapeHtml(l[4])}`
+        : `[${escapeHtml(l[4])}]`;
+      return `<div class="${cls}" data-i="${i}" data-t="${l[0]}">
+        <span class="tstamp">${fmtTime(l[0])}</span><div class="text">${body}</div></div>`;
+    }).join("");
+    $("#quote-box").innerHTML = lines.filter(inRange).filter((l) => l[2] === "dialog").map((l) =>
+      `<div class="quote-line">${l[3] ? `<span class="speaker">${escapeHtml(l[3])}:</span> ` : ""}${escapeHtml(l[4])}</div>`
+    ).join("") || `<span class="dim">No dialog in this range.</span>`;
+  }
+
+  function highlightActive(t) {
+    document.querySelectorAll("#context .line").forEach((el) => {
+      const lt = parseFloat(el.dataset.t);
+      const l = lines[+el.dataset.i];
+      el.classList.toggle("active", lt <= t && t <= l[1] + 0.3);
+    });
+  }
+
+  function sync() {
+    end = Math.max(start + 0.5, end);
+    player.setRange(start, end);
+    $("#range-label").textContent = `${fmtTime(start)} → ${fmtTime(end)} (${(end - start).toFixed(1)}s)`;
+    const u = new URL(location);
+    u.searchParams.set("t", String(Math.round(start * 10) / 10));
+    u.searchParams.set("d", String(Math.round((end - start) * 10) / 10));
+    history.replaceState(null, "", u);
+    renderContext();
+  }
+  sync();
+
+  $("#context").addEventListener("click", (e) => {
+    const el = e.target.closest(".line");
+    if (el) player.seek(parseFloat(el.dataset.t));
+  });
+  $("#play-clip").addEventListener("click", () => player.playClip());
+
+  const snap = (arr, t, dir) => {
+    const c = dir < 0 ? arr.filter((x) => x < t - 0.05) : arr.filter((x) => x > t + 0.05);
+    return c.length ? (dir < 0 ? c[c.length - 1] : c[0]) : t;
+  };
+  document.querySelectorAll("[data-adj]").forEach((b) =>
+    b.addEventListener("click", () => {
+      const [which, op] = b.dataset.adj.split("-");
+      let v = which === "start" ? start : end;
+      const cues = which === "start" ? dialogStarts : dialogEnds;
+      if (op === "minus") v -= 0.5;
+      else if (op === "plus") v += 0.5;
+      else v = snap(cues, v, op === "prev" ? -1 : 1) + (which === "start" ? -0.3 : 0.4);
+      if (which === "start") start = Math.max(0, Math.min(v, end - 0.5));
+      else end = Math.max(start + 0.5, v);
+      sync();
+    })
+  );
+
+  // actions
+  const toast = (msg) => {
+    const t = $("#toast");
+    t.textContent = msg; t.classList.add("show");
+    setTimeout(() => t.classList.remove("show"), 1800);
+  };
+  const copy = (text, msg) => navigator.clipboard.writeText(text).then(() => toast(msg));
+  const quoteText = () =>
+    lines.filter(inRange).filter((l) => l[2] === "dialog")
+      .map((l) => (l[3] ? `${l[3]}: ${l[4]}` : l[4])).join("\n");
+
+  $("#copy-link").addEventListener("click", () => copy(location.href, "Link copied"));
+  $("#copy-yt").addEventListener("click", () =>
+    copy(`https://youtu.be/${data.youtube}?t=${Math.floor(start)}`, "YouTube link copied — plays inline on Discord"));
+  $("#copy-quote").addEventListener("click", () => copy(quoteText(), "Quote copied"));
+
+  $("#save-clip").addEventListener("click", () => {
+    const saved = JSON.parse(localStorage.getItem("savedClips") || "[]");
+    saved.unshift({ show: SHOW, item: ITEM, t: start, d: end - start, title: data.title,
+      quote: quoteText().slice(0, 200), when: Date.now() });
+    localStorage.setItem("savedClips", JSON.stringify(saved.slice(0, 200)));
+    toast("Saved on this device");
+  });
+
+  $("#submit-clip").addEventListener("click", async () => {
+    const note = prompt("Suggest this clip for the public catalog?\nOptional note (why it's great, a title):") ;
+    if (note === null) return;
+    try {
+      const r = await fetch("/api/submit", {
+        method: "POST",
+        headers: { "content-type": "application/json" },
+        body: JSON.stringify({ kind: "clip_suggestion",
+          payload: { show: SHOW, item: ITEM, t: start, d: end - start, note, quote: quoteText().slice(0, 500) } }),
+      });
+      toast(r.ok ? "Submitted — thanks!" : "Submissions are closed right now");
+    } catch { toast("Submissions are unavailable right now"); }
+  });
+</script>

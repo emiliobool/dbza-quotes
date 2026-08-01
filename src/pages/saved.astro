@@ -1,0 +1,30 @@
+---
+import Base from "../layouts/Base.astro";
+---
+
+<Base title="Saved clips | DBZA Quotes" description="Clips you saved on this device.">
+  <h1>Saved clips</h1>
+  <p class="meta">Stored in your browser only — nothing is uploaded.</p>
+  <div id="list"></div>
+</Base>
+
+<script>
+  import { fmtTime } from "../lib/util.js";
+  const saved = JSON.parse(localStorage.getItem("savedClips") || "[]");
+  const esc = (s) => (s || "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  document.getElementById("list").innerHTML = saved.length
+    ? saved.map((c, i) => `
+      <div class="card">
+        <a href="/c/${c.show}/${c.item}/?t=${c.t}&d=${c.d}"><strong>${esc(c.title)}</strong> · ${fmtTime(c.t)} (${Math.round(c.d)}s)</a>
+        <div class="quote-line dim">${esc(c.quote)}</div>
+        <button class="btn" data-del="${i}" style="margin-top:0.4rem">Remove</button>
+      </div>`).join("")
+    : `<p class="meta">Nothing saved yet. Open any clip and hit “☆ Save”.</p>`;
+  document.getElementById("list").addEventListener("click", (e) => {
+    const b = e.target.closest("[data-del]");
+    if (!b) return;
+    saved.splice(+b.dataset.del, 1);
+    localStorage.setItem("savedClips", JSON.stringify(saved));
+    location.reload();
+  });
+</script>

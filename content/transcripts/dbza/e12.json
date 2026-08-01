@@ -1,0 +1,1235 @@
+{
+ "item": "e12",
+ "show": "dbza",
+ "youtube": "nH_pdoCGCh4",
+ "title": "Episode 10 Part 3",
+ "duration": 417,
+ "lines": [
+  {
+   "i": 0,
+   "start": 7.28,
+   "end": 11.5,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "You know, at a time like this I really only have one thing to say to you:"
+  },
+  {
+   "i": 1,
+   "start": 12.14,
+   "end": 12.74,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "BITCH-SLAP!"
+  },
+  {
+   "i": 2,
+   "start": 12.74,
+   "end": 13.24,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "OH SNAP!"
+  },
+  {
+   "i": 3,
+   "start": 15.76,
+   "end": 22.9,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "And as for the rest of you… I’m going to end this... with a BIG BANG ...kind of attack."
+  },
+  {
+   "i": 4,
+   "start": 23.56,
+   "end": 27.06,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Huaaaaaaaaa...!"
+  },
+  {
+   "i": 5,
+   "start": 24.92,
+   "end": 27.06,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh, this isn’t going to end well..."
+  },
+  {
+   "i": 6,
+   "start": 27.6,
+   "end": 30.34,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "GAAAAAAAAAAAAAH!!"
+  },
+  {
+   "i": 7,
+   "start": 29.08,
+   "end": 30.34,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "WAA-HAA!"
+  },
+  {
+   "i": 8,
+   "start": 30.34,
+   "end": 31.46,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "AAAH...!"
+  },
+  {
+   "i": 9,
+   "start": 31.46,
+   "end": 33.02,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "WAAAH...!"
+  },
+  {
+   "i": 10,
+   "start": 33.02,
+   "end": 34.5,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "DOOM"
+  },
+  {
+   "i": 11,
+   "start": 34.5,
+   "end": 35.18,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "BOOM"
+  },
+  {
+   "i": 12,
+   "start": 41.34,
+   "end": 43.88,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "(Panting)"
+  },
+  {
+   "i": 13,
+   "start": 44.84,
+   "end": 50.28,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Oh, you have GOT to be kidding me! They’re still alive?! Oh, to hell with it..."
+  },
+  {
+   "i": 14,
+   "start": 52.74,
+   "end": 58.34,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'I may not have enough energy to kill you all at ONCE, but I can still kill all of you without any troub--'"
+  },
+  {
+   "i": 15,
+   "start": 58.34,
+   "end": 60.8,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "YYUUUUUNNGGGHH!!!"
+  },
+  {
+   "i": 16,
+   "start": 60.8,
+   "end": 61.98,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Ah! Yeeaaaugh!"
+  },
+  {
+   "i": 17,
+   "start": 62.88,
+   "end": 63.38,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "Ungh!"
+  },
+  {
+   "i": 18,
+   "start": 63.98,
+   "end": 69.42,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "You... you cut through my armor! This was a gift from my FATHER!"
+  },
+  {
+   "i": 19,
+   "start": 69.72,
+   "end": 72.32,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "D'ah I’m sorry, I’m sure your father was a great man!"
+  },
+  {
+   "i": 20,
+   "start": 72.32,
+   "end": 74.32,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I HATED my father!"
+  },
+  {
+   "i": 21,
+   "start": 74.54,
+   "end": 76.88,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "Oh well then I’m sure your father was a total prick."
+  },
+  {
+   "i": 22,
+   "start": 77.04,
+   "end": 79.24,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "How dare you talk about my father like that!"
+  },
+  {
+   "i": 23,
+   "start": 79.66,
+   "end": 83.68,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "{POW} {POW} {POW} {POW} {POW} Hahahah! Finally! I can just sit back and enjoy myself."
+  },
+  {
+   "i": 24,
+   "start": 83.68,
+   "end": 85.64,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "{POW} {POW} {POW} No cares in the world!"
+  },
+  {
+   "i": 25,
+   "start": 83.68,
+   "end": 85.64,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Heartbeat"
+  },
+  {
+   "i": 26,
+   "start": 85.64,
+   "end": 89.28,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "{POW} {POW} {POW} {POW} {POW} I can beat these worthless cretins all day long and I…."
+  },
+  {
+   "i": 27,
+   "start": 85.64,
+   "end": 89.96,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Heartbeat"
+  },
+  {
+   "i": 28,
+   "start": 89.96,
+   "end": 91.5,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I think I’m forgetting something..."
+  },
+  {
+   "i": 29,
+   "start": 91.5,
+   "end": 93.2,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Inhuman growling"
+  },
+  {
+   "i": 30,
+   "start": 93.7,
+   "end": 95.54,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Oh dammit, the kid! That’s right!!!"
+  },
+  {
+   "i": 31,
+   "start": 95.64,
+   "end": 98.24,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'Oh wait, I’ll just become the mighty Oozaru and...'"
+  },
+  {
+   "i": 32,
+   "start": 98.62,
+   "end": 99.12,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "wait..."
+  },
+  {
+   "i": 33,
+   "start": 99.58,
+   "end": 102.86,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I don’t have my tail! This fat bastard cut it off!!"
+  },
+  {
+   "i": 34,
+   "start": 103.08,
+   "end": 103.96,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "Hahaaaa..."
+  },
+  {
+   "i": 35,
+   "start": 103.96,
+   "end": 104.48,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "Ungh!"
+  },
+  {
+   "i": 36,
+   "start": 105.84,
+   "end": 108.92,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "{POW} {POW} {POW} {POW} {POW} {POW} {POW} {POW}"
+  },
+  {
+   "i": 37,
+   "start": 105.84,
+   "end": 108.92,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "No, no, stop it! Stop it damn you!"
+  },
+  {
+   "i": 38,
+   "start": 108.92,
+   "end": 113.34,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "WHYYY?! WHY WON’T YOU PEOPLE JUST DIIIE?!"
+  },
+  {
+   "i": 39,
+   "start": 111.34,
+   "end": 113.34,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "(growling)"
+  },
+  {
+   "i": 40,
+   "start": 113.5,
+   "end": 116.8,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Yay! Gohan’s transformed! He’s gonna save us all!"
+  },
+  {
+   "i": 41,
+   "start": 116.8,
+   "end": 122.18,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "(Repeated roars)"
+  },
+  {
+   "i": 42,
+   "start": 122.28,
+   "end": 125.1,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Oh no! Gohan’s transformed! He’s gonna kill us all!!"
+  },
+  {
+   "i": 43,
+   "start": 125.32,
+   "end": 127.02,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "ROARRRGH!"
+  },
+  {
+   "i": 44,
+   "start": 127.36,
+   "end": 130.12,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Gohan? This is Daddy…"
+  },
+  {
+   "i": 45,
+   "start": 127.36,
+   "end": 130.12,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Gohan cotinues to roar in the background"
+  },
+  {
+   "i": 46,
+   "start": 130.92,
+   "end": 135.56,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I know you’re angry right now... but you have to focus your anger."
+  },
+  {
+   "i": 47,
+   "start": 136.12,
+   "end": 138.4,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Re--... remember Icarus?"
+  },
+  {
+   "i": 48,
+   "start": 138.78,
+   "end": 141.16,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Icarus chittering"
+  },
+  {
+   "i": 49,
+   "start": 141.16,
+   "end": 141.7,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Energy building up"
+  },
+  {
+   "i": 50,
+   "start": 141.7,
+   "end": 142.76,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "BOOM"
+  },
+  {
+   "i": 51,
+   "start": 143.06,
+   "end": 143.9,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Nrrrrrgh..."
+  },
+  {
+   "i": 52,
+   "start": 144.28,
+   "end": 145.1,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "He did it!"
+  },
+  {
+   "i": 53,
+   "start": 145.1,
+   "end": 146.98,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "ROOOOOOAAAAARRRRRGH!"
+  },
+  {
+   "i": 54,
+   "start": 146.98,
+   "end": 148.54,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "OH THAT'S *BULLS**T*!"
+  },
+  {
+   "i": 55,
+   "start": 148.54,
+   "end": 149.16,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Crash"
+  },
+  {
+   "i": 56,
+   "start": 149.86,
+   "end": 153.84,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I haven't killed a damned thing since I got to this godforsaken planet!"
+  },
+  {
+   "i": 57,
+   "start": 154.12,
+   "end": 155.86,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "...Not for lack of trying, mind you!"
+  },
+  {
+   "i": 58,
+   "start": 156.12,
+   "end": 158.36,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "(Roaring)"
+  },
+  {
+   "i": 59,
+   "start": 156.12,
+   "end": 158.36,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Hunh!"
+  },
+  {
+   "i": 60,
+   "start": 158.64,
+   "end": 162.1,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Hey, *fatass*! You wanna take off this one’s tail too?!"
+  },
+  {
+   "i": 61,
+   "start": 162.44,
+   "end": 166.48,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "Auuughh... ugggghhh... ehhuhh..."
+  },
+  {
+   "i": 62,
+   "start": 166.48,
+   "end": 168.66,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "FINE! I’ll DO IT MYSELF THEN!"
+  },
+  {
+   "i": 63,
+   "start": 169.4,
+   "end": 169.9,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Slash"
+  },
+  {
+   "i": 64,
+   "start": 170.16,
+   "end": 170.86,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "(groaning)"
+  },
+  {
+   "i": 65,
+   "start": 170.86,
+   "end": 172.26,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Haha! I did it!"
+  },
+  {
+   "i": 66,
+   "start": 172.7,
+   "end": 174.56,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "♪ I’m the best... around! ♪"
+  },
+  {
+   "i": 67,
+   "start": 174.92,
+   "end": 176.72,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "♪ No-one’s ever gonna keep me down! ♪"
+  },
+  {
+   "i": 68,
+   "start": 176.72,
+   "end": 178.22,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "(groaning)"
+  },
+  {
+   "i": 69,
+   "start": 178.22,
+   "end": 181.54,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "No… NOOOOO!!!!"
+  },
+  {
+   "i": 70,
+   "start": 181.54,
+   "end": 184.24,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Booming crash"
+  },
+  {
+   "i": 71,
+   "start": 189.98,
+   "end": 194.1,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'Crushed and broken beneath an unconscious naked child...'"
+  },
+  {
+   "i": 72,
+   "start": 194.66,
+   "end": 196.86,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'Yep... I think I'm done here.'"
+  },
+  {
+   "i": 73,
+   "start": 195.96,
+   "end": 196.86,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "BEEPBEEP"
+  },
+  {
+   "i": 74,
+   "start": 197.38,
+   "end": 197.88,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "BEEPBEEP"
+  },
+  {
+   "i": 75,
+   "start": 201.98,
+   "end": 205.86,
+   "kind": "dialog",
+   "speaker": "Kirk",
+   "text": "So, Mister Spock, what do you make, of this... ship?"
+  },
+  {
+   "i": 76,
+   "start": 205.86,
+   "end": 209.32,
+   "kind": "dialog",
+   "speaker": "Spock",
+   "text": "Well, sir, I would have find it highly illogical to refer to this as a “ship”;"
+  },
+  {
+   "i": 77,
+   "start": 209.32,
+   "end": 214.08,
+   "kind": "dialog",
+   "speaker": "Spock",
+   "text": "the spherical design incorporates no propulsion system. It looks more like an orbiting vessel, or a satell--"
+  },
+  {
+   "i": 78,
+   "start": 214.08,
+   "end": 215.04,
+   "kind": "dialog",
+   "speaker": "Kirk",
+   "text": "AAH-AAH!"
+  },
+  {
+   "i": 79,
+   "start": 214.08,
+   "end": 215.04,
+   "kind": "dialog",
+   "speaker": "Spock",
+   "text": "AAH-AAH!"
+  },
+  {
+   "i": 80,
+   "start": 215.04,
+   "end": 217.98,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Pod whooshing"
+  },
+  {
+   "i": 81,
+   "start": 219.14,
+   "end": 220.5,
+   "kind": "dialog",
+   "speaker": "Kirk",
+   "text": "…Suck it, Spock!"
+  },
+  {
+   "i": 82,
+   "start": 220.92,
+   "end": 223.14,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Pod whooshes, thuds"
+  },
+  {
+   "i": 83,
+   "start": 223.28,
+   "end": 224.14,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Ka-chunk"
+  },
+  {
+   "i": 84,
+   "start": 224.8,
+   "end": 234.32,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'Alright, I’m just gonna get in my ship... gonna fly back to Freeza Station... and I’m gonna sleep this off like a baaad hangover...'"
+  },
+  {
+   "i": 85,
+   "start": 234.84,
+   "end": 236.42,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "You’re not going anywhere!"
+  },
+  {
+   "i": 86,
+   "start": 236.72,
+   "end": 241.26,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "You think you can kill all of our friends and threaten our lives, and just *leave*?!"
+  },
+  {
+   "i": 87,
+   "start": 241.66,
+   "end": 243.66,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Would you be surprised if I said “yes”?"
+  },
+  {
+   "i": 88,
+   "start": 243.98,
+   "end": 248.86,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I’m going to end this! And YOU! RIGHT NOW! NOW DIE!!"
+  },
+  {
+   "i": 89,
+   "start": 249.46,
+   "end": 250.7,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "YAAAAAAAAAAA--!!"
+  },
+  {
+   "i": 90,
+   "start": 250.7,
+   "end": 251.44,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Krillin!"
+  },
+  {
+   "i": 91,
+   "start": 251.64,
+   "end": 252.28,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Wait!"
+  },
+  {
+   "i": 92,
+   "start": 253.14,
+   "end": 255.66,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Vegeta... are you sorry?"
+  },
+  {
+   "i": 93,
+   "start": 256.1,
+   "end": 257.56,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "W--... what?"
+  },
+  {
+   "i": 94,
+   "start": 258.04,
+   "end": 261.86,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "If you say you’re sorry, Vegeta... then you can leave."
+  },
+  {
+   "i": 95,
+   "start": 262.66,
+   "end": 264.24,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "...You can't be serious."
+  },
+  {
+   "i": 96,
+   "start": 264.58,
+   "end": 266.16,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "What are you talking about, Goku??"
+  },
+  {
+   "i": 97,
+   "start": 266.38,
+   "end": 267.86,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "He killed all our friends!"
+  },
+  {
+   "i": 98,
+   "start": 267.96,
+   "end": 274.04,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "But, Krillin... if he’s sorry... truly sorry... then there’s nothing we can do."
+  },
+  {
+   "i": 99,
+   "start": 274.96,
+   "end": 279.84,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I’m sorry. Yep, *totally* sorry. I just feel terrible."
+  },
+  {
+   "i": 100,
+   "start": 280.0,
+   "end": 281.24,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Let him go, Krillin."
+  },
+  {
+   "i": 101,
+   "start": 281.24,
+   "end": 282.4,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "But, but Goku...!"
+  },
+  {
+   "i": 102,
+   "start": 282.4,
+   "end": 285.84,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Yes, I'm very, very, very sorry…"
+  },
+  {
+   "i": 103,
+   "start": 286.4,
+   "end": 287.14,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Door slams"
+  },
+  {
+   "i": 104,
+   "start": 287.14,
+   "end": 292.12,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "...That you’re all still alive! SUCKERS!! AAHAHA! HA! OH! AH! Ow it hurts to laugh!"
+  },
+  {
+   "i": 105,
+   "start": 292.96,
+   "end": 300.24,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♪♪"
+  },
+  {
+   "i": 106,
+   "start": 292.96,
+   "end": 300.24,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "And so our heroes looked towards the sky, their battle finally over and victory on their side."
+  },
+  {
+   "i": 107,
+   "start": 300.24,
+   "end": 305.58,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "Many lives were lost, many lessons were learned, and I made out with a cool one-hundred thou!"
+  },
+  {
+   "i": 108,
+   "start": 305.72,
+   "end": 307.02,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "You cheating son of a--!"
+  },
+  {
+   "i": 109,
+   "start": 307.02,
+   "end": 308.28,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "Can’t hear you, don’t care!"
+  },
+  {
+   "i": 110,
+   "start": 308.5,
+   "end": 309.78,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "Now, where was I…"
+  },
+  {
+   "i": 111,
+   "start": 310.32,
+   "end": 313.82,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "How will our heroes bring back their fallen compatriots?"
+  },
+  {
+   "i": 112,
+   "start": 313.98,
+   "end": 316.88,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "What new dangers will present themselves?"
+  },
+  {
+   "i": 113,
+   "start": 317.34,
+   "end": 320.32,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "Has anyone REALLY not seen this show already?"
+  },
+  {
+   "i": 114,
+   "start": 320.82,
+   "end": 325.58,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "Find out in the next season of Dragonball Z Abridged!"
+  },
+  {
+   "i": 115,
+   "start": 325.58,
+   "end": 328.48,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♪♪"
+  },
+  {
+   "i": 116,
+   "start": 333.32,
+   "end": 334.36,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "TCHING"
+  },
+  {
+   "i": 117,
+   "start": 334.6,
+   "end": 337.3,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Pod whooshes"
+  },
+  {
+   "i": 118,
+   "start": 338.7,
+   "end": 340.36,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'They’ve broken my body.'"
+  },
+  {
+   "i": 119,
+   "start": 340.82,
+   "end": 343.88,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'I failed in my mission to find the Dragonballs.'"
+  },
+  {
+   "i": 120,
+   "start": 344.56,
+   "end": 346.0,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'I even lost my tail.'"
+  },
+  {
+   "i": 121,
+   "start": 346.84,
+   "end": 351.08,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'But at least... it can’t get any worse... from here...'"
+  },
+  {
+   "i": 122,
+   "start": 352.66,
+   "end": 355.46,
+   "kind": "dialog",
+   "speaker": "Ghost Nappa",
+   "text": "Vegeta…."
+  },
+  {
+   "i": 123,
+   "start": 355.94,
+   "end": 358.88,
+   "kind": "dialog",
+   "speaker": "Ghost Nappa",
+   "text": "Vegeeeeeeeetaaa…."
+  },
+  {
+   "i": 124,
+   "start": 358.88,
+   "end": 360.1,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Wh-- what?"
+  },
+  {
+   "i": 125,
+   "start": 360.66,
+   "end": 361.16,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "DING"
+  },
+  {
+   "i": 126,
+   "start": 361.16,
+   "end": 362.06,
+   "kind": "dialog",
+   "speaker": "Ghost Nappa",
+   "text": "I’m haunting you!"
+  },
+  {
+   "i": 127,
+   "start": 362.46,
+   "end": 368.26,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "NOOOOOOOOOOOOOOOOOOO!!!!!!!!!!!!!!!! ♪♪ Ghostbusters theme ♪♪"
+  },
+  {
+   "i": 128,
+   "start": 368.26,
+   "end": 372.24,
+   "kind": "dialog",
+   "speaker": "Ghost Nappa",
+   "text": "♪♪ Vegegeta-geta.....gegegegegeta ♪♪"
+  },
+  {
+   "i": 129,
+   "start": 372.24,
+   "end": 373.9,
+   "kind": "dialog",
+   "speaker": "Ghost Nappa",
+   "text": "Vegegeta.... ♪♪"
+  },
+  {
+   "i": 130,
+   "start": 373.9,
+   "end": 376.48,
+   "kind": "dialog",
+   "speaker": "Chorus",
+   "text": "GHOST NAPPA! Yeeeah! ♪♪"
+  },
+  {
+   "i": 131,
+   "start": 376.48,
+   "end": 380.14,
+   "kind": "dialog",
+   "speaker": "Ghost Nappa",
+   "text": "If there’s something strange / in your neighborhood. ♪♪"
+  },
+  {
+   "i": 132,
+   "start": 380.7,
+   "end": 381.94,
+   "kind": "dialog",
+   "speaker": "Ghost Nappa",
+   "text": "Guess who it is? ♪♪"
+  },
+  {
+   "i": 133,
+   "start": 381.94,
+   "end": 383.76,
+   "kind": "dialog",
+   "speaker": "Chorus",
+   "text": "GHOST NAPPA! ♪♪"
+  },
+  {
+   "i": 134,
+   "start": 384.36,
+   "end": 388.44,
+   "kind": "dialog",
+   "speaker": "Ghost Nappa",
+   "text": "Is it something weird? / And it don’t look good. ♪♪"
+  },
+  {
+   "i": 135,
+   "start": 388.92,
+   "end": 390.44,
+   "kind": "dialog",
+   "speaker": "Ghost Nappa",
+   "text": "Guess who it is? ♪♪"
+  },
+  {
+   "i": 136,
+   "start": 390.44,
+   "end": 392.02,
+   "kind": "dialog",
+   "speaker": "Chorus",
+   "text": "GHOST NAPPA! ♪♪"
+  },
+  {
+   "i": 137,
+   "start": 392.02,
+   "end": 397.2,
+   "kind": "dialog",
+   "speaker": "Ghost Nappa",
+   "text": "Yo, Vegeta-geta-geta-geta-getageta ♪♪"
+  },
+  {
+   "i": 138,
+   "start": 397.2,
+   "end": 402.04,
+   "kind": "dialog",
+   "speaker": "Ghost Nappa",
+   "text": "Geta-geta-geta-you know you love me as a ghost- getageta ♪♪"
+  },
+  {
+   "i": 139,
+   "start": 402.04,
+   "end": 405.42,
+   "kind": "dialog",
+   "speaker": "Ghost Nappa",
+   "text": "Geta-geta-geta-geta-getageta ♪♪"
+  },
+  {
+   "i": 140,
+   "start": 405.42,
+   "end": 409.88,
+   "kind": "dialog",
+   "speaker": "Ghost Nappa",
+   "text": "Geta-geta-geta-geta-WHOOOOO! ♪♪"
+  }
+ ],
+ "segments": [
+  {
+   "start": 6.8,
+   "end": 13.8,
+   "title": "BITCH-SLAP!",
+   "quote": "At a time like this I really only have one thing to say to you: BITCH-SLAP! / OH SNAP!",
+   "line_start": 0,
+   "line_end": 2
+  },
+  {
+   "start": 15.3,
+   "end": 35.6,
+   "title": "A BIG BANG... Kind of Attack",
+   "quote": "I'm going to end this... with a BIG BANG ...kind of attack.",
+   "line_start": 3,
+   "line_end": 11
+  },
+  {
+   "start": 63.5,
+   "end": 79.7,
+   "title": "A Gift from My FATHER",
+   "quote": "This was a gift from my FATHER! / I HATED my father! / How dare you talk about my father like that!",
+   "line_start": 18,
+   "line_end": 22
+  },
+  {
+   "start": 85.1,
+   "end": 103.4,
+   "title": "I'm Forgetting Something...",
+   "quote": "I think I'm forgetting something... / Oh dammit, the kid! That's right!!! / I don't have my tail! This fat bastard cut it off!!",
+   "line_start": 26,
+   "line_end": 33
+  },
+  {
+   "start": 113.0,
+   "end": 125.6,
+   "title": "He's Gonna Save/Kill Us All",
+   "quote": "Yay! Gohan's transformed! He's gonna save us all! / Oh no! Gohan's transformed! He's gonna kill us all!!",
+   "line_start": 40,
+   "line_end": 42
+  },
+  {
+   "start": 143.8,
+   "end": 156.3,
+   "title": "OH THAT'S BULLS**T!",
+   "quote": "OH THAT'S *BULLS**T*! I haven't killed a damned thing since I got to this godforsaken planet!",
+   "line_start": 52,
+   "line_end": 57
+  },
+  {
+   "start": 158.1,
+   "end": 184.24,
+   "title": "I'm the Best... Around!",
+   "quote": "FINE! I'll DO IT MYSELF THEN! / ♪ I'm the best... around! ♪ / No… NOOOOO!!!!",
+   "line_start": 60,
+   "line_end": 70
+  },
+  {
+   "start": 201.5,
+   "end": 221.0,
+   "title": "Suck It, Spock!",
+   "quote": "It looks more like an orbiting vessel, or a satell-- / …Suck it, Spock!",
+   "line_start": 75,
+   "line_end": 81
+  },
+  {
+   "start": 262.2,
+   "end": 292.6,
+   "title": "Totally Sorry",
+   "quote": "I'm sorry. Yep, *totally* sorry. I just feel terrible. ... That you're all still alive! SUCKERS!!",
+   "line_start": 95,
+   "line_end": 104
+  },
+  {
+   "start": 292.5,
+   "end": 326.0,
+   "title": "A Cool One-Hundred Thou",
+   "quote": "Many lives were lost, many lessons were learned, and I made out with a cool one-hundred thou! / You cheating son of a--! / Can't hear you, don't care!",
+   "line_start": 106,
+   "line_end": 114
+  },
+  {
+   "start": 338.2,
+   "end": 368.26,
+   "title": "I'm Haunting You!",
+   "quote": "But at least... it can't get any worse... from here... / Vegeeeeeeeetaaa…. / I'm haunting you!",
+   "line_start": 118,
+   "line_end": 127
+  },
+  {
+   "start": 368.0,
+   "end": 392.02,
+   "title": "Ghost Nappa Theme",
+   "quote": "If there's something strange / in your neighborhood. / Guess who it is? / GHOST NAPPA!",
+   "line_start": 128,
+   "line_end": 136
+  }
+ ]
+}

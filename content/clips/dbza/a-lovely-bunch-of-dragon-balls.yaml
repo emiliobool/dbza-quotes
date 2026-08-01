@@ -1,0 +1,20 @@
+id: a-lovely-bunch-of-dragon-balls
+show: dbza
+media: e19
+start: 285.1
+end: 306.8
+title: A Lovely Bunch of Dragon Balls
+quote: '* I''ve got a lovely bunch of Dragon Balls, do-do-do-do-do ; Here they are, all sitting in a bunch,
+  doo-doo-doo ; One star, two star ; All as big as my head! Give them a toss ; A planet across; That''s
+  how Vegeta wins, bu-bye!
+
+  *'
+speaker: Vegeta
+tags:
+- vegeta
+status: published
+source: https://reddit.com/r/TeamFourStar/comments/rv8w4j/
+signal: 192
+recurrence: 5
+added: '2026-08-01'
+by: reddit-pipeline

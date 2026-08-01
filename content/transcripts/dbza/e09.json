@@ -1,0 +1,1827 @@
+{
+ "item": "e09",
+ "show": "dbza",
+ "youtube": "bd2nWh6wui0",
+ "title": "Episode 9",
+ "duration": 582,
+ "lines": [
+  {
+   "i": 0,
+   "start": 7.64,
+   "end": 10.94,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Mr. Piccolo! Wake up! You have to stop him!"
+  },
+  {
+   "i": 1,
+   "start": 11.04,
+   "end": 13.12,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "(Incoherent mumbling)"
+  },
+  {
+   "i": 2,
+   "start": 13.68,
+   "end": 16.68,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Don’t worry, Gohan! Goku's never let us down!"
+  },
+  {
+   "i": 3,
+   "start": 16.68,
+   "end": 18.5,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I’m sure he’ll be here any second!"
+  },
+  {
+   "i": 4,
+   "start": 19.12,
+   "end": 20.34,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(Chomping)"
+  },
+  {
+   "i": 5,
+   "start": 20.6,
+   "end": 23.68,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "[mouth full] Mmmph... thanks for the food again, Princess Snake!"
+  },
+  {
+   "i": 6,
+   "start": 23.68,
+   "end": 28.04,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(Chomping)"
+  },
+  {
+   "i": 7,
+   "start": 23.68,
+   "end": 28.04,
+   "kind": "dialog",
+   "speaker": "Princess Snake",
+   "text": "Well, it’s the least I could do for trying to eat you like that."
+  },
+  {
+   "i": 8,
+   "start": 28.04,
+   "end": 29.16,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "..."
+  },
+  {
+   "i": 9,
+   "start": 28.04,
+   "end": 31.74,
+   "kind": "dialog",
+   "speaker": "Princess Snake",
+   "text": "But I thought there was... something else you had to do?"
+  },
+  {
+   "i": 10,
+   "start": 29.16,
+   "end": 31.74,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Mmm, bacon. (Chomping)"
+  },
+  {
+   "i": 11,
+   "start": 31.74,
+   "end": 33.9,
+   "kind": "dialog",
+   "speaker": "Princess Snake",
+   "text": "Something about Saiyans...?"
+  },
+  {
+   "i": 12,
+   "start": 33.9,
+   "end": 35.14,
+   "kind": "dialog",
+   "speaker": "Princess Snake",
+   "text": "And the Earth?"
+  },
+  {
+   "i": 13,
+   "start": 35.92,
+   "end": 36.7,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "GULP"
+  },
+  {
+   "i": 14,
+   "start": 38.3,
+   "end": 39.58,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Crap crap CRAP CRAP!"
+  },
+  {
+   "i": 15,
+   "start": 60.06,
+   "end": 62.1,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Mr. Piccolo, get up!"
+  },
+  {
+   "i": 16,
+   "start": 62.48,
+   "end": 63.94,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Please get up!"
+  },
+  {
+   "i": 17,
+   "start": 64.22,
+   "end": 66.14,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Seriously, he’s gonna kill us!"
+  },
+  {
+   "i": 18,
+   "start": 66.46,
+   "end": 68.88,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Well, the green guy’s out. Too bad."
+  },
+  {
+   "i": 19,
+   "start": 68.88,
+   "end": 71.26,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Guess I’ll have to find someone ELSE to play with!"
+  },
+  {
+   "i": 20,
+   "start": 71.26,
+   "end": 74.02,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "'Please not me please not me please not me please not me PLEASE NOT ME!'"
+  },
+  {
+   "i": 21,
+   "start": 74.02,
+   "end": 76.12,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Eenie meenie minie you!"
+  },
+  {
+   "i": 22,
+   "start": 76.12,
+   "end": 76.62,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Wh-what--?"
+  },
+  {
+   "i": 23,
+   "start": 76.62,
+   "end": 77.12,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Augh!"
+  },
+  {
+   "i": 24,
+   "start": 78.36,
+   "end": 79.12,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Uuh-huuh!"
+  },
+  {
+   "i": 25,
+   "start": 79.54,
+   "end": 81.4,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "WHOO! Not me!"
+  },
+  {
+   "i": 26,
+   "start": 82.08,
+   "end": 82.88,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "...Gohan?"
+  },
+  {
+   "i": 27,
+   "start": 83.16,
+   "end": 85.24,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Oh! Thought that would have lasted longer!"
+  },
+  {
+   "i": 28,
+   "start": 85.64,
+   "end": 87.62,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Midget’s next! RHAAAA!"
+  },
+  {
+   "i": 29,
+   "start": 87.62,
+   "end": 88.98,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Wait! My-turn-my-turn-MY-TURN!"
+  },
+  {
+   "i": 30,
+   "start": 88.98,
+   "end": 89.48,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Oh!"
+  },
+  {
+   "i": 31,
+   "start": 92.02,
+   "end": 94.3,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Wha-- ...Nappa, what are you doing?"
+  },
+  {
+   "i": 32,
+   "start": 94.5,
+   "end": 97.12,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "It’s his turn, Vegeta; I have to wait for him."
+  },
+  {
+   "i": 33,
+   "start": 97.76,
+   "end": 100.66,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Uh, owwwwwhhhhh, uh, ohhh…"
+  },
+  {
+   "i": 34,
+   "start": 101.06,
+   "end": 102.36,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "You okay, Vegeta?"
+  },
+  {
+   "i": 35,
+   "start": 102.76,
+   "end": 105.8,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Yes, just... just an aneurysm out of sheer stupidity..."
+  },
+  {
+   "i": 36,
+   "start": 106.16,
+   "end": 107.06,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Wow!"
+  },
+  {
+   "i": 37,
+   "start": 107.06,
+   "end": 108.86,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Didn’t think you were that stupid, Vegeta."
+  },
+  {
+   "i": 38,
+   "start": 109.2,
+   "end": 111.56,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "WAAAAUUUUUGH!!"
+  },
+  {
+   "i": 39,
+   "start": 112.78,
+   "end": 116.16,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Nine minutes, eighteen seconds. Nine minutes, eighteen seconds…"
+  },
+  {
+   "i": 40,
+   "start": 116.3,
+   "end": 117.44,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "What’s that, Vegeta?"
+  },
+  {
+   "i": 41,
+   "start": 117.78,
+   "end": 120.46,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Happiest... moment... of... my life...!"
+  },
+  {
+   "i": 42,
+   "start": 120.96,
+   "end": 123.72,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Hey! STOP TREATING ME LIKE A JOKE, DAMMIT!"
+  },
+  {
+   "i": 43,
+   "start": 123.96,
+   "end": 125.94,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I’ve got a new technique!"
+  },
+  {
+   "i": 44,
+   "start": 125.94,
+   "end": 132.02,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Which I probably could have used earlier and maybe saved all of our friends’ lives... but that’s besides the point!"
+  },
+  {
+   "i": 45,
+   "start": 132.02,
+   "end": 135.28,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Get ready for my... DESTRUCTO DISK!"
+  },
+  {
+   "i": 46,
+   "start": 135.62,
+   "end": 137.3,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "[groaning] Laaaaaaame…"
+  },
+  {
+   "i": 47,
+   "start": 137.82,
+   "end": 139.82,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Now… take THIS!"
+  },
+  {
+   "i": 48,
+   "start": 140.98,
+   "end": 142.8,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Oooooooh! A frisbee, Vegeta!"
+  },
+  {
+   "i": 49,
+   "start": 142.8,
+   "end": 144.58,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Nappa! No! It’s a trick!"
+  },
+  {
+   "i": 50,
+   "start": 144.78,
+   "end": 145.72,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "But Vegeta…"
+  },
+  {
+   "i": 51,
+   "start": 146.08,
+   "end": 147.84,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Trix are for kiiids~"
+  },
+  {
+   "i": 52,
+   "start": 149.04,
+   "end": 151.68,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "…You know what, Nappa? On second thought, catch it."
+  },
+  {
+   "i": 53,
+   "start": 151.68,
+   "end": 152.88,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Catch it with your teeth."
+  },
+  {
+   "i": 54,
+   "start": 153.1,
+   "end": 155.0,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Yaaay! Like a doggie!"
+  },
+  {
+   "i": 55,
+   "start": 155.0,
+   "end": 156.4,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Ow ow OWHOWH!"
+  },
+  {
+   "i": 56,
+   "start": 157.02,
+   "end": 160.36,
+   "kind": "dialog",
+   "speaker": "Ricola Guy",
+   "text": "Riiicolaa-- ohhh GODDAMMIT!!"
+  },
+  {
+   "i": 57,
+   "start": 162.42,
+   "end": 166.76,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "AAH, NO, MY FACE! My precious modeling career!"
+  },
+  {
+   "i": 58,
+   "start": 167.06,
+   "end": 167.56,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Shutter snaps"
+  },
+  {
+   "i": 59,
+   "start": 167.06,
+   "end": 171.26,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♪♪"
+  },
+  {
+   "i": 60,
+   "start": 171.46,
+   "end": 174.46,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "You know, I was trying to be a team player."
+  },
+  {
+   "i": 61,
+   "start": 174.72,
+   "end": 176.7,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Trying to be a nice guy!"
+  },
+  {
+   "i": 62,
+   "start": 177.16,
+   "end": 179.8,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "You killed half our friends!"
+  },
+  {
+   "i": 63,
+   "start": 179.94,
+   "end": 181.94,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "I said, *trying*!"
+  },
+  {
+   "i": 64,
+   "start": 181.94,
+   "end": 183.4,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Well you’re failing--oh God!"
+  },
+  {
+   "i": 65,
+   "start": 183.78,
+   "end": 184.28,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "DING"
+  },
+  {
+   "i": 66,
+   "start": 184.98,
+   "end": 186.5,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "And so are you!"
+  },
+  {
+   "i": 67,
+   "start": 186.68,
+   "end": 187.28,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "I’m back!"
+  },
+  {
+   "i": 68,
+   "start": 187.4,
+   "end": 189.24,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "AAAAAAAHHH!"
+  },
+  {
+   "i": 69,
+   "start": 189.24,
+   "end": 190.4,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "I-see-what-you-did-there!"
+  },
+  {
+   "i": 70,
+   "start": 191.62,
+   "end": 194.04,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Now - it’s you and me, big guy!"
+  },
+  {
+   "i": 71,
+   "start": 194.04,
+   "end": 195.28,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "And I’m gonna kick your a--!"
+  },
+  {
+   "i": 72,
+   "start": 195.28,
+   "end": 196.08,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "YAH!"
+  },
+  {
+   "i": 73,
+   "start": 195.28,
+   "end": 196.08,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "AHH--!"
+  },
+  {
+   "i": 74,
+   "start": 195.28,
+   "end": 196.08,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Whoa!"
+  },
+  {
+   "i": 75,
+   "start": 200.38,
+   "end": 203.74,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Take that, you insufferable f***ing simpleton!"
+  },
+  {
+   "i": 76,
+   "start": 204.48,
+   "end": 206.7,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "WHOA, Gohan! What the hell?!"
+  },
+  {
+   "i": 77,
+   "start": 206.96,
+   "end": 207.46,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Oh!"
+  },
+  {
+   "i": 78,
+   "start": 207.88,
+   "end": 211.38,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Oh, I’m sorry, Mr. Piccolo. I didn’t mean to snap like that!"
+  },
+  {
+   "i": 79,
+   "start": 211.38,
+   "end": 213.24,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "No; stay snapped! STAY SNAPPED!"
+  },
+  {
+   "i": 80,
+   "start": 213.24,
+   "end": 216.32,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Ahhhhh... Goddammit(!)"
+  },
+  {
+   "i": 81,
+   "start": 216.56,
+   "end": 220.24,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Hrrrrrgh you-a-make-a-me-so-mad!"
+  },
+  {
+   "i": 82,
+   "start": 220.42,
+   "end": 222.48,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "(Growling)"
+  },
+  {
+   "i": 83,
+   "start": 222.48,
+   "end": 224.48,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "(Whimpering)"
+  },
+  {
+   "i": 84,
+   "start": 224.6,
+   "end": 228.56,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Vegeta, look. I’ma firing my BLARRRGH!"
+  },
+  {
+   "i": 85,
+   "start": 228.56,
+   "end": 229.72,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "(More whimpering)"
+  },
+  {
+   "i": 86,
+   "start": 230.46,
+   "end": 231.6,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'Alright...'"
+  },
+  {
+   "i": 87,
+   "start": 231.6,
+   "end": 235.72,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'It’s time to redeem myself, through one final act of redemption.'"
+  },
+  {
+   "i": 88,
+   "start": 235.72,
+   "end": 237.12,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'I’ll save Gohan, and--'"
+  },
+  {
+   "i": 89,
+   "start": 237.22,
+   "end": 239.66,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'Wait a second... Why didn’t I just grab him?'"
+  },
+  {
+   "i": 90,
+   "start": 240.06,
+   "end": 242.26,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'I can probably still do that now, actually!'"
+  },
+  {
+   "i": 91,
+   "start": 242.48,
+   "end": 245.04,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'Yeah, that's it. I’ll grab him, and throw him out of the way--!'"
+  },
+  {
+   "i": 92,
+   "start": 245.04,
+   "end": 247.58,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "GAAAAAAAAAA!!"
+  },
+  {
+   "i": 93,
+   "start": 251.12,
+   "end": 252.34,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "WAAHAA!"
+  },
+  {
+   "i": 94,
+   "start": 257.4,
+   "end": 258.26,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Yeah..."
+  },
+  {
+   "i": 95,
+   "start": 258.72,
+   "end": 259.82,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "That's right..."
+  },
+  {
+   "i": 96,
+   "start": 260.12,
+   "end": 262.5,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "I can take anything you can dish o--"
+  },
+  {
+   "i": 97,
+   "start": 262.5,
+   "end": 264.08,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'Oh God, there go my organs...'"
+  },
+  {
+   "i": 98,
+   "start": 264.08,
+   "end": 264.76,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Hard thud"
+  },
+  {
+   "i": 99,
+   "start": 265.62,
+   "end": 267.38,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Mr. Piccolo!"
+  },
+  {
+   "i": 100,
+   "start": 268.06,
+   "end": 268.7,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Ghh..."
+  },
+  {
+   "i": 101,
+   "start": 269.14,
+   "end": 271.54,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Gohan... come closer..."
+  },
+  {
+   "i": 102,
+   "start": 272.04,
+   "end": 274.96,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "There’s... something... I have to tell you..."
+  },
+  {
+   "i": 103,
+   "start": 275.12,
+   "end": 283.78,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Is-is it that you always pictured me as a son, because you can never make your own, considering you lack the reproductive organs to produce your own legitimate offspring--?"
+  },
+  {
+   "i": 104,
+   "start": 283.78,
+   "end": 286.26,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Nnnerrrrrrrrrrd…"
+  },
+  {
+   "i": 105,
+   "start": 286.92,
+   "end": 288.3,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Wh... what?"
+  },
+  {
+   "i": 106,
+   "start": 289.16,
+   "end": 291.92,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Just... shut up and... listen..."
+  },
+  {
+   "i": 107,
+   "start": 292.24,
+   "end": 294.0,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "What is it, Mr. Piccolo?"
+  },
+  {
+   "i": 108,
+   "start": 294.5,
+   "end": 298.98,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Why... didn't... you... DOOOOOOOOODGE?!?!"
+  },
+  {
+   "i": 109,
+   "start": 298.98,
+   "end": 299.48,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Bleh"
+  },
+  {
+   "i": 110,
+   "start": 300.38,
+   "end": 306.54,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "NOOOOOOOOOOOOOOOOOOOOOOOOO!!"
+  },
+  {
+   "i": 111,
+   "start": 306.54,
+   "end": 307.7,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Scream fades into echoes"
+  },
+  {
+   "i": 112,
+   "start": 308.26,
+   "end": 309.2,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Eehh-oghh!"
+  },
+  {
+   "i": 113,
+   "start": 310.04,
+   "end": 313.9,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Well, Mr. Popo... it seems my time has come."
+  },
+  {
+   "i": 114,
+   "start": 314.12,
+   "end": 320.62,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "But don’t worry, my friend... you will go to Namek and wish myself and the others back with their Dragon Balls."
+  },
+  {
+   "i": 115,
+   "start": 320.88,
+   "end": 324.66,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "It will be a long and arduous journey... but I’m sure you can--"
+  },
+  {
+   "i": 116,
+   "start": 324.66,
+   "end": 326.18,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Bitch, I ain't goin' nowhere."
+  },
+  {
+   "i": 117,
+   "start": 326.5,
+   "end": 330.48,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "But Mr. Popo! The fate of the entire universe is--"
+  },
+  {
+   "i": 118,
+   "start": 330.48,
+   "end": 331.34,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Pecking order!"
+  },
+  {
+   "i": 119,
+   "start": 331.94,
+   "end": 332.92,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "But, I..."
+  },
+  {
+   "i": 120,
+   "start": 333.66,
+   "end": 336.54,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Well then... [fading out] goodbye, my friend!"
+  },
+  {
+   "i": 121,
+   "start": 339.56,
+   "end": 341.34,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Byyyyyee~!"
+  },
+  {
+   "i": 122,
+   "start": 342.18,
+   "end": 343.98,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Wind howling"
+  },
+  {
+   "i": 123,
+   "start": 344.1,
+   "end": 346.44,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Vegeta, did you see me kill the green guy?"
+  },
+  {
+   "i": 124,
+   "start": 347.04,
+   "end": 348.9,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Yes, Nappa; that was a very good kick."
+  },
+  {
+   "i": 125,
+   "start": 349.14,
+   "end": 352.02,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "D'aww, Vegeta! You weren’t watching!"
+  },
+  {
+   "i": 126,
+   "start": 352.16,
+   "end": 354.6,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Can you at least watch me kill the toddler?"
+  },
+  {
+   "i": 127,
+   "start": 354.68,
+   "end": 356.18,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Ughh, fine..."
+  },
+  {
+   "i": 128,
+   "start": 356.68,
+   "end": 358.68,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "NNNAAAAAAGGGGHHH!!"
+  },
+  {
+   "i": 129,
+   "start": 359.18,
+   "end": 366.28,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "*I’m gonna eviscerate you and use your gastrointestinal tract as a condom while I fornicate with your skull*!"
+  },
+  {
+   "i": 130,
+   "start": 367.76,
+   "end": 368.26,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "...What?"
+  },
+  {
+   "i": 131,
+   "start": 368.52,
+   "end": 370.48,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "I'M GONNA SKULLF*** YOU!!"
+  },
+  {
+   "i": 132,
+   "start": 370.9,
+   "end": 375.26,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "MASENKO...HAAAAA!"
+  },
+  {
+   "i": 133,
+   "start": 374.32,
+   "end": 375.26,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "YAARGH!"
+  },
+  {
+   "i": 134,
+   "start": 381.0,
+   "end": 383.7,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Aaagh, bitch, please!"
+  },
+  {
+   "i": 135,
+   "start": 384.38,
+   "end": 388.28,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "I'm... (Pant) sorry... Mr. Piccolo..."
+  },
+  {
+   "i": 136,
+   "start": 389.08,
+   "end": 391.46,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "I... (Pant) I failed you."
+  },
+  {
+   "i": 137,
+   "start": 391.46,
+   "end": 392.54,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "You sure did!"
+  },
+  {
+   "i": 138,
+   "start": 392.54,
+   "end": 395.94,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I, uh, I mean... sorry for your loss."
+  },
+  {
+   "i": 139,
+   "start": 396.28,
+   "end": 400.14,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Well, it’s been fun, kid. I mean, for me; not for you."
+  },
+  {
+   "i": 140,
+   "start": 400.44,
+   "end": 403.96,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "As for you, everyone important to you is dead."
+  },
+  {
+   "i": 141,
+   "start": 403.96,
+   "end": 405.06,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Hey, I'm still alive--!"
+  },
+  {
+   "i": 142,
+   "start": 405.06,
+   "end": 407.16,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Everyone important."
+  },
+  {
+   "i": 143,
+   "start": 408.08,
+   "end": 408.66,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "...Dammit."
+  },
+  {
+   "i": 144,
+   "start": 409.82,
+   "end": 412.42,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Now... NAPPA SMASH!"
+  },
+  {
+   "i": 145,
+   "start": 412.42,
+   "end": 413.18,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Uhhh...!"
+  },
+  {
+   "i": 146,
+   "start": 413.18,
+   "end": 413.88,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Gahh...!"
+  },
+  {
+   "i": 147,
+   "start": 413.88,
+   "end": 414.72,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "ARRRGH!"
+  },
+  {
+   "i": 148,
+   "start": 415.26,
+   "end": 416.4,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Impact"
+  },
+  {
+   "i": 149,
+   "start": 416.82,
+   "end": 417.6,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Oo wa wa?"
+  },
+  {
+   "i": 150,
+   "start": 417.8,
+   "end": 419.12,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Hey, where'd he go!?"
+  },
+  {
+   "i": 151,
+   "start": 419.38,
+   "end": 420.4,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Did he disappear?"
+  },
+  {
+   "i": 152,
+   "start": 420.7,
+   "end": 423.32,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Or was he never there to begin with?"
+  },
+  {
+   "i": 153,
+   "start": 423.32,
+   "end": 425.7,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Dramatic music"
+  },
+  {
+   "i": 154,
+   "start": 425.7,
+   "end": 427.28,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Oh, wait, there he is."
+  },
+  {
+   "i": 155,
+   "start": 426.62,
+   "end": 428.04,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "(Gasp) Huh?"
+  },
+  {
+   "i": 156,
+   "start": 433.74,
+   "end": 435.2,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "I, oh..."
+  },
+  {
+   "i": 157,
+   "start": 435.2,
+   "end": 436.14,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Are they all..."
+  },
+  {
+   "i": 158,
+   "start": 437.14,
+   "end": 438.24,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Tenshinhan..."
+  },
+  {
+   "i": 159,
+   "start": 438.86,
+   "end": 439.68,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Piccolo?"
+  },
+  {
+   "i": 160,
+   "start": 440.42,
+   "end": 443.72,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Yamcha? Oh wow, especially Yamcha."
+  },
+  {
+   "i": 161,
+   "start": 444.08,
+   "end": 445.84,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Wait, where’s Chiaotzu?"
+  },
+  {
+   "i": 162,
+   "start": 446.46,
+   "end": 452.3,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Oh, he’s here... and there... a--"
+  },
+  {
+   "i": 163,
+   "start": 451.2,
+   "end": 452.3,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Krillin!"
+  },
+  {
+   "i": 164,
+   "start": 452.3,
+   "end": 452.9,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "What?"
+  },
+  {
+   "i": 165,
+   "start": 452.9,
+   "end": 454.04,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Too soon!"
+  },
+  {
+   "i": 166,
+   "start": 454.6,
+   "end": 456.02,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I'm sorry I'm late, you guys."
+  },
+  {
+   "i": 167,
+   "start": 456.22,
+   "end": 457.94,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "But I brought some Senzu beans for ya!"
+  },
+  {
+   "i": 168,
+   "start": 458.16,
+   "end": 460.02,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Woohoo! Legume ex machina!"
+  },
+  {
+   "i": 169,
+   "start": 460.14,
+   "end": 462.62,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hey! Which one of you did all this?"
+  },
+  {
+   "i": 170,
+   "start": 462.62,
+   "end": 466.12,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "That was me! Totally calling it! I killed every single one of them!"
+  },
+  {
+   "i": 171,
+   "start": 466.26,
+   "end": 469.16,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "'Cept the Chiaotzu; he blew *himself* up!"
+  },
+  {
+   "i": 172,
+   "start": 469.16,
+   "end": 472.4,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(Grunting)"
+  },
+  {
+   "i": 173,
+   "start": 472.4,
+   "end": 477.58,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "HYAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!!"
+  },
+  {
+   "i": 174,
+   "start": 478.14,
+   "end": 478.78,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Ughh!"
+  },
+  {
+   "i": 175,
+   "start": 479.86,
+   "end": 482.86,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Rocks crumbling"
+  },
+  {
+   "i": 176,
+   "start": 479.86,
+   "end": 482.86,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Wind blows"
+  },
+  {
+   "i": 177,
+   "start": 484.62,
+   "end": 488.64,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Vegeta! What does the Scouter say about his power level?"
+  },
+  {
+   "i": 178,
+   "start": 489.7,
+   "end": 490.58,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "It's...!"
+  },
+  {
+   "i": 179,
+   "start": 490.58,
+   "end": 492.26,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "One thousand and six."
+  },
+  {
+   "i": 180,
+   "start": 492.56,
+   "end": 493.46,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Wha-- really?"
+  },
+  {
+   "i": 181,
+   "start": 493.7,
+   "end": 495.38,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Yeah! Kick his ass, Nappa!"
+  },
+  {
+   "i": 182,
+   "start": 495.38,
+   "end": 495.88,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Scouter beeps"
+  },
+  {
+   "i": 183,
+   "start": 496.1,
+   "end": 497.28,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "YAAAYYY!"
+  },
+  {
+   "i": 184,
+   "start": 497.28,
+   "end": 501.76,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "HaaaAAAA--D'OUH! OWF! AH! ARGH! OW!"
+  },
+  {
+   "i": 185,
+   "start": 501.76,
+   "end": 503.98,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Sounds of beating and pain"
+  },
+  {
+   "i": 186,
+   "start": 503.98,
+   "end": 507.92,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "D'ah! D'oh! D'ah! D'oh! D'oh! D'oh! D'oh!"
+  },
+  {
+   "i": 187,
+   "start": 507.92,
+   "end": 509.28,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Ah, that doesn’t bend that way."
+  },
+  {
+   "i": 188,
+   "start": 507.92,
+   "end": 512.34,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Beeping"
+  },
+  {
+   "i": 189,
+   "start": 507.92,
+   "end": 509.28,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Hmmm..."
+  },
+  {
+   "i": 190,
+   "start": 509.28,
+   "end": 510.4,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "My arm doesn’t bend that way!"
+  },
+  {
+   "i": 191,
+   "start": 509.28,
+   "end": 510.4,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "that doesn’t seem right."
+  },
+  {
+   "start": 510.4,
+   "end": 510.9,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "THWACK",
+   "i": 192
+  },
+  {
+   "i": 193,
+   "start": 510.4,
+   "end": 512.34,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "AH, NOW IT DOES!!"
+  },
+  {
+   "i": 194,
+   "start": 510.4,
+   "end": 512.34,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Wait, wait wait wait!"
+  },
+  {
+   "i": 195,
+   "start": 512.34,
+   "end": 513.12,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Nappa!"
+  },
+  {
+   "i": 196,
+   "start": 513.12,
+   "end": 515.6,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Augh-ha! Whaaaaaat??"
+  },
+  {
+   "i": 197,
+   "start": 516.3,
+   "end": 518.34,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I had the Scouter upside-down."
+  },
+  {
+   "i": 198,
+   "start": 518.48,
+   "end": 520.16,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "It’s over nine thousand."
+  },
+  {
+   "i": 199,
+   "start": 520.72,
+   "end": 521.44,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Rah."
+  },
+  {
+   "i": 200,
+   "start": 522.32,
+   "end": 524.7,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Why do you sound so bored??"
+  },
+  {
+   "i": 201,
+   "start": 524.7,
+   "end": 527.0,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Because it’s still not a threat..."
+  },
+  {
+   "i": 202,
+   "start": 527.0,
+   "end": 528.08,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "But--"
+  },
+  {
+   "i": 203,
+   "start": 527.0,
+   "end": 528.08,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "...to me!"
+  },
+  {
+   "i": 204,
+   "start": 528.08,
+   "end": 531.92,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Besides, once we get the Dragon Balls we’ll just wish for immortality!"
+  },
+  {
+   "i": 205,
+   "start": 532.1,
+   "end": 534.32,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Then no one will be able to stop us!"
+  },
+  {
+   "i": 206,
+   "start": 534.8,
+   "end": 537.72,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Wait, what? But, you killed Piccolo."
+  },
+  {
+   "i": 207,
+   "start": 538.04,
+   "end": 540.02,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "And your point is...?"
+  },
+  {
+   "i": 208,
+   "start": 540.02,
+   "end": 543.2,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Well, if he’s dead, the Dragon Balls don’t work."
+  },
+  {
+   "i": 209,
+   "start": 543.52,
+   "end": 545.18,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Wh-- ...What?!"
+  },
+  {
+   "i": 210,
+   "start": 545.42,
+   "end": 547.62,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Ohhh, and I totally killed that guy."
+  },
+  {
+   "i": 211,
+   "start": 547.76,
+   "end": 550.18,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Oh well; at least we still had fun getting here; right, Vegeta?"
+  },
+  {
+   "i": 212,
+   "start": 550.18,
+   "end": 555.42,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Hurrgh... *urrrgh*... *hurrrgh*...!"
+  },
+  {
+   "i": 213,
+   "start": 550.18,
+   "end": 558.16,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Vegeta? Remember the bug planet? Vegeta? Vegeta? Vegeta? Vegeta? Vegeta? Vegeta? Vege--?"
+  },
+  {
+   "i": 214,
+   "start": 558.16,
+   "end": 560.46,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "AAAAAAAAAAAAHH!!"
+  }
+ ],
+ "segments": [
+  {
+   "start": 66.0,
+   "end": 89.9,
+   "title": "Eenie Meenie Minie You",
+   "quote": "Eenie meenie minie you! / WHOO! Not me! ...Gohan? / Wait! My-turn-my-turn-MY-TURN!",
+   "line_start": 18,
+   "line_end": 27
+  },
+  {
+   "start": 91.5,
+   "end": 120.9,
+   "title": "Aneurysm of Sheer Stupidity",
+   "quote": "Yes, just... just an aneurysm out of sheer stupidity... / Nine minutes, eighteen seconds. Happiest... moment... of... my life...!",
+   "line_start": 31,
+   "line_end": 41
+  },
+  {
+   "start": 120.5,
+   "end": 139.9,
+   "title": "Destructo Disk",
+   "quote": "Get ready for my... DESTRUCTO DISK! / Laaaaaaame…",
+   "line_start": 42,
+   "line_end": 47
+  },
+  {
+   "start": 140.5,
+   "end": 160.9,
+   "title": "A Frisbee, Vegeta!",
+   "quote": "On second thought, catch it. Catch it with your teeth. / Yaaay! Like a doggie! / Riiicolaa-- ohhh GODDAMMIT!!",
+   "line_start": 48,
+   "line_end": 56
+  },
+  {
+   "start": 216.0,
+   "end": 248.0,
+   "title": "I'ma Firing My BLARRRGH",
+   "quote": "Vegeta, look. I’ma firing my BLARRRGH! / 'Wait a second... Why didn’t I just grab him?'",
+   "line_start": 81,
+   "line_end": 92
+  },
+  {
+   "start": 274.6,
+   "end": 307.7,
+   "title": "Why Didn't You DODGE?!",
+   "quote": "Why... didn't... you... DOOOOOOOOODGE?!?!",
+   "line_start": 103,
+   "line_end": 110
+  },
+  {
+   "start": 309.5,
+   "end": 341.8,
+   "title": "Bitch, I Ain't Goin' Nowhere",
+   "quote": "Bitch, I ain't goin' nowhere. / Pecking order!",
+   "line_start": 113,
+   "line_end": 121
+  },
+  {
+   "start": 356.2,
+   "end": 384.0,
+   "title": "I'm Gonna Skullf*** You",
+   "quote": "I'M GONNA SKULLF*** YOU!! MASENKO...HAAAAA! / Aaagh, bitch, please!",
+   "line_start": 128,
+   "line_end": 134
+  },
+  {
+   "start": 384.0,
+   "end": 409.0,
+   "title": "Sorry for Your Loss",
+   "quote": "You sure did! I, uh, I mean... sorry for your loss. / Everyone important.",
+   "line_start": 135,
+   "line_end": 143
+  },
+  {
+   "start": 443.6,
+   "end": 460.4,
+   "title": "Chiaotzu Is Here... and There",
+   "quote": "Oh, he’s here... and there... a-- / Krillin! / Too soon! / Woohoo! Legume ex machina!",
+   "line_start": 161,
+   "line_end": 168
+  },
+  {
+   "start": 484.1,
+   "end": 521.9,
+   "title": "It's Over 9000!",
+   "quote": "I had the Scouter upside-down. It’s over nine thousand. Rah.",
+   "line_start": 177,
+   "line_end": 199
+  },
+  {
+   "start": 545.0,
+   "end": 561.0,
+   "title": "Remember the Bug Planet?",
+   "quote": "Vegeta? Remember the bug planet? Vegeta? Vegeta? / AAAAAAAAAAAAHH!!",
+   "line_start": 210,
+   "line_end": 214
+  }
+ ]
+}

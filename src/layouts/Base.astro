@@ -1,0 +1,141 @@
+---
+const {
+  title = "DBZA Quotes",
+  description = "Search Dragon Ball Z Abridged dialog, link any moment, share clips.",
+  ogImage = null,
+  ogType = "website",
+} = Astro.props;
+const canonical = new URL(Astro.url.pathname, Astro.site).href;
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <meta property="og:site_name" content="DBZA Quotes" />
+    <meta property="og:type" content={ogType} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    {ogImage && <meta property="og:image" content={ogImage} />}
+    {ogImage && <meta name="twitter:card" content="summary_large_image" />}
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🐉</text></svg>" />
+  </head>
+  <body>
+    <header class="site-header">
+      <nav>
+        <a href="/" class="brand">🐉 DBZA Quotes</a>
+        <a href="/browse/">Catalog</a>
+        <a href="/dbza/">Episodes</a>
+        <a href="/saved/">Saved</a>
+        <a href="/about/">About</a>
+      </nav>
+    </header>
+    <main><slot /></main>
+    <footer class="site-footer">
+      Unofficial fan reference for <a href="https://teamfourstar.com">TeamFourStar</a>'s Dragon Ball
+      Z Abridged. All video plays on YouTube. <a href="/about/">About / takedown</a>
+    </footer>
+  </body>
+</html>
+
+<style is:global>
+  :root {
+    --bg: #0f1115;
+    --bg2: #171a21;
+    --bg3: #1f242e;
+    --fg: #e6e8ec;
+    --fg-dim: #9aa3b2;
+    --accent: #f6a821;
+    --accent2: #4da3ff;
+    --border: #2a303c;
+    --radius: 10px;
+    color-scheme: dark;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--fg);
+    font: 16px/1.55 system-ui, -apple-system, "Segoe UI", sans-serif;
+  }
+  a { color: var(--accent2); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  main { max-width: 880px; margin: 0 auto; padding: 1.5rem 1rem 4rem; }
+  h1 { font-size: 1.6rem; margin: 0.5rem 0 1rem; }
+  h2 { font-size: 1.15rem; margin: 1.6rem 0 0.6rem; color: var(--accent); }
+
+  .site-header { border-bottom: 1px solid var(--border); background: var(--bg2); }
+  .site-header nav {
+    max-width: 880px; margin: 0 auto; padding: 0.7rem 1rem;
+    display: flex; gap: 1.1rem; align-items: center; flex-wrap: wrap;
+  }
+  .site-header a { color: var(--fg-dim); font-weight: 500; }
+  .site-header a.brand { color: var(--accent); font-weight: 700; font-size: 1.05rem; }
+  .site-footer {
+    max-width: 880px; margin: 0 auto; padding: 1rem;
+    color: var(--fg-dim); font-size: 0.85rem; border-top: 1px solid var(--border);
+  }
+
+  .card {
+    background: var(--bg2); border: 1px solid var(--border);
+    border-radius: var(--radius); padding: 0.8rem 1rem; margin: 0.5rem 0;
+  }
+  .quote-line { margin: 0.15rem 0; }
+  .speaker { color: var(--accent); font-weight: 600; }
+  .dim { color: var(--fg-dim); }
+  .meta { color: var(--fg-dim); font-size: 0.85rem; }
+  .tstamp {
+    font-variant-numeric: tabular-nums; color: var(--fg-dim); font-size: 0.85rem;
+    text-decoration: none;
+  }
+  .btn {
+    display: inline-block; background: var(--bg3); color: var(--fg);
+    border: 1px solid var(--border); border-radius: 8px;
+    padding: 0.4rem 0.8rem; font-size: 0.9rem; cursor: pointer;
+  }
+  .btn:hover { border-color: var(--accent2); text-decoration: none; }
+  .btn.primary { background: var(--accent); color: #14161a; border-color: var(--accent); font-weight: 600; }
+  .btn-row { display: flex; gap: 0.5rem; flex-wrap: wrap; margin: 0.8rem 0; }
+  input[type="search"], input[type="text"], textarea {
+    width: 100%; background: var(--bg2); color: var(--fg);
+    border: 1px solid var(--border); border-radius: var(--radius);
+    padding: 0.65rem 0.9rem; font-size: 1.05rem;
+  }
+  input:focus, textarea:focus { outline: 2px solid var(--accent2); border-color: transparent; }
+
+  .player-wrap { position: relative; aspect-ratio: 16/9; background: #000; border-radius: var(--radius); overflow: hidden; }
+  .player-wrap iframe { width: 100%; height: 100%; border: 0; }
+  .caption-bar {
+    min-height: 3.2rem; margin-top: 0.5rem; padding: 0.5rem 0.9rem;
+    background: var(--bg2); border: 1px solid var(--border); border-radius: var(--radius);
+    font-size: 1.05rem; text-align: center;
+  }
+  .transcript .line { padding: 0.2rem 0.5rem; border-radius: 6px; display: flex; gap: 0.6rem; }
+  .transcript .line:hover { background: var(--bg3); }
+  .transcript .line.active { background: #2a2410; outline: 1px solid var(--accent); }
+  .transcript .line.in-range { background: #16202e; }
+  .transcript .line .text { flex: 1; }
+  .transcript .line.direction .text, .transcript .line.sfx .text { color: var(--fg-dim); font-style: italic; }
+  .clip-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 0.8rem; }
+  .clip-card { display: block; color: inherit; background: var(--bg2); border: 1px solid var(--border); border-radius: var(--radius); overflow: hidden; }
+  .clip-card:hover { border-color: var(--accent2); text-decoration: none; }
+  .clip-card img { width: 100%; aspect-ratio: 16/9; object-fit: cover; display: block; }
+  .clip-card .pad { padding: 0.6rem 0.8rem; }
+  .clip-card .title { font-weight: 600; }
+  .badge {
+    display: inline-block; font-size: 0.72rem; padding: 0.05rem 0.45rem;
+    border-radius: 99px; border: 1px solid var(--border); color: var(--fg-dim);
+    vertical-align: middle;
+  }
+  .toast {
+    position: fixed; bottom: 1.2rem; left: 50%; transform: translateX(-50%);
+    background: var(--accent); color: #14161a; font-weight: 600;
+    padding: 0.5rem 1rem; border-radius: 8px; opacity: 0; transition: opacity 0.2s;
+    pointer-events: none; z-index: 10;
+  }
+  .toast.show { opacity: 1; }
+</style>

@@ -1,0 +1,2419 @@
+{
+ "item": "e39",
+ "show": "dbza",
+ "youtube": "GseakSakUNY",
+ "title": "Episode 35",
+ "duration": 789,
+ "lines": [
+  {
+   "i": 0,
+   "start": 5.0,
+   "end": 6.32,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "I mean, heh..."
+  },
+  {
+   "i": 1,
+   "start": 23.26,
+   "end": 26.54,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Alright, I packed you all some lunches for your field trip."
+  },
+  {
+   "i": 2,
+   "start": 26.54,
+   "end": 28.0,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "We're going to Urgay!"
+  },
+  {
+   "i": 3,
+   "start": 28.0,
+   "end": 28.62,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Uruguay."
+  },
+  {
+   "i": 4,
+   "start": 28.86,
+   "end": 30.94,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Make sure you're safe now, okay?"
+  },
+  {
+   "i": 5,
+   "start": 30.94,
+   "end": 33.34,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Well, I don't know how safe we can be..."
+  },
+  {
+   "i": 6,
+   "start": 33.34,
+   "end": 35.24,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "We're gonna be fighting Androids."
+  },
+  {
+   "i": 7,
+   "start": 36.02,
+   "end": 37.02,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "...Uh, wha--?"
+  },
+  {
+   "i": 8,
+   "start": 37.02,
+   "end": 38.62,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "But make sure you don't tell Chi-Chi--"
+  },
+  {
+   "i": 9,
+   "start": 41.28,
+   "end": 44.32,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "...Three years, Dad. Three years. You almost had it..."
+  },
+  {
+   "i": 10,
+   "start": 45.86,
+   "end": 46.92,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I'm taking Gohan, bye!"
+  },
+  {
+   "i": 11,
+   "start": 46.92,
+   "end": 50.08,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "(Screaming)"
+  },
+  {
+   "i": 12,
+   "start": 76.78,
+   "end": 80.3,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "So what do you think? How ready are we to take on these Androids?"
+  },
+  {
+   "i": 13,
+   "start": 80.3,
+   "end": 81.92,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "On a scale of one to ten?"
+  },
+  {
+   "i": 14,
+   "start": 81.92,
+   "end": 83.04,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "My chest hurts..."
+  },
+  {
+   "i": 15,
+   "start": 83.04,
+   "end": 83.54,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Huh?"
+  },
+  {
+   "i": 16,
+   "start": 83.54,
+   "end": 84.7,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Uh, seven or eight."
+  },
+  {
+   "i": 17,
+   "start": 84.7,
+   "end": 86.1,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Hey look, it's Krillin!"
+  },
+  {
+   "i": 18,
+   "start": 86.2,
+   "end": 87.54,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Hey, Krillin!"
+  },
+  {
+   "i": 19,
+   "start": 87.54,
+   "end": 88.86,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Oh, hey Gohan!"
+  },
+  {
+   "i": 20,
+   "start": 89.02,
+   "end": 91.24,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "You've barely grown since the last time I saw you, huh?"
+  },
+  {
+   "i": 21,
+   "start": 91.34,
+   "end": 93.68,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "It's funny, I think that everytime I see you!"
+  },
+  {
+   "i": 22,
+   "start": 93.84,
+   "end": 95.7,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Ha ha! Ha..."
+  },
+  {
+   "i": 23,
+   "start": 95.7,
+   "end": 97.62,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Hey, that must be the island!"
+  },
+  {
+   "i": 24,
+   "start": 100.16,
+   "end": 102.58,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Holy crap! This city is huge!"
+  },
+  {
+   "i": 25,
+   "start": 102.58,
+   "end": 105.84,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "And this island's so tiny! What do these people do here?"
+  },
+  {
+   "i": 26,
+   "start": 105.84,
+   "end": 107.96,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Apparently, prostitution is legal."
+  },
+  {
+   "i": 27,
+   "start": 107.96,
+   "end": 109.48,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Ohhhh....!"
+  },
+  {
+   "i": 28,
+   "start": 107.96,
+   "end": 109.48,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Ohhhh....!"
+  },
+  {
+   "i": 29,
+   "start": 107.96,
+   "end": 109.48,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Ohhhh....!"
+  },
+  {
+   "i": 30,
+   "start": 109.48,
+   "end": 111.06,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "So the prostitutes..."
+  },
+  {
+   "i": 31,
+   "start": 111.1,
+   "end": 113.2,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Hey, guys! Down here!"
+  },
+  {
+   "i": 32,
+   "start": 114.58,
+   "end": 117.9,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "He-hey, Yamcha! Tenshinhan! Bulma!"
+  },
+  {
+   "i": 33,
+   "start": 117.9,
+   "end": 121.16,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Bulma's baby-- ba... Bulma has a baby..."
+  },
+  {
+   "i": 34,
+   "start": 121.16,
+   "end": 122.3,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "You're damn right!"
+  },
+  {
+   "i": 35,
+   "start": 122.3,
+   "end": 125.32,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Yeah, and you won't believe who the father is..."
+  },
+  {
+   "i": 36,
+   "start": 125.32,
+   "end": 126.08,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Vegeta."
+  },
+  {
+   "i": 37,
+   "start": 125.32,
+   "end": 126.08,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Vegeta."
+  },
+  {
+   "i": 38,
+   "start": 126.08,
+   "end": 126.58,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Vegeta."
+  },
+  {
+   "i": 39,
+   "start": 126.58,
+   "end": 127.16,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Vegeta."
+  },
+  {
+   "i": 40,
+   "start": 127.16,
+   "end": 128.42,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Well, it could've been mine!"
+  },
+  {
+   "i": 41,
+   "start": 128.42,
+   "end": 129.46,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "It's Vegeta."
+  },
+  {
+   "i": 42,
+   "start": 130.18,
+   "end": 132.0,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "I'm just gonna walk over here..."
+  },
+  {
+   "i": 43,
+   "start": 132.16,
+   "end": 134.68,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "He's my baby boy! His name is Trunks!"
+  },
+  {
+   "i": 44,
+   "start": 134.76,
+   "end": 136.76,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hahaha! That's a girl's name."
+  },
+  {
+   "i": 45,
+   "start": 136.76,
+   "end": 138.2,
+   "kind": "dialog",
+   "speaker": "Baby Trunks",
+   "text": "(Moaning)"
+  },
+  {
+   "i": 46,
+   "start": 138.2,
+   "end": 140.2,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "So, then... where's daddy?"
+  },
+  {
+   "i": 47,
+   "start": 140.2,
+   "end": 142.84,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Unfortunately, our last conversation was..."
+  },
+  {
+   "i": 48,
+   "start": 142.84,
+   "end": 143.34,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Flashback"
+  },
+  {
+   "i": 49,
+   "start": 143.34,
+   "end": 145.74,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "You are such an unbelievable asshole!"
+  },
+  {
+   "i": 50,
+   "start": 145.74,
+   "end": 149.44,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "You know, you're being bitchier than usual today. And *not* in a hot way."
+  },
+  {
+   "i": 51,
+   "start": 149.44,
+   "end": 151.54,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "You got me pregnant, you *idiot*!"
+  },
+  {
+   "i": 52,
+   "start": 151.54,
+   "end": 153.2,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "How is that my fault?!"
+  },
+  {
+   "i": 53,
+   "start": 153.2,
+   "end": 155.68,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "You SAID you were wearing *protection*!"
+  },
+  {
+   "i": 54,
+   "start": 155.68,
+   "end": 158.06,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "*I was wearing my armor*!"
+  },
+  {
+   "i": 55,
+   "start": 158.78,
+   "end": 160.22,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Ugh, you're a moron..."
+  },
+  {
+   "i": 56,
+   "start": 160.22,
+   "end": 161.22,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Smashed crockery"
+  },
+  {
+   "i": 57,
+   "start": 160.22,
+   "end": 162.08,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Well, what do you expect me to do about it?!"
+  },
+  {
+   "i": 58,
+   "start": 162.08,
+   "end": 167.22,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "What you're *going* to do is go out, get a job, and help me raise our child!"
+  },
+  {
+   "i": 59,
+   "start": 172.4,
+   "end": 172.9,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Flashback ends"
+  },
+  {
+   "i": 60,
+   "start": 172.9,
+   "end": 174.68,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "That was a year and a half ago..."
+  },
+  {
+   "i": 61,
+   "start": 174.82,
+   "end": 176.46,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "So, y'know, you tell me."
+  },
+  {
+   "i": 62,
+   "start": 176.46,
+   "end": 179.28,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Well, on the plus side, your boobs look amazing!"
+  },
+  {
+   "i": 63,
+   "start": 179.28,
+   "end": 180.94,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "I...! You...!"
+  },
+  {
+   "i": 64,
+   "start": 181.46,
+   "end": 183.46,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Ugh... 'Just take the compliment.'"
+  },
+  {
+   "i": 65,
+   "start": 183.56,
+   "end": 185.78,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "♫ Cat loves food ye-yeah-yeah-yeah! ♫"
+  },
+  {
+   "i": 66,
+   "start": 183.56,
+   "end": 187.2,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "If you guys are done acting out your favorite chick flick, we've got incoming."
+  },
+  {
+   "i": 67,
+   "start": 185.78,
+   "end": 188.12,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "♫ Cat loves food yeah-yeah! ♫"
+  },
+  {
+   "i": 68,
+   "start": 188.12,
+   "end": 188.84,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "♫ Cat loves food ye-yeah-yeah-yeah! ♫"
+  },
+  {
+   "i": 69,
+   "start": 188.84,
+   "end": 190.52,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "'Oh God, not my song...' ♫ Cat loves food ye-yeah-yeah-yeah! ♫"
+  },
+  {
+   "i": 70,
+   "start": 190.52,
+   "end": 192.86,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "♫ Cat loves food yeah-yeaaah! ♫"
+  },
+  {
+   "i": 71,
+   "start": 194.06,
+   "end": 197.02,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh, wow! Yajirobe, I can't believe it!"
+  },
+  {
+   "i": 72,
+   "start": 197.02,
+   "end": 198.84,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "You came all this way to help us fight the--"
+  },
+  {
+   "i": 73,
+   "start": 198.84,
+   "end": 199.58,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "Yeah, no."
+  },
+  {
+   "i": 74,
+   "start": 199.72,
+   "end": 200.76,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "Korin sent me."
+  },
+  {
+   "i": 75,
+   "start": 201.1,
+   "end": 202.1,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "Take your beans."
+  },
+  {
+   "i": 76,
+   "start": 202.62,
+   "end": 203.72,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "Bean Daddy out."
+  },
+  {
+   "i": 77,
+   "start": 203.88,
+   "end": 204.72,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "\"Bean Daddy\"?"
+  },
+  {
+   "i": 78,
+   "start": 204.88,
+   "end": 206.88,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "It's what I call my burrito shop."
+  },
+  {
+   "i": 79,
+   "start": 207.02,
+   "end": 210.06,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "Or at least I would, if Korin would let me *have* one!"
+  },
+  {
+   "i": 80,
+   "start": 210.06,
+   "end": 212.24,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "♫ Cat loves food ye-yeah-yeah-yeah! ♫"
+  },
+  {
+   "i": 81,
+   "start": 212.24,
+   "end": 213.5,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "♫ Cat loves food yeah-yeah...! ♫"
+  },
+  {
+   "i": 82,
+   "start": 213.5,
+   "end": 215.06,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "So that song..."
+  },
+  {
+   "i": 83,
+   "start": 215.06,
+   "end": 216.72,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "I was desperate and needed the money."
+  },
+  {
+   "i": 84,
+   "start": 216.72,
+   "end": 219.06,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "And no, it wasn't worth it..."
+  },
+  {
+   "i": 85,
+   "start": 220.68,
+   "end": 223.7,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "♫ Cat loves food, ye-yeah-yeah-yeah... ♫"
+  },
+  {
+   "i": 86,
+   "start": 223.7,
+   "end": 224.44,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "BOOM"
+  },
+  {
+   "i": 87,
+   "start": 224.44,
+   "end": 228.48,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "(Screaming)"
+  },
+  {
+   "i": 88,
+   "start": 226.44,
+   "end": 228.48,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh, hey, we've never wished *him* back before!"
+  },
+  {
+   "i": 89,
+   "start": 229.52,
+   "end": 231.08,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Look! In the sky!"
+  },
+  {
+   "i": 90,
+   "start": 231.08,
+   "end": 231.98,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Is it a bird?!"
+  },
+  {
+   "i": 91,
+   "start": 231.98,
+   "end": 233.62,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "It's the Androids!"
+  },
+  {
+   "i": 92,
+   "start": 233.8,
+   "end": 235.6,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "My second guess was plane..."
+  },
+  {
+   "i": 93,
+   "start": 235.96,
+   "end": 237.62,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Damn, they flew into the city."
+  },
+  {
+   "i": 94,
+   "start": 237.62,
+   "end": 239.12,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "I can't sense their energy...!"
+  },
+  {
+   "i": 95,
+   "start": 239.12,
+   "end": 241.68,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Neither can I! And that's my specialty!"
+  },
+  {
+   "i": 96,
+   "start": 241.68,
+   "end": 245.68,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "It must be because they're Androids! We only know how to sense life energy!"
+  },
+  {
+   "i": 97,
+   "start": 245.68,
+   "end": 248.1,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Then we'll have to hunt them down the old fashioned way."
+  },
+  {
+   "i": 98,
+   "start": 248.1,
+   "end": 249.2,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Search the city!"
+  },
+  {
+   "i": 99,
+   "start": 249.2,
+   "end": 253.1,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Oh, I don't wanna go in the city!"
+  },
+  {
+   "i": 100,
+   "start": 249.2,
+   "end": 253.1,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "What?! Oh come on, really! Do we have to?! I mean, I just wanna go home!"
+  },
+  {
+   "i": 101,
+   "start": 253.1,
+   "end": 255.38,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Alright, gang! Split up and search for clues!"
+  },
+  {
+   "i": 102,
+   "start": 255.38,
+   "end": 257.2,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Gohan, go grab Yajirobe!"
+  },
+  {
+   "i": 103,
+   "start": 257.32,
+   "end": 259.86,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Bulma, hold the Senzu Beans; they'll only weigh us down!"
+  },
+  {
+   "i": 104,
+   "start": 259.86,
+   "end": 260.66,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Hold on, what?!"
+  },
+  {
+   "i": 105,
+   "start": 260.66,
+   "end": 261.16,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Break!"
+  },
+  {
+   "i": 106,
+   "start": 277.86,
+   "end": 278.86,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'Alright now...'"
+  },
+  {
+   "i": 107,
+   "start": 279.04,
+   "end": 281.8,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'If I were an Android, where would I be...?'"
+  },
+  {
+   "i": 108,
+   "start": 282.42,
+   "end": 288.28,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'Well, I guess I'd be right here because being an Android wouldn't really change *where* I am, just *what* I am.'"
+  },
+  {
+   "i": 109,
+   "start": 288.7,
+   "end": 289.82,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'If you think about it...'"
+  },
+  {
+   "i": 110,
+   "start": 294.96,
+   "end": 297.84,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Alright, time to find me some Androids!"
+  },
+  {
+   "i": 111,
+   "start": 297.84,
+   "end": 299.66,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Hey you, have you seen any Androids?"
+  },
+  {
+   "i": 112,
+   "start": 299.66,
+   "end": 301.5,
+   "kind": "dialog",
+   "speaker": "Stoner",
+   "text": "I don't know; are *you* an android?"
+  },
+  {
+   "i": 113,
+   "start": 301.62,
+   "end": 302.54,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "No..."
+  },
+  {
+   "i": 114,
+   "start": 302.54,
+   "end": 303.28,
+   "kind": "dialog",
+   "speaker": "Stoner",
+   "text": "Then no."
+  },
+  {
+   "i": 115,
+   "start": 303.5,
+   "end": 307.16,
+   "kind": "dialog",
+   "speaker": "Stoner",
+   "text": "But I did see a flying dude! Landed right in front of me, man!"
+  },
+  {
+   "i": 116,
+   "start": 307.16,
+   "end": 308.3,
+   "kind": "dialog",
+   "speaker": "Stoner",
+   "text": "Looked a lot like you."
+  },
+  {
+   "i": 117,
+   "start": 310.18,
+   "end": 311.12,
+   "kind": "dialog",
+   "speaker": "Stoner",
+   "text": "You holdin'?"
+  },
+  {
+   "i": 118,
+   "start": 311.68,
+   "end": 313.8,
+   "kind": "dialog",
+   "speaker": "Tom",
+   "text": "Hey, Jerry! You see that guy explode?"
+  },
+  {
+   "i": 119,
+   "start": 313.8,
+   "end": 316.2,
+   "kind": "dialog",
+   "speaker": "Jerry",
+   "text": "Yeah! I bet you it was a terrorist attack!"
+  },
+  {
+   "i": 120,
+   "start": 316.2,
+   "end": 318.08,
+   "kind": "dialog",
+   "speaker": "Tom",
+   "text": "Jerry, you always think it's terrorism."
+  },
+  {
+   "i": 121,
+   "start": 318.22,
+   "end": 320.22,
+   "kind": "dialog",
+   "speaker": "Tom",
+   "text": "You think your house being TP'd is terrorism."
+  },
+  {
+   "i": 122,
+   "start": 320.22,
+   "end": 321.76,
+   "kind": "dialog",
+   "speaker": "Jerry",
+   "text": "You're what's wrong with this country."
+  },
+  {
+   "i": 123,
+   "start": 321.92,
+   "end": 325.06,
+   "kind": "dialog",
+   "speaker": "Jerry",
+   "text": "What do you think, inconspicuous old man and mime?"
+  },
+  {
+   "i": 124,
+   "start": 326.18,
+   "end": 332.62,
+   "kind": "dialog",
+   "speaker": "Jerry",
+   "text": "Whoa whoa whoa, Marcel Marceau! If that's what you're looking for... It's gonna be $30 an hour. $50 if you want it weird."
+  },
+  {
+   "i": 125,
+   "start": 332.62,
+   "end": 333.12,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Sentry lock-on"
+  },
+  {
+   "i": 126,
+   "start": 336.94,
+   "end": 337.88,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "HONK HONK"
+  },
+  {
+   "i": 127,
+   "start": 337.98,
+   "end": 340.4,
+   "kind": "dialog",
+   "speaker": "Driver",
+   "text": "Hey, you old jackass, get out of the road!"
+  },
+  {
+   "i": 128,
+   "start": 340.4,
+   "end": 343.76,
+   "kind": "dialog",
+   "speaker": "Driver",
+   "text": "You want to beat up prostitutes, do it on your own damn time!"
+  },
+  {
+   "i": 129,
+   "start": 349.32,
+   "end": 350.62,
+   "kind": "dialog",
+   "speaker": "Driver",
+   "text": "Please put that back..."
+  },
+  {
+   "i": 130,
+   "start": 350.62,
+   "end": 353.0,
+   "kind": "dialog",
+   "speaker": "Driver",
+   "text": "I kinda need that to flee from you..."
+  },
+  {
+   "i": 131,
+   "start": 356.22,
+   "end": 358.66,
+   "kind": "dialog",
+   "speaker": "Shopper",
+   "text": "(Screaming)"
+  },
+  {
+   "i": 132,
+   "start": 357.62,
+   "end": 358.12,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Huh?!"
+  },
+  {
+   "i": 133,
+   "start": 358.66,
+   "end": 360.62,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "'Oh man, that was close...'"
+  },
+  {
+   "i": 134,
+   "start": 360.78,
+   "end": 362.34,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "'Surely, someone else heard it, right?!'"
+  },
+  {
+   "i": 135,
+   "start": 362.34,
+   "end": 363.64,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "'I mean I don't *have* to--'"
+  },
+  {
+   "i": 136,
+   "start": 363.64,
+   "end": 366.06,
+   "kind": "dialog",
+   "speaker": "Shopper",
+   "text": "(Screaming)"
+  },
+  {
+   "i": 137,
+   "start": 366.06,
+   "end": 367.72,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "'Aw, this isn't fair!'"
+  },
+  {
+   "i": 138,
+   "start": 369.7,
+   "end": 370.32,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Huh?!"
+  },
+  {
+   "i": 139,
+   "start": 370.68,
+   "end": 374.12,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "'Oh God, oh man, oh jeez, oh crap!'"
+  },
+  {
+   "i": 140,
+   "start": 377.54,
+   "end": 379.54,
+   "kind": "dialog",
+   "speaker": "Android 20",
+   "text": "Nineteen, identify."
+  },
+  {
+   "i": 141,
+   "start": 382.74,
+   "end": 386.78,
+   "kind": "dialog",
+   "speaker": "Android 19",
+   "text": "Orange jumpsuit, black spiky hair, higher than average power level..."
+  },
+  {
+   "i": 142,
+   "start": 386.98,
+   "end": 389.22,
+   "kind": "dialog",
+   "speaker": "Android 19",
+   "text": "Son Goku. 94%."
+  },
+  {
+   "i": 143,
+   "start": 389.22,
+   "end": 392.02,
+   "kind": "dialog",
+   "speaker": "Android 20",
+   "text": "I don't remember him having a scar..."
+  },
+  {
+   "i": 144,
+   "start": 393.36,
+   "end": 394.5,
+   "kind": "dialog",
+   "speaker": "Android 19",
+   "text": "87%."
+  },
+  {
+   "i": 145,
+   "start": 394.5,
+   "end": 395.36,
+   "kind": "dialog",
+   "speaker": "Android 20",
+   "text": "Close enough!"
+  },
+  {
+   "i": 146,
+   "start": 395.88,
+   "end": 397.7,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "I am totally in over my head here."
+  },
+  {
+   "i": 147,
+   "start": 397.94,
+   "end": 399.94,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Maybe, maybe I should call for help."
+  },
+  {
+   "i": 148,
+   "start": 400.12,
+   "end": 402.62,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "N-n-no, no, no! That's exactly what they'd expect!"
+  },
+  {
+   "i": 149,
+   "start": 402.62,
+   "end": 404.4,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Isn't that right, inconspicuous old man and--"
+  },
+  {
+   "i": 150,
+   "start": 406.02,
+   "end": 407.96,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "♫ ...loves food, ye-yeah-yeah-yeah! ♫"
+  },
+  {
+   "i": 151,
+   "start": 407.96,
+   "end": 408.76,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "♫ Cat loves food, yeah-yeah! ♫"
+  },
+  {
+   "i": 152,
+   "start": 408.76,
+   "end": 410.22,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Oh, *come on*! ♫ Cat loves food, yeah-yeah! ♫"
+  },
+  {
+   "i": 153,
+   "start": 411.1,
+   "end": 413.56,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "♫ Cat loves food, ye-yeah-yeah-yeah! ♫"
+  },
+  {
+   "i": 154,
+   "start": 411.1,
+   "end": 414.76,
+   "kind": "dialog",
+   "speaker": "Truck Driver",
+   "text": "Jesus CHRIIIIIIIIIIIIIIIIIIIIII--!!"
+  },
+  {
+   "i": 155,
+   "start": 413.56,
+   "end": 414.76,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "♫ Cat loves food, ye-- ♫"
+  },
+  {
+   "i": 156,
+   "start": 416.9,
+   "end": 422.94,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'I mean, really... an Android is just a human with wires instead of veins and oil instead of blood.'"
+  },
+  {
+   "i": 157,
+   "start": 423.36,
+   "end": 425.88,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'I wonder if they dream of electric sheep...'"
+  },
+  {
+   "i": 158,
+   "start": 426.26,
+   "end": 428.18,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'Mmm, techno lamb--'"
+  },
+  {
+   "i": 159,
+   "start": 428.54,
+   "end": 429.04,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Huh?"
+  },
+  {
+   "i": 160,
+   "start": 429.98,
+   "end": 430.56,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Whoa."
+  },
+  {
+   "i": 161,
+   "start": 430.86,
+   "end": 432.16,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Woohoo! Not me!"
+  },
+  {
+   "i": 162,
+   "start": 434.32,
+   "end": 439.4,
+   "kind": "dialog",
+   "speaker": "Android 20",
+   "text": "Now, Son Goku, I shall extract my long-awaited revenge, forthwith."
+  },
+  {
+   "i": 163,
+   "start": 439.4,
+   "end": 441.98,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "I am not Goku, I am not--!"
+  },
+  {
+   "i": 164,
+   "start": 441.98,
+   "end": 442.58,
+   "kind": "dialog",
+   "speaker": "Android 20",
+   "text": "FORTHWITH!"
+  },
+  {
+   "i": 165,
+   "start": 443.28,
+   "end": 444.32,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "(Muffled squealing)"
+  },
+  {
+   "i": 166,
+   "start": 446.6,
+   "end": 449.1,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Oh, come on! Really, man?!"
+  },
+  {
+   "i": 167,
+   "start": 449.1,
+   "end": 451.4,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "You couldn't last, like, 30 seconds?!"
+  },
+  {
+   "i": 168,
+   "start": 453.8,
+   "end": 455.8,
+   "kind": "dialog",
+   "speaker": "Android 20",
+   "text": "Ah, we have company..."
+  },
+  {
+   "i": 169,
+   "start": 456.6,
+   "end": 460.92,
+   "kind": "dialog",
+   "speaker": "Android 19",
+   "text": "Correction: New target identified as Son Goku. 100% match."
+  },
+  {
+   "i": 170,
+   "start": 460.96,
+   "end": 464.12,
+   "kind": "dialog",
+   "speaker": "Android 20",
+   "text": "Well, then - looks like I don't need this anymore."
+  },
+  {
+   "i": 171,
+   "start": 464.76,
+   "end": 467.34,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(Gasp) Oh no! Yamcha's been Yamcha'd!"
+  },
+  {
+   "i": 172,
+   "start": 467.34,
+   "end": 468.76,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Quick, Krillin! Give him a Senzu!"
+  },
+  {
+   "i": 173,
+   "start": 468.76,
+   "end": 469.32,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Goku."
+  },
+  {
+   "i": 174,
+   "start": 469.32,
+   "end": 471.24,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh, right. Quick, Krillin! Take him to Bulma!"
+  },
+  {
+   "i": 175,
+   "start": 471.54,
+   "end": 474.36,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Ha! Looks like there's two kinds of fisting in this city now."
+  },
+  {
+   "i": 176,
+   "start": 475.4,
+   "end": 477.88,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Pretty sure he's bleeding out..."
+  },
+  {
+   "i": 177,
+   "start": 477.88,
+   "end": 479.14,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Alright, fine."
+  },
+  {
+   "i": 178,
+   "start": 480.18,
+   "end": 481.3,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Bulma'll get it."
+  },
+  {
+   "i": 179,
+   "start": 482.28,
+   "end": 486.66,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Man, seeing that hole in his chest kinda makes *my* chest hurt..."
+  },
+  {
+   "i": 180,
+   "start": 486.96,
+   "end": 487.9,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Like a lot..."
+  },
+  {
+   "i": 181,
+   "start": 488.5,
+   "end": 489.42,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Anybody else...?"
+  },
+  {
+   "i": 182,
+   "start": 489.42,
+   "end": 490.24,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "So, then..."
+  },
+  {
+   "i": 183,
+   "start": 490.5,
+   "end": 492.76,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "You two must be the Androids."
+  },
+  {
+   "i": 184,
+   "start": 493.06,
+   "end": 494.76,
+   "kind": "dialog",
+   "speaker": "Android 20",
+   "text": "What?! Impossible!"
+  },
+  {
+   "i": 185,
+   "start": 495.0,
+   "end": 497.0,
+   "kind": "dialog",
+   "speaker": "Android 20",
+   "text": "How did you know we were Androids?!"
+  },
+  {
+   "i": 186,
+   "start": 497.22,
+   "end": 503.54,
+   "kind": "dialog",
+   "speaker": "Android 19",
+   "text": "Scanning probabilities... Scanning... Scanning... Analyzing... Processing..."
+  },
+  {
+   "i": 187,
+   "start": 498.6,
+   "end": 503.54,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Beeping"
+  },
+  {
+   "i": 188,
+   "start": 501.54,
+   "end": 503.54,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Could not tell you off the top of my head."
+  },
+  {
+   "i": 189,
+   "start": 504.26,
+   "end": 506.54,
+   "kind": "dialog",
+   "speaker": "Android 19",
+   "text": "Processing complete. They are psychic."
+  },
+  {
+   "i": 190,
+   "start": 506.64,
+   "end": 508.64,
+   "kind": "dialog",
+   "speaker": "Android 19",
+   "text": "92.4%."
+  },
+  {
+   "i": 191,
+   "start": 509.08,
+   "end": 510.92,
+   "kind": "dialog",
+   "speaker": "Android 19",
+   "text": "THEY CAN SEE THE FUTURE!"
+  },
+  {
+   "i": 192,
+   "start": 510.92,
+   "end": 512.06,
+   "kind": "dialog",
+   "speaker": "Android 20",
+   "text": "Psychic, eh?"
+  },
+  {
+   "i": 193,
+   "start": 512.06,
+   "end": 515.0,
+   "kind": "dialog",
+   "speaker": "Android 20",
+   "text": "Well, then... Bet you won't expect THIS!"
+  },
+  {
+   "i": 194,
+   "start": 518.8,
+   "end": 519.5,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "STOP IT!"
+  },
+  {
+   "i": 195,
+   "start": 519.5,
+   "end": 520.2,
+   "kind": "dialog",
+   "speaker": "Android 20",
+   "text": "Never!"
+  },
+  {
+   "i": 196,
+   "start": 529.16,
+   "end": 534.28,
+   "kind": "dialog",
+   "speaker": "Android 20",
+   "text": "Ah, I see you have discovered that the off switch to my ocular vapo-beams is in my cheek."
+  },
+  {
+   "i": 197,
+   "start": 534.28,
+   "end": 539.06,
+   "kind": "dialog",
+   "speaker": "Android 20",
+   "text": "But you are too late! The entire population of the city has been reduced to ash."
+  },
+  {
+   "i": 198,
+   "start": 539.06,
+   "end": 542.16,
+   "kind": "dialog",
+   "speaker": "Android 20",
+   "text": "Now no one shall interfere with my revenge!"
+  },
+  {
+   "i": 199,
+   "start": 542.4,
+   "end": 544.58,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Actually, I'm pretty sure you only--"
+  },
+  {
+   "i": 200,
+   "start": 544.58,
+   "end": 547.82,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "*Yes*! The *entire* population!"
+  },
+  {
+   "i": 201,
+   "start": 547.82,
+   "end": 550.46,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh, right. You are most unkind!"
+  },
+  {
+   "i": 202,
+   "start": 550.46,
+   "end": 552.36,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "We really should move this, though."
+  },
+  {
+   "i": 203,
+   "start": 552.36,
+   "end": 554.82,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Hey, Piccolo. Know any good wastelands around here?"
+  },
+  {
+   "i": 204,
+   "start": 554.82,
+   "end": 556.34,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Why are you asking me?"
+  },
+  {
+   "i": 205,
+   "start": 556.34,
+   "end": 557.62,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "*You know why*."
+  },
+  {
+   "i": 206,
+   "start": 559.06,
+   "end": 563.08,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "...(Sigh) North-west, about a hundred miles. It's actually kinda nice."
+  },
+  {
+   "i": 207,
+   "start": 563.08,
+   "end": 564.22,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Then it's a date!"
+  },
+  {
+   "i": 208,
+   "start": 564.22,
+   "end": 565.7,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "I can think of worse places."
+  },
+  {
+   "i": 209,
+   "start": 565.92,
+   "end": 568.32,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Nice rock formations, neat cacti..."
+  },
+  {
+   "i": 210,
+   "start": 568.82,
+   "end": 570.0,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Oh, fine!"
+  },
+  {
+   "i": 211,
+   "start": 570.74,
+   "end": 574.04,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Hey, look! Goku and the others are leaving with the Androids!"
+  },
+  {
+   "i": 212,
+   "start": 574.04,
+   "end": 575.94,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Oh no! We have to warn them!"
+  },
+  {
+   "i": 213,
+   "start": 575.94,
+   "end": 579.56,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "When the old man was holding me, I could feel my life force draining!"
+  },
+  {
+   "i": 214,
+   "start": 579.56,
+   "end": 581.12,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "You were losing a lot of blood..."
+  },
+  {
+   "i": 215,
+   "start": 581.12,
+   "end": 582.8,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "No, it was coming out of my mouth!"
+  },
+  {
+   "i": 216,
+   "start": 583.22,
+   "end": 584.02,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Gross..."
+  },
+  {
+   "i": 217,
+   "start": 584.02,
+   "end": 586.22,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "I'm telling you, they can absorb energy!"
+  },
+  {
+   "i": 218,
+   "start": 586.22,
+   "end": 587.78,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Then we have to go now!"
+  },
+  {
+   "i": 219,
+   "start": 589.28,
+   "end": 592.14,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "You know... I might just sit this one out..."
+  },
+  {
+   "i": 220,
+   "start": 592.22,
+   "end": 595.96,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Oh yeah, I getcha! I never have any energy after I get a handjob either."
+  },
+  {
+   "i": 221,
+   "start": 595.96,
+   "end": 597.42,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "♫ Badap-bap-badapbye! ♫"
+  },
+  {
+   "i": 222,
+   "start": 598.14,
+   "end": 601.28,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Well, fine, if you're not going anywhere, I need help with the baby."
+  },
+  {
+   "i": 223,
+   "start": 601.28,
+   "end": 602.7,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "How are you with diapers?"
+  },
+  {
+   "i": 224,
+   "start": 603.42,
+   "end": 605.12,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Hold on, Krillin! I'm coming!"
+  },
+  {
+   "i": 225,
+   "start": 605.54,
+   "end": 606.58,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Ha ha!"
+  },
+  {
+   "i": 226,
+   "start": 609.5,
+   "end": 610.78,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "So how you feelin'?"
+  },
+  {
+   "i": 227,
+   "start": 610.78,
+   "end": 612.56,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "My car got blowed up."
+  },
+  {
+   "i": 228,
+   "start": 612.6,
+   "end": 615.58,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "Well, to be more specific, it was Korin's car."
+  },
+  {
+   "i": 229,
+   "start": 615.82,
+   "end": 617.52,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "Pussy Wagon ain't no more."
+  },
+  {
+   "i": 230,
+   "start": 617.58,
+   "end": 619.48,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Well then, are you gonna fly after them?"
+  },
+  {
+   "i": 231,
+   "start": 619.48,
+   "end": 620.16,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "No."
+  },
+  {
+   "i": 232,
+   "start": 620.16,
+   "end": 621.2,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Is it because you're fat?"
+  },
+  {
+   "i": 233,
+   "start": 621.2,
+   "end": 621.7,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "Ye."
+  },
+  {
+   "i": 234,
+   "start": 627.96,
+   "end": 630.78,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Alright - now that we're away from the city, we can--"
+  },
+  {
+   "i": 235,
+   "start": 630.78,
+   "end": 631.66,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(Heavy breathing)"
+  },
+  {
+   "i": 236,
+   "start": 631.66,
+   "end": 633.66,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Does it feel hot out here to you guys?"
+  },
+  {
+   "i": 237,
+   "start": 633.66,
+   "end": 634.8,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(Heavy breathing)"
+  },
+  {
+   "i": 238,
+   "start": 634.8,
+   "end": 635.76,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'Cause it's *hot*..."
+  },
+  {
+   "i": 239,
+   "start": 636.82,
+   "end": 638.48,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "As I was saying..."
+  },
+  {
+   "i": 240,
+   "start": 638.48,
+   "end": 640.76,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "We can finally get this underway."
+  },
+  {
+   "i": 241,
+   "start": 640.78,
+   "end": 644.0,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "But first, who are you? And what do you want?"
+  },
+  {
+   "i": 242,
+   "start": 644.0,
+   "end": 648.98,
+   "kind": "dialog",
+   "speaker": "Android 20",
+   "text": "You don't need to know why. Just know that I despise every one of you."
+  },
+  {
+   "i": 243,
+   "start": 648.98,
+   "end": 651.52,
+   "kind": "dialog",
+   "speaker": "Android 20",
+   "text": "*Especially him~*!"
+  },
+  {
+   "i": 244,
+   "start": 651.68,
+   "end": 654.24,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hey... Does anyone have any bacon...?"
+  },
+  {
+   "i": 245,
+   "start": 654.68,
+   "end": 657.62,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I sort of ate all of my pocket bacon on the way here..."
+  },
+  {
+   "i": 246,
+   "start": 657.76,
+   "end": 660.26,
+   "kind": "dialog",
+   "speaker": "Android 20",
+   "text": "But allow me to shed a little light for you."
+  },
+  {
+   "i": 247,
+   "start": 660.62,
+   "end": 665.38,
+   "kind": "dialog",
+   "speaker": "Android 20",
+   "text": "For the last 14 years, ever since the 22nd World Martial Arts Tournament..."
+  },
+  {
+   "i": 248,
+   "start": 665.38,
+   "end": 666.94,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Ooh! I remember that one!"
+  },
+  {
+   "i": 249,
+   "start": 666.94,
+   "end": 668.5,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I got hit by a car!"
+  },
+  {
+   "i": 250,
+   "start": 668.5,
+   "end": 669.7,
+   "kind": "dialog",
+   "speaker": "Android 20",
+   "text": "Indeed..."
+  },
+  {
+   "i": 251,
+   "start": 669.7,
+   "end": 678.86,
+   "kind": "dialog",
+   "speaker": "Android 20",
+   "text": "Since then, my insectoid nano-borg has been surveying and processing every battle you have fought... rating them on a scale of one to ten."
+  },
+  {
+   "i": 252,
+   "start": 679.32,
+   "end": 681.64,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Out of curiosity, how was ours?"
+  },
+  {
+   "i": 253,
+   "start": 682.08,
+   "end": 684.26,
+   "kind": "dialog",
+   "speaker": "Android 19",
+   "text": "Average: 6.5 out of 10."
+  },
+  {
+   "i": 254,
+   "start": 684.34,
+   "end": 685.52,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "That's fair, I guess."
+  },
+  {
+   "i": 255,
+   "start": 685.52,
+   "end": 686.18,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "How 'bout mine?"
+  },
+  {
+   "i": 256,
+   "start": 686.82,
+   "end": 687.8,
+   "kind": "dialog",
+   "speaker": "Android 19",
+   "text": "8 out of 10."
+  },
+  {
+   "i": 257,
+   "start": 687.8,
+   "end": 688.82,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Ha ha!"
+  },
+  {
+   "i": 258,
+   "start": 688.82,
+   "end": 693.0,
+   "kind": "dialog",
+   "speaker": "Android 20",
+   "text": "I have utilized this information to calibrate ourselves appropriately."
+  },
+  {
+   "i": 259,
+   "start": 693.0,
+   "end": 699.94,
+   "kind": "dialog",
+   "speaker": "Android 20",
+   "text": "We are now powerful enough to kill Son Goku, and take revenge for what he did to myself and the Red Ribbon Army!"
+  },
+  {
+   "i": 260,
+   "start": 699.94,
+   "end": 702.78,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Wow. So you even followed him all the way to Namek, huh?"
+  },
+  {
+   "i": 261,
+   "start": 702.78,
+   "end": 704.24,
+   "kind": "dialog",
+   "speaker": "Android 20",
+   "text": "Of course I did!"
+  },
+  {
+   "i": 262,
+   "start": 704.24,
+   "end": 706.12,
+   "kind": "dialog",
+   "speaker": "Android 20",
+   "text": "Nineteen, what is Namek?"
+  },
+  {
+   "i": 263,
+   "start": 706.62,
+   "end": 707.7,
+   "kind": "dialog",
+   "speaker": "Android 19",
+   "text": "Data not found."
+  },
+  {
+   "i": 264,
+   "start": 707.7,
+   "end": 710.16,
+   "kind": "dialog",
+   "speaker": "Android 20",
+   "text": "What do you mean, \"data not found\"?!"
+  },
+  {
+   "i": 265,
+   "start": 710.16,
+   "end": 712.74,
+   "kind": "dialog",
+   "speaker": "Android 19",
+   "text": "Insectoid nano-borg destroyed during Saiyan attack."
+  },
+  {
+   "i": 266,
+   "start": 712.74,
+   "end": 713.82,
+   "kind": "dialog",
+   "speaker": "Android 20",
+   "text": "Bugger all!"
+  },
+  {
+   "i": 267,
+   "start": 713.9,
+   "end": 717.12,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "So, I guess you've never seen a Super Saiyan then..."
+  },
+  {
+   "i": 268,
+   "start": 717.12,
+   "end": 717.98,
+   "kind": "dialog",
+   "speaker": "Android 20",
+   "text": "Nineteen?"
+  },
+  {
+   "i": 269,
+   "start": 718.6,
+   "end": 719.64,
+   "kind": "dialog",
+   "speaker": "Android 19",
+   "text": "Data not found."
+  },
+  {
+   "i": 270,
+   "start": 719.64,
+   "end": 720.4,
+   "kind": "dialog",
+   "speaker": "Android 20",
+   "text": "Then no."
+  },
+  {
+   "i": 271,
+   "start": 720.4,
+   "end": 721.26,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Goku."
+  },
+  {
+   "i": 272,
+   "start": 721.26,
+   "end": 722.12,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh, yeah, okay."
+  },
+  {
+   "i": 273,
+   "start": 734.84,
+   "end": 737.2,
+   "kind": "dialog",
+   "speaker": "Android 19",
+   "text": "Power output exceeds projected parameters."
+  },
+  {
+   "i": 274,
+   "start": 737.2,
+   "end": 741.08,
+   "kind": "dialog",
+   "speaker": "Android 20",
+   "text": "I don't care if you're Super Saiyan, or a soup or side!"
+  },
+  {
+   "i": 275,
+   "start": 741.3,
+   "end": 744.34,
+   "kind": "dialog",
+   "speaker": "Android 20",
+   "text": "Nineteen, kill him! Kill him proper!"
+  },
+  {
+   "i": 276,
+   "start": 744.34,
+   "end": 746.3,
+   "kind": "dialog",
+   "speaker": "Android 19",
+   "text": "Executing \"Murder.exe\"."
+  },
+  {
+   "i": 277,
+   "start": 746.66,
+   "end": 755.22,
+   "kind": "dialog",
+   "speaker": "Android 19",
+   "text": "Loading... 10%... 20%... 40%... 70%... 65%..."
+  },
+  {
+   "i": 278,
+   "start": 755.22,
+   "end": 756.06,
+   "kind": "dialog",
+   "speaker": "Android 20",
+   "text": "Wait, what?"
+  },
+  {
+   "i": 279,
+   "start": 756.06,
+   "end": 756.7,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Windows error sound"
+  },
+  {
+   "i": 280,
+   "start": 756.7,
+   "end": 761.26,
+   "kind": "dialog",
+   "speaker": "Android 19",
+   "text": "A fatal error has occured. This program will now shutdown. Would you like to send a report?"
+  },
+  {
+   "i": 281,
+   "start": 761.26,
+   "end": 762.94,
+   "kind": "dialog",
+   "speaker": "Android 20",
+   "text": "No, don't send a report!"
+  },
+  {
+   "i": 282,
+   "start": 762.94,
+   "end": 763.8,
+   "kind": "dialog",
+   "speaker": "Android 19",
+   "text": "Sending report..."
+  },
+  {
+   "i": 283,
+   "start": 763.8,
+   "end": 765.22,
+   "kind": "dialog",
+   "speaker": "Android 20",
+   "text": "*Son of a whore*!"
+  },
+  {
+   "i": 284,
+   "start": 765.42,
+   "end": 769.44,
+   "kind": "dialog",
+   "speaker": "Android 20",
+   "text": "Now to wait five minutes to do absolutely nothing!"
+  },
+  {
+   "i": 285,
+   "start": 773.38,
+   "end": 774.68,
+   "kind": "dialog",
+   "speaker": "Android 20",
+   "text": "Oh, bollocks."
+  },
+  {
+   "i": 286,
+   "start": 780.0,
+   "end": 782.34,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "♫ Cat loves food, ye-yeah-yeah-yeah! ♫"
+  },
+  {
+   "i": 287,
+   "start": 782.34,
+   "end": 784.74,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "♫ Cat loves food yeah-yeah! ♫"
+  },
+  {
+   "i": 288,
+   "start": 784.74,
+   "end": 787.04,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "♫ Cat loves food, ye-yeah-yeah-yeah! ♫"
+  },
+  {
+   "i": 289,
+   "start": 787.04,
+   "end": 788.62,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "♫ Cat loves food yeah-yeaaah...! ♫"
+  }
+ ],
+ "segments": [
+  {
+   "start": 22.8,
+   "end": 50.08,
+   "title": "Don't Tell Chi-Chi",
+   "quote": "We're gonna be fighting Androids. ...But make sure you don't tell Chi-Chi--",
+   "line_start": 1,
+   "line_end": 11
+  },
+  {
+   "start": 99.5,
+   "end": 111.1,
+   "title": "Prostitution Is Legal",
+   "quote": "Apparently, prostitution is legal. / Ohhhh....! / So the prostitutes...",
+   "line_start": 24,
+   "line_end": 30
+  },
+  {
+   "start": 121.8,
+   "end": 132.0,
+   "title": "Vegeta. Vegeta. Vegeta. Vegeta.",
+   "quote": "Yeah, and you won't believe who the father is... / Vegeta.",
+   "line_start": 35,
+   "line_end": 42
+  },
+  {
+   "start": 142.3,
+   "end": 167.22,
+   "title": "I Was Wearing My Armor!",
+   "quote": "You SAID you were wearing *protection*! / *I was wearing my armor*!",
+   "line_start": 48,
+   "line_end": 58
+  },
+  {
+   "start": 193.5,
+   "end": 219.06,
+   "title": "Bean Daddy",
+   "quote": "Korin sent me. Take your beans. Bean Daddy out.",
+   "line_start": 71,
+   "line_end": 84
+  },
+  {
+   "start": 277.3,
+   "end": 289.82,
+   "title": "If I Were an Android",
+   "quote": "'Well, I guess I'd be right here because being an Android wouldn't really change *where* I am, just *what* I am.'",
+   "line_start": 106,
+   "line_end": 109
+  },
+  {
+   "start": 416.4,
+   "end": 432.16,
+   "title": "Techno Lamb",
+   "quote": "'I wonder if they dream of electric sheep...' 'Mmm, techno lamb--'",
+   "line_start": 156,
+   "line_end": 161
+  },
+  {
+   "start": 464.2,
+   "end": 481.3,
+   "title": "Yamcha's Been Yamcha'd",
+   "quote": "(Gasp) Oh no! Yamcha's been Yamcha'd!",
+   "line_start": 171,
+   "line_end": 178
+  },
+  {
+   "start": 489.0,
+   "end": 515.0,
+   "title": "They Are Psychic",
+   "quote": "Processing complete. They are psychic. 92.4%. THEY CAN SEE THE FUTURE!",
+   "line_start": 182,
+   "line_end": 193
+  },
+  {
+   "start": 608.9,
+   "end": 621.7,
+   "title": "Is It Because You're Fat?",
+   "quote": "Is it because you're fat? / Ye.",
+   "line_start": 226,
+   "line_end": 233
+  },
+  {
+   "start": 740.8,
+   "end": 774.68,
+   "title": "Murder.exe",
+   "quote": "Executing \"Murder.exe\". Loading... 10%... 20%... 40%... 70%... 65%... Wait, what?",
+   "line_start": 275,
+   "line_end": 285
+  }
+ ]
+}

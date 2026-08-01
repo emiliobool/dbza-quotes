@@ -1,0 +1,1923 @@
+{
+ "item": "e35",
+ "show": "dbza",
+ "youtube": "_07jssnBSIw",
+ "title": "Episode 31",
+ "duration": 689,
+ "lines": [
+  {
+   "i": 0,
+   "start": 22.84,
+   "end": 26.88,
+   "kind": "dialog",
+   "speaker": "Old Man",
+   "text": "No! Please! Leave us alone! We were just renting this house! We never meant to--"
+  },
+  {
+   "i": 1,
+   "start": 26.88,
+   "end": 27.88,
+   "kind": "dialog",
+   "speaker": "Family",
+   "text": "AAAAGH!!"
+  },
+  {
+   "i": 2,
+   "start": 36.66,
+   "end": 37.48,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "'Yes!'"
+  },
+  {
+   "i": 3,
+   "start": 37.48,
+   "end": 44.36,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "'Though this rain may wash *these* fools away, the blood that soon shall flow, no storm shall meet the task!'"
+  },
+  {
+   "i": 4,
+   "start": 44.36,
+   "end": 52.86,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "'I will cover this world in a darkness so thick and chilly, the only rival shall be the hell in which I have spent all those years.'"
+  },
+  {
+   "i": 5,
+   "start": 53.48,
+   "end": 55.8,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "'Brace your brittle selves, you worms!'"
+  },
+  {
+   "i": 6,
+   "start": 55.8,
+   "end": 61.22,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "'For I, Garlic Jr., shall soon rule you all!'"
+  },
+  {
+   "i": 7,
+   "start": 65.22,
+   "end": 71.92,
+   "kind": "dialog",
+   "speaker": "Documentary Narrator",
+   "text": "In the Great Lakes near Mount Paozu, there was a breed of Paozu tuna clinging at life in its salt water habitat."
+  },
+  {
+   "i": 8,
+   "start": 72.18,
+   "end": 78.16,
+   "kind": "dialog",
+   "speaker": "Documentary Narrator",
+   "text": "Fished near to extinction by the inhabitants, they are slowly making headway back to a sustainable population."
+  },
+  {
+   "i": 9,
+   "start": 81.14,
+   "end": 82.8,
+   "kind": "dialog",
+   "speaker": "Documentary Narrator",
+   "text": "Oh sweet, salty Christ, no."
+  },
+  {
+   "i": 10,
+   "start": 83.7,
+   "end": 86.0,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "H-hey, Gohan! Goin' fishin'?"
+  },
+  {
+   "i": 11,
+   "start": 86.0,
+   "end": 88.7,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Yup! With Dad gone, I'm the breadwinner now!"
+  },
+  {
+   "i": 12,
+   "start": 89.0,
+   "end": 91.04,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Smooth music"
+  },
+  {
+   "i": 13,
+   "start": 89.0,
+   "end": 91.04,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "What's with the weird clothes, Krillin?"
+  },
+  {
+   "i": 14,
+   "start": 91.04,
+   "end": 94.3,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Uh, uh, uh! My name is no longer Krillin!"
+  },
+  {
+   "i": 15,
+   "start": 94.3,
+   "end": 97.2,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "My new name... is Juan Sanchez!"
+  },
+  {
+   "i": 16,
+   "start": 97.52,
+   "end": 99.48,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "I'm compelled to ask, \"why?\""
+  },
+  {
+   "i": 17,
+   "start": 99.48,
+   "end": 106.2,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Well, before we left for Namek, I took out a HUGE life insurance policy on myself, and left it all to my twin brother!"
+  },
+  {
+   "i": 18,
+   "start": 106.2,
+   "end": 109.48,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "But you don't have a twi-- wait, your last name's \"Sanchez\"?"
+  },
+  {
+   "i": 19,
+   "start": 109.48,
+   "end": 112.1,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "And it paid off in triple because I died off-planet!"
+  },
+  {
+   "i": 20,
+   "start": 112.1,
+   "end": 116.14,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "They said, \"Don't worry, there's no way you're gonna die out in space.\""
+  },
+  {
+   "i": 21,
+   "start": 116.14,
+   "end": 117.24,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "SHOWED THEM!"
+  },
+  {
+   "i": 22,
+   "start": 117.24,
+   "end": 118.8,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Well, I'm still going to call you Krillin."
+  },
+  {
+   "i": 23,
+   "start": 119.0,
+   "end": 121.18,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "So, whaddya think of my new ride?"
+  },
+  {
+   "i": 24,
+   "start": 121.24,
+   "end": 123.74,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Eh, it's a nice car, I guess..."
+  },
+  {
+   "i": 25,
+   "start": 123.74,
+   "end": 126.06,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Not what I was referring to..."
+  },
+  {
+   "i": 26,
+   "start": 126.06,
+   "end": 130.36,
+   "kind": "dialog",
+   "speaker": "Maron",
+   "text": "Juaaaaan~! I broke a nail! Can I have a thousand dollars?"
+  },
+  {
+   "i": 27,
+   "start": 130.36,
+   "end": 131.6,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "You can have TWO!"
+  },
+  {
+   "i": 28,
+   "start": 131.6,
+   "end": 133.64,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Gohan, I am an excellent boyfriend!"
+  },
+  {
+   "i": 29,
+   "start": 133.64,
+   "end": 135.36,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Krillin, how did you meet this woman?"
+  },
+  {
+   "i": 30,
+   "start": 135.36,
+   "end": 136.52,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "We met at the bank."
+  },
+  {
+   "i": 31,
+   "start": 136.52,
+   "end": 141.14,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I was there picking up my life insurance money, and she was there depositing her money from her night job!"
+  },
+  {
+   "i": 32,
+   "start": 141.14,
+   "end": 144.76,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I think she's a waitress or something because she was depositing a lot of fives and ones."
+  },
+  {
+   "i": 33,
+   "start": 144.76,
+   "end": 150.46,
+   "kind": "dialog",
+   "speaker": "Maron",
+   "text": "And me and my dear SWEETY LITTLE Chestnut fell deeply, TRULY in love."
+  },
+  {
+   "i": 34,
+   "start": 150.46,
+   "end": 152.66,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "She says I have a \"very rich personality\"!"
+  },
+  {
+   "i": 35,
+   "start": 152.66,
+   "end": 154.76,
+   "kind": "dialog",
+   "speaker": "Maron",
+   "text": "And a WEALTH of knowledge!"
+  },
+  {
+   "i": 36,
+   "start": 154.76,
+   "end": 157.3,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "And her boobs are as big as my HEAD!"
+  },
+  {
+   "i": 37,
+   "start": 157.3,
+   "end": 159.06,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "I have made the comparison..."
+  },
+  {
+   "i": 38,
+   "start": 159.06,
+   "end": 160.8,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "So! You going to the party tonight?"
+  },
+  {
+   "i": 39,
+   "start": 160.8,
+   "end": 164.74,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Well, I don't know. Mom wasn't a huge fan of that Walking Dead theme party."
+  },
+  {
+   "i": 40,
+   "start": 165.04,
+   "end": 168.06,
+   "kind": "dialog",
+   "speaker": "Walking Zed Narrator",
+   "text": "Previously on TFS' The Walking Zed..."
+  },
+  {
+   "i": 41,
+   "start": 168.06,
+   "end": 168.6,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "CHOMP"
+  },
+  {
+   "i": 42,
+   "start": 168.6,
+   "end": 170.32,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "AHHHHHHHHHHHHHH!"
+  },
+  {
+   "i": 43,
+   "start": 170.32,
+   "end": 171.64,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "But I think I can make it!"
+  },
+  {
+   "i": 44,
+   "start": 171.64,
+   "end": 172.86,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "See ya later, Gohan!"
+  },
+  {
+   "i": 45,
+   "start": 172.86,
+   "end": 176.34,
+   "kind": "dialog",
+   "speaker": "Maron",
+   "text": "Goodbye, Gonad! See you at Master Hoshi's!"
+  },
+  {
+   "i": 46,
+   "start": 177.76,
+   "end": 180.68,
+   "kind": "direction",
+   "speaker": null,
+   "text": "\"Gold Digger\" is playing in the car"
+  },
+  {
+   "i": 47,
+   "start": 180.68,
+   "end": 182.98,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Eh, say what you want. They're a good couple."
+  },
+  {
+   "i": 48,
+   "start": 188.42,
+   "end": 190.06,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'You ever think about buying a house?'"
+  },
+  {
+   "i": 49,
+   "start": 190.06,
+   "end": 193.14,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'Oho yeah! Let me get right on that with all that money I don't have.'"
+  },
+  {
+   "i": 50,
+   "start": 193.36,
+   "end": 195.18,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'Well, you ever thought about getting a job?'"
+  },
+  {
+   "i": 51,
+   "start": 195.18,
+   "end": 199.6,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'I'm a green slug-man. No amount of affirmative action is going to get me a job.'"
+  },
+  {
+   "i": 52,
+   "start": 199.76,
+   "end": 200.98,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'If you say so...'"
+  },
+  {
+   "i": 53,
+   "start": 201.36,
+   "end": 205.46,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'By the way, that old guy's been standing there for, like, fifteen minutes; maybe you should say something.'"
+  },
+  {
+   "i": 54,
+   "start": 205.62,
+   "end": 206.9,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'Ugh, fine.'"
+  },
+  {
+   "i": 55,
+   "start": 206.9,
+   "end": 208.38,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "What do you want, Kami?"
+  },
+  {
+   "i": 56,
+   "start": 208.5,
+   "end": 214.16,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Mr. Popo's kicked me off the Lookout for the night. Apparently, he has a... \"booty call\"..."
+  },
+  {
+   "i": 57,
+   "start": 214.86,
+   "end": 215.5,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Squeaking mattress"
+  },
+  {
+   "i": 58,
+   "start": 214.86,
+   "end": 216.54,
+   "kind": "dialog",
+   "speaker": "Popo's Bitch",
+   "text": "Jynx! Jynx! JYNX!"
+  },
+  {
+   "i": 59,
+   "start": 215.5,
+   "end": 216.0,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Squeaking mattress"
+  },
+  {
+   "i": 60,
+   "start": 216.0,
+   "end": 216.54,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Squeaking mattress"
+  },
+  {
+   "i": 61,
+   "start": 216.54,
+   "end": 217.86,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Squeaking mattress"
+  },
+  {
+   "i": 62,
+   "start": 216.54,
+   "end": 217.86,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Shut up, bitch, you love it!"
+  },
+  {
+   "i": 63,
+   "start": 218.14,
+   "end": 220.78,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Last time he did this, I found five corpses."
+  },
+  {
+   "i": 64,
+   "start": 221.16,
+   "end": 222.76,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "He laughed when I said \"five\"."
+  },
+  {
+   "i": 65,
+   "start": 222.76,
+   "end": 224.34,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Well, what do you want from me?"
+  },
+  {
+   "i": 66,
+   "start": 224.34,
+   "end": 226.34,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "I was hoping I could stay at your house."
+  },
+  {
+   "i": 67,
+   "start": 226.34,
+   "end": 228.42,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "I DON'T HAVE A HOUSE!"
+  },
+  {
+   "i": 68,
+   "start": 228.42,
+   "end": 229.22,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'See? What I'd tell you?'"
+  },
+  {
+   "i": 69,
+   "start": 229.22,
+   "end": 230.1,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Shut up, Nail."
+  },
+  {
+   "i": 70,
+   "start": 230.1,
+   "end": 231.12,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Is someone in there?"
+  },
+  {
+   "i": 71,
+   "start": 231.12,
+   "end": 232.4,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'Hellooo Kami!'"
+  },
+  {
+   "i": 72,
+   "start": 232.4,
+   "end": 234.16,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "He can't hear you."
+  },
+  {
+   "i": 73,
+   "start": 234.16,
+   "end": 235.3,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Actually, I can!"
+  },
+  {
+   "i": 74,
+   "start": 235.6,
+   "end": 237.52,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Hello there! Who are you?"
+  },
+  {
+   "i": 75,
+   "start": 237.52,
+   "end": 240.58,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "I'm Nail! I'm a Namekian Piccolo fused with on Namek."
+  },
+  {
+   "i": 76,
+   "start": 240.78,
+   "end": 243.1,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "You do know that technique is forbidden, Piccolo?"
+  },
+  {
+   "i": 77,
+   "start": 243.1,
+   "end": 244.7,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Your *face* is forbidden!"
+  },
+  {
+   "i": 78,
+   "start": 246.22,
+   "end": 248.3,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'...Sadly that WAS the best one up here.'"
+  },
+  {
+   "i": 79,
+   "start": 248.3,
+   "end": 249.28,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "SHUT IT, NAIL!"
+  },
+  {
+   "i": 80,
+   "start": 249.4,
+   "end": 251.4,
+   "kind": "direction",
+   "speaker": null,
+   "text": "\"American Woman\" plays on the radio"
+  },
+  {
+   "i": 81,
+   "start": 251.92,
+   "end": 255.38,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Soo~, nice of you to bring your new girlfriend here, \"Juan\"."
+  },
+  {
+   "i": 82,
+   "start": 255.66,
+   "end": 258.64,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Yeah, not gonna lie; at first we kind of thought you brought home a hooker."
+  },
+  {
+   "i": 83,
+   "start": 258.64,
+   "end": 259.4,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "*Yamcha*!"
+  },
+  {
+   "i": 84,
+   "start": 259.4,
+   "end": 260.14,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Well, we did!"
+  },
+  {
+   "i": 85,
+   "start": 260.14,
+   "end": 264.16,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I can assure you that my darling, beautiful Maron is no hooker."
+  },
+  {
+   "i": 86,
+   "start": 264.16,
+   "end": 265.42,
+   "kind": "dialog",
+   "speaker": "Maron",
+   "text": "Well, that depends."
+  },
+  {
+   "i": 87,
+   "start": 265.42,
+   "end": 270.8,
+   "kind": "dialog",
+   "speaker": "Maron",
+   "text": "Sometimes I take extra cash in the back room, but those were always under the table so I don't think they count...?"
+  },
+  {
+   "i": 88,
+   "start": 271.08,
+   "end": 271.98,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "How much extra?"
+  },
+  {
+   "i": 89,
+   "start": 271.98,
+   "end": 273.08,
+   "kind": "dialog",
+   "speaker": "Maron",
+   "text": "How much ya got?"
+  },
+  {
+   "i": 90,
+   "start": 273.08,
+   "end": 274.68,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Well I AM a professional Baseball player--"
+  },
+  {
+   "i": 91,
+   "start": 274.68,
+   "end": 275.18,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "AH!"
+  },
+  {
+   "i": 92,
+   "start": 274.68,
+   "end": 275.18,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Okay."
+  },
+  {
+   "i": 93,
+   "start": 275.18,
+   "end": 284.34,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "First off: No one screws Yamcha but life. Second of all: Blue hair? Real original. Third: \"Juan\", don't you have any *other* friends you can take Maron to meet?"
+  },
+  {
+   "i": 94,
+   "start": 284.34,
+   "end": 287.58,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Well, we saw Gohan earlier, but he was busy pounding the tuna."
+  },
+  {
+   "i": 95,
+   "start": 288.64,
+   "end": 291.42,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "What!? With Goku gone, Chi-Chi needs someone to do it!"
+  },
+  {
+   "i": 96,
+   "start": 292.0,
+   "end": 295.0,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "Eh heeh heeah heeeah heh heeeeah...!"
+  },
+  {
+   "i": 97,
+   "start": 295.0,
+   "end": 299.16,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "We also stopped by Korin and Yajirobe's, buuuuut..."
+  },
+  {
+   "i": 98,
+   "start": 299.16,
+   "end": 300.42,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Flashback"
+  },
+  {
+   "i": 99,
+   "start": 300.42,
+   "end": 303.34,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "This brunch *is delicious*, Yajirobe!"
+  },
+  {
+   "i": 100,
+   "start": 303.34,
+   "end": 305.34,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "Thank you! I cooked everything myself!"
+  },
+  {
+   "i": 101,
+   "start": 305.42,
+   "end": 309.86,
+   "kind": "dialog",
+   "speaker": "Maron",
+   "text": "So, if you two had babies, would they be little fat men? Or kitties?"
+  },
+  {
+   "i": 102,
+   "start": 309.86,
+   "end": 311.7,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "AND WE ARE LEAVING!"
+  },
+  {
+   "i": 103,
+   "start": 311.7,
+   "end": 313.14,
+   "kind": "dialog",
+   "speaker": "Korin",
+   "text": "Probably fat kitties."
+  },
+  {
+   "i": 104,
+   "start": 313.8,
+   "end": 315.8,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Flashback ends"
+  },
+  {
+   "i": 105,
+   "start": 313.8,
+   "end": 315.8,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I don't think I'll be taking her back there again."
+  },
+  {
+   "i": 106,
+   "start": 316.32,
+   "end": 317.54,
+   "kind": "dialog",
+   "speaker": "Everyone",
+   "text": "Happy Birthday!"
+  },
+  {
+   "i": 107,
+   "start": 317.62,
+   "end": 318.14,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "CLINK"
+  },
+  {
+   "i": 108,
+   "start": 318.5,
+   "end": 319.42,
+   "kind": "dialog",
+   "speaker": "Turtle",
+   "text": "Thank you!"
+  },
+  {
+   "i": 109,
+   "start": 319.42,
+   "end": 323.44,
+   "kind": "dialog",
+   "speaker": "Turtle",
+   "text": "Thank you all so much for remembering my 1,000th birthday!"
+  },
+  {
+   "i": 110,
+   "start": 323.62,
+   "end": 325.54,
+   "kind": "dialog",
+   "speaker": "Turtle",
+   "text": "And for this marvelous cake!"
+  },
+  {
+   "i": 111,
+   "start": 325.62,
+   "end": 328.08,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "Isn't that thing kind of a fire hazard?"
+  },
+  {
+   "i": 112,
+   "start": 328.34,
+   "end": 331.42,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Well of course, Turtle! You're our very best friend!"
+  },
+  {
+   "i": 113,
+   "start": 331.42,
+   "end": 333.56,
+   "kind": "dialog",
+   "speaker": "Oolong",
+   "text": "My birthday was last week and I didn't get a party."
+  },
+  {
+   "i": 114,
+   "start": 333.56,
+   "end": 335.42,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "You've been there for us from the very beginning!"
+  },
+  {
+   "i": 115,
+   "start": 335.42,
+   "end": 337.68,
+   "kind": "dialog",
+   "speaker": "Oolong",
+   "text": "Anyone remember when I saved the world from Pilaf?"
+  },
+  {
+   "i": 116,
+   "start": 337.68,
+   "end": 340.06,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Like a member of the family, I say!"
+  },
+  {
+   "i": 117,
+   "start": 340.06,
+   "end": 342.18,
+   "kind": "dialog",
+   "speaker": "Oolong",
+   "text": "Seriously, I live upstairs."
+  },
+  {
+   "i": 118,
+   "start": 342.18,
+   "end": 345.56,
+   "kind": "dialog",
+   "speaker": "Maron",
+   "text": "Oh my gosh! Someone got whoever's birthday it is, a turtle!"
+  },
+  {
+   "i": 119,
+   "start": 345.68,
+   "end": 347.02,
+   "kind": "dialog",
+   "speaker": "Maron",
+   "text": "Can I have a turtle?"
+  },
+  {
+   "i": 120,
+   "start": 347.02,
+   "end": 347.74,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Sure!"
+  },
+  {
+   "i": 121,
+   "start": 347.74,
+   "end": 349.24,
+   "kind": "dialog",
+   "speaker": "Maron",
+   "text": "Oh! Can it be THIS turtle?"
+  },
+  {
+   "i": 122,
+   "start": 349.24,
+   "end": 350.2,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Of course!"
+  },
+  {
+   "i": 123,
+   "start": 350.2,
+   "end": 350.92,
+   "kind": "dialog",
+   "speaker": "Turtle",
+   "text": "Wait, what?"
+  },
+  {
+   "i": 124,
+   "start": 350.92,
+   "end": 356.02,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Turtle, be my wingman on this one! If I get some, I swear to God I will send you pictures!"
+  },
+  {
+   "i": 125,
+   "start": 356.02,
+   "end": 356.62,
+   "kind": "dialog",
+   "speaker": "Turtle",
+   "text": "Deal!"
+  },
+  {
+   "i": 126,
+   "start": 356.92,
+   "end": 359.98,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "Seriously, maybe we wanna blow this out before something catches on--"
+  },
+  {
+   "i": 127,
+   "start": 359.98,
+   "end": 360.48,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "FWOOSH"
+  },
+  {
+   "i": 128,
+   "start": 360.48,
+   "end": 364.0,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "AH! MY BEARD! MY GLORIOUS BEARD! NOOOO~!"
+  },
+  {
+   "i": 129,
+   "start": 364.88,
+   "end": 366.88,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Slow, reflective music"
+  },
+  {
+   "i": 130,
+   "start": 368.62,
+   "end": 370.62,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Waves lapping across the shore"
+  },
+  {
+   "i": 131,
+   "start": 372.78,
+   "end": 373.6,
+   "kind": "dialog",
+   "speaker": "Turtle",
+   "text": "Hey, Krillin!"
+  },
+  {
+   "i": 132,
+   "start": 374.54,
+   "end": 376.12,
+   "kind": "dialog",
+   "speaker": "Turtle",
+   "text": "Whaddya doin' out here?"
+  },
+  {
+   "i": 133,
+   "start": 376.42,
+   "end": 380.48,
+   "kind": "dialog",
+   "speaker": "Turtle",
+   "text": "Why aren't you upstairs sleepin' with your girlfriend like everyone else?"
+  },
+  {
+   "i": 134,
+   "start": 380.48,
+   "end": 383.28,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Oh, hey, Turtle. I'm just up thinking to myself."
+  },
+  {
+   "i": 135,
+   "start": 383.42,
+   "end": 384.72,
+   "kind": "dialog",
+   "speaker": "Turtle",
+   "text": "What'cha thinkin' about?"
+  },
+  {
+   "i": 136,
+   "start": 384.9,
+   "end": 388.64,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "It's just... I'm not sure if Maron loves me for who I really am."
+  },
+  {
+   "i": 137,
+   "start": 388.64,
+   "end": 391.86,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "It's all presents, and travelling, and caviar, an--"
+  },
+  {
+   "i": 138,
+   "start": 391.86,
+   "end": 392.54,
+   "kind": "dialog",
+   "speaker": "Turtle",
+   "text": "Beluga?"
+  },
+  {
+   "i": 139,
+   "start": 392.54,
+   "end": 393.98,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "No; Paozu tuna."
+  },
+  {
+   "i": 140,
+   "start": 393.98,
+   "end": 395.26,
+   "kind": "dialog",
+   "speaker": "Turtle",
+   "text": "Wow, that's rare!"
+  },
+  {
+   "i": 141,
+   "start": 395.26,
+   "end": 399.88,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "And it's just... I just don't know if she loves Juan, or Juan's money."
+  },
+  {
+   "i": 142,
+   "start": 399.88,
+   "end": 401.8,
+   "kind": "dialog",
+   "speaker": "Turtle",
+   "text": "How much money DO you have?"
+  },
+  {
+   "i": 143,
+   "start": 401.8,
+   "end": 403.9,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Ehh, about 5.7 million."
+  },
+  {
+   "i": 144,
+   "start": 404.1,
+   "end": 406.74,
+   "kind": "dialog",
+   "speaker": "Turtle",
+   "text": "Didn't you get me a gift card from the Gap?"
+  },
+  {
+   "i": 145,
+   "start": 406.74,
+   "end": 408.46,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Not what we're talking about!"
+  },
+  {
+   "i": 146,
+   "start": 408.46,
+   "end": 413.98,
+   "kind": "dialog",
+   "speaker": "Turtle",
+   "text": "Okay, look - if she really does love you for who you are, then you have to tell her the truth."
+  },
+  {
+   "i": 147,
+   "start": 414.26,
+   "end": 416.88,
+   "kind": "dialog",
+   "speaker": "Turtle",
+   "text": "Open up to her; it's the only way."
+  },
+  {
+   "i": 148,
+   "start": 416.88,
+   "end": 418.26,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Are you sure that'll work?"
+  },
+  {
+   "i": 149,
+   "start": 418.26,
+   "end": 421.68,
+   "kind": "dialog",
+   "speaker": "Turtle",
+   "text": "Well, if it doesn't, you could always get her a giant pearl."
+  },
+  {
+   "i": 150,
+   "start": 421.68,
+   "end": 422.18,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Music cuts-off"
+  },
+  {
+   "i": 151,
+   "start": 422.88,
+   "end": 425.2,
+   "kind": "dialog",
+   "speaker": "Turtle",
+   "text": "What? Bitch is a gold-digger."
+  },
+  {
+   "i": 152,
+   "start": 429.1,
+   "end": 433.72,
+   "kind": "dialog",
+   "speaker": "Maron",
+   "text": "Okay, first we're going to go by Lush because all their soaps look like cakes and I wanna eat them!"
+  },
+  {
+   "i": 153,
+   "start": 433.72,
+   "end": 437.64,
+   "kind": "dialog",
+   "speaker": "Maron",
+   "text": "Oh, and I hope you remembered to make those reservations for L' Anus Serré at 7:30!"
+  },
+  {
+   "i": 154,
+   "start": 437.64,
+   "end": 439.66,
+   "kind": "dialog",
+   "speaker": "Maron",
+   "text": "I hear they're VERY uptight."
+  },
+  {
+   "i": 155,
+   "start": 439.88,
+   "end": 442.2,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "'Man, can I really go through with this?'"
+  },
+  {
+   "i": 156,
+   "start": 442.32,
+   "end": 444.98,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "'She seems sooo happyyy...'"
+  },
+  {
+   "i": 157,
+   "start": 445.36,
+   "end": 450.18,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "'No! No, Krillin! Stop focusing on that perfect, heart-shaped, pillow of an ass!'"
+  },
+  {
+   "i": 158,
+   "start": 450.48,
+   "end": 452.7,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "'Tonight, you will tell her!'"
+  },
+  {
+   "i": 159,
+   "start": 453.14,
+   "end": 454.82,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "'And then you will tap that!'"
+  },
+  {
+   "i": 160,
+   "start": 455.4,
+   "end": 457.82,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "'Pleaaaaaaaaaase tap that...'"
+  },
+  {
+   "i": 161,
+   "start": 459.6,
+   "end": 462.96,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Slow music"
+  },
+  {
+   "i": 162,
+   "start": 459.6,
+   "end": 462.96,
+   "kind": "dialog",
+   "speaker": "Maron",
+   "text": "Oh my God, I just love nice walks on the beaches!"
+  },
+  {
+   "i": 163,
+   "start": 462.96,
+   "end": 465.54,
+   "kind": "dialog",
+   "speaker": "Maron",
+   "text": "Oh! D'you think if I swim out far enough I'd reach Australia?"
+  },
+  {
+   "i": 164,
+   "start": 465.54,
+   "end": 466.06,
+   "kind": "dialog",
+   "speaker": "Maron",
+   "text": "(Gasp)"
+  },
+  {
+   "i": 165,
+   "start": 466.06,
+   "end": 468.82,
+   "kind": "dialog",
+   "speaker": "Maron",
+   "text": "Oh my gooood~! Can we go on a Sandals vacation?"
+  },
+  {
+   "i": 166,
+   "start": 468.98,
+   "end": 470.14,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Listen, Maron..."
+  },
+  {
+   "i": 167,
+   "start": 470.84,
+   "end": 472.16,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I need to talk to you."
+  },
+  {
+   "i": 168,
+   "start": 472.28,
+   "end": 474.28,
+   "kind": "dialog",
+   "speaker": "Maron",
+   "text": "Oh don't worry, Juan-ton!"
+  },
+  {
+   "i": 169,
+   "start": 474.28,
+   "end": 477.46,
+   "kind": "dialog",
+   "speaker": "Maron",
+   "text": "I made the reservations for you, so you don't have to worry about it!"
+  },
+  {
+   "i": 170,
+   "start": 477.66,
+   "end": 480.58,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Actually, I... need to come clean..."
+  },
+  {
+   "i": 171,
+   "start": 480.8,
+   "end": 485.3,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "See, my name isn't actually \"Juan Sanchez\"; it's... Krillin."
+  },
+  {
+   "i": 172,
+   "start": 485.3,
+   "end": 487.3,
+   "kind": "dialog",
+   "speaker": "Maron",
+   "text": "That is a silly name!"
+  },
+  {
+   "i": 173,
+   "start": 487.3,
+   "end": 488.12,
+   "kind": "dialog",
+   "speaker": "Maron",
+   "text": "(Gasp!)"
+  },
+  {
+   "i": 174,
+   "start": 488.12,
+   "end": 490.58,
+   "kind": "dialog",
+   "speaker": "Maron",
+   "text": "I'll call you Krilly-Billy!"
+  },
+  {
+   "i": 175,
+   "start": 490.78,
+   "end": 493.34,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "That's... not... everything."
+  },
+  {
+   "i": 176,
+   "start": 493.84,
+   "end": 499.1,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "You see... all this money I own is actually from my own life insurance policy."
+  },
+  {
+   "i": 177,
+   "start": 499.5,
+   "end": 508.76,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "For when I died... on another planet... blown up by an evil space emperor, but was then brought back to life by a magical dragon."
+  },
+  {
+   "i": 178,
+   "start": 509.44,
+   "end": 511.22,
+   "kind": "dialog",
+   "speaker": "Maron",
+   "text": "Uhhhh huh..."
+  },
+  {
+   "i": 179,
+   "start": 511.34,
+   "end": 513.66,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "But what I really want to ask, Maron, is:"
+  },
+  {
+   "i": 180,
+   "start": 514.28,
+   "end": 518.26,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Do you love me for me? Or do you just love me for my money?"
+  },
+  {
+   "i": 181,
+   "start": 518.38,
+   "end": 523.5,
+   "kind": "dialog",
+   "speaker": "Maron",
+   "text": "Ohh, Krilly-Billy! Of course I don't just love you for your money!"
+  },
+  {
+   "i": 182,
+   "start": 523.5,
+   "end": 525.32,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Y...you really mean that?"
+  },
+  {
+   "i": 183,
+   "start": 525.32,
+   "end": 526.94,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Music cuts-off"
+  },
+  {
+   "i": 184,
+   "start": 525.32,
+   "end": 526.94,
+   "kind": "dialog",
+   "speaker": "Maron",
+   "text": "I never loved you at all!"
+  },
+  {
+   "i": 185,
+   "start": 527.76,
+   "end": 529.96,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Awwwwwwwww..."
+  },
+  {
+   "i": 186,
+   "start": 530.48,
+   "end": 532.96,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Well can we at least still try the \"sex stuff\"?"
+  },
+  {
+   "i": 187,
+   "start": 533.06,
+   "end": 535.88,
+   "kind": "dialog",
+   "speaker": "Maron",
+   "text": "Noo, Krillin! You don't understand!"
+  },
+  {
+   "i": 188,
+   "start": 535.88,
+   "end": 537.88,
+   "kind": "dialog",
+   "speaker": "Maron",
+   "text": "I was never really your girlfriend."
+  },
+  {
+   "i": 189,
+   "start": 538.08,
+   "end": 543.56,
+   "kind": "dialog",
+   "speaker": "Maron",
+   "text": "See, I'm with the States' Fraud Bureau, and you just confessed to *a lot* of insurance fraud. Which I recorded."
+  },
+  {
+   "i": 190,
+   "start": 545.0,
+   "end": 547.34,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Wait, you have a recorder on you? Where!?"
+  },
+  {
+   "i": 191,
+   "start": 547.34,
+   "end": 548.28,
+   "kind": "dialog",
+   "speaker": "Maron",
+   "text": "In my boobs!"
+  },
+  {
+   "i": 192,
+   "start": 548.36,
+   "end": 551.14,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Curses! The one place I couldn't reach!"
+  },
+  {
+   "i": 193,
+   "start": 551.74,
+   "end": 553.02,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "...I'm going to prison, aren't I?"
+  },
+  {
+   "i": 194,
+   "start": 553.14,
+   "end": 558.36,
+   "kind": "dialog",
+   "speaker": "Maron",
+   "text": "Well, normally you would, but do you have any idea what they do to guys like you?"
+  },
+  {
+   "i": 195,
+   "start": 558.36,
+   "end": 560.74,
+   "kind": "dialog",
+   "speaker": "Maron",
+   "text": "No; you'll just have to pay back everything you owe."
+  },
+  {
+   "i": 196,
+   "start": 560.74,
+   "end": 562.98,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Wait, what about all the money I spent on you?"
+  },
+  {
+   "i": 197,
+   "start": 562.98,
+   "end": 565.18,
+   "kind": "dialog",
+   "speaker": "Maron",
+   "text": "You'll just have to pay that out of pocket!"
+  },
+  {
+   "i": 198,
+   "start": 565.18,
+   "end": 568.28,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "BUT I DROPPED OVER FIVE-HUNDRED GRAND ON YOU!"
+  },
+  {
+   "i": 199,
+   "start": 568.28,
+   "end": 572.72,
+   "kind": "dialog",
+   "speaker": "Maron",
+   "text": "Honey, I work for the Government! I never claimed to be a good person..."
+  },
+  {
+   "i": 200,
+   "start": 573.66,
+   "end": 574.16,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "DING"
+  },
+  {
+   "i": 201,
+   "start": 574.56,
+   "end": 577.48,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "And that's why I need a place to stay."
+  },
+  {
+   "i": 202,
+   "start": 577.48,
+   "end": 580.26,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "I'll go blow up the air mattress..."
+  },
+  {
+   "i": 203,
+   "start": 580.42,
+   "end": 582.96,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I do have to admit though, it's nice being a free man again."
+  },
+  {
+   "i": 204,
+   "start": 583.34,
+   "end": 587.3,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "No women nipping at my heels... know what I mean?"
+  },
+  {
+   "i": 205,
+   "start": 589.22,
+   "end": 589.98,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "ALRIGHT!"
+  },
+  {
+   "i": 206,
+   "start": 589.98,
+   "end": 597.02,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "I DEMAND TO KNOW WHO HAS BEEN SPREADING RUMORS THAT I HAVE BEEN FORCING GOHAN TO - and I quote - \"POUND MY TUNA\"!"
+  },
+  {
+   "i": 207,
+   "start": 597.02,
+   "end": 601.6,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Look, Chi-Chi, if it really upsets you, we'll *all* take turns pounding your tuna, okay?"
+  },
+  {
+   "i": 208,
+   "start": 601.6,
+   "end": 604.62,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "BUT... only if we get to eat it together."
+  },
+  {
+   "i": 209,
+   "start": 605.96,
+   "end": 609.5,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "...Heh, heh heh, hah ha! AAAAAAAH HA! AAAH--!"
+  },
+  {
+   "i": 210,
+   "start": 609.5,
+   "end": 613.02,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ Closing theme (DBZ intermission) ♫"
+  },
+  {
+   "i": 211,
+   "start": 614.8,
+   "end": 619.72,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "(Humming)"
+  },
+  {
+   "i": 212,
+   "start": 629.34,
+   "end": 632.74,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "(Laughing) The view hasn't changed a bit!"
+  },
+  {
+   "i": 213,
+   "start": 636.1,
+   "end": 636.98,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Clean that up."
+  },
+  {
+   "i": 214,
+   "start": 636.98,
+   "end": 643.08,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "I beg your pardon? Have you any inkling in that simple little head of yours who you're speaking to?"
+  },
+  {
+   "i": 215,
+   "start": 643.08,
+   "end": 644.78,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Oh please, do go on!"
+  },
+  {
+   "i": 216,
+   "start": 644.78,
+   "end": 650.22,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "I am the usurper of this once proud throne your worthless guardian holds so dear."
+  },
+  {
+   "i": 217,
+   "start": 650.6,
+   "end": 658.28,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "I am Garlic Jr., returned from the wretched abyss known as the \"Dead Zone\", and I have come for what's rightfully mine!"
+  },
+  {
+   "i": 218,
+   "start": 658.28,
+   "end": 662.34,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "What's going on? I don't remember releasing the Black Water Mist just ye--"
+  },
+  {
+   "i": 219,
+   "start": 662.42,
+   "end": 663.0,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "OH GOD!"
+  },
+  {
+   "i": 220,
+   "start": 663.0,
+   "end": 663.5,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "NO!"
+  },
+  {
+   "i": 221,
+   "start": 663.5,
+   "end": 664.8,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "NO-- GET IT OFF OF ME!"
+  },
+  {
+   "i": 222,
+   "start": 664.8,
+   "end": 675.62,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "(Screaming)"
+  },
+  {
+   "i": 223,
+   "start": 677.88,
+   "end": 682.22,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Mr. Popo, I'm back and I-- oh my me, what happened to the Lookout?"
+  },
+  {
+   "i": 224,
+   "start": 682.22,
+   "end": 685.24,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Oh don't mind this, Kami; I just had a bit of Italian for dinner."
+  },
+  {
+   "i": 225,
+   "start": 685.46,
+   "end": 687.06,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "What does that have to do with--"
+  },
+  {
+   "i": 226,
+   "start": 687.06,
+   "end": 689.06,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "'Cause it was nothin' but Garlic!"
+  }
+ ],
+ "segments": [
+  {
+   "start": 80.6,
+   "end": 99.5,
+   "title": "Juan Sanchez",
+   "quote": "My new name... is Juan Sanchez! / I'm compelled to ask, \"why?\"",
+   "line_start": 9,
+   "line_end": 16
+  },
+  {
+   "start": 135.0,
+   "end": 159.1,
+   "title": "A Very Rich Personality",
+   "quote": "She says I have a \"very rich personality\"! / And a WEALTH of knowledge! / And her boobs are as big as my HEAD!",
+   "line_start": 30,
+   "line_end": 37
+  },
+  {
+   "start": 208.0,
+   "end": 222.8,
+   "title": "Popo's Booty Call",
+   "quote": "Apparently, he has a... \"booty call\"... / Jynx! Jynx! JYNX! / Shut up, bitch, you love it!",
+   "line_start": 56,
+   "line_end": 64
+  },
+  {
+   "start": 240.3,
+   "end": 249.3,
+   "title": "Your Face Is Forbidden",
+   "quote": "You do know that technique is forbidden, Piccolo? / Your *face* is forbidden!",
+   "line_start": 76,
+   "line_end": 79
+  },
+  {
+   "start": 274.2,
+   "end": 291.5,
+   "title": "Pounding the Tuna",
+   "quote": "Well, we saw Gohan earlier, but he was busy pounding the tuna.",
+   "line_start": 91,
+   "line_end": 95
+  },
+  {
+   "start": 299.7,
+   "end": 315.8,
+   "title": "Fat Men or Kitties?",
+   "quote": "So, if you two had babies, would they be little fat men? Or kitties? / Probably fat kitties.",
+   "line_start": 99,
+   "line_end": 105
+  },
+  {
+   "start": 408.0,
+   "end": 425.2,
+   "title": "Bitch Is a Gold-Digger",
+   "quote": "Well, if it doesn't, you could always get her a giant pearl. / What? Bitch is a gold-digger.",
+   "line_start": 146,
+   "line_end": 151
+  },
+  {
+   "start": 439.4,
+   "end": 457.8,
+   "title": "Tap That",
+   "quote": "'No! No, Krillin! Stop focusing on that perfect, heart-shaped, pillow of an ass!' / 'Pleaaaaaaaaaase tap that...'",
+   "line_start": 155,
+   "line_end": 160
+  },
+  {
+   "start": 517.9,
+   "end": 535.9,
+   "title": "I Never Loved You at All",
+   "quote": "Of course I don't just love you for your money! ... I never loved you at all!",
+   "line_start": 181,
+   "line_end": 187
+  },
+  {
+   "start": 544.5,
+   "end": 572.7,
+   "title": "The One Place I Couldn't Reach",
+   "quote": "In my boobs! / Curses! The one place I couldn't reach!",
+   "line_start": 190,
+   "line_end": 199
+  },
+  {
+   "start": 588.7,
+   "end": 609.5,
+   "title": "POUND MY TUNA",
+   "quote": "I DEMAND TO KNOW WHO HAS BEEN SPREADING RUMORS THAT I HAVE BEEN FORCING GOHAN TO - and I quote - \"POUND MY TUNA\"!",
+   "line_start": 205,
+   "line_end": 209
+  },
+  {
+   "start": 677.4,
+   "end": 689.1,
+   "title": "A Bit of Italian for Dinner",
+   "quote": "I just had a bit of Italian for dinner. / 'Cause it was nothin' but Garlic!",
+   "line_start": 223,
+   "line_end": 226
+  }
+ ]
+}

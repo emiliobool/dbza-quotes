@@ -1,0 +1,955 @@
+{
+ "item": "m04",
+ "show": "dbza",
+ "youtube": "P7R6cgwMQXo",
+ "title": "Christmas Tree of Might Part 2",
+ "duration": 410,
+ "lines": [
+  {
+   "i": 0,
+   "start": 7.92,
+   "end": 10.2,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "It's OK, Gohan. You're safe."
+  },
+  {
+   "i": 1,
+   "start": 10.42,
+   "end": 15.4,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Now go to sleep; and in the morning, Santa will have brought all of your presents."
+  },
+  {
+   "i": 2,
+   "start": 15.66,
+   "end": 17.98,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "And by presents, I mean books."
+  },
+  {
+   "i": 3,
+   "start": 18.3,
+   "end": 21.2,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "D... dang it... uhh..."
+  },
+  {
+   "i": 4,
+   "start": 21.8,
+   "end": 26.38,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "Savor this moment, Kakarrot. It will be the last one you ever have with your son!"
+  },
+  {
+   "i": 5,
+   "start": 26.38,
+   "end": 28.76,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(Gasp)... He knows my Saiyan name!"
+  },
+  {
+   "i": 6,
+   "start": 29.06,
+   "end": 31.7,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "So you... must be Vegeta!"
+  },
+  {
+   "i": 7,
+   "start": 31.7,
+   "end": 32.62,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "Wait, you think I'm--"
+  },
+  {
+   "i": 8,
+   "start": 32.62,
+   "end": 36.7,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Silly Vegeta! It's not Halloween, it's Christmas!"
+  },
+  {
+   "i": 9,
+   "start": 36.7,
+   "end": 38.28,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Take that costume off."
+  },
+  {
+   "i": 10,
+   "start": 38.28,
+   "end": 44.1,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "I'm not Vegeta. I'm just another Saiyan who escaped the destruction of our planet."
+  },
+  {
+   "i": 11,
+   "start": 44.1,
+   "end": 45.56,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Ohhhhh..."
+  },
+  {
+   "i": 12,
+   "start": 45.56,
+   "end": 51.36,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'Man, that means he's like... an evil *me*! Only he doesn't have a goatee.'"
+  },
+  {
+   "i": 13,
+   "start": 51.56,
+   "end": 53.02,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'I'm gonna imagine one!'"
+  },
+  {
+   "i": 14,
+   "start": 53.2,
+   "end": 54.2,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "KLING"
+  },
+  {
+   "i": 15,
+   "start": 54.2,
+   "end": 56.26,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Ssso evil!"
+  },
+  {
+   "i": 16,
+   "start": 56.26,
+   "end": 57.48,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "Hurrrgh...!"
+  },
+  {
+   "i": 17,
+   "start": 57.64,
+   "end": 59.14,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Dramatic sting"
+  },
+  {
+   "i": 18,
+   "start": 59.14,
+   "end": 61.46,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Now it's just down to you and me!"
+  },
+  {
+   "i": 19,
+   "start": 61.46,
+   "end": 63.88,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "Yes. Me and you."
+  },
+  {
+   "i": 20,
+   "start": 64.12,
+   "end": 65.8,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "Oh, and my five Misfit Minions."
+  },
+  {
+   "i": 21,
+   "start": 65.8,
+   "end": 67.5,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "But, what about my friends?"
+  },
+  {
+   "i": 22,
+   "start": 67.5,
+   "end": 70.04,
+   "kind": "dialog",
+   "speaker": "Slay",
+   "text": "We all had eggnog and Christmas fudge!"
+  },
+  {
+   "i": 23,
+   "start": 70.04,
+   "end": 70.74,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Really?!"
+  },
+  {
+   "i": 24,
+   "start": 70.74,
+   "end": 72.7,
+   "kind": "dialog",
+   "speaker": "Reese",
+   "text": "Nope! Wasted them like figgy pudding."
+  },
+  {
+   "i": 25,
+   "start": 72.7,
+   "end": 74.58,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "YOU NEVER WASTE FIGGY PUDDING!"
+  },
+  {
+   "i": 26,
+   "start": 74.58,
+   "end": 75.3,
+   "kind": "dialog",
+   "speaker": "Jinga",
+   "text": "UGH!"
+  },
+  {
+   "i": 27,
+   "start": 74.58,
+   "end": 75.3,
+   "kind": "dialog",
+   "speaker": "Reese",
+   "text": "UGH!"
+  },
+  {
+   "i": 28,
+   "start": 75.3,
+   "end": 76.34,
+   "kind": "dialog",
+   "speaker": "Beru",
+   "text": "UGH!"
+  },
+  {
+   "i": 29,
+   "start": 75.3,
+   "end": 76.34,
+   "kind": "dialog",
+   "speaker": "S.N.O.W.",
+   "text": "Droid."
+  },
+  {
+   "i": 30,
+   "start": 76.54,
+   "end": 77.28,
+   "kind": "dialog",
+   "speaker": "Slay",
+   "text": "UGH!"
+  },
+  {
+   "i": 31,
+   "start": 78.94,
+   "end": 80.84,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "...Did I just smash the Krampus?"
+  },
+  {
+   "i": 32,
+   "start": 80.84,
+   "end": 82.9,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "This has gone on long enough!"
+  },
+  {
+   "i": 33,
+   "start": 83.0,
+   "end": 85.42,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "You don't even understand why I'm here, do you?"
+  },
+  {
+   "i": 34,
+   "start": 85.42,
+   "end": 90.9,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "All I heard was: \"Look at me! I hate Christmas, because I'm a big jerk!\""
+  },
+  {
+   "i": 35,
+   "start": 90.9,
+   "end": 94.5,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "And who *wouldn't* be a big jerk after the injustices I suffered?!"
+  },
+  {
+   "i": 36,
+   "start": 94.5,
+   "end": 99.0,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "On Planet Vegeta, we heard all about all the other planets that Santa would visit."
+  },
+  {
+   "i": 37,
+   "start": 99.0,
+   "end": 105.14,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "We'd heard of the joy he brought children, of the presents, of the *merriment*... THAT I WAS *DENIED*!"
+  },
+  {
+   "i": 38,
+   "start": 105.14,
+   "end": 107.48,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "Planet Vegeta never *got* Christmas."
+  },
+  {
+   "i": 39,
+   "start": 107.48,
+   "end": 109.86,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "No, all we got was Freeza Day!"
+  },
+  {
+   "i": 40,
+   "start": 109.86,
+   "end": 111.44,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Well, what d'ya get for Freeza Day?"
+  },
+  {
+   "i": 41,
+   "start": 111.44,
+   "end": 113.0,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "He blew our PLANET UP!"
+  },
+  {
+   "i": 42,
+   "start": 113.0,
+   "end": 114.34,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "That's sad..."
+  },
+  {
+   "i": 43,
+   "start": 114.34,
+   "end": 116.98,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "But I still can't let you steal the joy from Earth!"
+  },
+  {
+   "i": 44,
+   "start": 116.98,
+   "end": 117.48,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "DING"
+  },
+  {
+   "i": 45,
+   "start": 117.48,
+   "end": 119.22,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "Hold that thought; tree's done."
+  },
+  {
+   "i": 46,
+   "start": 119.68,
+   "end": 120.3,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "What?"
+  },
+  {
+   "i": 47,
+   "start": 120.3,
+   "end": 123.4,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "See, these fruit hold all the joy from Earth."
+  },
+  {
+   "i": 48,
+   "start": 123.4,
+   "end": 126.64,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "When I eat it, I will gain Earth's joy!"
+  },
+  {
+   "i": 49,
+   "start": 126.64,
+   "end": 129.1,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Why are you so evil?!"
+  },
+  {
+   "i": 50,
+   "start": 129.1,
+   "end": 130.06,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "Deal with it."
+  },
+  {
+   "i": 51,
+   "start": 130.24,
+   "end": 136.36,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "Turles ate of the fruit, and so they say, his power level grew three sizes that day."
+  },
+  {
+   "i": 52,
+   "start": 137.78,
+   "end": 138.62,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'That's not good...!'"
+  },
+  {
+   "i": 53,
+   "start": 138.62,
+   "end": 140.62,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Goku groans as Turles pummels him"
+  },
+  {
+   "i": 54,
+   "start": 144.7,
+   "end": 146.78,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "Now, denounce your faith!"
+  },
+  {
+   "i": 55,
+   "start": 147.0,
+   "end": 148.34,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "N... no!"
+  },
+  {
+   "i": 56,
+   "start": 148.34,
+   "end": 150.36,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "Denounce your faith in Santa Claus!"
+  },
+  {
+   "i": 57,
+   "start": 150.36,
+   "end": 151.44,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "NEVER!"
+  },
+  {
+   "i": 58,
+   "start": 151.6,
+   "end": 154.86,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "Well, then... Bah Humbug."
+  },
+  {
+   "i": 59,
+   "start": 155.1,
+   "end": 158.38,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Goku screams as Turles fires ki attacks at him"
+  },
+  {
+   "i": 60,
+   "start": 158.7,
+   "end": 160.5,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "HISS"
+  },
+  {
+   "i": 61,
+   "start": 160.94,
+   "end": 164.52,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "Well, now that that's over, time to plan a bitchin' New Year's party!"
+  },
+  {
+   "i": 62,
+   "start": 164.86,
+   "end": 167.32,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Ugh... ahh... uhh..."
+  },
+  {
+   "i": 63,
+   "start": 167.32,
+   "end": 171.8,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'Nooo... Christmas... can't be ruined...!'"
+  },
+  {
+   "i": 64,
+   "start": 171.8,
+   "end": 175.52,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Must... summon up... energy...!"
+  },
+  {
+   "i": 65,
+   "start": 175.58,
+   "end": 179.84,
+   "kind": "dialog",
+   "speaker": "Santa",
+   "text": "Goku... it is I, the anointed saint."
+  },
+  {
+   "i": 66,
+   "start": 179.84,
+   "end": 182.36,
+   "kind": "dialog",
+   "speaker": "Santa",
+   "text": "The spreader of love and peace."
+  },
+  {
+   "i": 67,
+   "start": 182.36,
+   "end": 184.54,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'Oh, wow! It's...!'"
+  },
+  {
+   "i": 68,
+   "start": 184.54,
+   "end": 187.82,
+   "kind": "dialog",
+   "speaker": "Santa",
+   "text": "Yes, it is I... Santa."
+  },
+  {
+   "i": 69,
+   "start": 187.82,
+   "end": 188.98,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(Gasp)"
+  },
+  {
+   "i": 70,
+   "start": 188.98,
+   "end": 193.94,
+   "kind": "dialog",
+   "speaker": "Santa",
+   "text": "You must defeat him, Goku; you are the only one who can."
+  },
+  {
+   "i": 71,
+   "start": 193.94,
+   "end": 198.66,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'But, he's got all of Earth's joy. He's too powerful.'"
+  },
+  {
+   "i": 72,
+   "start": 198.72,
+   "end": 203.32,
+   "kind": "dialog",
+   "speaker": "Santa",
+   "text": "No, Goku. The joy... is within your heart."
+  },
+  {
+   "i": 73,
+   "start": 203.32,
+   "end": 206.54,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(Inhales)... you're right!"
+  },
+  {
+   "i": 74,
+   "start": 206.54,
+   "end": 209.68,
+   "kind": "dialog",
+   "speaker": "Santa",
+   "text": "Now kick his ass to the North Pole and back!"
+  },
+  {
+   "i": 75,
+   "start": 209.76,
+   "end": 211.52,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Yes...Santa!"
+  },
+  {
+   "i": 76,
+   "start": 211.52,
+   "end": 214.9,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Scouter beeps repeatedly"
+  },
+  {
+   "i": 77,
+   "start": 212.02,
+   "end": 214.9,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "What the hell? What is this sudden burst of joy?!"
+  },
+  {
+   "i": 78,
+   "start": 214.9,
+   "end": 217.42,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "This is Christmas, melon farmer!"
+  },
+  {
+   "i": 79,
+   "start": 217.42,
+   "end": 222.28,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Goku hurls Spirit Bomb; Turles screams, Spirit Bomb saves the day"
+  },
+  {
+   "i": 80,
+   "start": 222.28,
+   "end": 226.68,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "NO... SO... MUCH... JOY!"
+  },
+  {
+   "i": 81,
+   "start": 227.36,
+   "end": 232.86,
+   "kind": "direction",
+   "speaker": null,
+   "text": "And he screams some more..."
+  },
+  {
+   "i": 82,
+   "start": 232.86,
+   "end": 236.22,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Sounds of explosions"
+  },
+  {
+   "i": 83,
+   "start": 239.4,
+   "end": 242.16,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"Let It Snow! Let It Snow! Let It Snow!\" ♫"
+  },
+  {
+   "i": 84,
+   "start": 242.16,
+   "end": 244.08,
+   "kind": "dialog",
+   "speaker": "Man",
+   "text": "Look! It's snowing!"
+  },
+  {
+   "i": 85,
+   "start": 244.4,
+   "end": 246.52,
+   "kind": "dialog",
+   "speaker": "Woman",
+   "text": "But... it's yellow...!"
+  },
+  {
+   "i": 86,
+   "start": 246.52,
+   "end": 249.98,
+   "kind": "dialog",
+   "speaker": "Woman",
+   "text": "♫ Oh, the weather outside is frightful ♫"
+  },
+  {
+   "i": 87,
+   "start": 249.98,
+   "end": 253.52,
+   "kind": "dialog",
+   "speaker": "Woman",
+   "text": "♫ But the fire is so delightful ♫"
+  },
+  {
+   "i": 88,
+   "start": 253.52,
+   "end": 257.0,
+   "kind": "dialog",
+   "speaker": "Woman",
+   "text": "♫ And since we've no place to go ♫"
+  },
+  {
+   "i": 89,
+   "start": 257.0,
+   "end": 260.22,
+   "kind": "dialog",
+   "speaker": "Woman",
+   "text": "♫ Let it snow, let it snow, let it snow ♫"
+  },
+  {
+   "i": 90,
+   "start": 260.22,
+   "end": 265.4,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'It's too bad that Turles was such a Scrooge; we would have happily shared our Christmas with him.'"
+  },
+  {
+   "i": 91,
+   "start": 265.4,
+   "end": 270.4,
+   "kind": "dialog",
+   "speaker": "Santa",
+   "text": "You know... the sad part is, I always tried to visit Planet Vegeta."
+  },
+  {
+   "i": 92,
+   "start": 270.4,
+   "end": 274.24,
+   "kind": "dialog",
+   "speaker": "Santa",
+   "text": "Problem was - they kept trying to shoot down my sleigh."
+  },
+  {
+   "i": 93,
+   "start": 274.24,
+   "end": 275.0,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'Bummer.'"
+  },
+  {
+   "i": 94,
+   "start": 275.0,
+   "end": 278.16,
+   "kind": "dialog",
+   "speaker": "Santa",
+   "text": "Now, I'm off to deliver my presents."
+  },
+  {
+   "i": 95,
+   "start": 278.16,
+   "end": 281.24,
+   "kind": "dialog",
+   "speaker": "Santa",
+   "text": "But thank you... for saving Christmas!"
+  },
+  {
+   "i": 96,
+   "start": 281.24,
+   "end": 283.72,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Anytime, Santa. Bye~!"
+  },
+  {
+   "i": 97,
+   "start": 283.72,
+   "end": 291.96,
+   "kind": "dialog",
+   "speaker": "Santa",
+   "text": "Ho, ho, ho, ho! Merry Christmas! Hoooo, ho, ho, ho, ho, ho, hooo...!"
+  },
+  {
+   "i": 98,
+   "start": 292.12,
+   "end": 297.92,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'Wait a second... if that guy wasn't Vegeta... ...where is Vegeta?'"
+  },
+  {
+   "i": 99,
+   "start": 302.3,
+   "end": 304.42,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "This is so non-canon, it hurts."
+  },
+  {
+   "i": 100,
+   "start": 305.0,
+   "end": 312.68,
+   "kind": "dialog",
+   "speaker": "Ghost Nappa",
+   "text": "Vegeta~ ...Tonight, you will be haunted by three ghoooosts!"
+  },
+  {
+   "i": 101,
+   "start": 312.68,
+   "end": 313.18,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "DING"
+  },
+  {
+   "i": 102,
+   "start": 313.18,
+   "end": 313.94,
+   "kind": "dialog",
+   "speaker": "Ghost Nappa",
+   "text": "And they're all me."
+  },
+  {
+   "i": 103,
+   "start": 313.94,
+   "end": 314.86,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "DING DING"
+  },
+  {
+   "i": 104,
+   "start": 314.86,
+   "end": 315.58,
+   "kind": "dialog",
+   "speaker": "Ghost of Nappa Past",
+   "text": "Hi!"
+  },
+  {
+   "i": 105,
+   "start": 314.86,
+   "end": 315.58,
+   "kind": "dialog",
+   "speaker": "Ghost of Nappa Present",
+   "text": "Hi!"
+  },
+  {
+   "i": 106,
+   "start": 314.86,
+   "end": 315.58,
+   "kind": "dialog",
+   "speaker": "Ghost of Nappa Future",
+   "text": "Hi!"
+  },
+  {
+   "i": 107,
+   "start": 316.2,
+   "end": 318.2,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "God damn it, I hate Christmas."
+  },
+  {
+   "i": 108,
+   "start": 318.2,
+   "end": 320.2,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"A Holly Jolly Christmas\" ♫"
+  }
+ ],
+ "segments": [
+  {
+   "start": 21.3,
+   "end": 38.3,
+   "title": "Silly Vegeta, It's Christmas",
+   "quote": "So you... must be Vegeta! — Wait, you think I'm-- — Silly Vegeta! It's not Halloween, it's Christmas!",
+   "line_start": 4,
+   "line_end": 9
+  },
+  {
+   "start": 45.0,
+   "end": 56.3,
+   "title": "Evil Me With a Goatee",
+   "quote": "'Man, that means he's like... an evil *me*! Only he doesn't have a goatee.' 'I'm gonna imagine one!' — Ssso evil!",
+   "line_start": 12,
+   "line_end": 15
+  },
+  {
+   "start": 65.3,
+   "end": 81.0,
+   "title": "You Never Waste Figgy Pudding",
+   "quote": "Nope! Wasted them like figgy pudding. — YOU NEVER WASTE FIGGY PUDDING!",
+   "line_start": 21,
+   "line_end": 31
+  },
+  {
+   "start": 90.4,
+   "end": 114.3,
+   "title": "All We Got Was Freeza Day",
+   "quote": "Well, what d'ya get for Freeza Day? — He blew our PLANET UP!",
+   "line_start": 35,
+   "line_end": 42
+  },
+  {
+   "start": 126.1,
+   "end": 136.4,
+   "title": "His Power Level Grew Three Sizes",
+   "quote": "Turles ate of the fruit, and so they say, his power level grew three sizes that day.",
+   "line_start": 49,
+   "line_end": 51
+  },
+  {
+   "start": 144.2,
+   "end": 158.4,
+   "title": "Denounce Your Faith in Santa",
+   "quote": "Denounce your faith in Santa Claus! — NEVER! — Well, then... Bah Humbug.",
+   "line_start": 54,
+   "line_end": 59
+  },
+  {
+   "start": 175.1,
+   "end": 211.5,
+   "title": "It Is I... Santa",
+   "quote": "Now kick his ass to the North Pole and back! — Yes...Santa!",
+   "line_start": 65,
+   "line_end": 75
+  },
+  {
+   "start": 211.5,
+   "end": 246.6,
+   "title": "This Is Christmas, Melon Farmer",
+   "quote": "This is Christmas, melon farmer! — Look! It's snowing! — But... it's yellow...!",
+   "line_start": 76,
+   "line_end": 85
+  },
+  {
+   "start": 301.8,
+   "end": 318.4,
+   "title": "Three Ghosts, All Me",
+   "quote": "Tonight, you will be haunted by three ghoooosts! And they're all me. — God damn it, I hate Christmas.",
+   "line_start": 99,
+   "line_end": 107
+  }
+ ]
+}

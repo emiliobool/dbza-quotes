@@ -1,0 +1,2635 @@
+{
+ "item": "m11",
+ "show": "dbza",
+ "youtube": "2zOv7kvYmtg",
+ "title": "Plan to Eradicate Christmas",
+ "duration": 938,
+ "lines": [
+  {
+   "i": 0,
+   "start": 0.0,
+   "end": 10.72,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Insert disclaimer here"
+  },
+  {
+   "i": 1,
+   "start": 0.0,
+   "end": 10.72,
+   "kind": "direction",
+   "speaker": null,
+   "text": "These are the main English subtitles. For added awesomeness, please click the English (Canada) subtitles. Thank you!"
+  },
+  {
+   "i": 2,
+   "start": 18.9,
+   "end": 20.3,
+   "kind": "dialog",
+   "speaker": "Dr. Lychee",
+   "text": "War..."
+  },
+  {
+   "i": 3,
+   "start": 21.54,
+   "end": 23.2,
+   "kind": "dialog",
+   "speaker": "Dr. Lychee",
+   "text": "Greed."
+  },
+  {
+   "i": 4,
+   "start": 24.12,
+   "end": 25.88,
+   "kind": "dialog",
+   "speaker": "Dr. Lychee",
+   "text": "Pollution."
+  },
+  {
+   "i": 5,
+   "start": 26.42,
+   "end": 28.24,
+   "kind": "dialog",
+   "speaker": "Dr. Lychee",
+   "text": "Destruction."
+  },
+  {
+   "i": 6,
+   "start": 29.52,
+   "end": 33.14,
+   "kind": "dialog",
+   "speaker": "Dr. Lychee",
+   "text": "The world has been overcome by naughtiness."
+  },
+  {
+   "i": 7,
+   "start": 34.14,
+   "end": 36.86,
+   "kind": "dialog",
+   "speaker": "Dr. Lychee",
+   "text": "It cannot be saved."
+  },
+  {
+   "i": 8,
+   "start": 37.38,
+   "end": 40.66,
+   "kind": "dialog",
+   "speaker": "Dr. Lychee",
+   "text": "It can only be culled."
+  },
+  {
+   "i": 9,
+   "start": 42.06,
+   "end": 50.56,
+   "kind": "dialog",
+   "speaker": "Dr. Lychee",
+   "text": "Christmas... is ho... ho... ...over."
+  },
+  {
+   "i": 10,
+   "start": 65.66,
+   "end": 66.28,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "(POP)"
+  },
+  {
+   "i": 11,
+   "start": 66.28,
+   "end": 68.68,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Merry Christmas Eve, Bulma!"
+  },
+  {
+   "i": 12,
+   "start": 68.68,
+   "end": 71.12,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "And Happy Holidays, Mr. Piccolo!"
+  },
+  {
+   "i": 13,
+   "start": 71.12,
+   "end": 73.52,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "You know, I actually do celebrate Christmas."
+  },
+  {
+   "i": 14,
+   "start": 73.52,
+   "end": 74.2,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Really?"
+  },
+  {
+   "i": 15,
+   "start": 74.2,
+   "end": 77.1,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Yeah; if you think about it, I'm basically the Son of God."
+  },
+  {
+   "i": 16,
+   "start": 77.1,
+   "end": 79.04,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "'Oh, Jesus Christ...'"
+  },
+  {
+   "i": 17,
+   "start": 79.04,
+   "end": 79.82,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'Kinda.'"
+  },
+  {
+   "i": 18,
+   "start": 79.82,
+   "end": 82.02,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'Wait, so does that make me the Holy Spirit?'"
+  },
+  {
+   "i": 19,
+   "start": 82.02,
+   "end": 83.0,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'Kinda.'"
+  },
+  {
+   "i": 20,
+   "start": 82.02,
+   "end": 83.0,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "'Kinda.'"
+  },
+  {
+   "i": 21,
+   "start": 83.34,
+   "end": 85.86,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Um, have any of you seen the news today?"
+  },
+  {
+   "i": 22,
+   "start": 85.86,
+   "end": 90.14,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "The only thing my Dad watches on Christmas is the Rankin Bass Rudolf movie on loop."
+  },
+  {
+   "i": 23,
+   "start": 90.36,
+   "end": 91.84,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Well..."
+  },
+  {
+   "i": 24,
+   "start": 91.84,
+   "end": 97.08,
+   "kind": "dialog",
+   "speaker": "May",
+   "text": "May McStand here, live from West City, where a toxic miasma has the local townsfolk collapsing en masse."
+  },
+  {
+   "i": 25,
+   "start": 97.08,
+   "end": 99.16,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Good thing we Instant Transmissioned."
+  },
+  {
+   "i": 26,
+   "start": 99.16,
+   "end": 104.9,
+   "kind": "dialog",
+   "speaker": "May",
+   "text": "In unrelated news, several machines have been descending from the skies via dark *ungodly* orb in the outer atmosphere."
+  },
+  {
+   "i": 27,
+   "start": 104.9,
+   "end": 105.66,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "(TV turned off)"
+  },
+  {
+   "i": 28,
+   "start": 105.66,
+   "end": 107.66,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "I don't think that's unrelated."
+  },
+  {
+   "i": 29,
+   "start": 107.72,
+   "end": 112.4,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Someone or some*thing* is trying to ruin Christmas again."
+  },
+  {
+   "i": 30,
+   "start": 112.4,
+   "end": 115.42,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "And that's got me Chris-miffed."
+  },
+  {
+   "i": 31,
+   "start": 115.42,
+   "end": 116.453,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Solid pun, Dad."
+  },
+  {
+   "i": 32,
+   "start": 116.453,
+   "end": 120.02,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Thanks. I've been waiting for someone to try and ruin Christmas again."
+  },
+  {
+   "i": 33,
+   "start": 120.02,
+   "end": 122.28,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Those machines are the ones expelling the gas."
+  },
+  {
+   "i": 34,
+   "start": 122.28,
+   "end": 126.08,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "It's some kind of aerosolized coal particulates, but..."
+  },
+  {
+   "i": 35,
+   "start": 126.42,
+   "end": 128.32,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Something's weird about it."
+  },
+  {
+   "i": 36,
+   "start": 128.32,
+   "end": 131.66,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "So what? Is someone trying to kill the whole world with Miner's Lung?"
+  },
+  {
+   "i": 37,
+   "start": 131.66,
+   "end": 135.02,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "*Gasp* Be careful, Gohan! You're a minor!"
+  },
+  {
+   "i": 38,
+   "start": 135.02,
+   "end": 137.24,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "(taken aback) I'm...surprised you knew that--"
+  },
+  {
+   "i": 39,
+   "start": 137.24,
+   "end": 139.5,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(panicking) So, is Piccolo...and Bulma!"
+  },
+  {
+   "i": 40,
+   "start": 139.5,
+   "end": 140.38,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "(disappointed) Oh..."
+  },
+  {
+   "i": 41,
+   "start": 140.38,
+   "end": 141.8,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "You meant character."
+  },
+  {
+   "i": 42,
+   "start": 141.8,
+   "end": 143.22,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "And Vegeta!"
+  },
+  {
+   "i": 43,
+   "start": 143.22,
+   "end": 144.54,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "The f**k I am!"
+  },
+  {
+   "i": 44,
+   "start": 144.54,
+   "end": 146.5,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh. Hey, Geets! When'd you get here?"
+  },
+  {
+   "i": 45,
+   "start": 146.5,
+   "end": 148.0,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I live here, you dolt."
+  },
+  {
+   "i": 46,
+   "start": 148.0,
+   "end": 149.32,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Could've fooled me..."
+  },
+  {
+   "i": 47,
+   "start": 149.32,
+   "end": 153.68,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "What's up, Dad? You're looking... uncharacteristically wistful."
+  },
+  {
+   "i": 48,
+   "start": 153.68,
+   "end": 155.46,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Well, it's just..."
+  },
+  {
+   "i": 49,
+   "start": 155.46,
+   "end": 163.88,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Every Christmas Eve--before it was replaced by Freeza Day--I'd sit out on my porch and fire into the night sky, hoping to kill Santa."
+  },
+  {
+   "i": 50,
+   "start": 163.88,
+   "end": 166.16,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(gasp) Oh no! You never hit him, did you?!"
+  },
+  {
+   "i": 51,
+   "start": 166.16,
+   "end": 170.44,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I thought I did once, but it was actually just a pod carrying my brother, Tarble."
+  },
+  {
+   "i": 52,
+   "start": 170.8,
+   "end": 173.38,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "They never found it... or the body."
+  },
+  {
+   "i": 53,
+   "start": 173.94,
+   "end": 177.34,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "What I'm saying is it's Christmas Eve and something needs to die."
+  },
+  {
+   "i": 54,
+   "start": 177.8,
+   "end": 180.42,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "So I'm feeling a little nostalgic."
+  },
+  {
+   "i": 55,
+   "start": 180.42,
+   "end": 181.4,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "I have an uncle??"
+  },
+  {
+   "i": 56,
+   "start": 181.4,
+   "end": 182.94,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "You *had* an uncle."
+  },
+  {
+   "i": 57,
+   "start": 185.86,
+   "end": 189.84,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "There it is. One of the machines that's ruining Christmas."
+  },
+  {
+   "i": 58,
+   "start": 190.1,
+   "end": 192.18,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "First, we blow'em all up."
+  },
+  {
+   "i": 59,
+   "start": 192.3,
+   "end": 198.48,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Then we find the Grinch that made them, and send that grimacing green monster straight to HFIL!"
+  },
+  {
+   "i": 60,
+   "start": 198.72,
+   "end": 199.66,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Um..."
+  },
+  {
+   "i": 61,
+   "start": 199.66,
+   "end": 200.8,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Not you, Mr. Piccolo."
+  },
+  {
+   "i": 62,
+   "start": 200.82,
+   "end": 201.98,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Who wants to blow it up?"
+  },
+  {
+   "i": 63,
+   "start": 202.36,
+   "end": 202.9,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "1-2-3--"
+  },
+  {
+   "i": 64,
+   "start": 202.9,
+   "end": 203.4,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Mine!"
+  },
+  {
+   "i": 65,
+   "start": 203.4,
+   "end": 204.5,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Aw, dang it."
+  },
+  {
+   "i": 66,
+   "start": 204.5,
+   "end": 205.36,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "(Explosion)"
+  },
+  {
+   "i": 67,
+   "start": 205.84,
+   "end": 209.96,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Ha ha! And *that's* how Vegeta saved C--! rrrrrrrrap."
+  },
+  {
+   "i": 68,
+   "start": 209.96,
+   "end": 211.16,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Want I should take a swing at it?"
+  },
+  {
+   "i": 69,
+   "start": 211.16,
+   "end": 212.62,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Go to hell, Kakarot!"
+  },
+  {
+   "i": 70,
+   "start": 212.62,
+   "end": 214.86,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Oh please. *Do* go to hell."
+  },
+  {
+   "i": 71,
+   "start": 214.22,
+   "end": 214.86,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "*Surprised gasp!*"
+  },
+  {
+   "i": 72,
+   "start": 214.86,
+   "end": 216.98,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "It's wonderful, this time of year..."
+  },
+  {
+   "i": 73,
+   "start": 216.98,
+   "end": 218.72,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "*I should know*."
+  },
+  {
+   "i": 74,
+   "start": 218.72,
+   "end": 219.62,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Freeza!"
+  },
+  {
+   "i": 75,
+   "start": 219.62,
+   "end": 224.7,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "That's right, Monkeys! We have returned for our revenge!"
+  },
+  {
+   "i": 76,
+   "start": 224.7,
+   "end": 227.26,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Is that like the royal \"we\", or..."
+  },
+  {
+   "i": 77,
+   "start": 227.26,
+   "end": 228.14,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Yes!"
+  },
+  {
+   "i": 78,
+   "start": 228.36,
+   "end": 229.04,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Also, no."
+  },
+  {
+   "i": 79,
+   "start": 229.04,
+   "end": 232.88,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Come forth, villains of Freeza Day past!"
+  },
+  {
+   "i": 80,
+   "start": 233.12,
+   "end": 236.7,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "Brother, we agreed on villains of *Christmas* past."
+  },
+  {
+   "i": 81,
+   "start": 236.94,
+   "end": 237.92,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Cooler!"
+  },
+  {
+   "i": 82,
+   "start": 237.92,
+   "end": 239.92,
+   "kind": "dialog",
+   "speaker": "Slug",
+   "text": "Okay. So like, I showed up in July."
+  },
+  {
+   "i": 83,
+   "start": 239.92,
+   "end": 242.16,
+   "kind": "dialog",
+   "speaker": "Slug",
+   "text": "I-I'm just here for revenge. You know...more or less--"
+  },
+  {
+   "i": 84,
+   "start": 242.16,
+   "end": 243.78,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Slug!!"
+  },
+  {
+   "i": 85,
+   "start": 243.78,
+   "end": 247.68,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "And I'm more than happy to take another crack at this nut!"
+  },
+  {
+   "i": 86,
+   "start": 247.68,
+   "end": 249.04,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Dark *me*!"
+  },
+  {
+   "i": 87,
+   "start": 249.04,
+   "end": 251.44,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "Dark yo-- (baffled) ...you remember me, right?"
+  },
+  {
+   "i": 88,
+   "start": 251.44,
+   "end": 252.66,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Of course."
+  },
+  {
+   "i": 89,
+   "start": 252.66,
+   "end": 255.36,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Every time I look in the mirror."
+  },
+  {
+   "i": 90,
+   "start": 255.36,
+   "end": 256.32,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "No, I'm--"
+  },
+  {
+   "i": 91,
+   "start": 256.32,
+   "end": 257.2,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Turles, right?"
+  },
+  {
+   "i": 92,
+   "start": 257.2,
+   "end": 258.4,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "Yes!"
+  },
+  {
+   "i": 93,
+   "start": 258.4,
+   "end": 259.92,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "...Oh my God; Prince Vegeta??"
+  },
+  {
+   "i": 94,
+   "start": 259.92,
+   "end": 261.38,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "How's the tree doing?"
+  },
+  {
+   "i": 95,
+   "start": 261.38,
+   "end": 262.18,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "Destroyed."
+  },
+  {
+   "i": 96,
+   "start": 262.18,
+   "end": 265.74,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "And *this* is why we don't let the lower class have nice things."
+  },
+  {
+   "i": 97,
+   "start": 265.74,
+   "end": 268.7,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "And herrrre we goooo with the politics..."
+  },
+  {
+   "i": 98,
+   "start": 268.98,
+   "end": 270.48,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "So, Monkeys!"
+  },
+  {
+   "i": 99,
+   "start": 270.48,
+   "end": 271.28,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "(offended) Dude!"
+  },
+  {
+   "i": 100,
+   "start": 271.28,
+   "end": 272.32,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "...And the racism."
+  },
+  {
+   "i": 101,
+   "start": 272.32,
+   "end": 276.3,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "We're here to make this your last Freeza Day on Earth."
+  },
+  {
+   "i": 102,
+   "start": 276.32,
+   "end": 279.24,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "Seriously, it's always got to be about you, doesn't it?"
+  },
+  {
+   "i": 103,
+   "start": 279.24,
+   "end": 281.16,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Well, that is what father said."
+  },
+  {
+   "i": 104,
+   "start": 279.24,
+   "end": 281.16,
+   "kind": "direction",
+   "speaker": null,
+   "text": "music winds down"
+  },
+  {
+   "i": 105,
+   "start": 281.16,
+   "end": 283.22,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "He also said he loved us both equally."
+  },
+  {
+   "i": 106,
+   "start": 283.22,
+   "end": 285.86,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Well, you know how fond father was of *jokes*!"
+  },
+  {
+   "i": 107,
+   "start": 285.86,
+   "end": 288.46,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "And that's why he had you *second*, punchline!"
+  },
+  {
+   "i": 108,
+   "start": 288.46,
+   "end": 290.3,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "This is really uncomfortable."
+  },
+  {
+   "i": 109,
+   "start": 290.3,
+   "end": 291.64,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Yep. That's Christmas."
+  },
+  {
+   "i": 110,
+   "start": 291.76,
+   "end": 293.2,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Alright, guys!"
+  },
+  {
+   "i": 111,
+   "start": 293.2,
+   "end": 295.48,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Let's jingle these bells!"
+  },
+  {
+   "i": 112,
+   "start": 295.48,
+   "end": 297.24,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I refuse to fight to that."
+  },
+  {
+   "i": 113,
+   "start": 298.48,
+   "end": 301.64,
+   "kind": "direction",
+   "speaker": null,
+   "text": "(Fighting sounds)"
+  },
+  {
+   "i": 114,
+   "start": 298.48,
+   "end": 301.64,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"Jingle Bells\" Orchestral Mix ♫"
+  },
+  {
+   "i": 115,
+   "start": 308.94,
+   "end": 309.82,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "(Explosion)"
+  },
+  {
+   "i": 116,
+   "start": 314.24,
+   "end": 315.36,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "(Ki blast sound)"
+  },
+  {
+   "i": 117,
+   "start": 319.38,
+   "end": 320.5,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "(warping sound)"
+  },
+  {
+   "i": 118,
+   "start": 323.06,
+   "end": 330.14,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "(warping sound)"
+  },
+  {
+   "i": 119,
+   "start": 330.52,
+   "end": 332.1,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Killing them isn't working!"
+  },
+  {
+   "i": 120,
+   "start": 332.8,
+   "end": 335.8,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "It's something in the air, Dad! (coughs)"
+  },
+  {
+   "i": 121,
+   "start": 335.88,
+   "end": 341.2,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "That's right, fools! Let's just say you're getting a little more than coal for Christmas."
+  },
+  {
+   "i": 122,
+   "start": 341.2,
+   "end": 342.12,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Freeza Day!"
+  },
+  {
+   "i": 123,
+   "start": 342.12,
+   "end": 343.76,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "F**K. OFF!!"
+  },
+  {
+   "i": 124,
+   "start": 343.76,
+   "end": 346.94,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "You know, Christmas is a time where we should all come together--"
+  },
+  {
+   "i": 125,
+   "start": 348.78,
+   "end": 351.62,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "You're right. So, let's all come together..."
+  },
+  {
+   "i": 126,
+   "start": 351.62,
+   "end": 354.22,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "...so you can all *die* together!"
+  },
+  {
+   "i": 127,
+   "start": 354.22,
+   "end": 357.24,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "God rest ye, Monkey gentlemen."
+  },
+  {
+   "i": 128,
+   "start": 359.76,
+   "end": 362.14,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ Christmas In Hollis by RUN-DMC playing in Bulma's ride ♫"
+  },
+  {
+   "i": 129,
+   "start": 362.14,
+   "end": 364.14,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Hey everyone~!"
+  },
+  {
+   "i": 130,
+   "start": 362.14,
+   "end": 365.96,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ Christmas In Hollis by RUN-DMC playing in Bulma's ride ♫"
+  },
+  {
+   "i": 131,
+   "start": 365.96,
+   "end": 369.7,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "I ran a bunch of tests on the gas, and I discovered that it's not just coal,"
+  },
+  {
+   "i": 132,
+   "start": 369.7,
+   "end": 372.6,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "but pure, concentrated *naughtiness*~!"
+  },
+  {
+   "i": 133,
+   "start": 372.6,
+   "end": 376.7,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "So I took some of baby Trunks' blood and synthesized enough niceness to destroy the--"
+  },
+  {
+   "i": 134,
+   "start": 376.7,
+   "end": 377.94,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Magic baby blood. Cool."
+  },
+  {
+   "i": 135,
+   "start": 377.94,
+   "end": 381.42,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Right? Now, I'm off to go destroy the other machines."
+  },
+  {
+   "i": 136,
+   "start": 381.42,
+   "end": 383.48,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Also, visit some African warlords."
+  },
+  {
+   "i": 137,
+   "start": 385.22,
+   "end": 387.88,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "(confused) Did-- ...did nobody shoot her?"
+  },
+  {
+   "i": 138,
+   "start": 387.88,
+   "end": 388.78,
+   "kind": "dialog",
+   "speaker": "Slug",
+   "text": "Why didn't you?"
+  },
+  {
+   "i": 139,
+   "start": 388.78,
+   "end": 390.48,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Because I have *you fools*!"
+  },
+  {
+   "i": 140,
+   "start": 390.48,
+   "end": 394.08,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "I'm sorry, dear brother, but I thought it was all about *you*."
+  },
+  {
+   "i": 141,
+   "start": 394.08,
+   "end": 395.42,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Oh stop being a prick!"
+  },
+  {
+   "i": 142,
+   "start": 395.42,
+   "end": 402.1,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "(ki blasts)"
+  },
+  {
+   "i": 143,
+   "start": 402.1,
+   "end": 404.1,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "(explosion)"
+  },
+  {
+   "i": 144,
+   "start": 406.22,
+   "end": 409.44,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Cathartic as that was, I don't think this is over."
+  },
+  {
+   "i": 145,
+   "start": 409.44,
+   "end": 412.62,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "That did feel more like a symptom than a cause."
+  },
+  {
+   "i": 146,
+   "start": 412.62,
+   "end": 414.82,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hold on! Let me check with the big guy upstairs."
+  },
+  {
+   "i": 147,
+   "start": 415.12,
+   "end": 416.18,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(telepathically) Hey, King Kai!"
+  },
+  {
+   "i": 148,
+   "start": 416.18,
+   "end": 419.38,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "(t) Oh, hey Goku! Merry Christmas!"
+  },
+  {
+   "i": 149,
+   "start": 419.38,
+   "end": 424.5,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Merry Christmas, King Kai! Quick question: Do you know if anyone is attacking the Earth, right now?"
+  },
+  {
+   "i": 150,
+   "start": 424.54,
+   "end": 428.76,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "(t) Oh yeah! *Real suspicious-looking* mini-moon sitting around in your upper atmosphere."
+  },
+  {
+   "i": 151,
+   "start": 428.76,
+   "end": 431.84,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "I was gonna tell you tomorrow since, you know, it's Christmas..."
+  },
+  {
+   "i": 152,
+   "start": 431.84,
+   "end": 433.54,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(t) But it's Christmas Eve, though."
+  },
+  {
+   "i": 153,
+   "start": 433.54,
+   "end": 434.96,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "(t) Not in this time zone."
+  },
+  {
+   "i": 154,
+   "start": 434.96,
+   "end": 438.84,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Anyway, that thing is *overflowing* with naughty energy."
+  },
+  {
+   "i": 155,
+   "start": 438.84,
+   "end": 442.14,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "So, whatever you do, be careful."
+  },
+  {
+   "i": 156,
+   "start": 442.14,
+   "end": 445.16,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Or don't. Whatever, I'm like, 5 eggnogs in."
+  },
+  {
+   "i": 157,
+   "start": 448.4,
+   "end": 453.22,
+   "kind": "dialog",
+   "speaker": "Dr. Lychee",
+   "text": "I see. You have failed me, my dark ornaments."
+  },
+  {
+   "i": 158,
+   "start": 453.22,
+   "end": 454.08,
+   "kind": "direction",
+   "speaker": null,
+   "text": "(villains' screams of agony)"
+  },
+  {
+   "i": 159,
+   "start": 454.08,
+   "end": 456.88,
+   "kind": "dialog",
+   "speaker": "Dr. Lychee",
+   "text": "But... it is of no concern."
+  },
+  {
+   "i": 160,
+   "start": 457.14,
+   "end": 463.64,
+   "kind": "dialog",
+   "speaker": "Dr. Lychee",
+   "text": "Soon... the whole *world* will know the *true* meaning of Christmas."
+  },
+  {
+   "i": 161,
+   "start": 463.64,
+   "end": 465.54,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Not on our watch!"
+  },
+  {
+   "i": 162,
+   "start": 465.54,
+   "end": 469.04,
+   "kind": "dialog",
+   "speaker": "Dr. Lychee",
+   "text": "Oh, good! You're right on time!"
+  },
+  {
+   "i": 163,
+   "start": 469.04,
+   "end": 474.32,
+   "kind": "dialog",
+   "speaker": "Dr. Lychee",
+   "text": "Welcome to my workshop... The Star of Death-lehem!"
+  },
+  {
+   "i": 164,
+   "start": 474.48,
+   "end": 476.8,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Wait, \"workshop\"? Like..."
+  },
+  {
+   "i": 165,
+   "start": 477.18,
+   "end": 478.95,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "\"Santa's... Workshop\"?"
+  },
+  {
+   "i": 166,
+   "start": 478.95,
+   "end": 482.34,
+   "kind": "dialog",
+   "speaker": "Dr. Lychee",
+   "text": "Yes... *My* workshop."
+  },
+  {
+   "i": 167,
+   "start": 482.34,
+   "end": 486.4,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(Long, Excited Gasp)"
+  },
+  {
+   "i": 168,
+   "start": 486.4,
+   "end": 488.26,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "SANTA!!"
+  },
+  {
+   "i": 169,
+   "start": 488.26,
+   "end": 491.08,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Dad, he is the one trying to destroy Christmas."
+  },
+  {
+   "i": 170,
+   "start": 491.08,
+   "end": 494.32,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Huh? But...that would make him..."
+  },
+  {
+   "i": 171,
+   "start": 494.92,
+   "end": 496.0,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "...*evil*!"
+  },
+  {
+   "i": 172,
+   "start": 496.0,
+   "end": 497.8,
+   "kind": "dialog",
+   "speaker": "Dr. Lychee",
+   "text": "I'm the one with the lists here."
+  },
+  {
+   "i": 173,
+   "start": 497.8,
+   "end": 503.54,
+   "kind": "dialog",
+   "speaker": "Dr. Lychee",
+   "text": "I decide good and evil... and you're *all* at the top of my naughty list!"
+  },
+  {
+   "i": 174,
+   "start": 503.84,
+   "end": 507.5,
+   "kind": "dialog",
+   "speaker": "Dr. Lychee",
+   "text": "Piccolo, you tried to subjugate the entire planet!"
+  },
+  {
+   "i": 175,
+   "start": 507.5,
+   "end": 509.64,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Pft. Sins of the father, much?"
+  },
+  {
+   "i": 176,
+   "start": 509.64,
+   "end": 515.84,
+   "kind": "dialog",
+   "speaker": "Dr. Lychee",
+   "text": "Trunks, you've completely destabilized the space-time continuum, with your reckless time-travel!"
+  },
+  {
+   "i": 177,
+   "start": 515.84,
+   "end": 517.0,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "That's absurd!"
+  },
+  {
+   "i": 178,
+   "start": 517.0,
+   "end": 521.54,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "(classic TV sound) I have no idea what you're talking about. The space-time continuum is fine."
+  },
+  {
+   "i": 179,
+   "start": 521.8,
+   "end": 523.78,
+   "kind": "dialog",
+   "speaker": "Dr. Lychee",
+   "text": "And *you*, Vegeta..."
+  },
+  {
+   "i": 180,
+   "start": 524.26,
+   "end": 527.98,
+   "kind": "dialog",
+   "speaker": "Dr. Lychee",
+   "text": "Jesus Christ, I-- ...I mean just... wow!"
+  },
+  {
+   "i": 181,
+   "start": 527.98,
+   "end": 530.08,
+   "kind": "dialog",
+   "speaker": "Dr. Lychee",
+   "text": "There's not enough time in the *day*..."
+  },
+  {
+   "i": 182,
+   "start": 530.08,
+   "end": 533.68,
+   "kind": "dialog",
+   "speaker": "Dr. Lychee",
+   "text": "But how about we *start* with the hole you put in my sleigh?!"
+  },
+  {
+   "i": 183,
+   "start": 533.68,
+   "end": 535.42,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "HA! I *did* hit him!"
+  },
+  {
+   "i": 184,
+   "start": 535.42,
+   "end": 537.6,
+   "kind": "dialog",
+   "speaker": "Dr. Lychee",
+   "text": "And *you*!"
+  },
+  {
+   "i": 185,
+   "start": 537.6,
+   "end": 538.12,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Um..."
+  },
+  {
+   "i": 186,
+   "start": 538.12,
+   "end": 547.4,
+   "kind": "dialog",
+   "speaker": "Dr. Lychee",
+   "text": "Your ceaseless lust for battle has endangered not only your family... but your *entire planet*! TIME, and time again!"
+  },
+  {
+   "i": 187,
+   "start": 547.4,
+   "end": 551.0,
+   "kind": "dialog",
+   "speaker": "Dr. Lychee",
+   "text": "You are a danger to the *entire universe*!"
+  },
+  {
+   "i": 188,
+   "start": 551.0,
+   "end": 552.8,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Whaat? That's crazy."
+  },
+  {
+   "i": 189,
+   "start": 552.8,
+   "end": 556.22,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "How could *I* ever endanger the whole universe?"
+  },
+  {
+   "i": 190,
+   "start": 559.08,
+   "end": 560.72,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Wait-- But, what about me?"
+  },
+  {
+   "i": 191,
+   "start": 560.72,
+   "end": 562.72,
+   "kind": "dialog",
+   "speaker": "Dr. Lychee",
+   "text": "You're actually on the nice list."
+  },
+  {
+   "i": 192,
+   "start": 562.94,
+   "end": 565.14,
+   "kind": "dialog",
+   "speaker": "Dr. Lychee",
+   "text": "Merry Christmas, Gohan."
+  },
+  {
+   "i": 193,
+   "start": 565.72,
+   "end": 568.84,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Oh wow. Thank you so much, Santa!"
+  },
+  {
+   "i": 194,
+   "start": 568.84,
+   "end": 569.96,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "I wonder what it-- (unwraps gift)"
+  },
+  {
+   "i": 195,
+   "start": 569.96,
+   "end": 572.84,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Oh, it's Moby Dick... (gasp) ...in French!"
+  },
+  {
+   "i": 196,
+   "start": 573.2,
+   "end": 575.04,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Merci beaucoup, Père Noël!"
+  },
+  {
+   "i": 197,
+   "start": 573.2,
+   "end": 575.04,
+   "kind": "direction",
+   "speaker": null,
+   "text": "(in French) Thank you very much, Father Christmas!"
+  },
+  {
+   "i": 198,
+   "start": 575.2,
+   "end": 579.86,
+   "kind": "dialog",
+   "speaker": "Dr. Lychee",
+   "text": "But for the rest of you, and this un-salvageable planet..."
+  },
+  {
+   "i": 199,
+   "start": 579.86,
+   "end": 582.38,
+   "kind": "dialog",
+   "speaker": "Dr. Lychee",
+   "text": "the only present I have is--"
+  },
+  {
+   "i": 200,
+   "start": 582.38,
+   "end": 586.54,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "FINAL FLAAAAAASH!!"
+  },
+  {
+   "i": 201,
+   "start": 585.3,
+   "end": 588.54,
+   "kind": "dialog",
+   "speaker": "Dr. Lychee",
+   "text": "GWAAAAHHH!!"
+  },
+  {
+   "i": 202,
+   "start": 589.48,
+   "end": 591.8,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "GOT HIM! MERRY CHRISTMAS FOR VEGETA!"
+  },
+  {
+   "i": 203,
+   "start": 591.8,
+   "end": 593.16,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Vegeta, noooo!"
+  },
+  {
+   "i": 204,
+   "start": 593.16,
+   "end": 594.9,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Vegeta, YEESS!!"
+  },
+  {
+   "i": 205,
+   "start": 596.0,
+   "end": 599.84,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Okay, so did we just... save Christmas?"
+  },
+  {
+   "i": 206,
+   "start": 599.84,
+   "end": 600.68,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "...Again?"
+  },
+  {
+   "i": 207,
+   "start": 600.68,
+   "end": 603.14,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "No. It's ruined."
+  },
+  {
+   "i": 208,
+   "start": 603.48,
+   "end": 607.38,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(crying) We killed Santaaa!!"
+  },
+  {
+   "i": 209,
+   "start": 607.38,
+   "end": 609.08,
+   "kind": "dialog",
+   "speaker": "Hatchiyack",
+   "text": "You fools!"
+  },
+  {
+   "i": 210,
+   "start": 609.68,
+   "end": 612.02,
+   "kind": "dialog",
+   "speaker": "Hatchiyack",
+   "text": "You cannot kill Santa!"
+  },
+  {
+   "i": 211,
+   "start": 612.02,
+   "end": 613.16,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I knew it!"
+  },
+  {
+   "i": 212,
+   "start": 613.16,
+   "end": 615.16,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"Silent Night\" Orchestral Mix ♫"
+  },
+  {
+   "i": 213,
+   "start": 619.0,
+   "end": 626.68,
+   "kind": "dialog",
+   "speaker": "Hatchiyack",
+   "text": "Prince of the Saiyans... *Yule* regret your actions against the mighty Claus!"
+  },
+  {
+   "i": 214,
+   "start": 626.68,
+   "end": 628.54,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Ah, \"yule\". Like the log, right--"
+  },
+  {
+   "i": 215,
+   "start": 628.54,
+   "end": 629.38,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Oh, holy night--!"
+  },
+  {
+   "i": 216,
+   "start": 629.38,
+   "end": 630.84,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "AARRRGGH!!"
+  },
+  {
+   "i": 217,
+   "start": 633.08,
+   "end": 639.46,
+   "kind": "dialog",
+   "speaker": "Hatchiyack",
+   "text": "What you destroyed was merely a leftover shell from my... Christmas Eve-olution."
+  },
+  {
+   "i": 218,
+   "start": 639.9,
+   "end": 647.2,
+   "kind": "dialog",
+   "speaker": "Hatchiyack",
+   "text": "You see, Saiyans... ...you're not dealing with the average Father Christmas, anymore."
+  },
+  {
+   "i": 219,
+   "start": 647.2,
+   "end": 650.52,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh my God, he's gone Super Santa!"
+  },
+  {
+   "i": 220,
+   "start": 650.52,
+   "end": 654.06,
+   "kind": "dialog",
+   "speaker": "Hatchiyack",
+   "text": "And I'm a right grumpy old elf!"
+  },
+  {
+   "i": 221,
+   "start": 654.06,
+   "end": 657.36,
+   "kind": "direction",
+   "speaker": null,
+   "text": "(Z-Fighters groaning in pain)"
+  },
+  {
+   "i": 222,
+   "start": 657.5,
+   "end": 659.0,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Oh! I'm out!"
+  },
+  {
+   "i": 223,
+   "start": 659.42,
+   "end": 661.9,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Eat your milk and cookies in Hell!!"
+  },
+  {
+   "i": 224,
+   "start": 662.24,
+   "end": 663.44,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "(ki blast)"
+  },
+  {
+   "i": 225,
+   "start": 663.44,
+   "end": 664.52,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "(explosion)"
+  },
+  {
+   "i": 226,
+   "start": 667.12,
+   "end": 668.44,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Yippee-ki-yay..."
+  },
+  {
+   "i": 227,
+   "start": 668.44,
+   "end": 670.02,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "(skyward) MOTHERFUCKER!!"
+  },
+  {
+   "i": 228,
+   "start": 674.18,
+   "end": 675.94,
+   "kind": "dialog",
+   "speaker": "Hatchiyack",
+   "text": "You better watch out."
+  },
+  {
+   "i": 229,
+   "start": 675.94,
+   "end": 677.46,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Umm..."
+  },
+  {
+   "i": 230,
+   "start": 677.46,
+   "end": 679.2,
+   "kind": "dialog",
+   "speaker": "Hatchiyack",
+   "text": "You better not cry."
+  },
+  {
+   "i": 231,
+   "start": 679.2,
+   "end": 680.78,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'Aw, this is my jam!'"
+  },
+  {
+   "i": 232,
+   "start": 680.78,
+   "end": 685.02,
+   "kind": "dialog",
+   "speaker": "Hatchiyack",
+   "text": "You better not pout, but you're gonna die."
+  },
+  {
+   "i": 233,
+   "start": 685.02,
+   "end": 686.88,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'I don't like this version.'"
+  },
+  {
+   "i": 234,
+   "start": 686.88,
+   "end": 691.56,
+   "kind": "dialog",
+   "speaker": "Hatchiyack",
+   "text": "♫ Santa Claus is taking you down. ♫"
+  },
+  {
+   "i": 235,
+   "start": 691.56,
+   "end": 693.38,
+   "kind": "dialog",
+   "speaker": "Hatchiyack",
+   "text": "Garland Gun...!"
+  },
+  {
+   "i": 236,
+   "start": 693.38,
+   "end": 694.1,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "You what, mate?"
+  },
+  {
+   "i": 237,
+   "start": 694.1,
+   "end": 695.98,
+   "kind": "dialog",
+   "speaker": "Hatchiyack",
+   "text": "...Fire!!"
+  },
+  {
+   "i": 238,
+   "start": 695.98,
+   "end": 696.56,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Shit!"
+  },
+  {
+   "i": 239,
+   "start": 696.56,
+   "end": 698.1,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "(explosion)"
+  },
+  {
+   "i": 240,
+   "start": 700.66,
+   "end": 702.2,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Why did you just stand there?"
+  },
+  {
+   "i": 241,
+   "start": 702.2,
+   "end": 705.68,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Haha, it's the last thing he'd expect."
+  },
+  {
+   "i": 242,
+   "start": 705.68,
+   "end": 707.08,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Merry Christmas, Dad."
+  },
+  {
+   "i": 243,
+   "start": 709.62,
+   "end": 710.3,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I gotcha, so--!"
+  },
+  {
+   "i": 244,
+   "start": 710.3,
+   "end": 710.82,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "WAAH!"
+  },
+  {
+   "i": 245,
+   "start": 711.68,
+   "end": 715.8,
+   "kind": "dialog",
+   "speaker": "Hatchiyack",
+   "text": "What child is this, who laid to rest on Santa's lap, is bleeding?!"
+  },
+  {
+   "i": 246,
+   "start": 716.16,
+   "end": 718.86,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "(painful groans)"
+  },
+  {
+   "i": 247,
+   "start": 719.9,
+   "end": 721.92,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "(ki blasts)"
+  },
+  {
+   "i": 248,
+   "start": 722.3,
+   "end": 723.32,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "(explosion)"
+  },
+  {
+   "i": 249,
+   "start": 726.78,
+   "end": 729.62,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Not really feeling the \"goodwill towards men\", up in here."
+  },
+  {
+   "i": 250,
+   "start": 729.62,
+   "end": 734.3,
+   "kind": "dialog",
+   "speaker": "Hatchiyack",
+   "text": "I'm all out of goodwill, but here's a stocking-stuffer for you!"
+  },
+  {
+   "i": 251,
+   "start": 734.3,
+   "end": 736.62,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Starting to get *real sick* of these Christmas pu--"
+  },
+  {
+   "i": 252,
+   "start": 736.62,
+   "end": 737.94,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "UH-BUH-BA, BUH-BA!"
+  },
+  {
+   "i": 253,
+   "start": 737.94,
+   "end": 739.54,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Mr. Piccolo!"
+  },
+  {
+   "i": 254,
+   "start": 739.54,
+   "end": 741.68,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "I'll punch your Christmas lights ou--!"
+  },
+  {
+   "i": 255,
+   "start": 741.68,
+   "end": 742.24,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "GAH-UUHG!"
+  },
+  {
+   "i": 256,
+   "start": 743.04,
+   "end": 744.84,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "(punching sounds)"
+  },
+  {
+   "i": 257,
+   "start": 745.76,
+   "end": 747.74,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'Oh man, this is bad!'"
+  },
+  {
+   "i": 258,
+   "start": 747.74,
+   "end": 750.62,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'They're getting pa rum pum pum pummeled up there!'"
+  },
+  {
+   "i": 259,
+   "start": 751.14,
+   "end": 754.68,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'Think, Goku. How do we save Christmas?'"
+  },
+  {
+   "i": 260,
+   "start": 755.94,
+   "end": 759.12,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'Wait... that's it! I see now!'"
+  },
+  {
+   "i": 261,
+   "start": 760.22,
+   "end": 762.9,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Guys! I figured out his weakness!"
+  },
+  {
+   "i": 262,
+   "start": 760.22,
+   "end": 762.9,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"Carol of the Bells\" by Trans-Siberian Orchestra ♫"
+  },
+  {
+   "i": 263,
+   "start": 762.9,
+   "end": 765.5,
+   "kind": "dialog",
+   "speaker": "Hatchiyack",
+   "text": "Ho ho... oooh?"
+  },
+  {
+   "i": 264,
+   "start": 767.04,
+   "end": 769.04,
+   "kind": "direction",
+   "speaker": null,
+   "text": "(fighing sounds)"
+  },
+  {
+   "i": 265,
+   "start": 772.66,
+   "end": 776.74,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "You see, Santa? Christmas isn't about the presents...!"
+  },
+  {
+   "i": 266,
+   "start": 777.76,
+   "end": 778.64,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "(explosion)"
+  },
+  {
+   "i": 267,
+   "start": 778.82,
+   "end": 780.86,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "It's not about the figgy pudding...!"
+  },
+  {
+   "i": 268,
+   "start": 782.38,
+   "end": 783.26,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "(explosion)"
+  },
+  {
+   "i": 269,
+   "start": 785.36,
+   "end": 791.08,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Or the pretty lights... ...or the *obnoxiously catchy* music."
+  },
+  {
+   "i": 270,
+   "start": 791.58,
+   "end": 793.14,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "And most of all..."
+  },
+  {
+   "i": 271,
+   "start": 793.7,
+   "end": 795.58,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "It's not about you!"
+  },
+  {
+   "i": 272,
+   "start": 796.86,
+   "end": 798.54,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "KAAAAAA..."
+  },
+  {
+   "i": 273,
+   "start": 799.88,
+   "end": 801.18,
+   "kind": "dialog",
+   "speaker": "Hatchiyack",
+   "text": "Fools!"
+  },
+  {
+   "i": 274,
+   "start": 801.18,
+   "end": 808.92,
+   "kind": "dialog",
+   "speaker": "Hatchiyack",
+   "text": "I'll crush your Christmas spirits, and then I'll send this naughty world to oblivion!!"
+  },
+  {
+   "i": 275,
+   "start": 809.12,
+   "end": 813.08,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Goku's right! Christmas is about the bonds that bring us together!"
+  },
+  {
+   "i": 276,
+   "start": 813.08,
+   "end": 815.08,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "It's about friends!"
+  },
+  {
+   "i": 277,
+   "start": 815.08,
+   "end": 816.16,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "And family!"
+  },
+  {
+   "i": 278,
+   "start": 816.16,
+   "end": 817.76,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "And killing Santa!!"
+  },
+  {
+   "i": 279,
+   "start": 818.1,
+   "end": 821.6,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "And that's the true meaning of Christmas!!"
+  },
+  {
+   "i": 280,
+   "start": 821.6,
+   "end": 823.88,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "HAAAAA!! (ki blast)"
+  },
+  {
+   "i": 281,
+   "start": 823.88,
+   "end": 825.1,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "HAAAAA!! (ki blast)"
+  },
+  {
+   "i": 282,
+   "start": 825.1,
+   "end": 826.02,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "HAAAAA!! (ki blast)"
+  },
+  {
+   "i": 283,
+   "start": 826.02,
+   "end": 826.86,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "HAAAAA!! (ki blast)"
+  },
+  {
+   "i": 284,
+   "start": 826.86,
+   "end": 828.24,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "HAAAAA!! (ki blast)"
+  },
+  {
+   "i": 285,
+   "start": 829.3,
+   "end": 836.54,
+   "kind": "dialog",
+   "speaker": "Hatchiyack",
+   "text": "Ho! Ho! No...!!"
+  },
+  {
+   "i": 286,
+   "start": 838.1,
+   "end": 839.66,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "(explosions)"
+  },
+  {
+   "i": 287,
+   "start": 840.94,
+   "end": 844.6,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "And now... he's Feliz Navi-dead."
+  },
+  {
+   "i": 288,
+   "start": 844.6,
+   "end": 846.36,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "And that's the last Christmas pun."
+  },
+  {
+   "i": 289,
+   "start": 846.36,
+   "end": 846.86,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "(POP)"
+  },
+  {
+   "i": 290,
+   "start": 846.86,
+   "end": 856.78,
+   "kind": "direction",
+   "speaker": null,
+   "text": "(explosions toward end of the world explosion)"
+  },
+  {
+   "i": 291,
+   "start": 862.34,
+   "end": 864.34,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "(POP)"
+  },
+  {
+   "i": 292,
+   "start": 862.34,
+   "end": 864.34,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(surprised) Woah! Hey guys!"
+  },
+  {
+   "i": 293,
+   "start": 864.34,
+   "end": 867.14,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Hey Goku, Gohan, Vegeta, Piccolo, and Trunks!"
+  },
+  {
+   "i": 294,
+   "start": 867.14,
+   "end": 869.36,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Gohan, where have you two been?"
+  },
+  {
+   "i": 295,
+   "start": 869.48,
+   "end": 871.58,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "We went to go see Santa."
+  },
+  {
+   "i": 296,
+   "start": 871.58,
+   "end": 872.9,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Awww."
+  },
+  {
+   "i": 297,
+   "start": 872.9,
+   "end": 873.84,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "And we killed him!"
+  },
+  {
+   "i": 298,
+   "start": 873.84,
+   "end": 875.46,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Ohhhh."
+  },
+  {
+   "i": 299,
+   "start": 875.46,
+   "end": 878.96,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Huh. Guess you had to be there. Anyway, who wants eggnog?!"
+  },
+  {
+   "i": 300,
+   "start": 878.96,
+   "end": 880.04,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Ooh, me!"
+  },
+  {
+   "i": 301,
+   "start": 880.04,
+   "end": 882.94,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Honestly, this is the best Christmas I've ever had."
+  },
+  {
+   "i": 302,
+   "start": 882.94,
+   "end": 885.66,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Damn right. A proper Saiyan Christmas!"
+  },
+  {
+   "i": 303,
+   "start": 886.06,
+   "end": 889.4,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "You know, a lot of people probably died in that smoke."
+  },
+  {
+   "i": 304,
+   "start": 889.4,
+   "end": 890.22,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh."
+  },
+  {
+   "i": 305,
+   "start": 890.22,
+   "end": 893.36,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Well, we can wish them all back... Tomorrow!"
+  },
+  {
+   "i": 306,
+   "start": 893.36,
+   "end": 894.94,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "YES! BOXING DAY!"
+  },
+  {
+   "i": 307,
+   "start": 894.94,
+   "end": 895.44,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "BAM"
+  },
+  {
+   "i": 308,
+   "start": 895.44,
+   "end": 896.68,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Ahh! My 'nog!"
+  },
+  {
+   "i": 309,
+   "start": 896.68,
+   "end": 899.08,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Merry Christmas to all!"
+  },
+  {
+   "i": 310,
+   "start": 899.08,
+   "end": 901.44,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "And to all, a good fight!"
+  },
+  {
+   "i": 311,
+   "start": 918.32,
+   "end": 921.38,
+   "kind": "dialog",
+   "speaker": "Kaiserneko",
+   "text": "Hey folks! Hope you enjoyed Plan to Eradicate Christmas!"
+  },
+  {
+   "i": 312,
+   "start": 921.38,
+   "end": 927.82,
+   "kind": "dialog",
+   "speaker": "Kaiserneko",
+   "text": "If you did, how about you take a sleigh ride over to our Discord and chat up other fans about it, and all the other projects we got going on?"
+  },
+  {
+   "i": 313,
+   "start": 927.82,
+   "end": 932.16,
+   "kind": "dialog",
+   "speaker": "Kaiserneko",
+   "text": "You can also ask us questions in the Q&amp;A channel, post and view fan art, and more!"
+  },
+  {
+   "i": 314,
+   "start": 932.16,
+   "end": 936.1,
+   "kind": "dialog",
+   "speaker": "Kaiserneko",
+   "text": "Merry Christmas, Happy Holidays, and lots of love, from Team Four Star!"
+  }
+ ],
+ "segments": [
+  {
+   "start": 18.4,
+   "end": 50.6,
+   "title": "Christmas Is Ho-Ho-Over",
+   "quote": "The world has been overcome by naughtiness. ... Christmas... is ho... ho... ...over.",
+   "line_start": 2,
+   "line_end": 9
+  },
+  {
+   "start": 148.8,
+   "end": 182.9,
+   "title": "Hoping to Kill Santa",
+   "quote": "I'd sit out on my porch and fire into the night sky, hoping to kill Santa. / I have an uncle?? / You *had* an uncle.",
+   "line_start": 47,
+   "line_end": 56
+  },
+  {
+   "start": 228.5,
+   "end": 268.7,
+   "title": "Villains of Freeza Day Past",
+   "quote": "How's the tree doing? / Destroyed. / And *this* is why we don't let the lower class have nice things.",
+   "line_start": 79,
+   "line_end": 97
+  },
+  {
+   "start": 361.6,
+   "end": 404.1,
+   "title": "Magic Baby Blood",
+   "quote": "Magic baby blood. Cool. / Also, visit some African warlords. / Did-- ...did nobody shoot her?",
+   "line_start": 128,
+   "line_end": 143
+  },
+  {
+   "start": 474.0,
+   "end": 503.5,
+   "title": "Santa's... Workshop?",
+   "quote": "SANTA!! / Dad, he is the one trying to destroy Christmas. / ...that would make him... *evil*!",
+   "line_start": 164,
+   "line_end": 173
+  },
+  {
+   "start": 503.3,
+   "end": 556.2,
+   "title": "The Naughty List",
+   "quote": "And *you*, Vegeta... Jesus Christ, I-- ...I mean just... wow! / HA! I *did* hit him!",
+   "line_start": 174,
+   "line_end": 189
+  },
+  {
+   "start": 558.6,
+   "end": 575.0,
+   "title": "Moby Dick... in French!",
+   "quote": "You're actually on the nice list. / Oh, it's Moby Dick... (gasp) ...in French! Merci beaucoup, Père Noël!",
+   "line_start": 190,
+   "line_end": 196
+  },
+  {
+   "start": 574.7,
+   "end": 607.4,
+   "title": "MERRY CHRISTMAS FOR VEGETA",
+   "quote": "FINAL FLAAAAAASH!! / GOT HIM! MERRY CHRISTMAS FOR VEGETA! / Vegeta, noooo! / Vegeta, YEESS!! / (crying) We killed Santaaa!!",
+   "line_start": 198,
+   "line_end": 208
+  },
+  {
+   "start": 607.0,
+   "end": 654.1,
+   "title": "Christmas Eve-olution",
+   "quote": "*Yule* regret your actions against the mighty Claus! / Oh my God, he's gone Super Santa!",
+   "line_start": 209,
+   "line_end": 220
+  },
+  {
+   "start": 659.0,
+   "end": 670.0,
+   "title": "Yippee-Ki-Yay",
+   "quote": "Eat your milk and cookies in Hell!! / Yippee-ki-yay... MOTHERFUCKER!!",
+   "line_start": 223,
+   "line_end": 227
+  },
+  {
+   "start": 673.7,
+   "end": 696.6,
+   "title": "Santa Claus Is Taking You Down",
+   "quote": "♫ Santa Claus is taking you down. ♫ / Garland Gun...! / You what, mate? / ...Fire!!",
+   "line_start": 228,
+   "line_end": 238
+  },
+  {
+   "start": 808.6,
+   "end": 844.6,
+   "title": "The True Meaning of Christmas",
+   "quote": "It's about friends! / And family! / And killing Santa!! / And now... he's Feliz Navi-dead.",
+   "line_start": 275,
+   "line_end": 287
+  },
+  {
+   "start": 885.6,
+   "end": 901.4,
+   "title": "YES! BOXING DAY!",
+   "quote": "Well, we can wish them all back... Tomorrow! / YES! BOXING DAY!",
+   "line_start": 303,
+   "line_end": 310
+  }
+ ]
+}

@@ -1,0 +1,1899 @@
+{
+ "item": "e16",
+ "show": "dbza",
+ "youtube": "ZTzOxQICJck",
+ "title": "Episode 14",
+ "duration": 531,
+ "lines": [
+  {
+   "i": 0,
+   "start": 7.84,
+   "end": 10.22,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Alright, Gohan... keep your power level down."
+  },
+  {
+   "i": 1,
+   "start": 10.46,
+   "end": 14.34,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "I’m trying, but I can’t seem to get it as low as yours, Krillin."
+  },
+  {
+   "i": 2,
+   "start": 14.34,
+   "end": 16.74,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "But I haven’t ev-- I mean, yeah!"
+  },
+  {
+   "i": 3,
+   "start": 17.3,
+   "end": 18.26,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Like me!"
+  },
+  {
+   "i": 4,
+   "start": 18.26,
+   "end": 20.92,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Hey, Krillin, look! The Dragon Balls!"
+  },
+  {
+   "i": 5,
+   "start": 21.16,
+   "end": 24.92,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "*Whoa*, those things are *huge*! AC/DC be *damned*!"
+  },
+  {
+   "i": 6,
+   "start": 25.76,
+   "end": 28.18,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Jeez... these aliens are scary."
+  },
+  {
+   "i": 7,
+   "start": 27.18,
+   "end": 27.68,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "Heh."
+  },
+  {
+   "i": 8,
+   "start": 28.8,
+   "end": 30.28,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Especially that one in the front."
+  },
+  {
+   "i": 9,
+   "start": 29.58,
+   "end": 30.28,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "He-heh, heh."
+  },
+  {
+   "i": 10,
+   "start": 30.62,
+   "end": 32.02,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Looks like a total FAG."
+  },
+  {
+   "i": 11,
+   "start": 32.02,
+   "end": 32.7,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Krillin!"
+  },
+  {
+   "i": 12,
+   "start": 32.96,
+   "end": 35.4,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "What? A \"Freaky Alien Genotype\"."
+  },
+  {
+   "i": 13,
+   "start": 35.9,
+   "end": 36.9,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "What’d you think I meant?"
+  },
+  {
+   "i": 14,
+   "start": 37.08,
+   "end": 40.62,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Oh. I thought you were calling him a derogatory term for a homosexual."
+  },
+  {
+   "i": 15,
+   "start": 40.62,
+   "end": 41.76,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "THAT THING’S A GUY?!"
+  },
+  {
+   "i": 16,
+   "start": 41.76,
+   "end": 43.62,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"Cha-La Head-Cha-La\" ♫"
+  },
+  {
+   "i": 17,
+   "start": 43.62,
+   "end": 46.38,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "♫ CHA-LA HEAD-CHA-LA ♫"
+  },
+  {
+   "i": 18,
+   "start": 47.14,
+   "end": 50.78,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "♫ Egao urutora zetto de ♫ (With a smile that’s Ultra-Z)"
+  },
+  {
+   "i": 19,
+   "start": 50.78,
+   "end": 54.1,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "♫ Kyô mo ai-yai-yai-yai-yai~ ♫ (Even today is ai-yai-yai-yai-yai~)"
+  },
+  {
+   "i": 20,
+   "start": 54.1,
+   "end": 55.84,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "♫ Sparking! [fading echo] ♫"
+  },
+  {
+   "i": 21,
+   "start": 62.52,
+   "end": 64.08,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "Hmm? What was that?"
+  },
+  {
+   "i": 22,
+   "start": 64.08,
+   "end": 65.46,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Nnngh..."
+  },
+  {
+   "i": 23,
+   "start": 64.08,
+   "end": 65.46,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Nnnuhhh...."
+  },
+  {
+   "i": 24,
+   "start": 65.8,
+   "end": 66.44,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Quack!"
+  },
+  {
+   "i": 25,
+   "start": 67.0,
+   "end": 69.0,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "Oh, it’s just a space duck."
+  },
+  {
+   "i": 26,
+   "start": 69.36,
+   "end": 70.64,
+   "kind": "dialog",
+   "speaker": "Mouri",
+   "text": "Who are you?"
+  },
+  {
+   "i": 27,
+   "start": 70.82,
+   "end": 73.42,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Hello. Allow us to introduce ourselves."
+  },
+  {
+   "i": 28,
+   "start": 73.42,
+   "end": 78.56,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "My name is Freeza, and we’re a traveling improv group. Here, let me give you a demonstration:"
+  },
+  {
+   "i": 29,
+   "start": 78.56,
+   "end": 83.46,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "My men shall play a group of drunken sailors, and you’re a bunch of baby seals."
+  },
+  {
+   "i": 30,
+   "start": 83.64,
+   "end": 84.46,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Aaaand, go."
+  },
+  {
+   "i": 31,
+   "start": 84.62,
+   "end": 85.24,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "POW"
+  },
+  {
+   "i": 32,
+   "start": 84.62,
+   "end": 85.24,
+   "kind": "dialog",
+   "speaker": "Namekian 1",
+   "text": "AGH!"
+  },
+  {
+   "i": 33,
+   "start": 85.64,
+   "end": 86.42,
+   "kind": "dialog",
+   "speaker": "Namekian 2",
+   "text": "GAAGH--guh!"
+  },
+  {
+   "i": 34,
+   "start": 86.58,
+   "end": 87.68,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Aaand, scene."
+  },
+  {
+   "i": 35,
+   "start": 88.04,
+   "end": 88.62,
+   "kind": "dialog",
+   "speaker": "Mouri",
+   "text": "Ugh..."
+  },
+  {
+   "i": 36,
+   "start": 88.04,
+   "end": 89.62,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Young Namekians whimper"
+  },
+  {
+   "i": 37,
+   "start": 89.62,
+   "end": 93.64,
+   "kind": "dialog",
+   "speaker": "Mouri",
+   "text": "What do you want from us? Why are you slaughtering our people?"
+  },
+  {
+   "i": 38,
+   "start": 92.64,
+   "end": 93.14,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Mmm!"
+  },
+  {
+   "i": 39,
+   "start": 93.7,
+   "end": 101.16,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Well, you see - I was just in the area, and I thought this would be a delightful place for a summer home-- what the f**k do you think I’m here for?!"
+  },
+  {
+   "i": 40,
+   "start": 102.08,
+   "end": 103.34,
+   "kind": "dialog",
+   "speaker": "Mouri",
+   "text": "...Our trees?"
+  },
+  {
+   "i": 41,
+   "start": 104.42,
+   "end": 105.56,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "...Zarbon, two or three more."
+  },
+  {
+   "i": 42,
+   "start": 105.56,
+   "end": 106.22,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Two or three more?"
+  },
+  {
+   "i": 43,
+   "start": 106.22,
+   "end": 106.82,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Two or three more."
+  },
+  {
+   "i": 44,
+   "start": 106.82,
+   "end": 107.44,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "POW"
+  },
+  {
+   "i": 45,
+   "start": 106.82,
+   "end": 107.44,
+   "kind": "dialog",
+   "speaker": "Namekian 3",
+   "text": "GAH!"
+  },
+  {
+   "i": 46,
+   "start": 107.44,
+   "end": 108.12,
+   "kind": "dialog",
+   "speaker": "Namekian 4",
+   "text": "GAAUGH!"
+  },
+  {
+   "i": 47,
+   "start": 108.74,
+   "end": 112.78,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Very good, Zarbon! See? Why can’t you be more like him, Dodoria?"
+  },
+  {
+   "i": 48,
+   "start": 112.92,
+   "end": 115.46,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "Sorreh. Just listening to the space duck."
+  },
+  {
+   "i": 49,
+   "start": 115.82,
+   "end": 117.44,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "QUACK! QUACK!"
+  },
+  {
+   "i": 50,
+   "start": 117.48,
+   "end": 119.48,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "What a majestic creature..."
+  },
+  {
+   "i": 51,
+   "start": 119.84,
+   "end": 122.26,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Now-h-how, then, all kidding aside…"
+  },
+  {
+   "i": 52,
+   "start": 122.62,
+   "end": 124.3,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Where’s the Dragon Ball?"
+  },
+  {
+   "i": 53,
+   "start": 124.52,
+   "end": 125.68,
+   "kind": "dialog",
+   "speaker": "Mouri",
+   "text": "We don’t have it."
+  },
+  {
+   "i": 54,
+   "start": 125.98,
+   "end": 135.4,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "You know, I’d be inclined to believe you if the last village elder didn’t say the exact same thing… until we killed everyone and tortured the information out of him, of course."
+  },
+  {
+   "i": 55,
+   "start": 135.76,
+   "end": 137.76,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Namekians grunt / whimper in fear"
+  },
+  {
+   "i": 56,
+   "start": 135.76,
+   "end": 141.18,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "It’s the darndest thing, too… you’re beginning to remind me a lot of him..."
+  },
+  {
+   "i": 57,
+   "start": 141.78,
+   "end": 143.88,
+   "kind": "dialog",
+   "speaker": "Mouri",
+   "text": "Please... do not be upset."
+  },
+  {
+   "i": 58,
+   "start": 143.88,
+   "end": 148.04,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Ohhh, I don’t get upset. I have people to do that for me."
+  },
+  {
+   "i": 59,
+   "start": 148.04,
+   "end": 148.78,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Dodoria..."
+  },
+  {
+   "i": 60,
+   "start": 148.78,
+   "end": 149.76,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "With gusto."
+  },
+  {
+   "i": 61,
+   "start": 150.0,
+   "end": 159.1,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Foreboding music; young Namekians whimper"
+  },
+  {
+   "i": 62,
+   "start": 159.1,
+   "end": 163.04,
+   "kind": "dialog",
+   "speaker": "Mouri",
+   "text": "(Grunting)"
+  },
+  {
+   "i": 63,
+   "start": 159.1,
+   "end": 163.04,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Foreboding music"
+  },
+  {
+   "i": 64,
+   "start": 163.04,
+   "end": 164.28,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Scouter beeps"
+  },
+  {
+   "i": 65,
+   "start": 164.28,
+   "end": 165.24,
+   "kind": "dialog",
+   "speaker": "Namekian Warrior",
+   "text": "Stop right there!"
+  },
+  {
+   "i": 66,
+   "start": 166.48,
+   "end": 168.34,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Musical swell (heroic music)"
+  },
+  {
+   "i": 67,
+   "start": 169.82,
+   "end": 172.52,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Oh, look - more baby seals."
+  },
+  {
+   "i": 68,
+   "start": 172.78,
+   "end": 173.5,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ ▶ ♫"
+  },
+  {
+   "i": 69,
+   "start": 172.78,
+   "end": 175.94,
+   "kind": "dialog",
+   "speaker": "Namekian Warrior",
+   "text": "We’re here to stop this senseless slaughter of our people."
+  },
+  {
+   "i": 70,
+   "start": 175.94,
+   "end": 176.7,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ ⏸ ♫"
+  },
+  {
+   "i": 71,
+   "start": 175.94,
+   "end": 177.26,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Ninety two..."
+  },
+  {
+   "i": 72,
+   "start": 177.26,
+   "end": 178.0,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ ▶ ♫"
+  },
+  {
+   "i": 73,
+   "start": 177.26,
+   "end": 181.16,
+   "kind": "dialog",
+   "speaker": "Namekian Warrior",
+   "text": "This has gone on for too long. And now, you’re going to pay."
+  },
+  {
+   "i": 74,
+   "start": 181.16,
+   "end": 181.9,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ ⏸ ♫"
+  },
+  {
+   "i": 75,
+   "start": 181.16,
+   "end": 182.7,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Three hundred and fifty-five…"
+  },
+  {
+   "i": 76,
+   "start": 182.7,
+   "end": 183.66,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ ▶ ♫"
+  },
+  {
+   "i": 77,
+   "start": 182.7,
+   "end": 183.66,
+   "kind": "dialog",
+   "speaker": "Namekian Warrior",
+   "text": "We are…"
+  },
+  {
+   "i": 78,
+   "start": 183.66,
+   "end": 184.52,
+   "kind": "dialog",
+   "speaker": "Namekian Warrior",
+   "text": "We…"
+  },
+  {
+   "i": 79,
+   "start": 184.52,
+   "end": 185.18,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ ⏸ ♫"
+  },
+  {
+   "i": 80,
+   "start": 184.52,
+   "end": 185.18,
+   "kind": "dialog",
+   "speaker": "Namekian Warrior",
+   "text": "What are you--"
+  },
+  {
+   "i": 81,
+   "start": 185.18,
+   "end": 187.18,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "No, go on, continue, don’t mind me."
+  },
+  {
+   "i": 82,
+   "start": 187.96,
+   "end": 189.26,
+   "kind": "dialog",
+   "speaker": "Namekian Warrior",
+   "text": "...Aaand…"
+  },
+  {
+   "i": 83,
+   "start": 188.46,
+   "end": 189.26,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ ▶ ♫"
+  },
+  {
+   "i": 84,
+   "start": 189.26,
+   "end": 191.1,
+   "kind": "dialog",
+   "speaker": "Namekian Warrior",
+   "text": "We are the ones who will stop you!"
+  },
+  {
+   "i": 85,
+   "start": 191.1,
+   "end": 191.9,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ ⏸ ♫"
+  },
+  {
+   "i": 86,
+   "start": 191.1,
+   "end": 192.9,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Ooh, wow, four hundred and nineteen."
+  },
+  {
+   "i": 87,
+   "start": 192.9,
+   "end": 193.4,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ ▶ ♫"
+  },
+  {
+   "i": 88,
+   "start": 192.9,
+   "end": 193.4,
+   "kind": "dialog",
+   "speaker": "Namekian Warrior",
+   "text": "That--"
+  },
+  {
+   "i": 89,
+   "start": 193.4,
+   "end": 194.2,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ ⏹ ♫ (Needle scratch)"
+  },
+  {
+   "i": 90,
+   "start": 193.4,
+   "end": 195.26,
+   "kind": "dialog",
+   "speaker": "Namekian Warrior",
+   "text": "What the Hell are you doing?!"
+  },
+  {
+   "i": 91,
+   "start": 195.26,
+   "end": 197.7,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Oh, sorry, it’s a little hobby of mine."
+  },
+  {
+   "i": 92,
+   "start": 197.7,
+   "end": 205.3,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "I hear these heroic speeches so wearily often, so I started making a mental list of how many times I’ve heard certain lines."
+  },
+  {
+   "i": 93,
+   "start": 205.84,
+   "end": 208.12,
+   "kind": "dialog",
+   "speaker": "Namekian Warrior",
+   "text": "You… You insane bastard!"
+  },
+  {
+   "i": 94,
+   "start": 208.12,
+   "end": 209.64,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "One hundred and ninety."
+  },
+  {
+   "i": 95,
+   "start": 209.9,
+   "end": 216.26,
+   "kind": "dialog",
+   "speaker": "Namekian Warrior",
+   "text": "Yeah? Well... uh... we’re going... to… F**K YOUR *FACE*!"
+  },
+  {
+   "i": 96,
+   "start": 216.26,
+   "end": 218.52,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Ho-ho-ho, my...!"
+  },
+  {
+   "i": 97,
+   "start": 218.52,
+   "end": 219.1,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Twelve."
+  },
+  {
+   "i": 98,
+   "start": 219.1,
+   "end": 219.98,
+   "kind": "dialog",
+   "speaker": "Namekian Warrior",
+   "text": "Hrrrrgh!"
+  },
+  {
+   "i": 99,
+   "start": 219.98,
+   "end": 221.1,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Zarbon, give the command!"
+  },
+  {
+   "i": 100,
+   "start": 221.1,
+   "end": 222.7,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Dodoria, give the command!"
+  },
+  {
+   "i": 101,
+   "start": 222.7,
+   "end": 223.28,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "*Get ‘em*."
+  },
+  {
+   "i": 102,
+   "start": 223.28,
+   "end": 225.72,
+   "kind": "dialog",
+   "speaker": "Freeza Mooks",
+   "text": "HAAAAAAAAAAAAAAAAA!"
+  },
+  {
+   "i": 103,
+   "start": 233.22,
+   "end": 235.04,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Krillin! We have to help them!"
+  },
+  {
+   "i": 104,
+   "start": 235.04,
+   "end": 237.64,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Gohan, we need to stick to the plan."
+  },
+  {
+   "i": 105,
+   "start": 237.64,
+   "end": 238.22,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "QUACK!"
+  },
+  {
+   "i": 106,
+   "start": 238.22,
+   "end": 241.32,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "What plan? You just keep quacking over and over."
+  },
+  {
+   "i": 107,
+   "start": 241.32,
+   "end": 243.4,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "And we’re still *alive*!"
+  },
+  {
+   "i": 108,
+   "start": 245.38,
+   "end": 248.28,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Sir, they seem to be stronger than we thought."
+  },
+  {
+   "i": 109,
+   "start": 248.28,
+   "end": 251.6,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Oh, how cute. They can hide their little power levels."
+  },
+  {
+   "i": 110,
+   "start": 251.82,
+   "end": 253.14,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "KABOOOM"
+  },
+  {
+   "i": 111,
+   "start": 251.82,
+   "end": 253.14,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Mook screams in the background"
+  },
+  {
+   "i": 112,
+   "start": 253.14,
+   "end": 254.7,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "Kinda killin’ our guys."
+  },
+  {
+   "i": 113,
+   "start": 255.0,
+   "end": 259.4,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Oh, we have more of those things back at the ship. It’s not like we’re losing anything valuable."
+  },
+  {
+   "i": 114,
+   "start": 260.02,
+   "end": 260.52,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "Gurrh!"
+  },
+  {
+   "i": 115,
+   "start": 263.12,
+   "end": 264.74,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Huh--ughhhhhh...."
+  },
+  {
+   "i": 116,
+   "start": 265.26,
+   "end": 268.74,
+   "kind": "dialog",
+   "speaker": "Mouri",
+   "text": "Hah! Now you can no longer find our villages!"
+  },
+  {
+   "i": 117,
+   "start": 269.42,
+   "end": 270.46,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "...*Dodoria*..."
+  },
+  {
+   "i": 118,
+   "start": 270.92,
+   "end": 271.9,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Kill them."
+  },
+  {
+   "i": 119,
+   "start": 271.9,
+   "end": 272.44,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "'K."
+  },
+  {
+   "i": 120,
+   "start": 273.4,
+   "end": 276.92,
+   "kind": "dialog",
+   "speaker": "Namekian Warrior",
+   "text": "Come on, bring it! There’s three of us, and one of you!"
+  },
+  {
+   "i": 121,
+   "start": 277.14,
+   "end": 280.34,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "Man~, you must suck at math even worse than me."
+  },
+  {
+   "i": 122,
+   "start": 280.54,
+   "end": 281.36,
+   "kind": "dialog",
+   "speaker": "Namekian Warrior",
+   "text": "What do you mean?"
+  },
+  {
+   "i": 123,
+   "start": 281.66,
+   "end": 283.66,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "There’s only TWO of you."
+  },
+  {
+   "i": 124,
+   "start": 284.04,
+   "end": 284.92,
+   "kind": "dialog",
+   "speaker": "Namekian Warrior",
+   "text": "That’s not right--"
+  },
+  {
+   "i": 125,
+   "start": 284.92,
+   "end": 286.5,
+   "kind": "dialog",
+   "speaker": "Namekian Warrior",
+   "text": "GAAAAAaah!"
+  },
+  {
+   "i": 126,
+   "start": 286.68,
+   "end": 288.44,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Light, whimsical music"
+  },
+  {
+   "i": 127,
+   "start": 291.42,
+   "end": 293.9,
+   "kind": "dialog",
+   "speaker": "Panchy",
+   "text": "Goku! It’s been too long!"
+  },
+  {
+   "i": 128,
+   "start": 294.02,
+   "end": 295.12,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hi there, Mrs. Briefs!"
+  },
+  {
+   "i": 129,
+   "start": 295.38,
+   "end": 298.54,
+   "kind": "dialog",
+   "speaker": "Panchy",
+   "text": "Oh Goku, you can call me what everyone else calls me."
+  },
+  {
+   "i": 130,
+   "start": 298.54,
+   "end": 299.24,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "What's that?"
+  },
+  {
+   "i": 131,
+   "start": 299.58,
+   "end": 300.14,
+   "kind": "dialog",
+   "speaker": "Panchy",
+   "text": "\"MILF\"."
+  },
+  {
+   "i": 132,
+   "start": 300.5,
+   "end": 304.3,
+   "kind": "dialog",
+   "speaker": "Panchy",
+   "text": "I have no idea what it means, but it’s just the cutest little name!"
+  },
+  {
+   "i": 133,
+   "start": 304.48,
+   "end": 308.3,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "Well, you are quite the MILF, honey. Now what are you doing out of the kitchen?"
+  },
+  {
+   "i": 134,
+   "start": 308.48,
+   "end": 310.04,
+   "kind": "dialog",
+   "speaker": "Panchy",
+   "text": "Oh! My mistake!"
+  },
+  {
+   "i": 135,
+   "start": 310.24,
+   "end": 312.42,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "Remember what I told you, sweetie:"
+  },
+  {
+   "i": 136,
+   "start": 312.42,
+   "end": 316.42,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "\"Wives are for kissing, not talking!\" (Laughs)"
+  },
+  {
+   "i": 137,
+   "start": 312.42,
+   "end": 316.42,
+   "kind": "dialog",
+   "speaker": "Panchy",
+   "text": "\"Wives are for kissing, not talking!\" (Laughs)"
+  },
+  {
+   "i": 138,
+   "start": 316.8,
+   "end": 318.28,
+   "kind": "dialog",
+   "speaker": "Panchy",
+   "text": "Have fun, you two!"
+  },
+  {
+   "i": 139,
+   "start": 318.56,
+   "end": 320.28,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Wow, is this the ship?"
+  },
+  {
+   "i": 140,
+   "start": 320.52,
+   "end": 325.1,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "Well, Bulma told me to start on it while you were in the hospital... in case anything went wrong."
+  },
+  {
+   "i": 141,
+   "start": 325.28,
+   "end": 325.78,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Krillin?"
+  },
+  {
+   "i": 142,
+   "start": 326.0,
+   "end": 326.5,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "Krillin."
+  },
+  {
+   "i": 143,
+   "start": 326.72,
+   "end": 328.72,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "The good thing is it’s almost all done."
+  },
+  {
+   "i": 144,
+   "start": 329.08,
+   "end": 333.68,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Wow! This is just the best day ever!"
+  },
+  {
+   "i": 145,
+   "start": 333.68,
+   "end": 334.38,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "BAM"
+  },
+  {
+   "i": 146,
+   "start": 334.6,
+   "end": 335.14,
+   "kind": "dialog",
+   "speaker": "Mouri",
+   "text": "Eugh!"
+  },
+  {
+   "i": 147,
+   "start": 336.04,
+   "end": 338.66,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "Whoops. Looks like I miscounted."
+  },
+  {
+   "i": 148,
+   "start": 339.04,
+   "end": 340.84,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "I must be havin’ an off day."
+  },
+  {
+   "i": 149,
+   "start": 341.12,
+   "end": 342.96,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Bravo, Dodoria!"
+  },
+  {
+   "i": 150,
+   "start": 343.22,
+   "end": 346.88,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Now, seeing as we have no one left to threaten you with…"
+  },
+  {
+   "i": 151,
+   "start": 346.88,
+   "end": 348.72,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Young Namekians whimper"
+  },
+  {
+   "i": 152,
+   "start": 346.88,
+   "end": 350.54,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Oh, wait, what are those *adorable* little things over there?"
+  },
+  {
+   "i": 153,
+   "start": 350.82,
+   "end": 352.06,
+   "kind": "dialog",
+   "speaker": "Mouri",
+   "text": "You wouldn’t...!"
+  },
+  {
+   "i": 154,
+   "start": 352.3,
+   "end": 354.62,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "They’re just so cute, though!"
+  },
+  {
+   "i": 155,
+   "start": 354.62,
+   "end": 358.58,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "I could just pinch their little heads off!"
+  },
+  {
+   "i": 156,
+   "start": 358.8,
+   "end": 363.46,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Are you going to make me do that? Because at this point, I could go both ways."
+  },
+  {
+   "i": 157,
+   "start": 363.46,
+   "end": 365.44,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "As could I, Lord Freeza."
+  },
+  {
+   "i": 158,
+   "start": 365.76,
+   "end": 369.94,
+   "kind": "dialog",
+   "speaker": "Mouri",
+   "text": "Fine. Here. Take the Ball! And leave us be."
+  },
+  {
+   "i": 159,
+   "start": 370.12,
+   "end": 375.04,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "See, Gohan? He’s handing over the Dragon Ball. Now no one else has to die."
+  },
+  {
+   "i": 160,
+   "start": 375.38,
+   "end": 377.7,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Oh, just one more question:"
+  },
+  {
+   "i": 161,
+   "start": 377.7,
+   "end": 382.68,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Could you point us in the direction of the next village? You seem to have destroyed our Scouters."
+  },
+  {
+   "i": 162,
+   "start": 382.68,
+   "end": 384.46,
+   "kind": "dialog",
+   "speaker": "Mouri",
+   "text": "That wasn’t part of our deal!"
+  },
+  {
+   "i": 163,
+   "start": 384.46,
+   "end": 386.4,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Annnd five hundred!"
+  },
+  {
+   "i": 164,
+   "start": 386.4,
+   "end": 388.26,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Dodoria, show them what they’ve won!"
+  },
+  {
+   "i": 165,
+   "start": 388.26,
+   "end": 388.76,
+   "kind": "dialog",
+   "speaker": "Mouri",
+   "text": "Uh!"
+  },
+  {
+   "i": 166,
+   "start": 388.76,
+   "end": 389.26,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "BLUH!"
+  },
+  {
+   "i": 167,
+   "start": 389.68,
+   "end": 390.48,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "BOOM"
+  },
+  {
+   "i": 168,
+   "start": 390.48,
+   "end": 392.24,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "DUN DUN DUN"
+  },
+  {
+   "i": 169,
+   "start": 392.7,
+   "end": 394.72,
+   "kind": "dialog",
+   "speaker": "Young Namekian",
+   "text": "Ah! (Whimpers)"
+  },
+  {
+   "i": 170,
+   "start": 394.72,
+   "end": 396.8,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Krillin! He’s *killing* them!"
+  },
+  {
+   "i": 171,
+   "start": 396.8,
+   "end": 398.8,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Happy thoughts, Gohan! Happy thoughts!"
+  },
+  {
+   "i": 172,
+   "start": 399.0,
+   "end": 401.54,
+   "kind": "dialog",
+   "speaker": "Mouri",
+   "text": "You… You killed my son!"
+  },
+  {
+   "i": 173,
+   "start": 401.66,
+   "end": 405.22,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "Yeah, sorreh 'bout that. How ‘bout I do you a favor?"
+  },
+  {
+   "i": 174,
+   "start": 405.38,
+   "end": 405.88,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "PEW"
+  },
+  {
+   "i": 175,
+   "start": 406.38,
+   "end": 406.94,
+   "kind": "dialog",
+   "speaker": "Mouri",
+   "text": "Huuh...?"
+  },
+  {
+   "i": 176,
+   "start": 407.72,
+   "end": 408.26,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "SNAK"
+  },
+  {
+   "i": 177,
+   "start": 407.72,
+   "end": 408.26,
+   "kind": "dialog",
+   "speaker": "Mouri",
+   "text": "Ugh--!"
+  },
+  {
+   "i": 178,
+   "start": 408.26,
+   "end": 408.86,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Thud"
+  },
+  {
+   "i": 179,
+   "start": 409.32,
+   "end": 411.32,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "There. Now ya won’t miss him."
+  },
+  {
+   "i": 180,
+   "start": 411.72,
+   "end": 412.62,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Nnnngh!"
+  },
+  {
+   "i": 181,
+   "start": 412.62,
+   "end": 415.44,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Oh, and while you’re at it, could you deal with the rest?"
+  },
+  {
+   "i": 182,
+   "start": 413.88,
+   "end": 415.44,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Young Namekian yells in fright"
+  },
+  {
+   "i": 183,
+   "start": 416.2,
+   "end": 416.8,
+   "kind": "dialog",
+   "speaker": "Young Namekian",
+   "text": "Uh!"
+  },
+  {
+   "i": 184,
+   "start": 416.8,
+   "end": 418.26,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "(Grunts of suppressed rage)"
+  },
+  {
+   "i": 185,
+   "start": 418.64,
+   "end": 422.54,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "I really do love kids. They don’t leave much of a mess."
+  },
+  {
+   "i": 186,
+   "start": 423.02,
+   "end": 426.12,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Breathe, Gohan! You’re a leaf! A leaf in a calm stream!"
+  },
+  {
+   "i": 187,
+   "start": 424.12,
+   "end": 426.12,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "(Grunts of suppressed rage)"
+  },
+  {
+   "i": 188,
+   "start": 426.12,
+   "end": 427.44,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "F**K THE STREAM!"
+  },
+  {
+   "i": 189,
+   "start": 428.16,
+   "end": 429.0,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "The Hell was--"
+  },
+  {
+   "i": 190,
+   "start": 429.0,
+   "end": 429.5,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "HURGH!"
+  },
+  {
+   "i": 191,
+   "start": 431.18,
+   "end": 433.54,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "Did I just get hit by a bowl cut?"
+  },
+  {
+   "i": 192,
+   "start": 433.82,
+   "end": 434.32,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "HURGH!"
+  },
+  {
+   "i": 193,
+   "start": 435.28,
+   "end": 435.78,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Quack!"
+  },
+  {
+   "i": 194,
+   "start": 439.44,
+   "end": 442.14,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Zarbon… what the Hell was that?"
+  },
+  {
+   "i": 195,
+   "start": 442.14,
+   "end": 444.7,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "I believe that was the space duck, sir."
+  },
+  {
+   "i": 196,
+   "start": 446.88,
+   "end": 448.7,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "This ship is awesome!"
+  },
+  {
+   "i": 197,
+   "start": 449.44,
+   "end": 451.5,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Now, where’s that button that makes blueberry muffins?"
+  },
+  {
+   "i": 198,
+   "start": 451.76,
+   "end": 454.92,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "There is no button like that. I never even considered that."
+  },
+  {
+   "i": 199,
+   "start": 455.08,
+   "end": 461.68,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Are you sure? It’d be really nice to wake up in the morning, push a button, and have muffins."
+  },
+  {
+   "i": 200,
+   "start": 462.12,
+   "end": 464.84,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "That’d be great... wink, wink."
+  },
+  {
+   "i": 201,
+   "start": 464.84,
+   "end": 466.46,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "Dammit, there is no Muffin Button!"
+  },
+  {
+   "i": 202,
+   "start": 466.46,
+   "end": 470.14,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Darn. So, is it ready to take off then, Dr. Briefs?"
+  },
+  {
+   "i": 203,
+   "start": 470.46,
+   "end": 473.78,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "Goodness, no! I still have to install the cappuccino machine!"
+  },
+  {
+   "i": 204,
+   "start": 474.1,
+   "end": 476.36,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "But… But I don’t even drink coffee!"
+  },
+  {
+   "i": 205,
+   "start": 476.36,
+   "end": 478.82,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "It’s not coffee, Goku, it’s cappuccino!"
+  },
+  {
+   "i": 206,
+   "start": 479.16,
+   "end": 481.9,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "Now stay here; I need to grab the parts from my shop."
+  },
+  {
+   "i": 207,
+   "start": 482.32,
+   "end": 488.78,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "Make sure not to touch anything - like the *gravity controls*... or the *Start Button*."
+  },
+  {
+   "i": 208,
+   "start": 489.86,
+   "end": 491.48,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "*The Start Button*."
+  },
+  {
+   "i": 209,
+   "start": 492.4,
+   "end": 496.0,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "*Don’t touch*... *the Start Button*."
+  },
+  {
+   "i": 210,
+   "start": 496.72,
+   "end": 497.8,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "Now I’ll be right back."
+  },
+  {
+   "i": 211,
+   "start": 498.08,
+   "end": 498.84,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Okey-Dokey."
+  },
+  {
+   "i": 212,
+   "start": 501.24,
+   "end": 502.58,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I wonder if this is the button..."
+  },
+  {
+   "i": 213,
+   "start": 502.04,
+   "end": 502.58,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "BEEP"
+  },
+  {
+   "i": 214,
+   "start": 503.08,
+   "end": 506.02,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Ship launch"
+  },
+  {
+   "i": 215,
+   "start": 503.08,
+   "end": 506.02,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Wheeeeeeeeee...!"
+  },
+  {
+   "i": 216,
+   "start": 506.34,
+   "end": 510.76,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "No! Goku! He’s blasted himself off into space!"
+  },
+  {
+   "i": 217,
+   "start": 511.3,
+   "end": 514.16,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Dramatic sting"
+  },
+  {
+   "i": 218,
+   "start": 511.3,
+   "end": 514.16,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "What has science dooone?!"
+  },
+  {
+   "i": 219,
+   "start": 515.58,
+   "end": 518.16,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "Sweetie, I do not see a sandwich with that beer."
+  },
+  {
+   "i": 220,
+   "start": 518.16,
+   "end": 520.8,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ Closing theme (DBZ intermission) ♫"
+  },
+  {
+   "i": 221,
+   "start": 520.8,
+   "end": 522.72,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "Captions by PyroAvok"
+  },
+  {
+   "i": 222,
+   "start": 523.94,
+   "end": 525.48,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Craft whooshing"
+  },
+  {
+   "i": 223,
+   "start": 525.48,
+   "end": 528.84,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Mmmm, those muffins smell like they’re almost done!"
+  }
+ ],
+ "segments": [
+  {
+   "start": 20.6,
+   "end": 41.8,
+   "title": "Freaky Alien Genotype",
+   "quote": "Looks like a total FAG. / What? A \"Freaky Alien Genotype\". / THAT THING’S A GUY?!",
+   "line_start": 5,
+   "line_end": 15
+  },
+  {
+   "start": 62.0,
+   "end": 69.0,
+   "title": "Space Duck",
+   "quote": "Quack! / Oh, it’s just a space duck.",
+   "line_start": 21,
+   "line_end": 25
+  },
+  {
+   "start": 70.3,
+   "end": 87.7,
+   "title": "A Traveling Improv Group",
+   "quote": "My men shall play a group of drunken sailors, and you’re a bunch of baby seals. Aaaand, go.",
+   "line_start": 27,
+   "line_end": 34
+  },
+  {
+   "start": 93.2,
+   "end": 108.2,
+   "title": "Two or Three More",
+   "quote": "...Zarbon, two or three more. / Two or three more? / Two or three more.",
+   "line_start": 39,
+   "line_end": 46
+  },
+  {
+   "start": 184.7,
+   "end": 205.4,
+   "title": "A Little Hobby of Mine",
+   "quote": "I hear these heroic speeches so wearily often, so I started making a mental list of how many times I’ve heard certain lines.",
+   "line_start": 81,
+   "line_end": 92
+  },
+  {
+   "start": 205.3,
+   "end": 219.3,
+   "title": "F**K YOUR FACE",
+   "quote": "You… You insane bastard! / One hundred and ninety. / ...F**K YOUR *FACE*! / Ho-ho-ho, my...! Twelve.",
+   "line_start": 93,
+   "line_end": 97
+  },
+  {
+   "start": 219.5,
+   "end": 223.3,
+   "title": "Give the Command",
+   "quote": "Zarbon, give the command! / Dodoria, give the command! / *Get ‘em*.",
+   "line_start": 99,
+   "line_end": 101
+  },
+  {
+   "start": 276.6,
+   "end": 286.5,
+   "title": "Suck at Math",
+   "quote": "Man~, you must suck at math even worse than me. / There’s only TWO of you.",
+   "line_start": 121,
+   "line_end": 125
+  },
+  {
+   "start": 291.0,
+   "end": 316.5,
+   "title": "Call Me MILF",
+   "quote": "\"MILF\". I have no idea what it means, but it’s just the cutest little name!",
+   "line_start": 127,
+   "line_end": 137
+  },
+  {
+   "start": 425.6,
+   "end": 435.8,
+   "title": "F**K THE STREAM!",
+   "quote": "F**K THE STREAM! / Did I just get hit by a bowl cut? / Quack!",
+   "line_start": 188,
+   "line_end": 193
+  },
+  {
+   "start": 448.9,
+   "end": 466.5,
+   "title": "The Muffin Button",
+   "quote": "Dammit, there is no Muffin Button!",
+   "line_start": 197,
+   "line_end": 201
+  },
+  {
+   "start": 481.8,
+   "end": 510.8,
+   "title": "Don't Touch the Start Button",
+   "quote": "*Don’t touch*... *the Start Button*. / Wheeeeeeeeee...! / What has science dooone?!",
+   "line_start": 207,
+   "line_end": 216
+  }
+ ]
+}

@@ -1,0 +1,138 @@
+---
+import Base from "../../../layouts/Base.astro";
+import site from "../../../gen/site.json";
+import { fmtTime, ytThumb, ytLink, mediaLabel, clipUrl } from "../../../lib/util.js";
+
+export function getStaticPaths() {
+  return site.clips
+    .filter((c) => c.status === "published")
+    .map((c) => ({ params: { show: c.show, slug: c.id }, props: { clip: c } }));
+}
+const { show, slug } = Astro.params;
+const { clip } = Astro.props;
+const m = site.media[show].find((x) => x.id === clip.media);
+
+const transcripts = import.meta.glob("../../../../content/transcripts/**/*.json", { eager: true });
+const t = transcripts[`../../../../content/transcripts/${show}/${clip.media}.json`];
+const inRange = (l) => l.end > clip.start && l.start < clip.end && l.kind === "dialog";
+const quoteLines = t.lines.filter(inRange);
+const first = t.lines.findIndex((l) => inRange(l));
+const ctx = first === -1 ? [] : t.lines.slice(Math.max(0, first - 4), first + quoteLines.length + 4);
+
+const others = site.clips
+  .filter((c) => c.status === "published" && c.media === clip.media && c.id !== clip.id)
+  .slice(0, 6);
+const desc = quoteLines.map((l) => (l.speaker ? `${l.speaker}: ${l.text}` : l.text)).join(" ").slice(0, 280);
+---
+
+<Base
+  title={`"${clip.title}" — ${mediaLabel(m)} | DBZA Quotes`}
+  description={desc || clip.quote}
+  ogImage={ytThumb(m.youtube)}
+  ogType="video.other"
+>
+  <p class="meta"><a href="/browse/">← Catalog</a></p>
+  <h1>“{clip.title}”</h1>
+  <p class="meta">
+    {clip.speaker && <span class="speaker">{clip.speaker}</span>} · {mediaLabel(m)} ·
+    {fmtTime(clip.start)} · {Math.round(clip.end - clip.start)}s
+  </p>
+
+  <div class="player-wrap"><div id="yt-player"></div></div>
+  <div class="caption-bar" id="caption"></div>
+
+  <div class="btn-row">
+    <button class="btn primary" id="play-clip">▶ Play clip</button>
+    <button class="btn" id="copy-link">Copy link</button>
+    <button class="btn" id="copy-yt">Copy YouTube link</button>
+    <button class="btn" id="copy-quote">Copy quote</button>
+    <a class="btn" href={clipUrl(show, clip.media, clip.start, clip.end)}>Open in editor</a>
+  </div>
+
+  <div class="card">
+    {quoteLines.map((l) => (
+      <div class="quote-line">
+        {l.speaker && <span class="speaker">{l.speaker}: </span>}{l.text}
+      </div>
+    ))}
+  </div>
+
+  <h2>In context</h2>
+  <div class="transcript card">
+    {ctx.map((l) => (
+      <div class={`line ${l.kind} ${inRange(l) ? "in-range" : ""}`} data-t={l.start}>
+        <span class="tstamp">{fmtTime(l.start)}</span>
+        <div class="text">
+          {l.kind === "dialog" ? (
+            <>{l.speaker && <span class="speaker">{l.speaker}: </span>}{l.text}</>
+          ) : (
+            <>[{l.text}]</>
+          )}
+        </div>
+      </div>
+    ))}
+  </div>
+  <p class="meta">
+    <a href={`/${show}/${clip.media}/#L${first === -1 ? 0 : first}`}>Full transcript →</a> ·
+    <a href={`/?q=${encodeURIComponent(clip.quote.split(" ").slice(0, 4).join(" "))}`}>Similar quotes →</a>
+  </p>
+
+  {others.length > 0 && (
+    <>
+      <h2>More from this episode</h2>
+      <div class="clip-grid">
+        {others.map((c) => (
+          <a class="clip-card" href={`/clip/${show}/${c.id}/`}>
+            <div class="pad">
+              <div class="title">{c.title}</div>
+              <div class="meta">{c.speaker} · {fmtTime(c.start)}</div>
+            </div>
+          </a>
+        ))}
+      </div>
+    </>
+  )}
+  <div class="toast" id="toast"></div>
+  <script
+    type="application/json"
+    id="clip-cfg"
+    set:html={JSON.stringify({
+      show,
+      media: clip.media,
+      start: clip.start,
+      end: clip.end,
+      quoteText: quoteLines.map((l) => (l.speaker ? `${l.speaker}: ${l.text}` : l.text)).join("\n"),
+    })}
+  />
+</Base>
+
+<script>
+  import { createClipPlayer } from "../../../lib/player.js";
+
+  const cfg = JSON.parse(document.getElementById("clip-cfg").textContent);
+  const data = await fetch(`/data/transcripts/${cfg.show}/${cfg.media}.json`).then((r) => r.json());
+  const player = await createClipPlayer({
+    mountId: "yt-player",
+    youtube: data.youtube,
+    lines: data.lines,
+    captionEl: document.getElementById("caption"),
+    start: cfg.start,
+  });
+  player.setRange(cfg.start, cfg.end);
+  document.getElementById("play-clip").addEventListener("click", () => player.playClip());
+
+  const toast = (msg) => {
+    const t = document.getElementById("toast");
+    t.textContent = msg; t.classList.add("show");
+    setTimeout(() => t.classList.remove("show"), 1800);
+  };
+  const copy = (text, msg) => navigator.clipboard.writeText(text).then(() => toast(msg));
+  document.getElementById("copy-link").addEventListener("click", () => copy(location.href, "Link copied"));
+  document.getElementById("copy-yt").addEventListener("click", () =>
+    copy(`https://youtu.be/${data.youtube}?t=${Math.floor(cfg.start)}`, "YouTube link copied"));
+  document.getElementById("copy-quote").addEventListener("click", () => copy(cfg.quoteText, "Quote copied"));
+
+  // seek from context lines
+  document.querySelectorAll(".transcript .line").forEach((el) =>
+    el.addEventListener("click", () => player.seek(parseFloat(el.dataset.t))));
+</script>

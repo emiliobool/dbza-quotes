@@ -1,0 +1,3347 @@
+{
+ "item": "m06",
+ "show": "dbza",
+ "youtube": "kIDHDif7fmo",
+ "title": "DragonBall Z Abridged SPECIAL: Bardock: Father of Goku",
+ "duration": 1189,
+ "lines": [
+  {
+   "i": 0,
+   "start": 9.64,
+   "end": 11.52,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Baby Goku is crying"
+  },
+  {
+   "i": 1,
+   "start": 11.52,
+   "end": 14.96,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "Long ago, on a planet long forgotten by time..."
+  },
+  {
+   "i": 2,
+   "start": 15.04,
+   "end": 20.42,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "A young hero was born; a righteous Saiyan warrior who would bring peace to the galaxy."
+  },
+  {
+   "i": 3,
+   "start": 20.68,
+   "end": 24.12,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "This... is *not* his story."
+  },
+  {
+   "i": 4,
+   "start": 24.4,
+   "end": 32.7,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "This is the story of *another* Saiyan warrior, who slaughtered millions of innocents and brought terror to those who heard his name."
+  },
+  {
+   "i": 5,
+   "start": 33.08,
+   "end": 35.3,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "And that name is..."
+  },
+  {
+   "i": 6,
+   "start": 35.6,
+   "end": 37.6,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"Dare\" ♫"
+  },
+  {
+   "i": 7,
+   "start": 48.74,
+   "end": 54.46,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "♫ Dare! Dare to believe you can survive ♫"
+  },
+  {
+   "i": 8,
+   "start": 56.02,
+   "end": 61.06,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "♫ You hold the future in your hand ♫"
+  },
+  {
+   "i": 9,
+   "start": 61.86,
+   "end": 67.56,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "♫ Dare! Dare to keep all your dreams alive ♫"
+  },
+  {
+   "i": 10,
+   "start": 68.96,
+   "end": 74.92,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "♫ The power is there at your command (Oh, oh!) ♫"
+  },
+  {
+   "i": 11,
+   "start": 74.92,
+   "end": 80.72,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "♫ Dare! There is a place where dreams survive ♫"
+  },
+  {
+   "i": 12,
+   "start": 82.1,
+   "end": 87.16,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "♫ It's calling you on to victory ♫"
+  },
+  {
+   "i": 13,
+   "start": 88.06,
+   "end": 89.74,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "♫ Dare! ♫ [fading echo]"
+  },
+  {
+   "i": 14,
+   "start": 94.68,
+   "end": 96.3,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "♫ Dare! ♫ [fading echo]"
+  },
+  {
+   "i": 15,
+   "start": 96.3,
+   "end": 99.32,
+   "kind": "direction",
+   "speaker": null,
+   "text": "fade out"
+  },
+  {
+   "i": 16,
+   "start": 99.32,
+   "end": 104.46,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Group of Saiyan warriors laugh (except Bardock)"
+  },
+  {
+   "i": 17,
+   "start": 104.46,
+   "end": 109.12,
+   "kind": "dialog",
+   "speaker": "Pumbukin",
+   "text": "And then I tell the guy, \"Don't be angry. I'm just Saiyan!\""
+  },
+  {
+   "i": 18,
+   "start": 109.12,
+   "end": 113.9,
+   "kind": "direction",
+   "speaker": null,
+   "text": "They laugh again"
+  },
+  {
+   "i": 19,
+   "start": 113.9,
+   "end": 115.66,
+   "kind": "dialog",
+   "speaker": "Pumbukin",
+   "text": "And then I tore out his throat."
+  },
+  {
+   "i": 20,
+   "start": 115.66,
+   "end": 117.52,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Wind blows"
+  },
+  {
+   "i": 21,
+   "start": 117.52,
+   "end": 120.62,
+   "kind": "dialog",
+   "speaker": "Toma",
+   "text": "Hey, Bardock. Heard you had another kid. Congrats."
+  },
+  {
+   "i": 22,
+   "start": 120.62,
+   "end": 121.54,
+   "kind": "dialog",
+   "speaker": "Toma",
+   "text": "Who's the mom?"
+  },
+  {
+   "i": 23,
+   "start": 121.54,
+   "end": 125.8,
+   "kind": "dialog",
+   "speaker": "Pumbukin",
+   "text": "I bet it's Selypa. I see the way you two look at each other."
+  },
+  {
+   "i": 24,
+   "start": 125.8,
+   "end": 128.34,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Nah; it'd never work out between us."
+  },
+  {
+   "i": 25,
+   "start": 128.34,
+   "end": 129.3,
+   "kind": "dialog",
+   "speaker": "Toma",
+   "text": "Why not?"
+  },
+  {
+   "i": 26,
+   "start": 129.3,
+   "end": 132.3,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Are you kidding? She's a raging *dyke*."
+  },
+  {
+   "i": 27,
+   "start": 132.3,
+   "end": 134.2,
+   "kind": "dialog",
+   "speaker": "Selypa",
+   "text": "I'm right here, you asshole!"
+  },
+  {
+   "i": 28,
+   "start": 135.36,
+   "end": 136.18,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "...And?"
+  },
+  {
+   "i": 29,
+   "start": 136.18,
+   "end": 138.0,
+   "kind": "dialog",
+   "speaker": "Selypa",
+   "text": "God, this is why I hate men!"
+  },
+  {
+   "i": 30,
+   "start": 138.0,
+   "end": 138.58,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "TUH"
+  },
+  {
+   "i": 31,
+   "start": 138.58,
+   "end": 139.56,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Point proven."
+  },
+  {
+   "i": 32,
+   "start": 139.74,
+   "end": 143.36,
+   "kind": "dialog",
+   "speaker": "Pumbukin",
+   "text": "So, uh, why did we attack this rock in the first place?"
+  },
+  {
+   "i": 33,
+   "start": 143.46,
+   "end": 146.96,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "I dunno. The mission briefing said this planet was full of psychics."
+  },
+  {
+   "i": 34,
+   "start": 146.96,
+   "end": 150.06,
+   "kind": "dialog",
+   "speaker": "Toma",
+   "text": "Wait a second... Doesn't that mean they can see the future?"
+  },
+  {
+   "i": 35,
+   "start": 150.32,
+   "end": 152.42,
+   "kind": "dialog",
+   "speaker": "Toma",
+   "text": "Don't you think they should have seen us coming?"
+  },
+  {
+   "i": 36,
+   "start": 152.42,
+   "end": 154.94,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Just because they're psychic doesn't mean they're smart."
+  },
+  {
+   "i": 37,
+   "start": 154.94,
+   "end": 158.32,
+   "kind": "dialog",
+   "speaker": "Toma",
+   "text": "But, aren't psychics supposed to have unbelievable mental--?"
+  },
+  {
+   "i": 38,
+   "start": 158.94,
+   "end": 162.08,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Dramatic sting"
+  },
+  {
+   "i": 39,
+   "start": 162.94,
+   "end": 164.78,
+   "kind": "dialog",
+   "speaker": "Kanassan",
+   "text": "I can see the futurrrre!"
+  },
+  {
+   "i": 40,
+   "start": 165.18,
+   "end": 166.72,
+   "kind": "dialog",
+   "speaker": "Pumbukin",
+   "text": "Hey, look! One survived."
+  },
+  {
+   "i": 41,
+   "start": 166.72,
+   "end": 168.78,
+   "kind": "dialog",
+   "speaker": "Kanassan",
+   "text": "OH, NO! THEY CAN SEE ME!"
+  },
+  {
+   "i": 42,
+   "start": 168.78,
+   "end": 171.26,
+   "kind": "dialog",
+   "speaker": "Kanassan",
+   "text": "I have to stop you from destroying my race!"
+  },
+  {
+   "i": 43,
+   "start": 171.44,
+   "end": 172.78,
+   "kind": "dialog",
+   "speaker": "Kanassan",
+   "text": "...In the future!"
+  },
+  {
+   "i": 44,
+   "start": 172.92,
+   "end": 174.58,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "We already did that."
+  },
+  {
+   "i": 45,
+   "start": 175.68,
+   "end": 177.34,
+   "kind": "dialog",
+   "speaker": "Kanassan",
+   "text": "I knew you'd do that!"
+  },
+  {
+   "i": 46,
+   "start": 177.48,
+   "end": 179.18,
+   "kind": "dialog",
+   "speaker": "Kanassan",
+   "text": "Now I have to kill you!"
+  },
+  {
+   "i": 47,
+   "start": 179.5,
+   "end": 180.04,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Guh!"
+  },
+  {
+   "i": 48,
+   "start": 180.74,
+   "end": 183.04,
+   "kind": "dialog",
+   "speaker": "Kanassan",
+   "text": "Now you too can see the future!"
+  },
+  {
+   "i": 49,
+   "start": 183.04,
+   "end": 184.08,
+   "kind": "dialog",
+   "speaker": "Kanassan",
+   "text": "WAHHH!"
+  },
+  {
+   "i": 50,
+   "start": 190.28,
+   "end": 192.12,
+   "kind": "dialog",
+   "speaker": "Kanassan",
+   "text": "I'M ON FIRE!"
+  },
+  {
+   "i": 51,
+   "start": 192.46,
+   "end": 193.2,
+   "kind": "dialog",
+   "speaker": "Kanassan",
+   "text": "AHHH!"
+  },
+  {
+   "i": 52,
+   "start": 196.32,
+   "end": 199.08,
+   "kind": "dialog",
+   "speaker": "Toma",
+   "text": "Well, that was... odd."
+  },
+  {
+   "i": 53,
+   "start": 199.24,
+   "end": 202.96,
+   "kind": "dialog",
+   "speaker": "Pumbukin",
+   "text": "Hey, Bardock. What do you think he meant about you seeing the future?"
+  },
+  {
+   "i": 54,
+   "start": 203.24,
+   "end": 203.92,
+   "kind": "dialog",
+   "speaker": "Pumbukin",
+   "text": "Bardock--?"
+  },
+  {
+   "i": 55,
+   "start": 204.72,
+   "end": 205.38,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Dramatic music"
+  },
+  {
+   "i": 56,
+   "start": 205.38,
+   "end": 207.6,
+   "kind": "dialog",
+   "speaker": "Pumbukin",
+   "text": "Bardock? Bardock?!"
+  },
+  {
+   "i": 57,
+   "start": 208.64,
+   "end": 211.34,
+   "kind": "dialog",
+   "speaker": "Pumbukin",
+   "text": "Say nothing if you want me to eat the remains of that alien!"
+  },
+  {
+   "i": 58,
+   "start": 214.12,
+   "end": 219.88,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Munching"
+  },
+  {
+   "i": 59,
+   "start": 231.06,
+   "end": 235.96,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Lord Freeza, the reports are saying that Kanassa has been seized."
+  },
+  {
+   "i": 60,
+   "start": 236.3,
+   "end": 238.76,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "[raspy] Thank you, Zarbon; that's very good to hea--"
+  },
+  {
+   "i": 61,
+   "start": 238.76,
+   "end": 242.98,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Hacking coughs"
+  },
+  {
+   "i": 62,
+   "start": 242.98,
+   "end": 246.66,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Ah, sorry about that; I had something in my throat."
+  },
+  {
+   "i": 63,
+   "start": 246.66,
+   "end": 248.2,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Continue, Zarbon."
+  },
+  {
+   "i": 64,
+   "start": 248.62,
+   "end": 254.92,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "The reports say that it was overtaken by a group of low-level Saiyans led by... Bardock."
+  },
+  {
+   "i": 65,
+   "start": 255.12,
+   "end": 258.02,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "Yeah, that Bardock's a pretty cool guy."
+  },
+  {
+   "i": 66,
+   "start": 258.14,
+   "end": 261.6,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "He conquers planets and doesn't afraid of anything."
+  },
+  {
+   "i": 67,
+   "start": 261.88,
+   "end": 265.86,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Hmm, \"doesn't afraid of anything\" indeed..."
+  },
+  {
+   "i": 68,
+   "start": 267.0,
+   "end": 269.0,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Bardock's visions"
+  },
+  {
+   "i": 69,
+   "start": 270.7,
+   "end": 271.8,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Groaning"
+  },
+  {
+   "i": 70,
+   "start": 272.96,
+   "end": 273.98,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'What...?'"
+  },
+  {
+   "i": 71,
+   "start": 273.98,
+   "end": 275.44,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'What's going on?'"
+  },
+  {
+   "i": 72,
+   "start": 276.32,
+   "end": 278.12,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'Is...that my planet?'"
+  },
+  {
+   "i": 73,
+   "start": 278.88,
+   "end": 280.6,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'Wait, who is...?'"
+  },
+  {
+   "i": 74,
+   "start": 281.06,
+   "end": 282.64,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'Is that my son?'"
+  },
+  {
+   "i": 75,
+   "start": 283.34,
+   "end": 284.7,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'Where is he?'"
+  },
+  {
+   "i": 76,
+   "start": 285.22,
+   "end": 286.38,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'Hold on...'"
+  },
+  {
+   "i": 77,
+   "start": 286.38,
+   "end": 288.54,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'Is he befriending that alien race?'"
+  },
+  {
+   "i": 78,
+   "start": 288.98,
+   "end": 290.76,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'Oh, I get it...'"
+  },
+  {
+   "i": 79,
+   "start": 290.76,
+   "end": 293.94,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'He must be earning their trust before he slaughters them all.'"
+  },
+  {
+   "i": 80,
+   "start": 294.38,
+   "end": 297.02,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'Wait... Now everything's gone dark.'"
+  },
+  {
+   "i": 81,
+   "start": 297.38,
+   "end": 299.38,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'Is... is it over?'"
+  },
+  {
+   "i": 82,
+   "start": 300.54,
+   "end": 301.3,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'Am I...?'"
+  },
+  {
+   "i": 83,
+   "start": 301.98,
+   "end": 302.68,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Hi."
+  },
+  {
+   "i": 84,
+   "start": 302.68,
+   "end": 304.5,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Dramatic sting; muffled scream"
+  },
+  {
+   "i": 85,
+   "start": 305.16,
+   "end": 308.82,
+   "kind": "dialog",
+   "speaker": "Scientist",
+   "text": "Bardock, are you all right? Your heart rate skyrocketed."
+  },
+  {
+   "i": 86,
+   "start": 308.82,
+   "end": 309.58,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "(Gasp)"
+  },
+  {
+   "i": 87,
+   "start": 309.58,
+   "end": 310.44,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "I'm OK!"
+  },
+  {
+   "i": 88,
+   "start": 310.8,
+   "end": 311.62,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "I'm OK."
+  },
+  {
+   "i": 89,
+   "start": 312.04,
+   "end": 314.96,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "It's just... *Eyes*."
+  },
+  {
+   "i": 90,
+   "start": 315.44,
+   "end": 316.8,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Where am I, anyway?"
+  },
+  {
+   "i": 91,
+   "start": 316.8,
+   "end": 320.02,
+   "kind": "dialog",
+   "speaker": "Scientist",
+   "text": "Well, you're on Freeza Planet Six Nine Two."
+  },
+  {
+   "i": 92,
+   "start": 320.02,
+   "end": 324.02,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Man, you'd think with all his free time he'd come up with better names for his planets."
+  },
+  {
+   "i": 93,
+   "start": 326.2,
+   "end": 330.44,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "So Lord Freeza, now that we have Kanassa under our command, what shall we--?"
+  },
+  {
+   "i": 94,
+   "start": 330.44,
+   "end": 332.0,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Four One Nine!"
+  },
+  {
+   "i": 95,
+   "start": 332.0,
+   "end": 333.3,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Right, right..."
+  },
+  {
+   "i": 96,
+   "start": 333.7,
+   "end": 336.82,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Anyway, where's my team? Are they already on a new mission?"
+  },
+  {
+   "i": 97,
+   "start": 336.82,
+   "end": 341.82,
+   "kind": "dialog",
+   "speaker": "Scientist",
+   "text": "Yes; well, it seems that Freeza passed down a new mission just two hours ago."
+  },
+  {
+   "i": 98,
+   "start": 342.14,
+   "end": 346.16,
+   "kind": "dialog",
+   "speaker": "Scientist",
+   "text": "By the way - while you're here, would you like to see your son, Kakarrot?"
+  },
+  {
+   "i": 99,
+   "start": 346.16,
+   "end": 347.1,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "\"Kaka-wha...\"?"
+  },
+  {
+   "i": 100,
+   "start": 347.1,
+   "end": 348.4,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Oh, right; his name."
+  },
+  {
+   "i": 101,
+   "start": 348.4,
+   "end": 352.32,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Nah; think I'll pass. Didn't pay attention to Raditz when he was growing up."
+  },
+  {
+   "i": 102,
+   "start": 352.32,
+   "end": 355.7,
+   "kind": "dialog",
+   "speaker": "Scientist",
+   "text": "Oh, yes; and we both know how he turned out..."
+  },
+  {
+   "i": 103,
+   "start": 356.96,
+   "end": 359.88,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Sounds of muffled crying"
+  },
+  {
+   "i": 104,
+   "start": 356.96,
+   "end": 359.88,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Hey there, Kakarrot. It's your Daddy!"
+  },
+  {
+   "i": 105,
+   "start": 360.16,
+   "end": 363.7,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Scouter is beeping"
+  },
+  {
+   "i": 106,
+   "start": 360.16,
+   "end": 363.7,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'Let's see what kind of power level we've got here... All right...'"
+  },
+  {
+   "i": 107,
+   "start": 363.7,
+   "end": 365.72,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'Whoahoahoahoahoahoa!'"
+  },
+  {
+   "i": 108,
+   "start": 365.72,
+   "end": 368.0,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'Ten thousand! *That's* my boy!'"
+  },
+  {
+   "i": 109,
+   "start": 368.0,
+   "end": 370.0,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'Uh, wait... \"Broly\"?'"
+  },
+  {
+   "i": 110,
+   "start": 370.62,
+   "end": 372.76,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'Ah, here we go. Kakarro-'"
+  },
+  {
+   "i": 111,
+   "start": 372.76,
+   "end": 375.76,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'-agh, aagh! Aaagh, aaagh!'"
+  },
+  {
+   "i": 112,
+   "start": 375.76,
+   "end": 377.9,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'*Two*?! Crap!'"
+  },
+  {
+   "i": 113,
+   "start": 378.2,
+   "end": 382.02,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "There is no possible way this day could get any more disappointing..."
+  },
+  {
+   "i": 114,
+   "start": 385.3,
+   "end": 388.02,
+   "kind": "dialog",
+   "speaker": "Toma",
+   "text": "Bardock's going to be so disappointed."
+  },
+  {
+   "i": 115,
+   "start": 388.02,
+   "end": 391.6,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "I think Bardock is the least of your concerns."
+  },
+  {
+   "i": 116,
+   "start": 391.6,
+   "end": 395.66,
+   "kind": "dialog",
+   "speaker": "Toma",
+   "text": "Why? I don't understand. We've served Freeza loyally."
+  },
+  {
+   "i": 117,
+   "start": 396.96,
+   "end": 404.28,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "Seems Freeza wants you dirty Saiyans out of the picture... and I'm just willing enough to oblige him."
+  },
+  {
+   "i": 118,
+   "start": 404.56,
+   "end": 406.22,
+   "kind": "dialog",
+   "speaker": "Toma",
+   "text": "Don't you get it?"
+  },
+  {
+   "i": 119,
+   "start": 406.22,
+   "end": 410.18,
+   "kind": "dialog",
+   "speaker": "Toma",
+   "text": "Chances are, someday he's just going to kill you, too."
+  },
+  {
+   "i": 120,
+   "start": 410.18,
+   "end": 416.08,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "Yeah, well, see... I'm more of a \"in-the-now\" kinda guy."
+  },
+  {
+   "i": 121,
+   "start": 416.08,
+   "end": 418.76,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "Like... \"What am I gonna *eat* now?\""
+  },
+  {
+   "i": 122,
+   "start": 419.14,
+   "end": 421.14,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "\"What am I gonna *kill* now?\""
+  },
+  {
+   "i": 123,
+   "start": 421.6,
+   "end": 425.04,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "And in this regard... you're probably gonna be both."
+  },
+  {
+   "i": 124,
+   "start": 425.54,
+   "end": 428.38,
+   "kind": "dialog",
+   "speaker": "Toma",
+   "text": "You... you won't get away with this."
+  },
+  {
+   "i": 125,
+   "start": 429.38,
+   "end": 430.32,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "Oh, yeah?"
+  },
+  {
+   "i": 126,
+   "start": 430.74,
+   "end": 432.26,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "Well tell me somethin'."
+  },
+  {
+   "i": 127,
+   "start": 432.46,
+   "end": 439.12,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "What looks like crap... feels like crap... and probably ain't gonna wake up in the mornin'?"
+  },
+  {
+   "i": 128,
+   "start": 439.12,
+   "end": 441.3,
+   "kind": "dialog",
+   "speaker": "Toma",
+   "text": "Is... Is it me?"
+  },
+  {
+   "i": 129,
+   "start": 441.48,
+   "end": 443.08,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "And that's the punchline."
+  },
+  {
+   "i": 130,
+   "start": 445.24,
+   "end": 447.44,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Whoa, looks like I'm late to the party."
+  },
+  {
+   "i": 131,
+   "start": 447.6,
+   "end": 448.16,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Where's the gan--?"
+  },
+  {
+   "i": 132,
+   "start": 450.16,
+   "end": 450.98,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "...Oh..."
+  },
+  {
+   "i": 133,
+   "start": 452.22,
+   "end": 457.16,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "...Oh. Oh, God! Guys... Tell me you're just resting in the blood of your enemies!"
+  },
+  {
+   "i": 134,
+   "start": 457.72,
+   "end": 458.5,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Selypa..."
+  },
+  {
+   "i": 135,
+   "start": 458.98,
+   "end": 459.9,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Totepo..."
+  },
+  {
+   "i": 136,
+   "start": 460.52,
+   "end": 461.42,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Pumbukin?"
+  },
+  {
+   "i": 137,
+   "start": 461.84,
+   "end": 462.46,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Toma?"
+  },
+  {
+   "i": 138,
+   "start": 462.46,
+   "end": 463.52,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Sounds of coughing"
+  },
+  {
+   "i": 139,
+   "start": 463.52,
+   "end": 465.3,
+   "kind": "dialog",
+   "speaker": "Toma",
+   "text": "P...present..."
+  },
+  {
+   "i": 140,
+   "start": 465.3,
+   "end": 466.06,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Toma!"
+  },
+  {
+   "i": 141,
+   "start": 467.16,
+   "end": 469.16,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Oh, thank God, Toma; you're OK."
+  },
+  {
+   "i": 142,
+   "start": 469.16,
+   "end": 471.82,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "I'll be honest - you're the only one I really cared about."
+  },
+  {
+   "i": 143,
+   "start": 472.04,
+   "end": 474.78,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Everyone else was kinda bland. 'Cept for Selypa."
+  },
+  {
+   "i": 144,
+   "start": 474.78,
+   "end": 476.48,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "She was the only one here with a decent pair of t--"
+  },
+  {
+   "i": 145,
+   "start": 476.48,
+   "end": 478.2,
+   "kind": "dialog",
+   "speaker": "Toma",
+   "text": "Bardock... listen."
+  },
+  {
+   "i": 146,
+   "start": 478.64,
+   "end": 480.54,
+   "kind": "dialog",
+   "speaker": "Toma",
+   "text": "Freeza's turned on us."
+  },
+  {
+   "i": 147,
+   "start": 480.78,
+   "end": 482.92,
+   "kind": "dialog",
+   "speaker": "Toma",
+   "text": "He's afraid of the Saiyans."
+  },
+  {
+   "i": 148,
+   "start": 483.08,
+   "end": 486.02,
+   "kind": "dialog",
+   "speaker": "Toma",
+   "text": "He sent someone to... to take us out."
+  },
+  {
+   "i": 149,
+   "start": 486.16,
+   "end": 488.36,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Oh, God! He sent the Ginyu Force?"
+  },
+  {
+   "i": 150,
+   "start": 488.52,
+   "end": 489.62,
+   "kind": "dialog",
+   "speaker": "Toma",
+   "text": "No..."
+  },
+  {
+   "i": 151,
+   "start": 489.62,
+   "end": 490.62,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Zarbon?"
+  },
+  {
+   "i": 152,
+   "start": 490.62,
+   "end": 491.46,
+   "kind": "dialog",
+   "speaker": "Toma",
+   "text": "No..."
+  },
+  {
+   "i": 153,
+   "start": 492.34,
+   "end": 493.26,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "...Dodoria?"
+  },
+  {
+   "i": 154,
+   "start": 493.7,
+   "end": 494.76,
+   "kind": "dialog",
+   "speaker": "Toma",
+   "text": "Sorry..."
+  },
+  {
+   "i": 155,
+   "start": 495.02,
+   "end": 497.18,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Listen - it won't end like this!"
+  },
+  {
+   "i": 156,
+   "start": 497.18,
+   "end": 500.66,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "We're not too far from a healing planet. We're gonna get you fixed up."
+  },
+  {
+   "i": 157,
+   "start": 500.66,
+   "end": 503.78,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "We'll get you better, we'll warn everyone else, and then we'll--"
+  },
+  {
+   "i": 158,
+   "start": 503.78,
+   "end": 506.2,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Wind blows"
+  },
+  {
+   "i": 159,
+   "start": 506.2,
+   "end": 508.6,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'...My best friend just died in my arms, didn't he?'"
+  },
+  {
+   "i": 160,
+   "start": 510.24,
+   "end": 510.94,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'Yep...'"
+  },
+  {
+   "i": 161,
+   "start": 511.54,
+   "end": 512.92,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'Yeeep...'"
+  },
+  {
+   "i": 162,
+   "start": 513.16,
+   "end": 514.04,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'All right.'"
+  },
+  {
+   "i": 163,
+   "start": 514.46,
+   "end": 515.3,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'Plan B.'"
+  },
+  {
+   "i": 164,
+   "start": 515.72,
+   "end": 518.74,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'Don't worry, my friends. You shall all be avenged.'"
+  },
+  {
+   "i": 165,
+   "start": 518.74,
+   "end": 522.86,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'If Freeza's afraid of us, I'm gonna *give* him something to be afraid of!'"
+  },
+  {
+   "i": 166,
+   "start": 523.16,
+   "end": 528.88,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'They don't know I'm still alive... and I'm gonna rain hot vengeance down upon every single one of those *sons of bi--*!'"
+  },
+  {
+   "i": 167,
+   "start": 533.42,
+   "end": 535.18,
+   "kind": "dialog",
+   "speaker": "Eachpe",
+   "text": "All right, guys; let's hit the sho--"
+  },
+  {
+   "i": 168,
+   "start": 535.18,
+   "end": 537.0,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Scouter beeps; ♫ \"Solid State Scouter\" ♫"
+  },
+  {
+   "i": 169,
+   "start": 535.18,
+   "end": 537.0,
+   "kind": "dialog",
+   "speaker": "Eachpe",
+   "text": "Tell-my-brother-Appule-I-love-him--!"
+  },
+  {
+   "i": 170,
+   "start": 537.0,
+   "end": 537.94,
+   "kind": "dialog",
+   "speaker": "Eachpe",
+   "text": "Aaagh...!"
+  },
+  {
+   "i": 171,
+   "start": 538.38,
+   "end": 540.2,
+   "kind": "dialog",
+   "speaker": "Mango",
+   "text": "Eachpe! No!"
+  },
+  {
+   "i": 172,
+   "start": 544.94,
+   "end": 546.44,
+   "kind": "dialog",
+   "speaker": "Mango",
+   "text": "Where the hell is he?"
+  },
+  {
+   "i": 173,
+   "start": 546.44,
+   "end": 549.58,
+   "kind": "dialog",
+   "speaker": "Lemi",
+   "text": "Keep sharp! These Saiyans can pull off all kinds of tricks!"
+  },
+  {
+   "i": 174,
+   "start": 549.58,
+   "end": 550.98,
+   "kind": "dialog",
+   "speaker": "Lemi",
+   "text": "You have to be very careful--"
+  },
+  {
+   "i": 175,
+   "start": 550.98,
+   "end": 551.7,
+   "kind": "dialog",
+   "speaker": "Mango",
+   "text": "Got him!"
+  },
+  {
+   "i": 176,
+   "start": 555.32,
+   "end": 557.14,
+   "kind": "dialog",
+   "speaker": "Mango",
+   "text": "Pierre! Nooo!"
+  },
+  {
+   "i": 177,
+   "start": 557.14,
+   "end": 559.1,
+   "kind": "dialog",
+   "speaker": "Mango",
+   "text": "You dirty monkey!"
+  },
+  {
+   "i": 178,
+   "start": 559.1,
+   "end": 561.2,
+   "kind": "dialog",
+   "speaker": "Lemi",
+   "text": "You're the one who killed him, you ass!"
+  },
+  {
+   "i": 179,
+   "start": 561.2,
+   "end": 563.28,
+   "kind": "dialog",
+   "speaker": "Mango",
+   "text": "Oh gee, Lemi; I never thought of it like tha--"
+  },
+  {
+   "i": 180,
+   "start": 563.28,
+   "end": 564.72,
+   "kind": "dialog",
+   "speaker": "Lemi",
+   "text": "*Shut the f*** up*!"
+  },
+  {
+   "i": 181,
+   "start": 564.88,
+   "end": 566.76,
+   "kind": "dialog",
+   "speaker": "Lemi",
+   "text": "AAAAAAAGH!"
+  },
+  {
+   "i": 182,
+   "start": 564.88,
+   "end": 566.76,
+   "kind": "dialog",
+   "speaker": "Mango",
+   "text": "AAAAARRGH!"
+  },
+  {
+   "i": 183,
+   "start": 566.92,
+   "end": 569.5,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'Man, I can't believe they lost to these guys!'"
+  },
+  {
+   "i": 184,
+   "start": 569.5,
+   "end": 570.32,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'What a bunch of--'"
+  },
+  {
+   "i": 185,
+   "start": 570.32,
+   "end": 572.02,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "TCHING"
+  },
+  {
+   "i": 186,
+   "start": 570.32,
+   "end": 572.02,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'Oh sweet crap, not again!'"
+  },
+  {
+   "i": 187,
+   "start": 572.22,
+   "end": 573.4,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Vision"
+  },
+  {
+   "i": 188,
+   "start": 572.22,
+   "end": 573.4,
+   "kind": "dialog",
+   "speaker": "Kakarrot",
+   "text": "Kaio-ken!"
+  },
+  {
+   "i": 189,
+   "start": 573.6,
+   "end": 574.28,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "\"Kaio-wha--\"?"
+  },
+  {
+   "i": 190,
+   "start": 574.28,
+   "end": 574.78,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "ARGH!"
+  },
+  {
+   "i": 191,
+   "start": 577.68,
+   "end": 578.18,
+   "kind": "dialog",
+   "speaker": "Mango",
+   "text": "Hiya!"
+  },
+  {
+   "i": 192,
+   "start": 578.18,
+   "end": 579.34,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"Solid State Scouter\" ♫ sharply fades out"
+  },
+  {
+   "i": 193,
+   "start": 578.18,
+   "end": 579.34,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "UUgh...!"
+  },
+  {
+   "i": 194,
+   "start": 580.24,
+   "end": 584.4,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "For years, you've kept us under your foot [...]"
+  },
+  {
+   "i": 195,
+   "start": 581.94,
+   "end": 584.4,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'What...? Is that me...?'"
+  },
+  {
+   "i": 196,
+   "start": 584.72,
+   "end": 585.6,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"Solid State Scouter\" fades in ♫"
+  },
+  {
+   "i": 197,
+   "start": 584.72,
+   "end": 585.6,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'That's it!'"
+  },
+  {
+   "i": 198,
+   "start": 586.74,
+   "end": 588.14,
+   "kind": "dialog",
+   "speaker": "Mango",
+   "text": "NOW, DIE!"
+  },
+  {
+   "i": 199,
+   "start": 588.46,
+   "end": 589.16,
+   "kind": "dialog",
+   "speaker": "Lemi",
+   "text": "WHAT THE FU--?!"
+  },
+  {
+   "i": 200,
+   "start": 589.66,
+   "end": 590.86,
+   "kind": "dialog",
+   "speaker": "Lemi",
+   "text": "GUAaah!"
+  },
+  {
+   "i": 201,
+   "start": 591.16,
+   "end": 594.04,
+   "kind": "dialog",
+   "speaker": "Lemi",
+   "text": "Goddammit, Mango, you team-killing f***tard!"
+  },
+  {
+   "i": 202,
+   "start": 594.04,
+   "end": 595.84,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"Solid State Scouter\" cuts off ♫"
+  },
+  {
+   "i": 203,
+   "start": 594.04,
+   "end": 595.84,
+   "kind": "dialog",
+   "speaker": "Lemi",
+   "text": "AAAARRGH...!"
+  },
+  {
+   "i": 204,
+   "start": 594.04,
+   "end": 595.84,
+   "kind": "dialog",
+   "speaker": "Mango",
+   "text": "AAAARRGH...!"
+  },
+  {
+   "i": 205,
+   "start": 598.92,
+   "end": 600.92,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'I understand what I have to do now...'"
+  },
+  {
+   "i": 206,
+   "start": 601.14,
+   "end": 602.68,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'I'm going to raise an army.'"
+  },
+  {
+   "i": 207,
+   "start": 602.98,
+   "end": 604.96,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'We're going to rebel against Freeza.'"
+  },
+  {
+   "i": 208,
+   "start": 605.2,
+   "end": 607.24,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'And nothing is going to stop me!'"
+  },
+  {
+   "i": 209,
+   "start": 607.24,
+   "end": 607.86,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Scouter beeps"
+  },
+  {
+   "i": 210,
+   "start": 607.86,
+   "end": 608.46,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'What the--?'"
+  },
+  {
+   "i": 211,
+   "start": 608.46,
+   "end": 610.74,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Dramatic sting"
+  },
+  {
+   "i": 212,
+   "start": 610.74,
+   "end": 611.54,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "Ooooorrr...!"
+  },
+  {
+   "i": 213,
+   "start": 611.54,
+   "end": 613.54,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "USELESS-ASS PSYCHIC POWERS!"
+  },
+  {
+   "i": 214,
+   "start": 613.54,
+   "end": 614.82,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "RHOOOAAGH!"
+  },
+  {
+   "i": 215,
+   "start": 615.38,
+   "end": 618.0,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "ERRRAAGHAAAGHAAAGH...!"
+  },
+  {
+   "i": 216,
+   "start": 623.94,
+   "end": 627.42,
+   "kind": "direction",
+   "speaker": null,
+   "text": "'Singing' \"Another One Bites the Dust\""
+  },
+  {
+   "i": 217,
+   "start": 623.94,
+   "end": 627.42,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "♪ Do-do-do, another one bites the dust ♪"
+  },
+  {
+   "i": 218,
+   "start": 627.42,
+   "end": 631.34,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "♪ Dodo-do-do-do, another one bites the dust ♪"
+  },
+  {
+   "i": 219,
+   "start": 631.34,
+   "end": 633.62,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "♪ And another one gone, and another one gone ♪"
+  },
+  {
+   "i": 220,
+   "start": 633.62,
+   "end": 635.56,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "♪ Another one bites the dust ♪"
+  },
+  {
+   "i": 221,
+   "start": 635.56,
+   "end": 637.48,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "♪ Hey, I'm gonna get you too ♪"
+  },
+  {
+   "i": 222,
+   "start": 637.48,
+   "end": 639.66,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "♪ Another one bites the dust... ♪"
+  },
+  {
+   "i": 223,
+   "start": 641.86,
+   "end": 644.06,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "[muffled] Oh, God! It's true!"
+  },
+  {
+   "i": 224,
+   "start": 644.26,
+   "end": 646.64,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "You really do soil yourself when you die!"
+  },
+  {
+   "i": 225,
+   "start": 646.82,
+   "end": 648.32,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Ah, it's everywhere!"
+  },
+  {
+   "i": 226,
+   "start": 648.68,
+   "end": 650.96,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "It's in my Dodoria wounds!"
+  },
+  {
+   "i": 227,
+   "start": 652.42,
+   "end": 654.84,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Sounds of coughing; initially muffled"
+  },
+  {
+   "i": 228,
+   "start": 655.28,
+   "end": 657.62,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Oh, well, uh, later, guys..."
+  },
+  {
+   "i": 229,
+   "start": 658.02,
+   "end": 659.46,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Off to raise that army..."
+  },
+  {
+   "i": 230,
+   "start": 659.84,
+   "end": 662.1,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Vengeance... yada, yada..."
+  },
+  {
+   "i": 231,
+   "start": 663.02,
+   "end": 667.32,
+   "kind": "dialog",
+   "speaker": "Operator 1",
+   "text": "All right, little guy. Time to send you to Planet... \"Ee-arth\"."
+  },
+  {
+   "i": 232,
+   "start": 667.44,
+   "end": 669.8,
+   "kind": "dialog",
+   "speaker": "Operator 2",
+   "text": "I think it's pronounced, \"Earth\"."
+  },
+  {
+   "i": 233,
+   "start": 670.04,
+   "end": 671.56,
+   "kind": "dialog",
+   "speaker": "Operator 1",
+   "text": "That sounds stupid."
+  },
+  {
+   "i": 234,
+   "start": 671.56,
+   "end": 672.68,
+   "kind": "dialog",
+   "speaker": "Operator 2",
+   "text": "You're stupid!"
+  },
+  {
+   "i": 235,
+   "start": 672.92,
+   "end": 675.78,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "So~ How did the mission go~?"
+  },
+  {
+   "i": 236,
+   "start": 676.12,
+   "end": 678.6,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "Complete Annihilation."
+  },
+  {
+   "i": 237,
+   "start": 678.6,
+   "end": 680.04,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Where are your men?"
+  },
+  {
+   "i": 238,
+   "start": 680.3,
+   "end": 682.74,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "Complete Annihilation."
+  },
+  {
+   "i": 239,
+   "start": 682.74,
+   "end": 687.74,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "So, you're absolutely sure you killed every single living thing on that planet?"
+  },
+  {
+   "i": 240,
+   "start": 687.74,
+   "end": 691.62,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "Complete... Annihilation."
+  },
+  {
+   "i": 241,
+   "start": 695.82,
+   "end": 698.44,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "So, \"Complete Annihilation\", huh?"
+  },
+  {
+   "i": 242,
+   "start": 698.44,
+   "end": 702.26,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "Uh-uh-uh-I'm sorry, Lord Freeza. I'll go take care of it right away!"
+  },
+  {
+   "i": 243,
+   "start": 702.26,
+   "end": 703.66,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Oh, forget about it."
+  },
+  {
+   "i": 244,
+   "start": 703.66,
+   "end": 707.34,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "He's already on a direct course for Planet S.O.L."
+  },
+  {
+   "i": 245,
+   "start": 707.84,
+   "end": 708.98,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "...Planet what?"
+  },
+  {
+   "i": 246,
+   "start": 709.72,
+   "end": 711.98,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Huuurrgghh... *Planet*--"
+  },
+  {
+   "i": 247,
+   "start": 711.98,
+   "end": 713.18,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "[panting] 'Vegeta!'"
+  },
+  {
+   "i": 248,
+   "start": 713.18,
+   "end": 715.08,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'I've gotta warn King Vegeta.'"
+  },
+  {
+   "i": 249,
+   "start": 715.38,
+   "end": 717.38,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"Bad to the Bone\" ♫ (radio)"
+  },
+  {
+   "i": 250,
+   "start": 726.12,
+   "end": 726.9,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "You guys!"
+  },
+  {
+   "i": 251,
+   "start": 727.4,
+   "end": 728.52,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Freeza's going to--"
+  },
+  {
+   "i": 252,
+   "start": 728.52,
+   "end": 729.1,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "D'aaugh!"
+  },
+  {
+   "i": 253,
+   "start": 729.1,
+   "end": 730.78,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Radio is turned off as Saiyans fall silent"
+  },
+  {
+   "i": 254,
+   "start": 730.78,
+   "end": 732.36,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Who put that table there?"
+  },
+  {
+   "i": 255,
+   "start": 732.68,
+   "end": 734.82,
+   "kind": "dialog",
+   "speaker": "Random Saiyan Dude",
+   "text": "Dude, Bardock, are you wasted?"
+  },
+  {
+   "i": 256,
+   "start": 734.82,
+   "end": 735.76,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Noo..."
+  },
+  {
+   "i": 257,
+   "start": 736.02,
+   "end": 737.38,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "But my crew is."
+  },
+  {
+   "i": 258,
+   "start": 737.38,
+   "end": 739.34,
+   "kind": "dialog",
+   "speaker": "Some Other Saiyan Dude",
+   "text": "You smell like poo!"
+  },
+  {
+   "i": 259,
+   "start": 739.52,
+   "end": 741.94,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Listen to me! We don't have much time."
+  },
+  {
+   "i": 260,
+   "start": 741.94,
+   "end": 744.72,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Freeza's on his way here and he plans to kill us all!"
+  },
+  {
+   "i": 261,
+   "start": 745.0,
+   "end": 746.76,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "We have to raise an army, and--"
+  },
+  {
+   "i": 262,
+   "start": 746.76,
+   "end": 748.1,
+   "kind": "dialog",
+   "speaker": "Random Saiyan Lady",
+   "text": "Your mom's an army!"
+  },
+  {
+   "i": 263,
+   "start": 748.1,
+   "end": 749.8,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Crowd starts laughing"
+  },
+  {
+   "i": 264,
+   "start": 749.8,
+   "end": 751.2,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "What are you, stupid?! Do you--?!"
+  },
+  {
+   "i": 265,
+   "start": 751.2,
+   "end": 753.04,
+   "kind": "dialog",
+   "speaker": "Another Saiyan Dude",
+   "text": "Your face is stupid!"
+  },
+  {
+   "i": 266,
+   "start": 753.04,
+   "end": 754.9,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Crowd starts laughing again"
+  },
+  {
+   "i": 267,
+   "start": 754.9,
+   "end": 757.54,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Eugh! Do you idiots even get it?"
+  },
+  {
+   "i": 268,
+   "start": 757.54,
+   "end": 760.66,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Freeza's about to commit genocide on our ENTIRE RACE!!"
+  },
+  {
+   "i": 269,
+   "start": 760.66,
+   "end": 762.58,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Crowd is shocked into silence"
+  },
+  {
+   "i": 270,
+   "start": 762.58,
+   "end": 764.06,
+   "kind": "dialog",
+   "speaker": "Yet Another Saiyan Dude",
+   "text": "Cool story, bro!"
+  },
+  {
+   "i": 271,
+   "start": 764.06,
+   "end": 765.08,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Crowd starts laughing"
+  },
+  {
+   "i": 272,
+   "start": 765.08,
+   "end": 767.58,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "You know what? F*** it! I'm done!"
+  },
+  {
+   "i": 273,
+   "start": 767.58,
+   "end": 769.66,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "I hope you all die and go to HELL!"
+  },
+  {
+   "i": 274,
+   "start": 769.66,
+   "end": 771.84,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Fading footsteps"
+  },
+  {
+   "i": 275,
+   "start": 771.84,
+   "end": 774.14,
+   "kind": "dialog",
+   "speaker": "And Another One",
+   "text": "Wow, that guy's a douche."
+  },
+  {
+   "i": 276,
+   "start": 774.42,
+   "end": 777.0,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'Screw them! I don't need an army.'"
+  },
+  {
+   "i": 277,
+   "start": 777.3,
+   "end": 780.86,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'I took on those elites; I can take on this tyrant!'"
+  },
+  {
+   "i": 278,
+   "start": 781.42,
+   "end": 785.22,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Freeza must be stopped... no matter the cost!"
+  },
+  {
+   "i": 279,
+   "start": 785.22,
+   "end": 787.94,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"The Touch\" ♫"
+  },
+  {
+   "i": 280,
+   "start": 787.94,
+   "end": 790.4,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "♫ You got the touch ♫"
+  },
+  {
+   "i": 281,
+   "start": 791.86,
+   "end": 796.54,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "♫ You got the powerrrrrrrrrr ♫"
+  },
+  {
+   "i": 282,
+   "start": 798.42,
+   "end": 799.74,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "♫ Yeah! ♫"
+  },
+  {
+   "i": 283,
+   "start": 800.34,
+   "end": 802.7,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Lord Freeza, Bardock is approaching from the planet--"
+  },
+  {
+   "i": 284,
+   "start": 802.7,
+   "end": 805.02,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Waves of Freeza-soldiers..."
+  },
+  {
+   "i": 285,
+   "start": 805.12,
+   "end": 807.32,
+   "kind": "dialog",
+   "speaker": "Freeza Mooks",
+   "text": "AAAAAAAGH!"
+  },
+  {
+   "i": 286,
+   "start": 807.42,
+   "end": 808.62,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "It's raining men!"
+  },
+  {
+   "i": 287,
+   "start": 808.62,
+   "end": 809.56,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Hallelujah!"
+  },
+  {
+   "i": 288,
+   "start": 809.56,
+   "end": 810.88,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "FREEZA!"
+  },
+  {
+   "i": 289,
+   "start": 812.08,
+   "end": 812.98,
+   "kind": "dialog",
+   "speaker": "Soldier",
+   "text": "Yeah! Take that--"
+  },
+  {
+   "i": 290,
+   "start": 812.98,
+   "end": 813.66,
+   "kind": "dialog",
+   "speaker": "Soldier",
+   "text": "AUGH!"
+  },
+  {
+   "i": 291,
+   "start": 813.66,
+   "end": 815.02,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "FREEZA!"
+  },
+  {
+   "i": 292,
+   "start": 818.86,
+   "end": 821.44,
+   "kind": "dialog",
+   "speaker": "Mooks",
+   "text": "EEEEGH!/AAAAGH!/[etc]"
+  },
+  {
+   "i": 293,
+   "start": 821.44,
+   "end": 825.3,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "FREEZAAA!"
+  },
+  {
+   "i": 294,
+   "start": 825.42,
+   "end": 828.66,
+   "kind": "dialog",
+   "speaker": "Soldier",
+   "text": "Ey yo Bardock, I'm really happy for ya, and I'ma let you finish, but--"
+  },
+  {
+   "i": 295,
+   "start": 828.66,
+   "end": 829.5,
+   "kind": "dialog",
+   "speaker": "Mooks",
+   "text": "BWAARGH!!"
+  },
+  {
+   "i": 296,
+   "start": 834.52,
+   "end": 836.88,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Sir, I think he wishes to have words."
+  },
+  {
+   "i": 297,
+   "start": 836.88,
+   "end": 839.2,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Oh, what*ever* gave you that impression?"
+  },
+  {
+   "i": 298,
+   "start": 839.44,
+   "end": 842.3,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Well, he does keep on shouting your name."
+  },
+  {
+   "i": 299,
+   "start": 842.3,
+   "end": 843.54,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "[speakers] FREEZA!"
+  },
+  {
+   "i": 300,
+   "start": 843.54,
+   "end": 845.08,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Just get my freaking bubble car."
+  },
+  {
+   "i": 301,
+   "start": 845.4,
+   "end": 846.76,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Too bad."
+  },
+  {
+   "i": 302,
+   "start": 846.76,
+   "end": 850.02,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "And that Bardock was such a dashing rogue..."
+  },
+  {
+   "i": 303,
+   "start": 851.08,
+   "end": 851.74,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "...What?"
+  },
+  {
+   "i": 304,
+   "start": 853.98,
+   "end": 858.34,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Jetsons bubble car SFX"
+  },
+  {
+   "i": 305,
+   "start": 859.42,
+   "end": 862.62,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "There you are, Freeza! I've been looking for you."
+  },
+  {
+   "i": 306,
+   "start": 862.62,
+   "end": 865.4,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Well, I'm not exactly *hard to find*!"
+  },
+  {
+   "i": 307,
+   "start": 865.6,
+   "end": 869.32,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "We've had enough of this! We're *done* working for you, Freeza!"
+  },
+  {
+   "i": 308,
+   "start": 869.32,
+   "end": 872.62,
+   "kind": "dialog",
+   "speaker": "Mook",
+   "text": "Uh, just so you know, that man does not speak for us!"
+  },
+  {
+   "i": 309,
+   "start": 872.62,
+   "end": 876.08,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "We're here to kill you, and take our planet for our own!"
+  },
+  {
+   "i": 310,
+   "start": 876.08,
+   "end": 878.1,
+   "kind": "dialog",
+   "speaker": "Mook",
+   "text": "Seriously, we're not with him!"
+  },
+  {
+   "i": 311,
+   "start": 878.1,
+   "end": 880.24,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "For years, you've kept us under your foot [...]"
+  },
+  {
+   "i": 312,
+   "start": 880.24,
+   "end": 884.66,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "'Ohhh *Lord*, these heroic types with their *speeches*.'"
+  },
+  {
+   "i": 313,
+   "start": 884.66,
+   "end": 886.82,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "'\"Blah, blah, blah, injustices.\"'"
+  },
+  {
+   "i": 314,
+   "start": 886.82,
+   "end": 888.44,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "'\"Blah, blah, blah, injustices. Blah, blah, blah, tyranny.\"'"
+  },
+  {
+   "i": 315,
+   "start": 888.44,
+   "end": 891.12,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "'\"Blah, blah, blah, injustices. Blah, blah, blah, tyranny. Blah, blah, blah, Freeza, stop killing me!\"'"
+  },
+  {
+   "i": 316,
+   "start": 891.12,
+   "end": 895.18,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "'*God*, does he have any idea how hard it is to run an empire?'"
+  },
+  {
+   "i": 317,
+   "start": 895.18,
+   "end": 898.12,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "'I've got *other* things to do today, you know...!'"
+  },
+  {
+   "i": 318,
+   "start": 898.3,
+   "end": 902.02,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "'Like decide what wine will I have for dinner tonight...'"
+  },
+  {
+   "i": 319,
+   "start": 902.02,
+   "end": 906.0,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "'White wine? Red wine? Or dare I say...'"
+  },
+  {
+   "i": 320,
+   "start": 906.0,
+   "end": 907.4,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "'...Rosé?'"
+  },
+  {
+   "i": 321,
+   "start": 907.4,
+   "end": 910.92,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "'Oh, perhaps I should give Cooler a call. His birthday's coming up.'"
+  },
+  {
+   "i": 322,
+   "start": 911.28,
+   "end": 912.66,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "'...Nah, he's a prick.'"
+  },
+  {
+   "i": 323,
+   "start": 912.94,
+   "end": 914.32,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "'Wait a second, where was I?'"
+  },
+  {
+   "i": 324,
+   "start": 914.32,
+   "end": 915.88,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "'Oh right; mass genocide.'"
+  },
+  {
+   "i": 325,
+   "start": 915.88,
+   "end": 918.16,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "[...] end your miserable life, once and for all!"
+  },
+  {
+   "i": 326,
+   "start": 918.9,
+   "end": 921.22,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Now... take this, Freeza!"
+  },
+  {
+   "i": 327,
+   "start": 921.46,
+   "end": 924.12,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "The *power* of the *Saiyan race*!!"
+  },
+  {
+   "i": 328,
+   "start": 924.12,
+   "end": 925.68,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "HYAAAH!"
+  },
+  {
+   "i": 329,
+   "start": 928.38,
+   "end": 929.74,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Dramatic music fades in"
+  },
+  {
+   "i": 330,
+   "start": 929.74,
+   "end": 934.72,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Hm-hm-hm-hm-hm-hm! HA-HA-HA-HA-HA-HA-HA-HA-HA! HA-HA-HA-HA-HA-HA-HA!"
+  },
+  {
+   "i": 331,
+   "start": 936.9,
+   "end": 941.7,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'Well, I'd say I should have seen this coming, but that would be ironic...'"
+  },
+  {
+   "i": 332,
+   "start": 942.06,
+   "end": 943.58,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "BOOOM"
+  },
+  {
+   "i": 333,
+   "start": 946.92,
+   "end": 950.16,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'I see it... My son... He--'"
+  },
+  {
+   "i": 334,
+   "start": 951.2,
+   "end": 952.9,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Vision"
+  },
+  {
+   "i": 335,
+   "start": 951.2,
+   "end": 952.9,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'...He's facing Freeza!'"
+  },
+  {
+   "i": 336,
+   "start": 953.42,
+   "end": 954.52,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'He's gonna do it!'"
+  },
+  {
+   "i": 337,
+   "start": 955.0,
+   "end": 956.66,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'He's going to avenge our people!'"
+  },
+  {
+   "i": 338,
+   "start": 957.42,
+   "end": 959.82,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'But, wait... Wait, there's more...'"
+  },
+  {
+   "i": 339,
+   "start": 960.1,
+   "end": 964.46,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'He fights... a giant green bug... man...'"
+  },
+  {
+   "i": 340,
+   "start": 965.14,
+   "end": 969.92,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'And then a... giant... pink... man-child...'"
+  },
+  {
+   "i": 341,
+   "start": 971.12,
+   "end": 975.28,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'...Oh, no. It's dark again! Where...? What is...?'"
+  },
+  {
+   "i": 342,
+   "start": 975.28,
+   "end": 977.0,
+   "kind": "dialog",
+   "speaker": "Bon Para",
+   "text": "Bonparapara..."
+  },
+  {
+   "i": 343,
+   "start": 977.0,
+   "end": 978.84,
+   "kind": "dialog",
+   "speaker": "Para Para Brothers",
+   "text": "...bonpappa!"
+  },
+  {
+   "i": 344,
+   "start": 978.84,
+   "end": 979.94,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Dance music booming from speakers"
+  },
+  {
+   "i": 345,
+   "start": 979.94,
+   "end": 983.8,
+   "kind": "dialog",
+   "speaker": "Bon Para",
+   "text": "Bonparapara, bonparapara, bonparapara, bonparapara!"
+  },
+  {
+   "i": 346,
+   "start": 983.94,
+   "end": 986.66,
+   "kind": "dialog",
+   "speaker": "Don Para",
+   "text": "I'm gonna lay this one down thick like whole milk!"
+  },
+  {
+   "i": 347,
+   "start": 987.94,
+   "end": 991.54,
+   "kind": "dialog",
+   "speaker": "Son Para",
+   "text": "Raise the cane, ra-ra, ra-ra-raise!"
+  },
+  {
+   "i": 348,
+   "start": 991.54,
+   "end": 995.38,
+   "kind": "dialog",
+   "speaker": "Bon Para",
+   "text": "Bonparapara, bonparapara, bonparapara, bonparapara!"
+  },
+  {
+   "i": 349,
+   "start": 995.38,
+   "end": 998.82,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Vision ends"
+  },
+  {
+   "i": 350,
+   "start": 995.38,
+   "end": 998.82,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'And I now welcome the sweet embrace of death...'"
+  },
+  {
+   "i": 351,
+   "start": 1000.74,
+   "end": 1003.0,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "BOOOM"
+  },
+  {
+   "i": 352,
+   "start": 1007.12,
+   "end": 1008.3,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "Monsieur Cooler!"
+  },
+  {
+   "i": 353,
+   "start": 1008.3,
+   "end": 1011.46,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "It seems that your brother is destroying ze Planet Vegeta!"
+  },
+  {
+   "i": 354,
+   "start": 1011.72,
+   "end": 1014.76,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "Very impressive, killing off a bunch of monkeys."
+  },
+  {
+   "i": 355,
+   "start": 1014.96,
+   "end": 1018.68,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "Any liquored-up hillbilly with a shotgun could have done that at the zoo..."
+  },
+  {
+   "i": 356,
+   "start": 1018.9,
+   "end": 1022.24,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "Wait, sir! It seems he has missed one ship."
+  },
+  {
+   "i": 357,
+   "start": 1022.24,
+   "end": 1023.76,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "We are within range to intercept--"
+  },
+  {
+   "i": 358,
+   "start": 1023.76,
+   "end": 1025.46,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "No. Let it go."
+  },
+  {
+   "i": 359,
+   "start": 1025.46,
+   "end": 1026.82,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "But, why?"
+  },
+  {
+   "i": 360,
+   "start": 1027.74,
+   "end": 1029.46,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "...Because I'm a prick."
+  },
+  {
+   "i": 361,
+   "start": 1029.88,
+   "end": 1039.92,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "And so, Planet Vegeta was destroyed, along with all its inhabitants... save a lone Saiyan child... and his brother."
+  },
+  {
+   "i": 362,
+   "start": 1040.42,
+   "end": 1042.04,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "...And a space pirate."
+  },
+  {
+   "i": 363,
+   "start": 1042.28,
+   "end": 1043.9,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "...And a renegade monster and his father."
+  },
+  {
+   "i": 364,
+   "start": 1044.24,
+   "end": 1046.06,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "...And, of course, Prince--"
+  },
+  {
+   "i": 365,
+   "start": 1046.06,
+   "end": 1047.06,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Vegeta!"
+  },
+  {
+   "i": 366,
+   "start": 1047.06,
+   "end": 1048.26,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "What is it, Nappa?"
+  },
+  {
+   "i": 367,
+   "start": 1048.38,
+   "end": 1051.84,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Well, I've got good news... aaand bad news."
+  },
+  {
+   "i": 368,
+   "start": 1051.84,
+   "end": 1058.22,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "The *bad* news is... reports say our entire planet has been destroyed by a gigantic meteorite along with all its inhabitants."
+  },
+  {
+   "i": 369,
+   "start": 1058.22,
+   "end": 1059.92,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Aah... but, what about--"
+  },
+  {
+   "i": 370,
+   "start": 1059.92,
+   "end": 1061.08,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Aaand your father."
+  },
+  {
+   "i": 371,
+   "start": 1061.36,
+   "end": 1064.38,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "My whole family...! My race!"
+  },
+  {
+   "i": 372,
+   "start": 1064.38,
+   "end": 1067.08,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "But the good news is we're going to Dairy Queen!"
+  },
+  {
+   "i": 373,
+   "start": 1067.08,
+   "end": 1068.78,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "My entire race is gone--!"
+  },
+  {
+   "i": 374,
+   "start": 1068.78,
+   "end": 1070.8,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "DAIRRRY QUEEEEEN!"
+  },
+  {
+   "i": 375,
+   "start": 1072.0,
+   "end": 1073.86,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Just take me to the damn queen, Nappa."
+  },
+  {
+   "i": 376,
+   "start": 1073.86,
+   "end": 1079.66,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Yaaaay! This seems like the beginning of a beauuuutiful friendship..."
+  },
+  {
+   "i": 377,
+   "start": 1079.66,
+   "end": 1081.66,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Sounds of crying in the distance"
+  },
+  {
+   "i": 378,
+   "start": 1085.16,
+   "end": 1088.6,
+   "kind": "dialog",
+   "speaker": "Grandpa Gohan",
+   "text": "Oh, look. Someone threw out a perfectly good baby."
+  },
+  {
+   "i": 379,
+   "start": 1088.92,
+   "end": 1091.08,
+   "kind": "dialog",
+   "speaker": "Grandpa Gohan",
+   "text": "Aren't you just adorable?"
+  },
+  {
+   "i": 380,
+   "start": 1091.42,
+   "end": 1093.62,
+   "kind": "dialog",
+   "speaker": "Grandpa Gohan",
+   "text": "I think I'm gonna call you..."
+  },
+  {
+   "i": 381,
+   "start": 1094.0,
+   "end": 1095.02,
+   "kind": "dialog",
+   "speaker": "Grandpa Gohan",
+   "text": "\"Clark\"."
+  },
+  {
+   "i": 382,
+   "start": 1095.46,
+   "end": 1098.78,
+   "kind": "dialog",
+   "speaker": "Grandpa Gohan",
+   "text": "Heeeey, Claaarrrk..."
+  },
+  {
+   "i": 383,
+   "start": 1099.12,
+   "end": 1100.94,
+   "kind": "dialog",
+   "speaker": "Grandpa Gohan",
+   "text": "'Nah, that sounds stupid.'"
+  },
+  {
+   "i": 384,
+   "start": 1101.3,
+   "end": 1103.62,
+   "kind": "dialog",
+   "speaker": "Grandpa Gohan",
+   "text": "Oh! How about, \"Goku\"?"
+  },
+  {
+   "i": 385,
+   "start": 1103.92,
+   "end": 1108.06,
+   "kind": "dialog",
+   "speaker": "Grandpa Gohan",
+   "text": "Yes! Goku! You like that, huh? Yes, you do!"
+  },
+  {
+   "i": 386,
+   "start": 1108.06,
+   "end": 1111.86,
+   "kind": "dialog",
+   "speaker": "Grandpa Gohan",
+   "text": "Whee! Wheee! Wheeeee!"
+  },
+  {
+   "i": 387,
+   "start": 1111.86,
+   "end": 1112.68,
+   "kind": "dialog",
+   "speaker": "Grandpa Gohan",
+   "text": "Whoops!"
+  },
+  {
+   "i": 388,
+   "start": 1112.68,
+   "end": 1113.26,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "THWACK"
+  },
+  {
+   "i": 389,
+   "start": 1114.12,
+   "end": 1115.18,
+   "kind": "dialog",
+   "speaker": "Grandpa Gohan",
+   "text": "Uh-oh..."
+  },
+  {
+   "i": 390,
+   "start": 1115.66,
+   "end": 1118.0,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"Cha-La Head-Cha-La\" ♫"
+  },
+  {
+   "i": 391,
+   "start": 1125.58,
+   "end": 1126.72,
+   "kind": "dialog",
+   "speaker": "Grandpa Gohan",
+   "text": "♫ (Flash!) ♫"
+  },
+  {
+   "i": 392,
+   "start": 1126.72,
+   "end": 1132.06,
+   "kind": "dialog",
+   "speaker": "Grandpa Gohan",
+   "text": "♫ Hikaru kumo o tsukinuke Fly Away (Fly Away) ♫ (Piercing the shining clouds, I fly away (fly away))"
+  },
+  {
+   "i": 393,
+   "start": 1132.06,
+   "end": 1138.32,
+   "kind": "dialog",
+   "speaker": "Grandpa Gohan",
+   "text": "♫ Karadajû ni hirogaru panorama ♫ (While a panorama spreads through my body)"
+  },
+  {
+   "i": 394,
+   "start": 1139.22,
+   "end": 1144.44,
+   "kind": "dialog",
+   "speaker": "Grandpa Gohan",
+   "text": "♫ Kao o kerareta chikyû ga okotte (okotte) ♫ (Kicked in the face, the Earth gets angry (gets angry))"
+  },
+  {
+   "i": 395,
+   "start": 1144.44,
+   "end": 1150.2,
+   "kind": "dialog",
+   "speaker": "Grandpa Gohan",
+   "text": "♫ Kazan o bakuhatsu saseru ♫ (And makes a volcano explode)"
+  },
+  {
+   "i": 396,
+   "start": 1151.26,
+   "end": 1156.66,
+   "kind": "dialog",
+   "speaker": "Grandpa Gohan",
+   "text": "♫ Toketa kôri no naka ni ♫ (Within the melted polar ice)"
+  },
+  {
+   "i": 397,
+   "start": 1157.84,
+   "end": 1165.72,
+   "kind": "dialog",
+   "speaker": "Grandpa Gohan",
+   "text": "♫ Kyôryû ga itara tamanori shikomitai ne ♫ (If there’s a dinosaur, I want to train it to balance on a ball)"
+  },
+  {
+   "i": 398,
+   "start": 1166.74,
+   "end": 1170.02,
+   "kind": "dialog",
+   "speaker": "Grandpa Gohan",
+   "text": "♫ CHA-LA HEAD-CHA-LA ♫"
+  },
+  {
+   "i": 399,
+   "start": 1170.34,
+   "end": 1173.98,
+   "kind": "dialog",
+   "speaker": "Grandpa Gohan",
+   "text": "♫ Egao urutora zetto de ♫ (With a smile that’s Ultra-Z)"
+  },
+  {
+   "i": 400,
+   "start": 1173.98,
+   "end": 1177.2,
+   "kind": "dialog",
+   "speaker": "Grandpa Gohan",
+   "text": "♫ Kyô mo ai-yai-yai-yai-yai~ ♫ (Even today is ai-yai-yai-yai-yai~)"
+  },
+  {
+   "i": 401,
+   "start": 1177.2,
+   "end": 1178.98,
+   "kind": "dialog",
+   "speaker": "Grandpa Gohan",
+   "text": "♫ Sparking! [fading echo] ♫"
+  },
+  {
+   "i": 402,
+   "start": 1183.6,
+   "end": 1186.16,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Lyrics and info courtesy of Daizenshuu EX"
+  }
+ ],
+ "segments": [
+  {
+   "start": 103.8,
+   "end": 115.66,
+   "title": "I'm Just Saiyan",
+   "quote": "\"Don't be angry. I'm just Saiyan!\" ... And then I tore out his throat.",
+   "line_start": 17,
+   "line_end": 19
+  },
+  {
+   "start": 146.3,
+   "end": 175.2,
+   "title": "Psychics Aren't Smart",
+   "quote": "Just because they're psychic doesn't mean they're smart. / I have to stop you from destroying my race! ...In the future! / We already did that.",
+   "line_start": 34,
+   "line_end": 44
+  },
+  {
+   "start": 254.6,
+   "end": 265.86,
+   "title": "Doesn't Afraid of Anything",
+   "quote": "He conquers planets and doesn't afraid of anything.",
+   "line_start": 65,
+   "line_end": 67
+  },
+  {
+   "start": 285.8,
+   "end": 304.5,
+   "title": "Mr. Popo Jump Scare",
+   "quote": "'Is... is it over?' 'Am I...?' — Hi.",
+   "line_start": 77,
+   "line_end": 84
+  },
+  {
+   "start": 356.4,
+   "end": 382.02,
+   "title": "That's My Boy... Wait, Broly?",
+   "quote": "'Ten thousand! *That's* my boy!' 'Uh, wait... \"Broly\"?' '*Two*?! Crap!'",
+   "line_start": 104,
+   "line_end": 113
+  },
+  {
+   "start": 428.9,
+   "end": 444.5,
+   "title": "Dodoria's Riddle",
+   "quote": "What looks like crap... feels like crap... and probably ain't gonna wake up in the mornin'? / Is... Is it me? / And that's the punchline.",
+   "line_start": 125,
+   "line_end": 129
+  },
+  {
+   "start": 500.2,
+   "end": 528.88,
+   "title": "Plan B",
+   "quote": "'...My best friend just died in my arms, didn't he?' 'Yep...' 'All right.' 'Plan B.'",
+   "line_start": 157,
+   "line_end": 166
+  },
+  {
+   "start": 586.2,
+   "end": 595.84,
+   "title": "Team-Killing F***tard",
+   "quote": "Goddammit, Mango, you team-killing f***tard!",
+   "line_start": 198,
+   "line_end": 204
+  },
+  {
+   "start": 623.4,
+   "end": 650.96,
+   "title": "Another One Bites the Dust",
+   "quote": "♪ Another one bites the dust ♪ ... It's in my Dodoria wounds!",
+   "line_start": 216,
+   "line_end": 226
+  },
+  {
+   "start": 672.4,
+   "end": 702.26,
+   "title": "Complete Annihilation",
+   "quote": "Complete... Annihilation.",
+   "line_start": 235,
+   "line_end": 242
+  },
+  {
+   "start": 879.8,
+   "end": 918.16,
+   "title": "Blah Blah Blah, Injustices",
+   "quote": "'Ohhh *Lord*, these heroic types with their *speeches*.' '\"Blah, blah, blah, injustices.\"' ... 'Oh right; mass genocide.'",
+   "line_start": 312,
+   "line_end": 325
+  },
+  {
+   "start": 1006.6,
+   "end": 1029.9,
+   "title": "Because I'm a Prick",
+   "quote": "But, why? / ...Because I'm a prick.",
+   "line_start": 352,
+   "line_end": 360
+  },
+  {
+   "start": 1045.5,
+   "end": 1079.66,
+   "title": "Dairy Queen",
+   "quote": "But the good news is we're going to Dairy Queen! / Just take me to the damn queen, Nappa.",
+   "line_start": 365,
+   "line_end": 376
+  },
+  {
+   "start": 1084.6,
+   "end": 1115.6,
+   "title": "Someone Threw Out a Perfectly Good Baby",
+   "quote": "Oh, look. Someone threw out a perfectly good baby. ... I think I'm gonna call you... \"Clark\".",
+   "line_start": 378,
+   "line_end": 389
+  }
+ ]
+}

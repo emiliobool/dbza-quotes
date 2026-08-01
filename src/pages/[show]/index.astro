@@ -1,0 +1,41 @@
+---
+import Base from "../../layouts/Base.astro";
+import site from "../../gen/site.json";
+import { fmtTime } from "../../lib/util.js";
+
+export function getStaticPaths() {
+  return site.shows.map((s) => ({ params: { show: s.id } }));
+}
+const { show } = Astro.params;
+const showMeta = site.shows.find((s) => s.id === show);
+const media = site.media[show];
+const episodes = media.filter((m) => m.kind === "episode");
+const movies = media.filter((m) => m.kind !== "episode");
+const clipCount = Object.fromEntries(
+  media.map((m) => [m.id, site.clips.filter((c) => c.show === show && c.media === m.id && c.status === "published").length])
+);
+---
+
+<Base title={`${showMeta.title} — episodes & transcripts`}>
+  <h1>{showMeta.title}</h1>
+  <p class="meta">
+    {episodes.length} episodes · {movies.length} movies & specials — every transcript searchable,
+    every line linkable. Video plays on <a href={`https://www.youtube.com/playlist?list=${showMeta.sources[0].playlist}`}>TeamFourStar's YouTube</a>.
+  </p>
+
+  <h2>Episodes</h2>
+  {episodes.map((m) => (
+    <div class="card">
+      <a href={`/${show}/${m.id}/`}><strong>{m.title}</strong></a>
+      <span class="meta"> · {fmtTime(m.duration)}{clipCount[m.id] ? ` · ${clipCount[m.id]} clips` : ""}</span>
+    </div>
+  ))}
+
+  <h2>Movies & specials</h2>
+  {movies.map((m) => (
+    <div class="card">
+      <a href={`/${show}/${m.id}/`}><strong>{m.title}</strong></a>
+      <span class="meta"> · {fmtTime(m.duration)}{clipCount[m.id] ? ` · ${clipCount[m.id]} clips` : ""}</span>
+    </div>
+  ))}
+</Base>

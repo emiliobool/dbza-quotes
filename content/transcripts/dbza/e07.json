@@ -1,0 +1,1299 @@
+{
+ "item": "e07",
+ "show": "dbza",
+ "youtube": "Ui0mRLYZwYc",
+ "title": "Episode 7",
+ "duration": 406,
+ "lines": [
+  {
+   "i": 0,
+   "start": 7.56,
+   "end": 9.0,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "[radio] Are we there yet?"
+  },
+  {
+   "i": 1,
+   "start": 8.38,
+   "end": 9.82,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "[radio] No."
+  },
+  {
+   "i": 2,
+   "start": 9.0,
+   "end": 10.68,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "[radio] Are we there yet?"
+  },
+  {
+   "i": 3,
+   "start": 9.82,
+   "end": 11.38,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "[radio] No. No."
+  },
+  {
+   "i": 4,
+   "start": 10.68,
+   "end": 12.32,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "[radio] Are we there yet?"
+  },
+  {
+   "i": 5,
+   "start": 11.38,
+   "end": 13.16,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "[radio] No. No. No!"
+  },
+  {
+   "i": 6,
+   "start": 12.32,
+   "end": 14.0,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "[radio] Are we there yet?"
+  },
+  {
+   "i": 7,
+   "start": 13.16,
+   "end": 14.86,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "[radio] No. No. No! No!"
+  },
+  {
+   "i": 8,
+   "start": 14.0,
+   "end": 15.52,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "[radio] Are we there yet?"
+  },
+  {
+   "i": 9,
+   "start": 14.86,
+   "end": 15.52,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "[radio] No. No. No! No! Yes..."
+  },
+  {
+   "i": 10,
+   "start": 42.52,
+   "end": 43.6,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Hey look, Vegeta!"
+  },
+  {
+   "i": 11,
+   "start": 44.68,
+   "end": 46.22,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "More locals!"
+  },
+  {
+   "i": 12,
+   "start": 44.68,
+   "end": 49.08,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Sounds of puzzlement"
+  },
+  {
+   "i": 13,
+   "start": 54.0,
+   "end": 55.4,
+   "kind": "dialog",
+   "speaker": "Bystander",
+   "text": "So, are you guys alie--?"
+  },
+  {
+   "i": 14,
+   "start": 61.46,
+   "end": 64.14,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Ahhh, I hate awkward silences..."
+  },
+  {
+   "i": 15,
+   "start": 64.46,
+   "end": 66.44,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Damn it, Nappa! Think before you act!"
+  },
+  {
+   "i": 16,
+   "start": 66.44,
+   "end": 68.9,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "What if you had blown up one of the Dragon Balls?"
+  },
+  {
+   "i": 17,
+   "start": 69.02,
+   "end": 69.9,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "The what now, Vegeta?"
+  },
+  {
+   "i": 18,
+   "start": 70.2,
+   "end": 73.4,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "The Dragon Balls, Nappa. Don't you remember our wish?"
+  },
+  {
+   "i": 19,
+   "start": 73.48,
+   "end": 73.98,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Flashback"
+  },
+  {
+   "i": 20,
+   "start": 73.98,
+   "end": 75.44,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "The Dragon Balls, you know..."
+  },
+  {
+   "i": 21,
+   "start": 75.5,
+   "end": 79.78,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "There are seven of them, they grant you any wish you want... like immortality?"
+  },
+  {
+   "i": 22,
+   "start": 79.78,
+   "end": 81.44,
+   "kind": "dialog",
+   "speaker": "Oolong",
+   "text": "Or Bulma's panties."
+  },
+  {
+   "i": 23,
+   "start": 81.44,
+   "end": 81.94,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Flashback ends"
+  },
+  {
+   "i": 24,
+   "start": 82.38,
+   "end": 83.14,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Yeah..."
+  },
+  {
+   "i": 25,
+   "start": 83.52,
+   "end": 84.78,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Pandas..."
+  },
+  {
+   "i": 26,
+   "start": 85.16,
+   "end": 86.16,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "You know what, Nappa?"
+  },
+  {
+   "i": 27,
+   "start": 86.16,
+   "end": 90.78,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "One of these days you're going to die... and then you'll be out of my hair forever."
+  },
+  {
+   "i": 28,
+   "start": 92.18,
+   "end": 93.62,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Now let's just go..."
+  },
+  {
+   "i": 29,
+   "start": 96.3,
+   "end": 98.12,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Gohan! On your guard!"
+  },
+  {
+   "i": 30,
+   "start": 98.24,
+   "end": 99.96,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "They're coming right towards us!"
+  },
+  {
+   "i": 31,
+   "start": 100.06,
+   "end": 102.06,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "But, why would they be headed our way?"
+  },
+  {
+   "i": 32,
+   "start": 102.14,
+   "end": 105.24,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "They're probably seeking to eliminate the strongest power level."
+  },
+  {
+   "i": 33,
+   "start": 105.4,
+   "end": 107.6,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "But... my Dad's dead..."
+  },
+  {
+   "i": 34,
+   "start": 108.22,
+   "end": 110.54,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "I was referring to *me*!"
+  },
+  {
+   "i": 35,
+   "start": 110.88,
+   "end": 115.2,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Oh, well, by that logic I suppose you *would* have the strongest power level on Earth."
+  },
+  {
+   "i": 36,
+   "start": 115.54,
+   "end": 116.4,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "[distant] Hah!"
+  },
+  {
+   "i": 37,
+   "start": 117.74,
+   "end": 119.62,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Hey guys! Krillin's here!"
+  },
+  {
+   "i": 38,
+   "start": 119.8,
+   "end": 122.02,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Oh, I thought I sensed someone else coming."
+  },
+  {
+   "i": 39,
+   "start": 122.62,
+   "end": 125.72,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Good. It seems you've increased your power since we last met."
+  },
+  {
+   "i": 40,
+   "start": 126.0,
+   "end": 127.3,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I know! Isn't it great? I--"
+  },
+  {
+   "i": 41,
+   "start": 127.3,
+   "end": 129.34,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "You're almost as strong as Gohan now."
+  },
+  {
+   "i": 42,
+   "start": 129.54,
+   "end": 131.48,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I... wait..."
+  },
+  {
+   "i": 43,
+   "start": 131.48,
+   "end": 133.02,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "B-but he's only five!"
+  },
+  {
+   "i": 44,
+   "start": 133.34,
+   "end": 135.08,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "It's because I'm a Saiyan!"
+  },
+  {
+   "i": 45,
+   "start": 135.44,
+   "end": 137.9,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Well... at least there's only two of you."
+  },
+  {
+   "i": 46,
+   "start": 138.42,
+   "end": 141.62,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "So, uh... how bad was the training with Piccolo?"
+  },
+  {
+   "i": 47,
+   "start": 141.88,
+   "end": 143.7,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "The training wasn't that bad."
+  },
+  {
+   "i": 48,
+   "start": 143.7,
+   "end": 146.78,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Mr. Piccolo’s actually really nice after you get to know him."
+  },
+  {
+   "i": 49,
+   "start": 146.82,
+   "end": 147.32,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Flashback"
+  },
+  {
+   "i": 50,
+   "start": 147.32,
+   "end": 150.6,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Gohan! I’ve brought you a sparring partner for today."
+  },
+  {
+   "i": 51,
+   "start": 150.6,
+   "end": 152.08,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Really? Who?"
+  },
+  {
+   "i": 52,
+   "start": 152.44,
+   "end": 155.74,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Dinosaur roaring and Gohan screaming"
+  },
+  {
+   "i": 53,
+   "start": 156.04,
+   "end": 156.54,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Flashback ends"
+  },
+  {
+   "i": 54,
+   "start": 156.8,
+   "end": 158.34,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "So how was your training, Krillin?"
+  },
+  {
+   "i": 55,
+   "start": 158.84,
+   "end": 164.84,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "(Whimpering)"
+  },
+  {
+   "i": 56,
+   "start": 158.84,
+   "end": 164.84,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Ha ha ha ha ha ha ha ha ha ha ha haaa..."
+  },
+  {
+   "i": 57,
+   "start": 165.12,
+   "end": 169.94,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "[sobbing] First rule of Popo’s training: Do not talk about Popo’s training!"
+  },
+  {
+   "i": 58,
+   "start": 170.2,
+   "end": 172.18,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Krillin? Why are you crying?"
+  },
+  {
+   "i": 59,
+   "start": 172.18,
+   "end": 174.66,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "[so] SECOND rule of Popo’s training…!"
+  },
+  {
+   "i": 60,
+   "start": 174.8,
+   "end": 178.0,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Aw man, he’s already crying and the Saiyans aren’t even here ye—!"
+  },
+  {
+   "i": 61,
+   "start": 178.0,
+   "end": 179.52,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Yeah, we are!"
+  },
+  {
+   "i": 62,
+   "start": 179.52,
+   "end": 182.38,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Dramatic sting"
+  },
+  {
+   "i": 63,
+   "start": 184.38,
+   "end": 184.92,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Hi!"
+  },
+  {
+   "i": 64,
+   "start": 188.4,
+   "end": 190.9,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "So... you guys are the Saiyans?"
+  },
+  {
+   "i": 65,
+   "start": 190.9,
+   "end": 191.54,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "No."
+  },
+  {
+   "i": 66,
+   "start": 191.54,
+   "end": 192.96,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Don’t be rude, Nappa."
+  },
+  {
+   "i": 67,
+   "start": 193.62,
+   "end": 195.6,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "And you’re here for the Dragon Balls?"
+  },
+  {
+   "i": 68,
+   "start": 195.66,
+   "end": 196.28,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "No."
+  },
+  {
+   "i": 69,
+   "start": 197.38,
+   "end": 198.06,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "...We are."
+  },
+  {
+   "i": 70,
+   "start": 198.56,
+   "end": 201.98,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "And I, am the Prince of all Saiyans!"
+  },
+  {
+   "i": 71,
+   "start": 202.24,
+   "end": 203.62,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "[incredulous] You’re a prince?"
+  },
+  {
+   "i": 72,
+   "start": 203.62,
+   "end": 204.28,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "No."
+  },
+  {
+   "i": 73,
+   "start": 205.48,
+   "end": 206.58,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "...F*** you, Nappa."
+  },
+  {
+   "i": 74,
+   "start": 207.18,
+   "end": 208.58,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "So what do we call you?"
+  },
+  {
+   "i": 75,
+   "start": 208.94,
+   "end": 210.28,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "I am Nappa."
+  },
+  {
+   "i": 76,
+   "start": 210.68,
+   "end": 212.38,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "And this is Vegeta."
+  },
+  {
+   "i": 77,
+   "start": 212.66,
+   "end": 213.84,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "He was a prison--"
+  },
+  {
+   "i": 78,
+   "start": 213.84,
+   "end": 214.86,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Shut up, Nappa!"
+  },
+  {
+   "i": 79,
+   "start": 216.18,
+   "end": 217.36,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "[quietly] ...bitch!"
+  },
+  {
+   "i": 80,
+   "start": 217.36,
+   "end": 218.5,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "[clenched teeth] Damn it, Nappa...!"
+  },
+  {
+   "i": 81,
+   "start": 218.5,
+   "end": 221.0,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Oh look, Vegeta! It’s a Namekian."
+  },
+  {
+   "i": 82,
+   "start": 221.26,
+   "end": 223.24,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "HEY! I take offense to that!"
+  },
+  {
+   "i": 83,
+   "start": 223.24,
+   "end": 226.72,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "He’s referring to me, you idiot. And it’s not an insult!"
+  },
+  {
+   "i": 84,
+   "start": 227.08,
+   "end": 229.32,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "The Namekians are a fine, proud race of--"
+  },
+  {
+   "i": 85,
+   "start": 229.32,
+   "end": 232.2,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "That means he doesn’t have a penis. Right, Vegeta?"
+  },
+  {
+   "i": 86,
+   "start": 232.54,
+   "end": 235.52,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "(Snickering)"
+  },
+  {
+   "i": 87,
+   "start": 235.82,
+   "end": 236.9,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Eunuchs."
+  },
+  {
+   "i": 88,
+   "start": 237.52,
+   "end": 239.92,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "So what exactly does that make you, Mr. Piccolo?"
+  },
+  {
+   "i": 89,
+   "start": 238.2,
+   "end": 240.78,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "(Growling)"
+  },
+  {
+   "i": 90,
+   "start": 240.78,
+   "end": 242.7,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "You survive mostly on water."
+  },
+  {
+   "i": 91,
+   "start": 243.04,
+   "end": 245.58,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Does that make you a slug or a plant?"
+  },
+  {
+   "i": 92,
+   "start": 245.7,
+   "end": 247.2,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Gohan, not now!"
+  },
+  {
+   "i": 93,
+   "start": 247.2,
+   "end": 249.82,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "And do you also conduct photosynthesis, or do you–?"
+  },
+  {
+   "i": 94,
+   "start": 248.94,
+   "end": 249.82,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Rrrrrgh!"
+  },
+  {
+   "i": 95,
+   "start": 249.82,
+   "end": 251.08,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "NERRRRRD!"
+  },
+  {
+   "i": 96,
+   "start": 249.82,
+   "end": 251.08,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "NERRRRRD!"
+  },
+  {
+   "i": 97,
+   "start": 251.92,
+   "end": 253.06,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Wait, what?"
+  },
+  {
+   "i": 98,
+   "start": 254.02,
+   "end": 257.66,
+   "kind": "dialog",
+   "speaker": "Mr. Kent",
+   "text": "[speakers] These are them, folks. The terrible monsters who destroyed West City!"
+  },
+  {
+   "i": 99,
+   "start": 257.78,
+   "end": 259.8,
+   "kind": "dialog",
+   "speaker": "Mr. Kent",
+   "text": "Jimmy, hurry up and get a shot of the bald one."
+  },
+  {
+   "i": 100,
+   "start": 260.34,
+   "end": 263.16,
+   "kind": "dialog",
+   "speaker": "Jimmy",
+   "text": "[sp] Um... which one, Mr. Kent?"
+  },
+  {
+   "i": 101,
+   "start": 263.82,
+   "end": 266.78,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Look, Vegeta! The paparazzi."
+  },
+  {
+   "i": 102,
+   "start": 267.14,
+   "end": 269.26,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "I have to protect my image!"
+  },
+  {
+   "i": 103,
+   "start": 271.76,
+   "end": 274.56,
+   "kind": "dialog",
+   "speaker": "Jimmy",
+   "text": "[sp] Oh my God, he blew up the cargo robot!"
+  },
+  {
+   "i": 104,
+   "start": 275.24,
+   "end": 277.44,
+   "kind": "dialog",
+   "speaker": "Jimmy",
+   "text": "...And the cargo was PEOPLE!"
+  },
+  {
+   "i": 105,
+   "start": 278.12,
+   "end": 281.0,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Good! Now I’m gunna read their power levels, Vegeta."
+  },
+  {
+   "i": 106,
+   "start": 281.0,
+   "end": 283.08,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Beeping"
+  },
+  {
+   "i": 107,
+   "start": 290.28,
+   "end": 291.94,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Nappa, don’t you understand?"
+  },
+  {
+   "i": 108,
+   "start": 291.94,
+   "end": 295.0,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "They can hide their power levels; those readings are useless."
+  },
+  {
+   "i": 109,
+   "start": 295.26,
+   "end": 296.72,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "You mean like YouTube friends?"
+  },
+  {
+   "i": 110,
+   "start": 297.02,
+   "end": 300.5,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Yes. And I have a better way of testing their power levels."
+  },
+  {
+   "i": 111,
+   "start": 300.88,
+   "end": 302.54,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Plant the Saibamen."
+  },
+  {
+   "i": 112,
+   "start": 302.9,
+   "end": 304.5,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Yayyyyyyy!"
+  },
+  {
+   "i": 113,
+   "start": 305.42,
+   "end": 309.62,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Screeching"
+  },
+  {
+   "i": 114,
+   "start": 311.02,
+   "end": 312.2,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Ta-daaah!"
+  },
+  {
+   "i": 115,
+   "start": 313.0,
+   "end": 314.82,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Wha... What are those?"
+  },
+  {
+   "i": 116,
+   "start": 315.16,
+   "end": 319.9,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "They’re cultivated life forms... all with the same power level as Raditz."
+  },
+  {
+   "i": 117,
+   "start": 320.22,
+   "end": 325.16,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "That’s right; he was so weak, we could actually GROW Raditzes!"
+  },
+  {
+   "i": 118,
+   "start": 325.6,
+   "end": 328.68,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "But, Vegeta, then you have to worry about the Fraggles."
+  },
+  {
+   "i": 119,
+   "start": 328.94,
+   "end": 331.5,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Oh God damn it, Nappa, nobody’s going to get that."
+  },
+  {
+   "i": 120,
+   "start": 331.58,
+   "end": 335.78,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "As a matter of fact... I did."
+  },
+  {
+   "i": 121,
+   "start": 336.0,
+   "end": 337.56,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Oh goody, more of them."
+  },
+  {
+   "i": 122,
+   "start": 337.56,
+   "end": 338.88,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Who the hell are you?"
+  },
+  {
+   "i": 123,
+   "start": 339.04,
+   "end": 342.22,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Vegeta, look! More bald people."
+  },
+  {
+   "i": 124,
+   "start": 342.42,
+   "end": 344.98,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "The small one; the two tall ones; and--"
+  },
+  {
+   "i": 125,
+   "start": 345.5,
+   "end": 346.94,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Uh...!"
+  },
+  {
+   "i": 126,
+   "start": 347.38,
+   "end": 348.96,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Vegeta! Look!"
+  },
+  {
+   "i": 127,
+   "start": 349.14,
+   "end": 350.62,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "A Pokémon!"
+  },
+  {
+   "i": 128,
+   "start": 351.02,
+   "end": 354.84,
+   "kind": "dialog",
+   "speaker": "Chiaotzu",
+   "text": "I’m not a Pokémon! I’m Chiaotzu. Chiaotzu!"
+  },
+  {
+   "i": 129,
+   "start": 354.84,
+   "end": 357.38,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "You hear that, Vegeta? It’s a Chiaotzu."
+  },
+  {
+   "i": 130,
+   "start": 357.38,
+   "end": 358.74,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "I’m gunna catch it!"
+  },
+  {
+   "i": 131,
+   "start": 359.12,
+   "end": 360.52,
+   "kind": "dialog",
+   "speaker": "Chiaotzu",
+   "text": "I told you, I’m not a Poké--"
+  },
+  {
+   "i": 132,
+   "start": 360.52,
+   "end": 361.28,
+   "kind": "dialog",
+   "speaker": "Chiaotzu",
+   "text": "OW!"
+  },
+  {
+   "i": 133,
+   "start": 361.56,
+   "end": 363.52,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Awww, it didn’t work, Vegeta."
+  },
+  {
+   "i": 134,
+   "start": 363.66,
+   "end": 365.76,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "That’s because you have to damage it first."
+  },
+  {
+   "i": 135,
+   "start": 365.84,
+   "end": 366.96,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Alright!"
+  },
+  {
+   "i": 136,
+   "start": 367.26,
+   "end": 369.5,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Let’s see if I can get a critical!"
+  },
+  {
+   "i": 137,
+   "start": 369.5,
+   "end": 370.14,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Audible flinch"
+  },
+  {
+   "i": 138,
+   "start": 372.22,
+   "end": 372.74,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "AUGH!"
+  },
+  {
+   "i": 139,
+   "start": 375.7,
+   "end": 378.02,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Debris falling"
+  },
+  {
+   "i": 140,
+   "start": 380.24,
+   "end": 381.5,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Yeah!"
+  },
+  {
+   "i": 141,
+   "start": 383.14,
+   "end": 384.72,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Woo..."
+  },
+  {
+   "i": 142,
+   "start": 392.0,
+   "end": 393.38,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "And that one’s Snuggles."
+  },
+  {
+   "i": 143,
+   "start": 392.0,
+   "end": 393.38,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Saibamen shriek in acknowledgement"
+  },
+  {
+   "i": 144,
+   "start": 393.38,
+   "end": 394.68,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "And that one’s Foofoo."
+  },
+  {
+   "i": 145,
+   "start": 394.68,
+   "end": 396.08,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "And that one’s Cabbagehead."
+  },
+  {
+   "i": 146,
+   "start": 396.08,
+   "end": 398.04,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "And that one’s Other-Cabbagehead."
+  },
+  {
+   "i": 147,
+   "start": 398.04,
+   "end": 400.34,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "And that one’s Vegeta Junior."
+  },
+  {
+   "i": 148,
+   "start": 400.8,
+   "end": 402.06,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Shrieks"
+  },
+  {
+   "i": 149,
+   "start": 402.06,
+   "end": 405.46,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Vegeta Junior! Noooooo!"
+  }
+ ],
+ "segments": [
+  {
+   "start": 7.1,
+   "end": 16.0,
+   "title": "Are We There Yet?",
+   "quote": "Are we there yet? / No. ... Are we there yet? / No. No. No! No! Yes...",
+   "line_start": 0,
+   "line_end": 9
+  },
+  {
+   "start": 61.0,
+   "end": 91.0,
+   "title": "Think Before You Act",
+   "quote": "Damn it, Nappa! Think before you act! What if you had blown up one of the Dragon Balls? ... Yeah... Pandas...",
+   "line_start": 14,
+   "line_end": 27
+  },
+  {
+   "start": 95.8,
+   "end": 116.4,
+   "title": "I Was Referring to Me",
+   "quote": "But... my Dad's dead... / I was referring to *me*! / [distant] Hah!",
+   "line_start": 29,
+   "line_end": 36
+  },
+  {
+   "start": 156.3,
+   "end": 174.7,
+   "title": "First Rule of Popo's Training",
+   "quote": "[sobbing] First rule of Popo's training: Do not talk about Popo's training!",
+   "line_start": 54,
+   "line_end": 59
+  },
+  {
+   "start": 187.9,
+   "end": 218.5,
+   "title": "Don't Be Rude, Nappa",
+   "quote": "So... you guys are the Saiyans? / No. ... He was a prison-- / Shut up, Nappa! / [quietly] ...bitch!",
+   "line_start": 64,
+   "line_end": 80
+  },
+  {
+   "start": 218.5,
+   "end": 236.9,
+   "title": "Eunuchs",
+   "quote": "That means he doesn't have a penis. Right, Vegeta? / ...Eunuchs.",
+   "line_start": 81,
+   "line_end": 87
+  },
+  {
+   "start": 237.0,
+   "end": 253.1,
+   "title": "NERRRRRD!",
+   "quote": "And do you also conduct photosynthesis, or do you–? / NERRRRRD! / Wait, what?",
+   "line_start": 88,
+   "line_end": 97
+  },
+  {
+   "start": 253.5,
+   "end": 277.5,
+   "title": "The Cargo Was PEOPLE!",
+   "quote": "Oh my God, he blew up the cargo robot! ...And the cargo was PEOPLE!",
+   "line_start": 98,
+   "line_end": 104
+  },
+  {
+   "start": 312.5,
+   "end": 335.8,
+   "title": "We Could GROW Raditzes",
+   "quote": "He was so weak, we could actually GROW Raditzes! / But, Vegeta, then you have to worry about the Fraggles. ... As a matter of fact... I did.",
+   "line_start": 115,
+   "line_end": 120
+  },
+  {
+   "start": 338.5,
+   "end": 369.5,
+   "title": "It's a Chiaotzu",
+   "quote": "Vegeta! Look! A Pokémon! / I'm not a Pokémon! I'm Chiaotzu. Chiaotzu! ... Let's see if I can get a critical!",
+   "line_start": 123,
+   "line_end": 136
+  },
+  {
+   "start": 391.5,
+   "end": 405.5,
+   "title": "Vegeta Junior! Noooooo!",
+   "quote": "And that one's Cabbagehead. And that one's Other-Cabbagehead. And that one's Vegeta Junior. ... Vegeta Junior! Noooooo!",
+   "line_start": 142,
+   "line_end": 149
+  }
+ ]
+}

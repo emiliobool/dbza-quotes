@@ -1,0 +1,1907 @@
+{
+ "item": "e05",
+ "show": "dbza",
+ "youtube": "P6P_sXbQtgc",
+ "title": "Episode 5",
+ "duration": 562,
+ "lines": [
+  {
+   "i": 0,
+   "start": 7.72,
+   "end": 13.24,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "After endless running and detours, Goku has finally reached the end of Snake Way."
+  },
+  {
+   "i": 1,
+   "start": 13.56,
+   "end": 15.78,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "How very convenient."
+  },
+  {
+   "i": 2,
+   "start": 16.58,
+   "end": 18.36,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oooooo!"
+  },
+  {
+   "i": 3,
+   "start": 18.52,
+   "end": 19.76,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh, wow!"
+  },
+  {
+   "i": 4,
+   "start": 20.14,
+   "end": 21.96,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "That must be King Kai’s place!"
+  },
+  {
+   "i": 5,
+   "start": 22.52,
+   "end": 23.48,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Woohooo..."
+  },
+  {
+   "i": 6,
+   "start": 23.48,
+   "end": 27.06,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "...aaaaaaaieeeeeee--!"
+  },
+  {
+   "i": 7,
+   "start": 27.06,
+   "end": 27.78,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Thud"
+  },
+  {
+   "i": 8,
+   "start": 27.06,
+   "end": 27.78,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "UGH!"
+  },
+  {
+   "i": 9,
+   "start": 28.68,
+   "end": 30.62,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Nice job, jackass!"
+  },
+  {
+   "i": 10,
+   "start": 30.62,
+   "end": 31.78,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oowwww..."
+  },
+  {
+   "i": 11,
+   "start": 53.0,
+   "end": 55.4,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "Meanwhile, back in the deep reaches of space..."
+  },
+  {
+   "i": 12,
+   "start": 55.8,
+   "end": 57.18,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Are we there yet?"
+  },
+  {
+   "i": 13,
+   "start": 56.56,
+   "end": 57.9,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "No."
+  },
+  {
+   "i": 14,
+   "start": 57.18,
+   "end": 58.48,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Are we there yet?"
+  },
+  {
+   "i": 15,
+   "start": 57.9,
+   "end": 59.06,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "No. No."
+  },
+  {
+   "i": 16,
+   "start": 58.48,
+   "end": 59.66,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Are we there yet?"
+  },
+  {
+   "i": 17,
+   "start": 59.06,
+   "end": 60.3,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "No. No. No!"
+  },
+  {
+   "i": 18,
+   "start": 59.66,
+   "end": 60.92,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Are we there yet?"
+  },
+  {
+   "i": 19,
+   "start": 60.3,
+   "end": 61.56,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "No. No. No! *No*!"
+  },
+  {
+   "i": 20,
+   "start": 60.92,
+   "end": 62.14,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Are we there yet?"
+  },
+  {
+   "i": 21,
+   "start": 61.56,
+   "end": 62.14,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "No. No. No! *No*! *No*!!"
+  },
+  {
+   "i": 22,
+   "start": 62.14,
+   "end": 62.7,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Hey Vegeta!"
+  },
+  {
+   "i": 23,
+   "start": 62.7,
+   "end": 63.76,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "*WHAAAT*!?!?"
+  },
+  {
+   "i": 24,
+   "start": 63.86,
+   "end": 65.4,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Can we stop at that bug planet?"
+  },
+  {
+   "i": 25,
+   "start": 65.4,
+   "end": 68.42,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Nappa, if it’ll shut you up for FIVE minutes, then FINE!"
+  },
+  {
+   "i": 26,
+   "start": 70.24,
+   "end": 72.64,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "See? Look how fun this is..."
+  },
+  {
+   "i": 27,
+   "start": 72.96,
+   "end": 75.08,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "BOOM"
+  },
+  {
+   "i": 28,
+   "start": 75.08,
+   "end": 77.14,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Hey, Vegeta! The locals."
+  },
+  {
+   "i": 29,
+   "start": 77.26,
+   "end": 79.64,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Seems they brought a welcome service."
+  },
+  {
+   "i": 30,
+   "start": 79.88,
+   "end": 83.86,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "You know, Vegeta, on some planets they really appreciate foreign commune."
+  },
+  {
+   "i": 31,
+   "start": 83.86,
+   "end": 85.42,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Really brings in the revenue."
+  },
+  {
+   "i": 32,
+   "start": 85.42,
+   "end": 87.5,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "They’ll probably treat us like royalty, considering the--"
+  },
+  {
+   "i": 33,
+   "start": 87.5,
+   "end": 88.82,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Cuffs click"
+  },
+  {
+   "i": 34,
+   "start": 87.5,
+   "end": 88.82,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Cell gate slams"
+  },
+  {
+   "i": 35,
+   "start": 89.5,
+   "end": 90.0,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Well..."
+  },
+  {
+   "i": 36,
+   "start": 90.72,
+   "end": 91.22,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Yeah..."
+  },
+  {
+   "i": 37,
+   "start": 91.94,
+   "end": 96.8,
+   "kind": "dialog",
+   "speaker": "Atla",
+   "text": "Ah, I see. You too have been imprisoned by our horrible fascist King."
+  },
+  {
+   "i": 38,
+   "start": 96.8,
+   "end": 97.6,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Continues speaking; unintelligible"
+  },
+  {
+   "i": 39,
+   "start": 97.6,
+   "end": 98.92,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Hey, Vegeta."
+  },
+  {
+   "i": 40,
+   "start": 98.92,
+   "end": 99.96,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "What is it?"
+  },
+  {
+   "i": 41,
+   "start": 99.96,
+   "end": 101.56,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "We're in prison, Vegeta."
+  },
+  {
+   "i": 42,
+   "start": 101.56,
+   "end": 102.8,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I see that, Nappa."
+  },
+  {
+   "i": 43,
+   "start": 103.58,
+   "end": 104.18,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Hey."
+  },
+  {
+   "i": 44,
+   "start": 104.46,
+   "end": 105.14,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "What?"
+  },
+  {
+   "i": 45,
+   "start": 105.68,
+   "end": 106.98,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "*Don't drop the soap*."
+  },
+  {
+   "i": 46,
+   "start": 107.46,
+   "end": 109.84,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I swear to God, Nappa, I will shiv you."
+  },
+  {
+   "i": 47,
+   "start": 110.9,
+   "end": 112.74,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "Meanwhile, on the Kai planet..."
+  },
+  {
+   "i": 48,
+   "start": 113.38,
+   "end": 115.46,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Sooo, you're King Kai."
+  },
+  {
+   "i": 49,
+   "start": 116.12,
+   "end": 119.76,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "That’s right. I am the most superior martial artist in all of the galax--"
+  },
+  {
+   "i": 50,
+   "start": 119.76,
+   "end": 120.72,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Ooh, a monkey!"
+  },
+  {
+   "i": 51,
+   "start": 120.92,
+   "end": 122.94,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Yes; this is my monkey, Bubbles."
+  },
+  {
+   "i": 52,
+   "start": 122.94,
+   "end": 124.18,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Say hello, Bubbles."
+  },
+  {
+   "i": 53,
+   "start": 124.18,
+   "end": 125.04,
+   "kind": "dialog",
+   "speaker": "Bubbles",
+   "text": "(Monkey sounds)"
+  },
+  {
+   "i": 54,
+   "start": 126.42,
+   "end": 128.02,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Alright, that’s enough, Bubbles."
+  },
+  {
+   "i": 55,
+   "start": 128.32,
+   "end": 130.34,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Anyway, welcome to my planet."
+  },
+  {
+   "i": 56,
+   "start": 130.62,
+   "end": 133.54,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Man... I’m so... heavy here!"
+  },
+  {
+   "i": 57,
+   "start": 133.62,
+   "end": 138.72,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Well, because of the small size of my planet, the gravity here is much more intense than that on Earth."
+  },
+  {
+   "i": 58,
+   "start": 138.94,
+   "end": 140.78,
+   "kind": "dialog",
+   "speaker": "Gregory",
+   "text": "That doesn’t make any sense!"
+  },
+  {
+   "i": 59,
+   "start": 140.78,
+   "end": 142.12,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Shut up, Gregory!"
+  },
+  {
+   "i": 60,
+   "start": 142.2,
+   "end": 144.58,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Alright, fine. How’s this for a reason:"
+  },
+  {
+   "i": 61,
+   "start": 144.92,
+   "end": 149.88,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "I have an unbelievably *powerful* space pirate locked up in the depths of my planet."
+  },
+  {
+   "i": 62,
+   "start": 150.1,
+   "end": 152.54,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "That’s why the gravity is so heavy here."
+  },
+  {
+   "i": 63,
+   "start": 152.62,
+   "end": 154.62,
+   "kind": "dialog",
+   "speaker": "Bojack",
+   "text": "Yarr! Get me outta here!"
+  },
+  {
+   "i": 64,
+   "start": 154.62,
+   "end": 155.76,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Shut up, Bojack!"
+  },
+  {
+   "i": 65,
+   "start": 155.76,
+   "end": 156.66,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Stomping"
+  },
+  {
+   "i": 66,
+   "start": 157.22,
+   "end": 159.44,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Anyway, what are you here for?"
+  },
+  {
+   "i": 67,
+   "start": 159.7,
+   "end": 161.58,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh! Well, King Kai..."
+  },
+  {
+   "i": 68,
+   "start": 161.82,
+   "end": 163.34,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I need you to train me."
+  },
+  {
+   "i": 69,
+   "start": 163.56,
+   "end": 167.24,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "There’s a terrible threat coming to our planet, and I’m its only hope."
+  },
+  {
+   "i": 70,
+   "start": 167.28,
+   "end": 169.64,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I’ll do whatever it takes for you to train me."
+  },
+  {
+   "i": 71,
+   "start": 169.96,
+   "end": 171.72,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I’ll withstand any test!"
+  },
+  {
+   "i": 72,
+   "start": 171.72,
+   "end": 173.48,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I will try as hard as I have to!"
+  },
+  {
+   "i": 73,
+   "start": 173.48,
+   "end": 174.02,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "And I--"
+  },
+  {
+   "i": 74,
+   "start": 174.02,
+   "end": 174.52,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Sure."
+  },
+  {
+   "i": 75,
+   "start": 175.14,
+   "end": 175.64,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "What?"
+  },
+  {
+   "i": 76,
+   "start": 176.0,
+   "end": 177.14,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "I'll train you."
+  },
+  {
+   "i": 77,
+   "start": 178.04,
+   "end": 179.4,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Se... Seriously?"
+  },
+  {
+   "i": 78,
+   "start": 179.78,
+   "end": 181.94,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I thought I had to do some kind of test!"
+  },
+  {
+   "i": 79,
+   "start": 182.06,
+   "end": 186.92,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Are you kidding me? The only company I’ve had for the last 500 years have been a disembodied pirate..."
+  },
+  {
+   "i": 80,
+   "start": 186.92,
+   "end": 187.42,
+   "kind": "dialog",
+   "speaker": "Bojack",
+   "text": "Yarrr!"
+  },
+  {
+   "i": 81,
+   "start": 187.42,
+   "end": 187.92,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "...A monkey..."
+  },
+  {
+   "i": 82,
+   "start": 187.92,
+   "end": 188.42,
+   "kind": "dialog",
+   "speaker": "Bubbles",
+   "text": "(Monkey noises)"
+  },
+  {
+   "i": 83,
+   "start": 188.42,
+   "end": 189.42,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "...And a grasshopper!"
+  },
+  {
+   "i": 84,
+   "start": 189.42,
+   "end": 190.78,
+   "kind": "dialog",
+   "speaker": "Gregory",
+   "text": "Actually, I’m a cricket!"
+  },
+  {
+   "i": 85,
+   "start": 190.78,
+   "end": 191.88,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Nobody cares!"
+  },
+  {
+   "i": 86,
+   "start": 192.82,
+   "end": 194.1,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "You tell ‘im, Bubbles!"
+  },
+  {
+   "i": 87,
+   "start": 194.1,
+   "end": 195.08,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Wow, you’re right!"
+  },
+  {
+   "i": 88,
+   "start": 195.38,
+   "end": 198.16,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I can’t imagine anything more boring than that!"
+  },
+  {
+   "i": 89,
+   "start": 198.58,
+   "end": 200.28,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "Meanwhile, on Namek..."
+  },
+  {
+   "i": 90,
+   "start": 200.96,
+   "end": 203.18,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Birds chirping; flowing water"
+  },
+  {
+   "i": 91,
+   "start": 209.1,
+   "end": 210.6,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Soft splash"
+  },
+  {
+   "i": 92,
+   "start": 210.88,
+   "end": 212.1,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "Naaaaiiillll..."
+  },
+  {
+   "i": 93,
+   "start": 213.04,
+   "end": 214.76,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "NAAAAAAAAIIIIILL!"
+  },
+  {
+   "i": 94,
+   "start": 214.92,
+   "end": 216.32,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "What is it, Lord Guru?"
+  },
+  {
+   "i": 95,
+   "start": 216.86,
+   "end": 218.44,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "I saw a fish."
+  },
+  {
+   "i": 96,
+   "start": 220.0,
+   "end": 222.98,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "That is all. You can go back outside now."
+  },
+  {
+   "i": 97,
+   "start": 223.68,
+   "end": 226.1,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'Oh God, this is so horribly dull...'"
+  },
+  {
+   "i": 98,
+   "start": 226.24,
+   "end": 230.34,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'I hope something exciting happens around here soon. I don’t care what it is.'"
+  },
+  {
+   "i": 99,
+   "start": 230.42,
+   "end": 231.76,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "Naaaaail!"
+  },
+  {
+   "i": 100,
+   "start": 231.92,
+   "end": 232.72,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "*What*?"
+  },
+  {
+   "i": 101,
+   "start": 233.0,
+   "end": 234.56,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "I saw a bird."
+  },
+  {
+   "i": 102,
+   "start": 235.0,
+   "end": 236.46,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "It was pretty."
+  },
+  {
+   "i": 103,
+   "start": 237.38,
+   "end": 238.78,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "Kick its ass."
+  },
+  {
+   "i": 104,
+   "start": 239.22,
+   "end": 240.88,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "(Sighs heavily)"
+  },
+  {
+   "i": 105,
+   "start": 241.46,
+   "end": 243.28,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "Meanwhile, back on Arlia..."
+  },
+  {
+   "i": 106,
+   "start": 243.66,
+   "end": 248.08,
+   "kind": "dialog",
+   "speaker": "Atla",
+   "text": "As you can see, many questionable people have been locked away in here."
+  },
+  {
+   "i": 107,
+   "start": 248.42,
+   "end": 250.92,
+   "kind": "dialog",
+   "speaker": "Another Arlian",
+   "text": "Welcome to Oz, bitch!"
+  },
+  {
+   "i": 108,
+   "start": 250.92,
+   "end": 254.06,
+   "kind": "dialog",
+   "speaker": "Another Arlian",
+   "text": "That’s right, YOU with the spiky hair!"
+  },
+  {
+   "i": 109,
+   "start": 254.06,
+   "end": 256.76,
+   "kind": "dialog",
+   "speaker": "Another Arlian",
+   "text": "You’re going to be my BITCH!"
+  },
+  {
+   "i": 110,
+   "start": 256.76,
+   "end": 259.32,
+   "kind": "dialog",
+   "speaker": "Another Arlian",
+   "text": "I’m going to sell you for a cigarette..."
+  },
+  {
+   "i": 111,
+   "start": 259.32,
+   "end": 263.44,
+   "kind": "dialog",
+   "speaker": "Another Arlian",
+   "text": "but not before I violate you, because you’re my BI--!"
+  },
+  {
+   "i": 112,
+   "start": 263.44,
+   "end": 267.48,
+   "kind": "dialog",
+   "speaker": "King Moai",
+   "text": "I love ruling this planet with an iron fist!"
+  },
+  {
+   "i": 113,
+   "start": 267.48,
+   "end": 268.32,
+   "kind": "dialog",
+   "speaker": "King Moai",
+   "text": "Right, my Quee--?"
+  },
+  {
+   "i": 114,
+   "start": 268.32,
+   "end": 269.98,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Arlia-shattering boom"
+  },
+  {
+   "i": 115,
+   "start": 269.98,
+   "end": 273.28,
+   "kind": "dialog",
+   "speaker": "King Moai",
+   "text": "What in the great Arlian moon was that?"
+  },
+  {
+   "i": 116,
+   "start": 273.58,
+   "end": 274.08,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Hi!"
+  },
+  {
+   "i": 117,
+   "start": 274.28,
+   "end": 276.48,
+   "kind": "dialog",
+   "speaker": "King Moai",
+   "text": "Who the f*** are you two?"
+  },
+  {
+   "i": 118,
+   "start": 276.6,
+   "end": 278.86,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Hi! I’m Nappa, and that’s Vegeta."
+  },
+  {
+   "i": 119,
+   "start": 278.86,
+   "end": 280.32,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "He was a prison bitch."
+  },
+  {
+   "i": 120,
+   "start": 280.32,
+   "end": 281.74,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Shut the hell up, Nappa."
+  },
+  {
+   "i": 121,
+   "start": 281.74,
+   "end": 282.24,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "‘K."
+  },
+  {
+   "i": 122,
+   "start": 282.48,
+   "end": 285.44,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Anyway, we’re here because my partner’s an idiot."
+  },
+  {
+   "i": 123,
+   "start": 285.44,
+   "end": 288.6,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Now that we’ve got introductions out of the way, I think I’ll just kill you and--"
+  },
+  {
+   "i": 124,
+   "start": 288.6,
+   "end": 289.22,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Hey Vegeta!"
+  },
+  {
+   "i": 125,
+   "start": 289.22,
+   "end": 290.86,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Oh God, what now?"
+  },
+  {
+   "i": 126,
+   "start": 290.86,
+   "end": 294.04,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "I think that’s their Queen! I’m curious how they breed."
+  },
+  {
+   "i": 127,
+   "start": 294.04,
+   "end": 297.44,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Oh goddammit Nappa, that’s disgusting! I say we just--"
+  },
+  {
+   "i": 128,
+   "start": 297.44,
+   "end": 300.76,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Hey! You guys! Breed for us!"
+  },
+  {
+   "i": 129,
+   "start": 300.8,
+   "end": 305.78,
+   "kind": "dialog",
+   "speaker": "King Moai",
+   "text": "Why should we listen to *you*? You’re surrounded by my thirteen elite--"
+  },
+  {
+   "i": 130,
+   "start": 307.52,
+   "end": 309.04,
+   "kind": "dialog",
+   "speaker": "King Moai",
+   "text": "...dead guards."
+  },
+  {
+   "i": 131,
+   "start": 309.44,
+   "end": 310.96,
+   "kind": "dialog",
+   "speaker": "King Moai",
+   "text": "Well, you heard him, honey!"
+  },
+  {
+   "i": 132,
+   "start": 311.46,
+   "end": 315.28,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "They’re not doing anything. They’re just standing on top of each other, and--"
+  },
+  {
+   "i": 133,
+   "start": 315.28,
+   "end": 315.78,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "CRUNCH"
+  },
+  {
+   "i": 134,
+   "start": 315.78,
+   "end": 318.12,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "AWWWW, THERE WE GO!"
+  },
+  {
+   "i": 135,
+   "start": 318.12,
+   "end": 320.56,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Bug sex noises"
+  },
+  {
+   "i": 136,
+   "start": 319.3,
+   "end": 321.36,
+   "kind": "dialog",
+   "speaker": "King Moai",
+   "text": "...Oh, snap that thorax..."
+  },
+  {
+   "i": 137,
+   "start": 320.56,
+   "end": 321.36,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Bug sex noises; shutter clicks"
+  },
+  {
+   "i": 138,
+   "start": 321.36,
+   "end": 322.82,
+   "kind": "dialog",
+   "speaker": "King Moai",
+   "text": "...Your sexy jowls..."
+  },
+  {
+   "i": 139,
+   "start": 321.36,
+   "end": 325.74,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Bug sex noises; phone vibrates"
+  },
+  {
+   "i": 140,
+   "start": 325.74,
+   "end": 326.66,
+   "kind": "dialog",
+   "speaker": "King Moai",
+   "text": "...Ah, there we go..."
+  },
+  {
+   "i": 141,
+   "start": 325.74,
+   "end": 326.66,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Bug sex noises; key depressed"
+  },
+  {
+   "i": 142,
+   "start": 326.66,
+   "end": 329.22,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "*OH*, God *dammit*, Nappa!"
+  },
+  {
+   "i": 143,
+   "start": 326.66,
+   "end": 330.3,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Bug sex noises"
+  },
+  {
+   "i": 144,
+   "start": 330.54,
+   "end": 334.9,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "Meanwhile, back on Earth, Piccolo has finally begun his training with Gohan."
+  },
+  {
+   "i": 145,
+   "start": 335.7,
+   "end": 338.3,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "So, Mr. Piccolo, what are you going to teach me today?"
+  },
+  {
+   "i": 146,
+   "start": 338.3,
+   "end": 340.7,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "A brand-new technique? How to sense energy?"
+  },
+  {
+   "i": 147,
+   "start": 340.94,
+   "end": 341.7,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "What about how to fly--?"
+  },
+  {
+   "i": 148,
+   "start": 341.7,
+   "end": 342.32,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Dodge!"
+  },
+  {
+   "i": 149,
+   "start": 342.32,
+   "end": 343.4,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "D'aah-haa!"
+  },
+  {
+   "i": 150,
+   "start": 344.42,
+   "end": 346.42,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Birds chirping"
+  },
+  {
+   "i": 151,
+   "start": 347.3,
+   "end": 352.26,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "'Oh, man... this training with Mr. Piccolo is really difficult.'"
+  },
+  {
+   "i": 152,
+   "start": 353.28,
+   "end": 355.06,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "'But I think I’m finally getting the hang of it--'"
+  },
+  {
+   "i": 153,
+   "start": 355.06,
+   "end": 355.66,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "DODGE!"
+  },
+  {
+   "i": 154,
+   "start": 355.66,
+   "end": 357.58,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "What? WAAAAAAAAAAA...!"
+  },
+  {
+   "i": 155,
+   "start": 357.58,
+   "end": 360.2,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Wind whistling"
+  },
+  {
+   "i": 156,
+   "start": 364.94,
+   "end": 366.1,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "DOOOOOOODGE!!"
+  },
+  {
+   "i": 157,
+   "start": 364.94,
+   "end": 366.1,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "D'aah-haa!"
+  },
+  {
+   "i": 158,
+   "start": 366.1,
+   "end": 367.2,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "DOOOOOOODGE!!"
+  },
+  {
+   "i": 159,
+   "start": 367.76,
+   "end": 369.86,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "Meanwhile, at the Hall of Justice..."
+  },
+  {
+   "i": 160,
+   "start": 370.38,
+   "end": 373.8,
+   "kind": "dialog",
+   "speaker": "Superman",
+   "text": "Alright everyone, we have to do something about these Saiyans."
+  },
+  {
+   "i": 161,
+   "start": 373.8,
+   "end": 377.4,
+   "kind": "dialog",
+   "speaker": "Superman",
+   "text": "They’re approaching Earth quickly, and I don’t think we have the strength to take them on alone."
+  },
+  {
+   "i": 162,
+   "start": 377.4,
+   "end": 379.1,
+   "kind": "dialog",
+   "speaker": "Superman",
+   "text": "Batman, what are your thoughts?"
+  },
+  {
+   "i": 163,
+   "start": 379.16,
+   "end": 380.3,
+   "kind": "dialog",
+   "speaker": "Batman",
+   "text": "Well, I think--"
+  },
+  {
+   "i": 164,
+   "start": 380.3,
+   "end": 382.62,
+   "kind": "dialog",
+   "speaker": "Aquaman",
+   "text": "I~ have an ideaaaa~!"
+  },
+  {
+   "i": 165,
+   "start": 382.62,
+   "end": 384.44,
+   "kind": "dialog",
+   "speaker": "Batman",
+   "text": "Oh God, it’s Aquaman..."
+  },
+  {
+   "i": 166,
+   "start": 384.86,
+   "end": 388.36,
+   "kind": "dialog",
+   "speaker": "Aquaman",
+   "text": "Come on, guys! We could use *whales*!"
+  },
+  {
+   "i": 167,
+   "start": 388.8,
+   "end": 391.14,
+   "kind": "dialog",
+   "speaker": "Aquaman",
+   "text": "WHAAAAAAALES!"
+  },
+  {
+   "i": 168,
+   "start": 391.28,
+   "end": 393.28,
+   "kind": "dialog",
+   "speaker": "Superman",
+   "text": "Someone! Get him out of here!"
+  },
+  {
+   "i": 169,
+   "start": 393.58,
+   "end": 395.58,
+   "kind": "dialog",
+   "speaker": "Aquaman",
+   "text": "But the whaaaaales..."
+  },
+  {
+   "i": 170,
+   "start": 396.8,
+   "end": 398.46,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "Meanwhile, back on Arlia..."
+  },
+  {
+   "i": 171,
+   "start": 399.0,
+   "end": 402.16,
+   "kind": "dialog",
+   "speaker": "King Moai",
+   "text": "There, I banged my wife. Will ya leave us in peace?"
+  },
+  {
+   "i": 172,
+   "start": 402.28,
+   "end": 404.82,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Actually, no, I’m still going to kill you."
+  },
+  {
+   "i": 173,
+   "start": 405.8,
+   "end": 408.28,
+   "kind": "dialog",
+   "speaker": "King Moai",
+   "text": "...Summon the Rancor!"
+  },
+  {
+   "i": 174,
+   "start": 408.68,
+   "end": 410.5,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Vegeta. It’s..."
+  },
+  {
+   "i": 175,
+   "start": 411.46,
+   "end": 411.96,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "It's..."
+  },
+  {
+   "i": 176,
+   "start": 411.46,
+   "end": 413.12,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Rancor growls"
+  },
+  {
+   "i": 177,
+   "start": 413.3,
+   "end": 414.78,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "IT’S SO CUTE!"
+  },
+  {
+   "i": 178,
+   "start": 414.78,
+   "end": 417.18,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Can I keep it? Can I keep it!?"
+  },
+  {
+   "i": 179,
+   "start": 417.18,
+   "end": 418.78,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Fine; just catch it or something."
+  },
+  {
+   "i": 180,
+   "start": 419.0,
+   "end": 420.02,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Yaaaay!"
+  },
+  {
+   "i": 181,
+   "start": 420.56,
+   "end": 421.7,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Here, boy! Shake!"
+  },
+  {
+   "i": 182,
+   "start": 421.94,
+   "end": 423.66,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Ahhh, got your finger."
+  },
+  {
+   "i": 183,
+   "start": 421.94,
+   "end": 424.24,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Rancor wails"
+  },
+  {
+   "i": 184,
+   "start": 424.24,
+   "end": 427.5,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Okay. Now, boy! Catch the ball. Catch the ball! Huagh!"
+  },
+  {
+   "i": 185,
+   "start": 427.5,
+   "end": 429.16,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Awwww...!"
+  },
+  {
+   "i": 186,
+   "start": 429.26,
+   "end": 431.26,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Aw, I broke-ded it, Vegeta."
+  },
+  {
+   "i": 187,
+   "start": 431.58,
+   "end": 434.6,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "It must’ve been made of something weak, like paper maché..."
+  },
+  {
+   "i": 188,
+   "start": 435.0,
+   "end": 435.9,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "...or Raditz!"
+  },
+  {
+   "i": 189,
+   "start": 436.78,
+   "end": 438.66,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Audio degraded due to copyright issues"
+  },
+  {
+   "i": 190,
+   "start": 436.78,
+   "end": 438.66,
+   "kind": "dialog",
+   "speaker": "King Moai",
+   "text": "Please! We’ll do anything you want!"
+  },
+  {
+   "i": 191,
+   "start": 438.66,
+   "end": 440.7,
+   "kind": "dialog",
+   "speaker": "King Moai",
+   "text": "We’ll give you riches! Women!"
+  },
+  {
+   "i": 192,
+   "start": 441.04,
+   "end": 442.22,
+   "kind": "dialog",
+   "speaker": "King Moai",
+   "text": "Wait, what are you doing?"
+  },
+  {
+   "i": 193,
+   "start": 442.5,
+   "end": 446.2,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I’m about to rock you... like a hurricane."
+  },
+  {
+   "i": 194,
+   "start": 446.44,
+   "end": 447.86,
+   "kind": "dialog",
+   "speaker": "King Moai",
+   "text": "I~ love that so--!"
+  },
+  {
+   "i": 195,
+   "start": 447.86,
+   "end": 449.06,
+   "kind": "dialog",
+   "speaker": "King Moai",
+   "text": "AAUGHWRRGH!!"
+  },
+  {
+   "i": 196,
+   "start": 450.02,
+   "end": 452.96,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Ha! Did you see that, Nappa? That was *totally* bada--!"
+  },
+  {
+   "i": 197,
+   "start": 452.96,
+   "end": 454.2,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "W-what are you doing?"
+  },
+  {
+   "i": 198,
+   "start": 454.36,
+   "end": 456.36,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "I’m cuddling it, Vegeta."
+  },
+  {
+   "i": 199,
+   "start": 456.6,
+   "end": 457.72,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "It’s dead, Nappa."
+  },
+  {
+   "i": 200,
+   "start": 458.0,
+   "end": 460.94,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "NOOOOOOOOO!!"
+  },
+  {
+   "i": 201,
+   "start": 461.38,
+   "end": 466.5,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "(Cries)... oh, I remember when we first got him, Vegeta..."
+  },
+  {
+   "i": 202,
+   "start": 466.68,
+   "end": 471.0,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Barbara Streisand’s “The Way We Were” is not playing due to copyright issues"
+  },
+  {
+   "i": 203,
+   "start": 471.0,
+   "end": 474.0,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Just skip to 8:21 if you want to"
+  },
+  {
+   "i": 204,
+   "start": 502.38,
+   "end": 504.38,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Ahh, good times."
+  },
+  {
+   "i": 205,
+   "start": 504.68,
+   "end": 506.68,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Audio back to normal"
+  },
+  {
+   "i": 206,
+   "start": 504.68,
+   "end": 506.68,
+   "kind": "dialog",
+   "speaker": "Atla",
+   "text": "You have freed our race!"
+  },
+  {
+   "i": 207,
+   "start": 506.68,
+   "end": 509.8,
+   "kind": "dialog",
+   "speaker": "Atla",
+   "text": "You two are the greatest heroes known to our planet!"
+  },
+  {
+   "i": 208,
+   "start": 509.94,
+   "end": 511.94,
+   "kind": "dialog",
+   "speaker": "Atla",
+   "text": "We shall erect statues of you..."
+  },
+  {
+   "i": 209,
+   "start": 512.12,
+   "end": 513.76,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Well, isn’t that nice of them, Vege--?"
+  },
+  {
+   "i": 210,
+   "start": 513.76,
+   "end": 515.3,
+   "kind": "dialog",
+   "speaker": "Atla",
+   "text": "...out of our dung."
+  },
+  {
+   "i": 211,
+   "start": 517.82,
+   "end": 518.9,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Well, isn’t that nice of them, Ve--?"
+  },
+  {
+   "i": 212,
+   "start": 518.9,
+   "end": 519.94,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "We’re leaving, Nappa."
+  },
+  {
+   "i": 213,
+   "start": 519.94,
+   "end": 520.6,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "‘K."
+  },
+  {
+   "i": 214,
+   "start": 521.3,
+   "end": 525.12,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Look at us, Vegeta. We've saved an entire race from tyranny."
+  },
+  {
+   "i": 215,
+   "start": 525.12,
+   "end": 528.92,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "We’re heroes, Vegeta. We are a couple of really great guy--"
+  },
+  {
+   "i": 216,
+   "start": 533.06,
+   "end": 537.94,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "...Ha ha! Ahaha! Aha! Ahhhhhh... tragic."
+  },
+  {
+   "i": 217,
+   "start": 538.66,
+   "end": 542.2,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ Closing theme (DBZ intermission) ♫"
+  },
+  {
+   "i": 218,
+   "start": 545.56,
+   "end": 549.22,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "'Wow, I finally learned how to survive all by myself.'"
+  },
+  {
+   "i": 219,
+   "start": 549.22,
+   "end": 552.4,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "'Live on my own, and surviving off the fat of the land.'"
+  },
+  {
+   "i": 220,
+   "start": 552.72,
+   "end": 554.7,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "'Mr. Piccolo will be so proud--'"
+  },
+  {
+   "i": 221,
+   "start": 554.7,
+   "end": 555.94,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "YAAAYYYAYAYAY...!"
+  },
+  {
+   "i": 222,
+   "start": 555.94,
+   "end": 556.72,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Thud"
+  },
+  {
+   "i": 223,
+   "start": 556.72,
+   "end": 557.74,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Ehhgruuh..."
+  },
+  {
+   "i": 224,
+   "start": 557.74,
+   "end": 559.96,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "DOOOOOOOOOOOODGE!!"
+  }
+ ],
+ "segments": [
+  {
+   "start": 15.9,
+   "end": 31.78,
+   "title": "Nice Job, Jackass",
+   "quote": "That must be King Kai's place! Woohooo... aaaaaaaieeeeeee--! / Nice job, jackass!",
+   "line_start": 4,
+   "line_end": 10
+  },
+  {
+   "start": 52.5,
+   "end": 68.42,
+   "title": "Are We There Yet?",
+   "quote": "Are we there yet? / No. / Are we there yet? / No. ... Nappa, if it'll shut you up for FIVE minutes, then FINE!",
+   "line_start": 11,
+   "line_end": 25
+  },
+  {
+   "start": 89.0,
+   "end": 109.84,
+   "title": "We're In Prison, Vegeta",
+   "quote": "*Don't drop the soap*. / I swear to God, Nappa, I will shiv you.",
+   "line_start": 35,
+   "line_end": 46
+  },
+  {
+   "start": 138.4,
+   "end": 156.66,
+   "title": "Shut Up, Bojack!",
+   "quote": "I have an unbelievably *powerful* space pirate locked up in the depths of my planet. / Yarr! Get me outta here!",
+   "line_start": 58,
+   "line_end": 65
+  },
+  {
+   "start": 208.6,
+   "end": 240.88,
+   "title": "I Saw a Fish",
+   "quote": "NAAAAAAAAIIIIILL! / What is it, Lord Guru? / I saw a fish. ... I saw a bird. It was pretty. Kick its ass.",
+   "line_start": 92,
+   "line_end": 104
+  },
+  {
+   "start": 288.1,
+   "end": 330.3,
+   "title": "Breed for Us!",
+   "quote": "Hey! You guys! Breed for us! ... AWWWW, THERE WE GO! / ...Oh, snap that thorax...",
+   "line_start": 124,
+   "line_end": 143
+  },
+  {
+   "start": 330.0,
+   "end": 367.2,
+   "title": "DODGE!",
+   "quote": "What about how to fly--? / Dodge! ... But I think I'm finally getting the hang of it-- / DODGE!",
+   "line_start": 144,
+   "line_end": 158
+  },
+  {
+   "start": 367.3,
+   "end": 395.58,
+   "title": "WHAAAAAAALES!",
+   "quote": "Come on, guys! We could use *whales*! WHAAAAAAALES!",
+   "line_start": 159,
+   "line_end": 169
+  },
+  {
+   "start": 405.3,
+   "end": 435.9,
+   "title": "Nappa's New Pet",
+   "quote": "...Summon the Rancor! / IT'S SO CUTE! Can I keep it? ... Aw, I broke-ded it, Vegeta. It must've been made of something weak, like paper maché... ...or Raditz!",
+   "line_start": 173,
+   "line_end": 188
+  },
+  {
+   "start": 440.5,
+   "end": 449.06,
+   "title": "Rock You Like a Hurricane",
+   "quote": "I'm about to rock you... like a hurricane.",
+   "line_start": 192,
+   "line_end": 195
+  },
+  {
+   "start": 504.2,
+   "end": 537.94,
+   "title": "Statues Out of Dung",
+   "quote": "We shall erect statues of you... ...out of our dung. / We're heroes, Vegeta. We are a couple of really great guy-- / ...Ha ha! Ahaha! Aha! Ahhhhhh... tragic.",
+   "line_start": 206,
+   "line_end": 216
+  },
+  {
+   "start": 545.0,
+   "end": 559.96,
+   "title": "DOOOOODGE! (Stinger)",
+   "quote": "'Mr. Piccolo will be so proud--' / DOOOOOOOOOOOODGE!!",
+   "line_start": 218,
+   "line_end": 224
+  }
+ ]
+}

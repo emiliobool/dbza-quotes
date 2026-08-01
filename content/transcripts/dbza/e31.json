@@ -1,0 +1,1731 @@
+{
+ "item": "e31",
+ "show": "dbza",
+ "youtube": "xsHRRHW6sGw",
+ "title": "Episode 29",
+ "duration": 617,
+ "lines": [
+  {
+   "i": 0,
+   "start": 9.9,
+   "end": 11.34,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Whew! Alright, how was that?"
+  },
+  {
+   "i": 1,
+   "start": 11.34,
+   "end": 11.86,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Buzzer"
+  },
+  {
+   "i": 2,
+   "start": 11.86,
+   "end": 15.3,
+   "kind": "dialog",
+   "speaker": "Lanipator",
+   "text": "That was perfect, Krillin. Uh, don't worry about your check; we'll send it to your next-of-kin."
+  },
+  {
+   "i": 3,
+   "start": 16.66,
+   "end": 17.2,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "...What?"
+  },
+  {
+   "i": 4,
+   "start": 20.52,
+   "end": 23.72,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "That last attack drained all of his energy. We gotta help him!"
+  },
+  {
+   "i": 5,
+   "start": 23.72,
+   "end": 27.22,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "You're right, Gohan. It's time to get in there and throw down!"
+  },
+  {
+   "i": 6,
+   "start": 27.22,
+   "end": 28.22,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Really, Krillin?"
+  },
+  {
+   "i": 7,
+   "start": 28.22,
+   "end": 29.84,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Ha ha! F**k no!"
+  },
+  {
+   "i": 8,
+   "start": 52.5,
+   "end": 54.14,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(Gurgling underwater)"
+  },
+  {
+   "i": 9,
+   "start": 54.14,
+   "end": 56.14,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(Coughing)"
+  },
+  {
+   "i": 10,
+   "start": 57.78,
+   "end": 60.66,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Now what do you have to say for yourself, monkey?"
+  },
+  {
+   "i": 11,
+   "start": 60.66,
+   "end": 61.56,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(Coughs)"
+  },
+  {
+   "i": 12,
+   "start": 62.7,
+   "end": 64.8,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Ah! Ooh! Gah! Guh! Oh! Sunofa--!"
+  },
+  {
+   "i": 13,
+   "start": 66.84,
+   "end": 69.46,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "You know what? This is totally bogus."
+  },
+  {
+   "i": 14,
+   "start": 69.46,
+   "end": 72.92,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "I'm going to do my best to ignore that you just used the word \"bogus\"."
+  },
+  {
+   "i": 15,
+   "start": 72.92,
+   "end": 75.36,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "King Kai hasn't taught us *crap* since we got here."
+  },
+  {
+   "i": 16,
+   "start": 75.54,
+   "end": 81.0,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "And what's worse - Piccolo didn't even have to train with us. He just sat and meditated all the time."
+  },
+  {
+   "i": 17,
+   "start": 81.0,
+   "end": 82.04,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "You're just jealous."
+  },
+  {
+   "i": 18,
+   "start": 82.04,
+   "end": 82.8,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "No I'm no--!"
+  },
+  {
+   "i": 19,
+   "start": 82.8,
+   "end": 83.3,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Okay a little."
+  },
+  {
+   "i": 20,
+   "start": 83.44,
+   "end": 85.3,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "RECOOOOOOMMEE..."
+  },
+  {
+   "i": 21,
+   "start": 85.3,
+   "end": 86.66,
+   "kind": "dialog",
+   "speaker": "Chiaotzu",
+   "text": "Hey, do you guys hear that?"
+  },
+  {
+   "i": 22,
+   "start": 86.66,
+   "end": 89.86,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "DIIIIIIIIIIIIIIVVVEEE!"
+  },
+  {
+   "i": 23,
+   "start": 92.0,
+   "end": 92.7,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "Hello!"
+  },
+  {
+   "i": 24,
+   "start": 92.7,
+   "end": 93.32,
+   "kind": "dialog",
+   "speaker": "Bojack",
+   "text": "Yargh!"
+  },
+  {
+   "i": 25,
+   "start": 94.34,
+   "end": 95.58,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "I've got his left leg!"
+  },
+  {
+   "i": 26,
+   "start": 95.58,
+   "end": 96.4,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "I've got his right!"
+  },
+  {
+   "i": 27,
+   "start": 96.4,
+   "end": 97.7,
+   "kind": "dialog",
+   "speaker": "Guldo",
+   "text": "I've got his middle!"
+  },
+  {
+   "i": 28,
+   "start": 100.32,
+   "end": 101.72,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "Hey. What's up?"
+  },
+  {
+   "i": 29,
+   "start": 102.1,
+   "end": 103.82,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Ssso, are you guys--?"
+  },
+  {
+   "i": 30,
+   "start": 103.82,
+   "end": 104.78,
+   "kind": "dialog",
+   "speaker": "Guldo",
+   "text": "We'reunderattack!"
+  },
+  {
+   "i": 31,
+   "start": 106.44,
+   "end": 108.48,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "Whoa, a little quick to the trigger there, ace."
+  },
+  {
+   "i": 32,
+   "start": 108.48,
+   "end": 112.62,
+   "kind": "dialog",
+   "speaker": "Guldo",
+   "text": "Sorry, I kind of lost my head there after I... lost my head."
+  },
+  {
+   "i": 33,
+   "start": 113.78,
+   "end": 119.36,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Hey, I was just inside, takin' a crap. I'm old, it takes me a while. I come out, and there's a tree in my living room. What's up?"
+  },
+  {
+   "i": 34,
+   "start": 119.48,
+   "end": 123.58,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "We were just standing around and talking about your awesome traIning, and then these guys showed up."
+  },
+  {
+   "i": 35,
+   "start": 123.58,
+   "end": 125.04,
+   "kind": "dialog",
+   "speaker": "Chiaotzu",
+   "text": "Look like a bunch of queers."
+  },
+  {
+   "i": 36,
+   "start": 125.08,
+   "end": 128.9,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Chiaotzu! We don't even know them. You shouldn't make such rash judgements abou--"
+  },
+  {
+   "i": 37,
+   "start": 128.9,
+   "end": 131.6,
+   "kind": "dialog",
+   "speaker": "Ginyu Force",
+   "text": "♪ TOKUSENTAI! ♪"
+  },
+  {
+   "i": 38,
+   "start": 132.92,
+   "end": 135.12,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "...well, we shouldn't think less of them for it."
+  },
+  {
+   "i": 39,
+   "start": 135.12,
+   "end": 136.84,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "G'day, mates! How ya goin'?"
+  },
+  {
+   "i": 40,
+   "start": 136.84,
+   "end": 141.02,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "We're here to take control of your planet in the name of Lord Freeza! Sorry about that."
+  },
+  {
+   "i": 41,
+   "start": 141.02,
+   "end": 143.66,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Ha, ha ha! Ah yeah, good luck with that."
+  },
+  {
+   "i": 42,
+   "start": 143.78,
+   "end": 145.62,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Alright guys, show 'em who's boss."
+  },
+  {
+   "i": 43,
+   "start": 145.62,
+   "end": 146.3,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "That'd be you."
+  },
+  {
+   "i": 44,
+   "start": 146.3,
+   "end": 147.3,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Yep, all you man!"
+  },
+  {
+   "i": 45,
+   "start": 147.3,
+   "end": 148.18,
+   "kind": "dialog",
+   "speaker": "Chiaotzu",
+   "text": "You're the boss!"
+  },
+  {
+   "i": 46,
+   "start": 148.18,
+   "end": 148.86,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "WHAT?!"
+  },
+  {
+   "i": 47,
+   "start": 148.86,
+   "end": 154.42,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "What? Recoome has to fight *this*? He doesn't even come up to Recoome's knee caps!"
+  },
+  {
+   "i": 48,
+   "start": 154.42,
+   "end": 156.7,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Prolly can't even 'andle a gut full o' piss!"
+  },
+  {
+   "i": 49,
+   "start": 156.7,
+   "end": 158.22,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "I'll bet you can't even run a mile!"
+  },
+  {
+   "i": 50,
+   "start": 158.22,
+   "end": 159.32,
+   "kind": "dialog",
+   "speaker": "Guldo",
+   "text": "YOU'RE BLUE!"
+  },
+  {
+   "i": 51,
+   "start": 159.76,
+   "end": 162.06,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Yeah, all of you can just go straight to Hell."
+  },
+  {
+   "i": 52,
+   "start": 162.2,
+   "end": 166.18,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "Oh yeah? And who's gonna make Recoome?"
+  },
+  {
+   "i": 53,
+   "start": 167.56,
+   "end": 169.98,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Singing in German"
+  },
+  {
+   "i": 54,
+   "start": 175.96,
+   "end": 179.14,
+   "kind": "dialog",
+   "speaker": "Goz",
+   "text": "Meeez! We have visitoooors!"
+  },
+  {
+   "i": 55,
+   "start": 179.14,
+   "end": 181.14,
+   "kind": "dialog",
+   "speaker": "Goz",
+   "text": "Prepare ze camps!"
+  },
+  {
+   "i": 56,
+   "start": 181.5,
+   "end": 186.14,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Well, that takes care of that. Hm, that reminds me - wonder how Goku's doing."
+  },
+  {
+   "i": 57,
+   "start": 188.76,
+   "end": 189.82,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "That's about right."
+  },
+  {
+   "i": 58,
+   "start": 190.12,
+   "end": 193.08,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "No... I... can't lose."
+  },
+  {
+   "i": 59,
+   "start": 193.4,
+   "end": 195.18,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I have to beat you."
+  },
+  {
+   "i": 60,
+   "start": 195.56,
+   "end": 198.82,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "You're evil, and you have to be stopped."
+  },
+  {
+   "i": 61,
+   "start": 198.82,
+   "end": 205.64,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Oh, come now. If I'm really as evil as you say I am, then let God strike me down where I stand!"
+  },
+  {
+   "i": 62,
+   "start": 207.72,
+   "end": 213.58,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Ha! Nice try, jackass. Next time, give it your A-game! Anyway, back to f--"
+  },
+  {
+   "i": 63,
+   "start": 214.22,
+   "end": 215.38,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "...What are you doing?"
+  },
+  {
+   "i": 64,
+   "start": 215.78,
+   "end": 219.0,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'Have to use the Spirit Bomb. It's my only chance!'"
+  },
+  {
+   "i": 65,
+   "start": 219.22,
+   "end": 224.98,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Seriously, what... what is this all about? A-are you trying to tell me you once caught a fish that big?"
+  },
+  {
+   "i": 66,
+   "start": 224.98,
+   "end": 226.84,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I'm just... stretchin'."
+  },
+  {
+   "i": 67,
+   "start": 227.04,
+   "end": 228.52,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "In the middle of a fight..."
+  },
+  {
+   "i": 68,
+   "start": 228.98,
+   "end": 229.72,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Yes."
+  },
+  {
+   "i": 69,
+   "start": 230.08,
+   "end": 234.72,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'I have only one chance... but this planet barely has enough energy left as it is...'"
+  },
+  {
+   "i": 70,
+   "start": 235.1,
+   "end": 238.34,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'Wait! I'll just draw from the surrounding planets!'"
+  },
+  {
+   "i": 71,
+   "start": 247.1,
+   "end": 249.86,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "What's going on? He's just standing there with his hands up."
+  },
+  {
+   "i": 72,
+   "start": 250.14,
+   "end": 251.26,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "'Wait a second...'"
+  },
+  {
+   "i": 73,
+   "start": 251.54,
+   "end": 253.4,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "HE'S USING THE SPIRIT BOMB!"
+  },
+  {
+   "i": 74,
+   "start": 253.4,
+   "end": 254.52,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "The Spirit-what's-it-now?"
+  },
+  {
+   "i": 75,
+   "start": 254.52,
+   "end": 255.36,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'Aw, no...'"
+  },
+  {
+   "i": 76,
+   "start": 255.36,
+   "end": 256.76,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Would you stop screami--?"
+  },
+  {
+   "i": 77,
+   "start": 256.76,
+   "end": 259.94,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "THE SPIRIT BOMB IS THE ONLY THING THAT CAN KILL FREEZA!"
+  },
+  {
+   "i": 78,
+   "start": 260.08,
+   "end": 260.76,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "SHUT UP!"
+  },
+  {
+   "i": 79,
+   "start": 260.76,
+   "end": 261.52,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Too scared!"
+  },
+  {
+   "i": 80,
+   "start": 261.52,
+   "end": 262.28,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Dammit!"
+  },
+  {
+   "i": 81,
+   "start": 262.28,
+   "end": 264.38,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "What is that fool yammering on about?"
+  },
+  {
+   "i": 82,
+   "start": 264.44,
+   "end": 267.76,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "He's talking about... ghosts."
+  },
+  {
+   "i": 83,
+   "start": 268.0,
+   "end": 268.86,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "\"Ghosts\"."
+  },
+  {
+   "i": 84,
+   "start": 268.86,
+   "end": 272.6,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Yeah, you know... spirits... ghosts..."
+  },
+  {
+   "i": 85,
+   "start": 272.6,
+   "end": 274.32,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "What do ghosts have to do with this?"
+  },
+  {
+   "i": 86,
+   "start": 274.32,
+   "end": 275.32,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Everything."
+  },
+  {
+   "i": 87,
+   "start": 275.58,
+   "end": 278.94,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "That's stupid! You're stupid! STOP BEING STUPID!"
+  },
+  {
+   "i": 88,
+   "start": 278.94,
+   "end": 281.78,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Ooor... maybe I'm just being rhetorical."
+  },
+  {
+   "i": 89,
+   "start": 281.88,
+   "end": 287.74,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "*No*! No, you're *not*! God, it's like you just use words you hear randomly to try and sound smarter."
+  },
+  {
+   "i": 90,
+   "start": 287.74,
+   "end": 289.82,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Huh! Well, now you're just acting transcendent."
+  },
+  {
+   "i": 91,
+   "start": 289.82,
+   "end": 290.44,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "HRRR!"
+  },
+  {
+   "i": 92,
+   "start": 290.44,
+   "end": 291.34,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "AAAAGH!"
+  },
+  {
+   "i": 93,
+   "start": 291.34,
+   "end": 295.52,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Oh no! If Goku can't focus on the Spirit Bomb, he doesn't stand a chance!"
+  },
+  {
+   "i": 94,
+   "start": 295.52,
+   "end": 299.58,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "I think the issue is *less* about him focusing, and more about *staying alive*."
+  },
+  {
+   "i": 95,
+   "start": 299.58,
+   "end": 304.08,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I don't get it though, where's the ba-- a-a-aaaa-HOLY BALLS!"
+  },
+  {
+   "i": 96,
+   "start": 304.28,
+   "end": 307.62,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Wow! Is that... the Spirit Bomb?"
+  },
+  {
+   "i": 97,
+   "start": 307.62,
+   "end": 308.66,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "It's massive!"
+  },
+  {
+   "i": 98,
+   "start": 308.66,
+   "end": 312.36,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "OH, MY GOD! THAT THING'S GIGANTIC! IT'S GONNA KILL FREEZA FOR SU--!"
+  },
+  {
+   "i": 99,
+   "start": 311.86,
+   "end": 312.36,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "SHUT UP!"
+  },
+  {
+   "i": 100,
+   "start": 312.36,
+   "end": 312.86,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "SMACK"
+  },
+  {
+   "i": 101,
+   "start": 312.36,
+   "end": 312.86,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "AH A-HA!"
+  },
+  {
+   "i": 102,
+   "start": 313.3,
+   "end": 313.8,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "HEEEYA!"
+  },
+  {
+   "i": 103,
+   "start": 313.8,
+   "end": 314.3,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "AH!"
+  },
+  {
+   "i": 104,
+   "start": 315.6,
+   "end": 319.52,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "There you are again! Throwing your hands up in the air like you just don't care."
+  },
+  {
+   "i": 105,
+   "start": 319.84,
+   "end": 320.78,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "CARE, DAMMIT!"
+  },
+  {
+   "i": 106,
+   "start": 320.78,
+   "end": 321.8,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "AAAAGH!"
+  },
+  {
+   "i": 107,
+   "start": 324.52,
+   "end": 326.04,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Dammit, this is bad...!"
+  },
+  {
+   "i": 108,
+   "start": 326.32,
+   "end": 327.08,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Dad!"
+  },
+  {
+   "i": 109,
+   "start": 328.76,
+   "end": 330.76,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(Breathing hard)"
+  },
+  {
+   "i": 110,
+   "start": 331.92,
+   "end": 333.3,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "I believe I'm done."
+  },
+  {
+   "i": 111,
+   "start": 333.68,
+   "end": 338.98,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "As entertaining a punching bag you make, I find there is no more enjoyment to be found here."
+  },
+  {
+   "i": 112,
+   "start": 338.98,
+   "end": 342.62,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Wait! We could always play a game of 20 Questions."
+  },
+  {
+   "i": 113,
+   "start": 342.62,
+   "end": 346.0,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Alright, then. First question: Are you about to die?"
+  },
+  {
+   "i": 114,
+   "start": 346.0,
+   "end": 346.54,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "No."
+  },
+  {
+   "i": 115,
+   "start": 346.54,
+   "end": 349.28,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Uh-uh-uh. *No lying.*"
+  },
+  {
+   "i": 116,
+   "start": 349.28,
+   "end": 350.1,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Damn!"
+  },
+  {
+   "i": 117,
+   "start": 350.1,
+   "end": 351.5,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Say goodbye, monkey--"
+  },
+  {
+   "i": 118,
+   "start": 351.5,
+   "end": 355.0,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "aahauhh! Wh-what... what is that glare?"
+  },
+  {
+   "i": 119,
+   "start": 355.36,
+   "end": 364.32,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "That's not a sun. I-It's not a moon and it's certainly not a space station-- What is that? What... is... that-- WHAT IS THAT?!"
+  },
+  {
+   "i": 120,
+   "start": 364.32,
+   "end": 366.7,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Are we still playing 20 Questions?"
+  },
+  {
+   "i": 121,
+   "start": 366.7,
+   "end": 368.96,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "You were planning on using that on me, weren't you?!"
+  },
+  {
+   "i": 122,
+   "start": 369.54,
+   "end": 370.62,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Yeah..."
+  },
+  {
+   "i": 123,
+   "start": 370.62,
+   "end": 375.32,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "I don't know where you got that much power from, but it doesn't really matter now, does it?"
+  },
+  {
+   "i": 124,
+   "start": 375.32,
+   "end": 375.9,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Errh!"
+  },
+  {
+   "i": 125,
+   "start": 377.46,
+   "end": 378.28,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "IYAGH!"
+  },
+  {
+   "i": 126,
+   "start": 378.54,
+   "end": 379.8,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Aw, nuts...!"
+  },
+  {
+   "i": 127,
+   "start": 379.8,
+   "end": 383.24,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Looks like that whole \"Super Saiyan\" thing didn't pan out after all."
+  },
+  {
+   "i": 128,
+   "start": 383.24,
+   "end": 383.8,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "IYUHH!"
+  },
+  {
+   "i": 129,
+   "start": 383.8,
+   "end": 388.54,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "When you see Vegeta, tell him I said, \"Like a bitch.\""
+  },
+  {
+   "i": 130,
+   "start": 388.54,
+   "end": 391.32,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "What the-- FUUUUUUUUUU...?!"
+  },
+  {
+   "i": 131,
+   "start": 391.32,
+   "end": 392.82,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "BOOM"
+  },
+  {
+   "i": 132,
+   "start": 392.82,
+   "end": 394.28,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Piccolo? What are you doing here-?"
+  },
+  {
+   "i": 133,
+   "start": 394.28,
+   "end": 395.8,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "No talk time. Plan now!"
+  },
+  {
+   "i": 134,
+   "start": 395.8,
+   "end": 398.84,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Well, I still got the Spirit Bomb, but I need both arms to charge it."
+  },
+  {
+   "i": 135,
+   "start": 399.08,
+   "end": 401.12,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "You'll have to distract him while I gather energy."
+  },
+  {
+   "i": 136,
+   "start": 401.12,
+   "end": 402.28,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Well, that's not so ba--"
+  },
+  {
+   "i": 137,
+   "start": 402.28,
+   "end": 407.66,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "For five minutes. And, considering how bad he was kicking my butt... eh, I'm sure you can handle it."
+  },
+  {
+   "i": 138,
+   "start": 408.16,
+   "end": 410.2,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Did... you just hold a grudge??"
+  },
+  {
+   "i": 139,
+   "start": 411.0,
+   "end": 414.34,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "AND I JUST KEEP GETTING REMINDED OF MY FAILURES!"
+  },
+  {
+   "i": 140,
+   "start": 414.34,
+   "end": 416.9,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "You mean your failure at killing me, or just in general?"
+  },
+  {
+   "i": 141,
+   "start": 416.9,
+   "end": 417.4,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "EURGGH!"
+  },
+  {
+   "i": 142,
+   "start": 417.4,
+   "end": 424.26,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "(Various grunts of pain)"
+  },
+  {
+   "i": 143,
+   "start": 418.38,
+   "end": 420.44,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "♪ 'Mahna dada, do do do-do do' ♪"
+  },
+  {
+   "i": 144,
+   "start": 420.44,
+   "end": 420.94,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'...'"
+  },
+  {
+   "i": 145,
+   "start": 420.94,
+   "end": 422.7,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "♪ 'Mahna Mahna, do do-do do' ♪"
+  },
+  {
+   "i": 146,
+   "start": 422.7,
+   "end": 423.2,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'...'"
+  },
+  {
+   "i": 147,
+   "start": 423.2,
+   "end": 425.34,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "♪ 'Mahna Mahna, do do de-de-de' ♪"
+  },
+  {
+   "i": 148,
+   "start": 424.26,
+   "end": 428.64,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Ah, no, no, no, no... ah-- oh God, my glubok!"
+  },
+  {
+   "i": 149,
+   "start": 425.34,
+   "end": 426.78,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "♪ 'De-de-de, de-de-de, de-do-do' ♪"
+  },
+  {
+   "i": 150,
+   "start": 426.78,
+   "end": 428.64,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "♪ 'I'ma chargin’ my attack...' ♪"
+  },
+  {
+   "i": 151,
+   "start": 428.64,
+   "end": 429.7,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "ARGH-YEGH!"
+  },
+  {
+   "i": 152,
+   "start": 429.7,
+   "end": 432.9,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "You know, I think I have an insta-fix for this situation."
+  },
+  {
+   "i": 153,
+   "start": 432.9,
+   "end": 436.54,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "I'm going to blow you and this whole miserable planet to *nothing*!"
+  },
+  {
+   "i": 154,
+   "start": 436.54,
+   "end": 437.76,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "ISN'T THAT FUN?!"
+  },
+  {
+   "i": 155,
+   "start": 437.76,
+   "end": 440.66,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "(Unhinged laughter)"
+  },
+  {
+   "i": 156,
+   "start": 440.66,
+   "end": 443.24,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "G...Goku, just throw the damn thing!"
+  },
+  {
+   "i": 157,
+   "start": 443.24,
+   "end": 444.66,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Can't. Not done yet."
+  },
+  {
+   "i": 158,
+   "start": 444.66,
+   "end": 445.5,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "What? How?!"
+  },
+  {
+   "i": 159,
+   "start": 445.5,
+   "end": 447.3,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "It's only been 4 minutes and 58--"
+  },
+  {
+   "i": 160,
+   "start": 447.3,
+   "end": 447.8,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "DING"
+  },
+  {
+   "i": 161,
+   "start": 447.8,
+   "end": 448.38,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Done!"
+  },
+  {
+   "i": 162,
+   "start": 452.76,
+   "end": 456.84,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Wha? Oh... somehow I *completely* forgot about that."
+  },
+  {
+   "i": 163,
+   "start": 456.84,
+   "end": 457.78,
+   "kind": "dialog",
+   "speaker": "Spirit Bomb",
+   "text": "OMNOMNOM!"
+  },
+  {
+   "i": 164,
+   "start": 457.78,
+   "end": 458.54,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Oh my God!"
+  },
+  {
+   "i": 165,
+   "start": 459.94,
+   "end": 461.94,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "(Grunting in vain)"
+  },
+  {
+   "i": 166,
+   "start": 473.02,
+   "end": 479.38,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "'If I had any single regret for the countless horrific events that have transpired in my wake... it's that I'm dying.'"
+  },
+  {
+   "i": 167,
+   "start": 479.38,
+   "end": 481.42,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "TIAAAAAAHHHHHH...!!"
+  },
+  {
+   "i": 168,
+   "start": 497.38,
+   "end": 499.22,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "(Coughing)"
+  },
+  {
+   "i": 169,
+   "start": 499.22,
+   "end": 500.98,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Krillin! You're okay!"
+  },
+  {
+   "i": 170,
+   "start": 500.98,
+   "end": 503.26,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I think I swallowed a trout!"
+  },
+  {
+   "i": 171,
+   "start": 506.02,
+   "end": 509.02,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "So... Gohan... think he's dead?"
+  },
+  {
+   "i": 172,
+   "start": 509.02,
+   "end": 511.64,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Krillin, right now I'm more worried about my Dad."
+  },
+  {
+   "i": 173,
+   "start": 511.92,
+   "end": 513.38,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Who do you think I was talking about?"
+  },
+  {
+   "i": 174,
+   "start": 513.52,
+   "end": 515.34,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "(Gasp)... Krillin, look!"
+  },
+  {
+   "i": 175,
+   "start": 515.34,
+   "end": 521.48,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "(Grunt)... 'Alright, come on, you heavy bastard...! No, no one actually help me, that would a little too much...!'"
+  },
+  {
+   "i": 176,
+   "start": 521.9,
+   "end": 524.8,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(Gasps for air, then breathes regularly)"
+  },
+  {
+   "i": 177,
+   "start": 524.8,
+   "end": 525.96,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "They're both alive!"
+  },
+  {
+   "i": 178,
+   "start": 526.02,
+   "end": 527.04,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Nnneat!"
+  },
+  {
+   "i": 179,
+   "start": 527.04,
+   "end": 532.36,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Grandpa... I don't want any more baths today... I'm clean now..."
+  },
+  {
+   "i": 180,
+   "start": 532.36,
+   "end": 533.12,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Dad!"
+  },
+  {
+   "i": 181,
+   "start": 533.4,
+   "end": 535.4,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hey, Gohan!"
+  },
+  {
+   "i": 182,
+   "start": 535.4,
+   "end": 537.7,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "(Joyful, relieved laughter)"
+  },
+  {
+   "i": 183,
+   "start": 539.2,
+   "end": 544.54,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "You know, I gotta admit - after what happened with Vegeta, I was pretty sure the Spirit Bomb was gonna be a dud."
+  },
+  {
+   "i": 184,
+   "start": 544.54,
+   "end": 546.44,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "But we showed him what for."
+  },
+  {
+   "i": 185,
+   "start": 546.44,
+   "end": 552.0,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Yeah. You could say he suffered a bad case of... Freezer burn."
+  },
+  {
+   "i": 186,
+   "start": 552.0,
+   "end": 555.98,
+   "kind": "dialog",
+   "speaker": "Everyone",
+   "text": "(Laughing)"
+  },
+  {
+   "i": 187,
+   "start": 555.98,
+   "end": 557.8,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "(Horrified gasp)"
+  },
+  {
+   "i": 188,
+   "start": 557.8,
+   "end": 561.0,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "By the way...not dead. KthxDIE!"
+  },
+  {
+   "i": 189,
+   "start": 561.46,
+   "end": 563.12,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "BLEUGH-CK!"
+  },
+  {
+   "i": 190,
+   "start": 563.12,
+   "end": 565.52,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Fffffff**k... you..."
+  },
+  {
+   "i": 191,
+   "start": 566.94,
+   "end": 568.32,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Dramatic, mournful music"
+  },
+  {
+   "i": 192,
+   "start": 568.32,
+   "end": 576.06,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "No... *no*... NOOOOOOOOOOOOOOOO!!"
+  },
+  {
+   "i": 193,
+   "start": 578.14,
+   "end": 579.06,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Music cuts-off"
+  },
+  {
+   "i": 194,
+   "start": 578.14,
+   "end": 580.9,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Whoa, for a moment there I thought that was gonna be me."
+  },
+  {
+   "i": 195,
+   "start": 580.9,
+   "end": 582.92,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Oh ho ho... you're next."
+  },
+  {
+   "i": 196,
+   "start": 582.92,
+   "end": 584.32,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Wait, what did I do to you?!"
+  },
+  {
+   "i": 197,
+   "start": 584.32,
+   "end": 586.18,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Remember my TAIL?!"
+  },
+  {
+   "i": 198,
+   "start": 586.18,
+   "end": 587.56,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Can't you take a joke?"
+  },
+  {
+   "i": 199,
+   "start": 590.18,
+   "end": 593.7,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "WAH! WAH! WAH! WAH! WAH! WA--!"
+  },
+  {
+   "i": 200,
+   "start": 593.7,
+   "end": 595.06,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "BOOOOM"
+  },
+  {
+   "i": 201,
+   "start": 600.14,
+   "end": 600.7,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "DING"
+  },
+  {
+   "i": 202,
+   "start": 615.64,
+   "end": 616.76,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Called it."
+  }
+ ],
+ "segments": [
+  {
+   "start": 9.6,
+   "end": 29.8,
+   "title": "That Was Perfect, Krillin",
+   "quote": "Don't worry about your check; we'll send it to your next-of-kin. / It's time to get in there and throw down! / Really, Krillin? / Ha ha! F**k no!",
+   "line_start": 0,
+   "line_end": 7
+  },
+  {
+   "start": 147.9,
+   "end": 166.2,
+   "title": "YOU'RE BLUE!",
+   "quote": "I'll bet you can't even run a mile! / YOU'RE BLUE! / And who's gonna make Recoome?",
+   "line_start": 47,
+   "line_end": 52
+  },
+  {
+   "start": 198.4,
+   "end": 213.6,
+   "title": "Let God Strike Me Down",
+   "quote": "If I'm really as evil as you say I am, then let God strike me down where I stand! ... Ha! Nice try, jackass.",
+   "line_start": 61,
+   "line_end": 62
+  },
+  {
+   "start": 249.8,
+   "end": 262.3,
+   "title": "HE'S USING THE SPIRIT BOMB!",
+   "quote": "HE'S USING THE SPIRIT BOMB! / SHUT UP! / Too scared!",
+   "line_start": 72,
+   "line_end": 80
+  },
+  {
+   "start": 262.3,
+   "end": 289.8,
+   "title": "STOP BEING STUPID!",
+   "quote": "He's talking about... ghosts. / That's stupid! You're stupid! STOP BEING STUPID! / Well, now you're just acting transcendent.",
+   "line_start": 81,
+   "line_end": 90
+  },
+  {
+   "start": 299.3,
+   "end": 312.9,
+   "title": "HOLY BALLS",
+   "quote": "Where's the ba-- a-a-aaaa-HOLY BALLS!",
+   "line_start": 95,
+   "line_end": 101
+  },
+  {
+   "start": 338.7,
+   "end": 366.7,
+   "title": "20 Questions / WHAT IS THAT?!",
+   "quote": "First question: Are you about to die? / No. / *No lying.* / WHAT IS THAT?! / Are we still playing 20 Questions?",
+   "line_start": 112,
+   "line_end": 120
+  },
+  {
+   "start": 383.5,
+   "end": 392.8,
+   "title": "Tell Him I Said, Like a Bitch",
+   "quote": "When you see Vegeta, tell him I said, \"Like a bitch.\" / What the-- FUUUUUUUUUU...?!",
+   "line_start": 129,
+   "line_end": 131
+  },
+  {
+   "start": 414.0,
+   "end": 429.7,
+   "title": "Mahna Mahna",
+   "quote": "♪ 'Mahna Mahna, do do-do do' ♪ / Oh God, my glubok!",
+   "line_start": 140,
+   "line_end": 151
+  },
+  {
+   "start": 440.4,
+   "end": 448.4,
+   "title": "4 Minutes and 58 Seconds",
+   "quote": "Goku, just throw the damn thing! / It's only been 4 minutes and 58-- / DING / Done!",
+   "line_start": 156,
+   "line_end": 161
+  },
+  {
+   "start": 546.1,
+   "end": 561.0,
+   "title": "Freezer Burn / KthxDIE",
+   "quote": "You could say he suffered a bad case of... Freezer burn. / By the way...not dead. KthxDIE!",
+   "line_start": 185,
+   "line_end": 188
+  },
+  {
+   "start": 578.1,
+   "end": 595.1,
+   "title": "Remember My TAIL?!",
+   "quote": "Whoa, for a moment there I thought that was gonna be me. / Oh ho ho... you're next. / Remember my TAIL?! / Can't you take a joke?",
+   "line_start": 194,
+   "line_end": 200
+  }
+ ]
+}

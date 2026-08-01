@@ -1,0 +1,112 @@
+---
+import Base from "../layouts/Base.astro";
+import site from "../gen/site.json";
+const nClips = site.clips.filter((c) => c.status === "published").length;
+const nLines = null; // shown client-side
+---
+
+<Base>
+  <h1>Search Dragon Ball Z Abridged</h1>
+  <input type="search" id="q" placeholder='Try "muffin button", "dodge", "my way"…' autofocus autocomplete="off" />
+  <p class="meta" id="status">Loading transcripts…</p>
+  <div id="results"></div>
+
+  <div id="home-extra">
+    <h2>Popular clips</h2>
+    <p class="meta">{nClips} curated clips mined from a decade of r/TeamFourStar favorites. <a href="/browse/">Browse the catalog →</a></p>
+    <div class="clip-grid" id="top-clips"></div>
+  </div>
+  <div class="toast" id="toast"></div>
+</Base>
+
+<script>
+  import MiniSearch from "minisearch";
+  import { fmtTime, mediaLabel, clipUrl } from "../lib/util.js";
+
+  const $ = (s) => document.querySelector(s);
+  const statusEl = $("#status"), resultsEl = $("#results"), input = $("#q");
+
+  const [searchData, mediaMap, clips] = await Promise.all([
+    fetch("/data/search/dbza.json").then((r) => r.json()),
+    fetch("/data/media.json").then((r) => r.json()),
+    fetch("/data/clips.json").then((r) => r.json()),
+  ]);
+  const media = mediaMap.dbza;
+
+  const docs = searchData.docs.map(([item, i, start, end, speaker, text], id) => ({
+    id, item, i, start, end, speaker: speaker || "", text,
+  }));
+  const mini = new MiniSearch({
+    fields: ["text", "speaker"],
+    storeFields: ["item", "i", "start", "end", "speaker", "text"],
+    searchOptions: { prefix: true, fuzzy: 0.15, combineWith: "AND" },
+  });
+  mini.addAll(docs);
+
+  const clipMini = new MiniSearch({
+    fields: ["quote", "title", "speaker"],
+    storeFields: ["id", "media", "start", "end", "title", "quote", "speaker"],
+    searchOptions: { prefix: true, fuzzy: 0.15, combineWith: "AND" },
+  });
+  clipMini.addAll(clips.map((c, id) => ({ ...c, docId: c.id, id })));
+
+  statusEl.textContent = `${docs.length.toLocaleString()} lines across ${Object.keys(media).length} episodes & movies`;
+
+  const esc = (s) => s.replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  const hl = (text, q) => {
+    let out = esc(text);
+    for (const tok of q.toLowerCase().split(/\s+/).filter((t) => t.length > 1)) {
+      out = out.replace(new RegExp(`(${tok.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")})`, "ig"), "<mark>$1</mark>");
+    }
+    return out;
+  };
+
+  function render(q) {
+    if (!q.trim()) {
+      resultsEl.innerHTML = "";
+      $("#home-extra").style.display = "";
+      return;
+    }
+    $("#home-extra").style.display = "none";
+    const clipHits = clipMini.search(q).slice(0, 5);
+    const hits = mini.search(q).slice(0, 40);
+    let html = "";
+    for (const c of clipHits) {
+      html += `<a class="card" style="display:block;color:inherit" href="/clip/dbza/${c.docId}/">
+        <span class="badge">catalog</span> <strong>${esc(c.title)}</strong>
+        <div class="quote-line"><span class="speaker">${esc(c.speaker || "")}</span> ${hl(c.quote, q)}</div>
+        <div class="meta">${esc(mediaLabel(media[c.media]))}</div></a>`;
+    }
+    for (const h of hits) {
+      const m = media[h.item];
+      html += `<div class="card">
+        <div class="quote-line"><span class="speaker">${esc(h.speaker)}${h.speaker ? ":" : ""}</span> ${hl(h.text, q)}</div>
+        <div class="meta">${esc(mediaLabel(m))} · <span class="tstamp">${fmtTime(h.start)}</span>
+        · <a href="${clipUrl("dbza", h.item, Math.max(0, h.start - 1), h.end + 1.5)}">open clip</a>
+        · <a href="/dbza/${h.item}/#L${h.i}">transcript</a></div></div>`;
+    }
+    resultsEl.innerHTML = html || `<p class="meta">No matches. Try fewer or different words.</p>`;
+  }
+
+  let timer;
+  input.addEventListener("input", () => {
+    clearTimeout(timer);
+    timer = setTimeout(() => {
+      render(input.value);
+      const u = new URL(location);
+      input.value ? u.searchParams.set("q", input.value) : u.searchParams.delete("q");
+      history.replaceState(null, "", u);
+    }, 120);
+  });
+  const initial = new URL(location).searchParams.get("q");
+  if (initial) { input.value = initial; render(initial); }
+
+  // top clips on the home view
+  const top = [...clips].sort((a, b) => (b.signal || 0) - (a.signal || 0)).slice(0, 6);
+  $("#top-clips").innerHTML = top.map((c) => `
+    <a class="clip-card" href="/clip/dbza/${c.id}/">
+      <img loading="lazy" src="https://i.ytimg.com/vi/${media[c.media]?.youtube}/mqdefault.jpg" alt="">
+      <div class="pad"><div class="title">${esc(c.title)}</div>
+      <div class="meta">${esc(c.speaker || "")} · ${esc(mediaLabel(media[c.media]))}</div></div>
+    </a>`).join("");
+</script>

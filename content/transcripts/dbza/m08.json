@@ -1,0 +1,3227 @@
+{
+ "item": "m08",
+ "show": "dbza",
+ "youtube": "BZstUJQ2QLg",
+ "title": "Revenge of Cooler",
+ "duration": 1119,
+ "lines": [
+  {
+   "i": 0,
+   "start": 11.72,
+   "end": 16.14,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "Monsieur Cooler! It seems that your brother Freeza is destroying ze planet Vegeta!"
+  },
+  {
+   "i": 1,
+   "start": 16.34,
+   "end": 19.22,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "Very impressive, killing off a bunch of monkeys."
+  },
+  {
+   "i": 2,
+   "start": 19.58,
+   "end": 22.82,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "Any liquored-up hillbilly with a shotgun could've done that at the zoo."
+  },
+  {
+   "i": 3,
+   "start": 22.9,
+   "end": 25.44,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "Wait, sir! It seems he has missed one ship!"
+  },
+  {
+   "i": 4,
+   "start": 25.74,
+   "end": 27.16,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "We are within range to intercep--"
+  },
+  {
+   "i": 5,
+   "start": 27.16,
+   "end": 28.96,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "No. Let it go."
+  },
+  {
+   "i": 6,
+   "start": 29.2,
+   "end": 30.74,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "But... why?"
+  },
+  {
+   "i": 7,
+   "start": 30.96,
+   "end": 39.3,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "Because if he's going to whine to our father for control over the entire system like a spoiled little brat... ...then he's going to accept the responsibility."
+  },
+  {
+   "i": 8,
+   "start": 40.1,
+   "end": 44.04,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "If this comes back to bite him... ...that's his fault."
+  },
+  {
+   "i": 9,
+   "start": 55.76,
+   "end": 56.56,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "Monsieur Cooler!"
+  },
+  {
+   "i": 10,
+   "start": 56.64,
+   "end": 57.26,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "Hm?"
+  },
+  {
+   "i": 11,
+   "start": 57.68,
+   "end": 62.34,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "Your brother, Lord Freeza... he has been... ...le killed."
+  },
+  {
+   "i": 12,
+   "start": 62.44,
+   "end": 65.86,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "Oh, is that right? And who, Sauza, killed him?"
+  },
+  {
+   "i": 13,
+   "start": 65.88,
+   "end": 68.4,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "It was a... Saiyan."
+  },
+  {
+   "i": 14,
+   "start": 68.4,
+   "end": 71.28,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "Well, I sure hope somebody picks up that phone."
+  },
+  {
+   "i": 15,
+   "start": 71.68,
+   "end": 72.18,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "Le wha--?"
+  },
+  {
+   "i": 16,
+   "start": 72.18,
+   "end": 74.82,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "Because I f*cking called it!"
+  },
+  {
+   "i": 17,
+   "start": 87.04,
+   "end": 90.8,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I can't believe your mom's letting you go camping with us after that whole Namek thing."
+  },
+  {
+   "i": 18,
+   "start": 90.82,
+   "end": 93.9,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Well, I had to make the excuse that I'm studying fauna."
+  },
+  {
+   "i": 19,
+   "start": 93.98,
+   "end": 96.8,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "I have to chart down 12 different species of fern."
+  },
+  {
+   "i": 20,
+   "start": 96.84,
+   "end": 99.2,
+   "kind": "dialog",
+   "speaker": "Oolong",
+   "text": "Wow, that smells fantastic! What's in there?"
+  },
+  {
+   "i": 21,
+   "start": 99.2,
+   "end": 101.1,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Oh, you know, just some essentials."
+  },
+  {
+   "i": 22,
+   "start": 101.1,
+   "end": 105.18,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Carrots, potatoes, pooor... ...poise..."
+  },
+  {
+   "i": 23,
+   "start": 112.28,
+   "end": 116.68,
+   "kind": "dialog",
+   "speaker": "Fish",
+   "text": "Halt, stalwart stranger! If you let me go, I shall grant you one wish."
+  },
+  {
+   "i": 24,
+   "start": 116.82,
+   "end": 118.4,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I wish for you to be my dinner!"
+  },
+  {
+   "i": 25,
+   "start": 118.62,
+   "end": 123.06,
+   "kind": "dialog",
+   "speaker": "Fish",
+   "text": "Help! Help! Help! Helllp! Helllp! Helllp!"
+  },
+  {
+   "i": 26,
+   "start": 118.62,
+   "end": 124.94,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Punching noises"
+  },
+  {
+   "i": 27,
+   "start": 121.1,
+   "end": 122.06,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Huh?"
+  },
+  {
+   "i": 28,
+   "start": 122.06,
+   "end": 124.94,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Whoa-ho! Sounds like Goku caught a big one this time!"
+  },
+  {
+   "i": 29,
+   "start": 125.02,
+   "end": 128.76,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Actually, something feels... off..."
+  },
+  {
+   "i": 30,
+   "start": 129.06,
+   "end": 130.48,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Gohan! Look out! It's the--"
+  },
+  {
+   "i": 31,
+   "start": 130.48,
+   "end": 131.68,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "halalalala..."
+  },
+  {
+   "i": 32,
+   "start": 131.68,
+   "end": 134.1,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Krilli-- augh, 'goodbye, muscle control...'"
+  },
+  {
+   "i": 33,
+   "start": 134.82,
+   "end": 136.8,
+   "kind": "dialog",
+   "speaker": "Doore",
+   "text": "'Ey! Look wot I got roight 'ere!"
+  },
+  {
+   "i": 34,
+   "start": 137.04,
+   "end": 138.54,
+   "kind": "dialog",
+   "speaker": "Doore",
+   "text": "Cute little thang, innit?"
+  },
+  {
+   "i": 35,
+   "start": 138.68,
+   "end": 143.78,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "As a space Frenchman, I must say, I find zis food completely detestable!"
+  },
+  {
+   "i": 36,
+   "start": 143.78,
+   "end": 145.62,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "Ze pork is completely overcooked!"
+  },
+  {
+   "i": 37,
+   "start": 145.64,
+   "end": 148.1,
+   "kind": "dialog",
+   "speaker": "Oolong",
+   "text": "Rot in hell, Krillin! I almost ate that!"
+  },
+  {
+   "i": 38,
+   "start": 148.1,
+   "end": 148.82,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hey!"
+  },
+  {
+   "i": 39,
+   "start": 149.16,
+   "end": 153.78,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "You get away from my food, my friend, my two emergency foods, and my son!"
+  },
+  {
+   "i": 40,
+   "start": 154.04,
+   "end": 155.18,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "In that order!"
+  },
+  {
+   "i": 41,
+   "start": 155.28,
+   "end": 159.42,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "Well, well! I believe zat is ze monkey we are looking for!"
+  },
+  {
+   "i": 42,
+   "start": 159.42,
+   "end": 160.58,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Wait, what did he just say?"
+  },
+  {
+   "i": 43,
+   "start": 160.58,
+   "end": 163.46,
+   "kind": "dialog",
+   "speaker": "Doore",
+   "text": "Oi! 'E said you're the monkey we're looking for!"
+  },
+  {
+   "i": 44,
+   "start": 163.46,
+   "end": 164.56,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I... I don't--"
+  },
+  {
+   "i": 45,
+   "start": 164.56,
+   "end": 167.52,
+   "kind": "dialog",
+   "speaker": "Neiz",
+   "text": "(Gibberish)"
+  },
+  {
+   "i": 46,
+   "start": 168.24,
+   "end": 169.92,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Alright, just tell me who you are."
+  },
+  {
+   "i": 47,
+   "start": 169.98,
+   "end": 173.16,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "♫"
+  },
+  {
+   "i": 48,
+   "start": 169.98,
+   "end": 173.16,
+   "kind": "dialog",
+   "speaker": "Neiz",
+   "text": "(Gibberish)"
+  },
+  {
+   "i": 49,
+   "start": 169.98,
+   "end": 173.16,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "Cooler's Armored Squadron!"
+  },
+  {
+   "i": 50,
+   "start": 169.98,
+   "end": 173.16,
+   "kind": "dialog",
+   "speaker": "Doore",
+   "text": "Cooler's Armored Squadron!"
+  },
+  {
+   "i": 51,
+   "start": 173.16,
+   "end": 175.7,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "♫"
+  },
+  {
+   "i": 52,
+   "start": 175.96,
+   "end": 179.38,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I am having the worst case of deja mustard right now."
+  },
+  {
+   "i": 53,
+   "start": 182.1,
+   "end": 183.44,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "Le suck it, bitch!"
+  },
+  {
+   "i": 54,
+   "start": 185.1,
+   "end": 185.6,
+   "kind": "dialog",
+   "speaker": "Neiz",
+   "text": "Ah!"
+  },
+  {
+   "i": 55,
+   "start": 187.58,
+   "end": 189.0,
+   "kind": "dialog",
+   "speaker": "Neiz",
+   "text": "(Roar)"
+  },
+  {
+   "i": 56,
+   "start": 189.0,
+   "end": 189.5,
+   "kind": "dialog",
+   "speaker": "Neiz",
+   "text": "(Squeal)"
+  },
+  {
+   "i": 57,
+   "start": 191.74,
+   "end": 194.8,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "Monsieur Cooler! We have zis under control!"
+  },
+  {
+   "i": 58,
+   "start": 194.88,
+   "end": 197.9,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "It took us three months to get here. I am not staying in the ship."
+  },
+  {
+   "i": 59,
+   "start": 197.9,
+   "end": 198.52,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(Gasp)"
+  },
+  {
+   "i": 60,
+   "start": 202.44,
+   "end": 203.24,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Freezer!"
+  },
+  {
+   "i": 61,
+   "start": 203.38,
+   "end": 206.12,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "Ha! You think zis is Freeza?"
+  },
+  {
+   "i": 62,
+   "start": 206.26,
+   "end": 207.28,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "No..."
+  },
+  {
+   "i": 63,
+   "start": 207.28,
+   "end": 210.06,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "He... is Cooler..."
+  },
+  {
+   "i": 64,
+   "start": 210.16,
+   "end": 213.64,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Cooler than Freezer? You must be ice cold!"
+  },
+  {
+   "i": 65,
+   "start": 213.7,
+   "end": 215.44,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "No, that would be my father."
+  },
+  {
+   "i": 66,
+   "start": 215.54,
+   "end": 217.8,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Dad! We're coming to help!"
+  },
+  {
+   "i": 67,
+   "start": 217.8,
+   "end": 219.24,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "Oh, is that your son?"
+  },
+  {
+   "i": 68,
+   "start": 219.24,
+   "end": 220.0,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Yeah..."
+  },
+  {
+   "i": 69,
+   "start": 220.0,
+   "end": 220.96,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "I'ma kill it!"
+  },
+  {
+   "i": 70,
+   "start": 220.96,
+   "end": 221.84,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Don't you do it!"
+  },
+  {
+   "i": 71,
+   "start": 221.84,
+   "end": 222.42,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "I'ma do it!"
+  },
+  {
+   "i": 72,
+   "start": 222.42,
+   "end": 223.3,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Don't you do it!"
+  },
+  {
+   "i": 73,
+   "start": 223.84,
+   "end": 224.6,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Dang it!"
+  },
+  {
+   "i": 74,
+   "start": 224.84,
+   "end": 225.34,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Agh!"
+  },
+  {
+   "i": 75,
+   "start": 233.32,
+   "end": 235.1,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "So... who thinks he's dead?"
+  },
+  {
+   "i": 76,
+   "start": 235.14,
+   "end": 235.66,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "Dead."
+  },
+  {
+   "i": 77,
+   "start": 235.66,
+   "end": 236.18,
+   "kind": "dialog",
+   "speaker": "Neiz",
+   "text": "(Gibberish)"
+  },
+  {
+   "i": 78,
+   "start": 236.18,
+   "end": 237.58,
+   "kind": "dialog",
+   "speaker": "Doore",
+   "text": "That boy's dead as mud!"
+  },
+  {
+   "i": 79,
+   "start": 237.58,
+   "end": 240.98,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "Well, too bad; I sign your paychecks. Search the forest."
+  },
+  {
+   "i": 80,
+   "start": 241.6,
+   "end": 242.76,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "<Qu'est-ce que f*ck>...?"
+  },
+  {
+   "i": 81,
+   "start": 241.6,
+   "end": 242.76,
+   "kind": "direction",
+   "speaker": null,
+   "text": "<What is f*ck> (??)"
+  },
+  {
+   "i": 82,
+   "start": 243.5,
+   "end": 251.56,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Licking noises"
+  },
+  {
+   "i": 83,
+   "start": 245.5,
+   "end": 247.88,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Oh... yeah..."
+  },
+  {
+   "i": 84,
+   "start": 248.36,
+   "end": 251.56,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Yeah, that's right, Maron... lower..."
+  },
+  {
+   "i": 85,
+   "start": 252.24,
+   "end": 253.32,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Lower..."
+  },
+  {
+   "i": 86,
+   "start": 253.68,
+   "end": 255.36,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Ah! Icarus?!"
+  },
+  {
+   "i": 87,
+   "start": 256.48,
+   "end": 257.7,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I didn't say stop!"
+  },
+  {
+   "i": 88,
+   "start": 257.7,
+   "end": 258.38,
+   "kind": "dialog",
+   "speaker": "Icarus",
+   "text": "(Confused dragon noise)"
+  },
+  {
+   "i": 89,
+   "start": 261.34,
+   "end": 264.16,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Dad! Wake up! Please!"
+  },
+  {
+   "i": 90,
+   "start": 264.78,
+   "end": 266.78,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh... hey, Gohan."
+  },
+  {
+   "i": 91,
+   "start": 267.2,
+   "end": 271.3,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Do you have Icarus? 'Cause I'm staaarvin'."
+  },
+  {
+   "i": 92,
+   "start": 271.3,
+   "end": 272.34,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Uhh..."
+  },
+  {
+   "i": 93,
+   "start": 272.34,
+   "end": 273.74,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Where are we, anyway?"
+  },
+  {
+   "i": 94,
+   "start": 273.74,
+   "end": 277.7,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "We're hidden in a cave. No one can find us, so we should be safe."
+  },
+  {
+   "i": 95,
+   "start": 284.46,
+   "end": 286.3,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Aw, crap baskets..."
+  },
+  {
+   "i": 96,
+   "start": 287.92,
+   "end": 290.9,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "And now, ze perfect place for a shopping mall!"
+  },
+  {
+   "i": 97,
+   "start": 290.92,
+   "end": 297.08,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "It will have a cigarette shop, a baguette restaurant, ze Napoleon Museum, and a movie theater only showing films starring Jean Reno!"
+  },
+  {
+   "i": 98,
+   "start": 297.08,
+   "end": 299.16,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "Hon hon! I'm *French*!"
+  },
+  {
+   "i": 99,
+   "start": 299.16,
+   "end": 303.12,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "Ah, I see a bunch of idle hands just standing around!"
+  },
+  {
+   "i": 100,
+   "start": 303.12,
+   "end": 304.78,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "So... (clears his throat)"
+  },
+  {
+   "i": 101,
+   "start": 305.16,
+   "end": 306.42,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "Where's the body?"
+  },
+  {
+   "i": 102,
+   "start": 306.56,
+   "end": 311.84,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "Well, Monsieur Cooler, he has most likely been vaporized; much like a good portion of ze forest."
+  },
+  {
+   "i": 103,
+   "start": 311.84,
+   "end": 312.82,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "Really?"
+  },
+  {
+   "i": 104,
+   "start": 312.82,
+   "end": 318.18,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "Because until I see a *body*, I believe my brother did a better job at killing him than you."
+  },
+  {
+   "i": 105,
+   "start": 318.18,
+   "end": 322.7,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "By the end of this, I'll have *someone's* corpse tied to the bumper of my ship."
+  },
+  {
+   "i": 106,
+   "start": 327.86,
+   "end": 328.64,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Move!"
+  },
+  {
+   "i": 107,
+   "start": 331.18,
+   "end": 331.68,
+   "kind": "dialog",
+   "speaker": "Icarus",
+   "text": "(Confused dragon noise)"
+  },
+  {
+   "i": 108,
+   "start": 333.3,
+   "end": 334.78,
+   "kind": "dialog",
+   "speaker": "Icarus",
+   "text": "(Dragon noises)"
+  },
+  {
+   "i": 109,
+   "start": 334.78,
+   "end": 338.12,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Icarus, if this is another dead rabbit, I swear to God I'm gonna kill you."
+  },
+  {
+   "i": 110,
+   "start": 338.12,
+   "end": 340.68,
+   "kind": "dialog",
+   "speaker": "Oolong",
+   "text": "He's saying they're trapped under the rocks."
+  },
+  {
+   "i": 111,
+   "start": 340.8,
+   "end": 342.92,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Gohan, Goku! Are you in there?!"
+  },
+  {
+   "i": 112,
+   "start": 342.92,
+   "end": 347.38,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Krillin! We're trapped under the rocks! We're running out of air! Help us!"
+  },
+  {
+   "i": 113,
+   "start": 347.38,
+   "end": 350.34,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Wait, why do you need my help; can't Goku bench press a planet?"
+  },
+  {
+   "i": 114,
+   "start": 350.34,
+   "end": 351.96,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Krillin, move the damn rocks!"
+  },
+  {
+   "i": 115,
+   "start": 352.44,
+   "end": 354.14,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Alright, Gohan, here's the plan:"
+  },
+  {
+   "i": 116,
+   "start": 354.14,
+   "end": 357.16,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Take Icarus to Korin's Tower so you don't alert their Scouters."
+  },
+  {
+   "i": 117,
+   "start": 357.16,
+   "end": 359.62,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Pick up some Senzu Beans for Goku and hurry back."
+  },
+  {
+   "i": 118,
+   "start": 359.62,
+   "end": 360.82,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Wait, why am I going?"
+  },
+  {
+   "i": 119,
+   "start": 360.82,
+   "end": 366.5,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Because last time I hung out with him, I totally forgot what his name was and just kept calling him \"Whiskers the Wonder Cat\" the whole time."
+  },
+  {
+   "i": 120,
+   "start": 366.88,
+   "end": 368.1,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "...It was really awkward."
+  },
+  {
+   "i": 121,
+   "start": 370.52,
+   "end": 373.8,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Krillin? What smells like dragon's breath?"
+  },
+  {
+   "i": 122,
+   "start": 373.94,
+   "end": 377.5,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Shame, Goku... Lots and lots of shame..."
+  },
+  {
+   "i": 123,
+   "start": 378.16,
+   "end": 380.84,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Exhausted dragon noises"
+  },
+  {
+   "i": 124,
+   "start": 378.66,
+   "end": 380.84,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Come on, Icarus, not much longer."
+  },
+  {
+   "i": 125,
+   "start": 381.2,
+   "end": 383.04,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Ah! The tower!"
+  },
+  {
+   "i": 126,
+   "start": 383.32,
+   "end": 385.64,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "I wonder how Yajirobe and Korin are doing."
+  },
+  {
+   "i": 127,
+   "start": 386.72,
+   "end": 389.92,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "I told you to use the brush before you got in the shower!"
+  },
+  {
+   "i": 128,
+   "start": 389.92,
+   "end": 391.56,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "Your hair clogs up the drain!"
+  },
+  {
+   "i": 129,
+   "start": 391.56,
+   "end": 393.84,
+   "kind": "dialog",
+   "speaker": "Korin",
+   "text": "And I told you to stay out of my kitty treats!"
+  },
+  {
+   "i": 130,
+   "start": 393.84,
+   "end": 397.46,
+   "kind": "dialog",
+   "speaker": "Korin",
+   "text": "Seriously, they're for CATS! Why do you eat them?!"
+  },
+  {
+   "i": 131,
+   "start": 397.46,
+   "end": 400.82,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "I swear, the only reason I live here is because it's rent-free!"
+  },
+  {
+   "i": 132,
+   "start": 400.82,
+   "end": 404.66,
+   "kind": "dialog",
+   "speaker": "Korin",
+   "text": "The only reason I *let* you live here is because you give the best belly rubs for a hundred miles!"
+  },
+  {
+   "i": 133,
+   "start": 404.66,
+   "end": 405.34,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Uhh..."
+  },
+  {
+   "i": 134,
+   "start": 405.34,
+   "end": 407.54,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "Don't say that in front of the kid!"
+  },
+  {
+   "i": 135,
+   "start": 407.54,
+   "end": 410.82,
+   "kind": "dialog",
+   "speaker": "Korin",
+   "text": "What? You should be proud, you know how to rub this pussy real good."
+  },
+  {
+   "i": 136,
+   "start": 410.82,
+   "end": 413.08,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Can... I have my Senzu Beans?"
+  },
+  {
+   "i": 137,
+   "start": 413.08,
+   "end": 414.56,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "Sure, fine, here."
+  },
+  {
+   "i": 138,
+   "start": 414.56,
+   "end": 417.02,
+   "kind": "dialog",
+   "speaker": "Korin",
+   "text": "Hey! Those are *my* Senzu Beans! You can't just--"
+  },
+  {
+   "i": 139,
+   "start": 417.02,
+   "end": 418.4,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "Hey, here's another one."
+  },
+  {
+   "i": 140,
+   "start": 418.4,
+   "end": 419.32,
+   "kind": "dialog",
+   "speaker": "Korin",
+   "text": "You prick!"
+  },
+  {
+   "i": 141,
+   "start": 419.32,
+   "end": 422.7,
+   "kind": "dialog",
+   "speaker": "Korin",
+   "text": "That's it, I'm done! Grab your stuff and get off my tower!"
+  },
+  {
+   "i": 142,
+   "start": 422.7,
+   "end": 424.74,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "'Just keep moving, Gohan...'"
+  },
+  {
+   "i": 143,
+   "start": 424.78,
+   "end": 426.78,
+   "kind": "dialog",
+   "speaker": "Korin",
+   "text": "D'ah-- agh, you scared him off!"
+  },
+  {
+   "i": 144,
+   "start": 426.78,
+   "end": 428.86,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "You were the one screaming your head off."
+  },
+  {
+   "i": 145,
+   "start": 429.94,
+   "end": 430.74,
+   "kind": "dialog",
+   "speaker": "Korin",
+   "text": "I want one."
+  },
+  {
+   "i": 146,
+   "start": 430.74,
+   "end": 432.74,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "I told you - I'm not ready for kids!"
+  },
+  {
+   "i": 147,
+   "start": 432.74,
+   "end": 434.08,
+   "kind": "dialog",
+   "speaker": "Korin",
+   "text": "Well, when *will* you be ready?!"
+  },
+  {
+   "i": 148,
+   "start": 434.08,
+   "end": 435.54,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "I don't know, okay?!"
+  },
+  {
+   "i": 149,
+   "start": 435.94,
+   "end": 437.14,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Ugh... Huh?!"
+  },
+  {
+   "i": 150,
+   "start": 437.14,
+   "end": 438.26,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "It's morning?!"
+  },
+  {
+   "i": 151,
+   "start": 438.26,
+   "end": 439.26,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Goku! Are you--"
+  },
+  {
+   "i": 152,
+   "start": 439.26,
+   "end": 441.74,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Aw, yeah... That's right, Chi-Chi..."
+  },
+  {
+   "i": 153,
+   "start": 442.02,
+   "end": 449.44,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Pour that maple syrup... All over my breakfast... You beautiful lady who lives in my house..."
+  },
+  {
+   "i": 154,
+   "start": 452.32,
+   "end": 457.02,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "You know, Icarus, I know you like flying fast, but maybe we should be more careful now just to--"
+  },
+  {
+   "i": 155,
+   "start": 457.02,
+   "end": 458.58,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "Well, hello, Diddy."
+  },
+  {
+   "i": 156,
+   "start": 459.04,
+   "end": 460.44,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "Where's Donkey?"
+  },
+  {
+   "i": 157,
+   "start": 460.8,
+   "end": 463.04,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Icarus wails"
+  },
+  {
+   "i": 158,
+   "start": 463.72,
+   "end": 464.44,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Icarus!"
+  },
+  {
+   "i": 159,
+   "start": 467.32,
+   "end": 472.1,
+   "kind": "dialog",
+   "speaker": "Doore",
+   "text": "'Ey boys! Remember when I said I once popped a man's skull with me bare 'ands?"
+  },
+  {
+   "i": 160,
+   "start": 468.5,
+   "end": 473.12,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "(Groaning in pain)"
+  },
+  {
+   "i": 161,
+   "start": 472.1,
+   "end": 473.12,
+   "kind": "dialog",
+   "speaker": "Doore",
+   "text": "Check this 'at!"
+  },
+  {
+   "i": 162,
+   "start": 473.72,
+   "end": 474.4,
+   "kind": "dialog",
+   "speaker": "Doore",
+   "text": "D'aagh!"
+  },
+  {
+   "i": 163,
+   "start": 475.62,
+   "end": 476.72,
+   "kind": "dialog",
+   "speaker": "Doore",
+   "text": "Bloody 'ell?!"
+  },
+  {
+   "i": 164,
+   "start": 481.28,
+   "end": 482.92,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Okay, I think I got this one:"
+  },
+  {
+   "i": 165,
+   "start": 482.92,
+   "end": 485.82,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Pretty one; stupid one; one with weird powers."
+  },
+  {
+   "i": 166,
+   "start": 485.82,
+   "end": 486.42,
+   "kind": "dialog",
+   "speaker": "Doore",
+   "text": "Oi!"
+  },
+  {
+   "i": 167,
+   "start": 486.82,
+   "end": 488.28,
+   "kind": "dialog",
+   "speaker": "Doore",
+   "text": "I appreciate that!"
+  },
+  {
+   "i": 168,
+   "start": 488.38,
+   "end": 490.5,
+   "kind": "dialog",
+   "speaker": "Doore",
+   "text": "But I'd say I'm more handsome than pretty."
+  },
+  {
+   "i": 169,
+   "start": 490.5,
+   "end": 492.6,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "And my powers are not zat weird!"
+  },
+  {
+   "i": 170,
+   "start": 492.6,
+   "end": 494.88,
+   "kind": "dialog",
+   "speaker": "Neiz",
+   "text": "(Roar)"
+  },
+  {
+   "i": 171,
+   "start": 496.18,
+   "end": 498.68,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Okay, I take it back; you're all stupid."
+  },
+  {
+   "i": 172,
+   "start": 498.72,
+   "end": 501.84,
+   "kind": "dialog",
+   "speaker": "Doore",
+   "text": "Someone check the clock, because I believe it's go time!"
+  },
+  {
+   "i": 173,
+   "start": 501.9,
+   "end": 504.74,
+   "kind": "dialog",
+   "speaker": "Doore",
+   "text": "Hiyaaaaaaaagh!"
+  },
+  {
+   "i": 174,
+   "start": 505.88,
+   "end": 506.48,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Olé!"
+  },
+  {
+   "i": 175,
+   "start": 506.78,
+   "end": 508.46,
+   "kind": "dialog",
+   "speaker": "Doore",
+   "text": "Yaaaaaaaagh...!"
+  },
+  {
+   "i": 176,
+   "start": 508.46,
+   "end": 510.02,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Gohan! You know what to do!"
+  },
+  {
+   "i": 177,
+   "start": 510.18,
+   "end": 511.66,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Yes, sir, Mr. Piccolo!"
+  },
+  {
+   "i": 178,
+   "start": 512.1,
+   "end": 513.5,
+   "kind": "dialog",
+   "speaker": "Doore",
+   "text": "I got the little bugger!"
+  },
+  {
+   "i": 179,
+   "start": 514.16,
+   "end": 515.92,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "I meant back me up!"
+  },
+  {
+   "i": 180,
+   "start": 518.4,
+   "end": 519.74,
+   "kind": "dialog",
+   "speaker": "Neiz",
+   "text": "Ha ha!"
+  },
+  {
+   "i": 181,
+   "start": 519.74,
+   "end": 522.5,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "You babbling fool! He was aiming for Doore!"
+  },
+  {
+   "i": 182,
+   "start": 522.5,
+   "end": 523.0,
+   "kind": "dialog",
+   "speaker": "Neiz",
+   "text": "Gah!"
+  },
+  {
+   "i": 183,
+   "start": 523.0,
+   "end": 523.5,
+   "kind": "dialog",
+   "speaker": "Doore",
+   "text": "Huh?"
+  },
+  {
+   "i": 184,
+   "start": 523.82,
+   "end": 524.54,
+   "kind": "dialog",
+   "speaker": "Doore",
+   "text": "Oh no..."
+  },
+  {
+   "i": 185,
+   "start": 524.78,
+   "end": 525.88,
+   "kind": "dialog",
+   "speaker": "Doore",
+   "text": "No, no no no...!"
+  },
+  {
+   "i": 186,
+   "start": 526.08,
+   "end": 526.88,
+   "kind": "dialog",
+   "speaker": "Doore",
+   "text": "No no no!"
+  },
+  {
+   "i": 187,
+   "start": 526.88,
+   "end": 528.06,
+   "kind": "dialog",
+   "speaker": "Doore",
+   "text": "No, no, no no no!"
+  },
+  {
+   "i": 188,
+   "start": 528.06,
+   "end": 529.06,
+   "kind": "dialog",
+   "speaker": "Doore",
+   "text": "No, no, n-n-n-n--"
+  },
+  {
+   "i": 189,
+   "start": 529.06,
+   "end": 531.56,
+   "kind": "dialog",
+   "speaker": "Doore",
+   "text": "NOOOOOOOO...!"
+  },
+  {
+   "i": 190,
+   "start": 534.56,
+   "end": 536.86,
+   "kind": "dialog",
+   "speaker": "Neiz",
+   "text": "(Angry gibberish)"
+  },
+  {
+   "i": 191,
+   "start": 540.14,
+   "end": 552.78,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "(Yelling in pain)"
+  },
+  {
+   "i": 192,
+   "start": 541.0,
+   "end": 544.24,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "Zat is right, I forgot you can do zat! <Trés bien>."
+  },
+  {
+   "i": 193,
+   "start": 541.0,
+   "end": 544.24,
+   "kind": "direction",
+   "speaker": null,
+   "text": "<Very good>"
+  },
+  {
+   "i": 194,
+   "start": 544.24,
+   "end": 548.24,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "I'm going to go get zat child. You finish him off and bring ze body back to Cooler."
+  },
+  {
+   "i": 195,
+   "start": 548.24,
+   "end": 549.42,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "You know how he likes zat!"
+  },
+  {
+   "i": 196,
+   "start": 549.42,
+   "end": 550.72,
+   "kind": "dialog",
+   "speaker": "Neiz",
+   "text": "(Snickering)"
+  },
+  {
+   "i": 197,
+   "start": 550.72,
+   "end": 552.78,
+   "kind": "dialog",
+   "speaker": "Neiz",
+   "text": "(Gibberish)"
+  },
+  {
+   "i": 198,
+   "start": 552.78,
+   "end": 553.54,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Gotcha, bitch!"
+  },
+  {
+   "i": 199,
+   "start": 553.54,
+   "end": 554.04,
+   "kind": "dialog",
+   "speaker": "Neiz",
+   "text": "Hah?"
+  },
+  {
+   "i": 200,
+   "start": 554.48,
+   "end": 556.08,
+   "kind": "dialog",
+   "speaker": "Neiz",
+   "text": "(More gibberish)"
+  },
+  {
+   "i": 201,
+   "start": 558.76,
+   "end": 559.26,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "Huh?!"
+  },
+  {
+   "i": 202,
+   "start": 561.2,
+   "end": 563.98,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "Ha! <Bon, mon ami>, but not *bon* enough!"
+  },
+  {
+   "i": 203,
+   "start": 561.2,
+   "end": 563.98,
+   "kind": "direction",
+   "speaker": null,
+   "text": "<Good, my friend>"
+  },
+  {
+   "i": 204,
+   "start": 564.34,
+   "end": 564.98,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "<Merde!>"
+  },
+  {
+   "i": 205,
+   "start": 564.34,
+   "end": 564.98,
+   "kind": "direction",
+   "speaker": null,
+   "text": "<Shit!>"
+  },
+  {
+   "i": 206,
+   "start": 565.22,
+   "end": 567.44,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"The Forest Battle\" ♫"
+  },
+  {
+   "i": 207,
+   "start": 567.44,
+   "end": 568.94,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'Hey, know what this reminds me of?'"
+  },
+  {
+   "i": 208,
+   "start": 568.94,
+   "end": 570.44,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'That scene from Return of the Jedi!'"
+  },
+  {
+   "i": 209,
+   "start": 570.44,
+   "end": 571.42,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'Not now, Nail!'"
+  },
+  {
+   "i": 210,
+   "start": 575.92,
+   "end": 576.44,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "Huh?!"
+  },
+  {
+   "i": 211,
+   "start": 579.8,
+   "end": 581.22,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'Oh, I didn't know we could do that!'"
+  },
+  {
+   "i": 212,
+   "start": 581.22,
+   "end": 582.98,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'Yeah, I forget about them sometimes, too.'"
+  },
+  {
+   "i": 213,
+   "start": 583.98,
+   "end": 584.48,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Lightsaber noise"
+  },
+  {
+   "i": 214,
+   "start": 584.48,
+   "end": 587.38,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'Oh man - speaking of Star Wars, check that out! Lightsaber!'"
+  },
+  {
+   "i": 215,
+   "start": 587.38,
+   "end": 588.36,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Lightsaber slash"
+  },
+  {
+   "i": 216,
+   "start": 588.36,
+   "end": 590.6,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'Lightsabers don't stick out of people's arms!'"
+  },
+  {
+   "i": 217,
+   "start": 590.6,
+   "end": 593.46,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'It's *totally* making the same sound; you can't make that up!'"
+  },
+  {
+   "i": 218,
+   "start": 593.46,
+   "end": 594.98,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "If you strike me down, I'll only become stro--"
+  },
+  {
+   "i": 219,
+   "start": 594.98,
+   "end": 595.48,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "ugh...!"
+  },
+  {
+   "i": 220,
+   "start": 595.48,
+   "end": 596.8,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'And it's gooood!'"
+  },
+  {
+   "i": 221,
+   "start": 597.08,
+   "end": 599.08,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "You insolent slug!"
+  },
+  {
+   "i": 222,
+   "start": 599.3,
+   "end": 603.74,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "You may have killed our men, but he won't let you get away with zis!"
+  },
+  {
+   "i": 223,
+   "start": 603.74,
+   "end": 605.58,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Oh, really? And who's he?"
+  },
+  {
+   "i": 224,
+   "start": 605.58,
+   "end": 608.2,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "That's \"He\" with a capital H, by the way."
+  },
+  {
+   "i": 225,
+   "start": 608.64,
+   "end": 609.54,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "AUGH...!"
+  },
+  {
+   "i": 226,
+   "start": 610.72,
+   "end": 612.2,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Goku! You okay?!"
+  },
+  {
+   "i": 227,
+   "start": 612.34,
+   "end": 614.76,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I've got... a fever..."
+  },
+  {
+   "i": 228,
+   "start": 614.76,
+   "end": 615.74,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Oh no, what should I--"
+  },
+  {
+   "i": 229,
+   "start": 615.74,
+   "end": 619.22,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "And the only prescription... ...is Icarus."
+  },
+  {
+   "i": 230,
+   "start": 619.76,
+   "end": 620.26,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Wha--"
+  },
+  {
+   "i": 231,
+   "start": 620.26,
+   "end": 625.8,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "♫ Dragon meat is yummy... ♫ ♫ And I really want it in my tummy... ♫"
+  },
+  {
+   "i": 232,
+   "start": 625.8,
+   "end": 626.9,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Dad, I'm back!"
+  },
+  {
+   "i": 233,
+   "start": 626.9,
+   "end": 628.14,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "What took you so long?"
+  },
+  {
+   "i": 234,
+   "start": 628.4,
+   "end": 631.04,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "I... lost Icarus halfway here."
+  },
+  {
+   "i": 235,
+   "start": 631.3,
+   "end": 632.92,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "But I have these Senzu Beans!"
+  },
+  {
+   "i": 236,
+   "start": 632.92,
+   "end": 636.34,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Aw, but those are bland and tasteless!"
+  },
+  {
+   "i": 237,
+   "start": 636.84,
+   "end": 637.44,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Ugh...!"
+  },
+  {
+   "i": 238,
+   "start": 639.26,
+   "end": 641.84,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "You know, in my experience, cooking actually makes them worse."
+  },
+  {
+   "i": 239,
+   "start": 641.84,
+   "end": 643.34,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "Oh, I'm sorry."
+  },
+  {
+   "i": 240,
+   "start": 643.34,
+   "end": 647.64,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "I saw you risking your life for those and I thought, \"Wow, those must be important!\""
+  },
+  {
+   "i": 241,
+   "start": 647.64,
+   "end": 649.14,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "Please tell me zey were important."
+  },
+  {
+   "i": 242,
+   "start": 649.14,
+   "end": 652.02,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Those were our only hope, you *bastard*!"
+  },
+  {
+   "i": 243,
+   "start": 652.26,
+   "end": 653.0,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Krillin, no!"
+  },
+  {
+   "i": 244,
+   "start": 653.66,
+   "end": 656.08,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Sauza pummels Krillin in the background"
+  },
+  {
+   "i": 245,
+   "start": 653.66,
+   "end": 656.08,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "I probably should've mentioned I still have this one."
+  },
+  {
+   "i": 246,
+   "start": 656.34,
+   "end": 657.8,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Here, Dad - eat up!"
+  },
+  {
+   "i": 247,
+   "start": 658.1,
+   "end": 659.74,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Why does this one smell weird?"
+  },
+  {
+   "i": 248,
+   "start": 660.06,
+   "end": 660.78,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "GAH-HAH!"
+  },
+  {
+   "i": 249,
+   "start": 663.26,
+   "end": 663.9,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Krillin!"
+  },
+  {
+   "i": 250,
+   "start": 663.9,
+   "end": 666.68,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Don't worry, Dad! You take Cooler; I'll take the small fry--"
+  },
+  {
+   "i": 251,
+   "start": 666.68,
+   "end": 667.52,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Dad, help!"
+  },
+  {
+   "i": 252,
+   "start": 668.54,
+   "end": 672.08,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "And now to lay ze coup de grâce to ze King of Kongs!"
+  },
+  {
+   "i": 253,
+   "start": 672.8,
+   "end": 674.88,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Scouter beeps for an extended period of time"
+  },
+  {
+   "i": 254,
+   "start": 673.92,
+   "end": 674.88,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "What?!"
+  },
+  {
+   "i": 255,
+   "start": 674.88,
+   "end": 676.52,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "Whose power level is zat?!"
+  },
+  {
+   "i": 256,
+   "start": 676.72,
+   "end": 678.1,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "It's going off ze scale!"
+  },
+  {
+   "i": 257,
+   "start": 678.52,
+   "end": 681.28,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "But ze only one in zere was the dying monkey and ze pig!"
+  },
+  {
+   "i": 258,
+   "start": 681.94,
+   "end": 683.3,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "Sacrébleu...!"
+  },
+  {
+   "i": 259,
+   "start": 683.64,
+   "end": 687.12,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "Could it be... ...ze legendary Super Swine?!"
+  },
+  {
+   "i": 260,
+   "start": 687.7,
+   "end": 688.42,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "Agh!"
+  },
+  {
+   "i": 261,
+   "start": 688.64,
+   "end": 689.46,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "Ze hell?!"
+  },
+  {
+   "i": 262,
+   "start": 690.32,
+   "end": 691.0,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "(Gasp)"
+  },
+  {
+   "i": 263,
+   "start": 692.52,
+   "end": 696.9,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "So, I really don't think I appreciate you beating on my friends and family."
+  },
+  {
+   "i": 264,
+   "start": 697.0,
+   "end": 701.18,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "So, wait - which one does this constitute? Friend or family?"
+  },
+  {
+   "i": 265,
+   "start": 701.42,
+   "end": 703.82,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "I'm going to guess friend, considering..."
+  },
+  {
+   "i": 266,
+   "start": 704.16,
+   "end": 706.16,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Piccolo! You give him here!"
+  },
+  {
+   "i": 267,
+   "start": 706.24,
+   "end": 709.1,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "Oh, I wouldn't go anywhere near him if I were you..."
+  },
+  {
+   "i": 268,
+   "start": 709.22,
+   "end": 713.8,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "He seems to have come down with a terrible case of explosions..."
+  },
+  {
+   "i": 269,
+   "start": 713.96,
+   "end": 714.52,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Wha?"
+  },
+  {
+   "i": 270,
+   "start": 717.74,
+   "end": 718.34,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(Gasp)"
+  },
+  {
+   "i": 271,
+   "start": 718.58,
+   "end": 719.84,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Is that contagious?!"
+  },
+  {
+   "i": 272,
+   "start": 720.36,
+   "end": 721.44,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "(Snickering)"
+  },
+  {
+   "i": 273,
+   "start": 721.44,
+   "end": 723.8,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Seriously, I don't want to catch that."
+  },
+  {
+   "i": 274,
+   "start": 724.08,
+   "end": 730.48,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "Unfortunately, after I kill you... ...I'm going to give the whole planet a terrible case of explosions."
+  },
+  {
+   "i": 275,
+   "start": 730.96,
+   "end": 733.24,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "So, basically I'm going to blow up the planet."
+  },
+  {
+   "i": 276,
+   "start": 733.36,
+   "end": 735.64,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Goku - Attack Mode Activate!"
+  },
+  {
+   "i": 277,
+   "start": 735.76,
+   "end": 737.06,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "[Unintelligible]"
+  },
+  {
+   "i": 278,
+   "start": 738.44,
+   "end": 739.08,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "D'uwahg!"
+  },
+  {
+   "i": 279,
+   "start": 739.44,
+   "end": 740.02,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "D'aagh!"
+  },
+  {
+   "i": 280,
+   "start": 741.4,
+   "end": 742.1,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Iyahh!"
+  },
+  {
+   "i": 281,
+   "start": 742.88,
+   "end": 746.02,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "I see how you handled my little shit brother so easily!"
+  },
+  {
+   "i": 282,
+   "start": 753.86,
+   "end": 756.46,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "And that is the history of my family."
+  },
+  {
+   "i": 283,
+   "start": 756.52,
+   "end": 759.48,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Wow, I'm... sorry about your dad..."
+  },
+  {
+   "i": 284,
+   "start": 759.48,
+   "end": 761.5,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "Oh, don't even get me started again..."
+  },
+  {
+   "i": 285,
+   "start": 761.58,
+   "end": 765.5,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Well, I assure you - if I ever have a son, I'll treat him better!"
+  },
+  {
+   "i": 286,
+   "start": 765.5,
+   "end": 767.3,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "Really, it's my brother's fault."
+  },
+  {
+   "i": 287,
+   "start": 767.3,
+   "end": 770.42,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "Pissing and moaning if he didn't own every galaxy."
+  },
+  {
+   "i": 288,
+   "start": 770.58,
+   "end": 775.6,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "And didn't he just rabble on... \"Dirty monkey, this! Dirty monkey, that!\""
+  },
+  {
+   "i": 289,
+   "start": 775.6,
+   "end": 779.64,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh, that is just him! That is exactly him! To a P!"
+  },
+  {
+   "i": 290,
+   "start": 779.64,
+   "end": 783.12,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "See, though... ...that's the difference between him and I."
+  },
+  {
+   "i": 291,
+   "start": 783.56,
+   "end": 785.04,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "He liked to talk..."
+  },
+  {
+   "i": 292,
+   "start": 785.04,
+   "end": 786.84,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "I... on the other hand..."
+  },
+  {
+   "i": 293,
+   "start": 786.96,
+   "end": 788.14,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "RAARRGHH!"
+  },
+  {
+   "i": 294,
+   "start": 789.4,
+   "end": 792.24,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "URAAARRRGGHH...!"
+  },
+  {
+   "i": 295,
+   "start": 797.9,
+   "end": 800.26,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "Tonight I dine on monkey soup!"
+  },
+  {
+   "i": 296,
+   "start": 800.92,
+   "end": 801.64,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Wughh...!"
+  },
+  {
+   "i": 297,
+   "start": 803.32,
+   "end": 804.86,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Why do I let people do that--?!"
+  },
+  {
+   "i": 298,
+   "start": 804.86,
+   "end": 805.44,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "AUGH!"
+  },
+  {
+   "i": 299,
+   "start": 811.54,
+   "end": 812.72,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Uu-ha-hah, ah-hagh...!"
+  },
+  {
+   "i": 300,
+   "start": 812.72,
+   "end": 815.02,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "I'ma plant me a dumbass tree!"
+  },
+  {
+   "i": 301,
+   "start": 823.6,
+   "end": 825.5,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "That all you got, monkey?"
+  },
+  {
+   "i": 302,
+   "start": 826.82,
+   "end": 830.32,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "HAAAAIIIII..."
+  },
+  {
+   "i": 303,
+   "start": 828.7,
+   "end": 830.32,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "Oh, this is gonna be great...!"
+  },
+  {
+   "i": 304,
+   "start": 830.32,
+   "end": 833.62,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "YAAAAAAAAAAAH!"
+  },
+  {
+   "i": 305,
+   "start": 834.68,
+   "end": 835.64,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "Avon Calling!"
+  },
+  {
+   "i": 306,
+   "start": 836.14,
+   "end": 837.02,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Agh-hu!"
+  },
+  {
+   "i": 307,
+   "start": 838.88,
+   "end": 840.5,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "GUAGH-agh! Ugh...!"
+  },
+  {
+   "i": 308,
+   "start": 841.04,
+   "end": 841.7,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Ugh..."
+  },
+  {
+   "i": 309,
+   "start": 842.28,
+   "end": 845.9,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "Look at you... ...wasted and gasping for air."
+  },
+  {
+   "i": 310,
+   "start": 846.26,
+   "end": 847.86,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "But you don't get to go yet."
+  },
+  {
+   "i": 311,
+   "start": 848.66,
+   "end": 853.98,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "When your planet is in ashes... ...then, you have my permission to die."
+  },
+  {
+   "i": 312,
+   "start": 855.1,
+   "end": 857.38,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Yelping"
+  },
+  {
+   "i": 313,
+   "start": 858.24,
+   "end": 860.06,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Chirping"
+  },
+  {
+   "i": 314,
+   "start": 860.06,
+   "end": 862.34,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh... hello, birdie..."
+  },
+  {
+   "i": 315,
+   "start": 862.84,
+   "end": 866.2,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I'm gonna call you... ...Toriyama."
+  },
+  {
+   "i": 316,
+   "start": 867.44,
+   "end": 869.2,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Toriyama, no...!"
+  },
+  {
+   "i": 317,
+   "start": 869.34,
+   "end": 871.6,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "You were taken before your time!"
+  },
+  {
+   "i": 318,
+   "start": 872.28,
+   "end": 874.38,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "No... no...!"
+  },
+  {
+   "i": 319,
+   "start": 875.12,
+   "end": 879.12,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "NOOOOOO...!"
+  },
+  {
+   "i": 320,
+   "start": 878.26,
+   "end": 879.12,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "The devil?!"
+  },
+  {
+   "i": 321,
+   "start": 880.8,
+   "end": 885.28,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Go, Toriyama... ...and teach a dinosaur to ride a ball!"
+  },
+  {
+   "i": 322,
+   "start": 892.6,
+   "end": 893.1,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'Hm!'"
+  },
+  {
+   "i": 323,
+   "start": 895.16,
+   "end": 899.2,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "I see! This must be the power you used to kill my brother."
+  },
+  {
+   "i": 324,
+   "start": 899.28,
+   "end": 900.72,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "Well, don't think that I'll--"
+  },
+  {
+   "i": 325,
+   "start": 900.72,
+   "end": 901.24,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "Yah!"
+  },
+  {
+   "i": 326,
+   "start": 901.52,
+   "end": 903.34,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Not going anywhere for a while?"
+  },
+  {
+   "i": 327,
+   "start": 903.34,
+   "end": 904.5,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "(Focused grunts)"
+  },
+  {
+   "i": 328,
+   "start": 904.5,
+   "end": 905.18,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "D'huh?!"
+  },
+  {
+   "i": 329,
+   "start": 905.18,
+   "end": 906.56,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Grab a Snickers."
+  },
+  {
+   "i": 330,
+   "start": 906.58,
+   "end": 910.8,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "I... can't help but feel we're both missing some context, here..."
+  },
+  {
+   "i": 331,
+   "start": 910.8,
+   "end": 912.86,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "D'augh! My gas pocket!"
+  },
+  {
+   "i": 332,
+   "start": 912.86,
+   "end": 914.7,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Now *get off my planet*!"
+  },
+  {
+   "i": 333,
+   "start": 914.88,
+   "end": 917.62,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "Well, alright, if you insist..."
+  },
+  {
+   "i": 334,
+   "start": 917.78,
+   "end": 918.34,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "HA!"
+  },
+  {
+   "i": 335,
+   "start": 921.86,
+   "end": 924.54,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "Technically, I can't be on a planet... ...*if there is no planet*!"
+  },
+  {
+   "i": 336,
+   "start": 925.96,
+   "end": 927.92,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Now you're just arguing semetics!"
+  },
+  {
+   "i": 337,
+   "start": 927.94,
+   "end": 932.1,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "By the way, before I throw this thing... ...did my brother do this?"
+  },
+  {
+   "i": 338,
+   "start": 932.1,
+   "end": 933.54,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Yeah, but his was smaller."
+  },
+  {
+   "i": 339,
+   "start": 933.54,
+   "end": 934.86,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "Knew it! Ha!"
+  },
+  {
+   "i": 340,
+   "start": 938.0,
+   "end": 939.68,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(Yelling)"
+  },
+  {
+   "i": 341,
+   "start": 940.86,
+   "end": 943.48,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(Strained grunting)"
+  },
+  {
+   "i": 342,
+   "start": 943.48,
+   "end": 945.3,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Strained grunting continues in the background"
+  },
+  {
+   "i": 343,
+   "start": 943.48,
+   "end": 945.3,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "See, this is the difference..."
+  },
+  {
+   "i": 344,
+   "start": 945.3,
+   "end": 951.28,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "My brother would've stood around postulating and claiming his victory... ...like some haughty, green-horned child."
+  },
+  {
+   "i": 345,
+   "start": 951.28,
+   "end": 953.52,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "I know what it takes to get the job done."
+  },
+  {
+   "i": 346,
+   "start": 953.52,
+   "end": 954.74,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "Which is why Father should have--!"
+  },
+  {
+   "i": 347,
+   "start": 954.74,
+   "end": 955.4,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "KA..."
+  },
+  {
+   "i": 348,
+   "start": 955.4,
+   "end": 956.08,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "?!"
+  },
+  {
+   "i": 349,
+   "start": 955.4,
+   "end": 956.08,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "KA..."
+  },
+  {
+   "i": 350,
+   "start": 956.08,
+   "end": 957.34,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "ME..."
+  },
+  {
+   "i": 351,
+   "start": 958.16,
+   "end": 959.36,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "HA..."
+  },
+  {
+   "i": 352,
+   "start": 960.1,
+   "end": 961.18,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "ME..."
+  },
+  {
+   "i": 353,
+   "start": 960.1,
+   "end": 961.18,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "Oh-ho, that's fine."
+  },
+  {
+   "i": 354,
+   "start": 961.18,
+   "end": 962.76,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "Go ahead, lift it up."
+  },
+  {
+   "i": 355,
+   "start": 962.76,
+   "end": 964.14,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "I'll just make another one and--"
+  },
+  {
+   "i": 356,
+   "start": 964.14,
+   "end": 968.46,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "HAAAAAAAAAA!"
+  },
+  {
+   "i": 357,
+   "start": 966.14,
+   "end": 968.46,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "Ah, that's getting really clooOO--"
+  },
+  {
+   "i": 358,
+   "start": 968.46,
+   "end": 968.98,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "D'AAGH!"
+  },
+  {
+   "i": 359,
+   "start": 973.82,
+   "end": 980.66,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "I know there's some kind of hubristic irony to consider here, but I'm far too distracted by the coldness of space!"
+  },
+  {
+   "i": 360,
+   "start": 980.84,
+   "end": 984.18,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "Wait... no, now it's actually getting sorta toasty..."
+  },
+  {
+   "i": 361,
+   "start": 984.92,
+   "end": 987.64,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "Oh shit, now it's REALLY getting toasty!"
+  },
+  {
+   "i": 362,
+   "start": 988.7,
+   "end": 992.6,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "GRAAAARRGH, EVERYTHING IS BURRNINNG!!"
+  },
+  {
+   "i": 363,
+   "start": 993.7,
+   "end": 995.98,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "I really am just like my brother...!"
+  },
+  {
+   "i": 364,
+   "start": 996.24,
+   "end": 1004.56,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "Because if he's going to whine to our father for control over the entire system like a spoiled little brat... ...then he's going to accept the responsibility."
+  },
+  {
+   "i": 365,
+   "start": 1004.86,
+   "end": 1008.68,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "If this comes back to bite him... ...that's his fault."
+  },
+  {
+   "i": 366,
+   "start": 1008.92,
+   "end": 1014.52,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "'But at least I know... I'm... still... Cooler...'"
+  },
+  {
+   "i": 367,
+   "start": 1014.7,
+   "end": 1018.9,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "(Roaring in excruciating agony)"
+  },
+  {
+   "i": 368,
+   "start": 1031.06,
+   "end": 1032.6,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Ohp! Hold on a second."
+  },
+  {
+   "i": 369,
+   "start": 1039.62,
+   "end": 1044.54,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Sun... ...you grow my food... ...you kill my enemies."
+  },
+  {
+   "i": 370,
+   "start": 1044.74,
+   "end": 1047.46,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "You're totally worth the skin cancer."
+  },
+  {
+   "i": 371,
+   "start": 1047.56,
+   "end": 1049.16,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Goku! You're okay!"
+  },
+  {
+   "i": 372,
+   "start": 1050.14,
+   "end": 1051.16,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "You won!"
+  },
+  {
+   "i": 373,
+   "start": 1051.24,
+   "end": 1053.16,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Yup! And we all pitched in!"
+  },
+  {
+   "i": 374,
+   "start": 1053.44,
+   "end": 1054.5,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Except Icarus."
+  },
+  {
+   "i": 375,
+   "start": 1054.76,
+   "end": 1056.42,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "C'mere! Goku's hungry!"
+  },
+  {
+   "i": 376,
+   "start": 1056.6,
+   "end": 1057.42,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Wait, what are you--"
+  },
+  {
+   "i": 377,
+   "start": 1057.42,
+   "end": 1058.74,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I wanna eat your dragon!"
+  },
+  {
+   "i": 378,
+   "start": 1058.74,
+   "end": 1064.24,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "♫"
+  },
+  {
+   "i": 379,
+   "start": 1064.24,
+   "end": 1066.66,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "Hold ze f*cking frog legs!"
+  },
+  {
+   "i": 380,
+   "start": 1067.06,
+   "end": 1069.28,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "Hahahahaha!"
+  },
+  {
+   "i": 381,
+   "start": 1069.42,
+   "end": 1075.62,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "You may have defeated Monsieur Cooler... ...but now you face ze wrath of Sauza!"
+  },
+  {
+   "i": 382,
+   "start": 1076.56,
+   "end": 1077.16,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "WAAGH...!"
+  },
+  {
+   "i": 383,
+   "start": 1077.5,
+   "end": 1080.12,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Choking"
+  },
+  {
+   "i": 384,
+   "start": 1077.5,
+   "end": 1081.78,
+   "kind": "dialog",
+   "speaker": "Sauza",
+   "text": "'I will see you in Space Hell... cousin Jeice.'"
+  },
+  {
+   "i": 385,
+   "start": 1083.84,
+   "end": 1085.34,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Seriously, gimme your dragon."
+  },
+  {
+   "i": 386,
+   "start": 1085.56,
+   "end": 1087.74,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"There's Always Someone Cooler\" ♫"
+  }
+ ],
+ "segments": [
+  {
+   "start": 55.3,
+   "end": 75.3,
+   "title": "I F*cking Called It",
+   "quote": "Well, I sure hope somebody picks up that phone. Because I f*cking called it!",
+   "line_start": 9,
+   "line_end": 16
+  },
+  {
+   "start": 111.8,
+   "end": 128.8,
+   "title": "I Wish for You to Be My Dinner",
+   "quote": "Halt, stalwart stranger! If you let me go, I shall grant you one wish. — I wish for you to be my dinner!",
+   "line_start": 23,
+   "line_end": 29
+  },
+  {
+   "start": 201.9,
+   "end": 225.3,
+   "title": "I'ma Kill It!",
+   "quote": "Oh, is that your son? — Yeah... — I'ma kill it! — Don't you do it!",
+   "line_start": 60,
+   "line_end": 74
+  },
+  {
+   "start": 386.2,
+   "end": 419.8,
+   "title": "Korin and Yajirobe, Roommates",
+   "quote": "You should be proud, you know how to rub this pussy real good.",
+   "line_start": 127,
+   "line_end": 140
+  },
+  {
+   "start": 480.8,
+   "end": 498.7,
+   "title": "Pretty One, Stupid One",
+   "quote": "Okay, I take it back; you're all stupid.",
+   "line_start": 164,
+   "line_end": 171
+  },
+  {
+   "start": 565.0,
+   "end": 597.0,
+   "title": "Nail's Star Wars Scene",
+   "quote": "Lightsabers don't stick out of people's arms! — It's *totally* making the same sound; you can't make that up!",
+   "line_start": 206,
+   "line_end": 220
+  },
+  {
+   "start": 596.6,
+   "end": 609.6,
+   "title": "He With a Capital H",
+   "quote": "That's \"He\" with a capital H, by the way.",
+   "line_start": 221,
+   "line_end": 225
+  },
+  {
+   "start": 610.2,
+   "end": 626.0,
+   "title": "The Only Prescription Is Icarus",
+   "quote": "I've got... a fever... And the only prescription... ...is Icarus.",
+   "line_start": 226,
+   "line_end": 231
+  },
+  {
+   "start": 638.8,
+   "end": 657.9,
+   "title": "Please Tell Me Zey Were Important",
+   "quote": "Those were our only hope, you *bastard*!",
+   "line_start": 238,
+   "line_end": 246
+  },
+  {
+   "start": 705.7,
+   "end": 733.3,
+   "title": "A Terrible Case of Explosions",
+   "quote": "So, basically I'm going to blow up the planet.",
+   "line_start": 267,
+   "line_end": 275
+  },
+  {
+   "start": 854.6,
+   "end": 885.4,
+   "title": "Toriyama the Birdie",
+   "quote": "Go, Toriyama... ...and teach a dinosaur to ride a ball!",
+   "line_start": 312,
+   "line_end": 321
+  },
+  {
+   "start": 894.7,
+   "end": 914.8,
+   "title": "Grab a Snickers",
+   "quote": "Not going anywhere for a while? ... Grab a Snickers.",
+   "line_start": 323,
+   "line_end": 332
+  },
+  {
+   "start": 973.3,
+   "end": 996.2,
+   "title": "The Coldness of Space",
+   "quote": "I know there's some kind of hubristic irony to consider here, but I'm far too distracted by the coldness of space!",
+   "line_start": 359,
+   "line_end": 363
+  },
+  {
+   "start": 1039.1,
+   "end": 1047.6,
+   "title": "Worth the Skin Cancer",
+   "quote": "Sun... you grow my food... you kill my enemies. You're totally worth the skin cancer.",
+   "line_start": 369,
+   "line_end": 370
+  },
+  {
+   "start": 1063.7,
+   "end": 1085.4,
+   "title": "Ze Wrath of Sauza",
+   "quote": "You may have defeated Monsieur Cooler... ...but now you face ze wrath of Sauza!",
+   "line_start": 379,
+   "line_end": 385
+  }
+ ]
+}

@@ -1,0 +1,2035 @@
+{
+ "item": "e18",
+ "show": "dbza",
+ "youtube": "hcL46NjFDJU",
+ "title": "Episode 16",
+ "duration": 658,
+ "lines": [
+  {
+   "i": 0,
+   "start": 7.02,
+   "end": 9.12,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Happy village music"
+  },
+  {
+   "i": 1,
+   "start": 7.02,
+   "end": 9.12,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Birds chirping"
+  },
+  {
+   "i": 2,
+   "start": 9.48,
+   "end": 12.46,
+   "kind": "dialog",
+   "speaker": "Villager 1",
+   "text": "...And that's the story of the great drought."
+  },
+  {
+   "i": 3,
+   "start": 12.46,
+   "end": 14.82,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Children laughing"
+  },
+  {
+   "i": 4,
+   "start": 12.46,
+   "end": 15.88,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Humming"
+  },
+  {
+   "i": 5,
+   "start": 16.98,
+   "end": 18.32,
+   "kind": "dialog",
+   "speaker": "Villager 2",
+   "text": "Hey, look! A visitor!"
+  },
+  {
+   "i": 6,
+   "start": 18.46,
+   "end": 20.76,
+   "kind": "dialog",
+   "speaker": "Villager 3",
+   "text": "Oh, boy! We love visitors!"
+  },
+  {
+   "i": 7,
+   "start": 20.86,
+   "end": 23.52,
+   "kind": "dialog",
+   "speaker": "Village Elder",
+   "text": "Now now, don't crowd the young man."
+  },
+  {
+   "i": 8,
+   "start": 23.74,
+   "end": 28.04,
+   "kind": "dialog",
+   "speaker": "Village Elder",
+   "text": "Why, hello good fellow. Welcome to our fine village."
+  },
+  {
+   "i": 9,
+   "start": 28.04,
+   "end": 30.46,
+   "kind": "dialog",
+   "speaker": "Village Elder",
+   "text": "You look like you're not from around here."
+  },
+  {
+   "i": 10,
+   "start": 30.76,
+   "end": 38.62,
+   "kind": "dialog",
+   "speaker": "Village Elder",
+   "text": "You have to be careful. Word through the grapevine has it that some unruly characters have been going around and attacking our villages."
+  },
+  {
+   "i": 11,
+   "start": 38.76,
+   "end": 41.64,
+   "kind": "dialog",
+   "speaker": "Village Elder",
+   "text": "By the way, would you like to see our Dragon Ball?"
+  },
+  {
+   "i": 12,
+   "start": 41.74,
+   "end": 45.42,
+   "kind": "dialog",
+   "speaker": "Village Elder",
+   "text": "It's our prized possession; sacred on this planet."
+  },
+  {
+   "i": 13,
+   "start": 45.64,
+   "end": 47.6,
+   "kind": "dialog",
+   "speaker": "Village Elder",
+   "text": "So, what brings you to our village?"
+  },
+  {
+   "i": 14,
+   "start": 72.66,
+   "end": 74.8,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Life sure has a way of working itself out."
+  },
+  {
+   "i": 15,
+   "start": 75.4,
+   "end": 77.36,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I find Cui, I kill Cui."
+  },
+  {
+   "i": 16,
+   "start": 77.82,
+   "end": 80.2,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I find Dodoria, I kill Dodoria."
+  },
+  {
+   "i": 17,
+   "start": 80.92,
+   "end": 84.16,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I find this Dragon Ball, I *take* this Dragon Ball."
+  },
+  {
+   "i": 18,
+   "start": 82.56,
+   "end": 84.16,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "SPLASH"
+  },
+  {
+   "i": 19,
+   "start": 84.94,
+   "end": 86.64,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Let's see what else I can find..."
+  },
+  {
+   "i": 20,
+   "start": 88.1,
+   "end": 90.4,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Sweet crap! Did you feel that, Gohan?!"
+  },
+  {
+   "i": 21,
+   "start": 90.4,
+   "end": 92.9,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Uh, yeah, but, maybe we shouldn't--"
+  },
+  {
+   "i": 22,
+   "start": 92.9,
+   "end": 95.6,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Man, Vegeta just ENDED that village!"
+  },
+  {
+   "i": 23,
+   "start": 95.6,
+   "end": 96.92,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Krillin, seriously, you--"
+  },
+  {
+   "i": 24,
+   "start": 96.92,
+   "end": 100.3,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I don't think he even needed to kill them either. They didn't even put up a fight!"
+  },
+  {
+   "i": 25,
+   "start": 100.3,
+   "end": 100.9,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Krillin!"
+  },
+  {
+   "i": 26,
+   "start": 100.9,
+   "end": 101.6,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "What? I--"
+  },
+  {
+   "i": 27,
+   "start": 102.46,
+   "end": 103.56,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Oh, cripes. Umm..."
+  },
+  {
+   "i": 28,
+   "start": 104.26,
+   "end": 105.64,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Hey, listen..."
+  },
+  {
+   "i": 29,
+   "start": 106.06,
+   "end": 110.42,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "They may be dead now... but they've all gone to a better place."
+  },
+  {
+   "i": 30,
+   "start": 110.84,
+   "end": 118.72,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Heaven - where everyone has their own little house and everything is wonderful and we all get along and there's puppies and kitties and--"
+  },
+  {
+   "i": 31,
+   "start": 118.72,
+   "end": 120.34,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "This sounds totally asinine."
+  },
+  {
+   "i": 32,
+   "start": 120.34,
+   "end": 121.58,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "It totally is."
+  },
+  {
+   "i": 33,
+   "start": 121.78,
+   "end": 124.38,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Hey, guys - I think I might have an idea."
+  },
+  {
+   "i": 34,
+   "start": 124.62,
+   "end": 127.34,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Freeza and Vegeta need all seven Dragon Balls, right?"
+  },
+  {
+   "i": 35,
+   "start": 127.66,
+   "end": 130.44,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "So, what if we just found one and hid it away?"
+  },
+  {
+   "i": 36,
+   "start": 130.7,
+   "end": 132.7,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Then neither of them can make their wish."
+  },
+  {
+   "i": 37,
+   "start": 132.8,
+   "end": 136.26,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Hey, good idea. But we also need someone who can help us out."
+  },
+  {
+   "i": 38,
+   "start": 136.46,
+   "end": 137.08,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Little Green."
+  },
+  {
+   "i": 39,
+   "start": 137.08,
+   "end": 137.64,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Dende."
+  },
+  {
+   "i": 40,
+   "start": 137.64,
+   "end": 139.9,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Do you know anyone on this planet who might be able to do that?"
+  },
+  {
+   "i": 41,
+   "start": 140.18,
+   "end": 142.36,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "I know of one... person."
+  },
+  {
+   "i": 42,
+   "start": 143.08,
+   "end": 146.82,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "He is called the leader of our people; the eldest Namek."
+  },
+  {
+   "i": 43,
+   "start": 147.34,
+   "end": 152.66,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "It is said long ago, when our planet faced a great drought, he led our people through the peril."
+  },
+  {
+   "i": 44,
+   "start": 153.14,
+   "end": 154.9,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "It is said that it was terrifying."
+  },
+  {
+   "i": 45,
+   "start": 155.64,
+   "end": 156.18,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "The drought?"
+  },
+  {
+   "i": 46,
+   "start": 156.66,
+   "end": 157.16,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "No."
+  },
+  {
+   "i": 47,
+   "start": 157.62,
+   "end": 160.14,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Well, Gohan - looks like this is our only choice."
+  },
+  {
+   "i": 48,
+   "start": 160.14,
+   "end": 161.6,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Stay here and protect Bulma."
+  },
+  {
+   "i": 49,
+   "start": 161.6,
+   "end": 162.72,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Oh, now you care."
+  },
+  {
+   "i": 50,
+   "start": 162.72,
+   "end": 165.68,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I'm gonna follow Little Green to meet this \"Eldest Namek\" guy."
+  },
+  {
+   "i": 51,
+   "start": 165.68,
+   "end": 167.34,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "He sounds like he's our last hope."
+  },
+  {
+   "i": 52,
+   "start": 167.94,
+   "end": 169.36,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Please do not make jokes."
+  },
+  {
+   "i": 53,
+   "start": 171.74,
+   "end": 175.7,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Freeza seems increasingly frustrated. I'd best find Vegeta quickly."
+  },
+  {
+   "i": 54,
+   "start": 175.7,
+   "end": 176.2,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Flashback"
+  },
+  {
+   "i": 55,
+   "start": 176.2,
+   "end": 181.3,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "You know, Zarbon, I'm starting to think my people don't understand what I pay them for."
+  },
+  {
+   "i": 56,
+   "start": 181.3,
+   "end": 182.02,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "You don't pay us."
+  },
+  {
+   "i": 57,
+   "start": 182.02,
+   "end": 184.3,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Allow them to *live* for."
+  },
+  {
+   "i": 58,
+   "start": 184.3,
+   "end": 186.92,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "I mean first, we lose... what was his name?"
+  },
+  {
+   "i": 59,
+   "start": 186.92,
+   "end": 187.46,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Kiwi?"
+  },
+  {
+   "i": 60,
+   "start": 187.46,
+   "end": 188.44,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Oh, Kiwi."
+  },
+  {
+   "i": 61,
+   "start": 188.44,
+   "end": 193.1,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Then we lose all of our Scouters, and now Dodoria's dead?"
+  },
+  {
+   "i": 62,
+   "start": 193.22,
+   "end": 197.78,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "I'm sorry, but if this s**t goes any further south, we're going to hit Space Mexico."
+  },
+  {
+   "i": 63,
+   "start": 197.9,
+   "end": 199.76,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "What would you want me to do, Lord Freeza?"
+  },
+  {
+   "i": 64,
+   "start": 199.76,
+   "end": 206.16,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Well, what I want *you* to do, is: * Pull up your frilly stockings * Tighten your thong * And stop being *such a*--"
+  },
+  {
+   "i": 65,
+   "start": 206.16,
+   "end": 206.78,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Flashback ends"
+  },
+  {
+   "i": 66,
+   "start": 206.16,
+   "end": 206.78,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "PANSY!"
+  },
+  {
+   "i": 67,
+   "start": 206.78,
+   "end": 207.38,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "What?!"
+  },
+  {
+   "i": 68,
+   "start": 207.38,
+   "end": 207.88,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "BOOM"
+  },
+  {
+   "i": 69,
+   "start": 207.88,
+   "end": 208.38,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Uhh!"
+  },
+  {
+   "i": 70,
+   "start": 209.14,
+   "end": 210.1,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Vegeta!"
+  },
+  {
+   "i": 71,
+   "start": 210.1,
+   "end": 214.1,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "How *dare* you ram into me when I'm thinking about Lord Freeza and my thong!"
+  },
+  {
+   "i": 72,
+   "start": 214.32,
+   "end": 216.32,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Yeah, just going to ignore that one entirely."
+  },
+  {
+   "i": 73,
+   "start": 216.66,
+   "end": 219.18,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "But, it is a good thing I found you, Vegeta."
+  },
+  {
+   "i": 74,
+   "start": 219.46,
+   "end": 223.94,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Now, are you going to come quietly, or do I have to make you scream?"
+  },
+  {
+   "i": 75,
+   "start": 223.94,
+   "end": 225.88,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Oh, you mean like Dodoria?"
+  },
+  {
+   "i": 76,
+   "start": 225.88,
+   "end": 229.4,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Oh, please. Never send a woman to do a man's job."
+  },
+  {
+   "i": 77,
+   "start": 230.52,
+   "end": 231.02,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "URHG!"
+  },
+  {
+   "i": 78,
+   "start": 231.72,
+   "end": 232.22,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "RARGH!"
+  },
+  {
+   "i": 79,
+   "start": 234.38,
+   "end": 234.88,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "GAH!"
+  },
+  {
+   "i": 80,
+   "start": 237.28,
+   "end": 238.2,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Where is he?"
+  },
+  {
+   "i": 81,
+   "start": 238.3,
+   "end": 238.8,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "GAH!"
+  },
+  {
+   "i": 82,
+   "start": 238.3,
+   "end": 240.06,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Uuu-huu...!"
+  },
+  {
+   "i": 83,
+   "start": 241.02,
+   "end": 245.58,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Face-down with another man beating your ass. Is it Wednesday already, Zarbon?"
+  },
+  {
+   "i": 84,
+   "start": 245.9,
+   "end": 251.1,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Very cute, Vegeta. But you have no idea what you're getting into."
+  },
+  {
+   "i": 85,
+   "start": 251.1,
+   "end": 253.2,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "HA! You have got to be kidding me!"
+  },
+  {
+   "i": 86,
+   "start": 253.2,
+   "end": 259.02,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I may have lost to those fools on Earth, but since I got here, I've done nothing but slaughter you cretins!"
+  },
+  {
+   "i": 87,
+   "start": 259.02,
+   "end": 261.22,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "First Cui, then Dodoria."
+  },
+  {
+   "i": 88,
+   "start": 261.22,
+   "end": 264.3,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I'm 2 for 3, and I'm back on top."
+  },
+  {
+   "i": 89,
+   "start": 264.3,
+   "end": 267.82,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Well Vegeta, I hope you've enjoyed being on top..."
+  },
+  {
+   "i": 90,
+   "start": 267.82,
+   "end": 271.76,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "because I'm about to put you back on the bottom, where you belong."
+  },
+  {
+   "i": 91,
+   "start": 272.2,
+   "end": 275.44,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "You see, I've been hiding another side of myself."
+  },
+  {
+   "i": 92,
+   "start": 275.64,
+   "end": 276.88,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Where? In the closet?"
+  },
+  {
+   "i": 93,
+   "start": 277.06,
+   "end": 280.3,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Now prepare yourself, for the beast within!"
+  },
+  {
+   "i": 94,
+   "start": 280.56,
+   "end": 285.5,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "I should warn you, though: This form is entirely different from me in every way."
+  },
+  {
+   "i": 95,
+   "start": 285.6,
+   "end": 288.26,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "HUUHG! HURHG! RWAARGH!"
+  },
+  {
+   "i": 96,
+   "start": 289.04,
+   "end": 291.02,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "I'MA RAPE YA, BITCH!!"
+  },
+  {
+   "i": 97,
+   "start": 291.24,
+   "end": 293.12,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "To be perfectly honest, you're not that different;"
+  },
+  {
+   "i": 98,
+   "start": 293.12,
+   "end": 294.46,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "HONNNK"
+  },
+  {
+   "i": 99,
+   "start": 293.12,
+   "end": 294.46,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "you're just a lot less subtleaboutit--"
+  },
+  {
+   "i": 100,
+   "start": 294.46,
+   "end": 295.04,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "POW"
+  },
+  {
+   "i": 101,
+   "start": 294.46,
+   "end": 295.04,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "OHMYGOD!!"
+  },
+  {
+   "i": 102,
+   "start": 295.14,
+   "end": 296.68,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Urgh! Arrgh!"
+  },
+  {
+   "i": 103,
+   "start": 296.68,
+   "end": 302.36,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "(More pained grunts)"
+  },
+  {
+   "i": 104,
+   "start": 302.36,
+   "end": 303.16,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Of...!"
+  },
+  {
+   "i": 105,
+   "start": 303.16,
+   "end": 303.92,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Poit...!"
+  },
+  {
+   "i": 106,
+   "start": 303.92,
+   "end": 305.94,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Zort...! D'apples...!"
+  },
+  {
+   "i": 107,
+   "start": 306.68,
+   "end": 307.18,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Huh..."
+  },
+  {
+   "i": 108,
+   "start": 307.56,
+   "end": 309.3,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Hey, Little Green, do you believe in karma?"
+  },
+  {
+   "i": 109,
+   "start": 309.56,
+   "end": 310.26,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "What is that?"
+  },
+  {
+   "i": 110,
+   "start": 310.42,
+   "end": 313.9,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Well, you see... Karma is, where if you do something *good*..."
+  },
+  {
+   "i": 111,
+   "start": 313.9,
+   "end": 314.7,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "POW"
+  },
+  {
+   "i": 112,
+   "start": 313.9,
+   "end": 314.7,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "URGHH...!"
+  },
+  {
+   "i": 113,
+   "start": 314.7,
+   "end": 316.7,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "something good happens to *you*."
+  },
+  {
+   "i": 114,
+   "start": 316.94,
+   "end": 318.92,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "And if you do something *bad*..."
+  },
+  {
+   "i": 115,
+   "start": 318.92,
+   "end": 319.74,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "POW"
+  },
+  {
+   "i": 116,
+   "start": 318.92,
+   "end": 319.74,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "GAAH...!"
+  },
+  {
+   "i": 117,
+   "start": 319.74,
+   "end": 321.68,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "something *bad* happens to you."
+  },
+  {
+   "i": 118,
+   "start": 322.12,
+   "end": 326.12,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "So, if I am good enough... then I can have my family back?"
+  },
+  {
+   "i": 119,
+   "start": 327.26,
+   "end": 328.9,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Are you still on about that?"
+  },
+  {
+   "i": 120,
+   "start": 330.7,
+   "end": 332.04,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "No! No! No! No! No!"
+  },
+  {
+   "i": 121,
+   "start": 332.04,
+   "end": 333.78,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "NOOOOOOOO--!!!"
+  },
+  {
+   "i": 122,
+   "start": 333.78,
+   "end": 336.84,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Big anime explosion"
+  },
+  {
+   "i": 123,
+   "start": 339.1,
+   "end": 341.06,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "AND THAT'S THE END OF THAT."
+  },
+  {
+   "i": 124,
+   "start": 341.22,
+   "end": 341.86,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "ROOARGH!"
+  },
+  {
+   "i": 125,
+   "start": 342.5,
+   "end": 347.56,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "I'd best hurry back to Lord Freeza. If I take too long, he'll really lay into me."
+  },
+  {
+   "i": 126,
+   "start": 347.56,
+   "end": 349.96,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "WOOSH"
+  },
+  {
+   "i": 127,
+   "start": 352.38,
+   "end": 353.26,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "(Gasp!)"
+  },
+  {
+   "i": 128,
+   "start": 353.26,
+   "end": 355.5,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "(Breathing hard)"
+  },
+  {
+   "i": 129,
+   "start": 356.44,
+   "end": 358.28,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Why did I explode...?"
+  },
+  {
+   "i": 130,
+   "start": 360.58,
+   "end": 361.78,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "That is it up ahead."
+  },
+  {
+   "i": 131,
+   "start": 362.48,
+   "end": 366.5,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "So that's where yours lives, huh? On Earth, our old Namek lives in a floating castle."
+  },
+  {
+   "i": 132,
+   "start": 366.6,
+   "end": 367.8,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "You have one as well?"
+  },
+  {
+   "i": 133,
+   "start": 367.98,
+   "end": 369.62,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Well, he died, but yeah."
+  },
+  {
+   "i": 134,
+   "start": 369.98,
+   "end": 371.42,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "This does not bode well."
+  },
+  {
+   "i": 135,
+   "start": 372.0,
+   "end": 373.5,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "[Speaking Klingon (Namekian)]"
+  },
+  {
+   "i": 136,
+   "start": 374.94,
+   "end": 376.4,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "[Speaking Klingon (Namekian)]"
+  },
+  {
+   "i": 137,
+   "start": 380.96,
+   "end": 383.0,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "You have such a beautiful language."
+  },
+  {
+   "i": 138,
+   "start": 386.74,
+   "end": 387.62,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "...English."
+  },
+  {
+   "i": 139,
+   "start": 387.86,
+   "end": 389.86,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Aww, so you made a friend, Little Green?"
+  },
+  {
+   "i": 140,
+   "start": 390.14,
+   "end": 392.98,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Oh, I know - I'm gonna call you Big Green."
+  },
+  {
+   "i": 141,
+   "start": 392.98,
+   "end": 394.84,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "Call me that again and I'll snap your neck."
+  },
+  {
+   "i": 142,
+   "start": 395.6,
+   "end": 398.9,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "...With that attitude, I don't think you should be friends with him, Little Green."
+  },
+  {
+   "i": 143,
+   "start": 399.06,
+   "end": 403.08,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "Listen - I don't care where you come from or who you are; I will not put up with such disrespect--!"
+  },
+  {
+   "i": 144,
+   "start": 403.08,
+   "end": 404.66,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "BIG GREEEEN!"
+  },
+  {
+   "i": 145,
+   "start": 405.04,
+   "end": 406.38,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "GET IN HERE."
+  },
+  {
+   "i": 146,
+   "start": 406.38,
+   "end": 408.62,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "Oh, G-God dammit..."
+  },
+  {
+   "i": 147,
+   "start": 409.18,
+   "end": 410.48,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "What is it, Lord Guru?"
+  },
+  {
+   "i": 148,
+   "start": 410.68,
+   "end": 414.02,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "I HAVE A BITCH OF AN ITCH ON MY LEFT ASSCHEE--"
+  },
+  {
+   "i": 149,
+   "start": 415.06,
+   "end": 419.64,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "NAIL, THERE IS AN ALBINO NAMEKIAN STANDING BEHIND YOU."
+  },
+  {
+   "i": 150,
+   "start": 420.26,
+   "end": 422.14,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "KILL IT LIKE THE REST."
+  },
+  {
+   "i": 151,
+   "start": 422.14,
+   "end": 424.44,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Uh, actually sir, I'm from Earth."
+  },
+  {
+   "i": 152,
+   "start": 425.2,
+   "end": 426.72,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "KILL IT LIKE THE REST."
+  },
+  {
+   "i": 153,
+   "start": 426.72,
+   "end": 427.26,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Ahh!"
+  },
+  {
+   "i": 154,
+   "start": 427.26,
+   "end": 431.2,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "Uh, actually sir, I think he has business here about those people attacking our planet?"
+  },
+  {
+   "i": 155,
+   "start": 431.48,
+   "end": 431.98,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Yeah."
+  },
+  {
+   "i": 156,
+   "start": 432.16,
+   "end": 435.58,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "We came here looking for help, and I see you have a Dragon Ball up there."
+  },
+  {
+   "i": 157,
+   "start": 435.86,
+   "end": 437.96,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Well, WE'RE going to make sure that they don't steal it."
+  },
+  {
+   "i": 158,
+   "start": 438.14,
+   "end": 439.58,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "AND HOW IS THAT?"
+  },
+  {
+   "i": 159,
+   "start": 439.72,
+   "end": 440.76,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I'm gonna take it."
+  },
+  {
+   "i": 160,
+   "start": 440.76,
+   "end": 444.44,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "Learn your place, Earthling! You have some nerve demanding the Dragon Ball for--"
+  },
+  {
+   "i": 161,
+   "start": 444.44,
+   "end": 445.32,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "HERE, TAKE IT."
+  },
+  {
+   "i": 162,
+   "start": 445.32,
+   "end": 445.82,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "I..."
+  },
+  {
+   "i": 163,
+   "start": 446.26,
+   "end": 446.86,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "What?"
+  },
+  {
+   "i": 164,
+   "start": 446.86,
+   "end": 449.22,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "JUST DON'T STEAL THE TV."
+  },
+  {
+   "i": 165,
+   "start": 449.4,
+   "end": 452.68,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "Sir, we... (Sigh), we don't have a television."
+  },
+  {
+   "i": 166,
+   "start": 453.52,
+   "end": 457.74,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "NAIL, GATHER THE REST OF THE DRAGON BALLS AND WISH FOR A PLASMA TV."
+  },
+  {
+   "i": 167,
+   "start": 457.74,
+   "end": 460.48,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "Lord Guru, that would be a grievous misuse of their powers."
+  },
+  {
+   "i": 168,
+   "start": 460.48,
+   "end": 463.46,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "I'M ABOUT TO MISUSE MY HAND UPSIDE YOUR HEAD!"
+  },
+  {
+   "i": 169,
+   "start": 463.82,
+   "end": 466.12,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "So, I can just take this and go?"
+  },
+  {
+   "i": 170,
+   "start": 466.34,
+   "end": 466.84,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "WAIT."
+  },
+  {
+   "i": 171,
+   "start": 467.04,
+   "end": 469.08,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "THERE IS SOMETHING I MUST FIRST DO."
+  },
+  {
+   "i": 172,
+   "start": 469.08,
+   "end": 470.0,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "You don't mean..."
+  },
+  {
+   "i": 173,
+   "start": 470.0,
+   "end": 470.8,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "YES."
+  },
+  {
+   "i": 174,
+   "start": 470.8,
+   "end": 477.58,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "I SEE SOMETHING WITHIN THIS YOUNG MAN... STRENGTH YET UNTAPPED, POWER YET UNLEASHED."
+  },
+  {
+   "i": 175,
+   "start": 477.86,
+   "end": 482.86,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "NOW, HOLD STILL, AS I UNLEASH THE VALLEY OF STRENGTH HIDDEN DEEP WITHIN!"
+  },
+  {
+   "i": 176,
+   "start": 488.94,
+   "end": 489.7,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "THERE."
+  },
+  {
+   "i": 177,
+   "start": 489.7,
+   "end": 491.62,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "I HAVE UNLOCKED YOUR POTENTIAL."
+  },
+  {
+   "i": 178,
+   "start": 492.26,
+   "end": 493.62,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I don't feel that different."
+  },
+  {
+   "i": 179,
+   "start": 493.62,
+   "end": 495.28,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "IT WASN'T THAT MUCH."
+  },
+  {
+   "i": 180,
+   "start": 495.5,
+   "end": 496.0,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Huh..."
+  },
+  {
+   "i": 181,
+   "start": 496.6,
+   "end": 498.3,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "So, this is my full potential?"
+  },
+  {
+   "i": 182,
+   "start": 498.54,
+   "end": 499.1,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "YES."
+  },
+  {
+   "i": 183,
+   "start": 499.6,
+   "end": 500.86,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "So... then it's--"
+  },
+  {
+   "i": 184,
+   "start": 500.86,
+   "end": 503.34,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "ALL DOWNHILL FROM HERE..."
+  },
+  {
+   "i": 185,
+   "start": 503.34,
+   "end": 504.32,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Like Yamcha..."
+  },
+  {
+   "i": 186,
+   "start": 504.7,
+   "end": 507.0,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "I DO NOT KNOW WHAT THIS \"YAMCHA\" IS,"
+  },
+  {
+   "i": 187,
+   "start": 507.34,
+   "end": 509.42,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "BUT IT SOUNDS DISAPPOINTING."
+  },
+  {
+   "i": 188,
+   "start": 509.78,
+   "end": 512.48,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Well, I'd better get this Dragon Ball back to Gohan."
+  },
+  {
+   "i": 189,
+   "start": 512.48,
+   "end": 515.46,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Once we find them all, we can wish back *our* old Namekian."
+  },
+  {
+   "i": 190,
+   "start": 515.56,
+   "end": 516.46,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "WAIT."
+  },
+  {
+   "i": 191,
+   "start": 516.46,
+   "end": 518.78,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "You said that you were from Earth, correct?"
+  },
+  {
+   "i": 192,
+   "start": 519.1,
+   "end": 519.6,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Yeah."
+  },
+  {
+   "i": 193,
+   "start": 519.96,
+   "end": 523.02,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "SO, THE SON OF KATAS HAS PASSED."
+  },
+  {
+   "i": 194,
+   "start": 523.32,
+   "end": 524.82,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "UNFORTUNATE."
+  },
+  {
+   "i": 195,
+   "start": 525.0,
+   "end": 526.42,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "We just called him \"Kami\"."
+  },
+  {
+   "i": 196,
+   "start": 526.56,
+   "end": 528.9,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "OH, SO HE CALLS HIMSELF GOD."
+  },
+  {
+   "i": 197,
+   "start": 529.18,
+   "end": 530.62,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "PRETENTIOUS PRICK!"
+  },
+  {
+   "i": 198,
+   "start": 531.68,
+   "end": 532.38,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "NAIL!"
+  },
+  {
+   "i": 199,
+   "start": 532.38,
+   "end": 533.08,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "What?"
+  },
+  {
+   "i": 200,
+   "start": 533.2,
+   "end": 537.3,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "I SHALL HENCEFORTH BE KNOWN AS: SUPER KAMI."
+  },
+  {
+   "i": 201,
+   "start": 537.48,
+   "end": 538.7,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "Yes, Super Kami."
+  },
+  {
+   "i": 202,
+   "start": 538.7,
+   "end": 539.64,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "NO, WAIT..."
+  },
+  {
+   "i": 203,
+   "start": 540.4,
+   "end": 541.68,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "SUPER KAMI GURU."
+  },
+  {
+   "i": 204,
+   "start": 541.88,
+   "end": 543.84,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "Can I just call you Guru for short?"
+  },
+  {
+   "i": 205,
+   "start": 544.18,
+   "end": 546.58,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "SUPER KAMI GURU ALLOWS THIS."
+  },
+  {
+   "i": 206,
+   "start": 546.86,
+   "end": 548.28,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Well, I'd better hurry up."
+  },
+  {
+   "i": 207,
+   "start": 548.54,
+   "end": 551.32,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "See you later, Little Green, and thanks for the Dragon Ball."
+  },
+  {
+   "i": 208,
+   "start": 555.98,
+   "end": 556.64,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "NAIL."
+  },
+  {
+   "i": 209,
+   "start": 557.02,
+   "end": 559.44,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "PREPARE TO RETRIEVE THE DRAGONBALL."
+  },
+  {
+   "i": 210,
+   "start": 560.02,
+   "end": 561.38,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "...AND THE BODY."
+  },
+  {
+   "i": 211,
+   "start": 562.08,
+   "end": 563.1,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Doors open"
+  },
+  {
+   "i": 212,
+   "start": 563.32,
+   "end": 566.88,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Lord Freeza, the dirty deed has been done."
+  },
+  {
+   "i": 213,
+   "start": 566.88,
+   "end": 571.8,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Ah, very good. It's nice to see there's still somebody I can rely on."
+  },
+  {
+   "i": 214,
+   "start": 571.8,
+   "end": 574.82,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Oh, he barely put up a fight after I transformed."
+  },
+  {
+   "i": 215,
+   "start": 575.1,
+   "end": 578.32,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Now that he's dead, we have very little left to worry about."
+  },
+  {
+   "i": 216,
+   "start": 579.0,
+   "end": 579.5,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Tsk"
+  },
+  {
+   "i": 217,
+   "start": 579.82,
+   "end": 585.96,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Zarbon, about an hour ago, a scout informed me that an entire village was *completely destroyed*."
+  },
+  {
+   "i": 218,
+   "start": 586.42,
+   "end": 589.14,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Do you possibly know who could have done that?"
+  },
+  {
+   "i": 219,
+   "start": 589.56,
+   "end": 591.3,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Ve... Vegeta."
+  },
+  {
+   "i": 220,
+   "start": 591.4,
+   "end": 597.9,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "*And*, unlike the villages we visited so far, there was *no* Dragon Ball there."
+  },
+  {
+   "i": 221,
+   "start": 598.1,
+   "end": 600.56,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Do you know who could have possibly taken it?"
+  },
+  {
+   "i": 222,
+   "start": 600.92,
+   "end": 601.98,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Vegeta."
+  },
+  {
+   "i": 223,
+   "start": 601.98,
+   "end": 612.08,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Verrry good; now, use your brain for this one, Zarbon: If somebody were to know *where* that Dragon Ball was... who would it be?"
+  },
+  {
+   "i": 224,
+   "start": 612.56,
+   "end": 613.08,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Vegeta--"
+  },
+  {
+   "i": 225,
+   "start": 613.08,
+   "end": 614.28,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Vegeta, yes."
+  },
+  {
+   "i": 226,
+   "start": 614.88,
+   "end": 617.92,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "And you said you killed him...?"
+  },
+  {
+   "i": 227,
+   "start": 617.92,
+   "end": 621.24,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Wait, sir! It is possible I just left him unconscious."
+  },
+  {
+   "i": 228,
+   "start": 621.24,
+   "end": 622.2,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Oh, good..."
+  },
+  {
+   "i": 229,
+   "start": 622.72,
+   "end": 624.56,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "and where did you leave him?"
+  },
+  {
+   "i": 230,
+   "start": 624.98,
+   "end": 627.18,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "At the bottom of a lake..."
+  },
+  {
+   "i": 231,
+   "start": 628.34,
+   "end": 630.82,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Minion 43, would you come in here for a second?"
+  },
+  {
+   "i": 232,
+   "start": 631.28,
+   "end": 632.72,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "I need an example."
+  },
+  {
+   "i": 233,
+   "start": 632.72,
+   "end": 635.44,
+   "kind": "dialog",
+   "speaker": "Minion 43",
+   "text": "Private Namole, reporting! An example of what, Lord Freez--"
+  },
+  {
+   "i": 234,
+   "start": 635.44,
+   "end": 637.02,
+   "kind": "dialog",
+   "speaker": "Minion 43",
+   "text": "AAHHH-AAGHH...!!"
+  },
+  {
+   "i": 235,
+   "start": 638.82,
+   "end": 640.34,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "You see that, Zarbon?"
+  },
+  {
+   "i": 236,
+   "start": 640.34,
+   "end": 645.14,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "That's *you* if Vegeta is not in front of me in the next *10 minutes*."
+  },
+  {
+   "i": 237,
+   "start": 645.48,
+   "end": 647.18,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Uh... uuuhhh, huhh...!"
+  },
+  {
+   "i": 238,
+   "start": 647.72,
+   "end": 648.3,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Bye."
+  },
+  {
+   "i": 239,
+   "start": 648.62,
+   "end": 650.14,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "AAAAAAAHHHH!"
+  },
+  {
+   "i": 240,
+   "start": 650.14,
+   "end": 654.1,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ Closing theme (DBZ intermission) ♫"
+  }
+ ],
+ "segments": [
+  {
+   "start": 72.2,
+   "end": 86.64,
+   "title": "I Find Cui, I Kill Cui",
+   "quote": "I find Cui, I kill Cui. I find Dodoria, I kill Dodoria.",
+   "line_start": 14,
+   "line_end": 19
+  },
+  {
+   "start": 175.7,
+   "end": 206.78,
+   "title": "Space Mexico",
+   "quote": "I'm sorry, but if this s**t goes any further south, we're going to hit Space Mexico.",
+   "line_start": 55,
+   "line_end": 66
+  },
+  {
+   "start": 240.5,
+   "end": 276.88,
+   "title": "Is It Wednesday Already?",
+   "quote": "Face-down with another man beating your ass. Is it Wednesday already, Zarbon?",
+   "line_start": 83,
+   "line_end": 92
+  },
+  {
+   "start": 306.2,
+   "end": 328.9,
+   "title": "Karma Lesson",
+   "quote": "Karma is, where if you do something *good*... something good happens to *you*.",
+   "line_start": 107,
+   "line_end": 119
+  },
+  {
+   "start": 330.2,
+   "end": 358.28,
+   "title": "Why Did I Explode?",
+   "quote": "Why did I explode...?",
+   "line_start": 120,
+   "line_end": 129
+  },
+  {
+   "start": 380.5,
+   "end": 408.62,
+   "title": "Big Green",
+   "quote": "Call me that again and I'll snap your neck. / BIG GREEEEN!",
+   "line_start": 137,
+   "line_end": 146
+  },
+  {
+   "start": 408.7,
+   "end": 427.26,
+   "title": "Kill It Like the Rest",
+   "quote": "THERE IS AN ALBINO NAMEKIAN STANDING BEHIND YOU. KILL IT LIKE THE REST.",
+   "line_start": 147,
+   "line_end": 153
+  },
+  {
+   "start": 437.7,
+   "end": 466.12,
+   "title": "Wish for a Plasma TV",
+   "quote": "GATHER THE REST OF THE DRAGON BALLS AND WISH FOR A PLASMA TV.",
+   "line_start": 158,
+   "line_end": 168
+  },
+  {
+   "start": 477.4,
+   "end": 509.42,
+   "title": "All Downhill From Here",
+   "quote": "I HAVE UNLOCKED YOUR POTENTIAL. / IT WASN'T THAT MUCH.",
+   "line_start": 175,
+   "line_end": 187
+  },
+  {
+   "start": 515.1,
+   "end": 546.58,
+   "title": "Super Kami Guru Allows This",
+   "quote": "SUPER KAMI GURU ALLOWS THIS.",
+   "line_start": 190,
+   "line_end": 205
+  },
+  {
+   "start": 601.5,
+   "end": 627.18,
+   "title": "Vegeta. Vegeta. Vegeta.",
+   "quote": "And you said you killed him...? / At the bottom of a lake...",
+   "line_start": 223,
+   "line_end": 230
+  },
+  {
+   "start": 627.9,
+   "end": 650.14,
+   "title": "I Need an Example",
+   "quote": "Minion 43, would you come in here for a second? I need an example.",
+   "line_start": 231,
+   "line_end": 239
+  }
+ ]
+}

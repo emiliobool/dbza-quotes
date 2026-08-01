@@ -1,0 +1,1707 @@
+{
+ "item": "e54",
+ "show": "dbza",
+ "youtube": "BSJTGla19o4",
+ "title": "Episode 48",
+ "duration": 624,
+ "lines": [
+  {
+   "i": 0,
+   "start": 17.16,
+   "end": 21.22,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Huh? Oh, hey! It's Bulma! Heeey, Bulma!"
+  },
+  {
+   "i": 1,
+   "start": 23.46,
+   "end": 27.12,
+   "kind": "dialog",
+   "speaker": "Baby Trunks",
+   "text": "(Babbling)"
+  },
+  {
+   "i": 2,
+   "start": 24.06,
+   "end": 26.12,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Huh... what is it, Trunks?"
+  },
+  {
+   "i": 3,
+   "start": 27.22,
+   "end": 28.54,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Bulmaa!"
+  },
+  {
+   "i": 4,
+   "start": 28.6,
+   "end": 29.98,
+   "kind": "dialog",
+   "speaker": "Baby Trunks",
+   "text": "Krilly! Krillih!"
+  },
+  {
+   "i": 5,
+   "start": 29.98,
+   "end": 31.98,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "What'cha pointing at, little guy?"
+  },
+  {
+   "i": 6,
+   "start": 32.02,
+   "end": 32.52,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "...Bulma?"
+  },
+  {
+   "i": 7,
+   "start": 32.52,
+   "end": 33.02,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Huh?"
+  },
+  {
+   "i": 8,
+   "start": 33.02,
+   "end": 34.54,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "BULMA, STOP THE-- URGH!"
+  },
+  {
+   "i": 9,
+   "start": 34.54,
+   "end": 35.36,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "OH MY GOD!"
+  },
+  {
+   "i": 10,
+   "start": 35.8,
+   "end": 37.06,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Found ya...!"
+  },
+  {
+   "i": 11,
+   "start": 37.06,
+   "end": 37.7,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "DING"
+  },
+  {
+   "i": 12,
+   "start": 38.7,
+   "end": 40.48,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"Cha-La Head-Cha-La\" ♫"
+  },
+  {
+   "i": 13,
+   "start": 40.48,
+   "end": 43.4,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "♫ CHA-LA HEAD-CHA-LA ♫"
+  },
+  {
+   "i": 14,
+   "start": 44.08,
+   "end": 47.74,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "♫ Egao urutora zetto de ♫ (With a smile that’s Ultra-Z)"
+  },
+  {
+   "i": 15,
+   "start": 47.74,
+   "end": 51.02,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "♫ Kyô mo ai-yai-yai-yai-yai~ ♫ (Even today is ai-yai-yai-yai-yai~)"
+  },
+  {
+   "i": 16,
+   "start": 51.02,
+   "end": 53.02,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "♫ Sparking! [fading echo] ♫"
+  },
+  {
+   "i": 17,
+   "start": 59.98,
+   "end": 63.3,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "Ahmmm... hmmmm...."
+  },
+  {
+   "i": 18,
+   "start": 63.3,
+   "end": 65.96,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "(Chuckling)"
+  },
+  {
+   "i": 19,
+   "start": 66.52,
+   "end": 68.24,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "Come with me if you want to live!"
+  },
+  {
+   "i": 20,
+   "start": 68.62,
+   "end": 72.46,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Did you just-- aaaaugh! Aauaaaauaaaaauaa--!"
+  },
+  {
+   "i": 21,
+   "start": 74.82,
+   "end": 75.4,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "Ungh!"
+  },
+  {
+   "i": 22,
+   "start": 76.78,
+   "end": 81.16,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "Hmmm... so this is what lips feel like..."
+  },
+  {
+   "i": 23,
+   "start": 81.16,
+   "end": 86.92,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "Bu bu buh. Bubbubbubbubuuh. Bbblabbblabbla. Bbblabbblabbla."
+  },
+  {
+   "i": 24,
+   "start": 86.92,
+   "end": 87.78,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "(Chuckles)"
+  },
+  {
+   "i": 25,
+   "start": 87.78,
+   "end": 89.66,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "Oh, that's fu-u-un!"
+  },
+  {
+   "i": 26,
+   "start": 89.66,
+   "end": 91.0,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "Blblblblblblblblblbbbbbbbbbb--"
+  },
+  {
+   "i": 27,
+   "start": 91.0,
+   "end": 91.98,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "WHAM"
+  },
+  {
+   "i": 28,
+   "start": 93.6,
+   "end": 94.18,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "...bbbbbbbbbb."
+  },
+  {
+   "i": 29,
+   "start": 94.28,
+   "end": 96.08,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "AUGHHHH!"
+  },
+  {
+   "i": 30,
+   "start": 97.42,
+   "end": 99.6,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Sixteen! Are you OK?"
+  },
+  {
+   "i": 31,
+   "start": 100.0,
+   "end": 103.26,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "My cranial structure has received serious damage."
+  },
+  {
+   "i": 32,
+   "start": 103.96,
+   "end": 105.12,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "How are you?"
+  },
+  {
+   "i": 33,
+   "start": 105.12,
+   "end": 112.62,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "I'd concern yourself less with him, and start focusing on what's important... Meeeee."
+  },
+  {
+   "i": 34,
+   "start": 112.62,
+   "end": 115.86,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "You! Give me back my brother, you fish-lipped asshole!"
+  },
+  {
+   "i": 35,
+   "start": 115.86,
+   "end": 119.16,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "Now, now, being hurtful isn't gonna bring him back."
+  },
+  {
+   "i": 36,
+   "start": 119.16,
+   "end": 120.64,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "You're a monster!"
+  },
+  {
+   "i": 37,
+   "start": 120.64,
+   "end": 123.12,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "And he was *delicious*."
+  },
+  {
+   "i": 38,
+   "start": 123.12,
+   "end": 125.6,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "And you honestly think I'd let you do the same to me?"
+  },
+  {
+   "i": 39,
+   "start": 125.6,
+   "end": 128.28,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "To be honest, your compliance isn't a factor."
+  },
+  {
+   "i": 40,
+   "start": 128.54,
+   "end": 130.98,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Well then... I'll just have to do this..."
+  },
+  {
+   "i": 41,
+   "start": 131.96,
+   "end": 133.44,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "...Give yourself a boob exam?"
+  },
+  {
+   "i": 42,
+   "start": 133.44,
+   "end": 135.92,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "No; explode my bomb."
+  },
+  {
+   "i": 43,
+   "start": 135.92,
+   "end": 136.96,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "In your boob?"
+  },
+  {
+   "i": 44,
+   "start": 136.96,
+   "end": 138.86,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "*No*; in my ches--"
+  },
+  {
+   "i": 45,
+   "start": 138.86,
+   "end": 139.72,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "Booby bomb!"
+  },
+  {
+   "i": 46,
+   "start": 139.72,
+   "end": 140.98,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "I'm serious!"
+  },
+  {
+   "i": 47,
+   "start": 140.98,
+   "end": 149.34,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "OK, OK... but before we do something we're all going to regret... let's see what our brother thinks."
+  },
+  {
+   "i": 48,
+   "start": 149.34,
+   "end": 150.28,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Wh-- what?"
+  },
+  {
+   "i": 49,
+   "start": 152.54,
+   "end": 154.62,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "Yo shiggy-diggy whassup my sizzle!"
+  },
+  {
+   "i": 50,
+   "start": 154.8,
+   "end": 155.74,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Oh my God..."
+  },
+  {
+   "i": 51,
+   "start": 156.04,
+   "end": 161.0,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "Yea don't blow your tits sis, that's whack. You gotta chill yaself before you kill yaself."
+  },
+  {
+   "i": 52,
+   "start": 161.0,
+   "end": 162.84,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "This can't actually be real."
+  },
+  {
+   "i": 53,
+   "start": 162.84,
+   "end": 174.26,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "Oh, it's real. And it's happening. So what you needa do is calm down, and get all up in Cell. It's downright tubular in here. We got candy and puppies and--"
+  },
+  {
+   "i": 54,
+   "start": 174.26,
+   "end": 176.4,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "You know absolutely nothing about us, do you?"
+  },
+  {
+   "i": 55,
+   "start": 176.72,
+   "end": 179.08,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "OK, to be fair, I just met you."
+  },
+  {
+   "i": 56,
+   "start": 179.08,
+   "end": 180.3,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "This isn't a game!"
+  },
+  {
+   "i": 57,
+   "start": 180.3,
+   "end": 182.54,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "Ohhh, but it *is*!"
+  },
+  {
+   "i": 58,
+   "start": 182.54,
+   "end": 188.78,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "All you have to do is kill yourself before I catch you. It's like tag... for keeps."
+  },
+  {
+   "i": 59,
+   "start": 188.78,
+   "end": 194.04,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "And now with both Piccolo and Sixteen out of the way... we can play."
+  },
+  {
+   "i": 60,
+   "start": 194.04,
+   "end": 194.8,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Guh!"
+  },
+  {
+   "i": 61,
+   "start": 197.16,
+   "end": 197.92,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Not yet!"
+  },
+  {
+   "i": 62,
+   "start": 197.92,
+   "end": 198.42,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "Huh?"
+  },
+  {
+   "i": 63,
+   "start": 199.06,
+   "end": 204.72,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "Ohohoho, my God! It's *Tien*! What, was Krillin busy?!"
+  },
+  {
+   "i": 64,
+   "start": 204.72,
+   "end": 205.42,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "(Focused grunt)"
+  },
+  {
+   "i": 65,
+   "start": 205.74,
+   "end": 210.58,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "Come on, buddy, you can't be serious. With your power level?"
+  },
+  {
+   "i": 66,
+   "start": 210.58,
+   "end": 217.16,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "You're no Android, you're no Namekian, and you're certainly no Super Saiyan."
+  },
+  {
+   "i": 67,
+   "start": 217.86,
+   "end": 219.9,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "You're just human."
+  },
+  {
+   "i": 68,
+   "start": 220.28,
+   "end": 222.24,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Yeah? Well, you know what?!"
+  },
+  {
+   "i": 69,
+   "start": 222.98,
+   "end": 230.38,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "F**k power levels! F**k *Super Saiyans*! AND F**K *YOU*!!"
+  },
+  {
+   "i": 70,
+   "start": 230.38,
+   "end": 234.04,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "SHIIIIN...KIKOUUUHOUUU...!!!"
+  },
+  {
+   "i": 71,
+   "start": 234.04,
+   "end": 237.12,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "Oh, that's adora--SHIIIIIIIIIIIIIIIIT!!!"
+  },
+  {
+   "i": 72,
+   "start": 237.12,
+   "end": 237.74,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Ugh!"
+  },
+  {
+   "i": 73,
+   "start": 240.6,
+   "end": 241.24,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "YOU!"
+  },
+  {
+   "i": 74,
+   "start": 241.24,
+   "end": 241.74,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Huh?"
+  },
+  {
+   "i": 75,
+   "start": 241.92,
+   "end": 244.94,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Blow yourself up or leave! I don't care which!"
+  },
+  {
+   "i": 76,
+   "start": 245.34,
+   "end": 246.12,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Yeah, OK!"
+  },
+  {
+   "i": 77,
+   "start": 246.12,
+   "end": 248.02,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "UPSTART TRICLOPS BITCH!!!"
+  },
+  {
+   "i": 78,
+   "start": 248.02,
+   "end": 249.52,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "KIKOUHOU!!!"
+  },
+  {
+   "i": 79,
+   "start": 249.52,
+   "end": 250.9,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "GODDA-grblblbh!!"
+  },
+  {
+   "i": 80,
+   "start": 250.9,
+   "end": 252.62,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "C'mon Sixteen, we have to go!"
+  },
+  {
+   "i": 81,
+   "start": 252.86,
+   "end": 254.36,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "Where is Seventeen?"
+  },
+  {
+   "i": 82,
+   "start": 254.6,
+   "end": 255.9,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "He's gone, buddy."
+  },
+  {
+   "i": 83,
+   "start": 255.9,
+   "end": 258.58,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "That is sad... I am sad..."
+  },
+  {
+   "i": 84,
+   "start": 258.58,
+   "end": 259.38,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "We both are."
+  },
+  {
+   "i": 85,
+   "start": 260.24,
+   "end": 265.38,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "NO! STOP IT! STOP IIIT!! ANGRYYYYY!!"
+  },
+  {
+   "i": 86,
+   "start": 265.38,
+   "end": 269.3,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "KI! KOU! HOUUU!!"
+  },
+  {
+   "i": 87,
+   "start": 274.52,
+   "end": 275.62,
+   "kind": "dialog",
+   "speaker": "Chiaotzu",
+   "text": "Tien..."
+  },
+  {
+   "i": 88,
+   "start": 275.62,
+   "end": 277.5,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "Jeez, I think I can hear that..."
+  },
+  {
+   "i": 89,
+   "start": 277.72,
+   "end": 280.76,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "KIKOUUHOUUU!!"
+  },
+  {
+   "i": 90,
+   "start": 280.76,
+   "end": 282.36,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "Fuuuuuck...!!"
+  },
+  {
+   "i": 91,
+   "start": 282.68,
+   "end": 283.7,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Ohh boy...!"
+  },
+  {
+   "i": 92,
+   "start": 283.7,
+   "end": 285.88,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Is that... Tenshinhan?!"
+  },
+  {
+   "i": 93,
+   "start": 285.88,
+   "end": 290.16,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Yeah, and he is *nettled*. Super nettled."
+  },
+  {
+   "i": 94,
+   "start": 290.34,
+   "end": 290.84,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Uh..."
+  },
+  {
+   "i": 95,
+   "start": 291.94,
+   "end": 293.02,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "He's gonna die."
+  },
+  {
+   "i": 96,
+   "start": 293.02,
+   "end": 293.82,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Probably."
+  },
+  {
+   "i": 97,
+   "start": 293.98,
+   "end": 296.52,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "KI! KOU! HOUU!!"
+  },
+  {
+   "i": 98,
+   "start": 296.76,
+   "end": 299.82,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "DUGH! UGH! UGGH!"
+  },
+  {
+   "i": 99,
+   "start": 296.76,
+   "end": 304.44,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "KI! KOU! HOUU!!"
+  },
+  {
+   "i": 100,
+   "start": 306.74,
+   "end": 307.8,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "(Panting)"
+  },
+  {
+   "i": 101,
+   "start": 307.8,
+   "end": 309.36,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "Are ya done?!"
+  },
+  {
+   "i": 102,
+   "start": 309.8,
+   "end": 318.6,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "Because I'm coming out... and I swear to God... if you do that AGAIN... I will be so *freaking nettled*--!"
+  },
+  {
+   "i": 103,
+   "start": 318.6,
+   "end": 319.52,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Kikouhou."
+  },
+  {
+   "i": 104,
+   "start": 319.64,
+   "end": 321.02,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "Aw, DAMMIT!!!"
+  },
+  {
+   "i": 105,
+   "start": 321.96,
+   "end": 323.64,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "He's really going all out!"
+  },
+  {
+   "i": 106,
+   "start": 323.64,
+   "end": 328.16,
+   "kind": "dialog",
+   "speaker": "Chiaotzu",
+   "text": "His body won't last long. The Kikouhou just takes too much energy!"
+  },
+  {
+   "i": 107,
+   "start": 328.16,
+   "end": 331.88,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Yeah! Didn't he do that when you... d'ah... when, you--"
+  },
+  {
+   "i": 108,
+   "start": 331.88,
+   "end": 335.14,
+   "kind": "dialog",
+   "speaker": "Chiaotzu",
+   "text": "Died, *yes*! Jesus, we've literally all done it!"
+  },
+  {
+   "i": 109,
+   "start": 335.14,
+   "end": 336.0,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "I haven't."
+  },
+  {
+   "i": 110,
+   "start": 336.0,
+   "end": 338.2,
+   "kind": "dialog",
+   "speaker": "Chiaotzu",
+   "text": "Give it some time, you're hanging with the right crowd."
+  },
+  {
+   "i": 111,
+   "start": 338.4,
+   "end": 341.62,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "What should we even do now? I feel so helpless!"
+  },
+  {
+   "i": 112,
+   "start": 341.74,
+   "end": 342.72,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "Listen!"
+  },
+  {
+   "i": 113,
+   "start": 342.72,
+   "end": 346.68,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "Sometimes you gotta know when to hold 'em, and know when to fold 'em."
+  },
+  {
+   "i": 114,
+   "start": 347.04,
+   "end": 349.5,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "And right now... it's foldin' time."
+  },
+  {
+   "i": 115,
+   "start": 349.64,
+   "end": 351.3,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "Pig! Grab M'Dick!"
+  },
+  {
+   "i": 116,
+   "start": 351.3,
+   "end": 353.92,
+   "kind": "dialog",
+   "speaker": "Oolong",
+   "text": "*Please* tell me you mean the submarine..."
+  },
+  {
+   "i": 117,
+   "start": 353.92,
+   "end": 354.48,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "Heh!"
+  },
+  {
+   "i": 118,
+   "start": 359.56,
+   "end": 361.96,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "'Huh... not dead yet...'"
+  },
+  {
+   "i": 119,
+   "start": 362.62,
+   "end": 364.38,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "'That's weir--oh there we go...'"
+  },
+  {
+   "i": 120,
+   "start": 364.38,
+   "end": 365.54,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Aah! Ugh!"
+  },
+  {
+   "i": 121,
+   "start": 365.54,
+   "end": 368.96,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "(Continues to grunt in exhaustion)"
+  },
+  {
+   "i": 122,
+   "start": 370.48,
+   "end": 377.66,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "You know, if you want my personal opinion, \"Kikouhou\" is a pretty sad choice of last words."
+  },
+  {
+   "i": 123,
+   "start": 377.66,
+   "end": 383.24,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "But to be fair, it's far from the worst decision you've made today."
+  },
+  {
+   "i": 124,
+   "start": 383.24,
+   "end": 386.34,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Ki-kou-f**k yourself."
+  },
+  {
+   "i": 125,
+   "start": 386.34,
+   "end": 389.78,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "Aww, see? That's the spirit!"
+  },
+  {
+   "i": 126,
+   "start": 390.02,
+   "end": 391.14,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "HE DEAD!"
+  },
+  {
+   "i": 127,
+   "start": 391.14,
+   "end": 395.56,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "NO! We can't just let him die like this! You gotta save him!"
+  },
+  {
+   "i": 128,
+   "start": 395.56,
+   "end": 400.98,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "But I can't get him in time! There's no way I could move fast enough to grab him, get out, and..."
+  },
+  {
+   "i": 129,
+   "start": 402.42,
+   "end": 402.92,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "POP"
+  },
+  {
+   "i": 130,
+   "start": 403.76,
+   "end": 406.46,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Did he just remember he can do that?"
+  },
+  {
+   "i": 131,
+   "start": 406.46,
+   "end": 407.72,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Your father's an idiot."
+  },
+  {
+   "i": 132,
+   "start": 408.3,
+   "end": 408.88,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "POP"
+  },
+  {
+   "i": 133,
+   "start": 408.88,
+   "end": 411.0,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "Huh? *Goku*?"
+  },
+  {
+   "i": 134,
+   "start": 411.0,
+   "end": 416.54,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hey, sorry! I'm just--I'm just here for my buddy. I'll be gone in a second. Let you get back to your business."
+  },
+  {
+   "i": 135,
+   "start": 416.54,
+   "end": 417.42,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "Hold on, wha--"
+  },
+  {
+   "i": 136,
+   "start": 417.42,
+   "end": 418.94,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh, hey! Piccolo's alive too!"
+  },
+  {
+   "i": 137,
+   "start": 417.42,
+   "end": 420.86,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "(Gurgling)"
+  },
+  {
+   "i": 138,
+   "start": 420.86,
+   "end": 422.86,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Ooh, little waterlogged there, buddy?"
+  },
+  {
+   "i": 139,
+   "start": 422.86,
+   "end": 424.62,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "I blew a hole in him!"
+  },
+  {
+   "i": 140,
+   "start": 424.62,
+   "end": 427.88,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "How durable is he? How durable am I...?"
+  },
+  {
+   "i": 141,
+   "start": 428.16,
+   "end": 429.18,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "Questions for later."
+  },
+  {
+   "i": 142,
+   "start": 430.04,
+   "end": 435.8,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "OK, I'm about done here. See ya tomorrow! Oh, and uh, by the way, Cell?"
+  },
+  {
+   "i": 143,
+   "start": 437.08,
+   "end": 438.26,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "You're gonna die."
+  },
+  {
+   "i": 144,
+   "start": 438.9,
+   "end": 439.44,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "POP"
+  },
+  {
+   "i": 145,
+   "start": 439.44,
+   "end": 440.24,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "Huh?"
+  },
+  {
+   "i": 146,
+   "start": 441.06,
+   "end": 442.04,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "What...?"
+  },
+  {
+   "i": 147,
+   "start": 442.04,
+   "end": 443.02,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "How...?"
+  },
+  {
+   "i": 148,
+   "start": 443.02,
+   "end": 444.3,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "Why...?!"
+  },
+  {
+   "i": 149,
+   "start": 444.3,
+   "end": 447.12,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "I HAVE SO MANY QUESTIIOONS!!!"
+  },
+  {
+   "i": 150,
+   "start": 448.26,
+   "end": 450.06,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "And you're sure you're OK?"
+  },
+  {
+   "i": 151,
+   "start": 450.06,
+   "end": 453.08,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Bulma, you know what I've been hit by; I'm fine."
+  },
+  {
+   "i": 152,
+   "start": 453.08,
+   "end": 454.98,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Now - you got the detonator?"
+  },
+  {
+   "i": 153,
+   "start": 454.98,
+   "end": 456.0,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Yeah, right here!"
+  },
+  {
+   "i": 154,
+   "start": 456.0,
+   "end": 460.44,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Now, listen; its signal is weak, so you'll have to be within ten meters of the Androids."
+  },
+  {
+   "i": 155,
+   "start": 460.6,
+   "end": 464.8,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "So what you're saying is I have to get... close."
+  },
+  {
+   "i": 156,
+   "start": 464.8,
+   "end": 467.08,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Ehh-eh, thirty feet isn't that close..."
+  },
+  {
+   "i": 157,
+   "start": 467.08,
+   "end": 469.12,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Oh, I'm gonna get all up in that."
+  },
+  {
+   "i": 158,
+   "start": 469.12,
+   "end": 471.14,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Well, you could use some protection, then."
+  },
+  {
+   "i": 159,
+   "start": 471.14,
+   "end": 471.74,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Pardon?"
+  },
+  {
+   "i": 160,
+   "start": 471.74,
+   "end": 474.14,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "I made you all battle suits, like Vegeta's!"
+  },
+  {
+   "i": 161,
+   "start": 474.22,
+   "end": 474.92,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Oh!"
+  },
+  {
+   "i": 162,
+   "start": 474.92,
+   "end": 479.42,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Well, thanks but I probably won't need it. I'm pretty good about pulling out before I get into trouble."
+  },
+  {
+   "i": 163,
+   "start": 479.42,
+   "end": 482.76,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Besides, I tried one on Namek, but I got a huuge hole in it."
+  },
+  {
+   "i": 164,
+   "start": 483.56,
+   "end": 487.04,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "OK then! I'll just hand them out to everyone else. See you later!"
+  },
+  {
+   "i": 165,
+   "start": 487.04,
+   "end": 488.24,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Thanks Bulma!"
+  },
+  {
+   "i": 166,
+   "start": 491.68,
+   "end": 492.52,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Huh."
+  },
+  {
+   "i": 167,
+   "start": 492.52,
+   "end": 495.96,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "This, uh... 'S remote's a lot heavier than I expected."
+  },
+  {
+   "i": 168,
+   "start": 497.96,
+   "end": 498.58,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Huh..."
+  },
+  {
+   "i": 169,
+   "start": 499.44,
+   "end": 500.76,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Are you two OK?"
+  },
+  {
+   "i": 170,
+   "start": 500.76,
+   "end": 505.78,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Yeah. We may not have Dragon Balls, but I guess Senzu beans are a close second."
+  },
+  {
+   "i": 171,
+   "start": 505.78,
+   "end": 510.1,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "It's a good thing I showed up when I did. Cell was about to sixty-nine ya."
+  },
+  {
+   "i": 172,
+   "start": 510.1,
+   "end": 511.98,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Eighty-six, Dad. Eighty-six."
+  },
+  {
+   "i": 173,
+   "start": 511.98,
+   "end": 513.36,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I'm not good with numbers."
+  },
+  {
+   "i": 174,
+   "start": 513.36,
+   "end": 517.26,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "I'll admit that was pretty ballsy, but all you did was stall him!"
+  },
+  {
+   "i": 175,
+   "start": 517.26,
+   "end": 522.28,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Now he's alone to hunt down Android 18, and we don't have anyone with the strength to stop him!"
+  },
+  {
+   "i": 176,
+   "start": 522.28,
+   "end": 523.36,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Huh?"
+  },
+  {
+   "i": 177,
+   "start": 522.28,
+   "end": 524.94,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Your worthless maggot friends are coming out!"
+  },
+  {
+   "i": 178,
+   "start": 524.94,
+   "end": 526.16,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Or do we?!"
+  },
+  {
+   "i": 179,
+   "start": 526.16,
+   "end": 528.26,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "No, Gohan; we haven't gone in yet."
+  },
+  {
+   "i": 180,
+   "start": 528.9,
+   "end": 530.2,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "...Wow, really Goku?"
+  },
+  {
+   "i": 181,
+   "start": 547.26,
+   "end": 549.96,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hey, Trunks! Wow, neat hair!"
+  },
+  {
+   "i": 182,
+   "start": 549.96,
+   "end": 554.86,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "'Oh my God, first piece of positive reinforcement in over a year. Respond appropriately!'"
+  },
+  {
+   "i": 183,
+   "start": 554.86,
+   "end": 557.18,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Thank you, I, grew it myself."
+  },
+  {
+   "i": 184,
+   "start": 557.18,
+   "end": 557.96,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "'Dammit!'"
+  },
+  {
+   "i": 185,
+   "start": 558.36,
+   "end": 560.04,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Huh. That's funny."
+  },
+  {
+   "i": 186,
+   "start": 560.56,
+   "end": 561.28,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "'Roll with it.'"
+  },
+  {
+   "i": 187,
+   "start": 561.52,
+   "end": 565.34,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "And hey, Vegeta! Wow, you guys sure got strong, huh?"
+  },
+  {
+   "i": 188,
+   "start": 565.34,
+   "end": 569.16,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "That's right, Kakarot... and you wouldn't believe just how much."
+  },
+  {
+   "i": 189,
+   "start": 569.16,
+   "end": 575.16,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "You see, while I was training in the depths of the Hyperbolic Time Chamber, I looked deep within myself and--"
+  },
+  {
+   "i": 190,
+   "start": 575.16,
+   "end": 582.46,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Goku's POV, with \"Dadhi Dado Da\" playing in the background"
+  },
+  {
+   "i": 191,
+   "start": 575.16,
+   "end": 582.46,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Blah blah blah blah blah, pride, blah blah, Prince of all, blah blah blah, Super Saiyan... blah blah blah."
+  },
+  {
+   "i": 192,
+   "start": 582.72,
+   "end": 586.16,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "And through all of that, I have ascended."
+  },
+  {
+   "i": 193,
+   "start": 586.16,
+   "end": 590.88,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "That's right - I have reached a new level. Do you hear me, Kakarot?"
+  },
+  {
+   "i": 194,
+   "start": 590.88,
+   "end": 593.32,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I am finally stronger than you!!"
+  },
+  {
+   "i": 195,
+   "start": 593.32,
+   "end": 593.92,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Neat!"
+  },
+  {
+   "i": 196,
+   "start": 593.92,
+   "end": 594.8,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "F**k you!"
+  },
+  {
+   "i": 197,
+   "start": 594.94,
+   "end": 598.44,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ Closing theme (DBZ intermission) ♫"
+  },
+  {
+   "i": 198,
+   "start": 599.78,
+   "end": 604.36,
+   "kind": "direction",
+   "speaker": null,
+   "text": "The mother of all Bilabial Trills (yes, it has a name)"
+  },
+  {
+   "i": 199,
+   "start": 617.44,
+   "end": 618.96,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Captions by PyroAvok"
+  }
+ ],
+ "segments": [
+  {
+   "start": 16.7,
+   "end": 37.7,
+   "title": "Found Ya...!",
+   "quote": "BULMA, STOP THE-- URGH! ... Found ya...!",
+   "line_start": 0,
+   "line_end": 10
+  },
+  {
+   "start": 66.0,
+   "end": 91.98,
+   "title": "Come With Me If You Want to Live",
+   "quote": "Come with me if you want to live! ... Hmmm... so this is what lips feel like...",
+   "line_start": 19,
+   "line_end": 26
+  },
+  {
+   "start": 128.0,
+   "end": 140.98,
+   "title": "Booby Bomb",
+   "quote": "No; explode my bomb. — In your boob? — *No*; in my ches-- — Booby bomb!",
+   "line_start": 40,
+   "line_end": 46
+  },
+  {
+   "start": 148.8,
+   "end": 176.4,
+   "title": "Yo Shiggy-Diggy",
+   "quote": "Yo shiggy-diggy whassup my sizzle! ... You gotta chill yaself before you kill yaself.",
+   "line_start": 48,
+   "line_end": 54
+  },
+  {
+   "start": 217.4,
+   "end": 237.12,
+   "title": "F**K POWER LEVELS!",
+   "quote": "F**k power levels! F**k *Super Saiyans*! AND F**K *YOU*!! SHIIIIN...KIKOUUUHOUUU...!!!",
+   "line_start": 67,
+   "line_end": 71
+  },
+  {
+   "start": 306.2,
+   "end": 321.02,
+   "title": "So *Freaking Nettled*",
+   "quote": "...if you do that AGAIN... I will be so *freaking nettled*--! — Kikouhou. — Aw, DAMMIT!!!",
+   "line_start": 100,
+   "line_end": 104
+  },
+  {
+   "start": 323.2,
+   "end": 338.2,
+   "title": "We've Literally All Done It",
+   "quote": "Died, *yes*! Jesus, we've literally all done it! — I haven't. — Give it some time, you're hanging with the right crowd.",
+   "line_start": 106,
+   "line_end": 110
+  },
+  {
+   "start": 341.3,
+   "end": 354.48,
+   "title": "Pig! Grab M'Dick!",
+   "quote": "Sometimes you gotta know when to hold 'em... Pig! Grab M'Dick! — *Please* tell me you mean the submarine...",
+   "line_start": 112,
+   "line_end": 117
+  },
+  {
+   "start": 429.5,
+   "end": 447.12,
+   "title": "I HAVE SO MANY QUESTIONS",
+   "quote": "Oh, and uh, by the way, Cell? You're gonna die. ... What...? How...? Why...?! I HAVE SO MANY QUESTIIOONS!!!",
+   "line_start": 142,
+   "line_end": 149
+  },
+  {
+   "start": 460.1,
+   "end": 482.76,
+   "title": "Pretty Good About Pulling Out",
+   "quote": "So what you're saying is I have to get... close. ... I'm pretty good about pulling out before I get into trouble.",
+   "line_start": 155,
+   "line_end": 163
+  },
+  {
+   "start": 546.8,
+   "end": 560.04,
+   "title": "I Grew It Myself",
+   "quote": "'First piece of positive reinforcement in over a year. Respond appropriately!' — Thank you, I, grew it myself.",
+   "line_start": 181,
+   "line_end": 186
+  },
+  {
+   "start": 561.0,
+   "end": 594.8,
+   "title": "Blah Blah Blah, Pride",
+   "quote": "Blah blah blah blah blah, pride, blah blah, Prince of all... I am finally stronger than you!! — Neat! — F**k you!",
+   "line_start": 187,
+   "line_end": 196
+  }
+ ]
+}

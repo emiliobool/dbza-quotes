@@ -1,0 +1,1971 @@
+{
+ "item": "e21",
+ "show": "dbza",
+ "youtube": "aossw4UUjVA",
+ "title": "Episode 19",
+ "duration": 602,
+ "lines": [
+  {
+   "i": 0,
+   "start": 9.26,
+   "end": 11.4,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ Red Ribbon Army theme ♫"
+  },
+  {
+   "i": 1,
+   "start": 16.38,
+   "end": 18.32,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Men, introductions!"
+  },
+  {
+   "i": 2,
+   "start": 18.32,
+   "end": 18.82,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Ginyu!"
+  },
+  {
+   "i": 3,
+   "start": 18.82,
+   "end": 19.32,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Jeice!"
+  },
+  {
+   "i": 4,
+   "start": 19.32,
+   "end": 19.94,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Burter!"
+  },
+  {
+   "i": 5,
+   "start": 19.94,
+   "end": 20.48,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Guldo!"
+  },
+  {
+   "i": 6,
+   "start": 20.48,
+   "end": 21.52,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Recoome!"
+  },
+  {
+   "i": 7,
+   "start": 21.52,
+   "end": 22.48,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "And together, we are:"
+  },
+  {
+   "i": 8,
+   "start": 22.48,
+   "end": 26.02,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"Sanjō!! Ginyū Tokusentai!!\" ♫"
+  },
+  {
+   "i": 9,
+   "start": 26.02,
+   "end": 28.78,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Eriito Senshi - Ginyū Tokusentai!"
+  },
+  {
+   "i": 10,
+   "start": 29.78,
+   "end": 34.06,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ Tokusentai! ♫"
+  },
+  {
+   "i": 11,
+   "start": 36.06,
+   "end": 38.42,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Tumbleweed sounds"
+  },
+  {
+   "i": 12,
+   "start": 38.42,
+   "end": 40.14,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "'Sure is Zarbon in here.'"
+  },
+  {
+   "i": 13,
+   "start": 40.14,
+   "end": 43.2,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Lord Freeza, thank you for this chance to serve you."
+  },
+  {
+   "i": 14,
+   "start": 43.2,
+   "end": 45.3,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "AND BUST SOME HEADS!"
+  },
+  {
+   "i": 15,
+   "start": 45.3,
+   "end": 48.76,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Quite. But before we get down to business... Jeice!"
+  },
+  {
+   "i": 16,
+   "start": 48.76,
+   "end": 52.98,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Yes sir, Cap'n. Here you go, Lord Freeza - the new up to date Scouters."
+  },
+  {
+   "i": 17,
+   "start": 52.98,
+   "end": 56.32,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Good. And they have the ringtone I wanted?"
+  },
+  {
+   "i": 18,
+   "start": 56.32,
+   "end": 57.4,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Yes, sir."
+  },
+  {
+   "i": 19,
+   "start": 57.4,
+   "end": 61.28,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"Frieza's Ringtone\" ♫"
+  },
+  {
+   "i": 20,
+   "start": 59.92,
+   "end": 61.28,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Glorious!"
+  },
+  {
+   "i": 21,
+   "start": 61.28,
+   "end": 66.9,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Now, as you have been informed, Vegeta and a few other pests have taken my Dragon Balls."
+  },
+  {
+   "i": 22,
+   "start": 66.9,
+   "end": 68.82,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "Whoa, whoa, whoa - Vegeta?"
+  },
+  {
+   "i": 23,
+   "start": 68.82,
+   "end": 69.82,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "Little Veggie?"
+  },
+  {
+   "i": 24,
+   "start": 69.82,
+   "end": 71.02,
+   "kind": "dialog",
+   "speaker": "Guldo",
+   "text": "What's a Dragon Ball?"
+  },
+  {
+   "i": 25,
+   "start": 71.02,
+   "end": 73.2,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "Recoome can't believe he had it in him!"
+  },
+  {
+   "i": 26,
+   "start": 73.2,
+   "end": 74.3,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "I know, right?!"
+  },
+  {
+   "i": 27,
+   "start": 74.3,
+   "end": 75.54,
+   "kind": "dialog",
+   "speaker": "Guldo",
+   "text": "What's a Dragon Ball?!"
+  },
+  {
+   "i": 28,
+   "start": 75.54,
+   "end": 82.4,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Yes, it turns out Zarbon and Dodoria weren't enough. I've called you five here to get them back."
+  },
+  {
+   "i": 29,
+   "start": 82.4,
+   "end": 85.12,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Easy enough. Would you rather them dead, or alive?"
+  },
+  {
+   "i": 30,
+   "start": 85.12,
+   "end": 85.82,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Either/or."
+  },
+  {
+   "i": 31,
+   "start": 85.82,
+   "end": 86.78,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Dead it is."
+  },
+  {
+   "i": 32,
+   "start": 86.78,
+   "end": 89.72,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ Red Ribbon Army theme ♫"
+  },
+  {
+   "i": 33,
+   "start": 86.78,
+   "end": 89.72,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Ginyu Force, assemble!"
+  },
+  {
+   "i": 34,
+   "start": 90.78,
+   "end": 92.98,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "Speed of light and strength of all"
+  },
+  {
+   "i": 35,
+   "start": 92.98,
+   "end": 95.56,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "The Ginyu Force shall make them fall"
+  },
+  {
+   "i": 36,
+   "start": 95.56,
+   "end": 97.82,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Lord King Cold's army's strongest force"
+  },
+  {
+   "i": 37,
+   "start": 97.82,
+   "end": 100.06,
+   "kind": "dialog",
+   "speaker": "Guldo",
+   "text": "We'll beat them all, secure the course"
+  },
+  {
+   "i": 38,
+   "start": 100.06,
+   "end": 102.48,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "If trouble meets us as we pass"
+  },
+  {
+   "i": 39,
+   "start": 102.48,
+   "end": 105.28,
+   "kind": "dialog",
+   "speaker": "Ginyu Force",
+   "text": "We'll shove our fists right up their ass!"
+  },
+  {
+   "i": 40,
+   "start": 105.28,
+   "end": 106.2,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Ginyu Force!"
+  },
+  {
+   "i": 41,
+   "start": 106.2,
+   "end": 107.2,
+   "kind": "dialog",
+   "speaker": "Ginyu Force",
+   "text": "MOVE OUT!"
+  },
+  {
+   "i": 42,
+   "start": 111.8,
+   "end": 115.08,
+   "kind": "dialog",
+   "speaker": "Ginyu Force",
+   "text": "♫ Frieza! Frieza! Frieza! Frie-za! ♫"
+  },
+  {
+   "i": 43,
+   "start": 115.34,
+   "end": 120.54,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "We're dead! We. Are. Dead! All dead! All gonna die! Dead Men Be We!"
+  },
+  {
+   "i": 44,
+   "start": 120.54,
+   "end": 124.64,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "A cornucopia of pain and despair is coming our way to ensure our demise!"
+  },
+  {
+   "i": 45,
+   "start": 124.64,
+   "end": 126.88,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "We are so going to die-e-e!"
+  },
+  {
+   "i": 46,
+   "start": 126.88,
+   "end": 127.74,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Why-y-y-y?!"
+  },
+  {
+   "i": 47,
+   "start": 127.74,
+   "end": 129.8,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "Naaail. Slap him."
+  },
+  {
+   "i": 48,
+   "start": 129.8,
+   "end": 130.86,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "SMACK"
+  },
+  {
+   "i": 49,
+   "start": 129.8,
+   "end": 130.86,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Ow!"
+  },
+  {
+   "i": 50,
+   "start": 130.86,
+   "end": 131.9,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "Thank you."
+  },
+  {
+   "i": 51,
+   "start": 131.9,
+   "end": 140.44,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Every fiber of my being wants to puke at once when I say this... but I need your heeeh... I need your heeeheeeeeh..."
+  },
+  {
+   "i": 52,
+   "start": 140.44,
+   "end": 141.44,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "You need our help?"
+  },
+  {
+   "i": 53,
+   "start": 141.44,
+   "end": 142.6,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "That, yes."
+  },
+  {
+   "i": 54,
+   "start": 142.6,
+   "end": 145.36,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Alright, but if we're gonna be a team, we need a name."
+  },
+  {
+   "i": 55,
+   "start": 145.36,
+   "end": 146.22,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "No, we don't."
+  },
+  {
+   "i": 56,
+   "start": 146.22,
+   "end": 149.0,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Ooh, I know! How about \"Team Three Star\"?"
+  },
+  {
+   "i": 57,
+   "start": 149.4,
+   "end": 150.12,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "...What?"
+  },
+  {
+   "i": 58,
+   "start": 150.12,
+   "end": 155.58,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "* Well, we're a team * And there's three of us * And the Dragon Balls have stars on them."
+  },
+  {
+   "i": 59,
+   "start": 155.58,
+   "end": 156.78,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Team Three Star!"
+  },
+  {
+   "i": 60,
+   "start": 156.78,
+   "end": 163.7,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "That just makes me want to kill you even more, and you're *still* the second most annoying bald person I've ever had the displeasure to work with."
+  },
+  {
+   "i": 61,
+   "start": 163.7,
+   "end": 165.6,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Team Three Star, move out!"
+  },
+  {
+   "i": 62,
+   "start": 165.6,
+   "end": 166.96,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I swear to God...!"
+  },
+  {
+   "i": 63,
+   "start": 167.88,
+   "end": 170.0,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Calm, soothing music"
+  },
+  {
+   "i": 64,
+   "start": 174.06,
+   "end": 175.16,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "AAAAAH!"
+  },
+  {
+   "i": 65,
+   "start": 175.26,
+   "end": 177.96,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Sinister music"
+  },
+  {
+   "i": 66,
+   "start": 177.96,
+   "end": 179.42,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Hello, Earth woman."
+  },
+  {
+   "i": 67,
+   "start": 179.42,
+   "end": 182.22,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Whaa... aaah... aaaah... aah..."
+  },
+  {
+   "i": 68,
+   "start": 180.78,
+   "end": 182.22,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "You know what I want."
+  },
+  {
+   "i": 69,
+   "start": 182.22,
+   "end": 183.46,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Now give it to me."
+  },
+  {
+   "i": 70,
+   "start": 183.46,
+   "end": 185.64,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "But, the Dragon Ball's right there!"
+  },
+  {
+   "i": 71,
+   "start": 185.64,
+   "end": 188.72,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Oh... I'm not here for the Dragon Ball."
+  },
+  {
+   "i": 72,
+   "start": 188.72,
+   "end": 190.02,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Whaa... what?"
+  },
+  {
+   "i": 73,
+   "start": 190.02,
+   "end": 191.14,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Spread 'em."
+  },
+  {
+   "i": 74,
+   "start": 191.14,
+   "end": 193.4,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Ah... AAAAAHHH!"
+  },
+  {
+   "i": 75,
+   "start": 192.24,
+   "end": 193.4,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Bulma wakes up"
+  },
+  {
+   "i": 76,
+   "start": 193.4,
+   "end": 194.9,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Takin' the Dragon Ball! Bitch at me later!"
+  },
+  {
+   "i": 77,
+   "start": 194.9,
+   "end": 196.1,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Your hair looks stupid!"
+  },
+  {
+   "i": 78,
+   "start": 196.1,
+   "end": 197.26,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Sorry, Bulma..."
+  },
+  {
+   "i": 79,
+   "start": 198.28,
+   "end": 200.16,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "ALL OF MY HATE!!"
+  },
+  {
+   "i": 80,
+   "start": 201.84,
+   "end": 206.0,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Vegeta, if you don't mind me asking... what are we in for?"
+  },
+  {
+   "i": 81,
+   "start": 206.0,
+   "end": 207.54,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "You ever watch Power Rangers?"
+  },
+  {
+   "i": 82,
+   "start": 207.54,
+   "end": 208.1,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "No."
+  },
+  {
+   "i": 83,
+   "start": 208.1,
+   "end": 209.06,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Ninja Turtles?"
+  },
+  {
+   "i": 84,
+   "start": 209.06,
+   "end": 209.64,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "No."
+  },
+  {
+   "i": 85,
+   "start": 209.64,
+   "end": 210.4,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Sailor Moon?"
+  },
+  {
+   "i": 86,
+   "start": 210.4,
+   "end": 210.98,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "No."
+  },
+  {
+   "i": 87,
+   "start": 210.98,
+   "end": 211.86,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Beetleborgs?"
+  },
+  {
+   "i": 88,
+   "start": 211.86,
+   "end": 212.36,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "No."
+  },
+  {
+   "i": 89,
+   "start": 212.36,
+   "end": 213.34,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "VR Troopers?"
+  },
+  {
+   "i": 90,
+   "start": 213.34,
+   "end": 213.84,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "No."
+  },
+  {
+   "i": 91,
+   "start": 213.84,
+   "end": 215.2,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Samurai Syber-Squad?"
+  },
+  {
+   "i": 92,
+   "start": 215.2,
+   "end": 215.9,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "No."
+  },
+  {
+   "i": 93,
+   "start": 216.58,
+   "end": 219.64,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "...Tattooed Teenage Alien Fighters From Beverly Hills?"
+  },
+  {
+   "i": 94,
+   "start": 219.64,
+   "end": 220.18,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Oh yeah!"
+  },
+  {
+   "i": 95,
+   "start": 220.18,
+   "end": 221.02,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Goddammit!"
+  },
+  {
+   "i": 96,
+   "start": 223.4,
+   "end": 229.46,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Yes! We made it here before the Ginyus! Come on, let's get this over with and... what the hell are you two doing?"
+  },
+  {
+   "i": 97,
+   "start": 229.46,
+   "end": 233.9,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "We don't think we can trust you. You still haven't pledged your allegiance to Team Three Star!"
+  },
+  {
+   "i": 98,
+   "start": 233.9,
+   "end": 237.16,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "What are you, dense?! The Ginyu Force could be here any second and then we're--"
+  },
+  {
+   "i": 99,
+   "start": 237.16,
+   "end": 237.88,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Hi, Vegeta."
+  },
+  {
+   "i": 100,
+   "start": 237.88,
+   "end": 239.54,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Hi, Ginyu. And then we're--"
+  },
+  {
+   "i": 101,
+   "start": 239.74,
+   "end": 242.24,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Dramatic metallic sound effects"
+  },
+  {
+   "i": 102,
+   "start": 242.92,
+   "end": 245.42,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Son of a c{BLEEP}-g{BLEEP} f{BLEEP}-beast!"
+  },
+  {
+   "i": 103,
+   "start": 245.42,
+   "end": 248.04,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Why the f{BLEEP} does all this f{BLEEP} s{BLEEP} happen to me?!"
+  },
+  {
+   "i": 104,
+   "start": 248.04,
+   "end": 254.32,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "As far as I care, these miserable c{BLEEP} can have a f{BLEEP} s{BLEEP} with a goddamn pig!!"
+  },
+  {
+   "i": 105,
+   "start": 248.04,
+   "end": 249.84,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Jeice, please."
+  },
+  {
+   "i": 106,
+   "start": 249.84,
+   "end": 252.38,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Sorry, Cap'n. Me scouter's acting a bit shonky."
+  },
+  {
+   "i": 107,
+   "start": 254.58,
+   "end": 255.5,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "...Are you done?"
+  },
+  {
+   "i": 108,
+   "start": 255.7,
+   "end": 256.96,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "(Panting)"
+  },
+  {
+   "i": 109,
+   "start": 256.96,
+   "end": 257.52,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "...yeah."
+  },
+  {
+   "i": 110,
+   "start": 257.52,
+   "end": 262.16,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Very good. Now to cut straight to the point, I want those two Dragon Balls you have there."
+  },
+  {
+   "i": 111,
+   "start": 262.16,
+   "end": 264.92,
+   "kind": "dialog",
+   "speaker": "Guldo",
+   "text": "Oh, so *that's* a Dragon Ball."
+  },
+  {
+   "i": 112,
+   "start": 264.92,
+   "end": 270.0,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Supposedly, there are seven in total if my report is correct, and the other five are..."
+  },
+  {
+   "i": 113,
+   "start": 270.0,
+   "end": 270.82,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Right-behind-you!"
+  },
+  {
+   "i": 114,
+   "start": 270.82,
+   "end": 272.9,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "My *God*, man, you just *cannot*--"
+  },
+  {
+   "i": 115,
+   "start": 272.9,
+   "end": 274.08,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Shut-up-when-I'm-scared-I-know."
+  },
+  {
+   "i": 116,
+   "start": 274.08,
+   "end": 276.48,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I-once-had-a-crush-on-a-little-Indian-boy-that-I-thought-was-a-girl."
+  },
+  {
+   "i": 117,
+   "start": 276.84,
+   "end": 279.46,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Please kill him. Seriously, he won't be missed."
+  },
+  {
+   "i": 118,
+   "start": 279.46,
+   "end": 282.52,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Well, I do believe that accounts for everything."
+  },
+  {
+   "i": 119,
+   "start": 282.52,
+   "end": 288.18,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Before I take these Dragon Balls and leave my associates here to clean up, is there anything you'd like to say to me, Vegeta?"
+  },
+  {
+   "i": 120,
+   "start": 288.18,
+   "end": 290.2,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "As a matter of fact, there is."
+  },
+  {
+   "i": 121,
+   "start": 290.2,
+   "end": 293.84,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Look at your men, now back to me, now look back at your men, back to me."
+  },
+  {
+   "i": 122,
+   "start": 293.84,
+   "end": 297.92,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I am not your men, I'm flipping you off, now look at the ground, back to me."
+  },
+  {
+   "i": 123,
+   "start": 297.92,
+   "end": 300.84,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Where's the Dragon Ball? It's gone! I threw it!"
+  },
+  {
+   "i": 124,
+   "start": 300.84,
+   "end": 302.88,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "AND THERE IS NOT A DAMN THING YOU CAN--!"
+  },
+  {
+   "i": 125,
+   "start": 303.18,
+   "end": 304.48,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "Here you go, Boss."
+  },
+  {
+   "i": 126,
+   "start": 304.48,
+   "end": 305.5,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Thank you, Burter."
+  },
+  {
+   "i": 127,
+   "start": 305.5,
+   "end": 306.66,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "S'what I do."
+  },
+  {
+   "i": 128,
+   "start": 306.78,
+   "end": 310.02,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "But-- but I chucked that son of a bitch as hard as I could!"
+  },
+  {
+   "i": 129,
+   "start": 310.02,
+   "end": 314.68,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "Oh, you can't beat my speed. I'm the fastest in the universe!"
+  },
+  {
+   "i": 130,
+   "start": 314.68,
+   "end": 315.86,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "That's what she said!"
+  },
+  {
+   "i": 131,
+   "start": 315.86,
+   "end": 317.9,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "We're all going to die anyway, so..."
+  },
+  {
+   "i": 132,
+   "start": 317.9,
+   "end": 319.18,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Baldie! Break the ball!"
+  },
+  {
+   "i": 133,
+   "start": 319.18,
+   "end": 319.68,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "What-the-I--"
+  },
+  {
+   "i": 134,
+   "start": 319.68,
+   "end": 321.06,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Punch the damn thing!"
+  },
+  {
+   "i": 135,
+   "start": 321.06,
+   "end": 321.92,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "RRRAAAHHH!"
+  },
+  {
+   "i": 136,
+   "start": 321.92,
+   "end": 323.26,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "DUN"
+  },
+  {
+   "i": 137,
+   "start": 321.92,
+   "end": 323.26,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "OW, my hand!"
+  },
+  {
+   "i": 138,
+   "start": 323.26,
+   "end": 324.36,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Hit it harder!"
+  },
+  {
+   "i": 139,
+   "start": 324.36,
+   "end": 325.32,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "But I--"
+  },
+  {
+   "i": 140,
+   "start": 324.36,
+   "end": 325.32,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "HARDER!"
+  },
+  {
+   "i": 141,
+   "start": 325.32,
+   "end": 326.0,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "YAAAAAH!"
+  },
+  {
+   "i": 142,
+   "start": 326.0,
+   "end": 333.78,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Krillin repeats to no avail under Vegeta's orders"
+  },
+  {
+   "i": 143,
+   "start": 326.52,
+   "end": 329.28,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "Uh, Guldo, don't you think you should..."
+  },
+  {
+   "i": 144,
+   "start": 329.28,
+   "end": 333.1,
+   "kind": "dialog",
+   "speaker": "Guldo",
+   "text": "Oh-oh right, that thing I do... stopping time, yeah."
+  },
+  {
+   "i": 145,
+   "start": 330.92,
+   "end": 333.1,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Break it or I'll break you!"
+  },
+  {
+   "i": 146,
+   "start": 333.1,
+   "end": 333.78,
+   "kind": "dialog",
+   "speaker": "Guldo",
+   "text": "One sec..."
+  },
+  {
+   "i": 147,
+   "start": 333.78,
+   "end": 334.46,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "WAAAHHH--!"
+  },
+  {
+   "i": 148,
+   "start": 335.28,
+   "end": 336.24,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "What-I...?"
+  },
+  {
+   "i": 149,
+   "start": 336.24,
+   "end": 337.7,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "What? Where did it go?!"
+  },
+  {
+   "i": 150,
+   "start": 338.38,
+   "end": 342.52,
+   "kind": "dialog",
+   "speaker": "Guldo",
+   "text": "See this, Vegeta? This is for all the time you used to embarrass me!"
+  },
+  {
+   "i": 151,
+   "start": 342.52,
+   "end": 343.74,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Flashback"
+  },
+  {
+   "i": 152,
+   "start": 345.48,
+   "end": 346.84,
+   "kind": "dialog",
+   "speaker": "Guldo",
+   "text": "Hey Vegeta, how's it going?"
+  },
+  {
+   "i": 153,
+   "start": 346.84,
+   "end": 348.54,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Aw, look, it's Guldo!"
+  },
+  {
+   "i": 154,
+   "start": 348.54,
+   "end": 350.72,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "You wanna biscuit, boy? You wanna biscuit?!"
+  },
+  {
+   "i": 155,
+   "start": 351.04,
+   "end": 352.28,
+   "kind": "dialog",
+   "speaker": "Guldo",
+   "text": "Do you think I'm a dog?"
+  },
+  {
+   "i": 156,
+   "start": 352.28,
+   "end": 352.94,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Have a biscuit!"
+  },
+  {
+   "i": 157,
+   "start": 353.98,
+   "end": 355.22,
+   "kind": "dialog",
+   "speaker": "Guldo",
+   "text": "(Growling)"
+  },
+  {
+   "i": 158,
+   "start": 355.22,
+   "end": 356.24,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Flashback ends"
+  },
+  {
+   "i": 159,
+   "start": 356.24,
+   "end": 359.72,
+   "kind": "dialog",
+   "speaker": "Guldo",
+   "text": "And now, it'll be *you* who rolls over and plays dea--!"
+  },
+  {
+   "i": 160,
+   "start": 360.76,
+   "end": 362.04,
+   "kind": "dialog",
+   "speaker": "Guldo",
+   "text": "(Growling)"
+  },
+  {
+   "i": 161,
+   "start": 362.04,
+   "end": 369.5,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Alright, everyone settle down. Before I take these Dragon Balls to Lord Freeza, it's time for everyone's favorite game!"
+  },
+  {
+   "i": 162,
+   "start": 375.28,
+   "end": 377.98,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Now for the folks viewing at home, the rules are simple."
+  },
+  {
+   "i": 163,
+   "start": 377.98,
+   "end": 381.98,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "One of my men will spin the wheel, and whoever it lands on - he kills!"
+  },
+  {
+   "i": 164,
+   "start": 381.98,
+   "end": 384.82,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "What the...? When did you have time to set this up?"
+  },
+  {
+   "i": 165,
+   "start": 384.82,
+   "end": 386.58,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "And... is that a camera?!"
+  },
+  {
+   "i": 166,
+   "start": 386.58,
+   "end": 389.28,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "What kind of sadistic retard watches this crap?!"
+  },
+  {
+   "i": 167,
+   "start": 389.64,
+   "end": 391.38,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Love this show."
+  },
+  {
+   "i": 168,
+   "start": 392.02,
+   "end": 394.08,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Alright - first contestant."
+  },
+  {
+   "i": 169,
+   "start": 394.92,
+   "end": 397.68,
+   "kind": "dialog",
+   "speaker": "Guldo",
+   "text": "Come on, Vegeta! Come ooon, Vegeta!"
+  },
+  {
+   "i": 170,
+   "start": 399.82,
+   "end": 402.6,
+   "kind": "dialog",
+   "speaker": "Guldo",
+   "text": "Aaarrrgggh! Re-spin! Re-spin! Re-spin!"
+  },
+  {
+   "i": 171,
+   "start": 402.6,
+   "end": 404.82,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "Lucky little bastard got two of 'em."
+  },
+  {
+   "i": 172,
+   "start": 404.82,
+   "end": 407.88,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "Alright, let's give this sucker a spin!"
+  },
+  {
+   "i": 173,
+   "start": 409.68,
+   "end": 415.2,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "*Congratulations* - you've just won a free all-expense-paid trip to Space Australia!"
+  },
+  {
+   "i": 174,
+   "start": 415.2,
+   "end": 416.86,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "Oh, you've got to be freaking kidding me."
+  },
+  {
+   "i": 175,
+   "start": 416.86,
+   "end": 420.1,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Oh hey, Space Oz! That's me home planet!"
+  },
+  {
+   "i": 176,
+   "start": 420.1,
+   "end": 422.36,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Wait, hold on... you're from Australia?"
+  },
+  {
+   "i": 177,
+   "start": 422.36,
+   "end": 425.7,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "*Space* Australia. Or more specifially, Space Brisbane."
+  },
+  {
+   "i": 178,
+   "start": 425.7,
+   "end": 426.94,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Go Space Broncos!"
+  },
+  {
+   "i": 179,
+   "start": 427.32,
+   "end": 430.54,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "So... it's, like, Australia--"
+  },
+  {
+   "i": 180,
+   "start": 430.54,
+   "end": 431.78,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "In space!"
+  },
+  {
+   "i": 181,
+   "start": 431.78,
+   "end": 438.34,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Gotta be careful though, Burter. Space Dingo will eat yer space baby... like me sister... poor Sheila--"
+  },
+  {
+   "i": 182,
+   "start": 438.34,
+   "end": 440.22,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Can we *please* get on with this?"
+  },
+  {
+   "i": 183,
+   "start": 440.22,
+   "end": 442.34,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Oh, right. Let's have a go, then."
+  },
+  {
+   "i": 184,
+   "start": 444.1,
+   "end": 447.46,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Oh, *piss off*, you great bloomin' pinwheel!"
+  },
+  {
+   "i": 185,
+   "start": 447.46,
+   "end": 449.94,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "Oh, great. That means Vegeta goes to--"
+  },
+  {
+   "i": 186,
+   "start": 449.94,
+   "end": 454.66,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "Yes! [To Guldo] In your face! [To Vegeta] Vegeta, your time is coming."
+  },
+  {
+   "i": 187,
+   "start": 454.66,
+   "end": 466.48,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "Soon - you will face the End-All, the Be-All, the Plead-All: REEEEEEEEEECOOOOOMEuhh!!"
+  },
+  {
+   "i": 188,
+   "start": 466.48,
+   "end": 469.56,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "I swear I don't even know what's going on anymore."
+  },
+  {
+   "i": 189,
+   "start": 469.56,
+   "end": 475.0,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Alright gang, it's time for me to head off. Try not to mess up your uniforms and be back by 0500!"
+  },
+  {
+   "i": 190,
+   "start": 475.0,
+   "end": 476.1,
+   "kind": "dialog",
+   "speaker": "Ginyu Force",
+   "text": "Yes, Captain!"
+  },
+  {
+   "i": 191,
+   "start": 476.1,
+   "end": 476.66,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Ciao!"
+  },
+  {
+   "i": 192,
+   "start": 478.9,
+   "end": 481.92,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "So, uh... I guess we're fighting the little green guy over there?"
+  },
+  {
+   "i": 193,
+   "start": 481.92,
+   "end": 483.84,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Yeah, that's Guldo. Have fun with him."
+  },
+  {
+   "i": 194,
+   "start": 483.84,
+   "end": 484.9,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Any strategies?"
+  },
+  {
+   "i": 195,
+   "start": 484.9,
+   "end": 486.18,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Throw dog treats at him."
+  },
+  {
+   "i": 196,
+   "start": 486.18,
+   "end": 487.1,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "How will that help?"
+  },
+  {
+   "i": 197,
+   "start": 487.1,
+   "end": 489.2,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I'll find it *hilarious*."
+  },
+  {
+   "i": 198,
+   "start": 489.2,
+   "end": 493.5,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Well come on, Gohan. We're strong enough to take this guy. Just keep your guard up."
+  },
+  {
+   "i": 199,
+   "start": 493.5,
+   "end": 498.98,
+   "kind": "dialog",
+   "speaker": "Guldo",
+   "text": "That's right - keep on your guard. Don't drop it... not even for an *instant*!"
+  },
+  {
+   "i": 200,
+   "start": 498.98,
+   "end": 500.08,
+   "kind": "dialog",
+   "speaker": "Guldo",
+   "text": "ZA WARUDO!!"
+  },
+  {
+   "i": 201,
+   "start": 500.08,
+   "end": 502.22,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "What are you-- going on about--?"
+  },
+  {
+   "i": 202,
+   "start": 503.38,
+   "end": 507.08,
+   "kind": "dialog",
+   "speaker": "Guldo",
+   "text": "You see that? That was just a taste of my power!"
+  },
+  {
+   "i": 203,
+   "start": 507.28,
+   "end": 507.78,
+   "kind": "dialog",
+   "speaker": "Guldo",
+   "text": "Huh?"
+  },
+  {
+   "i": 204,
+   "start": 507.78,
+   "end": 510.38,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Yahoow! What, the, hell was that?!"
+  },
+  {
+   "i": 205,
+   "start": 510.52,
+   "end": 513.28,
+   "kind": "dialog",
+   "speaker": "Guldo",
+   "text": "That... was supposed to crush you."
+  },
+  {
+   "i": 206,
+   "start": 513.38,
+   "end": 516.82,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Gohan! Did you see it? His power... he can--"
+  },
+  {
+   "i": 207,
+   "start": 516.82,
+   "end": 517.46,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Stop time?"
+  },
+  {
+   "i": 208,
+   "start": 517.46,
+   "end": 519.22,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "--summon steamrollers!"
+  },
+  {
+   "i": 209,
+   "start": 519.66,
+   "end": 521.36,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Y--... you sure about that?"
+  },
+  {
+   "i": 210,
+   "start": 521.36,
+   "end": 522.92,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Positive! Go for him!"
+  },
+  {
+   "i": 211,
+   "start": 523.9,
+   "end": 525.96,
+   "kind": "dialog",
+   "speaker": "Guldo",
+   "text": "You fools! RAAAAAH!"
+  },
+  {
+   "i": 212,
+   "start": 525.96,
+   "end": 526.6,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "EEEEERGH!"
+  },
+  {
+   "i": 213,
+   "start": 526.6,
+   "end": 527.46,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "UHHHH!"
+  },
+  {
+   "i": 214,
+   "start": 527.46,
+   "end": 528.84,
+   "kind": "dialog",
+   "speaker": "Guldo",
+   "text": "(Creepy laughter)"
+  },
+  {
+   "i": 215,
+   "start": 529.48,
+   "end": 533.06,
+   "kind": "dialog",
+   "speaker": "Guldo",
+   "text": "My psychic powers are unrivaled in all the galaxy!"
+  },
+  {
+   "i": 216,
+   "start": 533.38,
+   "end": 538.74,
+   "kind": "dialog",
+   "speaker": "Guldo",
+   "text": "You stood there and *mocked* me... the whole *world* stood there and mocked me!"
+  },
+  {
+   "i": 217,
+   "start": 538.82,
+   "end": 542.62,
+   "kind": "dialog",
+   "speaker": "Guldo",
+   "text": "But now, you find yourselves slaves to my whim!"
+  },
+  {
+   "i": 218,
+   "start": 542.62,
+   "end": 546.98,
+   "kind": "dialog",
+   "speaker": "Guldo",
+   "text": "Feel the earth fall out from under you, your world *shatter*!"
+  },
+  {
+   "i": 219,
+   "start": 546.98,
+   "end": 549.92,
+   "kind": "dialog",
+   "speaker": "Guldo",
+   "text": "AS I... AM... YOUR--"
+  },
+  {
+   "i": 220,
+   "start": 550.3,
+   "end": 552.42,
+   "kind": "dialog",
+   "speaker": "Guldo",
+   "text": "...why can't I feel my everything?"
+  },
+  {
+   "i": 221,
+   "start": 553.48,
+   "end": 554.64,
+   "kind": "dialog",
+   "speaker": "Guldo",
+   "text": "Oh..."
+  },
+  {
+   "i": 222,
+   "start": 556.42,
+   "end": 566.86,
+   "kind": "dialog",
+   "speaker": "Guldo",
+   "text": "'This is the end of the road... the end for me... I... I wonder... will I dream?'"
+  },
+  {
+   "i": 223,
+   "start": 568.48,
+   "end": 570.88,
+   "kind": "dialog",
+   "speaker": "Guldo",
+   "text": "I f**king hate you."
+  },
+  {
+   "i": 224,
+   "start": 570.88,
+   "end": 571.44,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I know."
+  },
+  {
+   "i": 225,
+   "start": 572.88,
+   "end": 574.66,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ Tokusentai! ♫"
+  },
+  {
+   "i": 226,
+   "start": 576.26,
+   "end": 579.26,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Son of a gum-chewing funk-monster!"
+  },
+  {
+   "i": 227,
+   "start": 579.26,
+   "end": 582.38,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Why the fruit does all this funny stuff happen to me?!"
+  },
+  {
+   "i": 228,
+   "start": 582.38,
+   "end": 583.96,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Forget my life!"
+  },
+  {
+   "i": 229,
+   "start": 583.96,
+   "end": 587.6,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Always surrounded by miserable failing clods!"
+  },
+  {
+   "i": 230,
+   "start": 587.6,
+   "end": 592.56,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Like this whole world just likes to *bend* me over and FIND ME IN THE ALPS!"
+  },
+  {
+   "i": 231,
+   "start": 592.56,
+   "end": 594.98,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Like I'm some sort of shlock receptacle!"
+  },
+  {
+   "i": 232,
+   "start": 594.98,
+   "end": 601.72,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Well as far as I care, these miserable cows can have a fancy barbecue with a goddamn pig!!"
+  }
+ ],
+ "segments": [
+  {
+   "start": 15.5,
+   "end": 34.5,
+   "title": "Ginyu Force Introductions",
+   "quote": "Men, introductions! Ginyu! Jeice! Burter! Guldo! Recoome! And together, we are: Eriito Senshi - Ginyū Tokusentai!",
+   "line_start": 1,
+   "line_end": 10
+  },
+  {
+   "start": 35.5,
+   "end": 43.5,
+   "title": "Sure Is Zarbon In Here",
+   "quote": "'Sure is Zarbon in here.'",
+   "line_start": 11,
+   "line_end": 12
+  },
+  {
+   "start": 85.3,
+   "end": 107.4,
+   "title": "Fists Right Up Their Ass",
+   "quote": "If trouble meets us as we pass / We'll shove our fists right up their ass!",
+   "line_start": 31,
+   "line_end": 41
+  },
+  {
+   "start": 114.8,
+   "end": 131.9,
+   "title": "Dead Men Be We",
+   "quote": "We're dead! We. Are. Dead! All dead! All gonna die! Dead Men Be We!",
+   "line_start": 43,
+   "line_end": 50
+  },
+  {
+   "start": 142.0,
+   "end": 167.0,
+   "title": "Team Three Star",
+   "quote": "Well, we're a team, and there's three of us, and the Dragon Balls have stars on them. Team Three Star!",
+   "line_start": 54,
+   "line_end": 62
+  },
+  {
+   "start": 173.5,
+   "end": 200.6,
+   "title": "Bulma's Nightmare",
+   "quote": "Oh... I'm not here for the Dragon Ball. ... Spread 'em.",
+   "line_start": 64,
+   "line_end": 79
+  },
+  {
+   "start": 201.3,
+   "end": 221.5,
+   "title": "Tattooed Teenage Alien Fighters",
+   "quote": "...Tattooed Teenage Alien Fighters From Beverly Hills? / Oh yeah! / Goddammit!",
+   "line_start": 80,
+   "line_end": 95
+  },
+  {
+   "start": 287.7,
+   "end": 316.0,
+   "title": "Old Spice Vegeta",
+   "quote": "Look at your men, now back to me... Where's the Dragon Ball? It's gone! I threw it!",
+   "line_start": 120,
+   "line_end": 130
+  },
+  {
+   "start": 374.8,
+   "end": 391.9,
+   "title": "Wheel of Death",
+   "quote": "What kind of sadistic retard watches this crap?! / Love this show.",
+   "line_start": 162,
+   "line_end": 167
+  },
+  {
+   "start": 493.0,
+   "end": 523.0,
+   "title": "ZA WARUDO",
+   "quote": "ZA WARUDO!! ... His power... he can-- / Stop time? / --summon steamrollers!",
+   "line_start": 199,
+   "line_end": 210
+  },
+  {
+   "start": 546.5,
+   "end": 571.9,
+   "title": "Will I Dream?",
+   "quote": "'This is the end of the road... the end for me... I... I wonder... will I dream?' / I f**king hate you. / I know.",
+   "line_start": 219,
+   "line_end": 224
+  },
+  {
+   "start": 575.8,
+   "end": 602.0,
+   "title": "Gum-Chewing Funk-Monster",
+   "quote": "Son of a gum-chewing funk-monster! Why the fruit does all this funny stuff happen to me?!",
+   "line_start": 226,
+   "line_end": 232
+  }
+ ]
+}

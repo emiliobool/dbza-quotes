@@ -1,0 +1,2531 @@
+{
+ "item": "e19",
+ "show": "dbza",
+ "youtube": "VxoT3A4qgRo",
+ "title": "Episode 17",
+ "duration": 686,
+ "lines": [
+  {
+   "i": 0,
+   "start": 11.34,
+   "end": 13.98,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "Last time on Dragon Ball Z Abridged..."
+  },
+  {
+   "i": 1,
+   "start": 14.12,
+   "end": 16.86,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Finally! I've gathered all seven Dragon Balls!"
+  },
+  {
+   "i": 2,
+   "start": 17.68,
+   "end": 20.46,
+   "kind": "dialog",
+   "speaker": "Shenron",
+   "text": "State your wish."
+  },
+  {
+   "i": 3,
+   "start": 21.06,
+   "end": 24.2,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Dragon! Grant me immortality!"
+  },
+  {
+   "i": 4,
+   "start": 24.5,
+   "end": 28.16,
+   "kind": "dialog",
+   "speaker": "Shenron",
+   "text": "Your wish is granted."
+  },
+  {
+   "i": 5,
+   "start": 29.2,
+   "end": 30.7,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Yes! I've done it!"
+  },
+  {
+   "i": 6,
+   "start": 30.7,
+   "end": 33.78,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I'm finally the strongest in all the Universe!"
+  },
+  {
+   "i": 7,
+   "start": 34.16,
+   "end": 36.42,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "WAH HA-HA-HA-HA-HA-HA-HA-HA! >XD"
+  },
+  {
+   "i": 8,
+   "start": 37.02,
+   "end": 39.64,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I am unstoppable..."
+  },
+  {
+   "i": 9,
+   "start": 39.72,
+   "end": 42.62,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Oh, how cute. He's having a little dream."
+  },
+  {
+   "i": 10,
+   "start": 42.8,
+   "end": 45.3,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Mine! Mine! Mine! Mine! Mine!"
+  },
+  {
+   "i": 11,
+   "start": 45.48,
+   "end": 47.36,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Now, let's get you back to Lord Freeza."
+  },
+  {
+   "i": 12,
+   "start": 47.6,
+   "end": 50.58,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "I need to... probe you for the information."
+  },
+  {
+   "i": 13,
+   "start": 50.94,
+   "end": 53.44,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "My power is maximum..."
+  },
+  {
+   "i": 14,
+   "start": 53.76,
+   "end": 55.46,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "♫ \"Cha-La Head-Cha-La\" ♫"
+  },
+  {
+   "i": 15,
+   "start": 55.46,
+   "end": 58.28,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "♫ CHA-LA HEAD-CHA-LA ♫"
+  },
+  {
+   "i": 16,
+   "start": 59.02,
+   "end": 62.72,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "♫ Egao urutora zetto de ♫ (With a smile that’s Ultra-Z)"
+  },
+  {
+   "i": 17,
+   "start": 62.72,
+   "end": 66.02,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "♫ Kyô mo ai-yai-yai-yai-yai~ ♫ (Even today is ai-yai-yai-yai-yai~)"
+  },
+  {
+   "i": 18,
+   "start": 66.02,
+   "end": 67.88,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "♫ Sparking! {fading echo} ♫"
+  },
+  {
+   "i": 19,
+   "start": 74.36,
+   "end": 76.62,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "Muffled video game noises (Budokai Tenkaichi 3)"
+  },
+  {
+   "i": 20,
+   "start": 76.64,
+   "end": 79.34,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "Normal video game noises"
+  },
+  {
+   "i": 21,
+   "start": 81.44,
+   "end": 83.44,
+   "kind": "dialog",
+   "speaker": "Apool",
+   "text": "Take that, you bastard."
+  },
+  {
+   "i": 22,
+   "start": 83.44,
+   "end": 85.26,
+   "kind": "dialog",
+   "speaker": "Apool",
+   "text": "This one's for Ichpe!"
+  },
+  {
+   "i": 23,
+   "start": 85.6,
+   "end": 86.22,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Report!"
+  },
+  {
+   "i": 24,
+   "start": 86.22,
+   "end": 88.12,
+   "kind": "dialog",
+   "speaker": "Apool",
+   "text": "Uh, I just.."
+  },
+  {
+   "i": 25,
+   "start": 88.12,
+   "end": 91.02,
+   "kind": "dialog",
+   "speaker": "Apool",
+   "text": "I'm just checking... his vitals."
+  },
+  {
+   "i": 26,
+   "start": 91.02,
+   "end": 92.24,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Is he going to make it?"
+  },
+  {
+   "i": 27,
+   "start": 92.4,
+   "end": 95.12,
+   "kind": "dialog",
+   "speaker": "Apool",
+   "text": "Well, it's a good thing you got him to me when you did."
+  },
+  {
+   "i": 28,
+   "start": 95.28,
+   "end": 98.5,
+   "kind": "dialog",
+   "speaker": "Apool",
+   "text": "Even a little later, and we might not have been able to save him."
+  },
+  {
+   "i": 29,
+   "start": 98.5,
+   "end": 99.84,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Why isn't he naked?"
+  },
+  {
+   "i": 30,
+   "start": 99.84,
+   "end": 100.76,
+   "kind": "dialog",
+   "speaker": "Apool",
+   "text": "Luckily, we--"
+  },
+  {
+   "i": 31,
+   "start": 101.64,
+   "end": 102.14,
+   "kind": "dialog",
+   "speaker": "Apool",
+   "text": "...*what*?"
+  },
+  {
+   "i": 32,
+   "start": 102.46,
+   "end": 105.7,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "In the healing tank; I always thought you needed to be nude."
+  },
+  {
+   "i": 33,
+   "start": 106.24,
+   "end": 106.74,
+   "kind": "dialog",
+   "speaker": "Apool",
+   "text": "Wha--?"
+  },
+  {
+   "i": 34,
+   "start": 107.24,
+   "end": 108.68,
+   "kind": "dialog",
+   "speaker": "Apool",
+   "text": "W-why would you think that?"
+  },
+  {
+   "i": 35,
+   "start": 108.92,
+   "end": 113.36,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "You know, to... absorb all the healing juices."
+  },
+  {
+   "i": 36,
+   "start": 116.58,
+   "end": 118.72,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "WELL, looks like you have everything under control here."
+  },
+  {
+   "i": 37,
+   "start": 119.92,
+   "end": 121.52,
+   "kind": "dialog",
+   "speaker": "Apool",
+   "text": "Freaks me the f*ck out."
+  },
+  {
+   "i": 38,
+   "start": 122.56,
+   "end": 123.56,
+   "kind": "dialog",
+   "speaker": "Ghost Nappa",
+   "text": "(Whistles)"
+  },
+  {
+   "i": 39,
+   "start": 123.56,
+   "end": 124.2,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "Tap, tap, tap"
+  },
+  {
+   "i": 40,
+   "start": 124.2,
+   "end": 125.12,
+   "kind": "dialog",
+   "speaker": "Ghost Nappa",
+   "text": "Is this thing on?"
+  },
+  {
+   "i": 41,
+   "start": 125.12,
+   "end": 125.66,
+   "kind": "dialog",
+   "speaker": "Ghost Nappa",
+   "text": "Is it o--"
+  },
+  {
+   "i": 42,
+   "start": 125.66,
+   "end": 126.9,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "(Moaning)"
+  },
+  {
+   "i": 43,
+   "start": 126.9,
+   "end": 128.46,
+   "kind": "dialog",
+   "speaker": "Ghost Nappa",
+   "text": "OKAY, there we go."
+  },
+  {
+   "i": 44,
+   "start": 128.46,
+   "end": 129.92,
+   "kind": "dialog",
+   "speaker": "Ghost Nappa",
+   "text": "(Clears his throat)"
+  },
+  {
+   "i": 45,
+   "start": 130.5,
+   "end": 134.14,
+   "kind": "dialog",
+   "speaker": "Ghost Nappa",
+   "text": "YOU are now thinking about what Zarbon did to you..."
+  },
+  {
+   "i": 46,
+   "start": 134.14,
+   "end": 136.12,
+   "kind": "dialog",
+   "speaker": "Ghost Nappa",
+   "text": "while you were unconscious."
+  },
+  {
+   "i": 47,
+   "start": 136.82,
+   "end": 139.8,
+   "kind": "dialog",
+   "speaker": "Ghost Nappa",
+   "text": "Have fun with that... that... that..."
+  },
+  {
+   "i": 48,
+   "start": 138.42,
+   "end": 140.44,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "(Groaning)"
+  },
+  {
+   "i": 49,
+   "start": 140.82,
+   "end": 147.1,
+   "kind": "dialog",
+   "speaker": "Apool",
+   "text": "You know, Vegeta, I've gotta admit - it was pretty impressive how you went all man-hunter on us."
+  },
+  {
+   "i": 50,
+   "start": 147.1,
+   "end": 149.54,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "(Groaning intensifies)"
+  },
+  {
+   "i": 51,
+   "start": 147.1,
+   "end": 149.54,
+   "kind": "dialog",
+   "speaker": "Apool",
+   "text": "But now, you're all ours."
+  },
+  {
+   "i": 52,
+   "start": 149.54,
+   "end": 153.5,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "(Groaning intensifies further)"
+  },
+  {
+   "i": 53,
+   "start": 149.54,
+   "end": 153.5,
+   "kind": "dialog",
+   "speaker": "Apool",
+   "text": "And I can't wait to watch Zarbon break you like a glowsti--"
+  },
+  {
+   "i": 54,
+   "start": 155.96,
+   "end": 157.64,
+   "kind": "dialog",
+   "speaker": "Apool",
+   "text": "Here I come, Ichpe..."
+  },
+  {
+   "i": 55,
+   "start": 160.4,
+   "end": 162.86,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "And I want you here in twenty-four hours, understood?"
+  },
+  {
+   "i": 56,
+   "start": 163.04,
+   "end": 165.42,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "And make sure to bring the up-to-date Scouters."
+  },
+  {
+   "i": 57,
+   "start": 165.42,
+   "end": 167.1,
+   "kind": "dialog",
+   "speaker": "Ginyu",
+   "text": "Understood, Lord Freeza."
+  },
+  {
+   "i": 58,
+   "start": 167.2,
+   "end": 170.14,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Lord Freeza, I really need to use the space Skype."
+  },
+  {
+   "i": 59,
+   "start": 170.3,
+   "end": 174.68,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Zarbon, what could possibly be so important that you need to interrupt me during my call?"
+  },
+  {
+   "i": 60,
+   "start": 174.92,
+   "end": 177.06,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Well, I need to call my girlfriend."
+  },
+  {
+   "i": 61,
+   "start": 177.06,
+   "end": 177.72,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Well, I--"
+  },
+  {
+   "i": 62,
+   "start": 178.78,
+   "end": 179.98,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "...Ginyu, I'll call you back."
+  },
+  {
+   "i": 63,
+   "start": 181.98,
+   "end": 182.7,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Come again?"
+  },
+  {
+   "i": 64,
+   "start": 183.08,
+   "end": 189.56,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "You see, our one-year anniversary is coming up and I want to see where she wants to go so I can make reservations early."
+  },
+  {
+   "i": 65,
+   "start": 189.88,
+   "end": 190.38,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Oh."
+  },
+  {
+   "i": 66,
+   "start": 190.98,
+   "end": 192.98,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "And all this time I could have sworn you were--"
+  },
+  {
+   "i": 67,
+   "start": 193.44,
+   "end": 193.94,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "...Nevermind."
+  },
+  {
+   "i": 68,
+   "start": 194.44,
+   "end": 196.12,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "What, you thought I was single?"
+  },
+  {
+   "i": 69,
+   "start": 196.24,
+   "end": 197.5,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Well, no. I just..."
+  },
+  {
+   "i": 70,
+   "start": 197.78,
+   "end": 199.88,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "I... thought you were into..."
+  },
+  {
+   "i": 71,
+   "start": 200.18,
+   "end": 202.1,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "You know, it really doesn't matter."
+  },
+  {
+   "i": 72,
+   "start": 202.1,
+   "end": 205.82,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Well, it matters to me; because, frankly, it sounds like you thought I was--"
+  },
+  {
+   "i": 73,
+   "start": 205.82,
+   "end": 206.74,
+   "kind": "dialog",
+   "speaker": "Oran",
+   "text": "LORD FREEZA!"
+  },
+  {
+   "i": 74,
+   "start": 206.74,
+   "end": 208.24,
+   "kind": "dialog",
+   "speaker": "Oran",
+   "text": "VEGETA'S BROKEN OUT OF THE HEALING T--"
+  },
+  {
+   "i": 75,
+   "start": 208.24,
+   "end": 209.12,
+   "kind": "dialog",
+   "speaker": "Oran",
+   "text": "Aiee!"
+  },
+  {
+   "i": 76,
+   "start": 209.92,
+   "end": 211.16,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Oh, no. That minion died."
+  },
+  {
+   "i": 77,
+   "start": 211.16,
+   "end": 212.08,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Could you go fix that?"
+  },
+  {
+   "i": 78,
+   "start": 212.08,
+   "end": 213.86,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "We'll continue this conversation never."
+  },
+  {
+   "i": 79,
+   "start": 214.96,
+   "end": 216.6,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "...Did he say something about Vegeta?"
+  },
+  {
+   "i": 80,
+   "start": 216.76,
+   "end": 217.26,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "What?"
+  },
+  {
+   "i": 81,
+   "start": 217.42,
+   "end": 218.46,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "Explosion"
+  },
+  {
+   "i": 82,
+   "start": 219.08,
+   "end": 222.24,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Zarbon ... who did you leave guarding him?"
+  },
+  {
+   "i": 83,
+   "start": 223.28,
+   "end": 224.26,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "Alarm"
+  },
+  {
+   "i": 84,
+   "start": 223.28,
+   "end": 224.26,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "APOOL?!"
+  },
+  {
+   "i": 85,
+   "start": 224.26,
+   "end": 226.32,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "YOU LEFT APOOL HERE?!"
+  },
+  {
+   "i": 86,
+   "start": 226.32,
+   "end": 227.7,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Well, I thought he could handle it!"
+  },
+  {
+   "i": 87,
+   "start": 227.8,
+   "end": 231.8,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Apool couldn't handle a shot of raspberry Schnapps, much less Vegeta!"
+  },
+  {
+   "i": 88,
+   "start": 231.8,
+   "end": 234.6,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Oh, where's the damn phone? I need to make another call."
+  },
+  {
+   "i": 89,
+   "start": 234.6,
+   "end": 236.66,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Yes, sir! I'll go look for Vegeta!"
+  },
+  {
+   "i": 90,
+   "start": 236.66,
+   "end": 237.68,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "He won't get far!"
+  },
+  {
+   "i": 91,
+   "start": 241.88,
+   "end": 245.38,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'Yes, that's right. Search all over for me, Zarbon.'"
+  },
+  {
+   "i": 92,
+   "start": 245.38,
+   "end": 248.6,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'Of course, you'd never think to check inside your own SHIP!'"
+  },
+  {
+   "i": 93,
+   "start": 248.94,
+   "end": 250.22,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'You know what they say:'"
+  },
+  {
+   "i": 94,
+   "start": 250.7,
+   "end": 254.58,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'\"Keep your friends close ... and your enemies closer.\"'"
+  },
+  {
+   "i": 95,
+   "start": 254.92,
+   "end": 258.36,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Huhaha! Hahaha! HA, hahahahahahahaha! Ha--"
+  },
+  {
+   "i": 96,
+   "start": 258.36,
+   "end": 259.8,
+   "kind": "dialog",
+   "speaker": "Minion",
+   "text": "Lord Freeza, I found him!"
+  },
+  {
+   "i": 97,
+   "start": 259.8,
+   "end": 260.72,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Ah, f*ck it."
+  },
+  {
+   "i": 98,
+   "start": 261.48,
+   "end": 264.14,
+   "kind": "dialog",
+   "speaker": "Minion",
+   "text": "AAAAAAAAAAAAAAAAAAAAH!"
+  },
+  {
+   "i": 99,
+   "start": 266.76,
+   "end": 268.46,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Ginyu! Hurry up, double time!"
+  },
+  {
+   "i": 100,
+   "start": 268.46,
+   "end": 270.96,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Zarbon really screwed the pooch on this one."
+  },
+  {
+   "i": 101,
+   "start": 270.96,
+   "end": 273.8,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Lord Freeza, Vegeta's really giving us a pounding!"
+  },
+  {
+   "i": 102,
+   "start": 273.8,
+   "end": 276.24,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "I'm coming, Zarbon! Quick, grab my Balls!"
+  },
+  {
+   "i": 103,
+   "start": 276.24,
+   "end": 276.74,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "Call ended"
+  },
+  {
+   "i": 104,
+   "start": 277.88,
+   "end": 279.58,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "Snickering"
+  },
+  {
+   "i": 105,
+   "start": 279.58,
+   "end": 285.62,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "Laughter"
+  },
+  {
+   "i": 106,
+   "start": 285.62,
+   "end": 288.28,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "♫ A parody of \"I've Got A Lovely Bunch of Coconuts\" ♫"
+  },
+  {
+   "i": 107,
+   "start": 292.42,
+   "end": 295.1,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "♫ I've got a lovely bunch of Dragon Balls ♫"
+  },
+  {
+   "i": 108,
+   "start": 295.1,
+   "end": 296.0,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "♫ Do-do-do-do-do ♫"
+  },
+  {
+   "i": 109,
+   "start": 296.0,
+   "end": 298.16,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "♫ Here they are, all sitting in a bunch ♫"
+  },
+  {
+   "i": 110,
+   "start": 298.16,
+   "end": 299.54,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "♫ Doo-doo-doo ♫"
+  },
+  {
+   "i": 111,
+   "start": 299.54,
+   "end": 300.42,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "♫ One star ♫"
+  },
+  {
+   "i": 112,
+   "start": 300.42,
+   "end": 301.28,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "♫ Two star ♫"
+  },
+  {
+   "i": 113,
+   "start": 301.28,
+   "end": 302.58,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "♫ All as big as my head! ♫"
+  },
+  {
+   "i": 114,
+   "start": 303.04,
+   "end": 303.84,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "♫ Give 'em a toss ♫"
+  },
+  {
+   "i": 115,
+   "start": 303.84,
+   "end": 304.8,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "♫ A planet across ♫"
+  },
+  {
+   "i": 116,
+   "start": 304.8,
+   "end": 306.08,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "♫ That's how Vegeta wins ♫"
+  },
+  {
+   "i": 117,
+   "start": 306.08,
+   "end": 306.74,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "♫ Ba-bye! ♫ :P"
+  },
+  {
+   "i": 118,
+   "start": 307.34,
+   "end": 309.46,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Damn it all to hell, he's gone!"
+  },
+  {
+   "i": 119,
+   "start": 309.46,
+   "end": 312.3,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "And he took off with my Dragon Balls!"
+  },
+  {
+   "i": 120,
+   "start": 312.52,
+   "end": 314.08,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Lord Freeza, I found a note!"
+  },
+  {
+   "i": 121,
+   "start": 314.08,
+   "end": 315.12,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Let me see that!"
+  },
+  {
+   "i": 122,
+   "start": 316.18,
+   "end": 319.74,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "It just says \"Dear Fr ̶i̶eeza\", and it's a picture of a butt."
+  },
+  {
+   "i": 123,
+   "start": 320.3,
+   "end": 321.56,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Can I see it, Lord Freeza?"
+  },
+  {
+   "i": 124,
+   "start": 321.56,
+   "end": 324.58,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Vegeta! Dragon Balls! NOW!!!!"
+  },
+  {
+   "i": 125,
+   "start": 324.74,
+   "end": 325.38,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Yes, sir!"
+  },
+  {
+   "i": 126,
+   "start": 325.76,
+   "end": 329.44,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "'Dammit! He's up here somewhere! I just need to spot the bastard!'"
+  },
+  {
+   "i": 127,
+   "start": 330.42,
+   "end": 331.64,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'Later, bitches.'"
+  },
+  {
+   "i": 128,
+   "start": 331.64,
+   "end": 333.36,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "Submarine dive alarm"
+  },
+  {
+   "i": 129,
+   "start": 335.98,
+   "end": 336.48,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Whew!"
+  },
+  {
+   "i": 130,
+   "start": 336.94,
+   "end": 339.02,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "It's taken me five whole days!"
+  },
+  {
+   "i": 131,
+   "start": 339.02,
+   "end": 341.52,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "But I'm finally up to 100x gravity!"
+  },
+  {
+   "i": 132,
+   "start": 341.72,
+   "end": 344.32,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "It's a good thing I brought along all these Senzu..."
+  },
+  {
+   "i": 133,
+   "start": 344.72,
+   "end": 347.54,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Aw man, it looks like we only have four left."
+  },
+  {
+   "i": 134,
+   "start": 347.86,
+   "end": 349.78,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Aw well, we won't need that many on Namek."
+  },
+  {
+   "i": 135,
+   "start": 349.96,
+   "end": 351.24,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Om nom nom!"
+  },
+  {
+   "i": 136,
+   "start": 351.28,
+   "end": 351.78,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(Gulp)"
+  },
+  {
+   "i": 137,
+   "start": 352.04,
+   "end": 353.9,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Mmmmm, tastes like healing."
+  },
+  {
+   "i": 138,
+   "start": 354.2,
+   "end": 356.12,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Hello, Goku? Do you hear me?"
+  },
+  {
+   "i": 139,
+   "start": 356.4,
+   "end": 361.02,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "I swear to God, if this is George Takei again I'm gonna shove a brick up the Verizon guy's a--"
+  },
+  {
+   "i": 140,
+   "start": 361.02,
+   "end": 361.86,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "King Kai?"
+  },
+  {
+   "i": 141,
+   "start": 361.86,
+   "end": 363.18,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Ah, there you are Goku."
+  },
+  {
+   "i": 142,
+   "start": 363.44,
+   "end": 365.3,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "I see you're on your way to Namek."
+  },
+  {
+   "i": 143,
+   "start": 365.3,
+   "end": 366.68,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I'm gonna beat someone up!"
+  },
+  {
+   "i": 144,
+   "start": 366.68,
+   "end": 367.74,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Of course, you are."
+  },
+  {
+   "i": 145,
+   "start": 367.86,
+   "end": 368.58,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "But listen!"
+  },
+  {
+   "i": 146,
+   "start": 368.8,
+   "end": 372.26,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "There's someone on Namek that you must absolutely stay away from."
+  },
+  {
+   "i": 147,
+   "start": 372.26,
+   "end": 373.0,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "You hear me?"
+  },
+  {
+   "i": 148,
+   "start": 373.18,
+   "end": 375.36,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "He's even *stronger* than Vegeta, and he--"
+  },
+  {
+   "i": 149,
+   "start": 375.36,
+   "end": 376.26,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I know!"
+  },
+  {
+   "i": 150,
+   "start": 376.94,
+   "end": 377.44,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "What?"
+  },
+  {
+   "i": 151,
+   "start": 377.44,
+   "end": 378.6,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I'm gonna beat him up!"
+  },
+  {
+   "i": 152,
+   "start": 379.04,
+   "end": 379.96,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Goku, no."
+  },
+  {
+   "i": 153,
+   "start": 379.96,
+   "end": 383.56,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "This is nothing like Vegeta. It is much, MUCH worse."
+  },
+  {
+   "i": 154,
+   "start": 383.88,
+   "end": 384.9,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Uh huh...!"
+  },
+  {
+   "i": 155,
+   "start": 385.04,
+   "end": 389.5,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "He is known throughout the galaxy as the most terrifying and evil person there is!"
+  },
+  {
+   "i": 156,
+   "start": 389.7,
+   "end": 390.34,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Really?!"
+  },
+  {
+   "i": 157,
+   "start": 390.64,
+   "end": 392.58,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "He's conquered hundreds of planets!"
+  },
+  {
+   "i": 158,
+   "start": 392.72,
+   "end": 394.98,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "And slaughtered *billions* of people!"
+  },
+  {
+   "i": 159,
+   "start": 394.98,
+   "end": 396.22,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Eeeeeeeeeeee!"
+  },
+  {
+   "i": 160,
+   "start": 396.22,
+   "end": 398.56,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Stop it! Stop getting excited!"
+  },
+  {
+   "i": 161,
+   "start": 398.86,
+   "end": 401.34,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Now promise me you will not fight hi--"
+  },
+  {
+   "i": 162,
+   "start": 401.34,
+   "end": 403.3,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Ooo, I can see Planet Namek!"
+  },
+  {
+   "i": 163,
+   "start": 404.08,
+   "end": 405.76,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Naw, wait, naw it's fake."
+  },
+  {
+   "i": 164,
+   "start": 405.76,
+   "end": 407.38,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Goku! Seriously!"
+  },
+  {
+   "i": 165,
+   "start": 407.68,
+   "end": 411.86,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Promise me that under no circumstance will you go anywhere near Freeza!"
+  },
+  {
+   "i": 166,
+   "start": 411.86,
+   "end": 413.32,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "But, King Kai, I--"
+  },
+  {
+   "i": 167,
+   "start": 413.32,
+   "end": 414.06,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "PROMISE ME!"
+  },
+  {
+   "i": 168,
+   "start": 414.3,
+   "end": 415.96,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Aw, alright."
+  },
+  {
+   "i": 169,
+   "start": 416.24,
+   "end": 418.98,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I promise I will absolutely not--"
+  },
+  {
+   "i": 170,
+   "start": 418.98,
+   "end": 421.24,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Click! Brrrrrrrrrrrrrrrrrrrrrrrr..."
+  },
+  {
+   "i": 171,
+   "start": 421.24,
+   "end": 421.92,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "What the--"
+  },
+  {
+   "i": 172,
+   "start": 421.24,
+   "end": 421.92,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "rrrrrrrr--"
+  },
+  {
+   "i": 173,
+   "start": 421.92,
+   "end": 422.82,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(Inhale)"
+  },
+  {
+   "i": 174,
+   "start": 422.82,
+   "end": 423.96,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "rrrrrrrrrrrrrrrrrrr..."
+  },
+  {
+   "i": 175,
+   "start": 423.96,
+   "end": 424.78,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "He--"
+  },
+  {
+   "i": 176,
+   "start": 423.96,
+   "end": 424.78,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "rrrrrrrrrrrrrrrrrrr..."
+  },
+  {
+   "i": 177,
+   "start": 424.78,
+   "end": 425.94,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "He hung up on me!"
+  },
+  {
+   "i": 178,
+   "start": 424.78,
+   "end": 425.94,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "rrrrrrrrrrrrrrrrrrr..."
+  },
+  {
+   "i": 179,
+   "start": 425.94,
+   "end": 426.44,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "rrrrrrrrrrrrrrrrrrr..."
+  },
+  {
+   "i": 180,
+   "start": 426.44,
+   "end": 428.24,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "How the hell did he even do that?!"
+  },
+  {
+   "i": 181,
+   "start": 426.44,
+   "end": 428.24,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "rrrrrrrrrrrrrrrrrrr--"
+  },
+  {
+   "i": 182,
+   "start": 428.24,
+   "end": 428.74,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "Call ended"
+  },
+  {
+   "i": 183,
+   "start": 428.74,
+   "end": 429.96,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Dammit, I'll call him back!"
+  },
+  {
+   "i": 184,
+   "start": 429.96,
+   "end": 430.46,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "Key depressed"
+  },
+  {
+   "i": 185,
+   "start": 430.84,
+   "end": 433.36,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "Phone ringing"
+  },
+  {
+   "i": 186,
+   "start": 433.36,
+   "end": 433.86,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "Click"
+  },
+  {
+   "i": 187,
+   "start": 433.94,
+   "end": 437.54,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Goku, I swear to God! I will ride your *ass* on this one!"
+  },
+  {
+   "i": 188,
+   "start": 437.78,
+   "end": 439.14,
+   "kind": "dialog",
+   "speaker": "George Takei",
+   "text": "Oh, myyy~"
+  },
+  {
+   "i": 189,
+   "start": 439.14,
+   "end": 440.42,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "DAMMIT, TAKEI!"
+  },
+  {
+   "i": 190,
+   "start": 441.72,
+   "end": 443.9,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "(Gasping for air)"
+  },
+  {
+   "i": 191,
+   "start": 444.28,
+   "end": 445.04,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Alright..."
+  },
+  {
+   "i": 192,
+   "start": 445.3,
+   "end": 446.94,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "They should be here somewhere."
+  },
+  {
+   "i": 193,
+   "start": 447.8,
+   "end": 449.22,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Aha! They're here!"
+  },
+  {
+   "i": 194,
+   "start": 449.38,
+   "end": 450.58,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "They're all here."
+  },
+  {
+   "i": 195,
+   "start": 450.8,
+   "end": 455.56,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Perfect. Now, I have six, counting the one I have hidden near the village."
+  },
+  {
+   "i": 196,
+   "start": 455.72,
+   "end": 460.1,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "All I have to do now is stay under the radar and not fly around like a jackass, saying"
+  },
+  {
+   "i": 197,
+   "start": 460.1,
+   "end": 461.84,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I've got a Dragon Ball!"
+  },
+  {
+   "i": 198,
+   "start": 463.16,
+   "end": 465.12,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I was gonna say, \"Come and get me, Freeza\""
+  },
+  {
+   "i": 199,
+   "start": 465.12,
+   "end": 466.46,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "But that works, too!"
+  },
+  {
+   "i": 200,
+   "start": 468.18,
+   "end": 471.0,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "This is useless! I'm never going to find him like this!"
+  },
+  {
+   "i": 201,
+   "start": 471.24,
+   "end": 473.12,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "I might as well hide under a rock!"
+  },
+  {
+   "i": 202,
+   "start": 473.5,
+   "end": 478.04,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Maybe Lord Freeza won't find me if I just lay low and don't fly around like a jackass, saying"
+  },
+  {
+   "i": 203,
+   "start": 478.04,
+   "end": 480.08,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Come to papa, ya bald bastard!"
+  },
+  {
+   "i": 204,
+   "start": 480.42,
+   "end": 482.52,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "I was going to say \"Come and get me, Freeza\""
+  },
+  {
+   "i": 205,
+   "start": 482.52,
+   "end": 484.04,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "But that works, too!"
+  },
+  {
+   "i": 206,
+   "start": 485.72,
+   "end": 490.56,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "Bulma humming \"I'll Give You Romance\" (original DB ending theme)"
+  },
+  {
+   "i": 207,
+   "start": 490.56,
+   "end": 491.52,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Son of a bitch!"
+  },
+  {
+   "i": 208,
+   "start": 491.94,
+   "end": 492.44,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Huh."
+  },
+  {
+   "i": 209,
+   "start": 492.68,
+   "end": 494.06,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I thought you'd be back in the cave."
+  },
+  {
+   "i": 210,
+   "start": 494.14,
+   "end": 496.5,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Well, I WOULD, if I didn't keep finding puddles of--"
+  },
+  {
+   "i": 211,
+   "start": 496.5,
+   "end": 498.14,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Yeah, yeah, I know, in the cave."
+  },
+  {
+   "i": 212,
+   "start": 498.14,
+   "end": 498.86,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Get over it."
+  },
+  {
+   "i": 213,
+   "start": 499.08,
+   "end": 501.28,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Besides! I brought us a Dragon Ball!"
+  },
+  {
+   "i": 214,
+   "start": 501.4,
+   "end": 502.32,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Oh, wow!"
+  },
+  {
+   "i": 215,
+   "start": 502.5,
+   "end": 504.1,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "They're much bigger than the ones on Earth."
+  },
+  {
+   "i": 216,
+   "start": 504.34,
+   "end": 507.04,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Yeah, Gohan and I were pretty surprised, too when we..."
+  },
+  {
+   "i": 217,
+   "start": 507.62,
+   "end": 508.12,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Wait..."
+  },
+  {
+   "i": 218,
+   "start": 508.52,
+   "end": 509.58,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Where is Gohan?"
+  },
+  {
+   "i": 219,
+   "start": 509.82,
+   "end": 511.42,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Oh. He took the Dragon Radar."
+  },
+  {
+   "i": 220,
+   "start": 511.42,
+   "end": 513.38,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "We found a Dragon Ball that was all on it's own."
+  },
+  {
+   "i": 221,
+   "start": 513.38,
+   "end": 514.24,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Wait, what?!"
+  },
+  {
+   "i": 222,
+   "start": 515.3,
+   "end": 517.14,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "I've got a Dragon Ball!"
+  },
+  {
+   "i": 223,
+   "start": 518.04,
+   "end": 519.82,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "You let Gohan go out on his own?!"
+  },
+  {
+   "i": 224,
+   "start": 520.12,
+   "end": 520.72,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Yeah."
+  },
+  {
+   "i": 225,
+   "start": 520.9,
+   "end": 521.88,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "What's the big deal?"
+  },
+  {
+   "i": 226,
+   "start": 521.96,
+   "end": 525.4,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Do you have ANY idea what Chi-Chi will do to me if he gets hurt?!"
+  },
+  {
+   "i": 227,
+   "start": 525.68,
+   "end": 527.76,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I like my penis where it is, thank you."
+  },
+  {
+   "i": 228,
+   "start": 527.84,
+   "end": 529.84,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "I still don't see how this is my problem."
+  },
+  {
+   "i": 229,
+   "start": 530.06,
+   "end": 530.66,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Aw."
+  },
+  {
+   "i": 230,
+   "start": 530.84,
+   "end": 532.84,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Well, we'll just have to wait for him here, then."
+  },
+  {
+   "i": 231,
+   "start": 533.08,
+   "end": 534.44,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "At least we have a Dragon Ball!"
+  },
+  {
+   "i": 232,
+   "start": 535.14,
+   "end": 537.32,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Hi, there! I'm taking your Dragon Ball."
+  },
+  {
+   "i": 233,
+   "start": 537.42,
+   "end": 537.94,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Uh..."
+  },
+  {
+   "i": 234,
+   "start": 538.34,
+   "end": 539.64,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Care to trade for one of yours?"
+  },
+  {
+   "i": 235,
+   "start": 539.76,
+   "end": 540.56,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "How 'bout \"no\"?"
+  },
+  {
+   "i": 236,
+   "start": 540.78,
+   "end": 542.98,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "You drive a hard bargain."
+  },
+  {
+   "i": 237,
+   "start": 543.34,
+   "end": 545.0,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Who drives it hard, now?"
+  },
+  {
+   "i": 238,
+   "start": 545.62,
+   "end": 546.3,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Hmm-hmm..."
+  },
+  {
+   "i": 239,
+   "start": 546.56,
+   "end": 548.68,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Oh, I thought I smelled body glitter..."
+  },
+  {
+   "i": 240,
+   "start": 548.76,
+   "end": 550.76,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "You. The short one over there."
+  },
+  {
+   "i": 241,
+   "start": 550.76,
+   "end": 552.2,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Give me the Dragon Ball."
+  },
+  {
+   "i": 242,
+   "start": 552.2,
+   "end": 552.7,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Ummm..."
+  },
+  {
+   "i": 243,
+   "start": 552.7,
+   "end": 555.52,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Not so fast! He's handing the Ball over to me!"
+  },
+  {
+   "i": 244,
+   "start": 556.0,
+   "end": 556.92,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Right, baldy?"
+  },
+  {
+   "i": 245,
+   "start": 556.92,
+   "end": 557.5,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Uhhh..."
+  },
+  {
+   "i": 246,
+   "start": 557.96,
+   "end": 559.38,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Bulma? Little help here?"
+  },
+  {
+   "i": 247,
+   "start": 559.38,
+   "end": 561.64,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Oh my God, he's so hot!"
+  },
+  {
+   "i": 248,
+   "start": 561.64,
+   "end": 563.42,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "I just wanna grab him and--"
+  },
+  {
+   "i": 249,
+   "start": 563.42,
+   "end": 564.64,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "sixty-nine..."
+  },
+  {
+   "i": 250,
+   "start": 565.06,
+   "end": 566.08,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "seventy..."
+  },
+  {
+   "i": 251,
+   "start": 566.68,
+   "end": 567.32,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "seventy--"
+  },
+  {
+   "i": 252,
+   "start": 567.32,
+   "end": 569.52,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "One time, you've defeated me, Zarbon."
+  },
+  {
+   "i": 253,
+   "start": 569.84,
+   "end": 571.64,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "And that's one time too many."
+  },
+  {
+   "i": 254,
+   "start": 571.74,
+   "end": 573.52,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Nothing's changed, Vegeta."
+  },
+  {
+   "i": 255,
+   "start": 573.7,
+   "end": 577.76,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "The last time we fought, you were barely alive when I retrieved your body."
+  },
+  {
+   "i": 256,
+   "start": 577.96,
+   "end": 579.72,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "That... reminds me..."
+  },
+  {
+   "i": 257,
+   "start": 580.02,
+   "end": 582.66,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Did you DO anything to me while I was unconscious?"
+  },
+  {
+   "i": 258,
+   "start": 582.86,
+   "end": 583.36,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Did--"
+  },
+  {
+   "i": 259,
+   "start": 583.64,
+   "end": 584.74,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Did I *what*?"
+  },
+  {
+   "i": 260,
+   "start": 584.88,
+   "end": 587.82,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Did you do anything to me while I was unconscious?"
+  },
+  {
+   "i": 261,
+   "start": 587.98,
+   "end": 588.48,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "What?!"
+  },
+  {
+   "i": 262,
+   "start": 588.64,
+   "end": 590.24,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "No! GOD no!"
+  },
+  {
+   "i": 263,
+   "start": 590.34,
+   "end": 591.78,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Oh, thank GOD, I ju--"
+  },
+  {
+   "i": 264,
+   "start": 592.28,
+   "end": 593.4,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Wait, what do you mean by that?"
+  },
+  {
+   "i": 265,
+   "start": 593.56,
+   "end": 595.04,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Am I not good enough for you?!"
+  },
+  {
+   "i": 266,
+   "start": 595.16,
+   "end": 598.48,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Alright, Vegeta - I'm gonna be totally honest with you."
+  },
+  {
+   "i": 267,
+   "start": 598.6,
+   "end": 600.92,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "This is sounding really gay."
+  },
+  {
+   "i": 268,
+   "start": 601.14,
+   "end": 601.68,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Wha-I--"
+  },
+  {
+   "i": 269,
+   "start": 601.86,
+   "end": 602.46,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "What are you--"
+  },
+  {
+   "i": 270,
+   "start": 602.46,
+   "end": 604.44,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Not that there's anything wrong with that!"
+  },
+  {
+   "i": 271,
+   "start": 605.66,
+   "end": 606.16,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Just--"
+  },
+  {
+   "i": 272,
+   "start": 606.64,
+   "end": 608.24,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Just- transform, damn you."
+  },
+  {
+   "i": 273,
+   "start": 608.32,
+   "end": 613.34,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "We're going to have a penthouse suite, and he'll drive a Corvette, and we'll make love every single--"
+  },
+  {
+   "i": 274,
+   "start": 614.04,
+   "end": 615.3,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "KILL IT WITH FIRE!"
+  },
+  {
+   "i": 275,
+   "start": 615.64,
+   "end": 618.32,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "You've made a huge mistake, Vegeta."
+  },
+  {
+   "i": 276,
+   "start": 618.6,
+   "end": 620.46,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Now prepare to die!"
+  },
+  {
+   "i": 277,
+   "start": 620.64,
+   "end": 622.08,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "ROOAARRGH!"
+  },
+  {
+   "i": 278,
+   "start": 622.4,
+   "end": 623.0,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "RRAGH...!"
+  },
+  {
+   "i": 279,
+   "start": 623.5,
+   "end": 624.22,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "UUGH...!"
+  },
+  {
+   "i": 280,
+   "start": 624.22,
+   "end": 627.92,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "What was that? I couldn't hear you over that hole I made in your STOMACH."
+  },
+  {
+   "i": 281,
+   "start": 628.24,
+   "end": 628.74,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "But..."
+  },
+  {
+   "i": 282,
+   "start": 629.02,
+   "end": 630.08,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Vegeta..."
+  },
+  {
+   "i": 283,
+   "start": 630.36,
+   "end": 631.02,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Please..."
+  },
+  {
+   "i": 284,
+   "start": 631.78,
+   "end": 633.78,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Just ... give me a chance."
+  },
+  {
+   "i": 285,
+   "start": 634.1,
+   "end": 636.74,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "We ... could ... work ...... together--"
+  },
+  {
+   "i": 286,
+   "start": 636.74,
+   "end": 638.52,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Yeah, yeah, I've heard that bit already."
+  },
+  {
+   "i": 287,
+   "start": 638.8,
+   "end": 640.94,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Now, let me put this in a way you'll understand."
+  },
+  {
+   "i": 288,
+   "start": 641.56,
+   "end": 645.06,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I'm about to blow my load all over your insides."
+  },
+  {
+   "i": 289,
+   "start": 645.9,
+   "end": 647.02,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "...WHAT, THE--"
+  },
+  {
+   "i": 290,
+   "start": 647.02,
+   "end": 647.72,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "No homo."
+  },
+  {
+   "i": 291,
+   "start": 648.1,
+   "end": 651.76,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "AAAAAAAARRaaaaaaaugh...!"
+  },
+  {
+   "i": 292,
+   "start": 655.68,
+   "end": 657.46,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "...Freaky Alien Genotype..."
+  },
+  {
+   "i": 293,
+   "start": 657.92,
+   "end": 661.5,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ Closing theme (DBZ intermission) ♫"
+  },
+  {
+   "i": 294,
+   "start": 666.38,
+   "end": 667.26,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Guru, sir."
+  },
+  {
+   "i": 295,
+   "start": 667.42,
+   "end": 668.7,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "I have a question."
+  },
+  {
+   "i": 296,
+   "start": 668.98,
+   "end": 670.52,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "Ask away."
+  },
+  {
+   "i": 297,
+   "start": 670.68,
+   "end": 672.36,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "You've been around for so long."
+  },
+  {
+   "i": 298,
+   "start": 672.66,
+   "end": 674.02,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Just how old are you?"
+  },
+  {
+   "i": 299,
+   "start": 674.32,
+   "end": 676.02,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "I am this many."
+  },
+  {
+   "i": 300,
+   "start": 677.3,
+   "end": 678.68,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "...You didn't raise your hand."
+  },
+  {
+   "i": 301,
+   "start": 678.68,
+   "end": 681.98,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "That's how OLD I AAAAAAAMMMMM!"
+  },
+  {
+   "i": 302,
+   "start": 684.22,
+   "end": 685.68,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "KILL IT WITH FIRE!"
+  }
+ ],
+ "segments": [
+  {
+   "start": 98.0,
+   "end": 121.0,
+   "title": "Absorb the Healing Juices",
+   "quote": "Why isn't he naked? ... You know, to... absorb all the healing juices. / Freaks me the f*ck out.",
+   "line_start": 29,
+   "line_end": 37
+  },
+  {
+   "start": 122.0,
+   "end": 141.0,
+   "title": "Ghost Nappa: Have Fun With That",
+   "quote": "YOU are now thinking about what Zarbon did to you... while you were unconscious. Have fun with that... that... that...",
+   "line_start": 38,
+   "line_end": 48
+  },
+  {
+   "start": 166.7,
+   "end": 194.0,
+   "title": "The Space Skype Call",
+   "quote": "Well, I need to call my girlfriend. / ...Ginyu, I'll call you back. Come again?",
+   "line_start": 58,
+   "line_end": 67
+  },
+  {
+   "start": 216.9,
+   "end": 238.5,
+   "title": "YOU LEFT APOOL HERE?!",
+   "quote": "Zarbon ... who did you leave guarding him? APOOL?! YOU LEFT APOOL HERE?!",
+   "line_start": 80,
+   "line_end": 90
+  },
+  {
+   "start": 241.4,
+   "end": 260.5,
+   "title": "Enemies Closer",
+   "quote": "'Keep your friends close ... and your enemies closer.' / Ah, f*ck it.",
+   "line_start": 91,
+   "line_end": 97
+  },
+  {
+   "start": 266.3,
+   "end": 283.0,
+   "title": "Quick, Grab My Balls!",
+   "quote": "I'm coming, Zarbon! Quick, grab my Balls!",
+   "line_start": 99,
+   "line_end": 105
+  },
+  {
+   "start": 285.1,
+   "end": 306.8,
+   "title": "A Lovely Bunch of Dragon Balls",
+   "quote": "♫ I've got a lovely bunch of Dragon Balls ♫",
+   "line_start": 106,
+   "line_end": 117
+  },
+  {
+   "start": 306.9,
+   "end": 325.5,
+   "title": "Dear Fr̶i̶eeza (Picture of a Butt)",
+   "quote": "It just says \"Dear Fr ̶i̶eeza\", and it's a picture of a butt. / Can I see it, Lord Freeza?",
+   "line_start": 118,
+   "line_end": 125
+  },
+  {
+   "start": 412.9,
+   "end": 441.5,
+   "title": "DAMMIT, TAKEI!",
+   "quote": "Click! Brrrrrrrr... / He hung up on me! / Oh, myyy~ / DAMMIT, TAKEI!",
+   "line_start": 167,
+   "line_end": 189
+  },
+  {
+   "start": 455.2,
+   "end": 483.5,
+   "title": "Fly Around Like a Jackass, Saying",
+   "quote": "I've got a Dragon Ball! / I was gonna say, \"Come and get me, Freeza\" But that works, too!",
+   "line_start": 196,
+   "line_end": 205
+  },
+  {
+   "start": 636.3,
+   "end": 657.9,
+   "title": "No Homo",
+   "quote": "I'm about to blow my load all over your insides. / ...WHAT, THE-- / No homo. / ...Freaky Alien Genotype...",
+   "line_start": 286,
+   "line_end": 292
+  },
+  {
+   "start": 665.9,
+   "end": 684.0,
+   "title": "I Am This Many",
+   "quote": "I am this many. / ...You didn't raise your hand. / That's how OLD I AAAAAAAMMMMM!",
+   "line_start": 294,
+   "line_end": 301
+  }
+ ]
+}

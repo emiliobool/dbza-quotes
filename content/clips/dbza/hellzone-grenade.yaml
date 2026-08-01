@@ -1,0 +1,16 @@
+id: hellzone-grenade
+show: dbza
+media: e51
+start: 225.9
+end: 253.34
+title: HELLZONE GRENADE!
+quote: HELLZONE GRENADE
+speaker: Piccolo
+tags:
+- piccolo
+status: published
+source: https://reddit.com/r/TeamFourStar/comments/xbii77/
+signal: 111
+recurrence: 5
+added: '2026-08-01'
+by: reddit-pipeline

@@ -1,0 +1,2131 @@
+{
+ "item": "m07",
+ "show": "dbza",
+ "youtube": "m0JME7eodTk",
+ "title": "DragonBall Z Abridged SPECIAL: Episode of Bardock",
+ "duration": 777,
+ "lines": [
+  {
+   "i": 0,
+   "start": 15.14,
+   "end": 22.1,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "A familiar scene plays before you: A lone renegade stands at the precipice of global annihilation..."
+  },
+  {
+   "i": 1,
+   "start": 22.32,
+   "end": 25.48,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "The grim punctuation to his warrior race."
+  },
+  {
+   "i": 2,
+   "start": 25.92,
+   "end": 33.26,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "You know, the funny thing is, *Bardock*, even if you had seen this coming, there's nothing you could have done about it."
+  },
+  {
+   "i": 3,
+   "start": 33.48,
+   "end": 36.28,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "You don't... You have no goddamned idea."
+  },
+  {
+   "i": 4,
+   "start": 36.6,
+   "end": 41.4,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Mmm, and even if you told every single Saiyan, none of them would have even believed you."
+  },
+  {
+   "i": 5,
+   "start": 41.4,
+   "end": 43.52,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Just... please stop talking."
+  },
+  {
+   "i": 6,
+   "start": 43.52,
+   "end": 48.06,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "And you never even got a chance to say goodbye to your son."
+  },
+  {
+   "i": 7,
+   "start": 48.06,
+   "end": 49.26,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'I have one of those?'"
+  },
+  {
+   "i": 8,
+   "start": 49.26,
+   "end": 51.14,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "(Gasp) 'Oh God, I have two of those!'"
+  },
+  {
+   "i": 9,
+   "start": 51.14,
+   "end": 54.94,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Consider this downsizing on a global scale!"
+  },
+  {
+   "i": 10,
+   "start": 55.18,
+   "end": 57.46,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "You can pickup your unemployment checks wherever you end up."
+  },
+  {
+   "i": 11,
+   "start": 57.54,
+   "end": 59.26,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "GO TO HELL!"
+  },
+  {
+   "i": 12,
+   "start": 59.28,
+   "end": 61.46,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "See, that was my first guess."
+  },
+  {
+   "i": 13,
+   "start": 64.1,
+   "end": 65.92,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Mooks yell in terror"
+  },
+  {
+   "i": 14,
+   "start": 64.1,
+   "end": 65.92,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Ah, crapbaskets."
+  },
+  {
+   "i": 15,
+   "start": 66.84,
+   "end": 77.5,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "And so, with a macabre flash of blinding light, the howling laughter of a blood-parched tyrant echoing through his mind, so ends the tragic fate of Bardock."
+  },
+  {
+   "i": 16,
+   "start": 79.12,
+   "end": 84.24,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "...Or so you'd think, if you didn't know a thing about merchandising!"
+  },
+  {
+   "i": 17,
+   "start": 84.42,
+   "end": 85.06,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "Hit it!"
+  },
+  {
+   "i": 18,
+   "start": 85.68,
+   "end": 90.04,
+   "kind": "direction",
+   "speaker": null,
+   "text": "\"Time Warp (Rocky Horror Picture Show)\""
+  },
+  {
+   "i": 19,
+   "start": 85.68,
+   "end": 90.04,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "♫ Let's do the Time Warp again ♫"
+  },
+  {
+   "i": 20,
+   "start": 90.04,
+   "end": 90.54,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Ah!"
+  },
+  {
+   "i": 21,
+   "start": 93.26,
+   "end": 94.32,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'Am I in a bed?'"
+  },
+  {
+   "i": 22,
+   "start": 94.94,
+   "end": 96.42,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'Does Hell have beds?'"
+  },
+  {
+   "i": 23,
+   "start": 96.74,
+   "end": 98.54,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'You'd think they'd have beds of spikes...'"
+  },
+  {
+   "i": 24,
+   "start": 98.94,
+   "end": 100.28,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'or spiders...'"
+  },
+  {
+   "i": 25,
+   "start": 100.58,
+   "end": 102.82,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'or spiky spiders...'"
+  },
+  {
+   "i": 26,
+   "start": 103.24,
+   "end": 104.86,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'Spikers.'"
+  },
+  {
+   "i": 27,
+   "start": 105.78,
+   "end": 108.04,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'Wait... this looks like Planet Vegeta.'"
+  },
+  {
+   "i": 28,
+   "start": 108.58,
+   "end": 111.02,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'Only... even shittier...'"
+  },
+  {
+   "i": 29,
+   "start": 111.52,
+   "end": 115.58,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'...which is and isn't weird, considering the last time I saw it, it was blowing up.'"
+  },
+  {
+   "i": 30,
+   "start": 115.58,
+   "end": 116.4,
+   "kind": "dialog",
+   "speaker": "Dr. Dray",
+   "text": "Hi-ho!"
+  },
+  {
+   "i": 31,
+   "start": 115.58,
+   "end": 116.4,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Ugh!"
+  },
+  {
+   "i": 32,
+   "start": 116.68,
+   "end": 120.36,
+   "kind": "dialog",
+   "speaker": "Dr. Dray",
+   "text": "We found you unconscious and near-death in a valley not too far from here."
+  },
+  {
+   "i": 33,
+   "start": 120.58,
+   "end": 123.84,
+   "kind": "dialog",
+   "speaker": "Dr. Dray",
+   "text": "We helped bring you back to health with our magical, healing S.P.U.G. (\"spooge\")."
+  },
+  {
+   "i": 34,
+   "start": 123.84,
+   "end": 124.34,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Ugh!"
+  },
+  {
+   "i": 35,
+   "start": 124.34,
+   "end": 126.18,
+   "kind": "dialog",
+   "speaker": "Dr. Dray",
+   "text": "Super Polymorphic Unleashing Gel."
+  },
+  {
+   "i": 36,
+   "start": 126.44,
+   "end": 129.46,
+   "kind": "dialog",
+   "speaker": "Dr. Dray",
+   "text": "We brought you to our town in our pleasant, serene, little planet."
+  },
+  {
+   "i": 37,
+   "start": 129.66,
+   "end": 133.42,
+   "kind": "dialog",
+   "speaker": "Dr. Dray",
+   "text": "My name is Dray. And this is my child, Twopock. Say hi-ho, Twopock."
+  },
+  {
+   "i": 38,
+   "start": 133.42,
+   "end": 134.04,
+   "kind": "dialog",
+   "speaker": "Twopock",
+   "text": "Hi-ho!"
+  },
+  {
+   "i": 39,
+   "start": 134.04,
+   "end": 134.54,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Ugh!"
+  },
+  {
+   "i": 40,
+   "start": 134.6,
+   "end": 135.7,
+   "kind": "dialog",
+   "speaker": "Twopock",
+   "text": "Where are you from?"
+  },
+  {
+   "i": 41,
+   "start": 136.32,
+   "end": 141.84,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "There is nothing about this whole scenario that doesn't make me so disgusted I want to violently vomit out my own internal organs."
+  },
+  {
+   "i": 42,
+   "start": 142.0,
+   "end": 148.24,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "I despise you both so intensely, that I can't tell if my vision is blurry from my near-death experience or from my unforgiving rage."
+  },
+  {
+   "i": 43,
+   "start": 148.28,
+   "end": 156.68,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "If allowed, once I am back to full health, I will gut you with an honest to God smile on my face, and then proceed to paint the home I built with your bodies with your very blood."
+  },
+  {
+   "i": 44,
+   "start": 158.0,
+   "end": 159.9,
+   "kind": "dialog",
+   "speaker": "Dr. Dray",
+   "text": "You hear that, Twopock? You made a friend."
+  },
+  {
+   "i": 45,
+   "start": 159.9,
+   "end": 161.04,
+   "kind": "dialog",
+   "speaker": "Twopock",
+   "text": "YEAAAAAAAAAAA--!"
+  },
+  {
+   "i": 46,
+   "start": 162.7,
+   "end": 164.3,
+   "kind": "dialog",
+   "speaker": "Dr. Dray",
+   "text": "That came from my village!"
+  },
+  {
+   "i": 47,
+   "start": 166.32,
+   "end": 170.14,
+   "kind": "direction",
+   "speaker": null,
+   "text": "screaming"
+  },
+  {
+   "i": 48,
+   "start": 170.14,
+   "end": 172.72,
+   "kind": "dialog",
+   "speaker": "Toobi",
+   "text": "Hello there, inhabitants of Planet Plant!"
+  },
+  {
+   "i": 49,
+   "start": 172.86,
+   "end": 177.32,
+   "kind": "dialog",
+   "speaker": "Toobi",
+   "text": "We are here on a diplomatic mission on behalf of your new Emperor, Lord Chilled."
+  },
+  {
+   "i": 50,
+   "start": 177.56,
+   "end": 182.44,
+   "kind": "dialog",
+   "speaker": "Toobi",
+   "text": "Pamphlets will be passed around to introduce you to your new, exciting lives as slaves to his Almighty Horniness."
+  },
+  {
+   "i": 51,
+   "start": 182.72,
+   "end": 186.92,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Really? This is how you intimidate a village? Blow up a house or two?"
+  },
+  {
+   "i": 52,
+   "start": 186.92,
+   "end": 189.04,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "I don't even think you killed anyone with those peashooters."
+  },
+  {
+   "i": 53,
+   "start": 189.26,
+   "end": 192.12,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Speaking of which - what models are those? They look ancient."
+  },
+  {
+   "i": 54,
+   "start": 192.12,
+   "end": 195.22,
+   "kind": "dialog",
+   "speaker": "Kayabira",
+   "text": "Hey, we were gonna kill one of the sick ones if they didn't comply."
+  },
+  {
+   "i": 55,
+   "start": 195.22,
+   "end": 197.44,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Oh, kill one of the *sick* ones."
+  },
+  {
+   "i": 56,
+   "start": 197.64,
+   "end": 199.88,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "What are you gonna do next? Waterboard the elderly?"
+  },
+  {
+   "i": 57,
+   "start": 199.88,
+   "end": 201.84,
+   "kind": "dialog",
+   "speaker": "Kayabira",
+   "text": "Look, buddy, we didn't come here to be judged by you."
+  },
+  {
+   "i": 58,
+   "start": 202.78,
+   "end": 204.02,
+   "kind": "dialog",
+   "speaker": "Kayabira",
+   "text": "Ugh-haa...!"
+  },
+  {
+   "i": 59,
+   "start": 204.1,
+   "end": 204.6,
+   "kind": "dialog",
+   "speaker": "Toobi",
+   "text": "Holy--"
+  },
+  {
+   "i": 60,
+   "start": 208.44,
+   "end": 209.96,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Pffff. Amateurs."
+  },
+  {
+   "i": 61,
+   "start": 210.5,
+   "end": 214.6,
+   "kind": "dialog",
+   "speaker": "Villager",
+   "text": "Hooray! Everyone give praise to our new Violent Savior!"
+  },
+  {
+   "i": 62,
+   "start": 210.5,
+   "end": 214.6,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Villagers sing \"Welcome Christmas\""
+  },
+  {
+   "i": 63,
+   "start": 214.6,
+   "end": 218.78,
+   "kind": "dialog",
+   "speaker": "Villager",
+   "text": "♫ Bahoo dores ♫"
+  },
+  {
+   "i": 64,
+   "start": 218.98,
+   "end": 219.48,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "NO!"
+  },
+  {
+   "i": 65,
+   "start": 220.42,
+   "end": 221.3,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "None of that!"
+  },
+  {
+   "i": 66,
+   "start": 222.02,
+   "end": 223.56,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Shame on you!"
+  },
+  {
+   "i": 67,
+   "start": 232.04,
+   "end": 236.86,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Who needs villagers with their soft beds and S.P.U.G.? Rocks are soft enough to sleep on, right?"
+  },
+  {
+   "i": 68,
+   "start": 239.92,
+   "end": 241.38,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "...I've made a terrible mistake."
+  },
+  {
+   "i": 69,
+   "start": 245.0,
+   "end": 248.64,
+   "kind": "dialog",
+   "speaker": "Soldier",
+   "text": "Lord Chilled! The vital sensors in the blasters of the two scouts you just sent-"
+  },
+  {
+   "i": 70,
+   "start": 248.64,
+   "end": 251.44,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "Shhshhshhshhshhshhshhshhshhshhshhshhshh..."
+  },
+  {
+   "i": 71,
+   "start": 254.64,
+   "end": 255.5,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "Continue."
+  },
+  {
+   "i": 72,
+   "start": 255.96,
+   "end": 259.08,
+   "kind": "dialog",
+   "speaker": "Soldier",
+   "text": "- have ceased transmission. We believe they're dead!"
+  },
+  {
+   "i": 73,
+   "start": 259.08,
+   "end": 261.48,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "(gasp) ♪ OUTRAGEOUS! ♪"
+  },
+  {
+   "i": 74,
+   "start": 261.76,
+   "end": 268.16,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "In honor of their deaths, my men shall now, and forevermore, be given the names of fruits!"
+  },
+  {
+   "i": 75,
+   "start": 268.4,
+   "end": 271.62,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "Pineapple! Bring us to Planet Plant!"
+  },
+  {
+   "i": 76,
+   "start": 273.3,
+   "end": 274.68,
+   "kind": "dialog",
+   "speaker": "Pineapple",
+   "text": "...So am I \"Pineapple\"?"
+  },
+  {
+   "i": 77,
+   "start": 274.68,
+   "end": 276.34,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "♪ YES! ♪"
+  },
+  {
+   "i": 78,
+   "start": 282.34,
+   "end": 284.6,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'Alright, I think I might've figured this out.'"
+  },
+  {
+   "i": 79,
+   "start": 284.78,
+   "end": 287.06,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'This looks like a younger Planet Vegeta...'"
+  },
+  {
+   "i": 80,
+   "start": 287.18,
+   "end": 289.66,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'Those two guys were using older models...'"
+  },
+  {
+   "i": 81,
+   "start": 290.0,
+   "end": 291.02,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'Maybe...'"
+  },
+  {
+   "i": 82,
+   "start": 291.34,
+   "end": 292.16,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'This is the--'"
+  },
+  {
+   "i": 83,
+   "start": 292.16,
+   "end": 292.7,
+   "kind": "dialog",
+   "speaker": "Twopock",
+   "text": "Hi-ho!"
+  },
+  {
+   "i": 84,
+   "start": 292.7,
+   "end": 294.1,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Annnd, I lost my train of thought."
+  },
+  {
+   "i": 85,
+   "start": 294.32,
+   "end": 297.38,
+   "kind": "dialog",
+   "speaker": "Twopock",
+   "text": "Hello, Violent Savior. I have brought you bread and fruit."
+  },
+  {
+   "i": 86,
+   "start": 297.38,
+   "end": 299.24,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "I don't want your bread, or your fruit!"
+  },
+  {
+   "i": 87,
+   "start": 299.7,
+   "end": 300.98,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "But leave the basket!"
+  },
+  {
+   "i": 88,
+   "start": 301.16,
+   "end": 302.06,
+   "kind": "dialog",
+   "speaker": "Twopock",
+   "text": "But, Violent Savior--"
+  },
+  {
+   "i": 89,
+   "start": 302.06,
+   "end": 302.86,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "LEAVE THE BASKET!"
+  },
+  {
+   "i": 90,
+   "start": 302.86,
+   "end": 308.26,
+   "kind": "dialog",
+   "speaker": "Twopock",
+   "text": "(crying)"
+  },
+  {
+   "i": 91,
+   "start": 305.74,
+   "end": 308.26,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'I swear to God, I'm gonna eat his entire race...'"
+  },
+  {
+   "i": 92,
+   "start": 315.06,
+   "end": 316.66,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'Damn it, I filled up on bread!'"
+  },
+  {
+   "i": 93,
+   "start": 321.04,
+   "end": 324.78,
+   "kind": "dialog",
+   "speaker": "Twopock",
+   "text": "Here you are, Violent Savior. I have brought you more food that you detest."
+  },
+  {
+   "i": 94,
+   "start": 324.88,
+   "end": 329.24,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Seriously kid, if you don't start bringing me meat, I am literally gonna shit bricks."
+  },
+  {
+   "i": 95,
+   "start": 330.76,
+   "end": 332.14,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "THAT IS A ROCK!"
+  },
+  {
+   "i": 96,
+   "start": 334.82,
+   "end": 338.24,
+   "kind": "dialog",
+   "speaker": "Rizza",
+   "text": "Thank you, Dr. Dray. Your S.P.U.G. has cured my syphilis."
+  },
+  {
+   "i": 97,
+   "start": 338.24,
+   "end": 339.54,
+   "kind": "dialog",
+   "speaker": "Dr. Dray",
+   "text": "You are welcome, Rizza."
+  },
+  {
+   "i": 98,
+   "start": 339.54,
+   "end": 341.46,
+   "kind": "dialog",
+   "speaker": "Rizza",
+   "text": "Well, back to what I was doing before."
+  },
+  {
+   "i": 99,
+   "start": 341.46,
+   "end": 343.36,
+   "kind": "dialog",
+   "speaker": "Dr. Dray",
+   "text": "Oh, you are just incorrigible."
+  },
+  {
+   "i": 100,
+   "start": 347.78,
+   "end": 350.14,
+   "kind": "dialog",
+   "speaker": "Papaya",
+   "text": "Hello. We are the Space Police."
+  },
+  {
+   "i": 101,
+   "start": 350.14,
+   "end": 351.44,
+   "kind": "dialog",
+   "speaker": "Aice Cube",
+   "text": "Man, f*** da police!"
+  },
+  {
+   "i": 102,
+   "start": 351.44,
+   "end": 352.68,
+   "kind": "dialog",
+   "speaker": "Dr. Dray",
+   "text": "Not now, Aice Cube!"
+  },
+  {
+   "i": 103,
+   "start": 352.84,
+   "end": 357.14,
+   "kind": "dialog",
+   "speaker": "Papaya",
+   "text": "We are here to catch evil space criminals and various other ne'er-do-wells."
+  },
+  {
+   "i": 104,
+   "start": 357.14,
+   "end": 360.88,
+   "kind": "dialog",
+   "speaker": "Dr. Dray",
+   "text": "I can assure you that we have already exiled Chris of the Clan Brown from our planet."
+  },
+  {
+   "i": 105,
+   "start": 361.06,
+   "end": 366.24,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "We are looking for the man who assassinated two emissaries from the Frost planet!"
+  },
+  {
+   "i": 106,
+   "start": 366.24,
+   "end": 367.64,
+   "kind": "dialog",
+   "speaker": "Dr. Dray",
+   "text": "You mean the Violent Savior?"
+  },
+  {
+   "i": 107,
+   "start": 367.64,
+   "end": 369.88,
+   "kind": "dialog",
+   "speaker": "Villager",
+   "text": "All hail the Violent Savior!"
+  },
+  {
+   "i": 108,
+   "start": 369.94,
+   "end": 371.98,
+   "kind": "dialog",
+   "speaker": "Villagers",
+   "text": "♫ Bahoo dores ♫"
+  },
+  {
+   "i": 109,
+   "start": 371.98,
+   "end": 372.5,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "NO!"
+  },
+  {
+   "i": 110,
+   "start": 372.9,
+   "end": 373.96,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "None of that!"
+  },
+  {
+   "i": 111,
+   "start": 374.36,
+   "end": 375.84,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "Shame on you!"
+  },
+  {
+   "i": 112,
+   "start": 376.18,
+   "end": 379.9,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "I wish to meet this man so that I may reward him!"
+  },
+  {
+   "i": 113,
+   "start": 379.9,
+   "end": 381.62,
+   "kind": "dialog",
+   "speaker": "Dr. Dray",
+   "text": "I thought you said you wanted to arrest him."
+  },
+  {
+   "i": 114,
+   "start": 381.62,
+   "end": 383.08,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "I CHANGE MY MIND A LOT!"
+  },
+  {
+   "i": 115,
+   "start": 384.48,
+   "end": 385.16,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "Execute them."
+  },
+  {
+   "i": 116,
+   "start": 385.18,
+   "end": 387.18,
+   "kind": "direction",
+   "speaker": null,
+   "text": "villagers screaming"
+  },
+  {
+   "i": 117,
+   "start": 388.22,
+   "end": 389.88,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Sweet. Back to 100%."
+  },
+  {
+   "i": 118,
+   "start": 390.22,
+   "end": 393.54,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "I'd go out and eat that whole village right now if I hadn't already filled up on rocks."
+  },
+  {
+   "i": 119,
+   "start": 393.72,
+   "end": 396.4,
+   "kind": "dialog",
+   "speaker": "Twopock",
+   "text": "Violent Savior! My village needs you!"
+  },
+  {
+   "i": 120,
+   "start": 396.4,
+   "end": 398.36,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Ah, Space Christ. What now?"
+  },
+  {
+   "i": 121,
+   "start": 398.36,
+   "end": 401.32,
+   "kind": "dialog",
+   "speaker": "Twopock",
+   "text": "Our people are under assault by villians from another planet!"
+  },
+  {
+   "i": 122,
+   "start": 401.42,
+   "end": 403.18,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Why is this place so popular?"
+  },
+  {
+   "i": 123,
+   "start": 403.4,
+   "end": 407.8,
+   "kind": "dialog",
+   "speaker": "Twopock",
+   "text": "You don't understand! This could be the extinction of the entire Saiyan race!"
+  },
+  {
+   "i": 124,
+   "start": 409.02,
+   "end": 409.6,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "...What?"
+  },
+  {
+   "i": 125,
+   "start": 409.78,
+   "end": 411.52,
+   "kind": "dialog",
+   "speaker": "Twopock",
+   "text": "My people, the Saiyans!"
+  },
+  {
+   "i": 126,
+   "start": 411.68,
+   "end": 412.6,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Oh, no...!"
+  },
+  {
+   "i": 127,
+   "start": 413.12,
+   "end": 418.88,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "But if you're Saiyans, and those old-ass-looking blasters, and this looks like Planet Veget--!"
+  },
+  {
+   "i": 128,
+   "start": 420.3,
+   "end": 421.88,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "DAMN IT! THERE IT GOES AGAIN!"
+  },
+  {
+   "i": 129,
+   "start": 421.88,
+   "end": 423.0,
+   "kind": "dialog",
+   "speaker": "Twopock",
+   "text": "Aah-ah!"
+  },
+  {
+   "i": 130,
+   "start": 421.88,
+   "end": 423.0,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Hell with this!"
+  },
+  {
+   "i": 131,
+   "start": 426.1,
+   "end": 427.72,
+   "kind": "dialog",
+   "speaker": "Twopock",
+   "text": "I am now bearing your child."
+  },
+  {
+   "i": 132,
+   "start": 429.22,
+   "end": 430.4,
+   "kind": "dialog",
+   "speaker": "Twopock",
+   "text": "YAAAAAAAA--!"
+  },
+  {
+   "i": 133,
+   "start": 431.02,
+   "end": 433.76,
+   "kind": "direction",
+   "speaker": null,
+   "text": "villagers screaming"
+  },
+  {
+   "i": 134,
+   "start": 431.02,
+   "end": 433.76,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "That's right! Continue to blow up the houses!"
+  },
+  {
+   "i": 135,
+   "start": 434.1,
+   "end": 437.68,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "We will avenge my men and take control of this planet!"
+  },
+  {
+   "i": 136,
+   "start": 438.1,
+   "end": 439.68,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "Also, we want your healing medicine."
+  },
+  {
+   "i": 137,
+   "start": 439.76,
+   "end": 441.38,
+   "kind": "dialog",
+   "speaker": "Dr. Dray",
+   "text": "How did you hear about our S.P.U.G.?"
+  },
+  {
+   "i": 138,
+   "start": 441.38,
+   "end": 442.68,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "Because of Raisins!"
+  },
+  {
+   "i": 139,
+   "start": 443.38,
+   "end": 444.82,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "...Raisin is my intel guy."
+  },
+  {
+   "i": 140,
+   "start": 445.0,
+   "end": 448.0,
+   "kind": "dialog",
+   "speaker": "Papaya",
+   "text": "Now give us your S.P.U.G. or we'll beat it out of ya!"
+  },
+  {
+   "i": 141,
+   "start": 448.14,
+   "end": 450.14,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "And I'll record the whole thing!"
+  },
+  {
+   "i": 142,
+   "start": 450.24,
+   "end": 451.06,
+   "kind": "dialog",
+   "speaker": "Dr. Dray",
+   "text": "(Whimpering)"
+  },
+  {
+   "i": 143,
+   "start": 452.84,
+   "end": 454.18,
+   "kind": "dialog",
+   "speaker": "Papaya",
+   "text": "(Choking / gurgling)"
+  },
+  {
+   "i": 144,
+   "start": 453.68,
+   "end": 454.18,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "SQUELCH"
+  },
+  {
+   "i": 145,
+   "start": 454.44,
+   "end": 457.26,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Now, I'm sorry I had to step in, but that was just getting obscene."
+  },
+  {
+   "i": 146,
+   "start": 457.64,
+   "end": 461.14,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "So, you must be the one who killed my men."
+  },
+  {
+   "i": 147,
+   "start": 461.3,
+   "end": 462.06,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'Freeza?'"
+  },
+  {
+   "i": 148,
+   "start": 462.64,
+   "end": 463.34,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'Freeza?!'"
+  },
+  {
+   "i": 149,
+   "start": 463.7,
+   "end": 464.64,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "FREEZA!"
+  },
+  {
+   "i": 150,
+   "start": 464.64,
+   "end": 465.26,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "Ah-hu!"
+  },
+  {
+   "i": 151,
+   "start": 465.56,
+   "end": 466.14,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "Hurrgh!"
+  },
+  {
+   "i": 152,
+   "start": 466.58,
+   "end": 467.08,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Urgh!"
+  },
+  {
+   "i": 153,
+   "start": 470.44,
+   "end": 474.2,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "You wish to wrestle with the grrrreat LORD CHILLED!?"
+  },
+  {
+   "i": 154,
+   "start": 474.36,
+   "end": 476.74,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "Yet you have not brought your own LEOTARD?!"
+  },
+  {
+   "i": 155,
+   "start": 476.74,
+   "end": 478.04,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Urrgh!"
+  },
+  {
+   "i": 156,
+   "start": 476.74,
+   "end": 478.04,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "Worthless whelp!"
+  },
+  {
+   "i": 157,
+   "start": 478.38,
+   "end": 481.68,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "You make a mockery of Wrestle Wednesdays!"
+  },
+  {
+   "i": 158,
+   "start": 482.1,
+   "end": 486.22,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "You see, they both start with \"W\"s. It's alliteration!"
+  },
+  {
+   "i": 159,
+   "start": 486.22,
+   "end": 488.38,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Freeza!"
+  },
+  {
+   "i": 160,
+   "start": 488.76,
+   "end": 489.84,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "(muffled yelling)"
+  },
+  {
+   "i": 161,
+   "start": 489.94,
+   "end": 495.54,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "I don't know who this \"Freeza\" is, but he sounds like a classy lady!"
+  },
+  {
+   "i": 162,
+   "start": 495.54,
+   "end": 496.62,
+   "kind": "dialog",
+   "speaker": "Dr. Dray",
+   "text": "Release our Violent Savi--"
+  },
+  {
+   "i": 163,
+   "start": 496.62,
+   "end": 497.56,
+   "kind": "dialog",
+   "speaker": "Dr. Dray",
+   "text": "OH GOD!"
+  },
+  {
+   "i": 164,
+   "start": 498.08,
+   "end": 502.48,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "These people seem to have a sincere affection for you. What is your secret?"
+  },
+  {
+   "i": 165,
+   "start": 502.48,
+   "end": 505.08,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Maybe because I don't look like a giant purple and orange tampon--"
+  },
+  {
+   "i": 166,
+   "start": 505.08,
+   "end": 505.94,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "I have lost interest!"
+  },
+  {
+   "i": 167,
+   "start": 508.56,
+   "end": 511.96,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "And now... ♪♫ YOOOUU DIIIIIIIIIEEE ♫♪"
+  },
+  {
+   "i": 168,
+   "start": 511.96,
+   "end": 514.62,
+   "kind": "dialog",
+   "speaker": "Twopock",
+   "text": "I must protect the father of my unborn child!"
+  },
+  {
+   "i": 169,
+   "start": 514.78,
+   "end": 516.7,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "Congrrrratulations..."
+  },
+  {
+   "i": 170,
+   "start": 516.7,
+   "end": 517.74,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "it's a corpse!"
+  },
+  {
+   "i": 171,
+   "start": 519.06,
+   "end": 519.56,
+   "kind": "dialog",
+   "speaker": "Twopock",
+   "text": "Ow!"
+  },
+  {
+   "i": 172,
+   "start": 519.56,
+   "end": 520.06,
+   "kind": "dialog",
+   "speaker": "Twopock",
+   "text": "Oww!"
+  },
+  {
+   "i": 173,
+   "start": 520.78,
+   "end": 521.28,
+   "kind": "dialog",
+   "speaker": "Twopock",
+   "text": "OW!"
+  },
+  {
+   "i": 174,
+   "start": 521.94,
+   "end": 522.44,
+   "kind": "dialog",
+   "speaker": "Twopock",
+   "text": "Ow."
+  },
+  {
+   "i": 175,
+   "start": 524.14,
+   "end": 525.0,
+   "kind": "dialog",
+   "speaker": "Twopock",
+   "text": "...oowww."
+  },
+  {
+   "i": 176,
+   "start": 525.0,
+   "end": 526.06,
+   "kind": "dialog",
+   "speaker": "Dr. Dray",
+   "text": "No! Twopock!"
+  },
+  {
+   "i": 177,
+   "start": 526.48,
+   "end": 528.7,
+   "kind": "dialog",
+   "speaker": "Dr. Dray",
+   "text": "Damn you... big, small guy!"
+  },
+  {
+   "i": 178,
+   "start": 528.82,
+   "end": 531.78,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "And now - to finish off the *Saiyan race*!"
+  },
+  {
+   "i": 179,
+   "start": 532.14,
+   "end": 534.64,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'Wait, hold on... now I remember what I was thinking about...'"
+  },
+  {
+   "i": 180,
+   "start": 535.18,
+   "end": 536.42,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'They call themselves Saiyans...'"
+  },
+  {
+   "i": 181,
+   "start": 537.1,
+   "end": 538.52,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'And the friggin' blasters...'"
+  },
+  {
+   "i": 182,
+   "start": 538.88,
+   "end": 540.12,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'And Planet Vegeta...!'"
+  },
+  {
+   "i": 183,
+   "start": 540.4,
+   "end": 541.64,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'And his name is Chilled...!'"
+  },
+  {
+   "i": 184,
+   "start": 541.88,
+   "end": 542.46,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'And...!'"
+  },
+  {
+   "i": 185,
+   "start": 543.22,
+   "end": 543.74,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "'ANND...!'"
+  },
+  {
+   "i": 186,
+   "start": 544.68,
+   "end": 547.18,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "HEY! You! What year is it?"
+  },
+  {
+   "i": 187,
+   "start": 547.36,
+   "end": 550.66,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "2222."
+  },
+  {
+   "i": 188,
+   "start": 550.66,
+   "end": 551.88,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "B.C.or A.D.?"
+  },
+  {
+   "i": 189,
+   "start": 551.88,
+   "end": 553.36,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "The hell are those?"
+  },
+  {
+   "i": 190,
+   "start": 553.66,
+   "end": 554.92,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "I'm in the f***ing past (!)"
+  },
+  {
+   "i": 191,
+   "start": 556.16,
+   "end": 558.22,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Of all the STUPID!"
+  },
+  {
+   "i": 192,
+   "start": 559.86,
+   "end": 560.88,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "ASININE!"
+  },
+  {
+   "i": 193,
+   "start": 562.16,
+   "end": 564.22,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "SHARK-JUMPING BULLSHIT!"
+  },
+  {
+   "i": 194,
+   "start": 566.8,
+   "end": 577.46,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Power-up yell"
+  },
+  {
+   "i": 195,
+   "start": 571.04,
+   "end": 571.76,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "What the?!"
+  },
+  {
+   "i": 196,
+   "start": 580.94,
+   "end": 584.16,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "Oh, I'm sorry; I only fight *natural* blondes."
+  },
+  {
+   "i": 197,
+   "start": 584.52,
+   "end": 587.46,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "I... am the Legendary Super Saiyan."
+  },
+  {
+   "i": 198,
+   "start": 587.72,
+   "end": 589.46,
+   "kind": "dialog",
+   "speaker": "Villager",
+   "text": "Yay! We're all Super Saiyans!"
+  },
+  {
+   "i": 199,
+   "start": 589.46,
+   "end": 590.62,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "I will eat you!"
+  },
+  {
+   "i": 200,
+   "start": 590.62,
+   "end": 592.18,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "♪ Aah-aa-aa-or-r-r-r-r-r-r! ♪"
+  },
+  {
+   "i": 201,
+   "start": 599.0,
+   "end": 605.3,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "And that, Ladies, Gentlemen and those of unspecified gender, is how you split a banan-"
+  },
+  {
+   "i": 202,
+   "start": 605.3,
+   "end": 606.12,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "-uuhhhh?!"
+  },
+  {
+   "i": 203,
+   "start": 610.52,
+   "end": 613.26,
+   "kind": "direction",
+   "speaker": null,
+   "text": "yelling"
+  },
+  {
+   "i": 204,
+   "start": 616.1,
+   "end": 617.68,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "...Please don't break my butt."
+  },
+  {
+   "i": 205,
+   "start": 617.68,
+   "end": 618.28,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "OK."
+  },
+  {
+   "i": 206,
+   "start": 618.46,
+   "end": 619.2,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "Truly?"
+  },
+  {
+   "i": 207,
+   "start": 619.4,
+   "end": 619.9,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "No."
+  },
+  {
+   "i": 208,
+   "start": 620.3,
+   "end": 623.1,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"Ode to Joy\" ♫"
+  },
+  {
+   "i": 209,
+   "start": 631.26,
+   "end": 635.42,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "You petulant, impudent, contemptuous whorrrrrre!"
+  },
+  {
+   "i": 210,
+   "start": 635.42,
+   "end": 636.4,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "You mad, bro?"
+  },
+  {
+   "i": 211,
+   "start": 636.4,
+   "end": 638.26,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "A little! Thank you for asking!"
+  },
+  {
+   "i": 212,
+   "start": 639.2,
+   "end": 641.26,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Then maybe you should CHILL!"
+  },
+  {
+   "i": 213,
+   "start": 642.02,
+   "end": 643.42,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "I'm always Chilled!"
+  },
+  {
+   "i": 214,
+   "start": 643.84,
+   "end": 645.8,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "...Ohhhh, I get it--"
+  },
+  {
+   "i": 215,
+   "start": 645.8,
+   "end": 650.3,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "Noo-oo-oo-oo-oo-oo-oo...!"
+  },
+  {
+   "i": 216,
+   "start": 655.2,
+   "end": 660.64,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "Beforrre I die... I have one... one more decree..."
+  },
+  {
+   "i": 217,
+   "start": 661.26,
+   "end": 669.1,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "All of our most... Elite Warriors... Must... learn... dance... choreography."
+  },
+  {
+   "i": 218,
+   "start": 669.96,
+   "end": 677.96,
+   "kind": "dialog",
+   "speaker": "Chilled",
+   "text": "Got to style... all over... our opponents... forrrce..."
+  },
+  {
+   "i": 219,
+   "start": 677.96,
+   "end": 679.96,
+   "kind": "direction",
+   "speaker": null,
+   "text": "ECG \"flatlines\""
+  },
+  {
+   "i": 220,
+   "start": 682.04,
+   "end": 683.28,
+   "kind": "dialog",
+   "speaker": "Pineapple",
+   "text": "Well, call it, Blueberry."
+  },
+  {
+   "i": 221,
+   "start": 683.5,
+   "end": 685.5,
+   "kind": "dialog",
+   "speaker": "Blueberry",
+   "text": "Do I still have to call myself Blueberry?"
+  },
+  {
+   "i": 222,
+   "start": 685.6,
+   "end": 687.08,
+   "kind": "dialog",
+   "speaker": "Raisin",
+   "text": "Well I'm gonna keep calling you Blueberry."
+  },
+  {
+   "i": 223,
+   "start": 687.12,
+   "end": 688.18,
+   "kind": "dialog",
+   "speaker": "Blueberry",
+   "text": "Shut up, Raisin!"
+  },
+  {
+   "i": 224,
+   "start": 688.66,
+   "end": 694.54,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "And so, with the evil Chilled put to rest, the unlikely hero made his way."
+  },
+  {
+   "i": 225,
+   "start": 695.12,
+   "end": 697.44,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "And that is the story of how your"
+  },
+  {
+   "i": 226,
+   "start": 696.28,
+   "end": 700.82,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "story of how your Grandpa Bardock became the Legendary Super Saiyan."
+  },
+  {
+   "i": 227,
+   "start": 701.78,
+   "end": 703.38,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "OK. A couple questions."
+  },
+  {
+   "i": 228,
+   "start": 703.38,
+   "end": 703.94,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Sure."
+  },
+  {
+   "i": 229,
+   "start": 703.96,
+   "end": 706.4,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Why did Freeza's Death Ball send him back in time?"
+  },
+  {
+   "i": 230,
+   "start": 706.54,
+   "end": 707.22,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I dunno."
+  },
+  {
+   "i": 231,
+   "start": 707.34,
+   "end": 709.44,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "And what happened to his psychic powers?"
+  },
+  {
+   "i": 232,
+   "start": 709.6,
+   "end": 710.24,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I dunno."
+  },
+  {
+   "i": 233,
+   "start": 710.34,
+   "end": 712.88,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "And why did all the little Saiyans sound the same?"
+  },
+  {
+   "i": 234,
+   "start": 712.96,
+   "end": 716.42,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I couldn't remember which was which, honestly, so I just went with it."
+  },
+  {
+   "i": 235,
+   "start": 716.56,
+   "end": 719.88,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Well, I'm sorry, it's just... none of this makes any sense."
+  },
+  {
+   "i": 236,
+   "start": 720.0,
+   "end": 722.96,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Well, of course it doesn't. None of this is actually happening."
+  },
+  {
+   "i": 237,
+   "start": 723.68,
+   "end": 724.18,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "...Huh?"
+  },
+  {
+   "i": 238,
+   "start": 724.48,
+   "end": 725.58,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "None of this is real!"
+  },
+  {
+   "i": 239,
+   "start": 725.62,
+   "end": 726.78,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "What are you talking abou--"
+  },
+  {
+   "i": 240,
+   "start": 726.78,
+   "end": 727.28,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "(Gasp)"
+  },
+  {
+   "i": 241,
+   "start": 732.54,
+   "end": 734.06,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "...Go back to sleep, Gohan."
+  },
+  {
+   "i": 242,
+   "start": 734.5,
+   "end": 736.5,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"Back in Time\" ♫"
+  },
+  {
+   "i": 243,
+   "start": 738.0,
+   "end": 743.96,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "♫ Gotta get back in time ♫"
+  },
+  {
+   "i": 244,
+   "start": 747.18,
+   "end": 749.18,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Seriously, you wanna learn how to traumatize a village?"
+  },
+  {
+   "i": 245,
+   "start": 749.44,
+   "end": 750.98,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "OK. See that kid over there?"
+  },
+  {
+   "i": 246,
+   "start": 752.34,
+   "end": 754.4,
+   "kind": "dialog",
+   "speaker": "Villager",
+   "text": "Odieby! Noooo!"
+  },
+  {
+   "i": 247,
+   "start": 754.4,
+   "end": 755.14,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Hear that mother?"
+  },
+  {
+   "i": 248,
+   "start": 755.14,
+   "end": 757.34,
+   "kind": "dialog",
+   "speaker": "Villager",
+   "text": "(Bawling)"
+  },
+  {
+   "i": 249,
+   "start": 755.14,
+   "end": 757.34,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "... *That*... is distraught."
+  },
+  {
+   "i": 250,
+   "start": 757.84,
+   "end": 762.6,
+   "kind": "dialog",
+   "speaker": "Kayabira",
+   "text": "You should write a book. You're like a brilliant scientist!"
+  },
+  {
+   "i": 251,
+   "start": 762.8,
+   "end": 764.84,
+   "kind": "dialog",
+   "speaker": "Bardock",
+   "text": "Well, I am working on this fake moon thing."
+  }
+ ],
+ "segments": [
+  {
+   "start": 50.6,
+   "end": 65.92,
+   "title": "Ah, Crapbaskets",
+   "quote": "Consider this downsizing on a global scale! / GO TO HELL! / See, that was my first guess. / Ah, crapbaskets.",
+   "line_start": 9,
+   "line_end": 14
+  },
+  {
+   "start": 116.2,
+   "end": 134.54,
+   "title": "Magical Healing S.P.U.G.",
+   "quote": "We helped bring you back to health with our magical, healing S.P.U.G. (\"spooge\").",
+   "line_start": 32,
+   "line_end": 39
+  },
+  {
+   "start": 135.8,
+   "end": 161.04,
+   "title": "You Made a Friend",
+   "quote": "I will gut you with an honest to God smile on my face... / You hear that, Twopock? You made a friend.",
+   "line_start": 41,
+   "line_end": 45
+  },
+  {
+   "start": 182.2,
+   "end": 214.6,
+   "title": "The Violent Savior",
+   "quote": "What are you gonna do next? Waterboard the elderly? / Pffff. Amateurs. / Hooray! Everyone give praise to our new Violent Savior!",
+   "line_start": 51,
+   "line_end": 61
+  },
+  {
+   "start": 258.6,
+   "end": 276.34,
+   "title": "Names of Fruits",
+   "quote": "My men shall now, and forevermore, be given the names of fruits! / ...So am I \"Pineapple\"? / ♪ YES! ♪",
+   "line_start": 73,
+   "line_end": 77
+  },
+  {
+   "start": 293.8,
+   "end": 308.26,
+   "title": "LEAVE THE BASKET!",
+   "quote": "I don't want your bread, or your fruit! But leave the basket!",
+   "line_start": 85,
+   "line_end": 91
+  },
+  {
+   "start": 347.3,
+   "end": 352.68,
+   "title": "Man, F*** da Police",
+   "quote": "Hello. We are the Space Police. / Man, f*** da police! / Not now, Aice Cube!",
+   "line_start": 100,
+   "line_end": 102
+  },
+  {
+   "start": 544.2,
+   "end": 564.22,
+   "title": "I'm in the F***ing Past",
+   "quote": "B.C.or A.D.? / The hell are those? / I'm in the f***ing past (!) Of all the STUPID! ASININE! SHARK-JUMPING BULLSHIT!",
+   "line_start": 186,
+   "line_end": 193
+  },
+  {
+   "start": 580.4,
+   "end": 592.18,
+   "title": "The Legendary Super Saiyan",
+   "quote": "Oh, I'm sorry; I only fight *natural* blondes. / I... am the Legendary Super Saiyan. / Yay! We're all Super Saiyans! / I will eat you!",
+   "line_start": 196,
+   "line_end": 200
+  },
+  {
+   "start": 615.6,
+   "end": 623.1,
+   "title": "Please Don't Break My Butt",
+   "quote": "...Please don't break my butt. / OK. / Truly? / No.",
+   "line_start": 204,
+   "line_end": 208
+  },
+  {
+   "start": 630.7,
+   "end": 650.3,
+   "title": "You Mad, Bro?",
+   "quote": "You mad, bro? / A little! Thank you for asking! / Then maybe you should CHILL! / I'm always Chilled!",
+   "line_start": 209,
+   "line_end": 215
+  },
+  {
+   "start": 654.7,
+   "end": 688.18,
+   "title": "Chilled's Final Decree",
+   "quote": "All of our most... Elite Warriors... Must... learn... dance... choreography. / Do I still have to call myself Blueberry?",
+   "line_start": 216,
+   "line_end": 223
+  },
+  {
+   "start": 701.3,
+   "end": 734.06,
+   "title": "None of This Is Real",
+   "quote": "None of this is actually happening. / None of this is real! / ...Go back to sleep, Gohan.",
+   "line_start": 227,
+   "line_end": 241
+  }
+ ]
+}

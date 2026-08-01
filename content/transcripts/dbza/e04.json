@@ -1,0 +1,1763 @@
+{
+ "item": "e04",
+ "show": "dbza",
+ "youtube": "ys7pLfOVZDE",
+ "title": "Episode 4",
+ "duration": 514,
+ "lines": [
+  {
+   "i": 0,
+   "start": 7.86,
+   "end": 11.24,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♪ DBZ prologue theme (#1) ♪"
+  },
+  {
+   "i": 1,
+   "start": 8.96,
+   "end": 11.24,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "Last time on Dragon Ball Z Abridged:"
+  },
+  {
+   "i": 2,
+   "start": 11.24,
+   "end": 14.2,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "Goku began his journey down Snake Way."
+  },
+  {
+   "i": 3,
+   "start": 14.2,
+   "end": 17.24,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "Wait, is that some kind of innuendo?"
+  },
+  {
+   "i": 4,
+   "start": 17.5,
+   "end": 18.56,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(Panting)"
+  },
+  {
+   "i": 5,
+   "start": 18.56,
+   "end": 21.52,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'This is going to be the longest, toughest journey I’ve ever made!'"
+  },
+  {
+   "i": 6,
+   "start": 21.52,
+   "end": 26.56,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'I have to receive King Kai’s training, and battle the biggest threat to the planet we’ve ever faced!'"
+  },
+  {
+   "i": 7,
+   "start": 26.56,
+   "end": 30.06,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'I have to run as fast as I can! I have to keep running!'"
+  },
+  {
+   "i": 8,
+   "start": 30.36,
+   "end": 33.46,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'For the sake of the Earth, humanity, and my fam--!'"
+  },
+  {
+   "i": 9,
+   "start": 33.46,
+   "end": 34.4,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Music cuts-off"
+  },
+  {
+   "i": 10,
+   "start": 33.46,
+   "end": 36.98,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(Snoring)"
+  },
+  {
+   "i": 11,
+   "start": 36.98,
+   "end": 37.74,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Sweeper hits a bump"
+  },
+  {
+   "i": 12,
+   "start": 38.24,
+   "end": 42.4,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Ow, oh GAHHHhhhh...!"
+  },
+  {
+   "i": 13,
+   "start": 41.2,
+   "end": 42.4,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♪ Cha-La Head-Cha-La ♪"
+  },
+  {
+   "i": 14,
+   "start": 42.4,
+   "end": 43.14,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Japanese Transliteration (English)"
+  },
+  {
+   "i": 15,
+   "start": 43.14,
+   "end": 45.76,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "CHA-LA HEAD-CHA-LA CHARA HECCHARA (Cha-La Head-Cha-La)"
+  },
+  {
+   "i": 16,
+   "start": 46.52,
+   "end": 50.24,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "笑顔ウルトラZで Egao urutora zetto de (With a smile that's Ultra-Z,)"
+  },
+  {
+   "i": 17,
+   "start": 50.24,
+   "end": 53.5,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "今日もアイヤイヤイヤイヤイ Kyô mo ai-yai-yai-yai-yai (Even today goes Aye-yi-yi-yi-yi)"
+  },
+  {
+   "i": 18,
+   "start": 53.5,
+   "end": 55.5,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "Sparking! (Sparking!)"
+  },
+  {
+   "i": 19,
+   "start": 59.4,
+   "end": 62.34,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "...aaaaaaAAAAAA--!"
+  },
+  {
+   "i": 20,
+   "start": 62.34,
+   "end": 63.84,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Crash"
+  },
+  {
+   "i": 21,
+   "start": 64.74,
+   "end": 66.38,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Owwwww-hohh..."
+  },
+  {
+   "i": 22,
+   "start": 66.7,
+   "end": 71.12,
+   "kind": "dialog",
+   "speaker": "Goz",
+   "text": "Ah, who do we have here? A little girly man, ja?"
+  },
+  {
+   "i": 23,
+   "start": 71.52,
+   "end": 73.32,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I'm Goku. Who are you?"
+  },
+  {
+   "i": 24,
+   "start": 73.32,
+   "end": 74.44,
+   "kind": "dialog",
+   "speaker": "Goz",
+   "text": "I am Goz,"
+  },
+  {
+   "i": 25,
+   "start": 74.44,
+   "end": 75.58,
+   "kind": "dialog",
+   "speaker": "Mez",
+   "text": "Und I am Mez,"
+  },
+  {
+   "i": 26,
+   "start": 75.58,
+   "end": 78.74,
+   "kind": "dialog",
+   "speaker": "Goz",
+   "text": "Und we are here to pump... you up!"
+  },
+  {
+   "i": 27,
+   "start": 75.58,
+   "end": 78.74,
+   "kind": "dialog",
+   "speaker": "Mez",
+   "text": "Und we are here to pump... you up!"
+  },
+  {
+   "i": 28,
+   "start": 77.14,
+   "end": 77.68,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "CLAP"
+  },
+  {
+   "i": 29,
+   "start": 79.36,
+   "end": 81.6,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "...Okay… but I'm sorta--"
+  },
+  {
+   "i": 30,
+   "start": 81.6,
+   "end": 84.3,
+   "kind": "dialog",
+   "speaker": "Goz",
+   "text": "First, we are going to do a hundred squats!"
+  },
+  {
+   "i": 31,
+   "start": 84.3,
+   "end": 86.14,
+   "kind": "dialog",
+   "speaker": "Mez",
+   "text": "And then lots of push-ups on the hard ground!"
+  },
+  {
+   "i": 32,
+   "start": 86.14,
+   "end": 88.28,
+   "kind": "dialog",
+   "speaker": "Goz",
+   "text": "Und then a bunch of Jumping Jacks!"
+  },
+  {
+   "i": 33,
+   "start": 88.28,
+   "end": 89.72,
+   "kind": "dialog",
+   "speaker": "Goz",
+   "text": "Oooooooooh!"
+  },
+  {
+   "i": 34,
+   "start": 90.0,
+   "end": 92.28,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "That... sounds like fun...?"
+  },
+  {
+   "i": 35,
+   "start": 92.28,
+   "end": 94.1,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "But I’m sort of in a hurry...?"
+  },
+  {
+   "i": 36,
+   "start": 94.1,
+   "end": 95.32,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "How do I get out of here?"
+  },
+  {
+   "i": 37,
+   "start": 95.42,
+   "end": 97.36,
+   "kind": "dialog",
+   "speaker": "Mez",
+   "text": "Ach, there’s no way out of here."
+  },
+  {
+   "i": 38,
+   "start": 97.36,
+   "end": 100.42,
+   "kind": "dialog",
+   "speaker": "Mez",
+   "text": "Unless you manage to beat us in a test of strength and speed!"
+  },
+  {
+   "i": 39,
+   "start": 100.42,
+   "end": 103.9,
+   "kind": "dialog",
+   "speaker": "Goz",
+   "text": "Ja! Lots of running und wrestling und sweat!"
+  },
+  {
+   "i": 40,
+   "start": 103.9,
+   "end": 106.58,
+   "kind": "dialog",
+   "speaker": "Mez",
+   "text": "Grappling each other on the cold ground, ja!"
+  },
+  {
+   "i": 41,
+   "start": 107.44,
+   "end": 112.64,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Okay, now let’s say we went through all of that... then where would you say the exit is?"
+  },
+  {
+   "i": 42,
+   "start": 112.64,
+   "end": 114.22,
+   "kind": "dialog",
+   "speaker": "Goz",
+   "text": "Oh, it’s right over there."
+  },
+  {
+   "i": 43,
+   "start": 114.22,
+   "end": 115.7,
+   "kind": "dialog",
+   "speaker": "Mez",
+   "text": "Ja, but you have to beat us first un--"
+  },
+  {
+   "i": 44,
+   "start": 115.7,
+   "end": 117.12,
+   "kind": "dialog",
+   "speaker": "Mez",
+   "text": "Ach! He’s running avay!"
+  },
+  {
+   "i": 45,
+   "start": 117.62,
+   "end": 122.54,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh, before I go... Have you seen my brother Raditz around here? Spiky hair? Tail?"
+  },
+  {
+   "i": 46,
+   "start": 122.72,
+   "end": 125.76,
+   "kind": "dialog",
+   "speaker": "Mez",
+   "text": "Ach, yes; he made a horrible mess of the blood fountain!"
+  },
+  {
+   "i": 47,
+   "start": 126.34,
+   "end": 127.42,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Looks fine to me."
+  },
+  {
+   "i": 48,
+   "start": 127.52,
+   "end": 128.94,
+   "kind": "dialog",
+   "speaker": "Goz",
+   "text": "IT USED TO BE WATER!"
+  },
+  {
+   "i": 49,
+   "start": 129.44,
+   "end": 130.38,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Wow...!"
+  },
+  {
+   "i": 50,
+   "start": 130.74,
+   "end": 133.82,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Well, I’m going now! By the way, thanks for the fruit!"
+  },
+  {
+   "i": 51,
+   "start": 133.82,
+   "end": 137.82,
+   "kind": "dialog",
+   "speaker": "Mez",
+   "text": "Ach, he has a piece of the fruit, ach nein! Don’t eat the fruit, don’t eat the fruit!"
+  },
+  {
+   "i": 52,
+   "start": 137.82,
+   "end": 138.32,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Bye!"
+  },
+  {
+   "i": 53,
+   "start": 138.7,
+   "end": 143.08,
+   "kind": "dialog",
+   "speaker": "Goz",
+   "text": "No, now we can’t make the fruit salad for King Yemma’s barbecue!"
+  },
+  {
+   "i": 54,
+   "start": 143.08,
+   "end": 148.16,
+   "kind": "dialog",
+   "speaker": "Mez",
+   "text": "Ja, und Dabura is going to bring something totally kickass und we will have nothing und we will LOOK LIKE FOOLS!"
+  },
+  {
+   "i": 55,
+   "start": 148.16,
+   "end": 150.08,
+   "kind": "dialog",
+   "speaker": "Goz",
+   "text": "Ach, I am so mad!"
+  },
+  {
+   "i": 56,
+   "start": 150.08,
+   "end": 153.74,
+   "kind": "dialog",
+   "speaker": "Mez",
+   "text": "Ja, let us go work off our stress by doing squat thrusts und stretches."
+  },
+  {
+   "i": 57,
+   "start": 153.94,
+   "end": 156.94,
+   "kind": "dialog",
+   "speaker": "Goz",
+   "text": "Ja, und then we’ll do grappling in our speedos."
+  },
+  {
+   "i": 58,
+   "start": 156.94,
+   "end": 158.38,
+   "kind": "dialog",
+   "speaker": "Mez",
+   "text": "I’ll grab the oil!"
+  },
+  {
+   "i": 59,
+   "start": 158.78,
+   "end": 160.5,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "Meanwhile, back on Earth..."
+  },
+  {
+   "i": 60,
+   "start": 160.5,
+   "end": 163.66,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "Now that’s *got* to be some kind of innuendo!"
+  },
+  {
+   "i": 61,
+   "start": 163.82,
+   "end": 167.44,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Wolf howling"
+  },
+  {
+   "i": 62,
+   "start": 163.82,
+   "end": 167.44,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Huh? (Whimpering)"
+  },
+  {
+   "i": 63,
+   "start": 167.44,
+   "end": 170.46,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "I can’t believe Piccolo left me out here all alone!"
+  },
+  {
+   "i": 64,
+   "start": 170.68,
+   "end": 173.16,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "How am I supposed to get down from here?"
+  },
+  {
+   "i": 65,
+   "start": 173.46,
+   "end": 176.32,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "CLIIIIMB DOWWWN!"
+  },
+  {
+   "i": 66,
+   "start": 176.62,
+   "end": 179.04,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "I can’t even get any food or water."
+  },
+  {
+   "i": 67,
+   "start": 179.44,
+   "end": 181.02,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "What should I do?"
+  },
+  {
+   "i": 68,
+   "start": 181.4,
+   "end": 184.74,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "I SAID, CLIIIMB DOWWWN!"
+  },
+  {
+   "i": 69,
+   "start": 185.1,
+   "end": 188.16,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "If only I had some sticks or reeds lying around."
+  },
+  {
+   "i": 70,
+   "start": 188.42,
+   "end": 191.14,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "I could make a makeshift ladder, or a rope..."
+  },
+  {
+   "i": 71,
+   "start": 191.34,
+   "end": 194.52,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "UUUUURRRRRAAARRRGH!!"
+  },
+  {
+   "i": 72,
+   "start": 199.12,
+   "end": 201.54,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "You have all come to train on my Lookout."
+  },
+  {
+   "i": 73,
+   "start": 201.54,
+   "end": 206.56,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "But since I am quite old, I shall leave you in the capable hands of Mr. Popo."
+  },
+  {
+   "i": 74,
+   "start": 206.88,
+   "end": 209.84,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Mr. Popo, you know what to do."
+  },
+  {
+   "i": 75,
+   "start": 209.96,
+   "end": 210.92,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Yes, Kami."
+  },
+  {
+   "i": 76,
+   "start": 211.5,
+   "end": 213.16,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Door shuts"
+  },
+  {
+   "i": 77,
+   "start": 213.88,
+   "end": 218.06,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Alright, *maggots*, listen up! Popo’s 'bout to teach you the pecking order!"
+  },
+  {
+   "i": 78,
+   "start": 218.26,
+   "end": 227.22,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "It goes you... the dirt... the worms inside of the dirt... Popo's *stool*... Kami... then Popo."
+  },
+  {
+   "i": 79,
+   "start": 227.68,
+   "end": 228.94,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Any questions?"
+  },
+  {
+   "i": 80,
+   "start": 228.94,
+   "end": 230.0,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Um, yeah, I--"
+  },
+  {
+   "i": 81,
+   "start": 230.0,
+   "end": 230.5,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "SLAM"
+  },
+  {
+   "i": 82,
+   "start": 230.0,
+   "end": 233.64,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "GOH-GAAAAAAAaaaaaahhh...!"
+  },
+  {
+   "i": 83,
+   "start": 233.92,
+   "end": 234.54,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "DING"
+  },
+  {
+   "i": 84,
+   "start": 235.4,
+   "end": 237.94,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Enjoy the climb back up, BITCH!"
+  },
+  {
+   "i": 85,
+   "start": 238.5,
+   "end": 240.1,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Now any more questions?"
+  },
+  {
+   "i": 86,
+   "start": 241.18,
+   "end": 243.34,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Good. Then we can begin."
+  },
+  {
+   "i": 87,
+   "start": 244.3,
+   "end": 248.64,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Okay! No more diversions! This is really important! No more sidetra—!"
+  },
+  {
+   "i": 88,
+   "start": 248.64,
+   "end": 249.7,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oooh, a house!"
+  },
+  {
+   "i": 89,
+   "start": 249.98,
+   "end": 251.04,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'Is that a snake?'"
+  },
+  {
+   "i": 90,
+   "start": 251.04,
+   "end": 251.72,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Sucks"
+  },
+  {
+   "i": 91,
+   "start": 251.04,
+   "end": 251.72,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Ahhh--!"
+  },
+  {
+   "i": 92,
+   "start": 251.72,
+   "end": 252.22,
+   "kind": "dialog",
+   "speaker": "Snake",
+   "text": "Ackum!"
+  },
+  {
+   "i": 93,
+   "start": 252.44,
+   "end": 255.24,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Wheeeeeee--!"
+  },
+  {
+   "i": 94,
+   "start": 255.24,
+   "end": 255.74,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Thud"
+  },
+  {
+   "i": 95,
+   "start": 255.24,
+   "end": 258.3,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "AUGHA OWWWWhowww!"
+  },
+  {
+   "i": 96,
+   "start": 259.96,
+   "end": 261.06,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Metal Gear Solid Codec alert sound"
+  },
+  {
+   "i": 97,
+   "start": 262.6,
+   "end": 263.58,
+   "kind": "dialog",
+   "speaker": "Servant",
+   "text": "(Speaking)"
+  },
+  {
+   "i": 98,
+   "start": 264.92,
+   "end": 266.34,
+   "kind": "dialog",
+   "speaker": "Princess Snake",
+   "text": "(Speaking as Solid Snake)"
+  },
+  {
+   "i": 99,
+   "start": 270.94,
+   "end": 274.86,
+   "kind": "dialog",
+   "speaker": "Princess Snake",
+   "text": "Well, he’s quite the hunk of man-meat! But what’s with the hair??"
+  },
+  {
+   "i": 100,
+   "start": 276.64,
+   "end": 278.88,
+   "kind": "dialog",
+   "speaker": "Princess Snake",
+   "text": "'Ah, I just love this fur coat!'"
+  },
+  {
+   "i": 101,
+   "start": 278.88,
+   "end": 282.0,
+   "kind": "dialog",
+   "speaker": "Princess Snake",
+   "text": "'Especially since I killed all the animals for it myself!'"
+  },
+  {
+   "i": 102,
+   "start": 282.0,
+   "end": 284.6,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Huh? You don’t look like you'd be King Kai."
+  },
+  {
+   "i": 103,
+   "start": 284.6,
+   "end": 287.72,
+   "kind": "dialog",
+   "speaker": "Princess Snake",
+   "text": "What, did my magnificent breasts tip you off?"
+  },
+  {
+   "i": 104,
+   "start": 287.72,
+   "end": 288.78,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Wh-what?"
+  },
+  {
+   "i": 105,
+   "start": 288.78,
+   "end": 290.6,
+   "kind": "dialog",
+   "speaker": "Princess Snake",
+   "text": "Nothing. Are you hungry?"
+  },
+  {
+   "i": 106,
+   "start": 290.6,
+   "end": 292.9,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Yeah! I could eat anything right now!"
+  },
+  {
+   "i": 107,
+   "start": 292.9,
+   "end": 294.36,
+   "kind": "dialog",
+   "speaker": "Princess Snake",
+   "text": "Ah, me too."
+  },
+  {
+   "i": 108,
+   "start": 294.46,
+   "end": 294.94,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "What?"
+  },
+  {
+   "i": 109,
+   "start": 294.94,
+   "end": 296.48,
+   "kind": "dialog",
+   "speaker": "Princess Snake",
+   "text": "Nothing! Take a seat!"
+  },
+  {
+   "i": 110,
+   "start": 297.0,
+   "end": 299.8,
+   "kind": "dialog",
+   "speaker": "Princess Snake",
+   "text": "I killed everything here with my bare hands."
+  },
+  {
+   "i": 111,
+   "start": 299.8,
+   "end": 301.62,
+   "kind": "dialog",
+   "speaker": "Princess Snake",
+   "text": "Including the bear hands."
+  },
+  {
+   "i": 112,
+   "start": 301.62,
+   "end": 302.52,
+   "kind": "dialog",
+   "speaker": "Princess Snake",
+   "text": "It’s a PUN!"
+  },
+  {
+   "i": 113,
+   "start": 302.88,
+   "end": 304.52,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Chomping"
+  },
+  {
+   "i": 114,
+   "start": 304.52,
+   "end": 307.72,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I can’t believe you took all this down yourself!"
+  },
+  {
+   "i": 115,
+   "start": 307.72,
+   "end": 309.54,
+   "kind": "dialog",
+   "speaker": "Princess Snake",
+   "text": "Hurr, I want to take you down..."
+  },
+  {
+   "i": 116,
+   "start": 309.54,
+   "end": 310.1,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "What?"
+  },
+  {
+   "i": 117,
+   "start": 310.1,
+   "end": 312.08,
+   "kind": "dialog",
+   "speaker": "Princess Snake",
+   "text": "Nothing. Get in the hot tub!"
+  },
+  {
+   "i": 118,
+   "start": 312.58,
+   "end": 315.86,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Wow, this water’s really nice!"
+  },
+  {
+   "i": 119,
+   "start": 316.64,
+   "end": 322.0,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Box dragging on ground"
+  },
+  {
+   "i": 120,
+   "start": 322.16,
+   "end": 324.68,
+   "kind": "dialog",
+   "speaker": "Princess Snake",
+   "text": "Uh, not as nice as your ass!"
+  },
+  {
+   "i": 121,
+   "start": 324.68,
+   "end": 325.48,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Huh?"
+  },
+  {
+   "i": 122,
+   "start": 324.68,
+   "end": 325.48,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Metal Gear Solid Alert (!)"
+  },
+  {
+   "i": 123,
+   "start": 325.48,
+   "end": 327.5,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Box dragging"
+  },
+  {
+   "i": 124,
+   "start": 327.78,
+   "end": 331.58,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Well, thanks for the food and stuff, but I’ve got to get to King Kai's!"
+  },
+  {
+   "i": 125,
+   "start": 331.84,
+   "end": 336.14,
+   "kind": "dialog",
+   "speaker": "Princess Snake",
+   "text": "No! First you must pass the test of... endurance!"
+  },
+  {
+   "i": 126,
+   "start": 336.36,
+   "end": 337.42,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "What's that mean?"
+  },
+  {
+   "i": 127,
+   "start": 337.66,
+   "end": 341.18,
+   "kind": "dialog",
+   "speaker": "Princess Snake",
+   "text": "It means I want you... inside me."
+  },
+  {
+   "i": 128,
+   "start": 341.18,
+   "end": 342.42,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "What do you mean?"
+  },
+  {
+   "i": 129,
+   "start": 342.42,
+   "end": 343.66,
+   "kind": "dialog",
+   "speaker": "Princess Snake",
+   "text": "You'll see..."
+  },
+  {
+   "i": 130,
+   "start": 343.82,
+   "end": 345.06,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Ahh!"
+  },
+  {
+   "i": 131,
+   "start": 345.06,
+   "end": 345.76,
+   "kind": "dialog",
+   "speaker": "Princess Snake",
+   "text": "Hah!"
+  },
+  {
+   "i": 132,
+   "start": 346.24,
+   "end": 347.58,
+   "kind": "dialog",
+   "speaker": "Princess Snake",
+   "text": "Total mis-implication!"
+  },
+  {
+   "i": 133,
+   "start": 347.74,
+   "end": 348.48,
+   "kind": "dialog",
+   "speaker": "Princess Snake",
+   "text": "Hah!"
+  },
+  {
+   "i": 134,
+   "start": 347.74,
+   "end": 349.28,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Ahh!"
+  },
+  {
+   "i": 135,
+   "start": 349.28,
+   "end": 351.28,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Stop chasing me!"
+  },
+  {
+   "i": 136,
+   "start": 351.34,
+   "end": 353.78,
+   "kind": "dialog",
+   "speaker": "Princess Snake",
+   "text": "Hurr, hah, hurr hah!"
+  },
+  {
+   "i": 137,
+   "start": 353.92,
+   "end": 356.68,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Stop grunting! It’s CREEPY!"
+  },
+  {
+   "i": 138,
+   "start": 356.68,
+   "end": 357.36,
+   "kind": "dialog",
+   "speaker": "Princess Snake",
+   "text": "Ahh!"
+  },
+  {
+   "i": 139,
+   "start": 358.0,
+   "end": 361.76,
+   "kind": "dialog",
+   "speaker": "Princess Snake",
+   "text": "Waka waka waka waka waka waka waka waka waka"
+  },
+  {
+   "i": 140,
+   "start": 359.28,
+   "end": 360.94,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "AAAAA"
+  },
+  {
+   "i": 141,
+   "start": 360.94,
+   "end": 362.72,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "AAAAAH--"
+  },
+  {
+   "i": 142,
+   "start": 362.72,
+   "end": 363.44,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "oo-ooh!"
+  },
+  {
+   "i": 143,
+   "start": 363.82,
+   "end": 365.02,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(Chomping)"
+  },
+  {
+   "i": 144,
+   "start": 365.3,
+   "end": 366.66,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "AAAAA"
+  },
+  {
+   "i": 145,
+   "start": 365.3,
+   "end": 367.28,
+   "kind": "dialog",
+   "speaker": "Princess Snake",
+   "text": "Waka waka waka waka wa--"
+  },
+  {
+   "i": 146,
+   "start": 366.66,
+   "end": 367.28,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "AAAAAH--!"
+  },
+  {
+   "i": 147,
+   "start": 368.84,
+   "end": 373.82,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Oh for God’s sake, now he’s just standing there, looking at the moon like a retarded puppy!"
+  },
+  {
+   "i": 148,
+   "start": 374.14,
+   "end": 378.08,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "I was *trying* to teach him to fend for himself, but nooooo~!"
+  },
+  {
+   "i": 149,
+   "start": 378.08,
+   "end": 380.7,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "He has to be a WEAK, DEFENSELESS, LITTLE—!"
+  },
+  {
+   "i": 150,
+   "start": 378.08,
+   "end": 380.7,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "(Growling with a deepening voice)"
+  },
+  {
+   "i": 151,
+   "start": 380.7,
+   "end": 382.16,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Wait, is he getting bigger?"
+  },
+  {
+   "i": 152,
+   "start": 382.16,
+   "end": 385.02,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "(Oozaru roar)"
+  },
+  {
+   "i": 153,
+   "start": 385.02,
+   "end": 385.86,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Donkey Kong theme plays"
+  },
+  {
+   "i": 154,
+   "start": 385.86,
+   "end": 388.3,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "RAAAAARRRGH!"
+  },
+  {
+   "i": 155,
+   "start": 385.86,
+   "end": 388.98,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Donkey Kong theme plays"
+  },
+  {
+   "i": 156,
+   "start": 389.54,
+   "end": 390.86,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Okay, that’s new!"
+  },
+  {
+   "i": 157,
+   "start": 391.06,
+   "end": 393.24,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'Wait a second... That tail...'"
+  },
+  {
+   "i": 158,
+   "start": 393.46,
+   "end": 394.82,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'His Saiyan blood!'"
+  },
+  {
+   "i": 159,
+   "start": 395.04,
+   "end": 396.16,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'Does this mean...'"
+  },
+  {
+   "i": 160,
+   "start": 396.32,
+   "end": 398.72,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Everyone of Gohan’s race can become a giant gorilla!"
+  },
+  {
+   "i": 161,
+   "start": 398.72,
+   "end": 400.14,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Dramatic sting"
+  },
+  {
+   "i": 162,
+   "start": 398.72,
+   "end": 400.14,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "ROAAAARGH!"
+  },
+  {
+   "i": 163,
+   "start": 403.34,
+   "end": 406.24,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Dammit, if he destroys everything, what'll be left for ME?!"
+  },
+  {
+   "i": 164,
+   "start": 406.24,
+   "end": 410.02,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Distant sounds of explosions and roaring"
+  },
+  {
+   "i": 165,
+   "start": 410.28,
+   "end": 411.72,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "STOP MOCKING ME!!"
+  },
+  {
+   "i": 166,
+   "start": 414.46,
+   "end": 416.6,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "[Groaning]"
+  },
+  {
+   "i": 167,
+   "start": 414.46,
+   "end": 416.6,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Super Mario going down pipe sound"
+  },
+  {
+   "i": 168,
+   "start": 417.02,
+   "end": 421.2,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Hah! Take that, Moon! \"Perfect orbit\", my *ass*! And--"
+  },
+  {
+   "i": 169,
+   "start": 421.2,
+   "end": 423.22,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Eh, huh? Where’d the monkey go?"
+  },
+  {
+   "i": 170,
+   "start": 423.5,
+   "end": 425.64,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Huh... well, he’s back to normal."
+  },
+  {
+   "i": 171,
+   "start": 426.16,
+   "end": 428.5,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Oh *God*, what the hell is that thing?"
+  },
+  {
+   "i": 172,
+   "start": 428.74,
+   "end": 430.9,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Well, whatever it is, I don’t like looking at it."
+  },
+  {
+   "i": 173,
+   "start": 431.28,
+   "end": 431.84,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "This either."
+  },
+  {
+   "i": 174,
+   "start": 431.84,
+   "end": 432.34,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "POP"
+  },
+  {
+   "i": 175,
+   "start": 432.92,
+   "end": 435.48,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Now... CLOTHES BEAM!"
+  },
+  {
+   "i": 176,
+   "start": 437.12,
+   "end": 439.86,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "That is easily my most metro attack."
+  },
+  {
+   "i": 177,
+   "start": 440.42,
+   "end": 442.34,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "Meanwhile, back on Snake Way..."
+  },
+  {
+   "i": 178,
+   "start": 442.34,
+   "end": 446.44,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Man, that was close. Sure am glad I got away from that giant Snake lady!"
+  },
+  {
+   "i": 179,
+   "start": 447.06,
+   "end": 448.92,
+   "kind": "dialog",
+   "speaker": "Princess Snake",
+   "text": "(Grunting and groaning)"
+  },
+  {
+   "i": 180,
+   "start": 449.04,
+   "end": 452.28,
+   "kind": "dialog",
+   "speaker": "Princess Snake",
+   "text": "AAAAH...!"
+  },
+  {
+   "i": 181,
+   "start": 449.54,
+   "end": 455.78,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♪ Metal Gear Solid - Game Over tune ♪"
+  },
+  {
+   "i": 182,
+   "start": 449.54,
+   "end": 455.78,
+   "kind": "dialog",
+   "speaker": "Servant",
+   "text": "Princess Snake? Princess Snake? PRINCESS SNAAAAAKE!!"
+  },
+  {
+   "i": 183,
+   "start": 457.28,
+   "end": 460.96,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♪ Outro (DBZ intermission) ♪"
+  },
+  {
+   "i": 184,
+   "start": 463.48,
+   "end": 468.64,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Yep, and once again, wanton destruction has solved all of my problems."
+  },
+  {
+   "i": 185,
+   "start": 468.64,
+   "end": 472.16,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "With absolutely no negative repercussions!"
+  },
+  {
+   "i": 186,
+   "start": 472.16,
+   "end": 473.84,
+   "kind": "direction",
+   "speaker": null,
+   "text": "The sound of waves in the ocean"
+  },
+  {
+   "i": 187,
+   "start": 474.02,
+   "end": 477.8,
+   "kind": "dialog",
+   "speaker": "Newsreader",
+   "text": "We’ve got breaking news that the Earth’s Moon has been completely destroyed."
+  },
+  {
+   "i": 188,
+   "start": 477.8,
+   "end": 486.48,
+   "kind": "dialog",
+   "speaker": "Newsreader",
+   "text": "While the long-term environmental effects can only be guessed at, preliminary speculation puts the short-term death toll from tidal effects alone at the hundreds of millions."
+  },
+  {
+   "i": 189,
+   "start": 486.64,
+   "end": 490.12,
+   "kind": "dialog",
+   "speaker": "Newsreader",
+   "text": "We now go to our resident expert on lunar science, Sailor Moon. Sailor?"
+  },
+  {
+   "i": 190,
+   "start": 490.12,
+   "end": 491.52,
+   "kind": "dialog",
+   "speaker": "Sailor Moon",
+   "text": "OH, DEAR GOD!!"
+  },
+  {
+   "i": 191,
+   "start": 491.52,
+   "end": 496.98,
+   "kind": "dialog",
+   "speaker": "Newsreader",
+   "text": "Thanks, Sailor! We now return you to Nick at Night’s 24-hour full house marathon already in progress."
+  },
+  {
+   "i": 192,
+   "start": 498.16,
+   "end": 499.42,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Radio communication"
+  },
+  {
+   "i": 193,
+   "start": 499.42,
+   "end": 500.58,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Hey! Vegeta!"
+  },
+  {
+   "i": 194,
+   "start": 500.58,
+   "end": 501.56,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "What?"
+  },
+  {
+   "i": 195,
+   "start": 501.56,
+   "end": 502.48,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Are we there yet?"
+  },
+  {
+   "i": 196,
+   "start": 502.48,
+   "end": 503.1,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "No."
+  },
+  {
+   "i": 197,
+   "start": 503.42,
+   "end": 504.16,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Are we there yet?"
+  },
+  {
+   "i": 198,
+   "start": 504.16,
+   "end": 505.04,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "No..."
+  },
+  {
+   "i": 199,
+   "start": 505.04,
+   "end": 505.62,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Are we there yet?"
+  },
+  {
+   "i": 200,
+   "start": 505.92,
+   "end": 506.82,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Nooo."
+  },
+  {
+   "i": 201,
+   "start": 506.82,
+   "end": 507.5,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Are we there yet?"
+  },
+  {
+   "i": 202,
+   "start": 507.5,
+   "end": 508.36,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Nooo..."
+  },
+  {
+   "i": 203,
+   "start": 508.7,
+   "end": 509.36,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Are we there yet?"
+  },
+  {
+   "i": 204,
+   "start": 509.36,
+   "end": 510.22,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "No."
+  },
+  {
+   "i": 205,
+   "start": 510.4,
+   "end": 511.22,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Are we there yet?"
+  },
+  {
+   "i": 206,
+   "start": 511.22,
+   "end": 512.16,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "No."
+  }
+ ],
+ "segments": [
+  {
+   "start": 8.7,
+   "end": 37.0,
+   "title": "Longest, Toughest Journey",
+   "quote": "Wait, is that some kind of innuendo? / 'I have to run as fast as I can! I have to keep running!' / (Snoring)",
+   "line_start": 1,
+   "line_end": 10
+  },
+  {
+   "start": 66.4,
+   "end": 89.7,
+   "title": "We Are Here to Pump... You Up!",
+   "quote": "A little girly man, ja? / Und we are here to pump... you up!",
+   "line_start": 22,
+   "line_end": 33
+  },
+  {
+   "start": 107.1,
+   "end": 130.4,
+   "title": "IT USED TO BE WATER!",
+   "quote": "Ach! He's running avay! / He made a horrible mess of the blood fountain! / Looks fine to me. / IT USED TO BE WATER!",
+   "line_start": 41,
+   "line_end": 49
+  },
+  {
+   "start": 167.1,
+   "end": 194.5,
+   "title": "CLIIIIMB DOWWWN!",
+   "quote": "How am I supposed to get down from here? / CLIIIIMB DOWWWN! / I SAID, CLIIIMB DOWWWN!",
+   "line_start": 63,
+   "line_end": 71
+  },
+  {
+   "start": 213.4,
+   "end": 243.3,
+   "title": "Popo's Pecking Order",
+   "quote": "It goes you... the dirt... the worms inside of the dirt... Popo's *stool*... Kami... then Popo. / Enjoy the climb back up, BITCH!",
+   "line_start": 77,
+   "line_end": 86
+  },
+  {
+   "start": 281.7,
+   "end": 302.5,
+   "title": "Magnificent Breasts / Bear Hands",
+   "quote": "What, did my magnificent breasts tip you off? / I killed everything here with my bare hands. Including the bear hands. It's a PUN!",
+   "line_start": 102,
+   "line_end": 112
+  },
+  {
+   "start": 331.5,
+   "end": 347.6,
+   "title": "The Test of... Endurance",
+   "quote": "It means I want you... inside me. / Total mis-implication!",
+   "line_start": 125,
+   "line_end": 132
+  },
+  {
+   "start": 356.4,
+   "end": 367.3,
+   "title": "Waka Waka Waka",
+   "quote": "Waka waka waka waka waka waka waka waka waka / AAAAA",
+   "line_start": 138,
+   "line_end": 146
+  },
+  {
+   "start": 368.5,
+   "end": 390.9,
+   "title": "Like a Retarded Puppy",
+   "quote": "Now he's just standing there, looking at the moon like a retarded puppy! / Wait, is he getting bigger? / Okay, that's new!",
+   "line_start": 147,
+   "line_end": 156
+  },
+  {
+   "start": 416.7,
+   "end": 439.9,
+   "title": "CLOTHES BEAM!",
+   "quote": "Hah! Take that, Moon! \"Perfect orbit\", my *ass*! / Now... CLOTHES BEAM! / That is easily my most metro attack.",
+   "line_start": 168,
+   "line_end": 176
+  },
+  {
+   "start": 463.2,
+   "end": 491.5,
+   "title": "Our Resident Expert, Sailor Moon",
+   "quote": "Wanton destruction has solved all of my problems. With absolutely no negative repercussions! / We now go to our resident expert on lunar science, Sailor Moon. Sailor? / OH, DEAR GOD!!",
+   "line_start": 184,
+   "line_end": 190
+  },
+  {
+   "start": 497.9,
+   "end": 512.2,
+   "title": "Are We There Yet?",
+   "quote": "Are we there yet? / No. / Are we there yet? / No...",
+   "line_start": 192,
+   "line_end": 206
+  }
+ ]
+}

@@ -1,0 +1,1803 @@
+{
+ "item": "e28",
+ "show": "dbza",
+ "youtube": "rlnyjw5LUj0",
+ "title": "Episode 26",
+ "duration": 523,
+ "lines": [
+  {
+   "i": 0,
+   "start": 10.08,
+   "end": 14.28,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "To think your race had the ability to produce such capable fighters..."
+  },
+  {
+   "i": 1,
+   "start": 14.28,
+   "end": 16.76,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "I'm surprised I hadn't destroyed you sooner."
+  },
+  {
+   "i": 2,
+   "start": 16.76,
+   "end": 19.96,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "And to think *your* race has the ability to produce such whiny bitches."
+  },
+  {
+   "i": 3,
+   "start": 19.96,
+   "end": 22.52,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "*I'm* surprised anyone can take you seriously."
+  },
+  {
+   "i": 4,
+   "start": 22.52,
+   "end": 23.7,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "D'aah-augh!"
+  },
+  {
+   "i": 5,
+   "start": 23.7,
+   "end": 25.68,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Wait a damn minute, something's wrong here..."
+  },
+  {
+   "i": 6,
+   "start": 25.68,
+   "end": 26.22,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Huh?"
+  },
+  {
+   "i": 7,
+   "start": 26.22,
+   "end": 29.38,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Back on your planet, the Namek couldn't even stand up to Nappa."
+  },
+  {
+   "i": 8,
+   "start": 29.38,
+   "end": 33.12,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Yet here he is now taking on Freeza... *in his second form*!"
+  },
+  {
+   "i": 9,
+   "start": 33.12,
+   "end": 34.44,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "What do you think happened?"
+  },
+  {
+   "i": 10,
+   "start": 34.44,
+   "end": 38.2,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Well, either Freeza hit me so hard I'm in a delusional coma, or..."
+  },
+  {
+   "i": 11,
+   "start": 38.2,
+   "end": 38.72,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Or?"
+  },
+  {
+   "i": 12,
+   "start": 38.72,
+   "end": 40.38,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "POWER LEVELS ARE BULLS***!"
+  },
+  {
+   "i": 13,
+   "start": 63.72,
+   "end": 65.68,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'Wow, you're really kicking his ass!'"
+  },
+  {
+   "i": 14,
+   "start": 65.68,
+   "end": 66.74,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'Oh, you're still here...'"
+  },
+  {
+   "i": 15,
+   "start": 66.74,
+   "end": 68.92,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'Yeah, I've just been watching you knock this guy around.'"
+  },
+  {
+   "i": 16,
+   "start": 69.12,
+   "end": 71.08,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'Kind of bored, wishing I had something to do...'"
+  },
+  {
+   "i": 17,
+   "start": 71.08,
+   "end": 72.14,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'You got any ideas?'"
+  },
+  {
+   "i": 18,
+   "start": 72.14,
+   "end": 73.8,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'Now is NOT the time!'"
+  },
+  {
+   "i": 19,
+   "start": 73.8,
+   "end": 74.3,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "D'ergh!"
+  },
+  {
+   "i": 20,
+   "start": 74.94,
+   "end": 75.52,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "D'augh!"
+  },
+  {
+   "i": 21,
+   "start": 75.8,
+   "end": 78.24,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Piccolo's actually standing up to him, Krillin!"
+  },
+  {
+   "i": 22,
+   "start": 78.24,
+   "end": 80.62,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I don't believe it! We may actually win!"
+  },
+  {
+   "i": 23,
+   "start": 80.62,
+   "end": 86.12,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Yeah, that's just, uh... great, if you'll excuse me though, I've a... got a..."
+  },
+  {
+   "i": 24,
+   "start": 87.1,
+   "end": 87.7,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Bye."
+  },
+  {
+   "i": 25,
+   "start": 88.78,
+   "end": 89.9,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "'Oh, for the love of...'"
+  },
+  {
+   "i": 26,
+   "start": 89.9,
+   "end": 90.9,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Aaaaaaaaaaaahhh!"
+  },
+  {
+   "i": 27,
+   "start": 90.9,
+   "end": 91.4,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Time out!"
+  },
+  {
+   "i": 28,
+   "start": 91.4,
+   "end": 91.96,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "D'agh--!"
+  },
+  {
+   "i": 29,
+   "start": 92.56,
+   "end": 93.08,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Huh?"
+  },
+  {
+   "i": 30,
+   "start": 93.08,
+   "end": 96.52,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Would you hold on for a moment, please? I'll be right back."
+  },
+  {
+   "i": 31,
+   "start": 96.52,
+   "end": 100.72,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'All right, I just gotta find one of the Ginyu ships, and get the hell out of here.'"
+  },
+  {
+   "i": 32,
+   "start": 100.88,
+   "end": 106.08,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'I'll just go to Freeza Planet 419. No one ever goes to Freeza Planet 419.'"
+  },
+  {
+   "i": 33,
+   "start": 106.08,
+   "end": 108.74,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'Not since its species miraculously repopulated...'"
+  },
+  {
+   "i": 34,
+   "start": 108.94,
+   "end": 110.24,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Random prophecies by Kanassans"
+  },
+  {
+   "i": 35,
+   "start": 108.94,
+   "end": 110.24,
+   "kind": "dialog",
+   "speaker": "Kanassan",
+   "text": "I CAN SEE THE FUTURE!"
+  },
+  {
+   "i": 36,
+   "start": 110.24,
+   "end": 111.64,
+   "kind": "dialog",
+   "speaker": "Kanassan",
+   "text": "BULMA AND VEGETA HAVE A KID!"
+  },
+  {
+   "i": 37,
+   "start": 111.64,
+   "end": 112.98,
+   "kind": "dialog",
+   "speaker": "Kanassan",
+   "text": "THE REAL BUU IS A CHILD!"
+  },
+  {
+   "i": 38,
+   "start": 112.98,
+   "end": 114.42,
+   "kind": "dialog",
+   "speaker": "Kanassan",
+   "text": "CELL REACHES HIS PERFECT FORM!"
+  },
+  {
+   "i": 39,
+   "start": 114.42,
+   "end": 116.28,
+   "kind": "dialog",
+   "speaker": "Kanassan",
+   "text": "GOTEN AND TRUNKS BECOME A GUY!"
+  },
+  {
+   "i": 40,
+   "start": 116.28,
+   "end": 120.04,
+   "kind": "dialog",
+   "speaker": "Kanassan",
+   "text": "GOHAN IS THE STRONGEST IN THE UNIVERSE BUT STILL DOESN'T DO CRAAAP!"
+  },
+  {
+   "i": 41,
+   "start": 121.08,
+   "end": 121.88,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Ga-hah!!"
+  },
+  {
+   "i": 42,
+   "start": 121.88,
+   "end": 124.8,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "So Vegeta, where are you going?"
+  },
+  {
+   "i": 43,
+   "start": 124.8,
+   "end": 127.3,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Oh, you know... places..."
+  },
+  {
+   "i": 44,
+   "start": 127.3,
+   "end": 129.52,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "\"Places\", hmm? Like that mountain over there?"
+  },
+  {
+   "i": 45,
+   "start": 129.52,
+   "end": 131.14,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Actually, that looks more like a plat--"
+  },
+  {
+   "i": 46,
+   "start": 131.14,
+   "end": 132.62,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "EAAAAAUUUUUUU--!!"
+  },
+  {
+   "i": 47,
+   "start": 135.26,
+   "end": 137.04,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Sorry about that. Where were we?"
+  },
+  {
+   "i": 48,
+   "start": 137.04,
+   "end": 141.82,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Last time I checked, I was planting my foot firmly somewhere between your lungs and colon."
+  },
+  {
+   "i": 49,
+   "start": 141.82,
+   "end": 146.68,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "An admirable feat for a low-life such as yourself. I have a question for you, though..."
+  },
+  {
+   "i": 50,
+   "start": 146.68,
+   "end": 147.38,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "What's that?"
+  },
+  {
+   "i": 51,
+   "start": 147.48,
+   "end": 148.36,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Die."
+  },
+  {
+   "i": 52,
+   "start": 148.56,
+   "end": 151.48,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "That's... not... a question--"
+  },
+  {
+   "i": 53,
+   "start": 151.48,
+   "end": 152.42,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Rreugh!"
+  },
+  {
+   "i": 54,
+   "start": 151.48,
+   "end": 152.42,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Aaaaaahhg!"
+  },
+  {
+   "i": 55,
+   "start": 153.86,
+   "end": 156.7,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "That's because I don't do requests."
+  },
+  {
+   "i": 56,
+   "start": 156.7,
+   "end": 158.94,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Well that didn't last real f***ing long..."
+  },
+  {
+   "i": 57,
+   "start": 161.66,
+   "end": 164.6,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Oh, come on now, that was just a love tap."
+  },
+  {
+   "i": 58,
+   "start": 164.6,
+   "end": 168.38,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Don't think you have the upper hand yet. I'm still wearing weighted armor!"
+  },
+  {
+   "i": 59,
+   "start": 170.52,
+   "end": 171.38,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Neck cracking sound"
+  },
+  {
+   "i": 60,
+   "start": 171.54,
+   "end": 174.58,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Aw man, that sounded good! Now I have to do my neck!"
+  },
+  {
+   "i": 61,
+   "start": 174.58,
+   "end": 175.08,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "THWACK"
+  },
+  {
+   "i": 62,
+   "start": 175.08,
+   "end": 176.66,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "HUUUUOOHGH MY NECK!"
+  },
+  {
+   "i": 63,
+   "start": 176.66,
+   "end": 177.16,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "DING"
+  },
+  {
+   "i": 64,
+   "start": 177.64,
+   "end": 181.46,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Weighted armor, how quaint... And how much does it weigh?"
+  },
+  {
+   "i": 65,
+   "start": 181.46,
+   "end": 184.92,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Same as it always does: 100 kilo--!"
+  },
+  {
+   "i": 66,
+   "start": 184.92,
+   "end": 186.26,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "...oh."
+  },
+  {
+   "i": 67,
+   "start": 186.26,
+   "end": 188.16,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "That's just *cute*!"
+  },
+  {
+   "i": 68,
+   "start": 188.16,
+   "end": 191.22,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "That... concept just sort of lost meaning after a while, didn't it?"
+  },
+  {
+   "i": 69,
+   "start": 191.22,
+   "end": 197.58,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "True... but I have one that's nice, fresh and ripe for abuse: Transformation!"
+  },
+  {
+   "i": 70,
+   "start": 197.58,
+   "end": 201.62,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "And spoiler warning - it's not getting old any time soon."
+  },
+  {
+   "i": 71,
+   "start": 201.62,
+   "end": 203.04,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "You can't be serious!"
+  },
+  {
+   "i": 72,
+   "start": 203.04,
+   "end": 205.26,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Oh, but I am. See, I merely... (trails off)"
+  },
+  {
+   "i": 73,
+   "start": 205.26,
+   "end": 207.22,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'Hey man, can I talk to you about something really quick?'"
+  },
+  {
+   "i": 74,
+   "start": 207.22,
+   "end": 209.56,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'I'm *seriously* in the middle of something right now!'"
+  },
+  {
+   "i": 75,
+   "start": 209.56,
+   "end": 213.12,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'Yeah, I know, but I've been looking around and you've got like, no apps on here.'"
+  },
+  {
+   "i": 76,
+   "start": 213.12,
+   "end": 215.3,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'I have already played the *crap* out of Minesweeper.'"
+  },
+  {
+   "i": 77,
+   "start": 215.3,
+   "end": 216.26,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'COULD YOU JUST--?'"
+  },
+  {
+   "i": 78,
+   "start": 216.26,
+   "end": 219.22,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'Wait, I have apps? I have Minesweeper?!'"
+  },
+  {
+   "i": 79,
+   "start": 219.42,
+   "end": 221.66,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'I just thought I could connect to the internet with my antennae.'"
+  },
+  {
+   "i": 80,
+   "start": 221.66,
+   "end": 223.24,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'I didn't even know we COULD do that!'"
+  },
+  {
+   "i": 81,
+   "start": 223.24,
+   "end": 225.64,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'Well, you learn something new every day. Now could you let me focus--?'"
+  },
+  {
+   "i": 82,
+   "start": 225.64,
+   "end": 228.74,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'Heeeey... you wanna play me in Minesweeper?'"
+  },
+  {
+   "i": 83,
+   "start": 228.74,
+   "end": 233.0,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'You CAN'T play someone in Minesweeper; that's a single player game!'"
+  },
+  {
+   "i": 84,
+   "start": 233.0,
+   "end": 236.36,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'Nah, see, first I go, then you go and try to beat my time--'"
+  },
+  {
+   "i": 85,
+   "start": 236.36,
+   "end": 237.72,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'Unh, hey, is he transforming?'"
+  },
+  {
+   "i": 86,
+   "start": 237.72,
+   "end": 238.98,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Uh?! DAMN IT!"
+  },
+  {
+   "i": 87,
+   "start": 238.98,
+   "end": 243.88,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "HAHHHHHHHHHH!"
+  },
+  {
+   "i": 88,
+   "start": 243.88,
+   "end": 247.0,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "AHHHHHhhhhhh!"
+  },
+  {
+   "i": 89,
+   "start": 248.16,
+   "end": 252.18,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Ssso, Namekian - what do you think of my third form?"
+  },
+  {
+   "i": 90,
+   "start": 252.18,
+   "end": 254.46,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "I think Ridley Scott's gonna sue somebody."
+  },
+  {
+   "i": 91,
+   "start": 254.46,
+   "end": 255.66,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "What are you talking about?"
+  },
+  {
+   "i": 92,
+   "start": 255.66,
+   "end": 257.08,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Yahn yahn yahn yahn yahn yahn yahn yahn!"
+  },
+  {
+   "i": 93,
+   "start": 257.08,
+   "end": 258.2,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Let me touch your skin!"
+  },
+  {
+   "i": 94,
+   "start": 258.2,
+   "end": 258.78,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Ugh!"
+  },
+  {
+   "i": 95,
+   "start": 258.78,
+   "end": 261.82,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Oh no, this is horrible! How could this happen!?"
+  },
+  {
+   "i": 96,
+   "start": 261.82,
+   "end": 263.04,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "He's going to kill us all!"
+  },
+  {
+   "i": 97,
+   "start": 263.04,
+   "end": 264.64,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "HEEEEELP ME!"
+  },
+  {
+   "i": 98,
+   "start": 264.64,
+   "end": 266.04,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "HAHHHHHHH!"
+  },
+  {
+   "i": 99,
+   "start": 266.04,
+   "end": 266.56,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Hyah!"
+  },
+  {
+   "i": 100,
+   "start": 266.56,
+   "end": 267.38,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Hyah, hyah!"
+  },
+  {
+   "i": 101,
+   "start": 267.38,
+   "end": 268.92,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "(Rapid hyahs), HYAH!"
+  },
+  {
+   "i": 102,
+   "start": 268.92,
+   "end": 269.98,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Grrrrrrrh!"
+  },
+  {
+   "i": 103,
+   "start": 270.96,
+   "end": 272.2,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Hya--D'AARRGH!"
+  },
+  {
+   "i": 104,
+   "start": 272.2,
+   "end": 276.14,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Poor little Namekian! Can't touch me anymore!"
+  },
+  {
+   "i": 105,
+   "start": 276.14,
+   "end": 278.58,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "How about this: Let's play a game!"
+  },
+  {
+   "i": 106,
+   "start": 278.58,
+   "end": 280.58,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Ever heard of paintball?"
+  },
+  {
+   "i": 107,
+   "start": 280.78,
+   "end": 281.44,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Yeah..."
+  },
+  {
+   "i": 108,
+   "start": 281.44,
+   "end": 282.94,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Just remove the \"T\"."
+  },
+  {
+   "i": 109,
+   "start": 282.94,
+   "end": 283.72,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "I don't get it--"
+  },
+  {
+   "i": 110,
+   "start": 283.72,
+   "end": 285.1,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "ARUGH-HUH, I GET IT!!"
+  },
+  {
+   "i": 111,
+   "start": 285.1,
+   "end": 286.94,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Now for your other glu-bock!"
+  },
+  {
+   "i": 112,
+   "start": 287.18,
+   "end": 288.06,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "ARGH!"
+  },
+  {
+   "i": 113,
+   "start": 288.14,
+   "end": 290.4,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "You're not really familiar with our anatomy, are you?"
+  },
+  {
+   "i": 114,
+   "start": 290.4,
+   "end": 292.98,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "It doesn't matter; I'll hit your glu-bock somewhere!"
+  },
+  {
+   "i": 115,
+   "start": 294.88,
+   "end": 295.94,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "PICCOLO, NOOO!"
+  },
+  {
+   "i": 116,
+   "start": 295.94,
+   "end": 297.38,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Aw, not this crap again!"
+  },
+  {
+   "i": 117,
+   "start": 297.9,
+   "end": 298.6,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "HOLD ON!"
+  },
+  {
+   "i": 118,
+   "start": 298.6,
+   "end": 301.64,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I have an idea, and I don't want to hear any of your stupid crap."
+  },
+  {
+   "i": 119,
+   "start": 301.94,
+   "end": 303.96,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I only promise to try."
+  },
+  {
+   "i": 120,
+   "start": 303.96,
+   "end": 308.78,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I need you to - and follow me on this one! - ...*almost* kill me."
+  },
+  {
+   "i": 121,
+   "start": 309.22,
+   "end": 311.14,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Almost... kill you?"
+  },
+  {
+   "i": 122,
+   "start": 311.14,
+   "end": 311.7,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Yeah."
+  },
+  {
+   "i": 123,
+   "start": 312.04,
+   "end": 315.02,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "And there's no repercussion for this?"
+  },
+  {
+   "i": 124,
+   "start": 315.32,
+   "end": 316.74,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "...I will not punch you."
+  },
+  {
+   "i": 125,
+   "start": 316.74,
+   "end": 318.06,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Oddly specific."
+  },
+  {
+   "i": 126,
+   "start": 318.06,
+   "end": 322.96,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I'm going to need a moment to prepare myself, otherwise I might go into-- SHOOOOCK!!"
+  },
+  {
+   "i": 127,
+   "start": 323.24,
+   "end": 324.88,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "YOU ARE SO PUNCHED!"
+  },
+  {
+   "i": 128,
+   "start": 325.16,
+   "end": 327.74,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "AUGHHAAHAA! WHY IS THIS STILL HAPPENING!?"
+  },
+  {
+   "i": 129,
+   "start": 327.74,
+   "end": 329.2,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Circling around, Mr. Piccolo!"
+  },
+  {
+   "i": 130,
+   "start": 329.28,
+   "end": 330.24,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Hey, Freeza!"
+  },
+  {
+   "i": 131,
+   "start": 330.24,
+   "end": 334.9,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "The human body is composed of 75% water. I am 100% *death*!"
+  },
+  {
+   "i": 132,
+   "start": 335.04,
+   "end": 336.1,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "HAVE SOME!"
+  },
+  {
+   "i": 133,
+   "start": 336.24,
+   "end": 336.9,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "What?!"
+  },
+  {
+   "i": 134,
+   "start": 336.9,
+   "end": 337.48,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "GUAHHH!"
+  },
+  {
+   "i": 135,
+   "start": 338.28,
+   "end": 344.4,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Oh no~! The invincible Lord Freeza defeated by a mere child! What dramatic irony!"
+  },
+  {
+   "i": 136,
+   "start": 344.4,
+   "end": 347.14,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Ohohoho nohoho... just kidding."
+  },
+  {
+   "i": 137,
+   "start": 347.14,
+   "end": 348.16,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "'Crap baskets...!'"
+  },
+  {
+   "i": 138,
+   "start": 353.82,
+   "end": 356.66,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Mr. Piccolo! You saved me again!"
+  },
+  {
+   "i": 139,
+   "start": 356.66,
+   "end": 358.94,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "\"Saved\" is sort of subjective here."
+  },
+  {
+   "i": 140,
+   "start": 358.94,
+   "end": 363.5,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "So, we're all well aware that that all basically equated to a game of hot space-potato, right?"
+  },
+  {
+   "i": 141,
+   "start": 363.5,
+   "end": 367.88,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Well then, I say we get a move-on! Who here's tired of my third form?"
+  },
+  {
+   "i": 142,
+   "start": 367.88,
+   "end": 369.04,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Me."
+  },
+  {
+   "i": 143,
+   "start": 367.88,
+   "end": 369.04,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Me."
+  },
+  {
+   "i": 144,
+   "start": 367.88,
+   "end": 369.04,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Me."
+  },
+  {
+   "i": 145,
+   "start": 369.04,
+   "end": 371.52,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Alrighty, then! Final form it is!"
+  },
+  {
+   "i": 146,
+   "start": 371.52,
+   "end": 373.66,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Personally, I was a bigger fan of the first form."
+  },
+  {
+   "i": 147,
+   "start": 373.66,
+   "end": 375.34,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "I'd settle on second, really."
+  },
+  {
+   "i": 148,
+   "start": 375.34,
+   "end": 377.08,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "HYAHHHHHHH...!"
+  },
+  {
+   "i": 149,
+   "start": 377.08,
+   "end": 378.6,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Come on, Mr. Piccolo."
+  },
+  {
+   "i": 150,
+   "start": 378.6,
+   "end": 380.02,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Urgghh..."
+  },
+  {
+   "i": 151,
+   "start": 380.02,
+   "end": 382.98,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Don't worry, we have Dende. He can heal you!"
+  },
+  {
+   "i": 152,
+   "start": 383.66,
+   "end": 385.6,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Krillin, where's Dende?"
+  },
+  {
+   "i": 153,
+   "start": 385.6,
+   "end": 387.9,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I dunno but Liittle Green's over there with Vegeta."
+  },
+  {
+   "i": 154,
+   "start": 388.0,
+   "end": 388.58,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Why?"
+  },
+  {
+   "i": 155,
+   "start": 388.58,
+   "end": 389.78,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I blew a hole in his chest."
+  },
+  {
+   "i": 156,
+   "start": 390.3,
+   "end": 391.14,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "...WHY?!"
+  },
+  {
+   "i": 157,
+   "start": 391.14,
+   "end": 392.32,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Because he asked for it."
+  },
+  {
+   "i": 158,
+   "start": 392.4,
+   "end": 393.34,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Gaaugh..."
+  },
+  {
+   "i": 159,
+   "start": 393.44,
+   "end": 397.04,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "You... green thing... Heal me."
+  },
+  {
+   "i": 160,
+   "start": 397.04,
+   "end": 401.6,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Oh I'm sorry, I'm having a hard time hearing you over the smell of my people's blood on your hands."
+  },
+  {
+   "i": 161,
+   "start": 401.6,
+   "end": 404.62,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Oh no... do not be that guy right now."
+  },
+  {
+   "i": 162,
+   "start": 404.62,
+   "end": 406.82,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Oh, I'm going to be that guy right now."
+  },
+  {
+   "i": 163,
+   "start": 406.82,
+   "end": 410.2,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I am LITERALLY going to die!"
+  },
+  {
+   "i": 164,
+   "start": 410.2,
+   "end": 414.02,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Well, how about this: I'll heal you, on one condition..."
+  },
+  {
+   "i": 165,
+   "start": 414.02,
+   "end": 415.14,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "And that is?"
+  },
+  {
+   "i": 166,
+   "start": 415.14,
+   "end": 416.2,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Say my name."
+  },
+  {
+   "i": 167,
+   "start": 416.68,
+   "end": 419.78,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Oh... uhhhhhhhhhhh..."
+  },
+  {
+   "i": 168,
+   "start": 419.78,
+   "end": 421.58,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "You don't even know my name."
+  },
+  {
+   "i": 169,
+   "start": 421.58,
+   "end": 426.8,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "OH! I-I do! It's, uh... Um, uh... Little... Green?"
+  },
+  {
+   "i": 170,
+   "start": 426.8,
+   "end": 428.8,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Hahahahahaha - no."
+  },
+  {
+   "i": 171,
+   "start": 428.8,
+   "end": 430.18,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "No - it's Dende."
+  },
+  {
+   "i": 172,
+   "start": 430.3,
+   "end": 431.32,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Say \"Dende\"."
+  },
+  {
+   "i": 173,
+   "start": 431.32,
+   "end": 431.96,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Dende."
+  },
+  {
+   "i": 174,
+   "start": 431.96,
+   "end": 434.22,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Now say, \"Please heal me, Dende.\""
+  },
+  {
+   "i": 175,
+   "start": 434.22,
+   "end": 435.64,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Please heal me, Dende."
+  },
+  {
+   "i": 176,
+   "start": 435.64,
+   "end": 437.64,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Well, since you asked so nicely..."
+  },
+  {
+   "i": 177,
+   "start": 439.92,
+   "end": 442.14,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Come back, magic man..."
+  },
+  {
+   "i": 178,
+   "start": 442.14,
+   "end": 443.08,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "augh..."
+  },
+  {
+   "i": 179,
+   "start": 443.52,
+   "end": 446.04,
+   "kind": "direction",
+   "speaker": null,
+   "text": "High pitch/frequency pulse"
+  },
+  {
+   "i": 180,
+   "start": 443.52,
+   "end": 446.04,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "And you, my friend, are a subject of nepotism."
+  },
+  {
+   "i": 181,
+   "start": 446.04,
+   "end": 446.96,
+   "kind": "direction",
+   "speaker": null,
+   "text": "High pitch/frequency pulse"
+  },
+  {
+   "i": 182,
+   "start": 446.04,
+   "end": 446.96,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Ughh..."
+  },
+  {
+   "i": 183,
+   "start": 446.96,
+   "end": 448.28,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Thank you, magic man."
+  },
+  {
+   "i": 184,
+   "start": 448.28,
+   "end": 449.66,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "It's good to have you back, Nail."
+  },
+  {
+   "i": 185,
+   "start": 449.66,
+   "end": 450.76,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "I'm not Nail."
+  },
+  {
+   "i": 186,
+   "start": 450.76,
+   "end": 451.86,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'Technically you kinda are.'"
+  },
+  {
+   "i": 187,
+   "start": 451.86,
+   "end": 452.94,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Shut up, Nail!"
+  },
+  {
+   "i": 188,
+   "start": 452.94,
+   "end": 454.36,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Why are you talking to yourself?"
+  },
+  {
+   "i": 189,
+   "start": 454.36,
+   "end": 456.24,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "No reason; now go heal Vegeta."
+  },
+  {
+   "i": 190,
+   "start": 456.24,
+   "end": 457.4,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Why would I do that?"
+  },
+  {
+   "i": 191,
+   "start": 457.56,
+   "end": 459.78,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "AHHHHHHH...!"
+  },
+  {
+   "i": 192,
+   "start": 460.02,
+   "end": 461.22,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Because *that*."
+  },
+  {
+   "i": 193,
+   "start": 461.22,
+   "end": 463.28,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Oh yeah... that's happening right now."
+  },
+  {
+   "i": 194,
+   "start": 463.46,
+   "end": 465.46,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "YEH-AHHHHHHHHH...!"
+  },
+  {
+   "i": 195,
+   "start": 465.5,
+   "end": 467.64,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Krillin, why aren't you using your Kienzan?"
+  },
+  {
+   "i": 196,
+   "start": 467.84,
+   "end": 470.06,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Yeah you know, I keep forgetting to do that."
+  },
+  {
+   "i": 197,
+   "start": 471.06,
+   "end": 471.56,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "...And?"
+  },
+  {
+   "i": 198,
+   "start": 471.56,
+   "end": 475.16,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Well, I kind of used all my energy to mortally wound Vegeta."
+  },
+  {
+   "i": 199,
+   "start": 475.16,
+   "end": 477.12,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Seriously, what did I miss?!"
+  },
+  {
+   "i": 200,
+   "start": 477.54,
+   "end": 479.98,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "(Sigh), twist my arm a little bit more, why don't cha?"
+  },
+  {
+   "i": 201,
+   "start": 480.24,
+   "end": 481.86,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "You... healed me."
+  },
+  {
+   "i": 202,
+   "start": 481.86,
+   "end": 484.4,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Of course I did. I'm a nice guy."
+  },
+  {
+   "i": 203,
+   "start": 484.4,
+   "end": 487.2,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "And now what's to stop me from kicking your face in?"
+  },
+  {
+   "i": 204,
+   "start": 487.2,
+   "end": 490.36,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Because you touch me... and you're not getting back up again."
+  },
+  {
+   "i": 205,
+   "start": 490.62,
+   "end": 497.18,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "That's right, I'm your White Mage... and *nobody*... f**ks... with the White Mage."
+  },
+  {
+   "i": 206,
+   "start": 497.18,
+   "end": 498.92,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "DOOOM"
+  },
+  {
+   "i": 207,
+   "start": 503.36,
+   "end": 506.84,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Oh, I feel REAL good about my life right now."
+  },
+  {
+   "i": 208,
+   "start": 506.84,
+   "end": 510.78,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ Closing theme (DBZ intermission) ♫"
+  },
+  {
+   "i": 209,
+   "start": 511.8,
+   "end": 514.3,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "LITTLE GREEN! NOOOOOO!"
+  },
+  {
+   "i": 210,
+   "start": 514.3,
+   "end": 516.72,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Actually, Krillin, his name was Dende."
+  },
+  {
+   "i": 211,
+   "start": 516.94,
+   "end": 519.18,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Huh, that's funny. Never spoke up about it."
+  }
+ ],
+ "segments": [
+  {
+   "start": 23.2,
+   "end": 40.9,
+   "title": "POWER LEVELS ARE BULLS***!",
+   "quote": "Well, either Freeza hit me so hard I'm in a delusional coma, or... / Or? / POWER LEVELS ARE BULLS***!",
+   "line_start": 5,
+   "line_end": 12
+  },
+  {
+   "start": 63.2,
+   "end": 74.3,
+   "title": "Nail Is Bored",
+   "quote": "Kind of bored, wishing I had something to do... You got any ideas? / Now is NOT the time!",
+   "line_start": 13,
+   "line_end": 18
+  },
+  {
+   "start": 96.0,
+   "end": 121.88,
+   "title": "Freeza Planet 419",
+   "quote": "No one ever goes to Freeza Planet 419. Not since its species miraculously repopulated... / I CAN SEE THE FUTURE!",
+   "line_start": 31,
+   "line_end": 41
+  },
+  {
+   "start": 121.4,
+   "end": 137.5,
+   "title": "Like That Mountain Over There?",
+   "quote": "\"Places\", hmm? Like that mountain over there? / Actually, that looks more like a plat--",
+   "line_start": 42,
+   "line_end": 47
+  },
+  {
+   "start": 136.6,
+   "end": 159.4,
+   "title": "I Don't Do Requests",
+   "quote": "I have a question for you, though... / What's that? / Die. / That's... not... a question--",
+   "line_start": 48,
+   "line_end": 56
+  },
+  {
+   "start": 177.2,
+   "end": 191.7,
+   "title": "100 Kilo--! ...Oh.",
+   "quote": "Same as it always does: 100 kilo--! / ...oh. / That's just *cute*!",
+   "line_start": 64,
+   "line_end": 68
+  },
+  {
+   "start": 209.0,
+   "end": 238.98,
+   "title": "Minesweeper",
+   "quote": "You CAN'T play someone in Minesweeper; that's a single player game! / Unh, hey, is he transforming? / Uh?! DAMN IT!",
+   "line_start": 75,
+   "line_end": 86
+  },
+  {
+   "start": 247.7,
+   "end": 259.3,
+   "title": "Ridley Scott's Gonna Sue",
+   "quote": "I think Ridley Scott's gonna sue somebody. / Yahn yahn yahn yahn! Let me touch your skin!",
+   "line_start": 89,
+   "line_end": 94
+  },
+  {
+   "start": 297.4,
+   "end": 325.4,
+   "title": "*Almost* Kill Me",
+   "quote": "I need you to - and follow me on this one! - ...*almost* kill me. / ...I will not punch you. / Oddly specific. / YOU ARE SO PUNCHED!",
+   "line_start": 117,
+   "line_end": 127
+  },
+  {
+   "start": 327.3,
+   "end": 348.7,
+   "title": "I Am 100% *Death*",
+   "quote": "The human body is composed of 75% water. I am 100% *death*! HAVE SOME! / 'Crap baskets...!'",
+   "line_start": 129,
+   "line_end": 137
+  },
+  {
+   "start": 409.7,
+   "end": 438.1,
+   "title": "Say My Name",
+   "quote": "Say my name. / Little... Green? / No - it's Dende. / Please heal me, Dende.",
+   "line_start": 164,
+   "line_end": 176
+  },
+  {
+   "start": 479.8,
+   "end": 498.92,
+   "title": "Nobody F**ks with the White Mage",
+   "quote": "That's right, I'm your White Mage... and *nobody*... f**ks... with the White Mage.",
+   "line_start": 201,
+   "line_end": 206
+  }
+ ]
+}

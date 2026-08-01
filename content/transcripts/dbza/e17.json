@@ -1,0 +1,1435 @@
+{
+ "item": "e17",
+ "show": "dbza",
+ "youtube": "Dq4Kx51S-WM",
+ "title": "Episode 15",
+ "duration": 481,
+ "lines": [
+  {
+   "i": 0,
+   "start": 7.94,
+   "end": 9.5,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Static"
+  },
+  {
+   "i": 1,
+   "start": 9.72,
+   "end": 10.34,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "Goku!"
+  },
+  {
+   "i": 2,
+   "start": 10.52,
+   "end": 11.64,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hi, Dr. Briefs!"
+  },
+  {
+   "i": 3,
+   "start": 11.64,
+   "end": 14.88,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "Goku, what have you done?! You've blasted off into space!"
+  },
+  {
+   "i": 4,
+   "start": 15.1,
+   "end": 20.36,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "You're incredibly lucky I already set the coordinates for Namek, but you... you..."
+  },
+  {
+   "i": 5,
+   "start": 21.04,
+   "end": 22.3,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "Where did you get that muffin?"
+  },
+  {
+   "i": 6,
+   "start": 22.68,
+   "end": 23.58,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Muffin Button."
+  },
+  {
+   "i": 7,
+   "start": 24.1,
+   "end": 27.18,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "But... I... never installed a Muffin Button!"
+  },
+  {
+   "i": 8,
+   "start": 27.34,
+   "end": 29.68,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Then where did I get this muffin...?"
+  },
+  {
+   "i": 9,
+   "start": 30.12,
+   "end": 31.58,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "Listen very close, Goku."
+  },
+  {
+   "i": 10,
+   "start": 31.88,
+   "end": 37.96,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "Whatever you do, don't fool with the gravity controls. It goes up to 100 times Earth's normal gravity."
+  },
+  {
+   "i": 11,
+   "start": 38.3,
+   "end": 43.86,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "So what you're saying is: If I turn up the gravity, then I can get stronger!"
+  },
+  {
+   "i": 12,
+   "start": 43.86,
+   "end": 46.74,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "NO! What I'm saying is it will crush your bones!"
+  },
+  {
+   "i": 13,
+   "start": 46.74,
+   "end": 50.3,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "The detrimental effects could be catastrophic! You may never walk again!"
+  },
+  {
+   "i": 14,
+   "start": 50.3,
+   "end": 52.18,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Bored now. Gotta train. Bye bye!"
+  },
+  {
+   "i": 15,
+   "start": 52.18,
+   "end": 53.1,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "GOKU! WAIT!"
+  },
+  {
+   "i": 16,
+   "start": 53.1,
+   "end": 53.6,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Static"
+  },
+  {
+   "i": 17,
+   "start": 54.8,
+   "end": 56.5,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I like his mustache."
+  },
+  {
+   "i": 18,
+   "start": 56.82,
+   "end": 58.68,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"Cha-La Head-Cha-La\" ♫"
+  },
+  {
+   "i": 19,
+   "start": 58.68,
+   "end": 61.28,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "♫ CHA-LA HEAD-CHA-LA ♫"
+  },
+  {
+   "i": 20,
+   "start": 62.1,
+   "end": 65.8,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "♫ Egao urutora zetto de ♫ (With a smile that’s Ultra-Z)"
+  },
+  {
+   "i": 21,
+   "start": 65.8,
+   "end": 69.06,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "♫ Kyô mo ai-yai-yai-yai-yai~ ♫ (Even today is ai-yai-yai-yai-yai~)"
+  },
+  {
+   "i": 22,
+   "start": 69.06,
+   "end": 70.86,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "♫ Sparking! [fading echo] ♫"
+  },
+  {
+   "i": 23,
+   "start": 77.02,
+   "end": 78.66,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Birds tweeting"
+  },
+  {
+   "i": 24,
+   "start": 78.66,
+   "end": 80.14,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "(Grunts)"
+  },
+  {
+   "i": 25,
+   "start": 80.14,
+   "end": 81.76,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Are you alright over there?"
+  },
+  {
+   "i": 26,
+   "start": 81.76,
+   "end": 85.12,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "Yeah. Little bastards just hit me outta nowhere."
+  },
+  {
+   "i": 27,
+   "start": 85.12,
+   "end": 88.5,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Oh, trust me. I know what it's like to take a hard one to the face."
+  },
+  {
+   "i": 28,
+   "start": 88.5,
+   "end": 90.88,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Good to see you're still conscious, Dodoria."
+  },
+  {
+   "i": 29,
+   "start": 90.88,
+   "end": 98.0,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Oh, and just so you know, it's not a big deal or anything, you might want to get right onto this one, but THEY'RE GETTING AWAY, YOU FAT BASTARD!"
+  },
+  {
+   "i": 30,
+   "start": 98.0,
+   "end": 99.92,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "(Growls angrily)"
+  },
+  {
+   "i": 31,
+   "start": 100.74,
+   "end": 103.82,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Not gonna lie, Gohan; not your brightest move."
+  },
+  {
+   "i": 32,
+   "start": 103.82,
+   "end": 106.8,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Oh, come on, Krillin; we have a two mile lead on him."
+  },
+  {
+   "i": 33,
+   "start": 106.8,
+   "end": 111.26,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Factoring in our speed and velocity and his mass, there's no way he should be able to catch up--"
+  },
+  {
+   "i": 34,
+   "start": 111.26,
+   "end": 111.82,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "URAAH!"
+  },
+  {
+   "i": 35,
+   "start": 112.66,
+   "end": 114.3,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Well, *look who's wrong*!"
+  },
+  {
+   "i": 36,
+   "start": 114.3,
+   "end": 115.5,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "There's always room for error!"
+  },
+  {
+   "i": 37,
+   "start": 115.78,
+   "end": 116.4,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "URAGH!"
+  },
+  {
+   "i": 38,
+   "start": 117.18,
+   "end": 117.76,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "AAHRUGH!"
+  },
+  {
+   "i": 39,
+   "start": 118.08,
+   "end": 120.8,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "'Aw dammitdammitdammitdammitdammitdammitdammitdammitdammit--!'"
+  },
+  {
+   "i": 40,
+   "start": 120.8,
+   "end": 121.74,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "No, you don't!"
+  },
+  {
+   "i": 41,
+   "start": 122.56,
+   "end": 126.46,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Birds tweeting"
+  },
+  {
+   "i": 42,
+   "start": 126.76,
+   "end": 128.78,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "How do you think Dodoria is doing up there?"
+  },
+  {
+   "i": 43,
+   "start": 128.94,
+   "end": 131.96,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "We're talking about one of my finest soldiers."
+  },
+  {
+   "i": 44,
+   "start": 131.96,
+   "end": 135.22,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "There's no way that they'll escape Dodoria's grasp."
+  },
+  {
+   "i": 45,
+   "start": 135.56,
+   "end": 136.06,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "D'YAGH!"
+  },
+  {
+   "i": 46,
+   "start": 135.56,
+   "end": 136.06,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "OOGH!"
+  },
+  {
+   "i": 47,
+   "start": 136.06,
+   "end": 137.0,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "God dammit."
+  },
+  {
+   "i": 48,
+   "start": 137.58,
+   "end": 140.1,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "But what if they have any tricks up their sleeves?"
+  },
+  {
+   "i": 49,
+   "start": 140.1,
+   "end": 144.58,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Come now, Zarbon! We both know Dodoria would never let them out of sight."
+  },
+  {
+   "i": 50,
+   "start": 144.9,
+   "end": 145.68,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "SOLAR FLARE!!!"
+  },
+  {
+   "i": 51,
+   "start": 146.08,
+   "end": 146.7,
+   "kind": "direction",
+   "speaker": null,
+   "text": "( ͡° ͜ʖ ͡°)"
+  },
+  {
+   "i": 52,
+   "start": 146.7,
+   "end": 147.9,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "God, *dammit*!"
+  },
+  {
+   "i": 53,
+   "start": 148.4,
+   "end": 151.92,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Still sir, we have to remember that Vegeta is on the planet."
+  },
+  {
+   "i": 54,
+   "start": 151.92,
+   "end": 155.94,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Oh, please! Like Vegeta could even lay a hand on Dodoria!"
+  },
+  {
+   "i": 55,
+   "start": 157.42,
+   "end": 157.92,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "D'UGH!"
+  },
+  {
+   "i": 56,
+   "start": 157.92,
+   "end": 159.38,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "GOD *DAMMIIIIIIIT*--!!!"
+  },
+  {
+   "i": 57,
+   "start": 159.38,
+   "end": 161.04,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "SPLASH"
+  },
+  {
+   "i": 58,
+   "start": 163.86,
+   "end": 166.38,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "(Gasping for air)"
+  },
+  {
+   "i": 59,
+   "start": 166.38,
+   "end": 167.34,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'Sup, Bubblegum?"
+  },
+  {
+   "i": 60,
+   "start": 167.6,
+   "end": 172.62,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "Vegeta! You got some serious balls to get the drop on me!"
+  },
+  {
+   "i": 61,
+   "start": 172.68,
+   "end": 176.18,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Funny you should mention that. I just happen to be looking for a set."
+  },
+  {
+   "i": 62,
+   "start": 176.54,
+   "end": 182.54,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "Well, look at you, Veggie. All grown up and out on your own, trying to move up in the world."
+  },
+  {
+   "i": 63,
+   "start": 182.54,
+   "end": 185.3,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "And look at you, packing away more bacon than Hormel."
+  },
+  {
+   "i": 64,
+   "start": 185.36,
+   "end": 190.36,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "Very funny. But you won't be laughing when Freeza finds your scrawny ass."
+  },
+  {
+   "i": 65,
+   "start": 190.52,
+   "end": 192.44,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "So how about I make you a deal:"
+  },
+  {
+   "i": 66,
+   "start": 192.8,
+   "end": 198.4,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "You hand over that pretty red Scouter, and maybe I won't point Freeza in the right direction."
+  },
+  {
+   "i": 67,
+   "start": 198.58,
+   "end": 200.18,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Oh! You mean *this* Scouter?"
+  },
+  {
+   "i": 68,
+   "start": 200.32,
+   "end": 201.24,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "That's right."
+  },
+  {
+   "i": 69,
+   "start": 201.34,
+   "end": 205.58,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Well, I'd be inclined to give it to you; but, you see, there's a problem with it."
+  },
+  {
+   "i": 70,
+   "start": 205.74,
+   "end": 206.64,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "And what would that be?"
+  },
+  {
+   "i": 71,
+   "start": 206.64,
+   "end": 207.66,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Scouter crunches and explodes"
+  },
+  {
+   "i": 72,
+   "start": 208.16,
+   "end": 209.12,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "It's broken."
+  },
+  {
+   "i": 73,
+   "start": 209.26,
+   "end": 213.26,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "Blagh!!! You fool! Now you're as blind as the rest of us!"
+  },
+  {
+   "i": 74,
+   "start": 213.4,
+   "end": 217.2,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Not quite. See, while I was on Earth, I learned a new trick."
+  },
+  {
+   "i": 75,
+   "start": 217.8,
+   "end": 219.52,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I can sense energy."
+  },
+  {
+   "i": 76,
+   "start": 219.64,
+   "end": 220.9,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "How the hell'd you do that?"
+  },
+  {
+   "i": 77,
+   "start": 221.06,
+   "end": 221.74,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I dunno."
+  },
+  {
+   "i": 78,
+   "start": 222.04,
+   "end": 227.0,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "Wait a minute...! I get it now! Those little bastards I were chasing were Earthlings!"
+  },
+  {
+   "i": 79,
+   "start": 227.22,
+   "end": 229.62,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "You sent them to lure me away from Freeza!"
+  },
+  {
+   "i": 80,
+   "start": 229.62,
+   "end": 235.56,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I'm sorry, but at this point, all I hear is: \"Hit me, Vegeta!\" \"Please kill me!\" \"God, this armor makes me look fat!\""
+  },
+  {
+   "i": 81,
+   "start": 235.56,
+   "end": 237.08,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "THAT'S IT! RRRRAGH!"
+  },
+  {
+   "i": 82,
+   "start": 237.78,
+   "end": 239.6,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "MOUTHY! LITTLE! PRICK!"
+  },
+  {
+   "i": 83,
+   "start": 240.08,
+   "end": 241.44,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Where you aiming, Dewgong?"
+  },
+  {
+   "i": 84,
+   "start": 241.44,
+   "end": 242.04,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "RRGGHH!"
+  },
+  {
+   "i": 85,
+   "start": 242.38,
+   "end": 243.04,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Upsie daisy!"
+  },
+  {
+   "i": 86,
+   "start": 242.38,
+   "end": 243.04,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "RRAAGH!"
+  },
+  {
+   "i": 87,
+   "start": 243.92,
+   "end": 250.22,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "(Growling in pain)"
+  },
+  {
+   "i": 88,
+   "start": 246.84,
+   "end": 250.22,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Any last words before I take you apart like a pink Potato Head?"
+  },
+  {
+   "i": 89,
+   "start": 250.4,
+   "end": 253.4,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "W-W-Wait! I can tell you what really happened to your planet!"
+  },
+  {
+   "i": 90,
+   "start": 253.4,
+   "end": 254.76,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "You mean that Freeza blew it up?"
+  },
+  {
+   "i": 91,
+   "start": 254.76,
+   "end": 256.04,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "NO! THATFREEZABLEWITUP!!!"
+  },
+  {
+   "i": 92,
+   "start": 256.56,
+   "end": 257.08,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "...What?"
+  },
+  {
+   "i": 93,
+   "start": 257.32,
+   "end": 259.8,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Really should have told Freeza to keep off the Twitter."
+  },
+  {
+   "i": 94,
+   "start": 260.18,
+   "end": 262.4,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫"
+  },
+  {
+   "i": 95,
+   "start": 262.58,
+   "end": 269.16,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "Ple-e-ease, do-hon't kill me, I beg ya, DON'T KILL MEE-EE-EE-ee-ee-eeeee...!"
+  },
+  {
+   "i": 96,
+   "start": 269.16,
+   "end": 275.78,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Look at you, Dodoria... you were always so damn proud... and now here you are, CRYING like a woman!"
+  },
+  {
+   "i": 97,
+   "start": 275.9,
+   "end": 278.04,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "I AM A WOMAN!!!!"
+  },
+  {
+   "i": 98,
+   "start": 278.26,
+   "end": 278.76,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Wha--"
+  },
+  {
+   "i": 99,
+   "start": 279.36,
+   "end": 279.94,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "...*What*?"
+  },
+  {
+   "i": 100,
+   "start": 280.04,
+   "end": 283.22,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "I SAID I AM A WOMAN!!"
+  },
+  {
+   "i": 101,
+   "start": 284.28,
+   "end": 284.92,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "...WHAT?!"
+  },
+  {
+   "i": 102,
+   "start": 285.86,
+   "end": 288.28,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Welp! Good thing I was there to get us out of that one!"
+  },
+  {
+   "i": 103,
+   "start": 288.46,
+   "end": 291.28,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Well, yeah, but, why didn't you use your Kienzan--?"
+  },
+  {
+   "i": 104,
+   "start": 291.28,
+   "end": 294.56,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "HEY LOOK! I even saved this thing. Can you fly, little guy?"
+  },
+  {
+   "i": 105,
+   "start": 294.7,
+   "end": 298.76,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "My name is Dende. And yes; we all learn when we are children."
+  },
+  {
+   "i": 106,
+   "start": 299.12,
+   "end": 301.18,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "You know, you should probably stick with us."
+  },
+  {
+   "i": 107,
+   "start": 301.38,
+   "end": 308.32,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Considering it is either that, or going back to meet the same fate as my brother and father... I am weighing my options."
+  },
+  {
+   "i": 108,
+   "start": 308.52,
+   "end": 311.16,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I like you! I'm gonna call you Little Green!"
+  },
+  {
+   "i": 109,
+   "start": 311.34,
+   "end": 312.74,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "My name is Dende."
+  },
+  {
+   "i": 110,
+   "start": 312.74,
+   "end": 315.4,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Come on, Little Green! Let's go introduce you to Bulma!"
+  },
+  {
+   "i": 111,
+   "start": 316.12,
+   "end": 322.9,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "...and that's why I was considered the most beautiful, and fertile, woman on my home planet."
+  },
+  {
+   "i": 112,
+   "start": 323.38,
+   "end": 324.64,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "...Before Freeza blew it up."
+  },
+  {
+   "i": 113,
+   "start": 324.74,
+   "end": 326.92,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "He tends to do that. Also, huuuughhh!"
+  },
+  {
+   "i": 114,
+   "start": 327.24,
+   "end": 329.94,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "So now you know the truth, Vegeta."
+  },
+  {
+   "i": 115,
+   "start": 330.16,
+   "end": 333.8,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Yes, I do. And now I'm going to start repressing the truth!"
+  },
+  {
+   "i": 116,
+   "start": 334.16,
+   "end": 336.62,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "And the first step... is killing you."
+  },
+  {
+   "i": 117,
+   "start": 336.76,
+   "end": 337.6,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "W-W-Wait!"
+  },
+  {
+   "i": 118,
+   "start": 337.6,
+   "end": 343.2,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "You and I, w-we could team up against Freeza! Rule the universe - as husband and wife!"
+  },
+  {
+   "i": 119,
+   "start": 343.2,
+   "end": 350.56,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Repressing in 5... 4... 3... 2... 1...!!"
+  },
+  {
+   "i": 120,
+   "start": 344.32,
+   "end": 352.56,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "(Panicking)"
+  },
+  {
+   "i": 121,
+   "start": 352.6,
+   "end": 356.18,
+   "kind": "dialog",
+   "speaker": "Dodoria",
+   "text": "(Screaming)"
+  },
+  {
+   "i": 122,
+   "start": 360.06,
+   "end": 361.86,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "...aaaaaand repressed."
+  },
+  {
+   "i": 123,
+   "start": 365.62,
+   "end": 367.12,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Krillin, that's the cave!"
+  },
+  {
+   "i": 124,
+   "start": 367.44,
+   "end": 370.84,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Hey Bulma, you clean up in there? We have guests."
+  },
+  {
+   "i": 125,
+   "start": 371.12,
+   "end": 373.9,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Monster roaring"
+  },
+  {
+   "i": 126,
+   "start": 374.32,
+   "end": 375.94,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "I do not think I want to go in there."
+  },
+  {
+   "i": 127,
+   "start": 376.02,
+   "end": 377.92,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Awww, don't worry. That's just Bulma."
+  },
+  {
+   "i": 128,
+   "start": 378.2,
+   "end": 381.48,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "I do not know what this \"Bulma\" is, but it sounds needy."
+  },
+  {
+   "i": 129,
+   "start": 381.86,
+   "end": 383.22,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Hey Bulma, open up!"
+  },
+  {
+   "i": 130,
+   "start": 383.94,
+   "end": 384.44,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Hmm?"
+  },
+  {
+   "i": 131,
+   "start": 384.82,
+   "end": 387.64,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Well, if it isn't Mr. Super Soaker himself!"
+  },
+  {
+   "i": 132,
+   "start": 388.04,
+   "end": 391.98,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "What happened? Got tired of abandoning me and found something else to abandon?"
+  },
+  {
+   "i": 133,
+   "start": 391.98,
+   "end": 394.0,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "BULMA! You're scaring Little Green!"
+  },
+  {
+   "i": 134,
+   "start": 394.0,
+   "end": 395.84,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "I am still weighing my options..."
+  },
+  {
+   "i": 135,
+   "start": 395.92,
+   "end": 398.76,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Oh, by the way, my Dad called earlier."
+  },
+  {
+   "i": 136,
+   "start": 398.76,
+   "end": 400.46,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "He says Goku's on his way here!"
+  },
+  {
+   "i": 137,
+   "start": 400.46,
+   "end": 401.16,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♪"
+  },
+  {
+   "i": 138,
+   "start": 400.46,
+   "end": 401.16,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "WOOHOO!"
+  },
+  {
+   "i": 139,
+   "start": 401.16,
+   "end": 402.8,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "And he'll be here in six days."
+  },
+  {
+   "i": 140,
+   "start": 402.8,
+   "end": 403.64,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♪"
+  },
+  {
+   "i": 141,
+   "start": 402.8,
+   "end": 405.04,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "WOOHOO--oohhhh....."
+  },
+  {
+   "i": 142,
+   "start": 405.88,
+   "end": 408.9,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Well....good thing I took out that life insurance policy."
+  },
+  {
+   "i": 143,
+   "start": 409.4,
+   "end": 413.46,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Mr. Gohan? Those things on that person's chest... what are they?"
+  },
+  {
+   "i": 144,
+   "start": 413.74,
+   "end": 416.38,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Oh, on Bulma? Those are breasts."
+  },
+  {
+   "i": 145,
+   "start": 416.76,
+   "end": 419.76,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "They look lovely. I wish to nestle between them..."
+  },
+  {
+   "i": 146,
+   "start": 420.46,
+   "end": 422.36,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "You are just adorable!"
+  },
+  {
+   "i": 147,
+   "start": 423.16,
+   "end": 425.78,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Ominous music"
+  },
+  {
+   "i": 148,
+   "start": 425.92,
+   "end": 430.06,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Oh-- no, no Ginyu, we don't need any assistance. We have this all under control."
+  },
+  {
+   "i": 149,
+   "start": 430.2,
+   "end": 432.04,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Lord Freeza, I wish to enter."
+  },
+  {
+   "i": 150,
+   "start": 432.14,
+   "end": 434.88,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Oh pardon me, I have to take this. Ta ta!"
+  },
+  {
+   "i": 151,
+   "start": 435.68,
+   "end": 436.86,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "What is it, Zarbon?"
+  },
+  {
+   "i": 152,
+   "start": 437.28,
+   "end": 439.68,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Well, sir, the Scouters reported back."
+  },
+  {
+   "i": 153,
+   "start": 439.94,
+   "end": 443.5,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Gooooood; so Dodoria has eliminated those pests then?"
+  },
+  {
+   "i": 154,
+   "start": 443.76,
+   "end": 446.08,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "Well... that's just it..."
+  },
+  {
+   "i": 155,
+   "start": 446.56,
+   "end": 449.64,
+   "kind": "dialog",
+   "speaker": "Zarbon",
+   "text": "It turns out... she's dead."
+  },
+  {
+   "i": 156,
+   "start": 451.14,
+   "end": 452.14,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "...THE F**K?!"
+  },
+  {
+   "i": 157,
+   "start": 452.32,
+   "end": 455.66,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ Closing theme (DBZ intermission) ♫"
+  },
+  {
+   "i": 158,
+   "start": 460.92,
+   "end": 465.5,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Now... before I start training, I need the right music to train to!"
+  },
+  {
+   "i": 159,
+   "start": 465.92,
+   "end": 466.8,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Let's see here..."
+  },
+  {
+   "i": 160,
+   "start": 466.88,
+   "end": 468.7,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"Live to Win\" ♫"
+  },
+  {
+   "i": 161,
+   "start": 468.8,
+   "end": 470.78,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"Gonna Fly Now\" ♫"
+  },
+  {
+   "i": 162,
+   "start": 471.0,
+   "end": 473.0,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"Never Surrender\" ♫"
+  },
+  {
+   "i": 163,
+   "start": 473.18,
+   "end": 475.04,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"Montage\" ♫"
+  },
+  {
+   "i": 164,
+   "start": 475.28,
+   "end": 476.76,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"Cooking By the Book\" ♫"
+  },
+  {
+   "i": 165,
+   "start": 476.76,
+   "end": 478.06,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "YAAAY!"
+  }
+ ],
+ "segments": [
+  {
+   "start": 14.6,
+   "end": 30.0,
+   "title": "The Muffin Button",
+   "quote": "Muffin Button. / But... I... never installed a Muffin Button! / Then where did I get this muffin...?",
+   "line_start": 4,
+   "line_end": 8
+  },
+  {
+   "start": 29.7,
+   "end": 56.5,
+   "title": "Bored Now. Gotta Train.",
+   "quote": "If I turn up the gravity, then I can get stronger! / NO! What I'm saying is it will crush your bones!",
+   "line_start": 9,
+   "line_end": 17
+  },
+  {
+   "start": 137.0,
+   "end": 161.0,
+   "title": "SOLAR FLARE!!!",
+   "quote": "SOLAR FLARE!!! / God, *dammit*!",
+   "line_start": 48,
+   "line_end": 56
+  },
+  {
+   "start": 163.3,
+   "end": 185.3,
+   "title": "'Sup, Bubblegum?",
+   "quote": "'Sup, Bubblegum? / And look at you, packing away more bacon than Hormel.",
+   "line_start": 58,
+   "line_end": 63
+  },
+  {
+   "start": 198.1,
+   "end": 222.2,
+   "title": "It's Broken",
+   "quote": "It's broken. / I can sense energy. / How the hell'd you do that? / I dunno.",
+   "line_start": 67,
+   "line_end": 77
+  },
+  {
+   "start": 221.5,
+   "end": 241.9,
+   "title": "All I Hear Is 'Hit Me, Vegeta!'",
+   "quote": "\"Hit me, Vegeta!\" \"Please kill me!\" \"God, this armor makes me look fat!\"",
+   "line_start": 78,
+   "line_end": 83
+  },
+  {
+   "start": 249.9,
+   "end": 260.3,
+   "title": "THATFREEZABLEWITUP!!!",
+   "quote": "You mean that Freeza blew it up? / NO! THATFREEZABLEWITUP!!!",
+   "line_start": 89,
+   "line_end": 93
+  },
+  {
+   "start": 262.0,
+   "end": 285.4,
+   "title": "I AM A WOMAN!!!",
+   "quote": "And now here you are, CRYING like a woman! / I AM A WOMAN!!!! / ...WHAT?!",
+   "line_start": 95,
+   "line_end": 101
+  },
+  {
+   "start": 285.5,
+   "end": 315.8,
+   "title": "Little Green",
+   "quote": "My name is Dende. / I like you! I'm gonna call you Little Green!",
+   "line_start": 102,
+   "line_end": 110
+  },
+  {
+   "start": 333.7,
+   "end": 362.3,
+   "title": "...Aaaaaand Repressed",
+   "quote": "And the first step... is killing you. / Repressing in 5... 4... 3... 2... 1...!! / ...aaaaaand repressed.",
+   "line_start": 116,
+   "line_end": 122
+  },
+  {
+   "start": 425.4,
+   "end": 452.8,
+   "title": "It Turns Out... She's Dead",
+   "quote": "It turns out... she's dead. / ...THE F**K?!",
+   "line_start": 148,
+   "line_end": 156
+  },
+  {
+   "start": 460.4,
+   "end": 478.6,
+   "title": "The Right Music to Train To",
+   "quote": "♫ \"Cooking By the Book\" ♫ / YAAAY!",
+   "line_start": 158,
+   "line_end": 165
+  }
+ ]
+}

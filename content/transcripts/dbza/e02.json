@@ -1,0 +1,1955 @@
+{
+ "item": "e02",
+ "show": "dbza",
+ "youtube": "aBm_2IUn4MU",
+ "title": "Episode 2",
+ "duration": 478,
+ "lines": [
+  {
+   "i": 0,
+   "start": 8.38,
+   "end": 10.88,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hey Piccolo, mind if I ask you somethin'?"
+  },
+  {
+   "i": 1,
+   "start": 11.16,
+   "end": 11.88,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "What is it?"
+  },
+  {
+   "i": 2,
+   "start": 12.46,
+   "end": 14.2,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "You’re not human either, right?"
+  },
+  {
+   "i": 3,
+   "start": 14.84,
+   "end": 15.6,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Yeah...?"
+  },
+  {
+   "i": 4,
+   "start": 15.96,
+   "end": 18.26,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "And your dad spit you out as an egg, right?"
+  },
+  {
+   "i": 5,
+   "start": 18.74,
+   "end": 19.9,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "What about it?"
+  },
+  {
+   "i": 6,
+   "start": 20.6,
+   "end": 21.5,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Are..."
+  },
+  {
+   "i": 7,
+   "start": 21.92,
+   "end": 23.24,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Are you a Yoshi?"
+  },
+  {
+   "i": 8,
+   "start": 24.72,
+   "end": 28.68,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "...Yes, Goku; I’m a green f***ing dinosaur!"
+  },
+  {
+   "i": 9,
+   "start": 29.14,
+   "end": 30.06,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Can..."
+  },
+  {
+   "i": 10,
+   "start": 30.54,
+   "end": 31.72,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Can I ride you?"
+  },
+  {
+   "i": 11,
+   "start": 32.22,
+   "end": 33.5,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Huuuurrrrgh...!"
+  },
+  {
+   "i": 12,
+   "start": 54.38,
+   "end": 65.62,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Gohan is crying"
+  },
+  {
+   "i": 13,
+   "start": 55.64,
+   "end": 56.52,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Shut up."
+  },
+  {
+   "i": 14,
+   "start": 57.28,
+   "end": 58.34,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "I said shut up!"
+  },
+  {
+   "i": 15,
+   "start": 59.4,
+   "end": 60.38,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "SHUT UP!"
+  },
+  {
+   "i": 16,
+   "start": 60.38,
+   "end": 62.9,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Dammit, why isn’t screaming angrily making you cry less?!"
+  },
+  {
+   "i": 17,
+   "start": 63.44,
+   "end": 65.62,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Aw, to hell with this, you're roomin' in the time-out pod."
+  },
+  {
+   "i": 18,
+   "start": 65.62,
+   "end": 67.14,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Gohan's cries are silenced by Raditz closing the pod door"
+  },
+  {
+   "i": 19,
+   "start": 67.14,
+   "end": 69.68,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "'Thank sweet merciful God that’s over.'"
+  },
+  {
+   "i": 20,
+   "start": 70.0,
+   "end": 71.56,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Now I can just sit back and--"
+  },
+  {
+   "i": 21,
+   "start": 71.56,
+   "end": 72.78,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Scouter beeps"
+  },
+  {
+   "i": 22,
+   "start": 73.12,
+   "end": 76.76,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "...beat the crap out of whoever’s coming, (Sigh), great..."
+  },
+  {
+   "i": 23,
+   "start": 76.76,
+   "end": 79.56,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Raditz, give me back my son!"
+  },
+  {
+   "i": 24,
+   "start": 80.06,
+   "end": 81.84,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Wheeeeee!"
+  },
+  {
+   "i": 25,
+   "start": 82.14,
+   "end": 87.56,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Hmmm... so, you’re here already... and I see you brought the Namekian as well."
+  },
+  {
+   "i": 26,
+   "start": 87.56,
+   "end": 90.32,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "A-actually, that hasn’t been explained yet."
+  },
+  {
+   "i": 27,
+   "start": 90.32,
+   "end": 90.92,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Oh..."
+  },
+  {
+   "i": 28,
+   "start": 91.32,
+   "end": 93.6,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Well, it’s not like anyone cares about him anyway."
+  },
+  {
+   "i": 29,
+   "start": 93.96,
+   "end": 95.72,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Well, screw you too!"
+  },
+  {
+   "i": 30,
+   "start": 95.72,
+   "end": 96.48,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "THUD"
+  },
+  {
+   "i": 31,
+   "start": 96.72,
+   "end": 99.64,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Piccolo? You use weighted training clothes as well?"
+  },
+  {
+   "i": 32,
+   "start": 99.64,
+   "end": 103.42,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "No, Goku; I just *love* to get naked when I’m around you."
+  },
+  {
+   "i": 33,
+   "start": 103.86,
+   "end": 105.86,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "'Their power level is rising...'"
+  },
+  {
+   "i": 34,
+   "start": 106.32,
+   "end": 109.22,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "So... nudity makes you stronger on this planet!"
+  },
+  {
+   "i": 35,
+   "start": 109.22,
+   "end": 110.04,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Raditz unzips"
+  },
+  {
+   "i": 36,
+   "start": 110.2,
+   "end": 113.42,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Uh, no; we’re wearing weighted clothing."
+  },
+  {
+   "i": 37,
+   "start": 113.42,
+   "end": 114.92,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Raditz zips back up"
+  },
+  {
+   "i": 38,
+   "start": 113.42,
+   "end": 114.92,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Oh... of course!"
+  },
+  {
+   "i": 39,
+   "start": 114.92,
+   "end": 117.82,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Because that would be ridiculous! A-hahahaha...!"
+  },
+  {
+   "i": 40,
+   "start": 117.82,
+   "end": 119.34,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Awkward silence"
+  },
+  {
+   "i": 41,
+   "start": 119.34,
+   "end": 122.0,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "So that hair *does* compensate for something."
+  },
+  {
+   "i": 42,
+   "start": 122.0,
+   "end": 124.42,
+   "kind": "dialog",
+   "speaker": "Phil Ken Sebben",
+   "text": "Ha ha! Dangly parts."
+  },
+  {
+   "i": 43,
+   "start": 124.66,
+   "end": 125.66,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "SHUT UP!"
+  },
+  {
+   "i": 44,
+   "start": 125.66,
+   "end": 126.66,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "ERGH!"
+  },
+  {
+   "i": 45,
+   "start": 125.66,
+   "end": 126.66,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "OOARGH!"
+  },
+  {
+   "i": 46,
+   "start": 128.0,
+   "end": 130.12,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "OK, what the hell was that?"
+  },
+  {
+   "i": 47,
+   "start": 130.12,
+   "end": 132.42,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I don’t know! But let’s try it again..."
+  },
+  {
+   "i": 48,
+   "start": 132.42,
+   "end": 133.94,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "from *behind*!"
+  },
+  {
+   "i": 49,
+   "start": 133.94,
+   "end": 134.78,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "AHHHH!"
+  },
+  {
+   "i": 50,
+   "start": 133.94,
+   "end": 134.78,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "HURRRGH!"
+  },
+  {
+   "i": 51,
+   "start": 135.18,
+   "end": 135.84,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "AGHH! GUWAH!"
+  },
+  {
+   "i": 52,
+   "start": 136.46,
+   "end": 138.82,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "We *really* shouldn’t be announcing our attack strategy--"
+  },
+  {
+   "i": 53,
+   "start": 138.82,
+   "end": 139.44,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Rush him!"
+  },
+  {
+   "i": 54,
+   "start": 139.44,
+   "end": 140.44,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Dammit, Goku!"
+  },
+  {
+   "i": 55,
+   "start": 141.1,
+   "end": 142.3,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "HURRRGH!"
+  },
+  {
+   "i": 56,
+   "start": 141.1,
+   "end": 143.42,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Will you at least try to dodge this one?!"
+  },
+  {
+   "i": 57,
+   "start": 143.42,
+   "end": 144.1,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Dodge wha--?"
+  },
+  {
+   "i": 58,
+   "start": 144.1,
+   "end": 145.22,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "WHOA, GEEZ!"
+  },
+  {
+   "i": 59,
+   "start": 145.6,
+   "end": 146.52,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "ARRGH!"
+  },
+  {
+   "i": 60,
+   "start": 148.48,
+   "end": 149.4,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Ha! You missed me--!"
+  },
+  {
+   "i": 61,
+   "start": 149.72,
+   "end": 150.26,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "My bad."
+  },
+  {
+   "i": 62,
+   "start": 150.26,
+   "end": 151.7,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "AGH! Ugh!"
+  },
+  {
+   "i": 63,
+   "start": 151.04,
+   "end": 151.7,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "SLAM"
+  },
+  {
+   "i": 64,
+   "start": 153.36,
+   "end": 154.46,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Hu-hu-hu-hu!"
+  },
+  {
+   "i": 65,
+   "start": 154.46,
+   "end": 157.94,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'Note to self: Less talky, more fighty.'"
+  },
+  {
+   "i": 66,
+   "start": 157.94,
+   "end": 158.58,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Ahh..."
+  },
+  {
+   "i": 67,
+   "start": 159.0,
+   "end": 163.9,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hey, Piccolo, we may be taking a beating, but at least we managed to dodge that one."
+  },
+  {
+   "i": 68,
+   "start": 163.9,
+   "end": 166.88,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "High fiiii-EEEE-ee!"
+  },
+  {
+   "i": 69,
+   "start": 167.24,
+   "end": 168.6,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Uh... handsha--"
+  },
+  {
+   "i": 70,
+   "start": 169.56,
+   "end": 170.32,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Thumbs u--"
+  },
+  {
+   "i": 71,
+   "start": 171.56,
+   "end": 172.64,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "...G-good job."
+  },
+  {
+   "i": 72,
+   "start": 172.64,
+   "end": 174.94,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "HAHA, AHAHAha, AHAHha!"
+  },
+  {
+   "i": 73,
+   "start": 174.94,
+   "end": 179.88,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "\"Aw, excuse me, has anyone seen my arm? You can’t miss it - it’s green!\" Hahaha...!"
+  },
+  {
+   "i": 74,
+   "start": 179.88,
+   "end": 181.72,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Raditz continues to laugh"
+  },
+  {
+   "i": 75,
+   "start": 179.88,
+   "end": 181.72,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Yeah... anyway, listen."
+  },
+  {
+   "i": 76,
+   "start": 181.72,
+   "end": 186.34,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "I’ve got one more attack that should do it. Upside is, I can use it with one arm."
+  },
+  {
+   "i": 77,
+   "start": 186.34,
+   "end": 187.64,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "And what's the down side?"
+  },
+  {
+   "i": 78,
+   "start": 187.64,
+   "end": 189.64,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "You’ll have to distract him while I charge it..."
+  },
+  {
+   "i": 79,
+   "start": 189.64,
+   "end": 190.64,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "That's not too ba--"
+  },
+  {
+   "i": 80,
+   "start": 190.64,
+   "end": 191.9,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "...For five minutes."
+  },
+  {
+   "i": 81,
+   "start": 191.9,
+   "end": 194.86,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "And considering he beat us to a pulp in under one-- eh..."
+  },
+  {
+   "i": 82,
+   "start": 194.86,
+   "end": 196.76,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "ah, never mind, I’m sure you can handle it."
+  },
+  {
+   "i": 83,
+   "start": 197.04,
+   "end": 199.56,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Wow... you really have that much faith in me?"
+  },
+  {
+   "i": 84,
+   "start": 199.88,
+   "end": 202.12,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Yeah, sure... why not?"
+  },
+  {
+   "i": 85,
+   "start": 202.12,
+   "end": 203.98,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Well then, I won’t disappoint you."
+  },
+  {
+   "i": 86,
+   "start": 204.18,
+   "end": 205.42,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Here goes nothin'!"
+  },
+  {
+   "i": 87,
+   "start": 205.42,
+   "end": 208.26,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "HURRRGH! Ready or not, here I co--!"
+  },
+  {
+   "i": 88,
+   "start": 208.26,
+   "end": 209.48,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "AGGGHH!"
+  },
+  {
+   "i": 89,
+   "start": 208.26,
+   "end": 209.48,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Sounds of Goku getting thrashed throughout"
+  },
+  {
+   "i": 90,
+   "start": 209.48,
+   "end": 211.66,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "♪ 'Dun dunnnn duh dun dun...' ♪"
+  },
+  {
+   "i": 91,
+   "start": 211.66,
+   "end": 212.6,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "♪ 'Mahna mahna' ♪"
+  },
+  {
+   "i": 92,
+   "start": 212.6,
+   "end": 213.64,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "♪ 'Dun duh dun duh...' ♪"
+  },
+  {
+   "i": 93,
+   "start": 214.38,
+   "end": 217.78,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "♪ 'Mahna mahna. Dunnn duh duh duh duh, duh duh duh, duh duh duh, dunna' ♪"
+  },
+  {
+   "i": 94,
+   "start": 217.78,
+   "end": 219.7,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "♪ 'I'm a chargin’ my attack.' ♪"
+  },
+  {
+   "i": 95,
+   "start": 219.94,
+   "end": 221.14,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Ha! Got your tail!"
+  },
+  {
+   "i": 96,
+   "start": 221.52,
+   "end": 223.12,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Please let me go?"
+  },
+  {
+   "i": 97,
+   "start": 223.12,
+   "end": 225.74,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Well... since you asked nicely..."
+  },
+  {
+   "i": 98,
+   "start": 225.74,
+   "end": 226.78,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "AHHH!"
+  },
+  {
+   "i": 99,
+   "start": 226.78,
+   "end": 227.68,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Goku continues to get pummeled"
+  },
+  {
+   "i": 100,
+   "start": 227.68,
+   "end": 234.3,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'Perhaps on second thought, a whole five-minute startup time for an attack is preeetty abysmal in terms of usability in battle...'"
+  },
+  {
+   "i": 101,
+   "start": 234.56,
+   "end": 235.8,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Piccolo help!"
+  },
+  {
+   "i": 102,
+   "start": 235.8,
+   "end": 237.92,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Ha! Got your tail! Again!"
+  },
+  {
+   "i": 103,
+   "start": 237.92,
+   "end": 239.52,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Please let go?"
+  },
+  {
+   "i": 104,
+   "start": 239.52,
+   "end": 241.52,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I’m not falling for that again!"
+  },
+  {
+   "i": 105,
+   "start": 241.8,
+   "end": 243.98,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Pretty please let me go?"
+  },
+  {
+   "i": 106,
+   "start": 244.14,
+   "end": 245.38,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Wellllll..."
+  },
+  {
+   "i": 107,
+   "start": 245.38,
+   "end": 246.88,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Ooh, OW! Spine!"
+  },
+  {
+   "i": 108,
+   "start": 246.88,
+   "end": 249.78,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "OW! Ribs! Definitely ribs!"
+  },
+  {
+   "i": 109,
+   "start": 249.78,
+   "end": 254.86,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Aha! Attacking an opponent roughly four times your strength in a one-on-one battle..."
+  },
+  {
+   "i": 110,
+   "start": 254.86,
+   "end": 256.46,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "A cunning strategy!"
+  },
+  {
+   "i": 111,
+   "start": 256.98,
+   "end": 259.02,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "No... no n-not “cunning”..."
+  },
+  {
+   "i": 112,
+   "start": 259.02,
+   "end": 260.48,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "What’s the opposite of that?"
+  },
+  {
+   "i": 113,
+   "start": 260.48,
+   "end": 261.68,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "\"Retarded\"?"
+  },
+  {
+   "i": 114,
+   "start": 261.68,
+   "end": 263.24,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "That's it! Thank you!"
+  },
+  {
+   "i": 115,
+   "start": 263.24,
+   "end": 265.4,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Now, disregarding the Namekian, I--"
+  },
+  {
+   "i": 116,
+   "start": 265.4,
+   "end": 267.12,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Uh-uh! A Yoshi!"
+  },
+  {
+   "i": 117,
+   "start": 267.12,
+   "end": 269.28,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "I’m not a goddamn Yoshi!"
+  },
+  {
+   "i": 118,
+   "start": 269.28,
+   "end": 270.78,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "But you said you were!"
+  },
+  {
+   "i": 119,
+   "start": 270.78,
+   "end": 272.82,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "It’s called \"sarcasm\"!"
+  },
+  {
+   "i": 120,
+   "start": 272.82,
+   "end": 273.84,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "What’s that taste like?"
+  },
+  {
+   "i": 121,
+   "start": 273.84,
+   "end": 274.98,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Damn it, Goku!"
+  },
+  {
+   "i": 122,
+   "start": 274.98,
+   "end": 276.64,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "CRACK"
+  },
+  {
+   "i": 123,
+   "start": 274.98,
+   "end": 276.64,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "AHH!"
+  },
+  {
+   "i": 124,
+   "start": 274.98,
+   "end": 276.64,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "STOP IGNORING ME!"
+  },
+  {
+   "i": 125,
+   "start": 276.64,
+   "end": 280.34,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Aagh, my *ribs*! *I think you broke my*...!"
+  },
+  {
+   "i": 126,
+   "start": 280.34,
+   "end": 282.18,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Mmmmmm~ ribs..."
+  },
+  {
+   "i": 127,
+   "start": 282.18,
+   "end": 286.66,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Eurrrgh! Stop...ignoring...me...and DIE!"
+  },
+  {
+   "i": 128,
+   "start": 283.24,
+   "end": 285.56,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Ow. Ow. Ow!"
+  },
+  {
+   "i": 129,
+   "start": 286.16,
+   "end": 287.2,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Scouter beeps"
+  },
+  {
+   "i": 130,
+   "start": 286.66,
+   "end": 287.2,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Huh?"
+  },
+  {
+   "i": 131,
+   "start": 287.44,
+   "end": 290.22,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Stop beating up my Daddy~!"
+  },
+  {
+   "i": 132,
+   "start": 290.58,
+   "end": 291.26,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "BOOM"
+  },
+  {
+   "i": 133,
+   "start": 291.26,
+   "end": 292.92,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "AAAHH!"
+  },
+  {
+   "i": 134,
+   "start": 291.26,
+   "end": 292.92,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Nooo, my space pod--!"
+  },
+  {
+   "i": 135,
+   "start": 292.92,
+   "end": 295.64,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "AAAUGH! My space armor!"
+  },
+  {
+   "i": 136,
+   "start": 295.64,
+   "end": 297.82,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "We get it; you’re from space!"
+  },
+  {
+   "i": 137,
+   "start": 297.82,
+   "end": 299.48,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Ughh! Uhhhh...!"
+  },
+  {
+   "i": 138,
+   "start": 299.48,
+   "end": 300.22,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "THUD"
+  },
+  {
+   "i": 139,
+   "start": 299.48,
+   "end": 300.22,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Uhh!"
+  },
+  {
+   "i": 140,
+   "start": 301.16,
+   "end": 302.4,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "G-Gohan?"
+  },
+  {
+   "i": 141,
+   "start": 302.4,
+   "end": 303.02,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Huh?"
+  },
+  {
+   "i": 142,
+   "start": 303.66,
+   "end": 305.62,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "What... was that?"
+  },
+  {
+   "i": 143,
+   "start": 305.62,
+   "end": 306.5,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Daddy!"
+  },
+  {
+   "i": 144,
+   "start": 306.5,
+   "end": 309.42,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "No, no; seriously, what the hell was that?"
+  },
+  {
+   "i": 145,
+   "start": 309.42,
+   "end": 311.76,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "We were getting slaughtered out there, and you could do tha--"
+  },
+  {
+   "i": 146,
+   "start": 311.76,
+   "end": 312.44,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Gohan whimpers"
+  },
+  {
+   "i": 147,
+   "start": 312.44,
+   "end": 313.84,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh, crap..."
+  },
+  {
+   "i": 148,
+   "start": 312.44,
+   "end": 313.84,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Gohan whimpers"
+  },
+  {
+   "i": 149,
+   "start": 313.84,
+   "end": 315.88,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Uncle Raditz is PISSED!!"
+  },
+  {
+   "i": 150,
+   "start": 315.88,
+   "end": 316.8,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "DING"
+  },
+  {
+   "i": 151,
+   "start": 319.3,
+   "end": 320.3,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "DING"
+  },
+  {
+   "i": 152,
+   "start": 321.68,
+   "end": 322.78,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "WHAM"
+  },
+  {
+   "i": 153,
+   "start": 323.98,
+   "end": 325.44,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Wait... hold on!"
+  },
+  {
+   "i": 154,
+   "start": 325.44,
+   "end": 328.58,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Or what? Mr. Shattered Ribs is going to stop me?"
+  },
+  {
+   "i": 155,
+   "start": 328.58,
+   "end": 330.58,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Listen, you don’t understand!"
+  },
+  {
+   "i": 156,
+   "start": 330.76,
+   "end": 335.2,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Nothing you could do could ever compare to what Chi-Chi would do to me if she found out he died."
+  },
+  {
+   "i": 157,
+   "start": 335.5,
+   "end": 336.62,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Well, sucks to be you."
+  },
+  {
+   "i": 158,
+   "start": 336.9,
+   "end": 340.48,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'I don’t have any choice. I have to use my last technique!'"
+  },
+  {
+   "i": 159,
+   "start": 340.92,
+   "end": 342.14,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "NOW, DIE!"
+  },
+  {
+   "i": 160,
+   "start": 342.14,
+   "end": 343.3,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Dramatic sting"
+  },
+  {
+   "i": 161,
+   "start": 342.14,
+   "end": 343.3,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Full Nelson!"
+  },
+  {
+   "i": 162,
+   "start": 343.88,
+   "end": 348.64,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "A Full Nelson? That won’t work on me; I’m *Raditz*!"
+  },
+  {
+   "i": 163,
+   "start": 348.64,
+   "end": 351.02,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Both Saiyans grunt"
+  },
+  {
+   "i": 164,
+   "start": 351.02,
+   "end": 352.24,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "OK, let go!"
+  },
+  {
+   "i": 165,
+   "start": 352.24,
+   "end": 356.06,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Both Saiyans continue to grunt"
+  },
+  {
+   "i": 166,
+   "start": 356.06,
+   "end": 358.14,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Seriously, this is starting to piss me off!"
+  },
+  {
+   "i": 167,
+   "start": 358.14,
+   "end": 359.02,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Hurh!"
+  },
+  {
+   "i": 168,
+   "start": 358.14,
+   "end": 359.02,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Piccolo!"
+  },
+  {
+   "i": 169,
+   "start": 359.02,
+   "end": 359.76,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Ready!"
+  },
+  {
+   "i": 170,
+   "start": 359.76,
+   "end": 360.74,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "HURRRGH!"
+  },
+  {
+   "i": 171,
+   "start": 359.76,
+   "end": 360.74,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Good!"
+  },
+  {
+   "i": 172,
+   "start": 360.74,
+   "end": 365.24,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Just make sure you give me a signal before you fire that thing. I’m right behind him!"
+  },
+  {
+   "i": 173,
+   "start": 365.24,
+   "end": 365.74,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "HURGGH!"
+  },
+  {
+   "i": 174,
+   "start": 365.86,
+   "end": 369.04,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Oh, sure. I’ll give you a signal."
+  },
+  {
+   "i": 175,
+   "start": 369.04,
+   "end": 371.88,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "It’ll be the last signal you’ll ever *get*!"
+  },
+  {
+   "i": 176,
+   "start": 371.88,
+   "end": 375.76,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Muahahahaha! Rahahahahahahahahahahaa!"
+  },
+  {
+   "i": 177,
+   "start": 373.1,
+   "end": 375.76,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Well, OK, as long as we’re clear on that."
+  },
+  {
+   "i": 178,
+   "start": 376.04,
+   "end": 382.7,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "MAKANSA... (Sigh), MAKAKASAPOP... (Sigh), MEKKASAPPA... oh, to hell with it!"
+  },
+  {
+   "i": 179,
+   "start": 382.7,
+   "end": 384.8,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "SPECIAL BEAM CANNON!"
+  },
+  {
+   "i": 180,
+   "start": 385.42,
+   "end": 385.98,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Aaah...!"
+  },
+  {
+   "i": 181,
+   "start": 385.98,
+   "end": 387.44,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Is that what you’re going to yell out when you--"
+  },
+  {
+   "i": 182,
+   "start": 387.44,
+   "end": 388.58,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "OH, GOD!!"
+  },
+  {
+   "i": 183,
+   "start": 388.66,
+   "end": 390.44,
+   "kind": "dialog",
+   "speaker": "Ricola Guy",
+   "text": "Riiiiiicolaaaa--"
+  },
+  {
+   "i": 184,
+   "start": 390.44,
+   "end": 391.68,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "BOOM"
+  },
+  {
+   "i": 185,
+   "start": 390.44,
+   "end": 391.68,
+   "kind": "dialog",
+   "speaker": "Ricola Guy",
+   "text": "AAAHAAHAAH!"
+  },
+  {
+   "i": 186,
+   "start": 391.88,
+   "end": 392.56,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Aagh!"
+  },
+  {
+   "i": 187,
+   "start": 393.18,
+   "end": 393.76,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Augh!"
+  },
+  {
+   "i": 188,
+   "start": 395.46,
+   "end": 397.02,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Dammit! Ungh..."
+  },
+  {
+   "i": 189,
+   "start": 397.22,
+   "end": 399.76,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "And there was no way I could have gotten out of there!"
+  },
+  {
+   "i": 190,
+   "start": 399.76,
+   "end": 401.14,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "You know, you could’ve flown."
+  },
+  {
+   "i": 191,
+   "start": 401.58,
+   "end": 403.78,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Damn you, hindsiiiiight!"
+  },
+  {
+   "i": 192,
+   "start": 403.78,
+   "end": 404.28,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Bleh."
+  },
+  {
+   "i": 193,
+   "start": 405.04,
+   "end": 409.22,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Goku! After several hours of debating, we decided you might need our--"
+  },
+  {
+   "i": 194,
+   "start": 409.22,
+   "end": 410.9,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Jet engine groaning"
+  },
+  {
+   "i": 195,
+   "start": 410.9,
+   "end": 412.4,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "...*Aah, crap*."
+  },
+  {
+   "i": 196,
+   "start": 414.32,
+   "end": 414.98,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Goku!"
+  },
+  {
+   "i": 197,
+   "start": 415.42,
+   "end": 416.5,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "You can't die!"
+  },
+  {
+   "i": 198,
+   "start": 416.5,
+   "end": 418.12,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Here, I brought a Senzu bean!"
+  },
+  {
+   "i": 199,
+   "start": 418.84,
+   "end": 421.06,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I don’t think that’s gonna work."
+  },
+  {
+   "i": 200,
+   "start": 421.06,
+   "end": 422.0,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Why not?"
+  },
+  {
+   "i": 201,
+   "start": 422.0,
+   "end": 425.14,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I sort of have a hole in my esophagus..."
+  },
+  {
+   "i": 202,
+   "start": 425.14,
+   "end": 426.68,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Wait, then how are you breathing?"
+  },
+  {
+   "i": 203,
+   "start": 426.88,
+   "end": 427.64,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "U-uhh..."
+  },
+  {
+   "i": 204,
+   "start": 427.76,
+   "end": 428.56,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Goku?"
+  },
+  {
+   "i": 205,
+   "start": 429.36,
+   "end": 429.86,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Huhh..."
+  },
+  {
+   "i": 206,
+   "start": 429.86,
+   "end": 431.02,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Goku...?"
+  },
+  {
+   "i": 207,
+   "start": 429.86,
+   "end": 431.02,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Huhh..."
+  },
+  {
+   "i": 208,
+   "start": 432.88,
+   "end": 434.1,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Holy crap..."
+  },
+  {
+   "i": 209,
+   "start": 435.16,
+   "end": 437.9,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I’m not the first person to die in this series!!"
+  },
+  {
+   "i": 210,
+   "start": 437.9,
+   "end": 438.72,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Needle scratch"
+  },
+  {
+   "i": 211,
+   "start": 437.9,
+   "end": 438.72,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "Krillin!"
+  },
+  {
+   "i": 212,
+   "start": 438.72,
+   "end": 439.46,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "What?"
+  },
+  {
+   "i": 213,
+   "start": 439.46,
+   "end": 440.4,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "Too soon!"
+  },
+  {
+   "i": 214,
+   "start": 441.1,
+   "end": 442.76,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "I can’t believe he’s gone."
+  },
+  {
+   "i": 215,
+   "start": 442.92,
+   "end": 444.0,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Yeah. Pity, that."
+  },
+  {
+   "i": 216,
+   "start": 444.0,
+   "end": 445.9,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "RRAAAARRRGH!!"
+  },
+  {
+   "i": 217,
+   "start": 445.9,
+   "end": 447.06,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Errrughh..."
+  },
+  {
+   "i": 218,
+   "start": 447.06,
+   "end": 449.52,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Wait, what the hell? You can regenerate?"
+  },
+  {
+   "i": 219,
+   "start": 449.52,
+   "end": 451.94,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Yeah; and you know what else?"
+  },
+  {
+   "i": 220,
+   "start": 451.94,
+   "end": 452.7,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "What?"
+  },
+  {
+   "i": 221,
+   "start": 452.7,
+   "end": 453.94,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "I’mtakingGohanBye!"
+  },
+  {
+   "i": 222,
+   "start": 454.4,
+   "end": 456.18,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Quick... somebody stop him!"
+  },
+  {
+   "i": 223,
+   "start": 457.06,
+   "end": 459.82,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Chirping crickets"
+  },
+  {
+   "i": 224,
+   "start": 459.82,
+   "end": 460.8,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Dammit, Roshi!"
+  },
+  {
+   "i": 225,
+   "start": 460.8,
+   "end": 461.88,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "Shut up, Krillin."
+  },
+  {
+   "i": 226,
+   "start": 461.88,
+   "end": 462.72,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "DING"
+  },
+  {
+   "i": 227,
+   "start": 462.72,
+   "end": 463.44,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Aww..."
+  },
+  {
+   "i": 228,
+   "start": 469.98,
+   "end": 471.78,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Gohan! Do a Headbutt!"
+  },
+  {
+   "i": 229,
+   "start": 471.78,
+   "end": 472.96,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ Pokémon battle music ♫"
+  },
+  {
+   "i": 230,
+   "start": 471.78,
+   "end": 472.96,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "GoooHAN!"
+  }
+ ],
+ "segments": [
+  {
+   "start": 8.0,
+   "end": 33.5,
+   "title": "Are You a Yoshi?",
+   "quote": "...Yes, Goku; I’m a green f***ing dinosaur! / Can... Can I ride you?",
+   "line_start": 0,
+   "line_end": 11
+  },
+  {
+   "start": 54.0,
+   "end": 69.7,
+   "title": "The Time-Out Pod",
+   "quote": "Dammit, why isn’t screaming angrily making you cry less?!",
+   "line_start": 12,
+   "line_end": 19
+  },
+  {
+   "start": 96.3,
+   "end": 126.6,
+   "title": "Nudity Makes You Stronger",
+   "quote": "So... nudity makes you stronger on this planet! / So that hair *does* compensate for something. / Ha ha! Dangly parts.",
+   "line_start": 31,
+   "line_end": 43
+  },
+  {
+   "start": 136.0,
+   "end": 151.7,
+   "title": "Dodge Wha--?",
+   "quote": "Will you at least try to dodge this one?! / Dodge wha--? WHOA, GEEZ! / My bad.",
+   "line_start": 52,
+   "line_end": 62
+  },
+  {
+   "start": 153.9,
+   "end": 180.5,
+   "title": "High Fiiii-EEEE-ee!",
+   "quote": "'Note to self: Less talky, more fighty.' / High fiiii-EEEE-ee! Uh... handsha-- Thumbs u-- ...G-good job.",
+   "line_start": 64,
+   "line_end": 73
+  },
+  {
+   "start": 204.9,
+   "end": 220.0,
+   "title": "Mahna Mahna (Chargin' My Attack)",
+   "quote": "♪ 'Mahna mahna' ♪ ... ♪ 'I'm a chargin’ my attack.' ♪",
+   "line_start": 87,
+   "line_end": 94
+  },
+  {
+   "start": 219.4,
+   "end": 249.9,
+   "title": "Pretty Please Let Me Go?",
+   "quote": "Ha! Got your tail! / Please let me go? / I’m not falling for that again! / Pretty please let me go?",
+   "line_start": 95,
+   "line_end": 108
+  },
+  {
+   "start": 262.7,
+   "end": 282.4,
+   "title": "It's Called Sarcasm",
+   "quote": "It’s called \"sarcasm\"! / What’s that taste like?",
+   "line_start": 115,
+   "line_end": 126
+  },
+  {
+   "start": 340.4,
+   "end": 358.5,
+   "title": "The Full Nelson",
+   "quote": "A Full Nelson? That won’t work on me; I’m *Raditz*!",
+   "line_start": 159,
+   "line_end": 166
+  },
+  {
+   "start": 375.5,
+   "end": 394.0,
+   "title": "SPECIAL BEAM CANNON! (Riiiiicolaaaa)",
+   "quote": "MAKANSA... MAKAKASAPOP... MEKKASAPPA... oh, to hell with it! SPECIAL BEAM CANNON! / Riiiiiicolaaaa--",
+   "line_start": 178,
+   "line_end": 187
+  },
+  {
+   "start": 395.0,
+   "end": 404.5,
+   "title": "Damn You, Hindsight!",
+   "quote": "And there was no way I could have gotten out of there! / You know, you could’ve flown. / Damn you, hindsiiiiight!",
+   "line_start": 188,
+   "line_end": 192
+  },
+  {
+   "start": 432.4,
+   "end": 463.4,
+   "title": "Too Soon / I'mtakingGohanBye!",
+   "quote": "I’m not the first person to die in this series!! / Too soon! / I’mtakingGohanBye! / Dammit, Roshi!",
+   "line_start": 208,
+   "line_end": 227
+  }
+ ]
+}

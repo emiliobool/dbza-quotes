@@ -1,0 +1,1747 @@
+{
+ "item": "e43",
+ "show": "dbza",
+ "youtube": "dcHIikdrhjQ",
+ "title": "Episode 39",
+ "duration": 608,
+ "lines": [
+  {
+   "i": 0,
+   "start": 14.14,
+   "end": 14.98,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "AAAGH...!"
+  },
+  {
+   "i": 1,
+   "start": 14.98,
+   "end": 15.9,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "AARGH...!"
+  },
+  {
+   "i": 2,
+   "start": 15.9,
+   "end": 16.82,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "ERRGH...!"
+  },
+  {
+   "i": 3,
+   "start": 19.2,
+   "end": 19.7,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Hmph..."
+  },
+  {
+   "i": 4,
+   "start": 24.66,
+   "end": 25.84,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "...So does this mean they're on our side--?"
+  },
+  {
+   "i": 5,
+   "start": 25.84,
+   "end": 28.48,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "YAAAAAAAAH!!"
+  },
+  {
+   "i": 6,
+   "start": 27.24,
+   "end": 28.48,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "AAAAGH!!"
+  },
+  {
+   "i": 7,
+   "start": 54.9,
+   "end": 58.48,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Well, that settles that. You're *definitely* Vegeta's kid."
+  },
+  {
+   "i": 8,
+   "start": 59.14,
+   "end": 61.48,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "So, you done throwing a hissy fit?"
+  },
+  {
+   "i": 9,
+   "start": 61.48,
+   "end": 65.3,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "At least I did something instead of just standing there, staring at them!"
+  },
+  {
+   "i": 10,
+   "start": 65.3,
+   "end": 67.0,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "We do do that a lot!"
+  },
+  {
+   "i": 11,
+   "start": 68.08,
+   "end": 69.84,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "What? They're still alive?!"
+  },
+  {
+   "i": 12,
+   "start": 70.22,
+   "end": 72.44,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "But that was my strongest blast..."
+  },
+  {
+   "i": 13,
+   "start": 72.44,
+   "end": 74.86,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "So you just *assumed* they were destroyed, then?"
+  },
+  {
+   "i": 14,
+   "start": 74.86,
+   "end": 76.16,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "We do that a lot, too!"
+  },
+  {
+   "i": 15,
+   "start": 76.16,
+   "end": 79.72,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Besides, what exactly changed from you in the future and now?"
+  },
+  {
+   "i": 16,
+   "start": 80.24,
+   "end": 82.68,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "More than I thought; less than you'd think."
+  },
+  {
+   "i": 17,
+   "start": 83.0,
+   "end": 87.76,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Man, Mystery Kid up there sure is cranky. I think someone needs a nap."
+  },
+  {
+   "i": 18,
+   "start": 87.76,
+   "end": 88.44,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Whatever."
+  },
+  {
+   "i": 19,
+   "start": 89.52,
+   "end": 91.6,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Let's just pop this bad boy open."
+  },
+  {
+   "i": 20,
+   "start": 91.1,
+   "end": 91.6,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "BEEP"
+  },
+  {
+   "i": 21,
+   "start": 92.44,
+   "end": 96.7,
+   "kind": "dialog",
+   "speaker": "Pod",
+   "text": "Initializing update 1 of 1432--"
+  },
+  {
+   "i": 22,
+   "start": 96.7,
+   "end": 97.7,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Yeah, screw that."
+  },
+  {
+   "i": 23,
+   "start": 111.02,
+   "end": 113.56,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Man, you are a tall bastard."
+  },
+  {
+   "i": 24,
+   "start": 113.56,
+   "end": 115.5,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "So, fire-crotch, what's your name?"
+  },
+  {
+   "i": 25,
+   "start": 115.5,
+   "end": 118.84,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "I am designated as Android 16."
+  },
+  {
+   "i": 26,
+   "start": 118.84,
+   "end": 120.04,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "What are the odds?"
+  },
+  {
+   "i": 27,
+   "start": 120.04,
+   "end": 122.62,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "The old man did always have a one-track mind."
+  },
+  {
+   "i": 28,
+   "start": 122.62,
+   "end": 123.74,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "What's your deal?"
+  },
+  {
+   "i": 29,
+   "start": 123.74,
+   "end": 127.76,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "I am programmed with the sole purpose of murdering Son Goku."
+  },
+  {
+   "i": 30,
+   "start": 127.76,
+   "end": 129.4,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "See? This is what I'm talking about."
+  },
+  {
+   "i": 31,
+   "start": 129.4,
+   "end": 131.0,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "I'm glad I killed him."
+  },
+  {
+   "i": 32,
+   "start": 131.0,
+   "end": 132.78,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "You killed Son Goku?"
+  },
+  {
+   "i": 33,
+   "start": 132.78,
+   "end": 134.36,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "No; Doctor Gero."
+  },
+  {
+   "i": 34,
+   "start": 134.56,
+   "end": 135.18,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "Oh."
+  },
+  {
+   "i": 35,
+   "start": 135.9,
+   "end": 138.1,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "...May we go and murder Son Goku?"
+  },
+  {
+   "i": 36,
+   "start": 138.18,
+   "end": 140.1,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Well, ain't got nothin' better to do."
+  },
+  {
+   "i": 37,
+   "start": 140.1,
+   "end": 142.98,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "So, if the name of the game is, \"Kill Son Goku\"..."
+  },
+  {
+   "i": 38,
+   "start": 142.98,
+   "end": 144.06,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Let's play."
+  },
+  {
+   "i": 39,
+   "start": 148.38,
+   "end": 150.44,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Hey, we should grab us a car."
+  },
+  {
+   "i": 40,
+   "start": 150.62,
+   "end": 152.08,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "The hell do we need a car?"
+  },
+  {
+   "i": 41,
+   "start": 152.08,
+   "end": 153.6,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Because I want one."
+  },
+  {
+   "i": 42,
+   "start": 154.14,
+   "end": 156.52,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Are... Are they flying away?!"
+  },
+  {
+   "i": 43,
+   "start": 156.86,
+   "end": 161.12,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "*Get back here*! I AM SICK AND TIRED OF *BEING IGNORED*!"
+  },
+  {
+   "i": 44,
+   "start": 161.12,
+   "end": 162.94,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "I *wish* we could ignore you."
+  },
+  {
+   "i": 45,
+   "start": 162.94,
+   "end": 163.84,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "RARRGH!"
+  },
+  {
+   "i": 46,
+   "start": 163.84,
+   "end": 165.22,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "No, Dad, stop!"
+  },
+  {
+   "i": 47,
+   "start": 165.22,
+   "end": 167.3,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Are we *really* doing this again?"
+  },
+  {
+   "i": 48,
+   "start": 167.3,
+   "end": 171.72,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "I wish you'd understand. There's no way we can fight them without Goku!"
+  },
+  {
+   "i": 49,
+   "start": 171.72,
+   "end": 174.48,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "And I wish YOU'D understand who you're talking to!"
+  },
+  {
+   "i": 50,
+   "start": 174.48,
+   "end": 176.1,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "*I am Vegeta*!"
+  },
+  {
+   "i": 51,
+   "start": 176.44,
+   "end": 179.06,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Why would I ever need that gibbering fool's help?!"
+  },
+  {
+   "i": 52,
+   "start": 179.06,
+   "end": 181.46,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Because you're not as *strong* as--!"
+  },
+  {
+   "i": 53,
+   "start": 181.6,
+   "end": 183.6,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "(Wheeze)"
+  },
+  {
+   "i": 54,
+   "start": 188.14,
+   "end": 189.68,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "You pushed the Goku button."
+  },
+  {
+   "i": 55,
+   "start": 190.3,
+   "end": 191.62,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "You shouldn't'a did that."
+  },
+  {
+   "i": 56,
+   "start": 192.12,
+   "end": 195.78,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(Screaming endlessly)"
+  },
+  {
+   "i": 57,
+   "start": 195.78,
+   "end": 198.34,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Uh, Chi-Chi? You might wanna come in here!"
+  },
+  {
+   "i": 58,
+   "start": 198.6,
+   "end": 201.2,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Sorry, hun, cooking up a storm in here!"
+  },
+  {
+   "i": 59,
+   "start": 201.2,
+   "end": 202.84,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "This is looking kinda bad!"
+  },
+  {
+   "i": 60,
+   "start": 203.02,
+   "end": 204.96,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "He's screaming up a lot of blood."
+  },
+  {
+   "i": 61,
+   "start": 205.06,
+   "end": 208.08,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "I'll make sure there's plenty of iron and protein in the meal!"
+  },
+  {
+   "i": 62,
+   "start": 208.4,
+   "end": 211.06,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "And I can't really remember the last time he inhaled."
+  },
+  {
+   "i": 63,
+   "start": 211.36,
+   "end": 214.32,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "And while that's sort of impressive, I don't think it's healthy."
+  },
+  {
+   "i": 64,
+   "start": 214.6,
+   "end": 217.56,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Goku doesn't have a ton of brain cells to work with as it is."
+  },
+  {
+   "i": 65,
+   "start": 217.56,
+   "end": 221.1,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Look, to be honest, it's just nice to have him in the house for a change."
+  },
+  {
+   "i": 66,
+   "start": 221.92,
+   "end": 222.56,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(Stops screaming)"
+  },
+  {
+   "i": 67,
+   "start": 222.56,
+   "end": 224.06,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(Deep inhalation)"
+  },
+  {
+   "i": 68,
+   "start": 224.06,
+   "end": 224.86,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Oh good, he took a br--"
+  },
+  {
+   "i": 69,
+   "start": 224.86,
+   "end": 226.72,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(Screaming endlessly)"
+  },
+  {
+   "i": 70,
+   "start": 232.18,
+   "end": 237.3,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Alright, here's my idea: First car that comes our way? We... appropriate it."
+  },
+  {
+   "i": 71,
+   "start": 237.3,
+   "end": 239.56,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Ugh, and all the way out here in the boonies."
+  },
+  {
+   "i": 72,
+   "start": 239.56,
+   "end": 241.08,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "It's probably gonna be a semi."
+  },
+  {
+   "i": 73,
+   "start": 241.08,
+   "end": 243.14,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "(Gasp) Oh, I hope it's a truck!"
+  },
+  {
+   "i": 74,
+   "start": 243.44,
+   "end": 244.64,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "What do you think, Sixteen?"
+  },
+  {
+   "i": 75,
+   "start": 244.64,
+   "end": 247.12,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "Will it assist us in murdering Son Goku?"
+  },
+  {
+   "i": 76,
+   "start": 247.12,
+   "end": 249.52,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "I dunno, I guess you could hit him pretty hard with it."
+  },
+  {
+   "i": 77,
+   "start": 249.64,
+   "end": 251.74,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "Then I, too, hope it is a truck."
+  },
+  {
+   "i": 78,
+   "start": 252.12,
+   "end": 253.78,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Well, well, well..."
+  },
+  {
+   "i": 79,
+   "start": 253.78,
+   "end": 257.44,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "If it isn't Faggoty Andy and On-The-Raggedy Ann."
+  },
+  {
+   "i": 80,
+   "start": 258.38,
+   "end": 259.66,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "...I'm going to break his arm."
+  },
+  {
+   "i": 81,
+   "start": 259.66,
+   "end": 261.72,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Kinda proving his point, ain't ya, sis?"
+  },
+  {
+   "i": 82,
+   "start": 261.72,
+   "end": 262.72,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Shut up, Ann."
+  },
+  {
+   "i": 83,
+   "start": 262.72,
+   "end": 267.22,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "So, which of you children wants to tangle with the Saiyan elite?"
+  },
+  {
+   "i": 84,
+   "start": 267.48,
+   "end": 270.04,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Neh, I dunno. How 'bout you, Sixteen?"
+  },
+  {
+   "i": 85,
+   "start": 270.04,
+   "end": 272.3,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "No. He is not Goku."
+  },
+  {
+   "i": 86,
+   "start": 272.3,
+   "end": 274.46,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Man, we need to get you a hobby."
+  },
+  {
+   "i": 87,
+   "start": 274.46,
+   "end": 275.62,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "Acquiring hobby."
+  },
+  {
+   "i": 88,
+   "start": 278.68,
+   "end": 279.44,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "Hmm..."
+  },
+  {
+   "i": 89,
+   "start": 279.68,
+   "end": 283.52,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Well then, Eighteen, guess he's all yours. I'm on car watching duty."
+  },
+  {
+   "i": 90,
+   "start": 283.52,
+   "end": 286.1,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Oh, thanks. Make me fight the troll doll."
+  },
+  {
+   "i": 91,
+   "start": 286.26,
+   "end": 287.94,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "So ladies first, then?"
+  },
+  {
+   "i": 92,
+   "start": 288.18,
+   "end": 292.16,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Well, just to warn you - I'm not afraid to hit a woman."
+  },
+  {
+   "i": 93,
+   "start": 292.3,
+   "end": 294.52,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "That's fine. Neither am I."
+  },
+  {
+   "i": 94,
+   "start": 300.36,
+   "end": 302.82,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Birds chirping"
+  },
+  {
+   "i": 95,
+   "start": 302.82,
+   "end": 303.86,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "Aww..."
+  },
+  {
+   "i": 96,
+   "start": 304.1,
+   "end": 307.58,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Hey, so, was Vegeta always blonde, or..."
+  },
+  {
+   "i": 97,
+   "start": 307.58,
+   "end": 309.12,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "The birds flew away."
+  },
+  {
+   "i": 98,
+   "start": 309.12,
+   "end": 309.8,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Oh yeah?"
+  },
+  {
+   "i": 99,
+   "start": 310.06,
+   "end": 312.18,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "I *liked* the birds."
+  },
+  {
+   "i": 100,
+   "start": 312.46,
+   "end": 313.66,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Good for you, man."
+  },
+  {
+   "i": 101,
+   "start": 313.78,
+   "end": 314.28,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Raagh!"
+  },
+  {
+   "i": 102,
+   "start": 316.2,
+   "end": 317.82,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Ha! First blood."
+  },
+  {
+   "i": 103,
+   "start": 317.82,
+   "end": 319.56,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "You may as well give up now, an--"
+  },
+  {
+   "i": 104,
+   "start": 320.28,
+   "end": 322.08,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "God damn it, I was kidding!"
+  },
+  {
+   "i": 105,
+   "start": 327.28,
+   "end": 327.86,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Thump, thump!"
+  },
+  {
+   "i": 106,
+   "start": 327.86,
+   "end": 328.36,
+   "kind": "dialog",
+   "speaker": "Clem",
+   "text": "Huh?"
+  },
+  {
+   "i": 107,
+   "start": 328.84,
+   "end": 329.88,
+   "kind": "dialog",
+   "speaker": "Mitch",
+   "text": "What is it, Clem?"
+  },
+  {
+   "i": 108,
+   "start": 330.16,
+   "end": 331.86,
+   "kind": "dialog",
+   "speaker": "Clem",
+   "text": "Well, you ain't gonna believe this..."
+  },
+  {
+   "i": 109,
+   "start": 332.12,
+   "end": 335.2,
+   "kind": "dialog",
+   "speaker": "Clem",
+   "text": "A couple a' Europeans are fightin' on top of the truck!"
+  },
+  {
+   "i": 110,
+   "start": 335.52,
+   "end": 337.24,
+   "kind": "dialog",
+   "speaker": "Mitch",
+   "text": "Huh. That IS weird."
+  },
+  {
+   "i": 111,
+   "start": 337.9,
+   "end": 339.12,
+   "kind": "dialog",
+   "speaker": "Mitch",
+   "text": "...You know what also's weird?"
+  },
+  {
+   "i": 112,
+   "start": 339.12,
+   "end": 341.7,
+   "kind": "dialog",
+   "speaker": "Mitch",
+   "text": "(Laughter)"
+  },
+  {
+   "i": 113,
+   "start": 339.12,
+   "end": 341.7,
+   "kind": "dialog",
+   "speaker": "Clem",
+   "text": "Aw, dammit Mitch, put that away!"
+  },
+  {
+   "i": 114,
+   "start": 343.98,
+   "end": 346.28,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "'I can't believe he's taking them on alone!'"
+  },
+  {
+   "i": 115,
+   "start": 346.52,
+   "end": 349.88,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "'He has no idea the kind of destructive force they pack!'"
+  },
+  {
+   "i": 116,
+   "start": 350.22,
+   "end": 352.7,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "'The Androids are humanity's greatest threat!'"
+  },
+  {
+   "i": 117,
+   "start": 353.6,
+   "end": 354.22,
+   "kind": "dialog",
+   "speaker": "Driver 1",
+   "text": "AAAAH--!"
+  },
+  {
+   "i": 118,
+   "start": 355.82,
+   "end": 356.62,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "(Laughter)"
+  },
+  {
+   "i": 119,
+   "start": 356.62,
+   "end": 357.28,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Raargh!"
+  },
+  {
+   "i": 120,
+   "start": 357.28,
+   "end": 357.88,
+   "kind": "dialog",
+   "speaker": "Driver 2",
+   "text": "AAAAH--!"
+  },
+  {
+   "i": 121,
+   "start": 359.08,
+   "end": 360.24,
+   "kind": "dialog",
+   "speaker": "Driver 3",
+   "text": "Aaaah--!"
+  },
+  {
+   "i": 122,
+   "start": 360.24,
+   "end": 363.74,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I will kill as many people as I have to as long as you are one of them!"
+  },
+  {
+   "i": 123,
+   "start": 365.74,
+   "end": 367.32,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Oh hey, Eighteen, you're back!"
+  },
+  {
+   "i": 124,
+   "start": 367.72,
+   "end": 368.76,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "No cars yet."
+  },
+  {
+   "i": 125,
+   "start": 368.76,
+   "end": 371.36,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "You know there *is* a freeway over there, right?"
+  },
+  {
+   "i": 126,
+   "start": 371.46,
+   "end": 373.64,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Oh I know. This is just funner."
+  },
+  {
+   "i": 127,
+   "start": 373.9,
+   "end": 376.42,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "So Android, are you done running?"
+  },
+  {
+   "i": 128,
+   "start": 376.42,
+   "end": 378.0,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "I dunno. Is your mouth?"
+  },
+  {
+   "i": 129,
+   "start": 378.1,
+   "end": 379.76,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Well aren't you f*cking clever."
+  },
+  {
+   "i": 130,
+   "start": 379.96,
+   "end": 382.06,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "But wait! I have a retort."
+  },
+  {
+   "i": 131,
+   "start": 383.54,
+   "end": 384.32,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Truck horn"
+  },
+  {
+   "i": 132,
+   "start": 384.32,
+   "end": 386.22,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Aw *yeah*! A tru--!"
+  },
+  {
+   "i": 133,
+   "start": 392.0,
+   "end": 394.16,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "...Aw... *dick*...!"
+  },
+  {
+   "i": 134,
+   "start": 395.08,
+   "end": 397.92,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Be honest... is this just a short guy thing?"
+  },
+  {
+   "i": 135,
+   "start": 398.12,
+   "end": 400.44,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "You talk a lot of shit for a washing machine."
+  },
+  {
+   "i": 136,
+   "start": 400.62,
+   "end": 402.9,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "And no, I'm not just saying that 'cause you're an Android."
+  },
+  {
+   "i": 137,
+   "start": 402.9,
+   "end": 404.42,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I'm saying it because you're a wom--"
+  },
+  {
+   "i": 138,
+   "start": 404.56,
+   "end": 405.8,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "BAGH! HARGH!"
+  },
+  {
+   "i": 139,
+   "start": 406.26,
+   "end": 407.2,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Tcchh...!"
+  },
+  {
+   "i": 140,
+   "start": 407.2,
+   "end": 409.0,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Hrrrrrrr...!"
+  },
+  {
+   "i": 141,
+   "start": 409.26,
+   "end": 413.86,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "You know what? Just for that... *I'm not gonna take it easy on you any m*--"
+  },
+  {
+   "i": 142,
+   "start": 413.86,
+   "end": 414.36,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "*AAGH*!"
+  },
+  {
+   "i": 143,
+   "start": 416.74,
+   "end": 417.24,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Hm."
+  },
+  {
+   "i": 144,
+   "start": 419.42,
+   "end": 420.72,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Father, are you in there?!"
+  },
+  {
+   "i": 145,
+   "start": 420.88,
+   "end": 424.68,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Did anyone get the number of that *bitch*...?"
+  },
+  {
+   "i": 146,
+   "start": 424.68,
+   "end": 425.54,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Eighteen."
+  },
+  {
+   "i": 147,
+   "start": 425.74,
+   "end": 426.96,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Thank you..."
+  },
+  {
+   "i": 148,
+   "start": 426.96,
+   "end": 428.48,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "You okay in there, Vegeta?"
+  },
+  {
+   "i": 149,
+   "start": 428.48,
+   "end": 429.74,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Eat a dick!"
+  },
+  {
+   "i": 150,
+   "start": 429.74,
+   "end": 430.76,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Oh okay, he's fine."
+  },
+  {
+   "i": 151,
+   "start": 431.0,
+   "end": 433.36,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Oh hey, Vegeta's little pals showed up."
+  },
+  {
+   "i": 152,
+   "start": 433.58,
+   "end": 435.96,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "How 'bout it, Sixteen? Wanna go knock some heads?"
+  },
+  {
+   "i": 153,
+   "start": 436.36,
+   "end": 436.86,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "No."
+  },
+  {
+   "i": 154,
+   "start": 436.96,
+   "end": 437.8,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Whatever, man."
+  },
+  {
+   "i": 155,
+   "start": 438.26,
+   "end": 440.76,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Father! Oh, thank God you're still alive."
+  },
+  {
+   "i": 156,
+   "start": 440.76,
+   "end": 442.36,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "We have to get out of here now!"
+  },
+  {
+   "i": 157,
+   "start": 442.36,
+   "end": 445.6,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Are you kidding me? I have her right where I want her!"
+  },
+  {
+   "i": 158,
+   "start": 445.84,
+   "end": 448.06,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Do you... live in your own little world??"
+  },
+  {
+   "i": 159,
+   "start": 448.2,
+   "end": 451.7,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Yes. But unfortunately, I have to share it with all of you."
+  },
+  {
+   "i": 160,
+   "start": 451.7,
+   "end": 454.26,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Actually, Vegeta, you don't have to share at all."
+  },
+  {
+   "i": 161,
+   "start": 454.52,
+   "end": 465.3,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "You two seem like you're having fun, so I'd hate to have to interrupt, but if any of you decide to jump in and help MC Widow's Peak over there, I will personally introduce you to the ground."
+  },
+  {
+   "i": 162,
+   "start": 465.56,
+   "end": 468.9,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "And trust me, your relationship will be intimate."
+  },
+  {
+   "i": 163,
+   "start": 469.12,
+   "end": 472.16,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Yeah, not exactly in a rush to help out Vegeta."
+  },
+  {
+   "i": 164,
+   "start": 472.38,
+   "end": 474.14,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "I mean, maybe if it were Goku..."
+  },
+  {
+   "i": 165,
+   "start": 474.14,
+   "end": 475.62,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "Did he say Goku?"
+  },
+  {
+   "i": 166,
+   "start": 475.62,
+   "end": 478.02,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Calm down Sixteen, he's not here."
+  },
+  {
+   "i": 167,
+   "start": 478.02,
+   "end": 480.22,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "But I heard him mention Goku!"
+  },
+  {
+   "i": 168,
+   "start": 480.22,
+   "end": 482.34,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Just focus on your birds, buddy."
+  },
+  {
+   "i": 169,
+   "start": 482.34,
+   "end": 483.56,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "Acquiring birds."
+  },
+  {
+   "i": 170,
+   "start": 483.72,
+   "end": 484.78,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "He likes birds now."
+  },
+  {
+   "i": 171,
+   "start": 484.78,
+   "end": 488.04,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Can we stop talking about Kakarot for just a MINUTE?!"
+  },
+  {
+   "i": 172,
+   "start": 488.04,
+   "end": 490.68,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I mean, for God's sakes, he's never even around!"
+  },
+  {
+   "i": 173,
+   "start": 490.78,
+   "end": 493.06,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Sad thing is, he's not exactly wrong."
+  },
+  {
+   "i": 174,
+   "start": 493.26,
+   "end": 497.74,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Now if you'd like to continue this fight, I can finally get around to disassembling you!"
+  },
+  {
+   "i": 175,
+   "start": 498.02,
+   "end": 499.74,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "You smug c**t."
+  },
+  {
+   "i": 176,
+   "start": 500.1,
+   "end": 504.14,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Shocked silence (save for Vegeta's SSJ aura)"
+  },
+  {
+   "i": 177,
+   "start": 504.14,
+   "end": 504.96,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "(Sigh)"
+  },
+  {
+   "i": 178,
+   "start": 505.7,
+   "end": 506.3,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "...Yup."
+  },
+  {
+   "i": 179,
+   "start": 512.26,
+   "end": 514.16,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Let's see how you handle THIS!"
+  },
+  {
+   "i": 180,
+   "start": 523.08,
+   "end": 525.02,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Does that ruffle you, Android?"
+  },
+  {
+   "i": 181,
+   "start": 525.18,
+   "end": 529.74,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Well, you've managed to destroy my favorite, slash, only jacket, and ruin my leggings."
+  },
+  {
+   "i": 182,
+   "start": 529.94,
+   "end": 531.96,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "So, yeah. \"Ruffled's\" a good word."
+  },
+  {
+   "i": 183,
+   "start": 532.12,
+   "end": 534.66,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Well, that was only a taste of my power."
+  },
+  {
+   "i": 184,
+   "start": 534.66,
+   "end": 538.36,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Now experience, my SUPER SAIYAN WRA--!"
+  },
+  {
+   "i": 185,
+   "start": 538.36,
+   "end": 541.58,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Gahyehg! D'ah! D'urgh! Aghk! AAAAAAAGH--!"
+  },
+  {
+   "i": 186,
+   "start": 543.92,
+   "end": 545.62,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "(Gurgling)"
+  },
+  {
+   "i": 187,
+   "start": 546.1,
+   "end": 548.3,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "How quickly bravado goes out the window when you're flat on your ass."
+  },
+  {
+   "i": 188,
+   "start": 548.3,
+   "end": 549.72,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Hurrgh, urgh..."
+  },
+  {
+   "i": 189,
+   "start": 549.98,
+   "end": 551.2,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "That's pretty sad."
+  },
+  {
+   "i": 190,
+   "start": 551.54,
+   "end": 552.64,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Harrgh!"
+  },
+  {
+   "i": 191,
+   "start": 552.64,
+   "end": 554.56,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Sad for YOOOOUUU--!!"
+  },
+  {
+   "i": 192,
+   "start": 554.84,
+   "end": 555.72,
+   "kind": "dialog",
+   "speaker": "Echo #1",
+   "text": "YOOOOUUU...!!"
+  },
+  {
+   "i": 193,
+   "start": 555.72,
+   "end": 556.68,
+   "kind": "dialog",
+   "speaker": "Echo #2",
+   "text": "YOOOOUUU...!!"
+  },
+  {
+   "i": 194,
+   "start": 556.68,
+   "end": 557.64,
+   "kind": "dialog",
+   "speaker": "Echo #3",
+   "text": "YOOOOUUU...!!"
+  },
+  {
+   "i": 195,
+   "start": 557.64,
+   "end": 559.88,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "(Squealing)"
+  },
+  {
+   "i": 196,
+   "start": 559.88,
+   "end": 560.64,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "(Cracking)"
+  },
+  {
+   "i": 197,
+   "start": 574.94,
+   "end": 579.56,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "...49, 50, 51, 52, 5--"
+  },
+  {
+   "i": 198,
+   "start": 579.56,
+   "end": 580.06,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(Stops screaming)"
+  },
+  {
+   "i": 199,
+   "start": 580.06,
+   "end": 581.46,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Damn, so close to a new record!"
+  },
+  {
+   "i": 200,
+   "start": 581.64,
+   "end": 583.06,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "How's he doing in there?"
+  },
+  {
+   "i": 201,
+   "start": 583.06,
+   "end": 583.92,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "He's doin' fine--"
+  },
+  {
+   "i": 202,
+   "start": 583.92,
+   "end": 584.64,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(Screaming endlessly)"
+  },
+  {
+   "i": 203,
+   "start": 584.64,
+   "end": 586.1,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "HE'S DOIN' FINE!"
+  },
+  {
+   "i": 204,
+   "start": 587.72,
+   "end": 590.44,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "...4, 5, 6..."
+  }
+ ],
+ "segments": [
+  {
+   "start": 82.5,
+   "end": 97.7,
+   "title": "Yeah, Screw That",
+   "quote": "Initializing update 1 of 1432-- / Yeah, screw that.",
+   "line_start": 17,
+   "line_end": 22
+  },
+  {
+   "start": 110.5,
+   "end": 138.1,
+   "title": "What Are the Odds?",
+   "quote": "I am designated as Android 16.",
+   "line_start": 23,
+   "line_end": 35
+  },
+  {
+   "start": 166.8,
+   "end": 195.78,
+   "title": "The Goku Button",
+   "quote": "You pushed the Goku button. You shouldn't'a did that.",
+   "line_start": 48,
+   "line_end": 56
+  },
+  {
+   "start": 195.3,
+   "end": 226.72,
+   "title": "Screaming Up Blood",
+   "quote": "He's screaming up a lot of blood.",
+   "line_start": 57,
+   "line_end": 69
+  },
+  {
+   "start": 231.7,
+   "end": 251.74,
+   "title": "I Hope It's a Truck",
+   "quote": "Then I, too, hope it is a truck.",
+   "line_start": 70,
+   "line_end": 77
+  },
+  {
+   "start": 262.2,
+   "end": 286.1,
+   "title": "Acquiring Hobby",
+   "quote": "Man, we need to get you a hobby. / Acquiring hobby.",
+   "line_start": 83,
+   "line_end": 90
+  },
+  {
+   "start": 299.9,
+   "end": 322.08,
+   "title": "I Liked the Birds",
+   "quote": "The birds flew away. ... I *liked* the birds.",
+   "line_start": 94,
+   "line_end": 104
+  },
+  {
+   "start": 326.8,
+   "end": 341.7,
+   "title": "Clem & Mitch",
+   "quote": "A couple a' Europeans are fightin' on top of the truck!",
+   "line_start": 105,
+   "line_end": 113
+  },
+  {
+   "start": 418.9,
+   "end": 430.76,
+   "title": "Eat a Dick",
+   "quote": "Eat a dick! / Oh okay, he's fine.",
+   "line_start": 144,
+   "line_end": 150
+  },
+  {
+   "start": 441.9,
+   "end": 468.9,
+   "title": "Your Own Little World",
+   "quote": "Yes. But unfortunately, I have to share it with all of you.",
+   "line_start": 157,
+   "line_end": 162
+  },
+  {
+   "start": 484.3,
+   "end": 506.3,
+   "title": "...Yup.",
+   "quote": "You smug c**t.",
+   "line_start": 171,
+   "line_end": 178
+  },
+  {
+   "start": 531.6,
+   "end": 560.64,
+   "title": "Flat on Your Ass",
+   "quote": "How quickly bravado goes out the window when you're flat on your ass.",
+   "line_start": 183,
+   "line_end": 196
+  }
+ ]
+}

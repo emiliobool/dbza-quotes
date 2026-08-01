@@ -1,0 +1,1603 @@
+{
+ "item": "e69",
+ "show": "dbza",
+ "youtube": "3IvHXD7UoVI",
+ "title": "Episode 60 - Epilogue - #DBZA60 | Team Four Star (TFS)",
+ "duration": 684,
+ "lines": [
+  {
+   "i": 0,
+   "start": 18.54,
+   "end": 20.74,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Make sure to tell future me she raised you right."
+  },
+  {
+   "i": 1,
+   "start": 20.74,
+   "end": 22.78,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Oh, I've got a lot to tell you."
+  },
+  {
+   "i": 2,
+   "start": 22.78,
+   "end": 24.22,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "I'm gonna miss you, Trunks."
+  },
+  {
+   "i": 3,
+   "start": 24.22,
+   "end": 26.3,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Have a safe trip back to the future, McFly!"
+  },
+  {
+   "i": 4,
+   "start": 38.72,
+   "end": 41.08,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Goodbye, everyone! I'll never forget you!"
+  },
+  {
+   "i": 5,
+   "start": 41.52,
+   "end": 43.7,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "See you in seventeen years, sweetie!"
+  },
+  {
+   "i": 6,
+   "start": 50.86,
+   "end": 57.42,
+   "kind": "direction",
+   "speaker": null,
+   "text": "TARDIS sounds from Trunks's time machine"
+  },
+  {
+   "i": 7,
+   "start": 59.46,
+   "end": 62.72,
+   "kind": "dialog",
+   "speaker": "Future Bulma",
+   "text": "Hahaha! Suck on that wurst, Einstein!"
+  },
+  {
+   "i": 8,
+   "start": 62.98,
+   "end": 65.78,
+   "kind": "dialog",
+   "speaker": "Future Bulma",
+   "text": "Collapse that wave function all over your pasty German a--"
+  },
+  {
+   "i": 9,
+   "start": 66.02,
+   "end": 66.62,
+   "kind": "dialog",
+   "speaker": "Future Bulma",
+   "text": "Huh?"
+  },
+  {
+   "i": 10,
+   "start": 66.92,
+   "end": 70.04,
+   "kind": "dialog",
+   "speaker": "Future Bulma",
+   "text": "Trunks! Oh, you're back! Thank goodness you're..."
+  },
+  {
+   "i": 11,
+   "start": 72.08,
+   "end": 73.64,
+   "kind": "dialog",
+   "speaker": "Future Bulma",
+   "text": "...Everything go well?"
+  },
+  {
+   "i": 12,
+   "start": 73.64,
+   "end": 75.76,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Hey, Mom! You ever meet Dad?"
+  },
+  {
+   "i": 13,
+   "start": 76.6,
+   "end": 77.1,
+   "kind": "dialog",
+   "speaker": "Future Bulma",
+   "text": "(sigh)"
+  },
+  {
+   "i": 14,
+   "start": 77.46,
+   "end": 79.46,
+   "kind": "dialog",
+   "speaker": "Future Bulma",
+   "text": "Okay, look, love is complicated."
+  },
+  {
+   "i": 15,
+   "start": 79.84,
+   "end": 83.76,
+   "kind": "dialog",
+   "speaker": "Future Bulma",
+   "text": "Seriously, how was I supposed to prepare you for a year alone with him?"
+  },
+  {
+   "i": 16,
+   "start": 83.76,
+   "end": 85.36,
+   "kind": "dialog",
+   "speaker": "Future Bulma",
+   "text": "I never even got a week."
+  },
+  {
+   "i": 17,
+   "start": 85.36,
+   "end": 89.14,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Mom, you didn't prepare me for a car ride to the grocery store with the man."
+  },
+  {
+   "i": 18,
+   "start": 89.34,
+   "end": 90.64,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "What did you see in him?"
+  },
+  {
+   "i": 19,
+   "start": 90.64,
+   "end": 93.94,
+   "kind": "dialog",
+   "speaker": "Future Bulma",
+   "text": "A short, stubborn, powerful person desperate for recognition."
+  },
+  {
+   "i": 20,
+   "start": 94.48,
+   "end": 99.58,
+   "kind": "dialog",
+   "speaker": "Future Bulma",
+   "text": "As a female scientist in her early 30s, I... guess I identified with that."
+  },
+  {
+   "i": 21,
+   "start": 99.58,
+   "end": 101.34,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "(sigh) I just wish I could have."
+  },
+  {
+   "i": 22,
+   "start": 101.34,
+   "end": 106.86,
+   "kind": "dialog",
+   "speaker": "Future Bulma",
+   "text": "Well, apparently you're his baby boy, so... he wasn't all bad, right?"
+  },
+  {
+   "i": 23,
+   "start": 106.86,
+   "end": 110.16,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "A revelation that came at the cost of my literal life."
+  },
+  {
+   "i": 24,
+   "start": 110.16,
+   "end": 114.92,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Then again, considering the dysfunction of that whole group... maybe I'm not the worst off."
+  },
+  {
+   "i": 25,
+   "start": 115.04,
+   "end": 116.98,
+   "kind": "dialog",
+   "speaker": "Future Bulma",
+   "text": "Yeah. Because I raised you right."
+  },
+  {
+   "i": 26,
+   "start": 117.3,
+   "end": 119.56,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Oh, about that..."
+  },
+  {
+   "i": 27,
+   "start": 120.02,
+   "end": 127.18,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Before you found out I was your son, in the past... you might have made a pass at me."
+  },
+  {
+   "i": 28,
+   "start": 127.18,
+   "end": 128.16,
+   "kind": "dialog",
+   "speaker": "Future Bulma",
+   "text": "Well, duh."
+  },
+  {
+   "i": 29,
+   "start": 128.16,
+   "end": 128.82,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Mom!"
+  },
+  {
+   "i": 30,
+   "start": 128.82,
+   "end": 133.2,
+   "kind": "dialog",
+   "speaker": "Future Bulma",
+   "text": "Hey, it's not my fault your dad's genetics and mine go along like chocolate and peanut butter."
+  },
+  {
+   "i": 31,
+   "start": 133.38,
+   "end": 136.76,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Is that why you used to call me your \"little peanut butter cup\"?"
+  },
+  {
+   "i": 32,
+   "start": 136.76,
+   "end": 137.64,
+   "kind": "direction",
+   "speaker": null,
+   "text": "radio static"
+  },
+  {
+   "i": 33,
+   "start": 137.64,
+   "end": 141.94,
+   "kind": "dialog",
+   "speaker": "Wombat",
+   "text": "This is Alpha Leader Wombat, coming at you live from Parsley City!"
+  },
+  {
+   "i": 34,
+   "start": 141.94,
+   "end": 148.28,
+   "kind": "dialog",
+   "speaker": "Wombat",
+   "text": "We've got our special guest, the Cyborgs, and they are *TEARING IT UP*!"
+  },
+  {
+   "i": 35,
+   "start": 148.28,
+   "end": 152.68,
+   "kind": "dialog",
+   "speaker": "Wombat",
+   "text": "Our radio lost five men, I'm running out of ammo and I'm holed up in the bank!"
+  },
+  {
+   "i": 36,
+   "start": 152.68,
+   "end": 155.4,
+   "kind": "dialog",
+   "speaker": "Wombat",
+   "text": "Looks like this will be ALW's last report!"
+  },
+  {
+   "i": 37,
+   "start": 155.4,
+   "end": 158.8,
+   "kind": "dialog",
+   "speaker": "Wombat",
+   "text": "Watch out, TJ, I'M COMING HOME, BROTHA!"
+  },
+  {
+   "i": 38,
+   "start": 158.8,
+   "end": 161.72,
+   "kind": "dialog",
+   "speaker": "Wombat",
+   "text": "[300 audio clip] \"But tonight, we dine in he--!\""
+  },
+  {
+   "i": 39,
+   "start": 161.72,
+   "end": 162.56,
+   "kind": "direction",
+   "speaker": null,
+   "text": "radio cutoff"
+  },
+  {
+   "i": 40,
+   "start": 162.56,
+   "end": 165.62,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Perfect. Just saved me the effort of hunting them down."
+  },
+  {
+   "i": 41,
+   "start": 165.62,
+   "end": 170.14,
+   "kind": "dialog",
+   "speaker": "Future Bulma",
+   "text": "Be careful. I know you're stronger, but I don't want history repeating itself."
+  },
+  {
+   "i": 42,
+   "start": 170.14,
+   "end": 173.52,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Don't worry, Mom. I'll be back before that tea gets cold."
+  },
+  {
+   "i": 43,
+   "start": 174.36,
+   "end": 177.4,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Actually, it's-- it's probably gonna take me a little while to get there, so..."
+  },
+  {
+   "i": 44,
+   "start": 177.4,
+   "end": 178.94,
+   "kind": "dialog",
+   "speaker": "Future Bulma",
+   "text": "Right, so, want me to put in a thermos,"
+  },
+  {
+   "i": 45,
+   "start": 178.94,
+   "end": 180.28,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "You can just a--"
+  },
+  {
+   "i": 46,
+   "start": 178.94,
+   "end": 180.28,
+   "kind": "dialog",
+   "speaker": "Future Bulma",
+   "text": "make more when you get back--"
+  },
+  {
+   "i": 47,
+   "start": 180.28,
+   "end": 182.22,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "You know, I'll just... I'll just finish it now."
+  },
+  {
+   "i": 48,
+   "start": 187.06,
+   "end": 191.22,
+   "kind": "direction",
+   "speaker": "Android 18",
+   "text": "repeating short shouts and ki blast noises"
+  },
+  {
+   "i": 49,
+   "start": 191.24,
+   "end": 194.78,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "You know, sis, they say catharsis is actually bad for your health..."
+  },
+  {
+   "i": 50,
+   "start": 194.78,
+   "end": 198.82,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "And so is calling me a – quote – \"hoe-bot\" – end quote!"
+  },
+  {
+   "i": 51,
+   "start": 198.82,
+   "end": 200.62,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "I'd've gone with \"ro-thot\"."
+  },
+  {
+   "i": 52,
+   "start": 200.62,
+   "end": 202.26,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "I'm not even an android!"
+  },
+  {
+   "i": 53,
+   "start": 202.26,
+   "end": 207.98,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Duh, since you're a girl, you'd obviously be a guynoid, which is funny considering \"guy\" isn't a..."
+  },
+  {
+   "i": 54,
+   "start": 207.98,
+   "end": 209.14,
+   "kind": "direction",
+   "speaker": null,
+   "text": "gunshot, ricocheting noise"
+  },
+  {
+   "i": 55,
+   "start": 209.14,
+   "end": 210.18,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Mother..."
+  },
+  {
+   "i": 56,
+   "start": 210.18,
+   "end": 212.44,
+   "kind": "dialog",
+   "speaker": "Old Man",
+   "text": "(shocked gasp)"
+  },
+  {
+   "i": 57,
+   "start": 214.24,
+   "end": 215.9,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Not a bad shot, pops."
+  },
+  {
+   "i": 58,
+   "start": 218.36,
+   "end": 220.72,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Must be popular down at the shooting range."
+  },
+  {
+   "i": 59,
+   "start": 223.96,
+   "end": 227.14,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "I, on the other hand, have terrible aim."
+  },
+  {
+   "i": 60,
+   "start": 229.58,
+   "end": 232.5,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "I gotta get up real close, see?"
+  },
+  {
+   "i": 61,
+   "start": 233.06,
+   "end": 236.26,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "So do me a favor. Sit still."
+  },
+  {
+   "i": 62,
+   "start": 237.2,
+   "end": 239.36,
+   "kind": "dialog",
+   "speaker": "Old Man",
+   "text": "If you're readin' this..."
+  },
+  {
+   "i": 63,
+   "start": 239.36,
+   "end": 240.34,
+   "kind": "direction",
+   "speaker": null,
+   "text": "gunshot"
+  },
+  {
+   "i": 64,
+   "start": 241.54,
+   "end": 245.8,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Oh, right. \"Gynoid\". Like \"gynecology\". Huh."
+  },
+  {
+   "i": 65,
+   "start": 246.42,
+   "end": 247.66,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "It's obvious when I think about it."
+  },
+  {
+   "i": 66,
+   "start": 247.66,
+   "end": 248.52,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Get away from him!"
+  },
+  {
+   "i": 67,
+   "start": 251.88,
+   "end": 256.16,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "I hope you got everything out of your wretched lives you wanted, because they end today!"
+  },
+  {
+   "i": 68,
+   "start": 256.6,
+   "end": 258.74,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Nobody else is going to..."
+  },
+  {
+   "i": 69,
+   "start": 259.72,
+   "end": 260.48,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Oh..."
+  },
+  {
+   "i": 70,
+   "start": 261.92,
+   "end": 264.16,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Probably could have microwaved that tea."
+  },
+  {
+   "i": 71,
+   "start": 264.52,
+   "end": 268.6,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Well well well. Hey there, Lilac! It's been a few weeks."
+  },
+  {
+   "i": 72,
+   "start": 268.6,
+   "end": 272.26,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Surprised you're on your feet already! Also breathing."
+  },
+  {
+   "i": 73,
+   "start": 272.26,
+   "end": 276.14,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "See, 17? This is what you get when you don't double-tap."
+  },
+  {
+   "i": 74,
+   "start": 276.14,
+   "end": 278.28,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Also, does he look different to you?"
+  },
+  {
+   "i": 75,
+   "start": 278.28,
+   "end": 282.38,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Yeah - ditched the sword, lost the jacket, plus you got *jacked*."
+  },
+  {
+   "i": 76,
+   "start": 282.38,
+   "end": 284.62,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "You must be crushing that 5-by-5."
+  },
+  {
+   "i": 77,
+   "start": 285.0,
+   "end": 286.8,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Also, did you get a little taller?"
+  },
+  {
+   "i": 78,
+   "start": 286.8,
+   "end": 289.1,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Jesus Christ, swipe right already!"
+  },
+  {
+   "i": 79,
+   "start": 289.1,
+   "end": 290.6,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Pretty sure he's more your type."
+  },
+  {
+   "i": 80,
+   "start": 290.6,
+   "end": 293.48,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "No thanks. I'm into shorter men."
+  },
+  {
+   "i": 81,
+   "start": 295.94,
+   "end": 296.58,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Sis, watch out--!"
+  },
+  {
+   "i": 82,
+   "start": 298.38,
+   "end": 300.22,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "GODDAMN CHEAPSHOTTING ASSHOLE!"
+  },
+  {
+   "i": 83,
+   "start": 303.58,
+   "end": 310.34,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Now, it's too bad you left that sword at home... 'cause now I'm going to have to do what comes next with my bare hands!"
+  },
+  {
+   "i": 84,
+   "start": 318.76,
+   "end": 321.94,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Is this a bad time to point out his specific choice in shirt?"
+  },
+  {
+   "i": 85,
+   "start": 322.26,
+   "end": 324.88,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "You know, it's funny and a little bit sad."
+  },
+  {
+   "i": 86,
+   "start": 325.38,
+   "end": 328.72,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "You two Androids didn't have to turn out like this. The ones I met in the--"
+  },
+  {
+   "i": 87,
+   "start": 328.72,
+   "end": 331.94,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Hold up, did you call us \"Androids\"? That's offensive."
+  },
+  {
+   "i": 88,
+   "start": 331.94,
+   "end": 333.42,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Again with this shit?"
+  },
+  {
+   "i": 89,
+   "start": 333.42,
+   "end": 336.4,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Oh, right. They called you \"Androids\" in the past."
+  },
+  {
+   "i": 90,
+   "start": 336.4,
+   "end": 339.44,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "\"The past\"? What, did you time-travel?"
+  },
+  {
+   "i": 91,
+   "start": 339.64,
+   "end": 341.04,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Uh... yeah."
+  },
+  {
+   "i": 92,
+   "start": 341.04,
+   "end": 343.76,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Wait, when was that? Shouldn't we remember you?"
+  },
+  {
+   "i": 93,
+   "start": 343.76,
+   "end": 348.9,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "How about this... If I don't kill you in the next minute, I'll give you an explanation."
+  },
+  {
+   "i": 94,
+   "start": 348.9,
+   "end": 353.92,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Trust me, wife-beater... By the time we're done with you, we won't need one."
+  },
+  {
+   "i": 95,
+   "start": 353.92,
+   "end": 358.22,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Wait a second! That's what you meant by his choice in shirt? Jesus, dude!"
+  },
+  {
+   "i": 96,
+   "start": 358.22,
+   "end": 359.4,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "What, are you kidding?"
+  },
+  {
+   "i": 97,
+   "start": 359.4,
+   "end": 364.52,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "I put a bullet in some dude's gray matter not two minutes ago and that's what's got you offended?"
+  },
+  {
+   "i": 98,
+   "start": 365.24,
+   "end": 365.74,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Wait--"
+  },
+  {
+   "i": 99,
+   "start": 370.7,
+   "end": 372.94,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Any chance that I could talk you out of this?"
+  },
+  {
+   "i": 100,
+   "start": 374.34,
+   "end": 375.76,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "What was my Master's name?"
+  },
+  {
+   "i": 101,
+   "start": 376.08,
+   "end": 376.66,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Huh?"
+  },
+  {
+   "i": 102,
+   "start": 376.86,
+   "end": 380.4,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "The man who taught me. The man whose arm you took."
+  },
+  {
+   "i": 103,
+   "start": 380.78,
+   "end": 383.18,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "The man *you killed*."
+  },
+  {
+   "i": 104,
+   "start": 383.18,
+   "end": 384.92,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "*What was his name*?"
+  },
+  {
+   "i": 105,
+   "start": 385.66,
+   "end": 388.94,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Goooo.... ku Junior...?"
+  },
+  {
+   "i": 106,
+   "start": 388.94,
+   "end": 390.04,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Wrong answer!"
+  },
+  {
+   "i": 107,
+   "start": 413.4,
+   "end": 415.28,
+   "kind": "dialog",
+   "speaker": "Future Bulma",
+   "text": "You really think he's going to take the bait?"
+  },
+  {
+   "i": 108,
+   "start": 415.28,
+   "end": 419.08,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "I'm pretty sure I have a corpse in another timeline that says: yes, he will."
+  },
+  {
+   "i": 109,
+   "start": 419.08,
+   "end": 420.58,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Now stick to the script, Mom."
+  },
+  {
+   "i": 110,
+   "start": 420.58,
+   "end": 422.16,
+   "kind": "dialog",
+   "speaker": "Future Bulma",
+   "text": "Jeez, morbid."
+  },
+  {
+   "i": 111,
+   "start": 422.58,
+   "end": 423.74,
+   "kind": "dialog",
+   "speaker": "Future Bulma",
+   "text": "Ahem..."
+  },
+  {
+   "i": 112,
+   "start": 424.0,
+   "end": 425.68,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Whimsical music"
+  },
+  {
+   "i": 113,
+   "start": 424.0,
+   "end": 425.68,
+   "kind": "dialog",
+   "speaker": "Future Bulma",
+   "text": "Alright, son!"
+  },
+  {
+   "i": 114,
+   "start": 425.68,
+   "end": 434.22,
+   "kind": "dialog",
+   "speaker": "Future Bulma",
+   "text": "Time to take this *time machine* back to the *past*, where there are *two living CYBORGS* for you to help Goku defeat!"
+  },
+  {
+   "i": 115,
+   "start": 434.22,
+   "end": 435.28,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Thanks, Mom!"
+  },
+  {
+   "i": 116,
+   "start": 435.28,
+   "end": 441.84,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "I can't wait to save all those juicy fat people in the past from those CYBORGS with this TIME MACHINE!"
+  },
+  {
+   "i": 117,
+   "start": 441.84,
+   "end": 443.58,
+   "kind": "dialog",
+   "speaker": "Future Bulma",
+   "text": "Make sure to write!"
+  },
+  {
+   "i": 118,
+   "start": 443.58,
+   "end": 444.8,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Bulma laughing"
+  },
+  {
+   "i": 119,
+   "start": 444.8,
+   "end": 446.28,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Bulma and Trunks laughing"
+  },
+  {
+   "i": 120,
+   "start": 446.28,
+   "end": 448.36,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Cell entering noisily"
+  },
+  {
+   "i": 121,
+   "start": 446.28,
+   "end": 448.36,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Bulma and Trunks laughing"
+  },
+  {
+   "i": 122,
+   "start": 448.36,
+   "end": 449.1,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Whimsical music ends"
+  },
+  {
+   "i": 123,
+   "start": 448.36,
+   "end": 449.1,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Huh?"
+  },
+  {
+   "i": 124,
+   "start": 449.1,
+   "end": 449.82,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Whimsical music ends"
+  },
+  {
+   "i": 125,
+   "start": 449.1,
+   "end": 449.82,
+   "kind": "dialog",
+   "speaker": "Future Bulma",
+   "text": "What?"
+  },
+  {
+   "i": 126,
+   "start": 450.2,
+   "end": 452.14,
+   "kind": "dialog",
+   "speaker": "Future Bulma",
+   "text": "Oh shit, is that him?"
+  },
+  {
+   "i": 127,
+   "start": 452.8,
+   "end": 457.02,
+   "kind": "dialog",
+   "speaker": "Future Bulma",
+   "text": "You know, you never told me he was green, but I imagined he was green."
+  },
+  {
+   "i": 128,
+   "start": 457.02,
+   "end": 457.62,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Mom..."
+  },
+  {
+   "i": 129,
+   "start": 457.64,
+   "end": 462.56,
+   "kind": "dialog",
+   "speaker": "Future Bulma",
+   "text": "He's looking right at us. Does he... Does he know I can see him?"
+  },
+  {
+   "i": 130,
+   "start": 462.56,
+   "end": 463.92,
+   "kind": "dialog",
+   "speaker": "Cell",
+   "text": "(hungry growl)"
+  },
+  {
+   "i": 131,
+   "start": 463.92,
+   "end": 465.5,
+   "kind": "dialog",
+   "speaker": "Future Bulma",
+   "text": "Is his vision based on movement?"
+  },
+  {
+   "i": 132,
+   "start": 465.5,
+   "end": 466.9,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Mom! Script!"
+  },
+  {
+   "i": 133,
+   "start": 466.9,
+   "end": 470.28,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Whimsical music"
+  },
+  {
+   "i": 134,
+   "start": 466.9,
+   "end": 470.28,
+   "kind": "dialog",
+   "speaker": "Future Bulma",
+   "text": "Alright, son! I'm going to make dinner!"
+  },
+  {
+   "i": 135,
+   "start": 470.66,
+   "end": 473.34,
+   "kind": "dialog",
+   "speaker": "Future Bulma",
+   "text": "It'll be done by the time you get back!"
+  },
+  {
+   "i": 136,
+   "start": 473.34,
+   "end": 474.14,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Whimsical music ends"
+  },
+  {
+   "i": 137,
+   "start": 475.94,
+   "end": 478.96,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Alright, tall dark and bugly. I know you're there."
+  },
+  {
+   "i": 138,
+   "start": 478.96,
+   "end": 480.78,
+   "kind": "dialog",
+   "speaker": "Cell",
+   "text": "No, you don't; this is an ambush--"
+  },
+  {
+   "i": 139,
+   "start": 481.76,
+   "end": 483.26,
+   "kind": "dialog",
+   "speaker": "Cell",
+   "text": "...Ooooh."
+  },
+  {
+   "i": 140,
+   "start": 483.26,
+   "end": 487.84,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Also, I know you're here to kill me and take my time machine, so let's skip the monologue."
+  },
+  {
+   "i": 141,
+   "start": 488.46,
+   "end": 490.0,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Also, you killing me."
+  },
+  {
+   "i": 142,
+   "start": 490.0,
+   "end": 492.5,
+   "kind": "dialog",
+   "speaker": "Cell",
+   "text": "Nahh, but that's the fun part!"
+  },
+  {
+   "i": 143,
+   "start": 492.5,
+   "end": 497.98,
+   "kind": "dialog",
+   "speaker": "Cell",
+   "text": "And unfortunately, I seem to be missing two... vital pieces."
+  },
+  {
+   "i": 144,
+   "start": 498.2,
+   "end": 501.06,
+   "kind": "dialog",
+   "speaker": "Cell",
+   "text": "So, I'm gonna need that time machine so I can--"
+  },
+  {
+   "i": 145,
+   "start": 501.06,
+   "end": 502.88,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "--go back in the past and absorb the Cyborgs--"
+  },
+  {
+   "i": 146,
+   "start": 502.88,
+   "end": 504.12,
+   "kind": "dialog",
+   "speaker": "Cell",
+   "text": "--to achieve my--"
+  },
+  {
+   "i": 147,
+   "start": 504.12,
+   "end": 504.94,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "--perfect form."
+  },
+  {
+   "i": 148,
+   "start": 504.94,
+   "end": 508.56,
+   "kind": "dialog",
+   "speaker": "Cell",
+   "text": "Okay, you suck. You are sucking all the fun out of this!"
+  },
+  {
+   "i": 149,
+   "start": 508.56,
+   "end": 510.44,
+   "kind": "dialog",
+   "speaker": "Cell",
+   "text": "I'm the only one who sucks here, boy--!"
+  },
+  {
+   "i": 150,
+   "start": 510.44,
+   "end": 511.7,
+   "kind": "dialog",
+   "speaker": "Cell",
+   "text": "That came out wrong."
+  },
+  {
+   "i": 151,
+   "start": 511.7,
+   "end": 513.1,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Nah, sounds right to me."
+  },
+  {
+   "i": 152,
+   "start": 513.9,
+   "end": 518.1,
+   "kind": "dialog",
+   "speaker": "Future Bulma",
+   "text": "Seriously, whose DNA made him look like he stepped into a teleporter with Jeff Goldblum?"
+  },
+  {
+   "i": 153,
+   "start": 518.46,
+   "end": 521.48,
+   "kind": "dialog",
+   "speaker": "Cell",
+   "text": "How... how do you know all this?"
+  },
+  {
+   "i": 154,
+   "start": 521.48,
+   "end": 526.7,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Because... someone once told me... Multiverse theory is a bitch."
+  },
+  {
+   "i": 155,
+   "start": 527.34,
+   "end": 531.84,
+   "kind": "dialog",
+   "speaker": "Cell",
+   "text": "Okay, I feel like you're referencing something, and I don't get it, and that's not fair."
+  },
+  {
+   "i": 156,
+   "start": 531.84,
+   "end": 536.92,
+   "kind": "dialog",
+   "speaker": "Cell",
+   "text": "So I'm really gonna need that time machine now, so I can just go back and redo this whole conversation."
+  },
+  {
+   "i": 157,
+   "start": 536.92,
+   "end": 539.92,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Sorry, Cell. You already got your way once."
+  },
+  {
+   "i": 158,
+   "start": 539.92,
+   "end": 542.62,
+   "kind": "dialog",
+   "speaker": "Cell",
+   "text": "Wait, \"Cell\"? Is that my name?"
+  },
+  {
+   "i": 159,
+   "start": 542.62,
+   "end": 545.88,
+   "kind": "dialog",
+   "speaker": "Cell",
+   "text": "Oh man, that's way better than the name I came up with!"
+  },
+  {
+   "i": 160,
+   "start": 546.22,
+   "end": 549.38,
+   "kind": "dialog",
+   "speaker": "Cell",
+   "text": "I was thinking... \"Jiren\"."
+  },
+  {
+   "i": 161,
+   "start": 550.48,
+   "end": 551.94,
+   "kind": "dialog",
+   "speaker": "Cell",
+   "text": "Yeah, see, I though it was boring too."
+  },
+  {
+   "i": 162,
+   "start": 560.36,
+   "end": 563.7,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "I hope you're prepared to meet your maker... in Hell!"
+  },
+  {
+   "i": 163,
+   "start": 564.18,
+   "end": 566.24,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Because I'm pretty sure that's where Dr. Gero is."
+  },
+  {
+   "i": 164,
+   "start": 566.24,
+   "end": 569.42,
+   "kind": "dialog",
+   "speaker": "Cell",
+   "text": "Ohohoho. You think you're cute?!"
+  },
+  {
+   "i": 165,
+   "start": 569.82,
+   "end": 573.18,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Bitch... I'm adorable."
+  },
+  {
+   "i": 166,
+   "start": 581.96,
+   "end": 585.66,
+   "kind": "dialog",
+   "speaker": "Cell",
+   "text": "Boy howdy, kids. Looks like your old friend Cell's in quite a sticky wicket."
+  },
+  {
+   "i": 167,
+   "start": 585.84,
+   "end": 587.04,
+   "kind": "dialog",
+   "speaker": "Cell",
+   "text": "Whatever should he do?"
+  },
+  {
+   "i": 168,
+   "start": 588.18,
+   "end": 590.66,
+   "kind": "dialog",
+   "speaker": "Cell",
+   "text": "Use the Kamehameha? Good idea!"
+  },
+  {
+   "i": 169,
+   "start": 591.02,
+   "end": 593.48,
+   "kind": "dialog",
+   "speaker": "Cell",
+   "text": "Kaaa... meee..."
+  },
+  {
+   "i": 170,
+   "start": 593.48,
+   "end": 595.28,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "HAAAAAAA!"
+  },
+  {
+   "i": 171,
+   "start": 595.28,
+   "end": 596.14,
+   "kind": "dialog",
+   "speaker": "Cell",
+   "text": "Letmefinish!"
+  },
+  {
+   "i": 172,
+   "start": 596.14,
+   "end": 599.0,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "GET OUT OF MY F***ING TIMELINE!"
+  },
+  {
+   "i": 173,
+   "start": 603.32,
+   "end": 608.84,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♪ Frank Sinatra - \"My Way\" ♪"
+  },
+  {
+   "i": 174,
+   "start": 608.84,
+   "end": 613.36,
+   "kind": "dialog",
+   "speaker": "Cell",
+   "text": "♪ And now... the end is near-- ♪"
+  },
+  {
+   "i": 175,
+   "start": 613.36,
+   "end": 615.66,
+   "kind": "dialog",
+   "speaker": "Cell",
+   "text": "AH GODDAMMIT!! SHIIIII...!!"
+  },
+  {
+   "i": 176,
+   "start": 624.9,
+   "end": 625.96,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "'It's over.'"
+  },
+  {
+   "i": 177,
+   "start": 627.06,
+   "end": 633.92,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "'After everything, this feels... this feels... anticlimact--'"
+  },
+  {
+   "i": 178,
+   "start": 639.1,
+   "end": 643.34,
+   "kind": "dialog",
+   "speaker": "Future Bulma",
+   "text": "So, truth be told, I never really got to know your father that well."
+  },
+  {
+   "i": 179,
+   "start": 643.88,
+   "end": 646.96,
+   "kind": "dialog",
+   "speaker": "Future Bulma",
+   "text": "He and I shared one night of passion after he came back to Earth."
+  },
+  {
+   "i": 180,
+   "start": 646.96,
+   "end": 647.54,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Mom, you--"
+  },
+  {
+   "i": 181,
+   "start": 647.54,
+   "end": 650.78,
+   "kind": "dialog",
+   "speaker": "Future Bulma",
+   "text": "And unfortunately, he didn't know what \"protection\" meant!"
+  },
+  {
+   "i": 182,
+   "start": 650.78,
+   "end": 652.06,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "I really don't need to know this!"
+  },
+  {
+   "i": 183,
+   "start": 652.06,
+   "end": 654.48,
+   "kind": "dialog",
+   "speaker": "Future Bulma",
+   "text": "But after that first time, I just thought:"
+  },
+  {
+   "i": 184,
+   "start": 654.48,
+   "end": 657.1,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "\"Well, in for a penny, in for a pounding.\""
+  },
+  {
+   "i": 185,
+   "start": 657.1,
+   "end": 658.64,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "[disgusted, nervous] Aaaaaahhhh..."
+  },
+  {
+   "i": 186,
+   "start": 658.64,
+   "end": 660.36,
+   "kind": "dialog",
+   "speaker": "Future Bulma",
+   "text": "And I really was!"
+  }
+ ],
+ "segments": [
+  {
+   "start": 116.9,
+   "end": 137.3,
+   "title": "Little Peanut Butter Cup",
+   "quote": "...you might have made a pass at me. / Well, duh. / Is that why you used to call me your \"little peanut butter cup\"?",
+   "line_start": 26,
+   "line_end": 31
+  },
+  {
+   "start": 223.5,
+   "end": 248.0,
+   "title": "Gynoid",
+   "quote": "I, on the other hand, have terrible aim. I gotta get up real close, see? / Oh, right. \"Gynoid\". Like \"gynecology\". Huh.",
+   "line_start": 59,
+   "line_end": 65
+  },
+  {
+   "start": 251.4,
+   "end": 264.4,
+   "title": "Microwaved That Tea",
+   "quote": "...because they end today! Nobody else is going to... Oh... / Probably could have microwaved that tea.",
+   "line_start": 67,
+   "line_end": 70
+  },
+  {
+   "start": 275.7,
+   "end": 293.8,
+   "title": "Swipe Right Already",
+   "quote": "Jesus Christ, swipe right already! / Pretty sure he's more your type. / No thanks. I'm into shorter men.",
+   "line_start": 74,
+   "line_end": 80
+  },
+  {
+   "start": 348.5,
+   "end": 365.0,
+   "title": "Wife-Beater",
+   "quote": "That's what you meant by his choice in shirt? Jesus, dude! / I put a bullet in some dude's gray matter not two minutes ago and that's what's got you offended?",
+   "line_start": 94,
+   "line_end": 97
+  },
+  {
+   "start": 373.9,
+   "end": 390.3,
+   "title": "Goku Junior",
+   "quote": "*What was his name*? / Goooo.... ku Junior...? / Wrong answer!",
+   "line_start": 100,
+   "line_end": 106
+  },
+  {
+   "start": 413.0,
+   "end": 443.6,
+   "title": "Stick to the Script",
+   "quote": "I can't wait to save all those juicy fat people in the past from those CYBORGS with this TIME MACHINE!",
+   "line_start": 107,
+   "line_end": 117
+  },
+  {
+   "start": 449.8,
+   "end": 473.3,
+   "title": "Is His Vision Based on Movement?",
+   "quote": "You know, you never told me he was green, but I imagined he was green. / Is his vision based on movement? / Mom! Script!",
+   "line_start": 123,
+   "line_end": 135
+  },
+  {
+   "start": 475.5,
+   "end": 513.4,
+   "title": "Skip the Monologue",
+   "quote": "Alright, tall dark and bugly. / No, you don't; this is an ambush-- ...Ooooh. / I'm the only one who sucks here, boy--! That came out wrong.",
+   "line_start": 137,
+   "line_end": 151
+  },
+  {
+   "start": 536.5,
+   "end": 552.3,
+   "title": "Jiren",
+   "quote": "Wait, \"Cell\"? Is that my name? / I was thinking... \"Jiren\". / Yeah, see, I though it was boring too.",
+   "line_start": 157,
+   "line_end": 161
+  },
+  {
+   "start": 559.9,
+   "end": 573.5,
+   "title": "Bitch, I'm Adorable",
+   "quote": "Bitch... I'm adorable.",
+   "line_start": 162,
+   "line_end": 165
+  },
+  {
+   "start": 587.8,
+   "end": 615.9,
+   "title": "Get Out of My F***ing Timeline",
+   "quote": "Kaaa... meee... / HAAAAAAA! / Letmefinish! / GET OUT OF MY F***ING TIMELINE!",
+   "line_start": 168,
+   "line_end": 175
+  }
+ ]
+}

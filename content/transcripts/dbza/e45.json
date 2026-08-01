@@ -1,0 +1,1851 @@
+{
+ "item": "e45",
+ "show": "dbza",
+ "youtube": "0sfm-ADB4jk",
+ "title": "Episode 41",
+ "duration": 622,
+ "lines": [
+  {
+   "i": 0,
+   "start": 19.8,
+   "end": 23.44,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Seriously, can we speed this up? It's cold as tits up here."
+  },
+  {
+   "i": 1,
+   "start": 23.44,
+   "end": 29.14,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Y'know, maybe if you stopped whining and helped me look, we'd... oh, oh look, there's one. There's..."
+  },
+  {
+   "i": 2,
+   "start": 30.2,
+   "end": 34.82,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Actually, second thought, we don't *have* to steal the first one we see."
+  },
+  {
+   "i": 3,
+   "start": 34.82,
+   "end": 37.68,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Oh I'm sorry, I can't hear you over your welching."
+  },
+  {
+   "i": 4,
+   "start": 37.68,
+   "end": 39.2,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Hukgh, whatever."
+  },
+  {
+   "i": 5,
+   "start": 41.82,
+   "end": 44.26,
+   "kind": "dialog",
+   "speaker": "Chuck",
+   "text": "So Jones, uh, how's the wife and kids?"
+  },
+  {
+   "i": 6,
+   "start": 44.44,
+   "end": 48.12,
+   "kind": "dialog",
+   "speaker": "Jones",
+   "text": "Still dead, Chuck. Been for months."
+  },
+  {
+   "i": 7,
+   "start": 48.12,
+   "end": 48.74,
+   "kind": "dialog",
+   "speaker": "Chuck",
+   "text": "Oh..."
+  },
+  {
+   "i": 8,
+   "start": 49.32,
+   "end": 51.66,
+   "kind": "dialog",
+   "speaker": "Chuck",
+   "text": "I am terrible at small talk."
+  },
+  {
+   "i": 9,
+   "start": 51.66,
+   "end": 53.12,
+   "kind": "dialog",
+   "speaker": "Jones",
+   "text": "Yes. You are."
+  },
+  {
+   "i": 10,
+   "start": 53.12,
+   "end": 53.7,
+   "kind": "dialog",
+   "speaker": "Jones",
+   "text": "Uh?"
+  },
+  {
+   "i": 11,
+   "start": 53.94,
+   "end": 56.76,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Huh, \"Lucky Foods\". Kind of ironic."
+  },
+  {
+   "i": 12,
+   "start": 56.76,
+   "end": 59.94,
+   "kind": "dialog",
+   "speaker": "Jones",
+   "text": "Uh, young man? Need you to stay out of our van."
+  },
+  {
+   "i": 13,
+   "start": 59.94,
+   "end": 61.84,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Alright guys, we're taking the van."
+  },
+  {
+   "i": 14,
+   "start": 63.98,
+   "end": 65.86,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "No buddy, we're gonna drive it."
+  },
+  {
+   "i": 15,
+   "start": 66.06,
+   "end": 69.06,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "Oh... sorry."
+  },
+  {
+   "i": 16,
+   "start": 69.06,
+   "end": 71.2,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "It's cool. Now you have a place to sit."
+  },
+  {
+   "i": 17,
+   "start": 71.2,
+   "end": 72.06,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "Affirmative."
+  },
+  {
+   "i": 18,
+   "start": 73.6,
+   "end": 74.38,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "Shotgun."
+  },
+  {
+   "i": 19,
+   "start": 74.66,
+   "end": 77.62,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Not quite what that means, but hey, keep trying, man."
+  },
+  {
+   "i": 20,
+   "start": 81.0,
+   "end": 83.84,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Bitchin'. Next stop - Casa de Goku."
+  },
+  {
+   "i": 21,
+   "start": 83.84,
+   "end": 87.66,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "How 'bout no? New clothes first, Goku's \"casa\" second."
+  },
+  {
+   "i": 22,
+   "start": 87.66,
+   "end": 90.88,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "T'heh. Women... Am I right, Sixteen?"
+  },
+  {
+   "i": 23,
+   "start": 90.88,
+   "end": 93.42,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "Confirmed: She is female."
+  },
+  {
+   "i": 24,
+   "start": 93.58,
+   "end": 95.46,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "T'hah! She is."
+  },
+  {
+   "i": 25,
+   "start": 96.12,
+   "end": 97.86,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"Cha-La Head-Cha-La\" ♫"
+  },
+  {
+   "i": 26,
+   "start": 97.86,
+   "end": 100.6,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "♫ CHA-LA HEAD-CHA-LA ♫"
+  },
+  {
+   "i": 27,
+   "start": 101.3,
+   "end": 105.0,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "♫ Egao urutora zetto de ♫ (With a smile that’s Ultra-Z)"
+  },
+  {
+   "i": 28,
+   "start": 105.0,
+   "end": 108.3,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "♫ Kyô mo ai-yai-yai-yai-yai~ ♫ (Even today is ai-yai-yai-yai-yai~)"
+  },
+  {
+   "i": 29,
+   "start": 108.3,
+   "end": 109.94,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "♫ Sparking! [fading echo] ♫"
+  },
+  {
+   "i": 30,
+   "start": 120.92,
+   "end": 126.02,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Y'know, I should have brought this up earlier, but we should probably move Goku before the Androids get to his house."
+  },
+  {
+   "i": 31,
+   "start": 126.02,
+   "end": 130.08,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "It's been pretty non-stop here, so I'm a little out of the loop. What happened to Goku?"
+  },
+  {
+   "i": 32,
+   "start": 130.34,
+   "end": 133.86,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Oh, uh, he didn't take his medicine; grape-flavored. Go figure."
+  },
+  {
+   "i": 33,
+   "start": 134.22,
+   "end": 136.04,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Yeah... go figure..."
+  },
+  {
+   "i": 34,
+   "start": 136.34,
+   "end": 140.62,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Actually, I really need to go pick up Chiaotzu. Left him over at Kame House."
+  },
+  {
+   "i": 35,
+   "start": 142.7,
+   "end": 145.32,
+   "kind": "dialog",
+   "speaker": "Chiaotzu",
+   "text": "So - how do you like my Chashu Ramen?"
+  },
+  {
+   "i": 36,
+   "start": 145.86,
+   "end": 146.48,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "GULP"
+  },
+  {
+   "i": 37,
+   "start": 146.48,
+   "end": 149.82,
+   "kind": "dialog",
+   "speaker": "Oolong",
+   "text": "Wow, that is frickin' tasty! What's in this?"
+  },
+  {
+   "i": 38,
+   "start": 149.82,
+   "end": 156.74,
+   "kind": "dialog",
+   "speaker": "Chiaotzu",
+   "text": "Little bit of sake, soy-sauce, beansprouts, poooooooooorrrrrrrrrrrrrrrrrrrrrrrrrrrrk..."
+  },
+  {
+   "i": 39,
+   "start": 157.36,
+   "end": 158.88,
+   "kind": "dialog",
+   "speaker": "Oolong",
+   "text": "I'm delicious...!"
+  },
+  {
+   "i": 40,
+   "start": 158.88,
+   "end": 160.54,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "How old are you?!"
+  },
+  {
+   "i": 41,
+   "start": 161.04,
+   "end": 165.02,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "So, I'm going to go grab him before things get... *weird*."
+  },
+  {
+   "i": 42,
+   "start": 165.2,
+   "end": 166.16,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Later, Tien!"
+  },
+  {
+   "i": 43,
+   "start": 168.34,
+   "end": 170.02,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I can never read that guy..."
+  },
+  {
+   "i": 44,
+   "start": 174.12,
+   "end": 176.16,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Wait, before we go in, uh,"
+  },
+  {
+   "i": 45,
+   "start": 176.16,
+   "end": 178.16,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Uh, huh?"
+  },
+  {
+   "i": 46,
+   "start": 176.16,
+   "end": 178.16,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I wanted to ask:"
+  },
+  {
+   "i": 47,
+   "start": 178.9,
+   "end": 184.08,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "You ever think that Android 18 is, uh, kind of... cute?"
+  },
+  {
+   "i": 48,
+   "start": 186.16,
+   "end": 186.86,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "...No."
+  },
+  {
+   "i": 49,
+   "start": 187.92,
+   "end": 190.18,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Alright then - dibs; by the way, quick warning!"
+  },
+  {
+   "i": 50,
+   "start": 190.18,
+   "end": 193.3,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Be super nice to Goku's wife, she can be a total--"
+  },
+  {
+   "i": 51,
+   "start": 193.3,
+   "end": 195.96,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "(Pained griping)"
+  },
+  {
+   "i": 52,
+   "start": 193.3,
+   "end": 196.92,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Gohan! Oh... it's you."
+  },
+  {
+   "i": 53,
+   "start": 196.92,
+   "end": 199.02,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Yeah, fine, I pretty much asked for that one."
+  },
+  {
+   "i": 54,
+   "start": 199.02,
+   "end": 199.52,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "DING"
+  },
+  {
+   "i": 55,
+   "start": 200.48,
+   "end": 203.42,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Huh? Hey, guys! How it is?"
+  },
+  {
+   "i": 56,
+   "start": 203.42,
+   "end": 207.62,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Oh, uh, Yamcha, right? How's it ha-- I mean, how you doing?"
+  },
+  {
+   "i": 57,
+   "start": 207.74,
+   "end": 209.44,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Oh, you know... hanging in there."
+  },
+  {
+   "i": 58,
+   "start": 209.5,
+   "end": 211.2,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Ughhhhhhh..."
+  },
+  {
+   "i": 59,
+   "start": 211.3,
+   "end": 214.4,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "So, what happened? Did Vegeta clean up the Androids?"
+  },
+  {
+   "i": 60,
+   "start": 214.48,
+   "end": 215.8,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Not quite..."
+  },
+  {
+   "i": 61,
+   "start": 215.8,
+   "end": 222.02,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "* Turns out there were three more * Vegeta got his arms broken * They beat everyone up * Piccolo flipped out * And *I* got kissed by the cute one."
+  },
+  {
+   "i": 62,
+   "start": 222.58,
+   "end": 223.96,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "...The clown?"
+  },
+  {
+   "i": 63,
+   "start": 223.96,
+   "end": 225.5,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "No no no, there's a girl now."
+  },
+  {
+   "i": 64,
+   "start": 225.5,
+   "end": 226.38,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "I don't believe you."
+  },
+  {
+   "i": 65,
+   "start": 226.38,
+   "end": 229.72,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "You know, we should probably continue this conversation after we've moved Goku."
+  },
+  {
+   "i": 66,
+   "start": 229.72,
+   "end": 232.36,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Move Goku? But he finally stopped screaming!"
+  },
+  {
+   "i": 67,
+   "start": 232.36,
+   "end": 233.9,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Gwaaaaaw..."
+  },
+  {
+   "i": 68,
+   "start": 233.9,
+   "end": 235.76,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "N'okay, well-well, he's petering out."
+  },
+  {
+   "i": 69,
+   "start": 235.76,
+   "end": 238.54,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "We'll take him to Kame House! They'll never look for him there!"
+  },
+  {
+   "i": 70,
+   "start": 238.54,
+   "end": 240.52,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "That is literally the second place they'll look."
+  },
+  {
+   "i": 71,
+   "start": 240.52,
+   "end": 246.04,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Look, we're short on time *and* options. And who knows what those dastardly Androids are doing?"
+  },
+  {
+   "i": 72,
+   "start": 249.12,
+   "end": 250.72,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Wow, you actually pulled over."
+  },
+  {
+   "i": 73,
+   "start": 250.72,
+   "end": 252.46,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "No no no, this is gonna be great, shut up."
+  },
+  {
+   "i": 74,
+   "start": 252.46,
+   "end": 258.9,
+   "kind": "dialog",
+   "speaker": "Tex",
+   "text": "You two! This vehicle has been reported as stolen! You are under arrest!"
+  },
+  {
+   "i": 75,
+   "start": 258.9,
+   "end": 262.52,
+   "kind": "dialog",
+   "speaker": "Avery",
+   "text": "Sir, I have checked the vehicle and I have identified another male."
+  },
+  {
+   "i": 76,
+   "start": 262.78,
+   "end": 265.2,
+   "kind": "dialog",
+   "speaker": "Avery",
+   "text": "And he is f*cking biiiig!"
+  },
+  {
+   "i": 77,
+   "start": 265.2,
+   "end": 268.82,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "You cannot sit in the back. I called shotgun."
+  },
+  {
+   "i": 78,
+   "start": 268.82,
+   "end": 269.72,
+   "kind": "dialog",
+   "speaker": "Avery",
+   "text": "He has a weapon!"
+  },
+  {
+   "i": 79,
+   "start": 269.72,
+   "end": 270.64,
+   "kind": "dialog",
+   "speaker": "Tex",
+   "text": "Cuff him!"
+  },
+  {
+   "i": 80,
+   "start": 273.9,
+   "end": 277.4,
+   "kind": "dialog",
+   "speaker": "Avery",
+   "text": "Do we have any bigger... stronger cuffs?"
+  },
+  {
+   "i": 81,
+   "start": 277.4,
+   "end": 278.96,
+   "kind": "dialog",
+   "speaker": "Tex",
+   "text": "Yeah, they're in the car."
+  },
+  {
+   "i": 82,
+   "start": 284.0,
+   "end": 286.68,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Alright, I take it back. This is fun!"
+  },
+  {
+   "i": 83,
+   "start": 289.74,
+   "end": 292.12,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "So, where's Vegeta during all this, anyway?"
+  },
+  {
+   "i": 84,
+   "start": 292.12,
+   "end": 294.32,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Oh, I'm sure he's off somewhere..."
+  },
+  {
+   "i": 85,
+   "start": 294.32,
+   "end": 297.26,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "GODDAMMIT! SHIIIII...!!"
+  },
+  {
+   "i": 86,
+   "start": 298.54,
+   "end": 299.5,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "...*coping*."
+  },
+  {
+   "i": 87,
+   "start": 301.92,
+   "end": 303.42,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "GOHAAAN~!"
+  },
+  {
+   "i": 88,
+   "start": 303.9,
+   "end": 305.08,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "'Oh, good...'"
+  },
+  {
+   "i": 89,
+   "start": 305.08,
+   "end": 307.66,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Oh, I swear I am never letting you get away from me again."
+  },
+  {
+   "i": 90,
+   "start": 307.66,
+   "end": 311.02,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "We're gonna get that GPS tracking chip installed in your neck by the end of the week!"
+  },
+  {
+   "i": 91,
+   "start": 311.02,
+   "end": 312.44,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Uh, little help?"
+  },
+  {
+   "i": 92,
+   "start": 312.44,
+   "end": 315.02,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Androids are coming! Gotta move your dad! Get on the ship!"
+  },
+  {
+   "i": 93,
+   "start": 315.02,
+   "end": 315.88,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Where are we going?"
+  },
+  {
+   "i": 94,
+   "start": 315.88,
+   "end": 316.88,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Kame House."
+  },
+  {
+   "i": 95,
+   "start": 316.88,
+   "end": 319.12,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Isn't that literally the second place they'll look?"
+  },
+  {
+   "i": 96,
+   "start": 319.12,
+   "end": 320.44,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Less lip, more ship!"
+  },
+  {
+   "i": 97,
+   "start": 331.46,
+   "end": 332.84,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "I'm here for Chiaotzu."
+  },
+  {
+   "i": 98,
+   "start": 333.28,
+   "end": 334.4,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "We need to train."
+  },
+  {
+   "i": 99,
+   "start": 334.64,
+   "end": 337.74,
+   "kind": "dialog",
+   "speaker": "Chiaotzu",
+   "text": "But Tien, the doctor said if your shoulders get any bigger--"
+  },
+  {
+   "i": 100,
+   "start": 337.74,
+   "end": 339.86,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "That's why we don't see him anymore."
+  },
+  {
+   "i": 101,
+   "start": 339.86,
+   "end": 342.42,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "Wait, so you didn't beat the Androids?!"
+  },
+  {
+   "i": 102,
+   "start": 342.62,
+   "end": 344.84,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Well, they broke both of Vegeta's arms..."
+  },
+  {
+   "i": 103,
+   "start": 345.2,
+   "end": 349.34,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "so you know, that was pretty fun. Otherwise, it was a total wash."
+  },
+  {
+   "i": 104,
+   "start": 351.06,
+   "end": 352.94,
+   "kind": "dialog",
+   "speaker": "Oolong",
+   "text": "I can never read that guy..."
+  },
+  {
+   "i": 105,
+   "start": 352.94,
+   "end": 355.9,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "Welp, you heard the man. Pig, fetch my laptop."
+  },
+  {
+   "i": 106,
+   "start": 355.9,
+   "end": 358.02,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "We're gonna buy us a submarine!"
+  },
+  {
+   "i": 107,
+   "start": 358.02,
+   "end": 360.54,
+   "kind": "dialog",
+   "speaker": "Oolong",
+   "text": "Alright, but you're not allowed to name it after your junk."
+  },
+  {
+   "i": 108,
+   "start": 360.54,
+   "end": 362.42,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "Bitch, I'm buyin' it, I'm namin' it!"
+  },
+  {
+   "i": 109,
+   "start": 369.88,
+   "end": 370.68,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Mmm."
+  },
+  {
+   "i": 110,
+   "start": 370.68,
+   "end": 371.34,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Mm?"
+  },
+  {
+   "i": 111,
+   "start": 371.34,
+   "end": 371.96,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Hnn?"
+  },
+  {
+   "i": 112,
+   "start": 371.96,
+   "end": 372.6,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Hnn?"
+  },
+  {
+   "i": 113,
+   "start": 372.6,
+   "end": 373.26,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Hghn!"
+  },
+  {
+   "i": 114,
+   "start": 373.26,
+   "end": 373.82,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Hn?!"
+  },
+  {
+   "i": 115,
+   "start": 375.48,
+   "end": 376.64,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Hmm..."
+  },
+  {
+   "i": 116,
+   "start": 377.3,
+   "end": 378.24,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Hghmm...!"
+  },
+  {
+   "i": 117,
+   "start": 378.78,
+   "end": 381.12,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'*Oh, just fuse already*!'"
+  },
+  {
+   "i": 118,
+   "start": 382.52,
+   "end": 384.54,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "So, both arms, huh?"
+  },
+  {
+   "i": 119,
+   "start": 384.54,
+   "end": 386.94,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Both. She was beautiful with a capital B--"
+  },
+  {
+   "i": 120,
+   "start": 386.94,
+   "end": 388.16,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I-I mean brutal!"
+  },
+  {
+   "i": 121,
+   "start": 388.76,
+   "end": 390.86,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Uncomfortably brutal!"
+  },
+  {
+   "i": 122,
+   "start": 391.76,
+   "end": 393.54,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "...I wasn't distracted by her eyes..."
+  },
+  {
+   "i": 123,
+   "start": 393.54,
+   "end": 396.3,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "So wait, Trunks? I'm curious...."
+  },
+  {
+   "i": 124,
+   "start": 396.3,
+   "end": 400.58,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "If you came back in time again to help us, does that mean we already failed?"
+  },
+  {
+   "i": 125,
+   "start": 400.58,
+   "end": 403.64,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Actually - turns out that's not how time-travel works."
+  },
+  {
+   "i": 126,
+   "start": 403.64,
+   "end": 408.38,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "So you're saying I can't just take your Time Machine, go back in time, and tell myself not to date Maron?"
+  },
+  {
+   "i": 127,
+   "start": 408.48,
+   "end": 414.06,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "I don't know who that is... but, no, you couldn't. I mean, you could, but it wouldn't be the same you!"
+  },
+  {
+   "i": 128,
+   "start": 414.2,
+   "end": 419.34,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "You see, when I traveled back to the past, I'm... technically going to a different universe."
+  },
+  {
+   "i": 129,
+   "start": 419.34,
+   "end": 421.26,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Oh - you mean Multiverse Theory?"
+  },
+  {
+   "i": 130,
+   "start": 421.26,
+   "end": 422.2,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Wait, what?"
+  },
+  {
+   "i": 131,
+   "start": 422.2,
+   "end": 422.94,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Yeah."
+  },
+  {
+   "i": 132,
+   "start": 422.94,
+   "end": 425.96,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "With every decision, it creates a branch in the timeline."
+  },
+  {
+   "i": 133,
+   "start": 425.96,
+   "end": 430.26,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Whenever you travel back in time, you're actually entering another parallel universe."
+  },
+  {
+   "i": 134,
+   "start": 430.58,
+   "end": 431.82,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "How could you possibly--?"
+  },
+  {
+   "i": 135,
+   "start": 431.82,
+   "end": 436.44,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "I've been studying theoretical physics... although at this point, I guess it's just physics."
+  },
+  {
+   "i": 136,
+   "start": 436.44,
+   "end": 440.78,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Good. Then if that's all out of the way, we can start your review on cellular biology!"
+  },
+  {
+   "i": 137,
+   "start": 440.78,
+   "end": 443.44,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Aw, but cells are *boring*!"
+  },
+  {
+   "i": 138,
+   "start": 443.44,
+   "end": 444.4,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "I don't get it."
+  },
+  {
+   "i": 139,
+   "start": 444.4,
+   "end": 449.5,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "If it doesn't affect your timeline, why even come back to ours and tell us anything in the first place?"
+  },
+  {
+   "i": 140,
+   "start": 449.5,
+   "end": 452.98,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Well, besides wanting to make at least one timeline without the world being destroyed..."
+  },
+  {
+   "i": 141,
+   "start": 453.66,
+   "end": 457.28,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "my mother didn't tell me until AFTER I'd already done it once."
+  },
+  {
+   "i": 142,
+   "start": 458.18,
+   "end": 460.48,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "...And then she tried to bang you~...!"
+  },
+  {
+   "i": 143,
+   "start": 460.48,
+   "end": 462.04,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Ringtone"
+  },
+  {
+   "i": 144,
+   "start": 462.04,
+   "end": 462.56,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Uh-huh?"
+  },
+  {
+   "i": 145,
+   "start": 462.56,
+   "end": 464.84,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Oh, speak of the devil! That's her ringtone."
+  },
+  {
+   "i": 146,
+   "start": 464.84,
+   "end": 466.44,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "What is *that*?"
+  },
+  {
+   "i": 147,
+   "start": 466.44,
+   "end": 467.5,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "What is what?"
+  },
+  {
+   "i": 148,
+   "start": 467.5,
+   "end": 468.68,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "This music!"
+  },
+  {
+   "i": 149,
+   "start": 468.68,
+   "end": 470.14,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "You mean country music?"
+  },
+  {
+   "i": 150,
+   "start": 470.14,
+   "end": 470.64,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Oh!"
+  },
+  {
+   "i": 151,
+   "start": 471.16,
+   "end": 472.66,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "*This* is country music?"
+  },
+  {
+   "i": 152,
+   "start": 472.66,
+   "end": 474.42,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "What, you don't have country in the future?"
+  },
+  {
+   "i": 153,
+   "start": 474.42,
+   "end": 478.08,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "No! Shortly after I was born it all just... vanished."
+  },
+  {
+   "i": 154,
+   "start": 478.48,
+   "end": 480.26,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Nobody knows exactly what happened."
+  },
+  {
+   "i": 155,
+   "start": 481.44,
+   "end": 484.4,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "So, someone wanna get that? Kinda flying the plane...!"
+  },
+  {
+   "i": 156,
+   "start": 484.4,
+   "end": 485.36,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Aw, fine."
+  },
+  {
+   "i": 157,
+   "start": 485.74,
+   "end": 486.24,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "BEEP"
+  },
+  {
+   "i": 158,
+   "start": 486.4,
+   "end": 487.46,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Krrillin~ sp--"
+  },
+  {
+   "i": 159,
+   "start": 487.46,
+   "end": 489.48,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Shut up, I've got some important news."
+  },
+  {
+   "i": 160,
+   "start": 489.48,
+   "end": 490.78,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Good or bad news?"
+  },
+  {
+   "i": 161,
+   "start": 490.78,
+   "end": 492.84,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "It depends. Is Trunks there?"
+  },
+  {
+   "i": 162,
+   "start": 494.28,
+   "end": 495.34,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "...Is this a booty call?"
+  },
+  {
+   "i": 163,
+   "start": 495.34,
+   "end": 496.12,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "*Krillin*!"
+  },
+  {
+   "i": 164,
+   "start": 496.12,
+   "end": 497.02,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Right behind me!"
+  },
+  {
+   "i": 165,
+   "start": 497.72,
+   "end": 498.54,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Hi, Mom..."
+  },
+  {
+   "i": 166,
+   "start": 499.16,
+   "end": 500.3,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Hey..."
+  },
+  {
+   "i": 167,
+   "start": 500.54,
+   "end": 503.4,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Ambient noise"
+  },
+  {
+   "i": 168,
+   "start": 504.64,
+   "end": 505.44,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Gunshot"
+  },
+  {
+   "i": 169,
+   "start": 505.44,
+   "end": 507.68,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "Ya missed me, four-eyes!"
+  },
+  {
+   "i": 170,
+   "start": 507.68,
+   "end": 511.66,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "That was a warning shot, fat-ass! Now put down the fridge!"
+  },
+  {
+   "i": 171,
+   "start": 511.66,
+   "end": 513.46,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "Viva la honey-baked ham!"
+  },
+  {
+   "i": 172,
+   "start": 513.46,
+   "end": 515.72,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Gunshots"
+  },
+  {
+   "i": 173,
+   "start": 518.2,
+   "end": 523.76,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "...Yeah, anyway, I just got the strangest call from some farmer in the countryside fifty miles out of Ginger Town..."
+  },
+  {
+   "i": 174,
+   "start": 523.76,
+   "end": 525.98,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "said he found one of our vehicles out there."
+  },
+  {
+   "i": 175,
+   "start": 525.98,
+   "end": 530.86,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Wow, this is so interesting, does it have anything to do with the *Androids* we're fighting?"
+  },
+  {
+   "i": 176,
+   "start": 530.86,
+   "end": 532.3,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Shut up, and it might."
+  },
+  {
+   "i": 177,
+   "start": 532.3,
+   "end": 533.98,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Fax dialtones"
+  },
+  {
+   "i": 178,
+   "start": 532.3,
+   "end": 533.98,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "I'm faxing over the picture he took."
+  },
+  {
+   "i": 179,
+   "start": 533.98,
+   "end": 535.52,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Fax dialtones"
+  },
+  {
+   "i": 180,
+   "start": 533.98,
+   "end": 535.52,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "You have a *fax* machine?"
+  },
+  {
+   "i": 181,
+   "start": 535.52,
+   "end": 536.8,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Fax dialtones"
+  },
+  {
+   "i": 182,
+   "start": 535.52,
+   "end": 536.8,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "What's a fax machine?"
+  },
+  {
+   "i": 183,
+   "start": 536.8,
+   "end": 538.3,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Fax dialtones"
+  },
+  {
+   "i": 184,
+   "start": 536.8,
+   "end": 538.3,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "You see; that one makes sense."
+  },
+  {
+   "i": 185,
+   "start": 538.3,
+   "end": 540.16,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Just shut up and show it to Trunks!"
+  },
+  {
+   "i": 186,
+   "start": 541.2,
+   "end": 541.7,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "What?"
+  },
+  {
+   "i": 187,
+   "start": 542.06,
+   "end": 543.5,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "No, this can't be right!"
+  },
+  {
+   "i": 188,
+   "start": 544.42,
+   "end": 545.98,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "This is my Time Machine!"
+  },
+  {
+   "i": 189,
+   "start": 547.1,
+   "end": 548.38,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Maybe you misplaced it."
+  },
+  {
+   "i": 190,
+   "start": 548.38,
+   "end": 551.06,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "That's impossible; I put it away in its capsule!"
+  },
+  {
+   "i": 191,
+   "start": 551.06,
+   "end": 551.86,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Are you sure?"
+  },
+  {
+   "i": 192,
+   "start": 551.86,
+   "end": 554.16,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Of course I'm sure. Here, just let me show you."
+  },
+  {
+   "i": 193,
+   "start": 554.16,
+   "end": 555.02,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "WAIT, NO!"
+  },
+  {
+   "i": 194,
+   "start": 555.02,
+   "end": 555.52,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "CRASH"
+  },
+  {
+   "i": 195,
+   "start": 555.52,
+   "end": 556.02,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Oh, no!"
+  },
+  {
+   "i": 196,
+   "start": 555.52,
+   "end": 556.02,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Screams of terror"
+  },
+  {
+   "i": 197,
+   "start": 556.02,
+   "end": 556.62,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Oh, my God!"
+  },
+  {
+   "i": 198,
+   "start": 556.02,
+   "end": 556.62,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Screams of terror"
+  },
+  {
+   "i": 199,
+   "start": 556.62,
+   "end": 557.64,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "It's on top of Goku!"
+  },
+  {
+   "i": 200,
+   "start": 556.62,
+   "end": 557.64,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Screams of terror"
+  },
+  {
+   "i": 201,
+   "start": 557.64,
+   "end": 558.14,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Dad!"
+  },
+  {
+   "i": 202,
+   "start": 558.14,
+   "end": 559.22,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Put it back, put it back, put it back!"
+  },
+  {
+   "i": 203,
+   "start": 559.22,
+   "end": 560.44,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Goku screaming"
+  },
+  {
+   "i": 204,
+   "start": 560.44,
+   "end": 562.08,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Oh good, that's back..."
+  },
+  {
+   "i": 205,
+   "start": 560.44,
+   "end": 562.08,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Goku screaming"
+  },
+  {
+   "i": 206,
+   "start": 562.08,
+   "end": 565.84,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ Closing theme (DBZ intermission) ♫"
+  },
+  {
+   "i": 207,
+   "start": 570.32,
+   "end": 574.16,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "So, I've been thinking about it... what do we do after we kill Goku?"
+  },
+  {
+   "i": 208,
+   "start": 574.16,
+   "end": 576.84,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Whatever the hell we want! Who's gonna stop us?"
+  },
+  {
+   "i": 209,
+   "start": 576.84,
+   "end": 577.96,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "Not Goku."
+  },
+  {
+   "i": 210,
+   "start": 577.96,
+   "end": 581.54,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "*Exactly*. Speaking of which, Sixteen - what's our ETA?"
+  },
+  {
+   "i": 211,
+   "start": 581.54,
+   "end": 584.42,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "We are currently 2,544 miles from our destination."
+  },
+  {
+   "i": 212,
+   "start": 584.42,
+   "end": 586.38,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Ohhh, my God..."
+  },
+  {
+   "i": 213,
+   "start": 586.38,
+   "end": 590.86,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Hey, come on sis, it ain't so bad! Let's turn on our good old friend, the radio."
+  },
+  {
+   "i": 214,
+   "start": 591.14,
+   "end": 593.5,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Country music plays"
+  },
+  {
+   "i": 215,
+   "start": 593.5,
+   "end": 596.12,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Oh, that is ten pounds of nope in a five pound bag."
+  },
+  {
+   "i": 216,
+   "start": 596.3,
+   "end": 599.6,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Right right, sorry. Forgot we were out in the sticks."
+  },
+  {
+   "i": 217,
+   "start": 599.84,
+   "end": 603.96,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "You know what? I think I know the first thing we're gonna do."
+  }
+ ],
+ "segments": [
+  {
+   "start": 53.5,
+   "end": 78.0,
+   "title": "We're Taking the Van",
+   "quote": "Alright guys, we're taking the van. / Shotgun. / Not quite what that means, but hey, keep trying, man.",
+   "line_start": 11,
+   "line_end": 19
+  },
+  {
+   "start": 80.5,
+   "end": 95.5,
+   "title": "Confirmed: She Is Female",
+   "quote": "T'heh. Women... Am I right, Sixteen? / Confirmed: She is female.",
+   "line_start": 20,
+   "line_end": 24
+  },
+  {
+   "start": 142.2,
+   "end": 160.6,
+   "title": "Chashu Ramen",
+   "quote": "Little bit of sake, soy-sauce, beansprouts, poooooooooork... / I'm delicious...!",
+   "line_start": 35,
+   "line_end": 40
+  },
+  {
+   "start": 173.6,
+   "end": 190.2,
+   "title": "Dibs",
+   "quote": "You ever think that Android 18 is, uh, kind of... cute? / ...No. / Alright then - dibs",
+   "line_start": 44,
+   "line_end": 49
+  },
+  {
+   "start": 211.0,
+   "end": 229.7,
+   "title": "Krillin's Recap",
+   "quote": "And *I* got kissed by the cute one. / ...The clown? / No no no, there's a girl now.",
+   "line_start": 59,
+   "line_end": 64
+  },
+  {
+   "start": 248.6,
+   "end": 287.2,
+   "title": "He Is F*cking Biiiig",
+   "quote": "Sir, I have checked the vehicle and I have identified another male. And he is f*cking biiiig! / You cannot sit in the back. I called shotgun.",
+   "line_start": 72,
+   "line_end": 82
+  },
+  {
+   "start": 289.3,
+   "end": 299.5,
+   "title": "Vegeta Is Coping",
+   "quote": "I'm sure he's off somewhere... / GODDAMMIT! SHIIIII...!! / ...*coping*.",
+   "line_start": 83,
+   "line_end": 86
+  },
+  {
+   "start": 369.4,
+   "end": 381.6,
+   "title": "Just Fuse Already",
+   "quote": "'*Oh, just fuse already*!'",
+   "line_start": 109,
+   "line_end": 117
+  },
+  {
+   "start": 418.9,
+   "end": 444.0,
+   "title": "Multiverse Theory",
+   "quote": "Oh - you mean Multiverse Theory? / ...we can start your review on cellular biology! / Aw, but cells are *boring*!",
+   "line_start": 129,
+   "line_end": 137
+  },
+  {
+   "start": 464.4,
+   "end": 480.3,
+   "title": "Country Music Vanished",
+   "quote": "No! Shortly after I was born it all just... vanished. Nobody knows exactly what happened.",
+   "line_start": 146,
+   "line_end": 154
+  },
+  {
+   "start": 551.4,
+   "end": 562.1,
+   "title": "It's On Top of Goku",
+   "quote": "Of course I'm sure. Here, just let me show you. / WAIT, NO! / It's on top of Goku!",
+   "line_start": 192,
+   "line_end": 205
+  },
+  {
+   "start": 577.5,
+   "end": 604.0,
+   "title": "Ten Pounds of Nope",
+   "quote": "Oh, that is ten pounds of nope in a five pound bag.",
+   "line_start": 210,
+   "line_end": 217
+  }
+ ]
+}

@@ -1,0 +1,1331 @@
+{
+ "item": "e13",
+ "show": "dbza",
+ "youtube": "9LxtXsQNLWI",
+ "title": "Episode 11",
+ "duration": 444,
+ "lines": [
+  {
+   "i": 0,
+   "start": 7.48,
+   "end": 11.74,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Sounds of traffic"
+  },
+  {
+   "i": 1,
+   "start": 11.9,
+   "end": 14.82,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "Hey there, Goku. How goes the recovery?"
+  },
+  {
+   "i": 2,
+   "start": 15.04,
+   "end": 26.54,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Well, the doctor said I should be in here for a couple of months; what with the crushed legs, shattered ribs... and the brain damage... and the brain damage ...and the brain damage."
+  },
+  {
+   "i": 3,
+   "start": 27.1,
+   "end": 29.1,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh hey Master Roshi, when did you get here?"
+  },
+  {
+   "i": 4,
+   "start": 29.58,
+   "end": 32.7,
+   "kind": "dialog",
+   "speaker": "Dr. Fieldgood",
+   "text": "Mister... \"San Gaa-ku\"?"
+  },
+  {
+   "i": 5,
+   "start": 33.12,
+   "end": 34.7,
+   "kind": "dialog",
+   "speaker": "Dr. Fieldgood",
+   "text": "You have another visitor to see you."
+  },
+  {
+   "i": 6,
+   "start": 34.86,
+   "end": 37.94,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "What? But... all my friends are already here."
+  },
+  {
+   "i": 7,
+   "start": 38.34,
+   "end": 39.88,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Not *all* of them."
+  },
+  {
+   "i": 8,
+   "start": 40.3,
+   "end": 42.48,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Uh...uh..uh!!"
+  },
+  {
+   "i": 9,
+   "start": 42.9,
+   "end": 43.7,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Flashback"
+  },
+  {
+   "i": 10,
+   "start": 43.7,
+   "end": 46.0,
+   "kind": "dialog",
+   "speaker": "Young Goku",
+   "text": "Yay! I made it to the top!"
+  },
+  {
+   "i": 11,
+   "start": 46.0,
+   "end": 50.74,
+   "kind": "dialog",
+   "speaker": "Young Goku",
+   "text": "Now I can train with Kami! The strongest, most powerful being on the..."
+  },
+  {
+   "i": 12,
+   "start": 50.74,
+   "end": 52.9,
+   "kind": "dialog",
+   "speaker": "Young Goku",
+   "text": "Hmm? Who's that?"
+  },
+  {
+   "i": 13,
+   "start": 59.34,
+   "end": 59.84,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Monitor beeping rapidly"
+  },
+  {
+   "i": 14,
+   "start": 59.34,
+   "end": 59.84,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Flashback ends"
+  },
+  {
+   "i": 15,
+   "start": 59.84,
+   "end": 62.54,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "AAAAAH! AAAAH! GET HIM AWAY FROM ME!"
+  },
+  {
+   "i": 16,
+   "start": 62.54,
+   "end": 63.18,
+   "kind": "dialog",
+   "speaker": "Nurse 1",
+   "text": "Hold him down!"
+  },
+  {
+   "i": 17,
+   "start": 62.54,
+   "end": 63.18,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "AAAAAAAYAAAH!"
+  },
+  {
+   "i": 18,
+   "start": 63.18,
+   "end": 64.94,
+   "kind": "dialog",
+   "speaker": "Nurse 2",
+   "text": "Careful, he’s injured!"
+  },
+  {
+   "i": 19,
+   "start": 63.18,
+   "end": 64.94,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "OH GOD!! OH GOD!!"
+  },
+  {
+   "i": 20,
+   "start": 69.743,
+   "end": 75.243,
+   "kind": "dialog",
+   "speaker": "Dr. Fieldgood",
+   "text": "Well, we’ve finally been able to sedate him. Took us a while; we had to go through some alternative treatment."
+  },
+  {
+   "i": 21,
+   "start": 75.243,
+   "end": 77.463,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "Oh, really? What did you use?"
+  },
+  {
+   "i": 22,
+   "start": 77.463,
+   "end": 81.023,
+   "kind": "dialog",
+   "speaker": "Dr. Fieldgood",
+   "text": "Something I found under the sink. I think it was... Clorox or something."
+  },
+  {
+   "i": 23,
+   "start": 81.023,
+   "end": 82.923,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Aarrggargggg...."
+  },
+  {
+   "i": 24,
+   "start": 83.083,
+   "end": 84.563,
+   "kind": "dialog",
+   "speaker": "Dr. Fieldgood",
+   "text": "Well, page me if you need me."
+  },
+  {
+   "i": 25,
+   "start": 84.803,
+   "end": 85.863,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Byyye."
+  },
+  {
+   "i": 26,
+   "start": 86.123,
+   "end": 88.823,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "Oh, you’re still here.  Who are you anyway?"
+  },
+  {
+   "i": 27,
+   "start": 88.823,
+   "end": 92.123,
+   "kind": "dialog",
+   "speaker": "Korin",
+   "text": "That’s Mr. Popo.  He lives up on the lookout with Kami."
+  },
+  {
+   "i": 28,
+   "start": 93.223,
+   "end": 95.223,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "...Did that cat just talk?"
+  },
+  {
+   "i": 29,
+   "start": 95.543,
+   "end": 100.363,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Alright. Everyone listen up if you want to get those other useless maggots back."
+  },
+  {
+   "i": 30,
+   "start": 100.363,
+   "end": 101.803,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "You mean, you can get our friends back--?"
+  },
+  {
+   "i": 31,
+   "start": 101.803,
+   "end": 102.643,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Shut up, maggot!"
+  },
+  {
+   "i": 32,
+   "start": 102.643,
+   "end": 103.363,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Yes, Sir!"
+  },
+  {
+   "i": 33,
+   "start": 104.563,
+   "end": 113.023,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "As I was saying, the only hope to get your friends back is to use the Dragon Balls on Kami’s home planet: Namek."
+  },
+  {
+   "i": 34,
+   "start": 113.023,
+   "end": 115.703,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Namek?  That’s not a planet I’ve ever heard of."
+  },
+  {
+   "i": 35,
+   "start": 115.903,
+   "end": 119.943,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Oh, look at that.  A woman who doesn’t know any better. What are the odds?"
+  },
+  {
+   "i": 36,
+   "start": 120.043,
+   "end": 123.903,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "To be fair, Mr. Popo, until recently I’ve never heard of that planet either."
+  },
+  {
+   "i": 37,
+   "start": 123.903,
+   "end": 126.443,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Oh, look at that.  A woman who doesn’t know any better."
+  },
+  {
+   "i": 38,
+   "start": 126.443,
+   "end": 129.143,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "AGA--d'aah! Dammit I walked right into that one."
+  },
+  {
+   "i": 39,
+   "start": 129.403,
+   "end": 138.903,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Anyway, I’m the only one who knows where Kami’s old ship is, and the only one with the transportation to get you there; and this is a carpet made for two."
+  },
+  {
+   "i": 40,
+   "start": 139.203,
+   "end": 142.423,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Well, I think the only way to fairly decide on this is to have a democratic vote."
+  },
+  {
+   "i": 41,
+   "start": 142.423,
+   "end": 142.923,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Bulma!"
+  },
+  {
+   "i": 42,
+   "start": 142.923,
+   "end": 143.703,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "Bulma!"
+  },
+  {
+   "i": 43,
+   "start": 142.923,
+   "end": 143.703,
+   "kind": "dialog",
+   "speaker": "Korin",
+   "text": "Bulma."
+  },
+  {
+   "i": 44,
+   "start": 143.703,
+   "end": 144.203,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Bulma."
+  },
+  {
+   "i": 45,
+   "start": 144.203,
+   "end": 144.703,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "Bulma."
+  },
+  {
+   "i": 46,
+   "start": 144.703,
+   "end": 145.543,
+   "kind": "dialog",
+   "speaker": "Ox King",
+   "text": "Yoooohooo!  Bulma."
+  },
+  {
+   "i": 47,
+   "start": 145.543,
+   "end": 147.023,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(Gurgle)"
+  },
+  {
+   "i": 48,
+   "start": 147.443,
+   "end": 151.043,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Okay, um...uh....oh!"
+  },
+  {
+   "i": 49,
+   "start": 151.063,
+   "end": 153.223,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "HA! We don’t need your help!"
+  },
+  {
+   "i": 50,
+   "start": 153.543,
+   "end": 158.483,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "I’ve got right here a remote control to one of the crashed Saiyan ships. All I have to do is put in these coordinates and..."
+  },
+  {
+   "i": 51,
+   "start": 158.483,
+   "end": 159.283,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "SSSSSS"
+  },
+  {
+   "i": 52,
+   "start": 159.283,
+   "end": 159.863,
+   "kind": "dialog",
+   "speaker": "TV Reporter",
+   "text": "YEEEEEEE--!!"
+  },
+  {
+   "i": 53,
+   "start": 159.283,
+   "end": 159.863,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "BOOM"
+  },
+  {
+   "i": 54,
+   "start": 159.863,
+   "end": 160.863,
+   "kind": "direction",
+   "speaker": null,
+   "text": "1000 Hz audio tone"
+  },
+  {
+   "i": 55,
+   "start": 160.863,
+   "end": 162.503,
+   "kind": "dialog",
+   "speaker": "Voice",
+   "text": "CRITICAL FAILURE!"
+  },
+  {
+   "i": 56,
+   "start": 160.863,
+   "end": 162.503,
+   "kind": "direction",
+   "speaker": null,
+   "text": "XD"
+  },
+  {
+   "i": 57,
+   "start": 162.783,
+   "end": 166.483,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Well, well, well.  Look who just ran out of options..."
+  },
+  {
+   "i": 58,
+   "start": 166.643,
+   "end": 171.883,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "Dammit, Bulma, stop being such a scaredy-cat and get on the carpet with the scary genie."
+  },
+  {
+   "i": 59,
+   "start": 172.083,
+   "end": 177.283,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Ugh, I swear to God - if anything happens to me while I’m gone, I’m kicking Krillins’ ass."
+  },
+  {
+   "i": 60,
+   "start": 177.283,
+   "end": 180.063,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Oh, you and I are gonna get along just fine."
+  },
+  {
+   "i": 61,
+   "start": 177.283,
+   "end": 180.063,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "(Distressed noises)"
+  },
+  {
+   "i": 62,
+   "start": 180.063,
+   "end": 181.923,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "BYEOO"
+  },
+  {
+   "i": 63,
+   "start": 182.703,
+   "end": 186.223,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Alright, here we are - Yunzabit Heights."
+  },
+  {
+   "i": 64,
+   "start": 186.683,
+   "end": 191.523,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Wait a sec... how did we make it here so fast? This is the other side of the planet!"
+  },
+  {
+   "i": 65,
+   "start": 191.943,
+   "end": 195.703,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Yep, this carpet gets about ten thousand miles to the soul."
+  },
+  {
+   "i": 66,
+   "start": 195.703,
+   "end": 196.283,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "What?"
+  },
+  {
+   "i": 67,
+   "start": 196.283,
+   "end": 197.203,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "...The gallon."
+  },
+  {
+   "i": 68,
+   "start": 197.323,
+   "end": 204.483,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "But... if you can make it to the other side of the planet so fast, why didn’t you help Goku get to the Saiyans when he arrived on Earth?"
+  },
+  {
+   "i": 69,
+   "start": 204.743,
+   "end": 206.203,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "I was preoccupied."
+  },
+  {
+   "i": 70,
+   "start": 206.203,
+   "end": 206.803,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Flashback"
+  },
+  {
+   "i": 71,
+   "start": 206.803,
+   "end": 210.823,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Mr. Popo!  I need your carpet to get to my friends as quickly as possible!"
+  },
+  {
+   "i": 72,
+   "start": 210.823,
+   "end": 212.043,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Makin' toast!"
+  },
+  {
+   "i": 73,
+   "start": 212.623,
+   "end": 213.983,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Aww, fiiine...!"
+  },
+  {
+   "i": 74,
+   "start": 213.983,
+   "end": 215.503,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Nimbus!"
+  },
+  {
+   "i": 75,
+   "start": 215.603,
+   "end": 217.603,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "WHOOSH"
+  },
+  {
+   "i": 76,
+   "start": 218.603,
+   "end": 219.203,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "DING"
+  },
+  {
+   "i": 77,
+   "start": 219.203,
+   "end": 220.403,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Butterin' toast!"
+  },
+  {
+   "i": 78,
+   "start": 220.603,
+   "end": 221.203,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Flashback ends"
+  },
+  {
+   "i": 79,
+   "start": 221.203,
+   "end": 223.303,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Here it is - Kami’s ship."
+  },
+  {
+   "i": 80,
+   "start": 223.423,
+   "end": 225.423,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "It’s old and covered in moss!"
+  },
+  {
+   "i": 81,
+   "start": 225.563,
+   "end": 228.883,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "I know. Fits, doesn’t it? Now get in."
+  },
+  {
+   "i": 82,
+   "start": 228.883,
+   "end": 229.763,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "But, how do we--"
+  },
+  {
+   "i": 83,
+   "start": 229.763,
+   "end": 230.783,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Popo!"
+  },
+  {
+   "i": 84,
+   "start": 230.783,
+   "end": 231.863,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "WHRRRRRRR"
+  },
+  {
+   "i": 85,
+   "start": 231.863,
+   "end": 234.403,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Oh wow!  Your name opens the ship?"
+  },
+  {
+   "i": 86,
+   "start": 234.403,
+   "end": 235.403,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Popo!"
+  },
+  {
+   "i": 87,
+   "start": 235.403,
+   "end": 236.303,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "WHIRRR"
+  },
+  {
+   "i": 88,
+   "start": 236.303,
+   "end": 237.383,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "...And it closes it too!"
+  },
+  {
+   "i": 89,
+   "start": 237.383,
+   "end": 238.263,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "POPO!!"
+  },
+  {
+   "i": 90,
+   "start": 238.263,
+   "end": 240.183,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Ship whooshes"
+  },
+  {
+   "i": 91,
+   "start": 238.263,
+   "end": 240.183,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Bulma screaming"
+  },
+  {
+   "i": 92,
+   "start": 240.183,
+   "end": 240.843,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Tire skid noise"
+  },
+  {
+   "i": 93,
+   "start": 241.543,
+   "end": 245.543,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "No. It just knows better. Welcome to Jupiter."
+  },
+  {
+   "i": 94,
+   "start": 246.503,
+   "end": 251.843,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "My God! We’re so far into space! In such a short amount of time!"
+  },
+  {
+   "i": 95,
+   "start": 251.843,
+   "end": 258.143,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "This is wonderful, Mr. Popo! We can finally save our friends! This is terrific! This is--"
+  },
+  {
+   "i": 96,
+   "start": 258.143,
+   "end": 261.843,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "POOOOOOPOOOOOOOOO!!"
+  },
+  {
+   "i": 97,
+   "start": 260.223,
+   "end": 261.843,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Bulma screaming"
+  },
+  {
+   "i": 98,
+   "start": 264.543,
+   "end": 271.003,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "And we went to Jupiter in just a couple of seconds! We’ll be at Namek in no time! And even better, Popo could be our pilot!"
+  },
+  {
+   "i": 99,
+   "start": 271.003,
+   "end": 272.023,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "OH DEAR GOD!"
+  },
+  {
+   "i": 100,
+   "start": 272.023,
+   "end": 272.583,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "No."
+  },
+  {
+   "i": 101,
+   "start": 272.583,
+   "end": 273.763,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "OH THANK GOD!"
+  },
+  {
+   "i": 102,
+   "start": 273.763,
+   "end": 275.143,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "But, why aren’t you--"
+  },
+  {
+   "i": 103,
+   "start": 275.143,
+   "end": 278.303,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "If I was going to do it myself, why would I need you?"
+  },
+  {
+   "i": 104,
+   "start": 279.123,
+   "end": 285.363,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "See you when you get back! Except... this season... you."
+  },
+  {
+   "i": 105,
+   "start": 287.303,
+   "end": 289.663,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Heh... whaddya think he means by that? Heh."
+  },
+  {
+   "i": 106,
+   "start": 290.263,
+   "end": 294.343,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Well, all I know is that my little boy isn’t going anywhere."
+  },
+  {
+   "i": 107,
+   "start": 294.543,
+   "end": 298.023,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Actually, Mom... I’m going to Namek."
+  },
+  {
+   "i": 108,
+   "start": 298.023,
+   "end": 304.563,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "As. I. Said. My little boy... isn't... going... *anywhere*!"
+  },
+  {
+   "i": 109,
+   "start": 304.563,
+   "end": 309.023,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "But Mom! Piccolo died for me! It’s my responsibility!"
+  },
+  {
+   "i": 110,
+   "start": 309.023,
+   "end": 315.083,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Gohan, I am your mother! And as your mother, you will listen to me, and you will do as I say!"
+  },
+  {
+   "i": 111,
+   "start": 315.083,
+   "end": 315.783,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "But that's not--"
+  },
+  {
+   "i": 112,
+   "start": 315.783,
+   "end": 321.583,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Did you carry around a baby in you for nine months, with a man who literally thought you had Cinna-Buns hidden in your shirt?!"
+  },
+  {
+   "i": 113,
+   "start": 321.583,
+   "end": 322.163,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "But I--"
+  },
+  {
+   "i": 114,
+   "start": 322.163,
+   "end": 330.063,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Now you’re going to lay in this hospital bed, recover like a normal boy, and then you’re going right back to your Advanced Trig classes, AND THAT IS THE LAST WE WILL--!!"
+  },
+  {
+   "i": 115,
+   "start": 330.063,
+   "end": 332.383,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "SHUT YOUR F**KING FACE!!!!!"
+  },
+  {
+   "i": 116,
+   "start": 332.383,
+   "end": 335.863,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Ambient noise"
+  },
+  {
+   "i": 117,
+   "start": 336.023,
+   "end": 337.503,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "...I’ll be going to Namek now."
+  },
+  {
+   "i": 118,
+   "start": 338.643,
+   "end": 339.343,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "You best."
+  },
+  {
+   "i": 119,
+   "start": 339.343,
+   "end": 340.043,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "SLAM"
+  },
+  {
+   "i": 120,
+   "start": 340.843,
+   "end": 344.583,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Uh well, uh... better get started on that ship!"
+  },
+  {
+   "i": 121,
+   "start": 344.723,
+   "end": 345.643,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Please hurry..."
+  },
+  {
+   "i": 122,
+   "start": 346.163,
+   "end": 350.563,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "With that, Bulma got to work on the ship to prepare it for their travel."
+  },
+  {
+   "i": 123,
+   "start": 350.883,
+   "end": 352.783,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Hey Dad, how are things coming along?"
+  },
+  {
+   "i": 124,
+   "start": 353.063,
+   "end": 359.303,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "Well, I’m working on your translator, but all I can get it to do is translate the Namekian into another language I don’t understand."
+  },
+  {
+   "i": 125,
+   "start": 359.303,
+   "end": 360.643,
+   "kind": "dialog",
+   "speaker": "Toilet",
+   "text": "Toire de arimasu! (Japanese for “I am a toilet”)"
+  },
+  {
+   "i": 126,
+   "start": 360.763,
+   "end": 362.023,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "Damn moon-speak!"
+  },
+  {
+   "i": 127,
+   "start": 362.163,
+   "end": 367.303,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "And in ten days, the remaining warriors were recovered and ready to set out to Namek."
+  },
+  {
+   "i": 128,
+   "start": 368.763,
+   "end": 370.763,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "So, you sure this thing’s ready to fly?"
+  },
+  {
+   "i": 129,
+   "start": 371.163,
+   "end": 377.823,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Yep! I’ve gotten everything worked out. Well, except for one thing: We couldn’t fix the translator for the toilet..."
+  },
+  {
+   "i": 130,
+   "start": 377.823,
+   "end": 379.983,
+   "kind": "dialog",
+   "speaker": "Toilet",
+   "text": "ICH BIN GEFÜLLT MIT PISSWASSER! (German for “I am filled with pee”)"
+  },
+  {
+   "i": 131,
+   "start": 380.163,
+   "end": 382.043,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "Hey, I think I see their car."
+  },
+  {
+   "i": 132,
+   "start": 386.763,
+   "end": 389.463,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Hey Gohan, how are yo--ooOOOH MY GOD!"
+  },
+  {
+   "i": 133,
+   "start": 390.183,
+   "end": 393.403,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "What happened to your head? You look like a young Moe Howard!"
+  },
+  {
+   "i": 134,
+   "start": 393.603,
+   "end": 395.343,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Well look who’s talking, Curly!"
+  },
+  {
+   "i": 135,
+   "start": 395.343,
+   "end": 396.523,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Why, I oughta--!"
+  },
+  {
+   "i": 136,
+   "start": 396.523,
+   "end": 398.823,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Clam it, chowderheads, we gotta get going!"
+  },
+  {
+   "i": 137,
+   "start": 398.823,
+   "end": 399.923,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Bye everybody!"
+  },
+  {
+   "i": 138,
+   "start": 400.163,
+   "end": 404.103,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Now Gohan, don’t make any friends with any questionable strangers!"
+  },
+  {
+   "i": 139,
+   "start": 404.103,
+   "end": 405.423,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "That includes you, Krillin!"
+  },
+  {
+   "i": 140,
+   "start": 406.803,
+   "end": 408.763,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "So Bulma, where do I put my stuff?"
+  },
+  {
+   "i": 141,
+   "start": 408.763,
+   "end": 410.843,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Sit down, strap in, and shut up!"
+  },
+  {
+   "i": 142,
+   "start": 411.183,
+   "end": 412.783,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Uh, alright..."
+  },
+  {
+   "i": 143,
+   "start": 413.363,
+   "end": 415.823,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "So Gohan, how much stuff did you bring?"
+  },
+  {
+   "i": 144,
+   "start": 416.023,
+   "end": 419.043,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Well, Mom packed my bags, so there’s a lot in there."
+  },
+  {
+   "i": 145,
+   "start": 419.043,
+   "end": 422.263,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Well, you know what they say: “Always be prepared”."
+  },
+  {
+   "i": 146,
+   "start": 423.163,
+   "end": 424.003,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Popo."
+  },
+  {
+   "i": 147,
+   "start": 424.003,
+   "end": 428.123,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "AAAAAAAAAAAHHHH!!!!"
+  },
+  {
+   "i": 148,
+   "start": 424.003,
+   "end": 428.123,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "AAAAAAAAAAAHHHH!!!!"
+  },
+  {
+   "i": 149,
+   "start": 429.123,
+   "end": 429.843,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "TCHING"
+  },
+  {
+   "i": 150,
+   "start": 430.803,
+   "end": 434.263,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ Closing theme (DBZ intermission) ♫"
+  },
+  {
+   "i": 151,
+   "start": 434.483,
+   "end": 436.483,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Captions by PyroAvok"
+  },
+  {
+   "i": 152,
+   "start": 436.663,
+   "end": 443.423,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Gggrarrrggagrggagrag...bacon....hcrrrg..."
+  }
+ ],
+ "segments": [
+  {
+   "start": 11.4,
+   "end": 29.1,
+   "title": "And the Brain Damage",
+   "quote": "...and the brain damage... and the brain damage ...and the brain damage. — Oh hey Master Roshi, when did you get here?",
+   "line_start": 1,
+   "line_end": 3
+  },
+  {
+   "start": 34.4,
+   "end": 64.94,
+   "title": "Not *All* of Them",
+   "quote": "Not *all* of them. — AAAAAH! AAAAH! GET HIM AWAY FROM ME!",
+   "line_start": 6,
+   "line_end": 18
+  },
+  {
+   "start": 69.3,
+   "end": 84.6,
+   "title": "Alternative Treatment",
+   "quote": "Something I found under the sink. I think it was... Clorox or something.",
+   "line_start": 20,
+   "line_end": 24
+  },
+  {
+   "start": 85.7,
+   "end": 95.3,
+   "title": "Did That Cat Just Talk?",
+   "quote": "That’s Mr. Popo. He lives up on the lookout with Kami. — ...Did that cat just talk?",
+   "line_start": 26,
+   "line_end": 28
+  },
+  {
+   "start": 112.5,
+   "end": 129.2,
+   "title": "A Woman Who Doesn’t Know Any Better",
+   "quote": "Oh, look at that. A woman who doesn’t know any better. What are the odds?",
+   "line_start": 34,
+   "line_end": 38
+  },
+  {
+   "start": 138.7,
+   "end": 153.3,
+   "title": "The Democratic Vote",
+   "quote": "Bulma! — Bulma! — Bulma. — Bulma. — Bulma. — Yoooohooo! Bulma.",
+   "line_start": 40,
+   "line_end": 49
+  },
+  {
+   "start": 186.2,
+   "end": 197.3,
+   "title": "Ten Thousand Miles to the Soul",
+   "quote": "Yep, this carpet gets about ten thousand miles to the soul. — What? — ...The gallon.",
+   "line_start": 64,
+   "line_end": 67
+  },
+  {
+   "start": 204.2,
+   "end": 221.2,
+   "title": "Makin' Toast!",
+   "quote": "Makin' toast! ... Butterin' toast!",
+   "line_start": 69,
+   "line_end": 77
+  },
+  {
+   "start": 228.4,
+   "end": 245.6,
+   "title": "POPO! (Welcome to Jupiter)",
+   "quote": "Oh wow! Your name opens the ship? — Popo! ... Welcome to Jupiter.",
+   "line_start": 82,
+   "line_end": 93
+  },
+  {
+   "start": 270.5,
+   "end": 289.7,
+   "title": "Except... This Season... You",
+   "quote": "See you when you get back! Except... this season... you.",
+   "line_start": 99,
+   "line_end": 105
+  },
+  {
+   "start": 314.6,
+   "end": 339.4,
+   "title": "SHUT YOUR F**KING FACE!",
+   "quote": "SHUT YOUR F**KING FACE!!!!! — ...I’ll be going to Namek now. — You best.",
+   "line_start": 111,
+   "line_end": 118
+  },
+  {
+   "start": 350.4,
+   "end": 380.0,
+   "title": "Damn Moon-Speak",
+   "quote": "Toire de arimasu! (Japanese for “I am a toilet”) — Damn moon-speak! ... ICH BIN GEFÜLLT MIT PISSWASSER!",
+   "line_start": 123,
+   "line_end": 130
+  }
+ ]
+}

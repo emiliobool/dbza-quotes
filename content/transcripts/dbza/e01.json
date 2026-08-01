@@ -1,0 +1,1635 @@
+{
+ "item": "e01",
+ "show": "dbza",
+ "youtube": "2nYozPLpJRE",
+ "title": "Episode 1",
+ "duration": 501,
+ "lines": [
+  {
+   "i": 0,
+   "start": 26.56,
+   "end": 28.22,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Sounds of fowl"
+  },
+  {
+   "i": 1,
+   "start": 28.22,
+   "end": 30.22,
+   "kind": "dialog",
+   "speaker": "Farmer",
+   "text": "Oh God no, my marijuana patch!"
+  },
+  {
+   "i": 2,
+   "start": 30.22,
+   "end": 33.4,
+   "kind": "dialog",
+   "speaker": "Farmer",
+   "text": "Ah-ah-I mean, er... my carrot patch!"
+  },
+  {
+   "i": 3,
+   "start": 33.4,
+   "end": 34.3,
+   "kind": "dialog",
+   "speaker": "Farmer",
+   "text": "Yeah..."
+  },
+  {
+   "i": 4,
+   "start": 35.0,
+   "end": 40.76,
+   "kind": "dialog",
+   "speaker": "Farmer",
+   "text": "'I better do what any sensible middle American would do in this situation... GET MAH GUN!'"
+  },
+  {
+   "i": 5,
+   "start": 41.84,
+   "end": 43.38,
+   "kind": "dialog",
+   "speaker": "Space Pod",
+   "text": "Hello, and welcome to Earth!"
+  },
+  {
+   "i": 6,
+   "start": 44.04,
+   "end": 44.84,
+   "kind": "dialog",
+   "speaker": "Space Pod",
+   "text": "With open bar."
+  },
+  {
+   "i": 7,
+   "start": 44.84,
+   "end": 46.98,
+   "kind": "dialog",
+   "speaker": "Farmer",
+   "text": "Holy crap, it's Sonic the Hedgeh--!"
+  },
+  {
+   "i": 8,
+   "start": 47.22,
+   "end": 49.4,
+   "kind": "dialog",
+   "speaker": "Farmer",
+   "text": "Er-- no! I-it's an alien!"
+  },
+  {
+   "i": 9,
+   "start": 49.4,
+   "end": 51.06,
+   "kind": "dialog",
+   "speaker": "Farmer",
+   "text": "HOLY S***, IT'S AN ALIEN!"
+  },
+  {
+   "i": 10,
+   "start": 51.42,
+   "end": 53.38,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Finally, on this DEAD PLAN--"
+  },
+  {
+   "i": 11,
+   "start": 53.38,
+   "end": 56.32,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "w-wait, what the crap?"
+  },
+  {
+   "i": 12,
+   "start": 56.64,
+   "end": 58.64,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Did Kakarot screw this up?!"
+  },
+  {
+   "i": 13,
+   "start": 58.64,
+   "end": 61.64,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Oh goddammit, I knew we should have sent Turles."
+  },
+  {
+   "i": 14,
+   "start": 61.9,
+   "end": 64.92,
+   "kind": "dialog",
+   "speaker": "Farmer",
+   "text": "'Better think of something cool to say to make him stop.'"
+  },
+  {
+   "i": 15,
+   "start": 65.16,
+   "end": 66.6,
+   "kind": "dialog",
+   "speaker": "Farmer",
+   "text": "HEY, YOU!"
+  },
+  {
+   "i": 16,
+   "start": 66.82,
+   "end": 69.78,
+   "kind": "dialog",
+   "speaker": "Farmer",
+   "text": "'Heh. Genius, farmer. *Genius*!'"
+  },
+  {
+   "i": 17,
+   "start": 69.78,
+   "end": 72.74,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Aw, look at him! He thinks he's people!"
+  },
+  {
+   "i": 18,
+   "start": 72.74,
+   "end": 75.06,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "What's your power level, little human?"
+  },
+  {
+   "i": 19,
+   "start": 75.32,
+   "end": 76.6,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Five, huh?"
+  },
+  {
+   "i": 20,
+   "start": 76.6,
+   "end": 78.06,
+   "kind": "dialog",
+   "speaker": "Farmer",
+   "text": "PROTECT ME, GUN!"
+  },
+  {
+   "i": 21,
+   "start": 78.66,
+   "end": 80.9,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Hey! No! Bad human!"
+  },
+  {
+   "i": 22,
+   "start": 81.64,
+   "end": 83.0,
+   "kind": "dialog",
+   "speaker": "Farmer",
+   "text": "GAH! But I voted for Bush!"
+  },
+  {
+   "i": 23,
+   "start": 84.12,
+   "end": 84.9,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Bad!"
+  },
+  {
+   "i": 24,
+   "start": 85.26,
+   "end": 87.96,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Now get back up and tell me you're sorry."
+  },
+  {
+   "i": 25,
+   "start": 88.96,
+   "end": 89.62,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Human?"
+  },
+  {
+   "i": 26,
+   "start": 90.48,
+   "end": 91.52,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Huuuuman?"
+  },
+  {
+   "i": 27,
+   "start": 93.14,
+   "end": 96.54,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "(Sigh)... so this is why Dad said I couldn't keep Appule."
+  },
+  {
+   "i": 28,
+   "start": 98.68,
+   "end": 100.3,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Good old wasteland!"
+  },
+  {
+   "i": 29,
+   "start": 100.56,
+   "end": 103.34,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Yup. Sure is some kickass training!"
+  },
+  {
+   "i": 30,
+   "start": 104.48,
+   "end": 113.8,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Damn it, I'm lonely... might as well check MySpace... no new comments... no friend requests... damn it."
+  },
+  {
+   "i": 31,
+   "start": 114.14,
+   "end": 117.9,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Well, at least I have you, Tom. You're always there for me."
+  },
+  {
+   "i": 32,
+   "start": 119.0,
+   "end": 120.22,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "HEY! YOU!"
+  },
+  {
+   "i": 33,
+   "start": 120.22,
+   "end": 121.02,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "What the hell?"
+  },
+  {
+   "i": 34,
+   "start": 121.02,
+   "end": 124.66,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "ARE YOU KAKAROT? SERIOUSLY, IF YOU ARE, STAY STILL!"
+  },
+  {
+   "i": 35,
+   "start": 124.66,
+   "end": 129.62,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "I NEED TO TALK TO YOU ABOUT KILLING AND SELLING THIS PLANET! IT'S REALLY IMPORTANT!"
+  },
+  {
+   "i": 36,
+   "start": 131.52,
+   "end": 134.52,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Oh, wait a second. You're not Kakarot. My bad!"
+  },
+  {
+   "i": 37,
+   "start": 134.52,
+   "end": 137.88,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "I've got green skin, pointy ears, and a turban."
+  },
+  {
+   "i": 38,
+   "start": 137.88,
+   "end": 141.3,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Oh yeah, I must look like *so* many other people."
+  },
+  {
+   "i": 39,
+   "start": 141.3,
+   "end": 145.86,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Oh, a smartass huh? I don't appreciate smartasses."
+  },
+  {
+   "i": 40,
+   "start": 145.86,
+   "end": 148.86,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Prepare yourself for my signature attack!"
+  },
+  {
+   "i": 41,
+   "start": 148.86,
+   "end": 149.64,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "DOUBLE SUN--!"
+  },
+  {
+   "i": 42,
+   "start": 149.64,
+   "end": 150.14,
+   "kind": "dialog",
+   "speaker": "Vegeta3986",
+   "text": "No."
+  },
+  {
+   "i": 43,
+   "start": 150.14,
+   "end": 150.64,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Eh, huh?"
+  },
+  {
+   "i": 44,
+   "start": 150.64,
+   "end": 151.14,
+   "kind": "dialog",
+   "speaker": "Vegeta3986",
+   "text": "Gimme the mic!"
+  },
+  {
+   "i": 45,
+   "start": 151.14,
+   "end": 152.8,
+   "kind": "dialog",
+   "speaker": "Lanipator",
+   "text": "What? N-no! Come on, man!"
+  },
+  {
+   "i": 46,
+   "start": 152.26,
+   "end": 153.82,
+   "kind": "dialog",
+   "speaker": "Vegeta3986",
+   "text": "Gimme--! Gimme me the mic!"
+  },
+  {
+   "i": 47,
+   "start": 153.82,
+   "end": 155.04,
+   "kind": "dialog",
+   "speaker": "Lanipator",
+   "text": "But that's the real attack na--!"
+  },
+  {
+   "i": 48,
+   "start": 155.04,
+   "end": 155.78,
+   "kind": "dialog",
+   "speaker": "Vegeta3986",
+   "text": "No, it isn't!"
+  },
+  {
+   "i": 49,
+   "start": 155.78,
+   "end": 158.32,
+   "kind": "dialog",
+   "speaker": "Lanipator",
+   "text": "Fine. Here. Take it."
+  },
+  {
+   "i": 50,
+   "start": 159.0,
+   "end": 160.96,
+   "kind": "dialog",
+   "speaker": "Lanipator",
+   "text": "I'll just go practice my Vegeta."
+  },
+  {
+   "i": 51,
+   "start": 161.34,
+   "end": 161.98,
+   "kind": "dialog",
+   "speaker": "Lanipator",
+   "text": "*Ass*."
+  },
+  {
+   "i": 52,
+   "start": 163.56,
+   "end": 166.04,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Then prepare yourself for my signature attack."
+  },
+  {
+   "i": 53,
+   "start": 166.34,
+   "end": 167.86,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Keep your eye ON THE BIR--!"
+  },
+  {
+   "i": 54,
+   "start": 167.86,
+   "end": 168.36,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Scouter beeps"
+  },
+  {
+   "i": 55,
+   "start": 168.36,
+   "end": 169.88,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Ooh! A higher power level."
+  },
+  {
+   "i": 56,
+   "start": 170.68,
+   "end": 173.56,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Hey! What the hell? Weren't you going to kill me?"
+  },
+  {
+   "i": 57,
+   "start": 173.74,
+   "end": 175.26,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Ah. There we go."
+  },
+  {
+   "i": 58,
+   "start": 175.26,
+   "end": 182.26,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Considering the average set by this one green guy and that farmer, the chances of this being Kakarot are-- ...d'ah, screw it I'll just go and check."
+  },
+  {
+   "i": 59,
+   "start": 183.14,
+   "end": 186.74,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Fine! Go ahead! I didn't want your company anyway."
+  },
+  {
+   "i": 60,
+   "start": 187.6,
+   "end": 188.48,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Right, Tom?"
+  },
+  {
+   "i": 61,
+   "start": 189.24,
+   "end": 193.72,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Bulma's ship radio is playing \"Girls Just Want to Have Fun\""
+  },
+  {
+   "i": 62,
+   "start": 195.48,
+   "end": 196.74,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Hey, I'm here!"
+  },
+  {
+   "i": 63,
+   "start": 196.74,
+   "end": 198.34,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "BOOBS! I mean, Bulma!"
+  },
+  {
+   "i": 64,
+   "start": 199.24,
+   "end": 199.8,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Hi."
+  },
+  {
+   "i": 65,
+   "start": 200.2,
+   "end": 204.38,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Oooookaayyyy... how's it going?"
+  },
+  {
+   "i": 66,
+   "start": 204.38,
+   "end": 205.96,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "I'm drinking OJ!"
+  },
+  {
+   "i": 67,
+   "start": 205.96,
+   "end": 206.7,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "DING"
+  },
+  {
+   "i": 68,
+   "start": 206.7,
+   "end": 208.08,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "Now it's apple juice!"
+  },
+  {
+   "i": 69,
+   "start": 208.08,
+   "end": 208.58,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "DING"
+  },
+  {
+   "i": 70,
+   "start": 208.58,
+   "end": 211.62,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "Now it's beer! Yay, beer!"
+  },
+  {
+   "i": 71,
+   "start": 211.62,
+   "end": 213.5,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "GULP GULP GULP GULP GULP"
+  },
+  {
+   "i": 72,
+   "start": 213.5,
+   "end": 214.76,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "So, where's Yamcha?"
+  },
+  {
+   "i": 73,
+   "start": 215.14,
+   "end": 217.56,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "I think the bastard's cheating on me!"
+  },
+  {
+   "i": 74,
+   "start": 217.56,
+   "end": 218.64,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Why do you say that?"
+  },
+  {
+   "i": 75,
+   "start": 219.02,
+   "end": 220.52,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Flashback"
+  },
+  {
+   "i": 76,
+   "start": 219.02,
+   "end": 220.52,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "BULMA! IT'S NOT WHAT IT LOOK LI--!"
+  },
+  {
+   "i": 77,
+   "start": 220.52,
+   "end": 222.2,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Oh OK, it's totally what it looks like."
+  },
+  {
+   "i": 78,
+   "start": 223.02,
+   "end": 227.22,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Can I still live here? Please? Before this, I was living in the desert."
+  },
+  {
+   "i": 79,
+   "start": 227.46,
+   "end": 229.38,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Oh, and have you changed Puar's litter box yet?"
+  },
+  {
+   "i": 80,
+   "start": 229.38,
+   "end": 230.62,
+   "kind": "dialog",
+   "speaker": "Puar",
+   "text": "I make boom-boom!"
+  },
+  {
+   "i": 81,
+   "start": 230.62,
+   "end": 231.38,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Flashback ends"
+  },
+  {
+   "i": 82,
+   "start": 231.38,
+   "end": 234.92,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Oh, are you serious? Yamcha? Oh, that is so out of char--"
+  },
+  {
+   "i": 83,
+   "start": 234.92,
+   "end": 236.08,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "So, you're single then?"
+  },
+  {
+   "i": 84,
+   "start": 238.5,
+   "end": 239.38,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hey, guys!"
+  },
+  {
+   "i": 85,
+   "start": 239.72,
+   "end": 241.88,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Goku!"
+  },
+  {
+   "i": 86,
+   "start": 239.72,
+   "end": 241.88,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "TAIL-- uh, wait, what?"
+  },
+  {
+   "i": 87,
+   "start": 241.88,
+   "end": 242.84,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Ha ha ha ha!"
+  },
+  {
+   "i": 88,
+   "start": 242.84,
+   "end": 246.96,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Uh, Goku? I can't help but notice that five-year-old you're carrying."
+  },
+  {
+   "i": 89,
+   "start": 247.36,
+   "end": 252.78,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Goku, just because we picked you up in the middle of the woods when you were a kid doesn't mean you can go around stealing children."
+  },
+  {
+   "i": 90,
+   "start": 253.12,
+   "end": 254.84,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Uh, OK..."
+  },
+  {
+   "i": 91,
+   "start": 255.18,
+   "end": 256.76,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "This is actually my son."
+  },
+  {
+   "i": 92,
+   "start": 256.76,
+   "end": 258.02,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Dramatic sting"
+  },
+  {
+   "i": 93,
+   "start": 258.02,
+   "end": 259.3,
+   "kind": "dialog",
+   "speaker": "M. Night Shyamalan",
+   "text": "What a twist!"
+  },
+  {
+   "i": 94,
+   "start": 259.3,
+   "end": 263.4,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Oh, wow! I guess this means you finally... you know..."
+  },
+  {
+   "i": 95,
+   "start": 263.76,
+   "end": 264.4,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Know what?"
+  },
+  {
+   "i": 96,
+   "start": 265.52,
+   "end": 268.5,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "You know... \"bow-chicka-wow-wow\"!"
+  },
+  {
+   "i": 97,
+   "start": 268.74,
+   "end": 270.64,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "What're those noises you're makin'?"
+  },
+  {
+   "i": 98,
+   "start": 271.14,
+   "end": 274.16,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "'Oh my *God*, he's a parent!'"
+  },
+  {
+   "i": 99,
+   "start": 271.14,
+   "end": 274.16,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "'Oh my *God*, he's a parent!'"
+  },
+  {
+   "i": 100,
+   "start": 274.16,
+   "end": 276.16,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "So when's the little guy gonna start training?"
+  },
+  {
+   "i": 101,
+   "start": 276.16,
+   "end": 281.56,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Actually, Chi-Chi is making him study. She wants him to grow up and be... what's it called?"
+  },
+  {
+   "i": 102,
+   "start": 281.56,
+   "end": 283.74,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "A productive and responsible member of society?"
+  },
+  {
+   "i": 103,
+   "start": 283.74,
+   "end": 285.14,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Yeah, lame! That's it!"
+  },
+  {
+   "i": 104,
+   "start": 285.14,
+   "end": 290.1,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hey son, come here! Stop playing with the turtle! We don't need people saying things..."
+  },
+  {
+   "i": 105,
+   "start": 290.8,
+   "end": 293.38,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Hey, is that a Dragon Ball on his head?"
+  },
+  {
+   "i": 106,
+   "start": 293.38,
+   "end": 296.84,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Doesn't that sort of make him a target for villains who might want them?"
+  },
+  {
+   "i": 107,
+   "start": 296.98,
+   "end": 300.96,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Aw, come on! I beat Piccolo. I'm strong enough to beat anyone who--"
+  },
+  {
+   "i": 108,
+   "start": 300.96,
+   "end": 304.04,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "HOLY BLACK ON A POPO, WHAT IS *THAT*!?"
+  },
+  {
+   "i": 109,
+   "start": 304.04,
+   "end": 305.18,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "What's wrong?"
+  },
+  {
+   "i": 110,
+   "start": 305.18,
+   "end": 310.22,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I just felt a power level bigger than... than... Krillin's losing streak!"
+  },
+  {
+   "i": 111,
+   "start": 310.22,
+   "end": 310.88,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Dramatic sting"
+  },
+  {
+   "i": 112,
+   "start": 311.76,
+   "end": 314.48,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "You know, you guys are the reason I go to therapy."
+  },
+  {
+   "i": 113,
+   "start": 314.66,
+   "end": 316.96,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'He's... getting closer...'"
+  },
+  {
+   "i": 114,
+   "start": 316.96,
+   "end": 317.94,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Dramatic sting"
+  },
+  {
+   "i": 115,
+   "start": 317.94,
+   "end": 320.16,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Shouldn't we grab Gohan and put him insi--?"
+  },
+  {
+   "i": 116,
+   "start": 320.78,
+   "end": 321.92,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Oh son of a--"
+  },
+  {
+   "i": 117,
+   "start": 321.92,
+   "end": 326.22,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "It took me a while to get here but I finally found you... Kakarot."
+  },
+  {
+   "i": 118,
+   "start": 323.38,
+   "end": 323.92,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Goku gasps"
+  },
+  {
+   "i": 119,
+   "start": 326.22,
+   "end": 326.76,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "What?"
+  },
+  {
+   "i": 120,
+   "start": 326.96,
+   "end": 328.84,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "That's right. That's your name."
+  },
+  {
+   "i": 121,
+   "start": 329.3,
+   "end": 329.96,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "What?"
+  },
+  {
+   "i": 122,
+   "start": 329.96,
+   "end": 332.82,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "The name you were given before we sent you to this planet."
+  },
+  {
+   "i": 123,
+   "start": 333.56,
+   "end": 334.18,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "What?"
+  },
+  {
+   "i": 124,
+   "start": 334.4,
+   "end": 337.18,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "You... hit your head as a child, didn't you?"
+  },
+  {
+   "i": 125,
+   "start": 337.8,
+   "end": 338.64,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "THWACK"
+  },
+  {
+   "i": 126,
+   "start": 339.7,
+   "end": 340.2,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "...What?"
+  },
+  {
+   "i": 127,
+   "start": 340.2,
+   "end": 342.14,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Oh for God's sakes, listen!"
+  },
+  {
+   "i": 128,
+   "start": 342.14,
+   "end": 351.28,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "You were sent here as a child to take over the planet, you're part of a dead race of intergalactic super warriors called the \"Saiyans\", and to top off this expositional onslaught..."
+  },
+  {
+   "i": 129,
+   "start": 351.28,
+   "end": 353.8,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "I... am your BROTHER!"
+  },
+  {
+   "i": 130,
+   "start": 353.8,
+   "end": 359.06,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "DUN DUN DUN DUN DUN"
+  },
+  {
+   "i": 131,
+   "start": 359.5,
+   "end": 364.44,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "So you're his brother, huh? Wow, that must mean you'll be involved in a lot of future events, right?"
+  },
+  {
+   "i": 132,
+   "start": 365.12,
+   "end": 365.72,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "...Right?"
+  },
+  {
+   "i": 133,
+   "start": 366.48,
+   "end": 368.12,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "SMACK"
+  },
+  {
+   "i": 134,
+   "start": 366.48,
+   "end": 368.12,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "WAH-AH-AH-AH-AH!"
+  },
+  {
+   "i": 135,
+   "start": 368.12,
+   "end": 368.74,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "GUH-hah!"
+  },
+  {
+   "i": 136,
+   "start": 369.32,
+   "end": 369.92,
+   "kind": "direction",
+   "speaker": null,
+   "text": "K.O.C ding"
+  },
+  {
+   "i": 137,
+   "start": 370.18,
+   "end": 371.48,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "What did I say...?"
+  },
+  {
+   "i": 138,
+   "start": 371.78,
+   "end": 373.4,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hey, stop hitting Krillin!"
+  },
+  {
+   "i": 139,
+   "start": 373.68,
+   "end": 374.54,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Why?"
+  },
+  {
+   "i": 140,
+   "start": 374.54,
+   "end": 376.86,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Because you're breaking Kame House!"
+  },
+  {
+   "i": 141,
+   "start": 377.24,
+   "end": 380.2,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Yeah... stop breaking Kame House..."
+  },
+  {
+   "i": 142,
+   "start": 380.2,
+   "end": 383.18,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "So, what're you here for? The Dragon Balls?"
+  },
+  {
+   "i": 143,
+   "start": 383.38,
+   "end": 385.68,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "The... the Dragon's *what*?"
+  },
+  {
+   "i": 144,
+   "start": 385.84,
+   "end": 387.38,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "The Dragon Balls, you know?"
+  },
+  {
+   "i": 145,
+   "start": 387.38,
+   "end": 391.76,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "There are seven of them, they grant you any wish you want... like immortality?"
+  },
+  {
+   "i": 146,
+   "start": 391.76,
+   "end": 393.28,
+   "kind": "dialog",
+   "speaker": "Oolong",
+   "text": "Or Bulma's panties."
+  },
+  {
+   "i": 147,
+   "start": 393.8,
+   "end": 395.06,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Vegeta, did you hear that?"
+  },
+  {
+   "i": 148,
+   "start": 395.28,
+   "end": 398.84,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Oh yeah, we're totally going to Earth to get our wish!"
+  },
+  {
+   "i": 149,
+   "start": 398.84,
+   "end": 400.6,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Yeah, we're gonna get panties!"
+  },
+  {
+   "i": 150,
+   "start": 401.38,
+   "end": 402.36,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "...I mean immortality."
+  },
+  {
+   "i": 151,
+   "start": 403.2,
+   "end": 405.2,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Immortality's what I meant. Right, Vegeta?"
+  },
+  {
+   "i": 152,
+   "start": 405.78,
+   "end": 407.42,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Just get in the damn pod."
+  },
+  {
+   "i": 153,
+   "start": 408.4,
+   "end": 412.24,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "No. I'm here for *you*, Kakarot."
+  },
+  {
+   "i": 154,
+   "start": 412.24,
+   "end": 415.88,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "So, what are we going to do? See a ball game? Catch a movie?"
+  },
+  {
+   "i": 155,
+   "start": 415.88,
+   "end": 423.24,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "We're going to kill everyone on the planet and then sell it for profit to an alien overlord who may or may not have destroyed our own planet."
+  },
+  {
+   "i": 156,
+   "start": 424.1,
+   "end": 428.46,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh... Well, uh... I sorta like people here."
+  },
+  {
+   "i": 157,
+   "start": 428.46,
+   "end": 430.24,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "So with all due respect--"
+  },
+  {
+   "i": 158,
+   "start": 430.96,
+   "end": 433.38,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "aaaaaaaaaaaaaaaaaahhhhHHHHHHHHHHH--"
+  },
+  {
+   "i": 159,
+   "start": 434.8,
+   "end": 435.7,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Daddy!"
+  },
+  {
+   "i": 160,
+   "start": 435.7,
+   "end": 436.98,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "I'll be taking *this*."
+  },
+  {
+   "i": 161,
+   "start": 436.98,
+   "end": 437.72,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "Yoink!"
+  },
+  {
+   "i": 162,
+   "start": 438.44,
+   "end": 440.56,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Quick! Somebody stop him!"
+  },
+  {
+   "i": 163,
+   "start": 442.08,
+   "end": 444.26,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Crickets chirping"
+  },
+  {
+   "i": 164,
+   "start": 444.26,
+   "end": 445.4,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Dammit, Krillin!"
+  },
+  {
+   "i": 165,
+   "start": 445.4,
+   "end": 448.7,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Hey, I was bitch slapped through a house! What's your excuse?!"
+  },
+  {
+   "i": 166,
+   "start": 448.7,
+   "end": 450.74,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I was kneed in the *stomach*!"
+  },
+  {
+   "i": 167,
+   "start": 450.74,
+   "end": 452.38,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Krillin gasps"
+  },
+  {
+   "i": 168,
+   "start": 450.74,
+   "end": 452.38,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "You guys are pathetic!"
+  },
+  {
+   "i": 169,
+   "start": 452.38,
+   "end": 453.96,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Goku and Bulma gasp"
+  },
+  {
+   "i": 170,
+   "start": 452.38,
+   "end": 453.96,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Dramatic sting"
+  },
+  {
+   "i": 171,
+   "start": 454.58,
+   "end": 455.12,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "What?"
+  },
+  {
+   "i": 172,
+   "start": 455.84,
+   "end": 457.32,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Aw, geez...!"
+  },
+  {
+   "i": 173,
+   "start": 457.32,
+   "end": 462.26,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hey look, I know you totally want to kill me and all, but... today's kind of a bad day."
+  },
+  {
+   "i": 174,
+   "start": 462.26,
+   "end": 466.24,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "* My brother just showed up * Turns out I'm an alien * He stole my kid"
+  },
+  {
+   "i": 175,
+   "start": 466.24,
+   "end": 469.14,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Oh yeah, I was watching that, that was *priceless*!"
+  },
+  {
+   "i": 176,
+   "start": 469.14,
+   "end": 474.64,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "HUHUHAHA, AHAHA, AHAHAHAHAHAHAHAHAHA, AH, AHA, UH--"
+  },
+  {
+   "i": 177,
+   "start": 474.64,
+   "end": 475.7,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Sorry for your loss."
+  },
+  {
+   "i": 178,
+   "start": 476.6,
+   "end": 479.74,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Yeah, anyway... wanna help me get him back?"
+  },
+  {
+   "i": 179,
+   "start": 479.82,
+   "end": 481.72,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Whyyyyyy...?"
+  },
+  {
+   "i": 180,
+   "start": 481.74,
+   "end": 483.74,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I'll friend you on MySpace..."
+  },
+  {
+   "i": 181,
+   "start": 485.24,
+   "end": 487.44,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'Tom, you've been replaced!'"
+  },
+  {
+   "i": 182,
+   "start": 487.72,
+   "end": 488.48,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "BOING"
+  },
+  {
+   "i": 183,
+   "start": 488.7,
+   "end": 489.46,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "BOING"
+  },
+  {
+   "i": 184,
+   "start": 489.76,
+   "end": 490.62,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "BOING"
+  },
+  {
+   "i": 185,
+   "start": 490.76,
+   "end": 492.24,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "BOIOIOIOIOIOINNG"
+  },
+  {
+   "i": 186,
+   "start": 493.06,
+   "end": 495.2,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "Now, it's a Nestlé Crunch bar!"
+  },
+  {
+   "i": 187,
+   "start": 495.2,
+   "end": 495.7,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "DING"
+  },
+  {
+   "i": 188,
+   "start": 495.7,
+   "end": 497.2,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "Now, it's a gummy bear!"
+  },
+  {
+   "i": 189,
+   "start": 497.2,
+   "end": 497.7,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "DING"
+  },
+  {
+   "i": 190,
+   "start": 497.7,
+   "end": 498.94,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "Now, it's Nappa!"
+  },
+  {
+   "i": 191,
+   "start": 498.94,
+   "end": 500.4,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Wait, what the hell?!"
+  }
+ ],
+ "segments": [
+  {
+   "start": 26.0,
+   "end": 51.4,
+   "title": "HOLY S***, IT'S AN ALIEN!",
+   "quote": "Holy crap, it's Sonic the Hedgeh--! Er-- no! I-it's an alien! HOLY S***, IT'S AN ALIEN!",
+   "line_start": 1,
+   "line_end": 9
+  },
+  {
+   "start": 69.3,
+   "end": 97.0,
+   "title": "He Thinks He's People",
+   "quote": "Aw, look at him! He thinks he's people! What's your power level, little human?",
+   "line_start": 17,
+   "line_end": 27
+  },
+  {
+   "start": 98.2,
+   "end": 118.4,
+   "title": "Piccolo's MySpace",
+   "quote": "Well, at least I have you, Tom. You're always there for me.",
+   "line_start": 28,
+   "line_end": 31
+  },
+  {
+   "start": 145.3,
+   "end": 162.3,
+   "title": "Gimme the Mic",
+   "quote": "DOUBLE SUN--! / No. / Gimme the mic!",
+   "line_start": 40,
+   "line_end": 51
+  },
+  {
+   "start": 194.8,
+   "end": 200.0,
+   "title": "BOOBS! I Mean, Bulma!",
+   "quote": "BOOBS! I mean, Bulma!",
+   "line_start": 62,
+   "line_end": 64
+  },
+  {
+   "start": 203.8,
+   "end": 214.2,
+   "title": "Roshi's Magic Juice",
+   "quote": "I'm drinking OJ! Now it's apple juice! Now it's beer! Yay, beer!",
+   "line_start": 66,
+   "line_end": 71
+  },
+  {
+   "start": 254.6,
+   "end": 260.0,
+   "title": "What a Twist!",
+   "quote": "This is actually my son. / What a twist!",
+   "line_start": 91,
+   "line_end": 93
+  },
+  {
+   "start": 304.4,
+   "end": 315.0,
+   "title": "Krillin's Losing Streak",
+   "quote": "I just felt a power level bigger than... than... Krillin's losing streak!",
+   "line_start": 110,
+   "line_end": 112
+  },
+  {
+   "start": 341.6,
+   "end": 359.2,
+   "title": "I... Am Your BROTHER!",
+   "quote": "And to top off this expositional onslaught... I... am your BROTHER!",
+   "line_start": 128,
+   "line_end": 130
+  },
+  {
+   "start": 443.7,
+   "end": 451.0,
+   "title": "Dammit, Krillin!",
+   "quote": "Hey, I was bitch slapped through a house! What's your excuse?! / I was kneed in the *stomach*!",
+   "line_start": 164,
+   "line_end": 167
+  },
+  {
+   "start": 461.7,
+   "end": 476.2,
+   "title": "Sorry for Your Loss",
+   "quote": "My brother just showed up, turns out I'm an alien, he stole my kid. / ...Sorry for your loss.",
+   "line_start": 174,
+   "line_end": 177
+  }
+ ]
+}

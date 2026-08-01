@@ -1,0 +1,2003 @@
+{
+ "item": "e29",
+ "show": "dbza",
+ "youtube": "xYpfCrJPry4",
+ "title": "Episode 27",
+ "duration": 601,
+ "lines": [
+  {
+   "i": 0,
+   "start": 11.14,
+   "end": 17.16,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "♪ 'You put the lime in the coconut and drink 'em both up' ♪"
+  },
+  {
+   "i": 1,
+   "start": 17.16,
+   "end": 18.4,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Goku, come in! *says Chi Chi*"
+  },
+  {
+   "i": 2,
+   "start": 18.4,
+   "end": 19.64,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh hey, King Kai!"
+  },
+  {
+   "i": 3,
+   "start": 19.64,
+   "end": 23.26,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Your friends are in trouble, Goku! Are you healed yet?"
+  },
+  {
+   "i": 4,
+   "start": 23.26,
+   "end": 25.92,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Uhh... nah, I don't think so."
+  },
+  {
+   "i": 5,
+   "start": 25.92,
+   "end": 28.0,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Well, how long do you think it's gonna take?"
+  },
+  {
+   "i": 6,
+   "start": 28.0,
+   "end": 30.78,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Well, I think the machine will tell me when I'm done."
+  },
+  {
+   "i": 7,
+   "start": 30.78,
+   "end": 33.72,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "OK... you *think*, or you *know*?"
+  },
+  {
+   "i": 8,
+   "start": 35.2,
+   "end": 37.08,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "♪ ...You put the lime in the coconut-- ♪"
+  },
+  {
+   "i": 9,
+   "start": 37.08,
+   "end": 37.74,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "GOKU!"
+  },
+  {
+   "i": 10,
+   "start": 37.74,
+   "end": 43.1,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Aww c'mon, King Kai, they don't need my help. I bet they're doing just fine on their own."
+  },
+  {
+   "i": 11,
+   "start": 43.1,
+   "end": 44.02,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Healer's down!"
+  },
+  {
+   "i": 12,
+   "start": 44.02,
+   "end": 44.66,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Need a res!"
+  },
+  {
+   "i": 13,
+   "start": 44.66,
+   "end": 45.6,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Out of mana!"
+  },
+  {
+   "i": 14,
+   "start": 45.6,
+   "end": 48.9,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "WAAAAAAAGH...!"
+  },
+  {
+   "i": 15,
+   "start": 46.4,
+   "end": 48.9,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "WAAAAAAAH...!"
+  },
+  {
+   "i": 16,
+   "start": 47.18,
+   "end": 48.9,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "AAAAAAAH...!"
+  },
+  {
+   "i": 17,
+   "start": 48.1,
+   "end": 48.9,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": ">:)<"
+  },
+  {
+   "i": 18,
+   "start": 69.88,
+   "end": 71.62,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Dramatic sting"
+  },
+  {
+   "i": 19,
+   "start": 71.62,
+   "end": 72.3,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "(Growling)"
+  },
+  {
+   "i": 20,
+   "start": 72.3,
+   "end": 78.18,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "It's been so long since I've had to use this form. It feels like an old suit I never have an occasion to wear."
+  },
+  {
+   "i": 21,
+   "start": 78.62,
+   "end": 79.34,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Ugh!"
+  },
+  {
+   "i": 22,
+   "start": 78.62,
+   "end": 79.34,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Ugh!"
+  },
+  {
+   "i": 23,
+   "start": 80.68,
+   "end": 85.18,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Unfortunately, whenever I put it on... someone *dies*."
+  },
+  {
+   "i": 24,
+   "start": 85.44,
+   "end": 87.24,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Dende... *no*!"
+  },
+  {
+   "i": 25,
+   "start": 87.24,
+   "end": 93.02,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Oh, don't cry for the poor thing. I've saved him the fate of seeing what I'm about to do to you."
+  },
+  {
+   "i": 26,
+   "start": 93.02,
+   "end": 95.2,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Joke's on you; he hated the bald one."
+  },
+  {
+   "i": 27,
+   "start": 95.2,
+   "end": 96.82,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Hey, that's not fair!"
+  },
+  {
+   "i": 28,
+   "start": 96.82,
+   "end": 98.34,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "He just met Piccolo!"
+  },
+  {
+   "i": 29,
+   "start": 98.34,
+   "end": 100.34,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Dramatic music"
+  },
+  {
+   "i": 30,
+   "start": 102.22,
+   "end": 103.06,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "GET DOWN!"
+  },
+  {
+   "i": 31,
+   "start": 105.48,
+   "end": 108.02,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "BOOOM"
+  },
+  {
+   "i": 32,
+   "start": 105.48,
+   "end": 108.02,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Dramatic sting"
+  },
+  {
+   "i": 33,
+   "start": 108.38,
+   "end": 111.66,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I couldn't even follow that attack! It was almost instantaneous!"
+  },
+  {
+   "i": 34,
+   "start": 111.66,
+   "end": 115.34,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Yep! Just gonna stand here and keep being awesome."
+  },
+  {
+   "i": 35,
+   "start": 115.34,
+   "end": 117.82,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "There's nothing we can do against that kind of power!"
+  },
+  {
+   "i": 36,
+   "start": 117.82,
+   "end": 120.78,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Uhh, hello? Awesome. Right here."
+  },
+  {
+   "i": 37,
+   "start": 120.78,
+   "end": 122.28,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "We're all gonna die!"
+  },
+  {
+   "i": 38,
+   "start": 122.98,
+   "end": 129.16,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "You know what? All of you better duck, because I'm about to turn left, and I don't wanna smack you with my dick."
+  },
+  {
+   "i": 39,
+   "start": 129.34,
+   "end": 133.22,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Oh look at you, Vegeta. You're really going to fight me."
+  },
+  {
+   "i": 40,
+   "start": 133.22,
+   "end": 136.92,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Well, n-not really fight, more like... flailing angrily..."
+  },
+  {
+   "i": 41,
+   "start": 136.92,
+   "end": 144.68,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Make your jokes while you can, Freeza, because I can now see the peak of your power... while I'm only beginning to tap into mine."
+  },
+  {
+   "i": 42,
+   "start": 144.68,
+   "end": 146.64,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "I feel like we've been here before. Have we been here before?"
+  },
+  {
+   "i": 43,
+   "start": 146.64,
+   "end": 149.86,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "You see, I have finally realized the legend!"
+  },
+  {
+   "i": 44,
+   "start": 149.86,
+   "end": 151.92,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Oh my God, this *is* happening again!"
+  },
+  {
+   "i": 45,
+   "start": 151.92,
+   "end": 157.1,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "That's right. You're not dealing with the average Saiyan warrior anymore, Freeza."
+  },
+  {
+   "i": 46,
+   "start": 157.4,
+   "end": 163.72,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I, Vegeta, have finally become: THE LEGENDARY SUPER SAIYAN™!"
+  },
+  {
+   "i": 47,
+   "start": 163.72,
+   "end": 164.58,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Dramatic sting"
+  },
+  {
+   "i": 48,
+   "start": 165.68,
+   "end": 179.48,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "OK, seriously, first off - \"Super Saiyan\"... what *is* that? What even *is* that? I'll tell you what it is: It's just some *stupid* legend passed by your filthy monkey ancestors around a campfire like it was their own dung!"
+  },
+  {
+   "i": 49,
+   "start": 179.82,
+   "end": 185.3,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Let me tell you, Vegeta: I don't deal in *legends*; I deal in facts."
+  },
+  {
+   "i": 50,
+   "start": 185.48,
+   "end": 193.64,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "And here's a fact: By the end of this, you are going to be crying... like a little... *bitch*."
+  },
+  {
+   "i": 51,
+   "start": 195.42,
+   "end": 197.68,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "...Bitch, you just jealous of my Super Saiyan Swagger!"
+  },
+  {
+   "i": 52,
+   "start": 197.68,
+   "end": 198.78,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Oh, for f**k's sake..."
+  },
+  {
+   "i": 53,
+   "start": 198.78,
+   "end": 200.36,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "HAARRRWAAUGH!"
+  },
+  {
+   "i": 54,
+   "start": 200.56,
+   "end": 201.06,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "HYAHH!"
+  },
+  {
+   "i": 55,
+   "start": 201.88,
+   "end": 203.88,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Vegeta continues to grunt while he attacks Freeza"
+  },
+  {
+   "i": 56,
+   "start": 206.38,
+   "end": 210.36,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'Yes! I have him on the ropes! All he can do is dodge me!'"
+  },
+  {
+   "i": 57,
+   "start": 210.86,
+   "end": 216.82,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "'God - Zarbon's dead, Dodoria's dead, the Ginyu's are dead... this has been one giant mess.'"
+  },
+  {
+   "i": 58,
+   "start": 216.82,
+   "end": 220.88,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "'It's just like that jockstrap incident; only now, I don't have Ginyu around to dig the holes.'"
+  },
+  {
+   "i": 59,
+   "start": 220.88,
+   "end": 222.38,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "AAAARRRRGH!"
+  },
+  {
+   "i": 60,
+   "start": 222.62,
+   "end": 223.68,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Huh? Wha--?"
+  },
+  {
+   "i": 61,
+   "start": 223.68,
+   "end": 227.66,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "This may be a little off topic, but how good are you at digging holes?"
+  },
+  {
+   "i": 62,
+   "start": 224.92,
+   "end": 225.42,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Ugh!"
+  },
+  {
+   "i": 63,
+   "start": 227.66,
+   "end": 228.16,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "What are--"
+  },
+  {
+   "i": 64,
+   "start": 228.16,
+   "end": 230.88,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "I mean, besides the one you've already dug yourself into."
+  },
+  {
+   "i": 65,
+   "start": 231.2,
+   "end": 233.52,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Hurrgh, don't you MOCK ME!!"
+  },
+  {
+   "i": 66,
+   "start": 233.86,
+   "end": 234.46,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Oh?"
+  },
+  {
+   "i": 67,
+   "start": 235.66,
+   "end": 236.88,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "HRAAAAGH!"
+  },
+  {
+   "i": 68,
+   "start": 239.1,
+   "end": 240.7,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "HRAGH! HRAGH! HRAGH! HRAGH!"
+  },
+  {
+   "i": 69,
+   "start": 245.66,
+   "end": 247.96,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I don't get it! Why can't Vegeta hit him?!"
+  },
+  {
+   "i": 70,
+   "start": 247.96,
+   "end": 249.44,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "DAKKA! DAKKA! DAKKA!"
+  },
+  {
+   "i": 71,
+   "start": 247.96,
+   "end": 251.82,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Because he keeps aiming where he is instead of where he's going to be!"
+  },
+  {
+   "i": 72,
+   "start": 252.84,
+   "end": 253.36,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Uuugh!"
+  },
+  {
+   "i": 73,
+   "start": 253.68,
+   "end": 254.68,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'Oh, crap (!)'"
+  },
+  {
+   "i": 74,
+   "start": 254.68,
+   "end": 255.88,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "So, does this mean we should--?"
+  },
+  {
+   "i": 75,
+   "start": 255.88,
+   "end": 257.06,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "DOOODGE!!"
+  },
+  {
+   "i": 76,
+   "start": 256.38,
+   "end": 257.06,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Hah!"
+  },
+  {
+   "i": 77,
+   "start": 258.78,
+   "end": 260.18,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "DAKKA! DAKKA! DAKKA! DAKKA! DA--!"
+  },
+  {
+   "i": 78,
+   "start": 262.3,
+   "end": 262.98,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "DAKKA! DAKKA--"
+  },
+  {
+   "i": 79,
+   "start": 262.98,
+   "end": 263.48,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "DAKKA DAKKA--AH!"
+  },
+  {
+   "i": 80,
+   "start": 263.98,
+   "end": 266.82,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Ah... hurrgh!"
+  },
+  {
+   "i": 81,
+   "start": 263.98,
+   "end": 266.82,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "So, are we done playing children's games, Vegeta?"
+  },
+  {
+   "i": 82,
+   "start": 266.82,
+   "end": 268.74,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Or do I have to *tickle* you?"
+  },
+  {
+   "i": 83,
+   "start": 268.74,
+   "end": 271.64,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "St-stop... stop, stop..."
+  },
+  {
+   "i": 84,
+   "start": 268.74,
+   "end": 271.64,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Eh? Eh~? Coochie coo, coochie coochie coochie coo?"
+  },
+  {
+   "i": 85,
+   "start": 271.64,
+   "end": 273.76,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "STOP IT OR I'M GONNA BLOW YOU UP!!"
+  },
+  {
+   "i": 86,
+   "start": 275.64,
+   "end": 279.14,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "We'll see how you stand up to everything I've got!"
+  },
+  {
+   "i": 87,
+   "start": 279.58,
+   "end": 284.0,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Take... my Super... Saiyan... WRAAATH!!"
+  },
+  {
+   "i": 88,
+   "start": 287.5,
+   "end": 292.72,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "'Oh, and I should probably send the Ginyu's families something... Perhaps some wine, a gift basket...'"
+  },
+  {
+   "i": 89,
+   "start": 293.86,
+   "end": 294.48,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "AUGH!"
+  },
+  {
+   "i": 90,
+   "start": 296.7,
+   "end": 298.78,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "'...or maybe gift baskets *with* wine.'"
+  },
+  {
+   "i": 91,
+   "start": 299.28,
+   "end": 304.14,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Wh-what...? How-aah...? How is tha--...? Oh God..."
+  },
+  {
+   "i": 92,
+   "start": 304.149,
+   "end": 308.82,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "See? It's like I told you, Vegeta... like a *bitch*!"
+  },
+  {
+   "i": 93,
+   "start": 308.829,
+   "end": 309.9,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Shut up!!"
+  },
+  {
+   "i": 94,
+   "start": 309.9,
+   "end": 313.0,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Oh my *God*, you actually are crying!"
+  },
+  {
+   "i": 95,
+   "start": 313.0,
+   "end": 315.28,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I'm not crying!! Not!!"
+  },
+  {
+   "i": 96,
+   "start": 315.28,
+   "end": 321.78,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Honestly, now I just feel bad. Usually, I just blow up whatever's in my way, but with you, I've gotten kind of attached."
+  },
+  {
+   "i": 97,
+   "start": 319.06,
+   "end": 321.78,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Vegeta whimpers in fear"
+  },
+  {
+   "i": 98,
+   "start": 321.78,
+   "end": 324.2,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "It's sort of like putting down Old Space Yeller."
+  },
+  {
+   "i": 99,
+   "start": 324.2,
+   "end": 325.98,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "How is that a thing??"
+  },
+  {
+   "i": 100,
+   "start": 325.99,
+   "end": 331.19,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "It's sad, really... but before we part ways, Vegeta, let me tell you a *tale*."
+  },
+  {
+   "i": 101,
+   "start": 331.19,
+   "end": 332.28,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "AAAAH!"
+  },
+  {
+   "i": 102,
+   "start": 332.28,
+   "end": 333.06,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "The End."
+  },
+  {
+   "i": 103,
+   "start": 333.26,
+   "end": 334.9,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "SPLASH"
+  },
+  {
+   "i": 104,
+   "start": 343.93,
+   "end": 349.449,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "See that, Vegeta? Now, for my next trick, I'm going to make an asshole disappear!"
+  },
+  {
+   "i": 105,
+   "start": 349.449,
+   "end": 353.269,
+   "kind": "dialog",
+   "speaker": "Orpheus",
+   "text": "Wagwan, brethren Vegeta? Me be ya spirit animal."
+  },
+  {
+   "i": 106,
+   "start": 353.269,
+   "end": 357.7,
+   "kind": "dialog",
+   "speaker": "Orpheus",
+   "text": "And me here tell you how to mash up that bumbaclot Freeza. All ya gotta do is--"
+  },
+  {
+   "i": 107,
+   "start": 353.269,
+   "end": 357.7,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Vegeta groans and pants"
+  },
+  {
+   "i": 108,
+   "start": 357.7,
+   "end": 360.22,
+   "kind": "dialog",
+   "speaker": "Orpheus",
+   "text": "AAH!"
+  },
+  {
+   "i": 109,
+   "start": 361.62,
+   "end": 362.36,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "GULP"
+  },
+  {
+   "i": 110,
+   "start": 362.36,
+   "end": 363.62,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Hey, Vegeta!"
+  },
+  {
+   "i": 111,
+   "start": 363.62,
+   "end": 365.04,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Wha... whaat--?"
+  },
+  {
+   "i": 112,
+   "start": 365.04,
+   "end": 365.94,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "THUMP"
+  },
+  {
+   "i": 113,
+   "start": 365.04,
+   "end": 365.94,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "BAAH!"
+  },
+  {
+   "i": 114,
+   "start": 365.94,
+   "end": 366.72,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Stop hitting yourself."
+  },
+  {
+   "i": 115,
+   "start": 366.72,
+   "end": 367.26,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "THUMP"
+  },
+  {
+   "i": 116,
+   "start": 366.72,
+   "end": 367.26,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "UUGH!"
+  },
+  {
+   "i": 117,
+   "start": 367.26,
+   "end": 367.94,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Stop hitting yourself."
+  },
+  {
+   "i": 118,
+   "start": 367.94,
+   "end": 368.48,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "THUMP"
+  },
+  {
+   "i": 119,
+   "start": 367.94,
+   "end": 368.48,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "URGH!"
+  },
+  {
+   "i": 120,
+   "start": 368.48,
+   "end": 369.32,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Stop hitting yourself."
+  },
+  {
+   "i": 121,
+   "start": 369.32,
+   "end": 370.22,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "THUMP"
+  },
+  {
+   "i": 122,
+   "start": 369.32,
+   "end": 370.22,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "AAGH-AAH!"
+  },
+  {
+   "i": 123,
+   "start": 370.22,
+   "end": 373.06,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "THUD"
+  },
+  {
+   "i": 124,
+   "start": 370.22,
+   "end": 373.06,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Aha! Haha, you're the one hitting me!"
+  },
+  {
+   "i": 125,
+   "start": 373.06,
+   "end": 376.48,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Au contraire, Vegeta... you brought this upon yourself."
+  },
+  {
+   "i": 126,
+   "start": 376.48,
+   "end": 377.86,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "UGH! AAH!"
+  },
+  {
+   "i": 127,
+   "start": 378.96,
+   "end": 379.7,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "BUGH!"
+  },
+  {
+   "i": 128,
+   "start": 385.42,
+   "end": 387.76,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Should... we... help... him?"
+  },
+  {
+   "i": 129,
+   "start": 388.14,
+   "end": 388.76,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "WUGH!"
+  },
+  {
+   "i": 130,
+   "start": 388.14,
+   "end": 388.76,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "WUGH!"
+  },
+  {
+   "i": 131,
+   "start": 388.14,
+   "end": 388.76,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "WUGH!"
+  },
+  {
+   "i": 132,
+   "start": 389.1,
+   "end": 391.36,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Oh, go ahead. Pool's open; water's fine."
+  },
+  {
+   "i": 133,
+   "start": 391.7,
+   "end": 395.8,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Hm? No? Just going to stand there like a bunch of pissants?"
+  },
+  {
+   "i": 134,
+   "start": 396.22,
+   "end": 397.26,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Thought so."
+  },
+  {
+   "i": 135,
+   "start": 397.26,
+   "end": 402.2,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Now, where were we? Oh right, I believe it waaaaas... kidney punch!"
+  },
+  {
+   "i": 136,
+   "start": 402.2,
+   "end": 403.08,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "THUMP"
+  },
+  {
+   "i": 137,
+   "start": 402.2,
+   "end": 403.08,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "AAAAGH!"
+  },
+  {
+   "i": 138,
+   "start": 403.08,
+   "end": 404.58,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "THUMP THUMP THUMP"
+  },
+  {
+   "i": 139,
+   "start": 403.08,
+   "end": 404.58,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "AAGH! URGH! UUGH!"
+  },
+  {
+   "i": 140,
+   "start": 403.08,
+   "end": 404.58,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Kidney punch! Kidney punch! Kidney punch!"
+  },
+  {
+   "i": 141,
+   "start": 404.58,
+   "end": 406.56,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "And pause..."
+  },
+  {
+   "i": 142,
+   "start": 406.56,
+   "end": 407.74,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "THUMP"
+  },
+  {
+   "i": 143,
+   "start": 406.56,
+   "end": 407.74,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "AAAAUGH!"
+  },
+  {
+   "i": 144,
+   "start": 406.56,
+   "end": 407.74,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "And pause... kidney punch!"
+  },
+  {
+   "i": 145,
+   "start": 410.18,
+   "end": 411.96,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "♪ Row, row, row your boat ♪"
+  },
+  {
+   "i": 146,
+   "start": 411.96,
+   "end": 413.84,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "♪ Gently down the stream ♪"
+  },
+  {
+   "i": 147,
+   "start": 413.84,
+   "end": 415.72,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "♪ Merrily merrily merrily merrily ♪"
+  },
+  {
+   "i": 148,
+   "start": 415.72,
+   "end": 417.48,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "♪ Life is but a dream ♪"
+  },
+  {
+   "i": 149,
+   "start": 417.48,
+   "end": 419.34,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "♪ Row, row, row your boat ♪"
+  },
+  {
+   "i": 150,
+   "start": 419.34,
+   "end": 421.18,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "♪ Row, row, row your boat ♪"
+  },
+  {
+   "i": 151,
+   "start": 419.34,
+   "end": 421.18,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "♪ Gently down the stream ♪"
+  },
+  {
+   "i": 152,
+   "start": 421.18,
+   "end": 423.02,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "♪ Gently down the stream ♪"
+  },
+  {
+   "i": 153,
+   "start": 421.18,
+   "end": 423.02,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "♪ Merrily merrily merrily merrily ♪"
+  },
+  {
+   "i": 154,
+   "start": 423.02,
+   "end": 424.84,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "♪ Merrily merrily merrily merrily ♪"
+  },
+  {
+   "i": 155,
+   "start": 423.02,
+   "end": 424.84,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "♪ Life is but a dream ♪"
+  },
+  {
+   "i": 156,
+   "start": 424.84,
+   "end": 426.64,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "♪ Life is but a dream ♪"
+  },
+  {
+   "i": 157,
+   "start": 424.84,
+   "end": 426.64,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "♪ Row, row, row your boat ♪"
+  },
+  {
+   "i": 158,
+   "start": 426.64,
+   "end": 428.46,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "♪ Row, row, row your boat ♪"
+  },
+  {
+   "i": 159,
+   "start": 426.64,
+   "end": 428.46,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "♪ Gently down the stream ♪"
+  },
+  {
+   "i": 160,
+   "start": 428.46,
+   "end": 430.34,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "♪ Row, row, row your boat ♪"
+  },
+  {
+   "i": 161,
+   "start": 428.46,
+   "end": 430.34,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "♪ Gently down the stream ♪"
+  },
+  {
+   "i": 162,
+   "start": 428.46,
+   "end": 430.34,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "♪ Merrily merrily merrily merrily ♪"
+  },
+  {
+   "i": 163,
+   "start": 430.34,
+   "end": 432.1,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "♪ Gently down the stream ♪"
+  },
+  {
+   "i": 164,
+   "start": 430.34,
+   "end": 432.1,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "♪ Merrily merrily merrily merrily ♪"
+  },
+  {
+   "i": 165,
+   "start": 430.34,
+   "end": 432.1,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "♪ Life is but a dream ♪"
+  },
+  {
+   "i": 166,
+   "start": 432.1,
+   "end": 434.0,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "♪ Merrily merrily merrily merrily ♪"
+  },
+  {
+   "i": 167,
+   "start": 432.1,
+   "end": 434.0,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "♪ Life is but a dream ♪"
+  },
+  {
+   "i": 168,
+   "start": 432.1,
+   "end": 434.0,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "♪ Row, row, row your boat ♪"
+  },
+  {
+   "i": 169,
+   "start": 434.0,
+   "end": 435.62,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "♪ Life is but a dream ♪"
+  },
+  {
+   "i": 170,
+   "start": 434.0,
+   "end": 435.62,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "♪ Row, row, row your boat ♪"
+  },
+  {
+   "i": 171,
+   "start": 434.0,
+   "end": 435.62,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "♪ Gently down the stream ♪"
+  },
+  {
+   "i": 172,
+   "start": 435.62,
+   "end": 437.52,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "♪ Row, row, row your boat ♪"
+  },
+  {
+   "i": 173,
+   "start": 435.62,
+   "end": 437.52,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "♪ Gently down the stream ♪"
+  },
+  {
+   "i": 174,
+   "start": 435.62,
+   "end": 437.52,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "♪ Merrily merrily merrily merrily ♪"
+  },
+  {
+   "i": 175,
+   "start": 437.02,
+   "end": 437.52,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "(Gasp)"
+  },
+  {
+   "i": 176,
+   "start": 437.52,
+   "end": 438.02,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "BEEP"
+  },
+  {
+   "i": 177,
+   "start": 438.02,
+   "end": 438.56,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'Pod's done!'"
+  },
+  {
+   "i": 178,
+   "start": 439.96,
+   "end": 440.74,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "SLAM"
+  },
+  {
+   "i": 179,
+   "start": 439.96,
+   "end": 440.74,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "UGH!"
+  },
+  {
+   "i": 180,
+   "start": 441.18,
+   "end": 441.92,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "UGH-uhh!"
+  },
+  {
+   "i": 181,
+   "start": 446.5,
+   "end": 449.3,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "It seems our game is over, Vegeta."
+  },
+  {
+   "i": 182,
+   "start": 450.58,
+   "end": 455.26,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Now that we're done here, it's time to send you crying home to mommy."
+  },
+  {
+   "i": 183,
+   "start": 455.27,
+   "end": 457.1,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "My mother's dead..."
+  },
+  {
+   "i": 184,
+   "start": 457.1,
+   "end": 458.3,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "I know."
+  },
+  {
+   "i": 185,
+   "start": 458.3,
+   "end": 459.94,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "HYEEEEEEEAAAH!"
+  },
+  {
+   "i": 186,
+   "start": 463.86,
+   "end": 465.18,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Urgh!"
+  },
+  {
+   "i": 187,
+   "start": 463.86,
+   "end": 465.18,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Aah!"
+  },
+  {
+   "i": 188,
+   "start": 463.86,
+   "end": 465.18,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Uhh!"
+  },
+  {
+   "i": 189,
+   "start": 465.18,
+   "end": 468.74,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Musical swell (heroic music)"
+  },
+  {
+   "i": 190,
+   "start": 469.78,
+   "end": 470.28,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "...Who--"
+  },
+  {
+   "i": 191,
+   "start": 470.28,
+   "end": 473.42,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hey guys, how's it going? Piccolo? When did you come back?"
+  },
+  {
+   "i": 192,
+   "start": 473.42,
+   "end": 474.94,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Uh... Dragon Balls."
+  },
+  {
+   "i": 193,
+   "start": 474.94,
+   "end": 478.2,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh, neat! Hey, Krillin! That armor looks funny on ya!"
+  },
+  {
+   "i": 194,
+   "start": 478.2,
+   "end": 479.04,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Hey, Dad!"
+  },
+  {
+   "i": 195,
+   "start": 479.04,
+   "end": 479.54,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hey."
+  },
+  {
+   "i": 196,
+   "start": 479.54,
+   "end": 481.16,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "So are you that Freezer guy?"
+  },
+  {
+   "i": 197,
+   "start": 481.74,
+   "end": 484.0,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "...I am *Lord* Freeza, yes."
+  },
+  {
+   "i": 198,
+   "start": 484.0,
+   "end": 486.4,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Awesome! I'mma deck you in the schnoz!"
+  },
+  {
+   "i": 199,
+   "start": 487.26,
+   "end": 488.4,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "THUD"
+  },
+  {
+   "i": 200,
+   "start": 487.26,
+   "end": 488.4,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Owww..."
+  },
+  {
+   "i": 201,
+   "start": 488.4,
+   "end": 492.78,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "I'm sorry, that's a new one, er... who, are you, exactly?"
+  },
+  {
+   "i": 202,
+   "start": 492.78,
+   "end": 497.54,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I'm Goku! I'm insane... from Earth!"
+  },
+  {
+   "i": 203,
+   "start": 497.54,
+   "end": 499.12,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "..."
+  },
+  {
+   "i": 204,
+   "start": 499.12,
+   "end": 501.22,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "He means Saiyan..."
+  },
+  {
+   "i": 205,
+   "start": 501.22,
+   "end": 504.999,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Uh, between you and the Namekian, I think I've lost my touch at genocide!"
+  },
+  {
+   "i": 206,
+   "start": 504.999,
+   "end": 508.359,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "What's wrong, Vegeta? Did Freezer do this to you?"
+  },
+  {
+   "i": 207,
+   "start": 508.36,
+   "end": 513.6,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Oh look, he's all concerned. I'm impressed, Vegeta; you managed to make a friend."
+  },
+  {
+   "i": 208,
+   "start": 513.6,
+   "end": 516.06,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Hate you... hate you both..."
+  },
+  {
+   "i": 209,
+   "start": 516.06,
+   "end": 519.44,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Unfortunately, Vegeta and I were having a disagreement."
+  },
+  {
+   "i": 210,
+   "start": 519.44,
+   "end": 523.2,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "He wanted himself to live, and well... I didn't."
+  },
+  {
+   "i": 211,
+   "start": 523.2,
+   "end": 524.66,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Why do you wanna die?"
+  },
+  {
+   "i": 212,
+   "start": 524.66,
+   "end": 527.94,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Wha--... no, I, I-I mea--I meant I want *him* to die--"
+  },
+  {
+   "i": 213,
+   "start": 527.94,
+   "end": 529.06,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Is it 'cause you look weird?"
+  },
+  {
+   "i": 214,
+   "start": 529.68,
+   "end": 530.24,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "...WHAT?"
+  },
+  {
+   "i": 215,
+   "start": 530.24,
+   "end": 534.68,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Well, you know you got that big head, those weird lips and that tail..."
+  },
+  {
+   "i": 216,
+   "start": 533.42,
+   "end": 534.68,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Eeeegh!"
+  },
+  {
+   "i": 217,
+   "start": 536.66,
+   "end": 538.32,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "...and you don't have ears..."
+  },
+  {
+   "i": 218,
+   "start": 538.32,
+   "end": 539.54,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "OK, *no*!"
+  },
+  {
+   "i": 219,
+   "start": 545.18,
+   "end": 548.08,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "...and to top it all off, you're really kind of a jerk."
+  },
+  {
+   "i": 220,
+   "start": 548.08,
+   "end": 549.88,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "And apparently, this is now happening."
+  },
+  {
+   "i": 221,
+   "start": 549.88,
+   "end": 551.48,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Vegeta! Explain!"
+  },
+  {
+   "i": 222,
+   "start": 551.48,
+   "end": 555.04,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Ha ha ha ha ha ha ha ha ha ha..."
+  },
+  {
+   "i": 223,
+   "start": 553.84,
+   "end": 555.04,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "What are you...?"
+  },
+  {
+   "i": 224,
+   "start": 555.04,
+   "end": 561.42,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "you see, Freeza... you aren't dealing with the average Saiyan warrior anymore..."
+  },
+  {
+   "i": 225,
+   "start": 561.42,
+   "end": 563.78,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Oh~ my~ *God*~!!"
+  },
+  {
+   "i": 226,
+   "start": 563.78,
+   "end": 571.4,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "He has risen above, and become a legend... the legend that you fear..."
+  },
+  {
+   "i": 227,
+   "start": 572.02,
+   "end": 575.84,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "He has become... A SUPER SAI--YAN!!"
+  },
+  {
+   "i": 228,
+   "start": 577.04,
+   "end": 578.56,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(Gasp) VEGETA!!"
+  },
+  {
+   "i": 229,
+   "start": 577.74,
+   "end": 578.56,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "HISS"
+  },
+  {
+   "i": 230,
+   "start": 578.56,
+   "end": 581.6,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "No, seriously, you have no idea how old that got."
+  },
+  {
+   "i": 231,
+   "start": 587.08,
+   "end": 588.9,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Laugh while you can, Freeza!"
+  },
+  {
+   "i": 232,
+   "start": 588.9,
+   "end": 592.78,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Because I'm about to rock you... like a hurricane."
+  },
+  {
+   "i": 233,
+   "start": 592.78,
+   "end": 596.96,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"Rock You Like A Hurricane\" ♫"
+  },
+  {
+   "i": 234,
+   "start": 596.96,
+   "end": 597.66,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Cut-off"
+  },
+  {
+   "i": 235,
+   "start": 598.02,
+   "end": 599.2,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Huh..."
+  },
+  {
+   "i": 236,
+   "start": 599.2,
+   "end": 601.4,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I should've known that was only a one hit wonder."
+  }
+ ],
+ "segments": [
+  {
+   "start": 27.7,
+   "end": 48.9,
+   "title": "Healer's Down! Need a Res!",
+   "quote": "Healer's down! / Need a res! / Out of mana!",
+   "line_start": 6,
+   "line_end": 17
+  },
+  {
+   "start": 80.4,
+   "end": 98.3,
+   "title": "He Hated the Bald One",
+   "quote": "Joke's on you; he hated the bald one. / Hey, that's not fair! He just met Piccolo!",
+   "line_start": 23,
+   "line_end": 28
+  },
+  {
+   "start": 117.5,
+   "end": 129.2,
+   "title": "About to Turn Left",
+   "quote": "All of you better duck, because I'm about to turn left, and I don't wanna smack you with my dick.",
+   "line_start": 36,
+   "line_end": 38
+  },
+  {
+   "start": 146.3,
+   "end": 164.6,
+   "title": "THE LEGENDARY SUPER SAIYAN(TM)",
+   "quote": "I, Vegeta, have finally become: THE LEGENDARY SUPER SAIYAN™!",
+   "line_start": 43,
+   "line_end": 47
+  },
+  {
+   "start": 179.5,
+   "end": 198.8,
+   "title": "Crying Like a Little Bitch",
+   "quote": "By the end of this, you are going to be crying... like a little... *bitch*. / ...Bitch, you just jealous of my Super Saiyan Swagger!",
+   "line_start": 49,
+   "line_end": 52
+  },
+  {
+   "start": 245.4,
+   "end": 257.1,
+   "title": "DOOODGE!!",
+   "quote": "Because he keeps aiming where he is instead of where he's going to be! / DOOODGE!!",
+   "line_start": 69,
+   "line_end": 76
+  },
+  {
+   "start": 361.3,
+   "end": 376.5,
+   "title": "Stop Hitting Yourself",
+   "quote": "Stop hitting yourself. / Aha! Haha, you're the one hitting me!",
+   "line_start": 109,
+   "line_end": 125
+  },
+  {
+   "start": 409.9,
+   "end": 438.6,
+   "title": "Row Row Row Your Boat",
+   "quote": "♪ Row, row, row your boat ♪ (three-part round) / 'Pod's done!'",
+   "line_start": 145,
+   "line_end": 177
+  },
+  {
+   "start": 446.2,
+   "end": 459.9,
+   "title": "My Mother's Dead",
+   "quote": "It's time to send you crying home to mommy. / My mother's dead... / I know.",
+   "line_start": 181,
+   "line_end": 185
+  },
+  {
+   "start": 488.0,
+   "end": 505.0,
+   "title": "I'm Insane... From Earth!",
+   "quote": "I'm Goku! I'm insane... from Earth! / He means Saiyan...",
+   "line_start": 201,
+   "line_end": 205
+  },
+  {
+   "start": 553.4,
+   "end": 581.6,
+   "title": "You Have No Idea How Old That Got",
+   "quote": "He has become... A SUPER SAI--YAN!! / No, seriously, you have no idea how old that got.",
+   "line_start": 224,
+   "line_end": 230
+  },
+  {
+   "start": 586.8,
+   "end": 601.4,
+   "title": "One Hit Wonder",
+   "quote": "I'm about to rock you... like a hurricane. / I should've known that was only a one hit wonder.",
+   "line_start": 231,
+   "line_end": 236
+  }
+ ]
+}

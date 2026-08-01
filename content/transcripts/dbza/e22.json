@@ -1,0 +1,2107 @@
+{
+ "item": "e22",
+ "show": "dbza",
+ "youtube": "7zsZLN3Xjhc",
+ "title": "Episode 20",
+ "duration": 711,
+ "lines": [
+  {
+   "i": 0,
+   "start": 15.16,
+   "end": 16.96,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "You really saved us, Vegeta."
+  },
+  {
+   "i": 1,
+   "start": 16.96,
+   "end": 19.96,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Yeah! You totally pulled our butts out of the fire there!"
+  },
+  {
+   "i": 2,
+   "start": 19.96,
+   "end": 22.0,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Really showed that Team Three Star spirit!"
+  },
+  {
+   "i": 3,
+   "start": 22.1,
+   "end": 23.54,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "They'll never find your body."
+  },
+  {
+   "i": 4,
+   "start": 23.9,
+   "end": 26.08,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "I feel a little sorry for those guys."
+  },
+  {
+   "i": 5,
+   "start": 26.08,
+   "end": 29.68,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "They just lost their teammate... they must be devastated."
+  },
+  {
+   "i": 6,
+   "start": 29.98,
+   "end": 33.88,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "So, when was the last time you had to... you know..."
+  },
+  {
+   "i": 7,
+   "start": 33.88,
+   "end": 34.92,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "3 weeks."
+  },
+  {
+   "i": 8,
+   "start": 34.92,
+   "end": 37.2,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Bloody hell, 3 *weeks*?!"
+  },
+  {
+   "i": 9,
+   "start": 37.2,
+   "end": 39.08,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "I did it on the trip here."
+  },
+  {
+   "i": 10,
+   "start": 39.14,
+   "end": 42.26,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "Recoome didn't even have enough room in his pod."
+  },
+  {
+   "i": 11,
+   "start": 42.26,
+   "end": 46.4,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Oi... oi, is that Guldo over there? Is he dead?"
+  },
+  {
+   "i": 12,
+   "start": 46.5,
+   "end": 48.24,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "How tragic."
+  },
+  {
+   "i": 13,
+   "start": 48.8,
+   "end": 50.44,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "Not telling the Captain 123 not it."
+  },
+  {
+   "i": 14,
+   "start": 50.44,
+   "end": 50.94,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "Not it."
+  },
+  {
+   "i": 15,
+   "start": 50.94,
+   "end": 52.8,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Not it-- ahh, wankers."
+  },
+  {
+   "i": 16,
+   "start": 52.8,
+   "end": 56.6,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"Sanjō!! Ginyū Tokusentai!!\" ♫"
+  },
+  {
+   "i": 17,
+   "start": 56.6,
+   "end": 59.48,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "Eriito Senshi - Ginyū Tokusentai!"
+  },
+  {
+   "i": 18,
+   "start": 60.32,
+   "end": 61.82,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "Tokusentai!"
+  },
+  {
+   "i": 19,
+   "start": 61.82,
+   "end": 64.76,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "♫ Tokusentai! ♫"
+  },
+  {
+   "i": 20,
+   "start": 72.34,
+   "end": 73.62,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "So are we gonna do this or wha--?"
+  },
+  {
+   "i": 21,
+   "start": 73.62,
+   "end": 76.52,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "HIT *RECOOME'S* MUSIC!"
+  },
+  {
+   "i": 22,
+   "start": 76.56,
+   "end": 78.54,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ Doom Theme (1993) ♫"
+  },
+  {
+   "i": 23,
+   "start": 79.6,
+   "end": 80.74,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "Vegeta!"
+  },
+  {
+   "i": 24,
+   "start": 80.96,
+   "end": 86.02,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "You think that just because you're the Prince of Allll Saiyans you're the best there is at what you do."
+  },
+  {
+   "i": 25,
+   "start": 86.02,
+   "end": 99.98,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "But let Recoome tell ya somethin', brother: You ain't no Wolverine... and you ain't got what it takes... to STEP UP... to a FIVE-TIME CHAMPION!"
+  },
+  {
+   "i": 26,
+   "start": 99.98,
+   "end": 101.42,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Champion of *what*?"
+  },
+  {
+   "i": 27,
+   "start": 101.42,
+   "end": 104.62,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "This fight right here's gonna be a bloomin' slobber knocker, it is!"
+  },
+  {
+   "i": 28,
+   "start": 104.62,
+   "end": 106.74,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "You can just feel the intensity."
+  },
+  {
+   "i": 29,
+   "start": 106.74,
+   "end": 108.14,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Who are you talking to?!"
+  },
+  {
+   "i": 30,
+   "start": 108.14,
+   "end": 109.34,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "The audience."
+  },
+  {
+   "i": 31,
+   "start": 109.34,
+   "end": 110.78,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "We're doin' commentary, mate."
+  },
+  {
+   "i": 32,
+   "start": 110.98,
+   "end": 112.5,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "You see, Vegeta..."
+  },
+  {
+   "i": 33,
+   "start": 112.5,
+   "end": 117.66,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "You sit there and brag about how the Saiyans are the mightiest warriors in allll the Universe..."
+  },
+  {
+   "i": 34,
+   "start": 117.66,
+   "end": 119.5,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "How they're the most ruthless."
+  },
+  {
+   "i": 35,
+   "start": 119.5,
+   "end": 121.74,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "Well, look at where they are now:"
+  },
+  {
+   "i": 36,
+   "start": 121.74,
+   "end": 122.58,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "DEAD!"
+  },
+  {
+   "i": 37,
+   "start": 122.58,
+   "end": 128.02,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "Yooou talk about your legends, *and* your warrior race, *and* your pride..."
+  },
+  {
+   "i": 38,
+   "start": 128.02,
+   "end": 132.0,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "but that doesn't mean a DAAAAMN thing to this man!"
+  },
+  {
+   "i": 39,
+   "start": 132.0,
+   "end": 135.02,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "Because the name's RECOOME!"
+  },
+  {
+   "i": 40,
+   "start": 135.02,
+   "end": 137.76,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "And it rhymes WITH DOOM!"
+  },
+  {
+   "i": 41,
+   "start": 137.76,
+   "end": 145.94,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "And YOOOU'RE gonna be hurtin'! ALL! TOO! SOOOOOONuhh!"
+  },
+  {
+   "i": 42,
+   "start": 150.48,
+   "end": 151.54,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "...Wrestling's fake."
+  },
+  {
+   "i": 43,
+   "start": 151.54,
+   "end": 154.24,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Audience boo and jeer"
+  },
+  {
+   "i": 44,
+   "start": 154.24,
+   "end": 155.6,
+   "kind": "dialog",
+   "speaker": "Spectator",
+   "text": "You suck-diddly-uck!"
+  },
+  {
+   "i": 45,
+   "start": 154.24,
+   "end": 155.6,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Audience boo and jeer"
+  },
+  {
+   "i": 46,
+   "start": 155.6,
+   "end": 157.2,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Oh, go to Hell, all of you!"
+  },
+  {
+   "i": 47,
+   "start": 157.2,
+   "end": 161.64,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "And if it means getting this damn thing over with, then I'm just going to have to KILL your ass!"
+  },
+  {
+   "i": 48,
+   "start": 161.64,
+   "end": 163.94,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Now hit MY music!"
+  },
+  {
+   "i": 49,
+   "start": 163.94,
+   "end": 167.52,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"Step Into the Grand Tour\" - theme of Dragon Ball GT (FUNimation dub) ♫"
+  },
+  {
+   "i": 50,
+   "start": 165.82,
+   "end": 167.52,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Oh, the f*ck with this!"
+  },
+  {
+   "i": 51,
+   "start": 171.0,
+   "end": 171.6,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "OOOOMPH!"
+  },
+  {
+   "i": 52,
+   "start": 174.54,
+   "end": 176.42,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "SUCK IT, JABRONI!"
+  },
+  {
+   "i": 53,
+   "start": 183.42,
+   "end": 186.22,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Well... everything went better than expecte--"
+  },
+  {
+   "i": 54,
+   "start": 186.22,
+   "end": 188.52,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "You talking more smack, Vegeta?"
+  },
+  {
+   "i": 55,
+   "start": 188.52,
+   "end": 191.98,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "What?! How could you possibly get up after a hit like that?!"
+  },
+  {
+   "i": 56,
+   "start": 191.98,
+   "end": 196.92,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "Silly Vegeta. The only thing Recoome sells... is merchandise!"
+  },
+  {
+   "i": 57,
+   "start": 198.86,
+   "end": 199.62,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Vibration"
+  },
+  {
+   "i": 58,
+   "start": 199.62,
+   "end": 202.32,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Oi, Burter - bet ya Recoome don't even leave a body."
+  },
+  {
+   "i": 59,
+   "start": 202.32,
+   "end": 206.7,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "Please! You already owe me a Space Soda from our LAST bet!"
+  },
+  {
+   "i": 60,
+   "start": 206.7,
+   "end": 209.84,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Well, you still owe me a Space Burger from the one BEFORE that!"
+  },
+  {
+   "i": 61,
+   "start": 210.0,
+   "end": 212.74,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Commercial music"
+  },
+  {
+   "i": 62,
+   "start": 210.0,
+   "end": 212.74,
+   "kind": "dialog",
+   "speaker": "Commercial",
+   "text": "And where can you find all this spectacular space food?"
+  },
+  {
+   "i": 63,
+   "start": 212.96,
+   "end": 214.18,
+   "kind": "dialog",
+   "speaker": "Commercial",
+   "text": "At Spacey’s."
+  },
+  {
+   "i": 64,
+   "start": 214.24,
+   "end": 216.0,
+   "kind": "dialog",
+   "speaker": "Commercial",
+   "text": "Now with our new Raditz Menu."
+  },
+  {
+   "i": 65,
+   "start": 220.14,
+   "end": 222.14,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "...and one more makes seven."
+  },
+  {
+   "i": 66,
+   "start": 222.22,
+   "end": 225.44,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Ahhh Ginyu, I should've called you from the beginning!"
+  },
+  {
+   "i": 67,
+   "start": 225.52,
+   "end": 226.74,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Thank you, sir."
+  },
+  {
+   "i": 68,
+   "start": 226.74,
+   "end": 231.3,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Now in celebration, I shall commence: The Dance Of Joy!"
+  },
+  {
+   "i": 69,
+   "start": 231.3,
+   "end": 233.46,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Oh, no no, that won't be necessary."
+  },
+  {
+   "i": 70,
+   "start": 233.46,
+   "end": 235.12,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "It is entirely necessary."
+  },
+  {
+   "i": 71,
+   "start": 235.22,
+   "end": 237.5,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Uh, n-no, really, y-you don’t have to--"
+  },
+  {
+   "i": 72,
+   "start": 237.5,
+   "end": 238.74,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Actually, I do."
+  },
+  {
+   "i": 73,
+   "start": 238.74,
+   "end": 243.4,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "I'm contractually obligated under your father to dance The Dance of Joy post every successful mission."
+  },
+  {
+   "i": 74,
+   "start": 243.68,
+   "end": 245.0,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Erghhh...."
+  },
+  {
+   "i": 75,
+   "start": 245.0,
+   "end": 246.18,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "...proceed."
+  },
+  {
+   "i": 76,
+   "start": 246.18,
+   "end": 250.0,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "(Humming)"
+  },
+  {
+   "i": 77,
+   "start": 250.04,
+   "end": 251.82,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Rock/metal music"
+  },
+  {
+   "i": 78,
+   "start": 252.6,
+   "end": 253.78,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "And we're back, mates!"
+  },
+  {
+   "i": 79,
+   "start": 253.78,
+   "end": 258.0,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "While you were gone, Recoome caught Vegeta off-guard with his patented Recoome Knee."
+  },
+  {
+   "i": 80,
+   "start": 258.0,
+   "end": 265.0,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "It was absolutely devastating, Burter! And now he’s back on the offensive... but he can’t seem to land a single 'it!"
+  },
+  {
+   "i": 81,
+   "start": 265.0,
+   "end": 267.02,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "Recoome ELBOW!"
+  },
+  {
+   "i": 82,
+   "start": 267.02,
+   "end": 267.54,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "GAAAH--!"
+  },
+  {
+   "i": 83,
+   "start": 267.54,
+   "end": 271.18,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Ohh, and Recoome follows up with a *vicious* Recoome Elbow!"
+  },
+  {
+   "i": 84,
+   "start": 271.18,
+   "end": 277.26,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "It looks like Recoome is just too fast for Vegeta, and that's coming from the fastest guy in the universe!"
+  },
+  {
+   "i": 85,
+   "start": 277.72,
+   "end": 279.9,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "*Not* really relevant, Burter..."
+  },
+  {
+   "i": 86,
+   "start": 280.28,
+   "end": 281.66,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "(Still humming)"
+  },
+  {
+   "i": 87,
+   "start": 281.66,
+   "end": 283.74,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "And that ends The Dance of Joy."
+  },
+  {
+   "i": 88,
+   "start": 283.74,
+   "end": 288.18,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Ughhh, thank *God*. Now, let's wish me some immortality--"
+  },
+  {
+   "i": 89,
+   "start": 288.18,
+   "end": 289.98,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Not quite yet, Lord Freeza."
+  },
+  {
+   "i": 90,
+   "start": 289.98,
+   "end": 293.46,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Lastly, I must complete The Daddy's Little Princess Dance."
+  },
+  {
+   "i": 91,
+   "start": 293.52,
+   "end": 296.0,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "My father would command no such thing!"
+  },
+  {
+   "i": 92,
+   "start": 296.0,
+   "end": 297.52,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "You are correct, Lord Freeza."
+  },
+  {
+   "i": 93,
+   "start": 297.52,
+   "end": 298.46,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Very well--"
+  },
+  {
+   "i": 94,
+   "start": 298.46,
+   "end": 299.34,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "It was your brother."
+  },
+  {
+   "i": 95,
+   "start": 299.34,
+   "end": 300.54,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Aggghhhhhh!"
+  },
+  {
+   "i": 96,
+   "start": 303.02,
+   "end": 304.82,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "And we're back with the fight."
+  },
+  {
+   "i": 97,
+   "start": 303.02,
+   "end": 304.82,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Audience cheering"
+  },
+  {
+   "i": 98,
+   "start": 304.82,
+   "end": 306.06,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "Here's what you missed."
+  },
+  {
+   "i": 99,
+   "start": 307.32,
+   "end": 309.4,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Boy, did we time that commercial right or what?"
+  },
+  {
+   "i": 100,
+   "start": 310.78,
+   "end": 311.38,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Gah!"
+  },
+  {
+   "i": 101,
+   "start": 310.78,
+   "end": 314.08,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "(Groaning)"
+  },
+  {
+   "i": 102,
+   "start": 311.38,
+   "end": 314.08,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "Oh, sneak attack from Vegeta!"
+  },
+  {
+   "i": 103,
+   "start": 314.08,
+   "end": 316.68,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "But it looks like it didn't do jack s***!"
+  },
+  {
+   "i": 104,
+   "start": 316.96,
+   "end": 318.42,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "Wait! He’s letting up the--!"
+  },
+  {
+   "i": 105,
+   "start": 318.42,
+   "end": 319.66,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "PILE DRIVER!"
+  },
+  {
+   "i": 106,
+   "start": 319.66,
+   "end": 321.28,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "WAAAAAAAAHH--!!!"
+  },
+  {
+   "i": 107,
+   "start": 319.66,
+   "end": 321.28,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "PIIiLE DRIIVEEER!!!"
+  },
+  {
+   "i": 108,
+   "start": 325.28,
+   "end": 326.12,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "Heh heh heh."
+  },
+  {
+   "i": 109,
+   "start": 327.98,
+   "end": 332.02,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Hey! Hey Gohan, look! He picked *Vegeta*... like a--!"
+  },
+  {
+   "i": 110,
+   "start": 332.02,
+   "end": 333.34,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Like a vegetable, yes."
+  },
+  {
+   "i": 111,
+   "start": 333.34,
+   "end": 334.04,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "HAH!"
+  },
+  {
+   "i": 112,
+   "start": 334.04,
+   "end": 339.26,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "Ya see, Vegeta... you don't seem to comprehend where you stand right here."
+  },
+  {
+   "i": 113,
+   "start": 339.26,
+   "end": 342.1,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "Be-cause the name's RECOOME--!"
+  },
+  {
+   "i": 114,
+   "start": 341.5,
+   "end": 342.1,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "HAH!"
+  },
+  {
+   "i": 115,
+   "start": 342.1,
+   "end": 343.04,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "OOHMPH!"
+  },
+  {
+   "i": 116,
+   "start": 343.04,
+   "end": 344.98,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Crowd booing"
+  },
+  {
+   "i": 117,
+   "start": 344.98,
+   "end": 346.14,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "Oh, look at that!"
+  },
+  {
+   "i": 118,
+   "start": 346.14,
+   "end": 348.82,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "He mighta just taken Recoome's bleedin' 'ead off!"
+  },
+  {
+   "i": 119,
+   "start": 348.82,
+   "end": 352.12,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "This would be a *huge* loss for sport entertainment!"
+  },
+  {
+   "i": 120,
+   "start": 354.96,
+   "end": 358.48,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "As Recoome... was *sayin'*..."
+  },
+  {
+   "i": 121,
+   "start": 358.48,
+   "end": 361.06,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "THE NAME’S RECOOME!"
+  },
+  {
+   "i": 122,
+   "start": 358.48,
+   "end": 363.96,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Crowd cheering"
+  },
+  {
+   "i": 123,
+   "start": 361.06,
+   "end": 363.96,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "IT RHYMES WITH DOOM!"
+  },
+  {
+   "i": 124,
+   "start": 363.96,
+   "end": 366.62,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "AND YOUUUUU’RE GONNA BE HURTIN'!"
+  },
+  {
+   "i": 125,
+   "start": 366.62,
+   "end": 369.96,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "ALL! TOO! SOOOON!"
+  },
+  {
+   "i": 126,
+   "start": 368.5,
+   "end": 369.96,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Crowd cheering"
+  },
+  {
+   "i": 127,
+   "start": 369.96,
+   "end": 372.32,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "He’s setting up for the Recoome Eraser Gun!"
+  },
+  {
+   "i": 128,
+   "start": 372.32,
+   "end": 374.64,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "This is *vintage* Recoome right here."
+  },
+  {
+   "i": 129,
+   "start": 374.78,
+   "end": 379.2,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "RECOOOOOME... ERASER..."
+  },
+  {
+   "i": 130,
+   "start": 379.2,
+   "end": 380.94,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "This could be the end!"
+  },
+  {
+   "i": 131,
+   "start": 380.94,
+   "end": 382.32,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "...GUNNNNN!"
+  },
+  {
+   "i": 132,
+   "start": 382.32,
+   "end": 383.1,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "D'OOMPHH!"
+  },
+  {
+   "i": 133,
+   "start": 383.1,
+   "end": 383.86,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "VEGETA!"
+  },
+  {
+   "i": 134,
+   "start": 389.76,
+   "end": 393.42,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Oh, last-second interference from Team Three Star!"
+  },
+  {
+   "i": 135,
+   "start": 393.8,
+   "end": 397.2,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "You *idiot*! I'm already one foot in the grave."
+  },
+  {
+   "i": 136,
+   "start": 397.2,
+   "end": 398.9,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "You should've attacked Recoome!"
+  },
+  {
+   "i": 137,
+   "start": 398.9,
+   "end": 402.66,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Come on, Vegeta! We couldn't lose one of our most valuable Team Three Star members!"
+  },
+  {
+   "i": 138,
+   "start": 402.66,
+   "end": 404.2,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "You CARRY this stable!"
+  },
+  {
+   "i": 139,
+   "start": 404.52,
+   "end": 408.42,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "If there is any solace to all of this, it’s that you will die along with me."
+  },
+  {
+   "i": 140,
+   "start": 408.54,
+   "end": 412.46,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "Could Recoome get a mirror? He feels like he might have chipped a tooth."
+  },
+  {
+   "i": 141,
+   "start": 412.46,
+   "end": 414.68,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Dear *God*, what happened to your face?!"
+  },
+  {
+   "i": 142,
+   "start": 414.68,
+   "end": 419.0,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "According to the rules 'n reg, he's allowed to take on both of these new challengers!"
+  },
+  {
+   "i": 143,
+   "start": 419.2,
+   "end": 421.28,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "Sounds good to Recoome!"
+  },
+  {
+   "i": 144,
+   "start": 421.28,
+   "end": 423.0,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "RECOOOOME..."
+  },
+  {
+   "i": 145,
+   "start": 423.0,
+   "end": 424.54,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Does every move you have start with--"
+  },
+  {
+   "i": 146,
+   "start": 424.54,
+   "end": 425.04,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "...KICK!!"
+  },
+  {
+   "i": 147,
+   "start": 425.04,
+   "end": 425.54,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "DING"
+  },
+  {
+   "i": 148,
+   "start": 425.04,
+   "end": 427.3,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "AGHHHHHhhhh...!!!"
+  },
+  {
+   "i": 149,
+   "start": 426.2,
+   "end": 427.3,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Crowd cheering"
+  },
+  {
+   "i": 150,
+   "start": 427.64,
+   "end": 428.26,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Krillin!"
+  },
+  {
+   "i": 151,
+   "start": 428.26,
+   "end": 431.64,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Oh, and a *devastating* Recoome Kick there!"
+  },
+  {
+   "i": 152,
+   "start": 431.64,
+   "end": 434.14,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Let's see that again - in slow motion!"
+  },
+  {
+   "i": 153,
+   "start": 434.44,
+   "end": 436.84,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Brought to you by Space Four X!"
+  },
+  {
+   "i": 154,
+   "start": 437.04,
+   "end": 441.04,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Space Four X: Because Space VB is piss!"
+  },
+  {
+   "i": 155,
+   "start": 443.64,
+   "end": 445.98,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Slow motion sounds"
+  },
+  {
+   "i": 156,
+   "start": 447.0,
+   "end": 448.3,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "What a ripper!"
+  },
+  {
+   "i": 157,
+   "start": 448.52,
+   "end": 449.14,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "KRILLIN!"
+  },
+  {
+   "i": 158,
+   "start": 449.24,
+   "end": 455.7,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "HELLO GOHAN have you done your homework, 'cause if you don't Chi Chi will KICK my ass!"
+  },
+  {
+   "i": 159,
+   "start": 455.78,
+   "end": 457.0,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Are you OK?!"
+  },
+  {
+   "i": 160,
+   "start": 457.0,
+   "end": 457.54,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Yeah!"
+  },
+  {
+   "i": 161,
+   "start": 457.54,
+   "end": 460.42,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Seems he threw my nervous system out of whack there!"
+  },
+  {
+   "i": 162,
+   "start": 460.42,
+   "end": 462.3,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Can't quite feel the pain!"
+  },
+  {
+   "i": 163,
+   "start": 463.02,
+   "end": 463.88,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "...There it is!"
+  },
+  {
+   "i": 164,
+   "start": 464.34,
+   "end": 465.34,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Aaaaaaa"
+  },
+  {
+   "i": 165,
+   "start": 465.34,
+   "end": 466.7,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Aaaaaauuuuuuhh--"
+  },
+  {
+   "i": 166,
+   "start": 468.72,
+   "end": 470.48,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "Naaaaaaaiillll!"
+  },
+  {
+   "i": 167,
+   "start": 470.48,
+   "end": 474.46,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "Our visitors from Earth require your assistance."
+  },
+  {
+   "i": 168,
+   "start": 474.46,
+   "end": 476.4,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "You must go help them."
+  },
+  {
+   "i": 169,
+   "start": 476.6,
+   "end": 479.38,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "Lord Guru, that would leave you totally unguarded."
+  },
+  {
+   "i": 170,
+   "start": 479.6,
+   "end": 481.9,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "No... I would have Dende--"
+  },
+  {
+   "i": 171,
+   "start": 481.98,
+   "end": 483.3,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Please don't leave me alone with him."
+  },
+  {
+   "i": 172,
+   "start": 483.3,
+   "end": 486.12,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "He is the third strongest of our kiiind."
+  },
+  {
+   "i": 173,
+   "start": 486.22,
+   "end": 489.16,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "Lord Guru, there are... only three of us left."
+  },
+  {
+   "i": 174,
+   "start": 489.82,
+   "end": 493.26,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "Dende... how does it feel to be the bronze medal?"
+  },
+  {
+   "i": 175,
+   "start": 493.44,
+   "end": 495.7,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Like everyone I know and love is dead."
+  },
+  {
+   "i": 176,
+   "start": 496.88,
+   "end": 499.4,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "♪ Every party needs a pooper ♪"
+  },
+  {
+   "i": 177,
+   "start": 499.4,
+   "end": 502.1,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "♪ That's why they invited youuuu ♪"
+  },
+  {
+   "i": 178,
+   "start": 502.1,
+   "end": 504.52,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "♪ Party pooper ♪"
+  },
+  {
+   "i": 179,
+   "start": 504.62,
+   "end": 507.62,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "♪ Party pooperrrr ♪"
+  },
+  {
+   "i": 180,
+   "start": 509.16,
+   "end": 510.08,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "Lord Guru--"
+  },
+  {
+   "i": 181,
+   "start": 510.08,
+   "end": 512.5,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "Why are you still HEEEEEREEE--!!??"
+  },
+  {
+   "i": 182,
+   "start": 514.72,
+   "end": 516.78,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "And welcome back to the fight, ladies and gents."
+  },
+  {
+   "i": 183,
+   "start": 516.78,
+   "end": 519.38,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "Last we left, we had two new contenders!"
+  },
+  {
+   "i": 184,
+   "start": 519.74,
+   "end": 521.0,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "We now have one."
+  },
+  {
+   "i": 185,
+   "start": 521.38,
+   "end": 523.26,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "I'm not going to back down!"
+  },
+  {
+   "i": 186,
+   "start": 523.48,
+   "end": 529.48,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "* I might be younger than you * Smaller than you * Weaker than you * And *much* less experienced"
+  },
+  {
+   "i": 187,
+   "start": 529.48,
+   "end": 531.76,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "But I learned more about peach farming than you—"
+  },
+  {
+   "i": 188,
+   "start": 531.76,
+   "end": 534.12,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "I think this was a horrible decision..."
+  },
+  {
+   "i": 189,
+   "start": 534.12,
+   "end": 535.46,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "Recoome agrees."
+  },
+  {
+   "i": 190,
+   "start": 535.78,
+   "end": 536.28,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "AAH!"
+  },
+  {
+   "i": 191,
+   "start": 536.76,
+   "end": 539.34,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "This fight is turning into a regular piss-kicker!"
+  },
+  {
+   "i": 192,
+   "start": 539.34,
+   "end": 541.76,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "Poor kid doesn't stand a chance."
+  },
+  {
+   "i": 193,
+   "start": 541.76,
+   "end": 543.54,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "How old is he? Like five?"
+  },
+  {
+   "i": 194,
+   "start": 543.54,
+   "end": 544.9,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "Six, five and a half...?"
+  },
+  {
+   "i": 195,
+   "start": 544.9,
+   "end": 548.0,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "But the real question is: What do the fans think?"
+  },
+  {
+   "i": 196,
+   "start": 548.0,
+   "end": 550.24,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Crowd cheering"
+  },
+  {
+   "i": 197,
+   "start": 551.42,
+   "end": 555.12,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "You... you talk about who you are all the time..."
+  },
+  {
+   "i": 198,
+   "start": 555.12,
+   "end": 557.94,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "\"Recoome\" this, \"Recoome\" that..."
+  },
+  {
+   "i": 199,
+   "start": 558.36,
+   "end": 562.68,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "but... you're nothing... compared to my *Dad*."
+  },
+  {
+   "i": 200,
+   "start": 559.4,
+   "end": 560.36,
+   "kind": "dialog",
+   "speaker": "Recoome",
+   "text": "Ha ha ha."
+  },
+  {
+   "i": 201,
+   "start": 563.36,
+   "end": 568.36,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "I... am the son of... Son Goku..."
+  },
+  {
+   "i": 202,
+   "start": 568.36,
+   "end": 572.02,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "The man who will come... and *kick your*--!"
+  },
+  {
+   "i": 203,
+   "start": 572.02,
+   "end": 572.54,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "CRUNCH"
+  },
+  {
+   "i": 204,
+   "start": 573.82,
+   "end": 574.88,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Deafening silence"
+  },
+  {
+   "i": 205,
+   "start": 574.88,
+   "end": 576.4,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "*My God*."
+  },
+  {
+   "i": 206,
+   "start": 578.16,
+   "end": 578.82,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Crowd cheers"
+  },
+  {
+   "i": 207,
+   "start": 578.84,
+   "end": 581.26,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "THAT was INCREDIBLE!"
+  },
+  {
+   "i": 208,
+   "start": 581.26,
+   "end": 585.6,
+   "kind": "dialog",
+   "speaker": "Burter",
+   "text": "This seems like the end, folks. Recoome looks like he’s got this one in the bag!"
+  },
+  {
+   "i": 209,
+   "start": 585.6,
+   "end": 589.52,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "It doesn't look like there's *anyone* left who can stop Recoome!"
+  },
+  {
+   "i": 210,
+   "start": 590.1,
+   "end": 591.92,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Wait! Who's that?"
+  },
+  {
+   "i": 211,
+   "start": 592.22,
+   "end": 593.72,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Distant explosion"
+  },
+  {
+   "i": 212,
+   "start": 593.72,
+   "end": 597.42,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"Real American\" (Hulk Hogan's theme) ♫"
+  },
+  {
+   "i": 213,
+   "start": 600.78,
+   "end": 605.16,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "♫ When it comes crashing down, and it hurts inside ♫"
+  },
+  {
+   "i": 214,
+   "start": 608.76,
+   "end": 612.82,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "♫ You gotta take a stand, it don't help to hide ♫"
+  },
+  {
+   "i": 215,
+   "start": 615.82,
+   "end": 620.22,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "♫ If you hurt my friends, then you hurt my pride ♫"
+  },
+  {
+   "i": 216,
+   "start": 620.22,
+   "end": 625.32,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "♫ I gotta be a man; I can't let it slide... ♫"
+  },
+  {
+   "i": 217,
+   "start": 623.18,
+   "end": 625.32,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Fade-out"
+  },
+  {
+   "i": 218,
+   "start": 625.82,
+   "end": 627.34,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"Sanjō!! Ginyū Tokusentai!!\" ♫"
+  },
+  {
+   "i": 219,
+   "start": 625.82,
+   "end": 627.34,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "♫ Tokusentai! ♫"
+  },
+  {
+   "i": 220,
+   "start": 629.28,
+   "end": 631.24,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "(Humming)"
+  },
+  {
+   "i": 221,
+   "start": 631.7,
+   "end": 632.64,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "All done."
+  },
+  {
+   "i": 222,
+   "start": 632.64,
+   "end": 636.06,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Alright - so, you're done with all your dances?"
+  },
+  {
+   "i": 223,
+   "start": 636.06,
+   "end": 637.0,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Yes, sir!"
+  },
+  {
+   "i": 224,
+   "start": 637.0,
+   "end": 639.14,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "We can wish for my immortality now?"
+  },
+  {
+   "i": 225,
+   "start": 639.14,
+   "end": 640.12,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Of course."
+  },
+  {
+   "i": 226,
+   "start": 640.12,
+   "end": 641.5,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Fantastic."
+  },
+  {
+   "i": 227,
+   "start": 641.5,
+   "end": 642.04,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "♫"
+  },
+  {
+   "i": 228,
+   "start": 642.04,
+   "end": 646.52,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Now, Dragon Balls - grant my wish!"
+  },
+  {
+   "i": 229,
+   "start": 646.52,
+   "end": 651.46,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "MAKE ME, LORD FREEZA, *IMMORTAL*!!!!"
+  },
+  {
+   "i": 230,
+   "start": 654.38,
+   "end": 654.88,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Music cuts-off"
+  },
+  {
+   "i": 231,
+   "start": 658.6,
+   "end": 661.46,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "...Umm... I don't think it worked..."
+  },
+  {
+   "i": 232,
+   "start": 661.46,
+   "end": 663.62,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "But... but why *not*?"
+  },
+  {
+   "i": 233,
+   "start": 663.62,
+   "end": 670.68,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Those village elders *explicitly* told me there were only seven balls, and that I need merely to bring them together to grant my wish!"
+  },
+  {
+   "i": 234,
+   "start": 670.78,
+   "end": 671.94,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "So what THE HELL?"
+  },
+  {
+   "i": 235,
+   "start": 672.16,
+   "end": 674.04,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Perhaps there's a password."
+  },
+  {
+   "i": 236,
+   "start": 674.04,
+   "end": 675.76,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "A password...?"
+  },
+  {
+   "i": 237,
+   "start": 675.76,
+   "end": 678.44,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "But... I... killed them *all*!"
+  },
+  {
+   "i": 238,
+   "start": 678.44,
+   "end": 680.34,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "There's no one left to tell me!"
+  },
+  {
+   "i": 239,
+   "start": 680.34,
+   "end": 682.46,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "I'VE LOST MY WISH!!"
+  },
+  {
+   "i": 240,
+   "start": 683.36,
+   "end": 685.44,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Might I suggest the Dance of Cheering You Up?"
+  },
+  {
+   "i": 241,
+   "start": 686.26,
+   "end": 687.52,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Ugghhhh..."
+  },
+  {
+   "i": 242,
+   "start": 687.52,
+   "end": 688.62,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "...proceed."
+  },
+  {
+   "i": 243,
+   "start": 689.54,
+   "end": 694.2,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "G'day! Jeice of the Ginyu Force here with a Public Service Announcement."
+  },
+  {
+   "i": 244,
+   "start": 694.2,
+   "end": 700.28,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "We've got no worries up in Space Brisbane right now, but your Brisbane's been hit hard by floods."
+  },
+  {
+   "i": 245,
+   "start": 700.28,
+   "end": 706.64,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "So, if you'd like to donate to the relief effort, follow the link in the description to the Queensland Government's website."
+  },
+  {
+   "i": 246,
+   "start": 706.64,
+   "end": 709.72,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Cheers, mates. Every donation would be appreciated."
+  }
+ ],
+ "segments": [
+  {
+   "start": 14.7,
+   "end": 29.7,
+   "title": "Team Three Star Spirit",
+   "quote": "You totally pulled our butts out of the fire there! / They'll never find your body.",
+   "line_start": 0,
+   "line_end": 5
+  },
+  {
+   "start": 29.5,
+   "end": 52.8,
+   "title": "Three Weeks",
+   "quote": "So, when was the last time you had to... you know... / 3 weeks. / Bloody hell, 3 *weeks*?!",
+   "line_start": 6,
+   "line_end": 15
+  },
+  {
+   "start": 72.0,
+   "end": 101.5,
+   "title": "The Name's Recoome (Promo)",
+   "quote": "But let Recoome tell ya somethin', brother: You ain't no Wolverine... / Champion of *what*?",
+   "line_start": 21,
+   "line_end": 26
+  },
+  {
+   "start": 121.2,
+   "end": 152.0,
+   "title": "It Rhymes With DOOM",
+   "quote": "Because the name's RECOOME! And it rhymes WITH DOOM! / ...Wrestling's fake.",
+   "line_start": 35,
+   "line_end": 42
+  },
+  {
+   "start": 154.0,
+   "end": 176.5,
+   "title": "Hit MY Music",
+   "quote": "Now hit MY music! [DBGT theme] Oh, the f*ck with this! / SUCK IT, JABRONI!",
+   "line_start": 44,
+   "line_end": 52
+  },
+  {
+   "start": 183.0,
+   "end": 197.0,
+   "title": "Recoome Only Sells Merchandise",
+   "quote": "The only thing Recoome sells... is merchandise!",
+   "line_start": 53,
+   "line_end": 56
+  },
+  {
+   "start": 221.9,
+   "end": 250.3,
+   "title": "The Dance of Joy",
+   "quote": "Now in celebration, I shall commence: The Dance Of Joy! / It is entirely necessary.",
+   "line_start": 66,
+   "line_end": 76
+  },
+  {
+   "start": 283.5,
+   "end": 300.6,
+   "title": "Daddy's Little Princess Dance",
+   "quote": "Lastly, I must complete The Daddy's Little Princess Dance. / It was your brother.",
+   "line_start": 88,
+   "line_end": 95
+  },
+  {
+   "start": 326.9,
+   "end": 334.1,
+   "title": "Picked Like a Vegetable",
+   "quote": "He picked *Vegeta*... like a--! / Like a vegetable, yes. / HAH!",
+   "line_start": 109,
+   "line_end": 111
+  },
+  {
+   "start": 369.9,
+   "end": 393.5,
+   "title": "Recoome Eraser Gun",
+   "quote": "RECOOOOME... ERASER... ...GUNNNNN!",
+   "line_start": 127,
+   "line_end": 134
+  },
+  {
+   "start": 446.9,
+   "end": 466.8,
+   "title": "Can't Quite Feel the Pain",
+   "quote": "Seems he threw my nervous system out of whack there! Can't quite feel the pain! / ...There it is!",
+   "line_start": 156,
+   "line_end": 165
+  },
+  {
+   "start": 468.3,
+   "end": 512.6,
+   "title": "Third Strongest of Our Kind",
+   "quote": "Dende... how does it feel to be the bronze medal? / Like everyone I know and love is dead.",
+   "line_start": 166,
+   "line_end": 181
+  },
+  {
+   "start": 551.0,
+   "end": 576.5,
+   "title": "Nothing Compared to My Dad",
+   "quote": "I... am the son of... Son Goku... The man who will come... and *kick your*--! [CRUNCH]",
+   "line_start": 197,
+   "line_end": 205
+  },
+  {
+   "start": 589.6,
+   "end": 623.0,
+   "title": "A Real American Arrives",
+   "quote": "Wait! Who's that? [Hulk Hogan's theme plays]",
+   "line_start": 210,
+   "line_end": 215
+  },
+  {
+   "start": 640.9,
+   "end": 663.7,
+   "title": "I'VE LOST MY WISH",
+   "quote": "MAKE ME, LORD FREEZA, *IMMORTAL*!!!! / ...Umm... I don't think it worked...",
+   "line_start": 228,
+   "line_end": 232
+  }
+ ]
+}

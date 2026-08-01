@@ -1,0 +1,16 @@
+id: status-report
+show: dbza
+media: e50
+start: 50.2
+end: 76.0
+title: Status Report
+quote: NOTICE MEEEEEE!
+speaker: Trunks
+tags:
+- trunks
+status: published
+source: https://reddit.com/r/TeamFourStar/comments/nmo7gr/
+signal: 435
+recurrence: 8
+added: '2026-08-01'
+by: reddit-pipeline

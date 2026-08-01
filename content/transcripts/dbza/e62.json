@@ -1,0 +1,3163 @@
+{
+ "item": "e62",
+ "show": "dbza",
+ "youtube": "uNyAfXOTG5A",
+ "title": "Episode 56",
+ "duration": 999,
+ "lines": [
+  {
+   "i": 0,
+   "start": 0.2,
+   "end": 2.06,
+   "kind": "dialog",
+   "speaker": "Lanipator",
+   "text": "Hey there, everyone, I'm Lanipator."
+  },
+  {
+   "i": 1,
+   "start": 2.06,
+   "end": 5.5,
+   "kind": "dialog",
+   "speaker": "Lanipator",
+   "text": "We here at Team Four Star have always promoted supporting the official release."
+  },
+  {
+   "i": 2,
+   "start": 5.5,
+   "end": 13.7,
+   "kind": "dialog",
+   "speaker": "Lanipator",
+   "text": "It's the best way to make sure we'll be able to continue to enjoy all the great shows we know and love, and thanks to our friends over at Crunchyroll, supporting the official release has never been easier."
+  },
+  {
+   "i": 3,
+   "start": 13.7,
+   "end": 23.04,
+   "kind": "dialog",
+   "speaker": "Lanipator",
+   "text": "Through Crunchyroll, you can stream episodes of Jojo's Bizarre Adventure, Drifters, Keijo, and yes, Dragon Ball Super just *hours* after they air over in the Land of the Rising Sun."
+  },
+  {
+   "i": 4,
+   "start": 23.04,
+   "end": 27.6,
+   "kind": "dialog",
+   "speaker": "Lanipator",
+   "text": "So head on over to crunchyroll.com/teamfourstar now to begin your free trial."
+  },
+  {
+   "i": 5,
+   "start": 53.58,
+   "end": 57.12,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Man, it feels like years since you and I just went fishing and chilled out."
+  },
+  {
+   "i": 6,
+   "start": 57.34,
+   "end": 60.94,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "And of all times, right before a tournament to decide the fate of the world..."
+  },
+  {
+   "i": 7,
+   "start": 61.16,
+   "end": 62.84,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Weird how stuff works out, am I right?"
+  },
+  {
+   "i": 8,
+   "start": 63.0,
+   "end": 64.42,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Nobody knows, Krillin."
+  },
+  {
+   "i": 9,
+   "start": 64.56,
+   "end": 65.06,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Huh?"
+  },
+  {
+   "i": 10,
+   "start": 65.3,
+   "end": 67.36,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Nobody knows the weight on my shoulders."
+  },
+  {
+   "i": 11,
+   "start": 68.0,
+   "end": 69.92,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I feel it... every day."
+  },
+  {
+   "i": 12,
+   "start": 70.34,
+   "end": 73.42,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Before I go to bed, when I wake up in the morning..."
+  },
+  {
+   "i": 13,
+   "start": 74.2,
+   "end": 78.88,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Sometimes, I wonder... Can I do this?"
+  },
+  {
+   "i": 14,
+   "start": 79.2,
+   "end": 83.58,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Wow, I, uh... I had no idea this Cell stuff was getting to you so badly."
+  },
+  {
+   "i": 15,
+   "start": 83.7,
+   "end": 84.56,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "\"Cell stuff\"?"
+  },
+  {
+   "i": 16,
+   "start": 84.82,
+   "end": 86.36,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I'm talking about Chi-Chi."
+  },
+  {
+   "i": 17,
+   "start": 86.36,
+   "end": 87.1,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Chi-Chi?"
+  },
+  {
+   "i": 18,
+   "start": 87.1,
+   "end": 89.0,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "She's been non-stop!"
+  },
+  {
+   "i": 19,
+   "start": 89.0,
+   "end": 91.32,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Ever since I got out of the Chamber!"
+  },
+  {
+   "i": 20,
+   "start": 91.32,
+   "end": 94.1,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "In and out, day in and day out!"
+  },
+  {
+   "i": 21,
+   "start": 94.1,
+   "end": 99.26,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "She'll send Gohan for groceries five counties over in the middle of the day just to get him out of the house!"
+  },
+  {
+   "i": 22,
+   "start": 99.64,
+   "end": 102.22,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "You... know you can say \"no\", right?"
+  },
+  {
+   "i": 23,
+   "start": 102.22,
+   "end": 103.54,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Well, duh!"
+  },
+  {
+   "i": 24,
+   "start": 103.8,
+   "end": 106.04,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "But it's a *challenge*, Krillin!"
+  },
+  {
+   "i": 25,
+   "start": 106.04,
+   "end": 108.28,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "And I never back down from a challenge."
+  },
+  {
+   "i": 26,
+   "start": 108.7,
+   "end": 110.48,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "...Also, it feels really good!"
+  },
+  {
+   "i": 27,
+   "start": 110.7,
+   "end": 111.88,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Have you ever tried it?"
+  },
+  {
+   "i": 28,
+   "start": 112.28,
+   "end": 114.08,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Like... with a real person?"
+  },
+  {
+   "i": 29,
+   "start": 114.08,
+   "end": 115.2,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Hey, Dad?"
+  },
+  {
+   "i": 30,
+   "start": 115.2,
+   "end": 117.0,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Mom sent me to tell you to come home."
+  },
+  {
+   "i": 31,
+   "start": 117.4,
+   "end": 120.46,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "She also told me to pick up a lot of... peanut butter?"
+  },
+  {
+   "i": 32,
+   "start": 121.0,
+   "end": 121.6,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Krillin..."
+  },
+  {
+   "i": 33,
+   "start": 121.6,
+   "end": 123.98,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Look, if you're asking me to tag in, I'm willing but—"
+  },
+  {
+   "i": 34,
+   "start": 123.98,
+   "end": 125.18,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Wha... NO!"
+  },
+  {
+   "i": 35,
+   "start": 125.18,
+   "end": 126.9,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Catch more fish while I'm gone!"
+  },
+  {
+   "i": 36,
+   "start": 126.9,
+   "end": 129.3,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Oh, duh! Of course, like that'd ever work..."
+  },
+  {
+   "i": 37,
+   "start": 129.3,
+   "end": 133.88,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Yeah, no, it... But if you had a wig..."
+  },
+  {
+   "i": 38,
+   "start": 156.2,
+   "end": 159.7,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Crowd cheering on TV"
+  },
+  {
+   "i": 39,
+   "start": 156.2,
+   "end": 164.6,
+   "kind": "dialog",
+   "speaker": "Presenter",
+   "text": "And now, introducing your World Martial Arts Champion, the strongest man on the planet... Misteeeeeer... SATAAAAAAN!"
+  },
+  {
+   "i": 40,
+   "start": 164.6,
+   "end": 166.66,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Satan theme playing"
+  },
+  {
+   "i": 41,
+   "start": 164.6,
+   "end": 166.66,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Crowd cheers"
+  },
+  {
+   "i": 42,
+   "start": 166.66,
+   "end": 168.66,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Wait... Martial Arts Champion--?"
+  },
+  {
+   "i": 43,
+   "start": 168.66,
+   "end": 170.36,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Uh, did we miss a tournament?!"
+  },
+  {
+   "i": 44,
+   "start": 170.36,
+   "end": 172.4,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "Yeah, there was one last month."
+  },
+  {
+   "i": 45,
+   "start": 172.4,
+   "end": 174.92,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Damn it, we were busy training for the Androids!"
+  },
+  {
+   "i": 46,
+   "start": 174.92,
+   "end": 176.22,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "What do either of you care?"
+  },
+  {
+   "i": 47,
+   "start": 176.22,
+   "end": 177.02,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Prize money!"
+  },
+  {
+   "i": 48,
+   "start": 176.22,
+   "end": 177.02,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Prize money!"
+  },
+  {
+   "i": 49,
+   "start": 177.3,
+   "end": 180.84,
+   "kind": "dialog",
+   "speaker": "Presenter",
+   "text": "Mr. Satan, what do you have to say to your opponent?"
+  },
+  {
+   "i": 50,
+   "start": 180.84,
+   "end": 183.52,
+   "kind": "dialog",
+   "speaker": "Mr. Satan",
+   "text": "Now you listen here, \"Cell\"."
+  },
+  {
+   "i": 51,
+   "start": 183.8,
+   "end": 188.96,
+   "kind": "dialog",
+   "speaker": "Mr. Satan",
+   "text": "I know why you gave everyone a week to prepare for your *little tournament*!"
+  },
+  {
+   "i": 52,
+   "start": 189.14,
+   "end": 196.34,
+   "kind": "dialog",
+   "speaker": "Mr. Satan",
+   "text": "It's so you could spend the last seven days on Earth prayin'... that MR. SATAN WOULDN'T SHOW UP!"
+  },
+  {
+   "i": 53,
+   "start": 196.34,
+   "end": 197.4,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Crowd cheers"
+  },
+  {
+   "i": 54,
+   "start": 197.4,
+   "end": 205.94,
+   "kind": "dialog",
+   "speaker": "Mr. Satan",
+   "text": "So after I eat my Jimmy John's, and drink my HETAP, AND F*** MY HOT ASIAN WIFE...!"
+  },
+  {
+   "i": 55,
+   "start": 199.9,
+   "end": 200.4,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Crowd cheers"
+  },
+  {
+   "i": 56,
+   "start": 202.3,
+   "end": 202.82,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Crowd cheers"
+  },
+  {
+   "i": 57,
+   "start": 205.94,
+   "end": 207.6,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Crowd cheers"
+  },
+  {
+   "i": 58,
+   "start": 207.6,
+   "end": 213.14,
+   "kind": "dialog",
+   "speaker": "Mr. Satan",
+   "text": "I'm gonna squash you like the bug... you... are."
+  },
+  {
+   "i": 59,
+   "start": 213.44,
+   "end": 215.68,
+   "kind": "dialog",
+   "speaker": "Presenter",
+   "text": "Mr. Satan, everybody!"
+  },
+  {
+   "i": 60,
+   "start": 216.1,
+   "end": 219.1,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "So... do they know what's going on with his name, or—"
+  },
+  {
+   "i": 61,
+   "start": 219.1,
+   "end": 224.5,
+   "kind": "dialog",
+   "speaker": "Crowd",
+   "text": "HAIL SATAN! HAIL SATAN! HAIL SATAN! HAIL SATAN!"
+  },
+  {
+   "i": 62,
+   "start": 223.14,
+   "end": 224.5,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "...Okay, yeah, they know."
+  },
+  {
+   "i": 63,
+   "start": 224.58,
+   "end": 225.08,
+   "kind": "direction",
+   "speaker": null,
+   "text": "pop!"
+  },
+  {
+   "i": 64,
+   "start": 225.08,
+   "end": 227.42,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Guys! I need help with my hot Asian wife!"
+  },
+  {
+   "i": 65,
+   "start": 227.8,
+   "end": 230.0,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Who told you you could LEAVE THE BEDROOM?!"
+  },
+  {
+   "i": 66,
+   "start": 230.9,
+   "end": 233.9,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Guys... don't tell her I'm here...!"
+  },
+  {
+   "i": 67,
+   "start": 236.2,
+   "end": 237.6,
+   "kind": "dialog",
+   "speaker": "Journalist",
+   "text": "This is bullshit, man!"
+  },
+  {
+   "i": 68,
+   "start": 237.6,
+   "end": 238.86,
+   "kind": "dialog",
+   "speaker": "Journalist",
+   "text": "This is suicide...!"
+  },
+  {
+   "i": 69,
+   "start": 238.86,
+   "end": 242.38,
+   "kind": "dialog",
+   "speaker": "Crew Leader",
+   "text": "Dude, pull your balls out of your purse, and do your job."
+  },
+  {
+   "i": 70,
+   "start": 242.38,
+   "end": 244.4,
+   "kind": "dialog",
+   "speaker": "Journalist",
+   "text": "Okay, *that's* sexist as hell!"
+  },
+  {
+   "i": 71,
+   "start": 244.4,
+   "end": 245.98,
+   "kind": "dialog",
+   "speaker": "Crew Leader",
+   "text": "Yeah, it's sexist."
+  },
+  {
+   "i": 72,
+   "start": 245.98,
+   "end": 247.7,
+   "kind": "dialog",
+   "speaker": "Crew Leader",
+   "text": "And do you know what's standing out there?"
+  },
+  {
+   "i": 73,
+   "start": 247.7,
+   "end": 249.7,
+   "kind": "dialog",
+   "speaker": "Crew Leader",
+   "text": "A Pulitzer! Now go get it!"
+  },
+  {
+   "i": 74,
+   "start": 250.06,
+   "end": 252.44,
+   "kind": "dialog",
+   "speaker": "Journalist",
+   "text": "Uh, um, uh... hello."
+  },
+  {
+   "i": 75,
+   "start": 252.44,
+   "end": 254.6,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Hello, there! How may I help you?"
+  },
+  {
+   "i": 76,
+   "start": 254.6,
+   "end": 256.8,
+   "kind": "dialog",
+   "speaker": "Journalist",
+   "text": "W-well... M-Mr. Cell!"
+  },
+  {
+   "i": 77,
+   "start": 256.8,
+   "end": 259.8,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Oh, please now... don't be so formal!"
+  },
+  {
+   "i": 78,
+   "start": 259.8,
+   "end": 261.5,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Call me \"Perfect Cell\"."
+  },
+  {
+   "i": 79,
+   "start": 261.5,
+   "end": 263.7,
+   "kind": "dialog",
+   "speaker": "Journalist",
+   "text": "Uh... okay. Perfect Cell—"
+  },
+  {
+   "i": 80,
+   "start": 263.7,
+   "end": 265.0,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "MISTER Perfect Cell!"
+  },
+  {
+   "i": 81,
+   "start": 265.0,
+   "end": 266.76,
+   "kind": "dialog",
+   "speaker": "Journalist",
+   "text": "M-M-Mr. Perfect Cell!"
+  },
+  {
+   "i": 82,
+   "start": 266.76,
+   "end": 270.1,
+   "kind": "dialog",
+   "speaker": "Journalist",
+   "text": "Can you tell the audience where you are and who you came from?"
+  },
+  {
+   "i": 83,
+   "start": 270.1,
+   "end": 270.76,
+   "kind": "dialog",
+   "speaker": "Journalist",
+   "text": "I-I-I mean---"
+  },
+  {
+   "i": 84,
+   "start": 270.76,
+   "end": 273.58,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "No, actually, an *apt* choice of words!"
+  },
+  {
+   "i": 85,
+   "start": 273.58,
+   "end": 277.5,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "As for the \"where\", this is the immaculate Cell Games Arena."
+  },
+  {
+   "i": 86,
+   "start": 277.76,
+   "end": 280.0,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "As for \"who\", well... hmph."
+  },
+  {
+   "i": 87,
+   "start": 280.2,
+   "end": 283.5,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Let me weave you the tale of my origin."
+  },
+  {
+   "i": 88,
+   "start": 283.5,
+   "end": 287.64,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Though I must preface that it does drag on in places, so I'll try to minimize the filler."
+  },
+  {
+   "i": 89,
+   "start": 288.0,
+   "end": 292.6,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Whimsical music"
+  },
+  {
+   "i": 90,
+   "start": 288.0,
+   "end": 295.6,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Now... our story begins as many stories often do: With a young girl shooting a little boy in the face."
+  },
+  {
+   "i": 91,
+   "start": 296.4,
+   "end": 299.5,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(Yawning)"
+  },
+  {
+   "i": 92,
+   "start": 299.5,
+   "end": 301.5,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "You, uh... okay, buddy?"
+  },
+  {
+   "i": 93,
+   "start": 302.0,
+   "end": 303.2,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "You look exhausted."
+  },
+  {
+   "i": 94,
+   "start": 303.2,
+   "end": 306.8,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Uh-huh... I didn't get a wink last night."
+  },
+  {
+   "i": 95,
+   "start": 306.8,
+   "end": 310.12,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Chi-Chi keeps trying to break my record of nine times."
+  },
+  {
+   "i": 96,
+   "start": 310.5,
+   "end": 313.84,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "\"Go for ten,\" she yells... \"GO for TEN!\""
+  },
+  {
+   "i": 97,
+   "start": 314.1,
+   "end": 317.52,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I feel like a man dying of thirst watching another man drown."
+  },
+  {
+   "i": 98,
+   "start": 317.68,
+   "end": 319.8,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Well, you know what they say:"
+  },
+  {
+   "i": 99,
+   "start": 320.16,
+   "end": 326.9,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "A Saiyan gets stronger every time he comes... (Yawn) ...back from the brink of death."
+  },
+  {
+   "i": 100,
+   "start": 326.9,
+   "end": 328.4,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Well, where is she now?"
+  },
+  {
+   "i": 101,
+   "start": 328.4,
+   "end": 330.8,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "She's looking for something in the other room."
+  },
+  {
+   "i": 102,
+   "start": 331.1,
+   "end": 334.7,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "'Come on, I know we had another bottle of it somewhere around here.'"
+  },
+  {
+   "i": 103,
+   "start": 334.7,
+   "end": 336.3,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "'I will use canola oil if I have—'"
+  },
+  {
+   "i": 104,
+   "start": 336.3,
+   "end": 336.8,
+   "kind": "dialog",
+   "speaker": "Ghost",
+   "text": "Boo!"
+  },
+  {
+   "i": 105,
+   "start": 336.3,
+   "end": 336.8,
+   "kind": "direction",
+   "speaker": null,
+   "text": "thud!"
+  },
+  {
+   "i": 106,
+   "start": 336.8,
+   "end": 338.5,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Ow! Damn ghosts!"
+  },
+  {
+   "i": 107,
+   "start": 339.0,
+   "end": 342.0,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "So why don't you just... I don't know, \"strategically withdraw\"?"
+  },
+  {
+   "i": 108,
+   "start": 342.0,
+   "end": 343.46,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "No can do."
+  },
+  {
+   "i": 109,
+   "start": 343.7,
+   "end": 345.68,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "She said she needs ALL of it."
+  },
+  {
+   "i": 110,
+   "start": 345.68,
+   "end": 351.5,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I MEANT, just disappear for a little bit to recharge your... \"batteries\"."
+  },
+  {
+   "i": 111,
+   "start": 351.5,
+   "end": 355.28,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Well, it is strategy... but we can't use the back door."
+  },
+  {
+   "i": 112,
+   "start": 355.6,
+   "end": 357.6,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Chi-Chi says I'm not allowed to anymore."
+  },
+  {
+   "i": 113,
+   "start": 361.2,
+   "end": 362.5,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "'You should talk to him.'"
+  },
+  {
+   "i": 114,
+   "start": 362.5,
+   "end": 363.8,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'What? Why would I?'"
+  },
+  {
+   "i": 115,
+   "start": 363.8,
+   "end": 366.3,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'Because you could *both* use more friends.'"
+  },
+  {
+   "i": 116,
+   "start": 366.3,
+   "end": 368.3,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'I am TERRIBLE at small talk.'"
+  },
+  {
+   "i": 117,
+   "start": 368.3,
+   "end": 370.84,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "'And you're never going to get better unless you try.'"
+  },
+  {
+   "i": 118,
+   "start": 371.12,
+   "end": 372.4,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "'Now, go on...'"
+  },
+  {
+   "i": 119,
+   "start": 372.4,
+   "end": 375.8,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "So... uh... do you hate your dad?"
+  },
+  {
+   "i": 120,
+   "start": 373.2,
+   "end": 373.7,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Huh?"
+  },
+  {
+   "i": 121,
+   "start": 375.8,
+   "end": 377.2,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Uhh..."
+  },
+  {
+   "i": 122,
+   "start": 376.3,
+   "end": 377.2,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "'*Wow*'."
+  },
+  {
+   "i": 123,
+   "start": 377.2,
+   "end": 378.8,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "'You were not wrong.'"
+  },
+  {
+   "i": 124,
+   "start": 378.8,
+   "end": 379.8,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'SEE?!'"
+  },
+  {
+   "i": 125,
+   "start": 379.8,
+   "end": 382.14,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Ehh, you know, I wouldn't say I hate him."
+  },
+  {
+   "i": 126,
+   "start": 382.4,
+   "end": 384.6,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "I guess I'm mostly just disappointed."
+  },
+  {
+   "i": 127,
+   "start": 384.6,
+   "end": 387.3,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "He's the single most frustrating man I've ever met."
+  },
+  {
+   "i": 128,
+   "start": 387.5,
+   "end": 389.5,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Heh... but you know dads, right?"
+  },
+  {
+   "i": 129,
+   "start": 389.5,
+   "end": 391.0,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Goku killed mine."
+  },
+  {
+   "i": 130,
+   "start": 391.0,
+   "end": 392.6,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Oh... geez, uh..."
+  },
+  {
+   "i": 131,
+   "start": 392.6,
+   "end": 393.6,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "S-sorry, I—"
+  },
+  {
+   "i": 132,
+   "start": 393.6,
+   "end": 395.6,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'Oh, perfect! He's just as bad as you are.'"
+  },
+  {
+   "i": 133,
+   "start": 396.1,
+   "end": 396.7,
+   "kind": "direction",
+   "speaker": null,
+   "text": "pop!"
+  },
+  {
+   "i": 134,
+   "start": 396.9,
+   "end": 399.4,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Please tell me nobody here wants a piece of me."
+  },
+  {
+   "i": 135,
+   "start": 399.4,
+   "end": 402.6,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Uhh, well, when Dad's out of the Chamber, he'll probably want a swing at you."
+  },
+  {
+   "i": 136,
+   "start": 403.2,
+   "end": 404.6,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I *knew it*!"
+  },
+  {
+   "i": 137,
+   "start": 404.6,
+   "end": 406.4,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Why did you bring us both along?"
+  },
+  {
+   "i": 138,
+   "start": 406.4,
+   "end": 409.4,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Because if your mother questioned you, you'd *talk*."
+  },
+  {
+   "i": 139,
+   "start": 409.7,
+   "end": 410.8,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Yeah, I would..."
+  },
+  {
+   "i": 140,
+   "start": 410.8,
+   "end": 413.1,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "So, Piccolo! How's the Time Chamber?"
+  },
+  {
+   "i": 141,
+   "start": 413.1,
+   "end": 414.4,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "I don't want to talk about it."
+  },
+  {
+   "i": 142,
+   "start": 414.4,
+   "end": 416.9,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Yeaaaah, probably not going to bother going in myself."
+  },
+  {
+   "i": 143,
+   "start": 416.9,
+   "end": 419.5,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "At this point, either you guys can beat Cell or you can't."
+  },
+  {
+   "i": 144,
+   "start": 419.5,
+   "end": 422.2,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "No use risking my life without the reset button on hand."
+  },
+  {
+   "i": 145,
+   "start": 422.2,
+   "end": 424.54,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Wow... I hadn't even thought about that."
+  },
+  {
+   "i": 146,
+   "start": 424.8,
+   "end": 427.6,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "We live in a world without Dragon Balls now!"
+  },
+  {
+   "i": 147,
+   "start": 427.6,
+   "end": 431.0,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Oh, yeah. That sounds terrible... I'm so sorry."
+  },
+  {
+   "i": 148,
+   "start": 431.18,
+   "end": 432.8,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "It's alright. We'll manage."
+  },
+  {
+   "i": 149,
+   "start": 433.72,
+   "end": 434.96,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "...I can't be mad at you."
+  },
+  {
+   "i": 150,
+   "start": 435.26,
+   "end": 438.9,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I don't get it. Why can't *you* just make us some new Dragon Balls, Piccolo?"
+  },
+  {
+   "i": 151,
+   "start": 438.9,
+   "end": 444.0,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Because, Goku, I'm from the warrior clan. *Kami* was from the dragon clan."
+  },
+  {
+   "i": 152,
+   "start": 444.0,
+   "end": 447.1,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "One punches people; the other makes Dragon Balls."
+  },
+  {
+   "i": 153,
+   "start": 447.1,
+   "end": 449.46,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Wait, but you two come from the same pers—"
+  },
+  {
+   "i": 154,
+   "start": 449.46,
+   "end": 453.2,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "*So*, if you want Dragon Balls, you need another Namekian."
+  },
+  {
+   "i": 155,
+   "start": 449.96,
+   "end": 450.8,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "...uh, oh..."
+  },
+  {
+   "i": 156,
+   "start": 453.2,
+   "end": 454.5,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "What about New Namek?"
+  },
+  {
+   "i": 157,
+   "start": 454.5,
+   "end": 457.26,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I bet there's a whole gaggle of Namekians who can make us a new set."
+  },
+  {
+   "i": 158,
+   "start": 457.26,
+   "end": 460.4,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "We'd have to *find* New Namek first, and who knows where that is!"
+  },
+  {
+   "i": 159,
+   "start": 460.5,
+   "end": 461.0,
+   "kind": "direction",
+   "speaker": null,
+   "text": "pop!"
+  },
+  {
+   "i": 160,
+   "start": 461.0,
+   "end": 462.3,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Also, \"gaggle\"?"
+  },
+  {
+   "i": 161,
+   "start": 462.3,
+   "end": 463.64,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Well, what would you call them?"
+  },
+  {
+   "i": 162,
+   "start": 463.64,
+   "end": 465.76,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "A pod of Namekians? ...A pride?"
+  },
+  {
+   "i": 163,
+   "start": 465.76,
+   "end": 468.48,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "A cornucopia. What do you call a group of humans?"
+  },
+  {
+   "i": 164,
+   "start": 468.48,
+   "end": 469.76,
+   "kind": "dialog",
+   "speaker": "Popo",
+   "text": "An infestation."
+  },
+  {
+   "i": 165,
+   "start": 469.76,
+   "end": 473.62,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Point is, without a Namekian from the dragon clan, we aren't getting any Dragon Ball—"
+  },
+  {
+   "i": 166,
+   "start": 473.62,
+   "end": 474.12,
+   "kind": "direction",
+   "speaker": null,
+   "text": "pop!"
+  },
+  {
+   "i": 167,
+   "start": 473.62,
+   "end": 474.12,
+   "kind": "direction",
+   "speaker": null,
+   "text": "High-pitched squealing"
+  },
+  {
+   "i": 168,
+   "start": 474.12,
+   "end": 474.8,
+   "kind": "dialog",
+   "speaker": "Everyone",
+   "text": "Huh?!"
+  },
+  {
+   "i": 169,
+   "start": 474.12,
+   "end": 476.2,
+   "kind": "direction",
+   "speaker": null,
+   "text": "High-pitched squealing"
+  },
+  {
+   "i": 170,
+   "start": 476.2,
+   "end": 477.64,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Is this a dragon whatsit?"
+  },
+  {
+   "i": 171,
+   "start": 477.64,
+   "end": 478.36,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "WHERE AM I?!"
+  },
+  {
+   "i": 172,
+   "start": 478.36,
+   "end": 479.0,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "WHO ARE YOU?!"
+  },
+  {
+   "i": 173,
+   "start": 479.0,
+   "end": 479.8,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "WHERE'S MY FAMILY?!"
+  },
+  {
+   "i": 174,
+   "start": 479.8,
+   "end": 482.6,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Sultry jazz music"
+  },
+  {
+   "i": 175,
+   "start": 482.6,
+   "end": 483.1,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "...Hey."
+  },
+  {
+   "i": 176,
+   "start": 482.6,
+   "end": 484.12,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Sultry jazz music"
+  },
+  {
+   "i": 177,
+   "start": 484.12,
+   "end": 489.2,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "And so it turns out... *he was an alien the whole time*!"
+  },
+  {
+   "i": 178,
+   "start": 489.2,
+   "end": 491.66,
+   "kind": "dialog",
+   "speaker": "Journalist",
+   "text": "*Whoa*! I did not see that coming!"
+  },
+  {
+   "i": 179,
+   "start": 491.66,
+   "end": 495.1,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Right?! So, two more Saiyans show up a year later..."
+  },
+  {
+   "i": 180,
+   "start": 495.1,
+   "end": 496.76,
+   "kind": "dialog",
+   "speaker": "Journalist",
+   "text": "Wait, what about Goku's brother?"
+  },
+  {
+   "i": 181,
+   "start": 496.76,
+   "end": 497.46,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Oh, he died."
+  },
+  {
+   "i": 182,
+   "start": 497.74,
+   "end": 498.5,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Anyway..."
+  },
+  {
+   "i": 183,
+   "start": 498.84,
+   "end": 505.58,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Enter: Vegeta. Now... (Chuckle), strap yourself in for this cartoon character!"
+  },
+  {
+   "i": 184,
+   "start": 509.96,
+   "end": 513.26,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Hey, Dad? Can you come take a look at this?"
+  },
+  {
+   "i": 185,
+   "start": 513.26,
+   "end": 516.64,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "What is it, pumpkin? Find Gero's *porn stash*~?"
+  },
+  {
+   "i": 186,
+   "start": 516.64,
+   "end": 519.7,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "No! I mean... ugh, maybe?"
+  },
+  {
+   "i": 187,
+   "start": 520.0,
+   "end": 521.88,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "I found this hidden folder."
+  },
+  {
+   "i": 188,
+   "start": 522.3,
+   "end": 526.3,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "It was completely inaccessible to him, and it's full of incomplete and corrupted files."
+  },
+  {
+   "i": 189,
+   "start": 526.8,
+   "end": 529.4,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "But there's one undamaged video here."
+  },
+  {
+   "i": 190,
+   "start": 529.4,
+   "end": 531.0,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "Well, then, open 'er up!"
+  },
+  {
+   "i": 191,
+   "start": 531.2,
+   "end": 533.54,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "Also, Ƶ5,000 says it's interracial."
+  },
+  {
+   "i": 192,
+   "start": 533.54,
+   "end": 534.1,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Ugh..."
+  },
+  {
+   "i": 193,
+   "start": 534.1,
+   "end": 536.18,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "Oh, *now* you find it gross!"
+  },
+  {
+   "i": 194,
+   "start": 536.6,
+   "end": 541.7,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "May 12th, 750... 4:30 PM. Red Ribbon HQ."
+  },
+  {
+   "i": 195,
+   "start": 541.7,
+   "end": 544.7,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Wait... why does that date sound familiar?"
+  },
+  {
+   "i": 196,
+   "start": 544.7,
+   "end": 550.1,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "Hey, Dad. I, uh... I'm here at headquarters, getting everything put away."
+  },
+  {
+   "i": 197,
+   "start": 550.9,
+   "end": 556.2,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "No bunkmate, so... room to myself... which is good for a guy my size."
+  },
+  {
+   "i": 198,
+   "start": 556.8,
+   "end": 557.8,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "Heh... (sniff)"
+  },
+  {
+   "i": 199,
+   "start": 558.4,
+   "end": 559.3,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "Well, uh..."
+  },
+  {
+   "i": 200,
+   "start": 560.1,
+   "end": 567.62,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "I just wanted to, you know... record something for you, since you and Uncle Frap are busy building robot guys and stuff."
+  },
+  {
+   "i": 201,
+   "start": 568.56,
+   "end": 573.8,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "I know you're calling them \"artificial humans\" now, but... that name is way too long."
+  },
+  {
+   "i": 202,
+   "start": 574.2,
+   "end": 575.6,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "I mean, what about \"cyborg\"?"
+  },
+  {
+   "i": 203,
+   "start": 576.0,
+   "end": 577.4,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "Like, from that movie we saw?"
+  },
+  {
+   "i": 204,
+   "start": 578.5,
+   "end": 579.0,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "Hm."
+  },
+  {
+   "i": 205,
+   "start": 579.6,
+   "end": 585.5,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "Well, uh... just wanted you to know that I... miss you, Dad."
+  },
+  {
+   "i": 206,
+   "start": 584.4,
+   "end": 585.5,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Alarms blaring"
+  },
+  {
+   "i": 207,
+   "start": 585.5,
+   "end": 586.0,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Alarms blaring"
+  },
+  {
+   "i": 208,
+   "start": 585.5,
+   "end": 586.0,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "What the—"
+  },
+  {
+   "i": 209,
+   "start": 586.0,
+   "end": 587.9,
+   "kind": "dialog",
+   "speaker": "Soldier",
+   "text": "Hey, get your ass moving!"
+  },
+  {
+   "i": 210,
+   "start": 587.9,
+   "end": 590.8,
+   "kind": "dialog",
+   "speaker": "Soldier",
+   "text": "Some *thing* is tearing its way through the compound!"
+  },
+  {
+   "i": 211,
+   "start": 589.5,
+   "end": 590.8,
+   "kind": "dialog",
+   "speaker": "Kid Goku",
+   "text": "Kaaa..."
+  },
+  {
+   "i": 212,
+   "start": 590.8,
+   "end": 591.9,
+   "kind": "dialog",
+   "speaker": "Soldier",
+   "text": "We've gotta go!"
+  },
+  {
+   "i": 213,
+   "start": 590.8,
+   "end": 593.0,
+   "kind": "dialog",
+   "speaker": "Kid Goku",
+   "text": "meee..."
+  },
+  {
+   "i": 214,
+   "start": 591.9,
+   "end": 594.7,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "Uhh... okay, sorry about this, Dad."
+  },
+  {
+   "i": 215,
+   "start": 593.0,
+   "end": 594.7,
+   "kind": "dialog",
+   "speaker": "Kid Goku",
+   "text": "haaa..."
+  },
+  {
+   "i": 216,
+   "start": 594.7,
+   "end": 596.7,
+   "kind": "dialog",
+   "speaker": "Kid Goku",
+   "text": "meee..."
+  },
+  {
+   "i": 217,
+   "start": 594.7,
+   "end": 596.7,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "Got to run. Love you."
+  },
+  {
+   "i": 218,
+   "start": 596.7,
+   "end": 597.8,
+   "kind": "dialog",
+   "speaker": "Kid Goku",
+   "text": "HAAAAAAAAAAAA!"
+  },
+  {
+   "i": 219,
+   "start": 596.7,
+   "end": 597.8,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "Good luck with your cybor—"
+  },
+  {
+   "i": 220,
+   "start": 597.8,
+   "end": 598.3,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Static"
+  },
+  {
+   "i": 221,
+   "start": 600.0,
+   "end": 601.4,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "...*Jesus*!"
+  },
+  {
+   "i": 222,
+   "start": 601.4,
+   "end": 603.46,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "Yeah, that's a hell of a bomb to drop."
+  },
+  {
+   "i": 223,
+   "start": 604.2,
+   "end": 606.22,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Oh. That reminds me."
+  },
+  {
+   "i": 224,
+   "start": 606.6,
+   "end": 608.0,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "I also found this."
+  },
+  {
+   "i": 225,
+   "start": 608.9,
+   "end": 609.4,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "Huh."
+  },
+  {
+   "i": 226,
+   "start": 610.2,
+   "end": 611.8,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "At least Gero was consistent."
+  },
+  {
+   "i": 227,
+   "start": 612.8,
+   "end": 614.3,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "By the way, you owe me Ƶ5,000."
+  },
+  {
+   "i": 228,
+   "start": 614.3,
+   "end": 616.0,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "Ah, daughter of a bastard!"
+  },
+  {
+   "i": 229,
+   "start": 617.4,
+   "end": 619.36,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "...And that's why we need you, Dende."
+  },
+  {
+   "i": 230,
+   "start": 619.62,
+   "end": 623.3,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Okay, let me just clarify what has happened: THAT asshole—"
+  },
+  {
+   "i": 231,
+   "start": 623.3,
+   "end": 624.1,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Name's Goku!"
+  },
+  {
+   "i": 232,
+   "start": 624.1,
+   "end": 633.28,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "—literally kidnapped me from across the entire galaxy, with neither my knowledge or consent, just so you could make me mystic you up a new set of Dragon Balls!"
+  },
+  {
+   "i": 233,
+   "start": 633.54,
+   "end": 636.5,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Because you are all a cavalcade of f***-ups."
+  },
+  {
+   "i": 234,
+   "start": 637.06,
+   "end": 638.7,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Did I miss anything?"
+  },
+  {
+   "i": 235,
+   "start": 639.2,
+   "end": 640.5,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Well, we missed you."
+  },
+  {
+   "i": 236,
+   "start": 640.5,
+   "end": 642.4,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Good. No, great, that's great!"
+  },
+  {
+   "i": 237,
+   "start": 642.4,
+   "end": 645.4,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "And what do I get out of this? Going to make me your king?"
+  },
+  {
+   "i": 238,
+   "start": 645.4,
+   "end": 647.3,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Well, can't do that; King's a dog."
+  },
+  {
+   "i": 239,
+   "start": 647.3,
+   "end": 648.62,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "But we can make you God, though!"
+  },
+  {
+   "i": 240,
+   "start": 648.86,
+   "end": 649.9,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "The f***'s a god?"
+  },
+  {
+   "i": 241,
+   "start": 649.9,
+   "end": 651.5,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "I mean, what the f***'s a dog?!"
+  },
+  {
+   "i": 242,
+   "start": 651.5,
+   "end": 652.8,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "I mean, what the f***?!"
+  },
+  {
+   "i": 243,
+   "start": 652.8,
+   "end": 657.54,
+   "kind": "dialog",
+   "speaker": "Popo",
+   "text": "As the creator of the Dragon Balls, you shall assume the throne of Kami, Guardian of this planet."
+  },
+  {
+   "i": 244,
+   "start": 657.8,
+   "end": 660.88,
+   "kind": "dialog",
+   "speaker": "Popo",
+   "text": "Nobody is thankful, there are no days off, and no one ever visits."
+  },
+  {
+   "i": 245,
+   "start": 660.88,
+   "end": 662.52,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Ugh, sounds like being a parent..."
+  },
+  {
+   "i": 246,
+   "start": 662.76,
+   "end": 666.9,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Fine. I graciously accept the position of your almighty God."
+  },
+  {
+   "i": 247,
+   "start": 666.9,
+   "end": 668.18,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "So then you'll help us?"
+  },
+  {
+   "i": 248,
+   "start": 668.18,
+   "end": 671.0,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "No, bowlcut! I'm going to help Gohan."
+  },
+  {
+   "i": 249,
+   "start": 671.2,
+   "end": 674.4,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Speaking of whom... lovin' the new 'do, Gohan."
+  },
+  {
+   "i": 250,
+   "start": 674.4,
+   "end": 675.76,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Rockin' that blond."
+  },
+  {
+   "i": 251,
+   "start": 675.76,
+   "end": 677.52,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Oh! Uh... thanks!"
+  },
+  {
+   "i": 252,
+   "start": 677.78,
+   "end": 679.44,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Super Saiyan style, you know?"
+  },
+  {
+   "i": 253,
+   "start": 679.44,
+   "end": 681.2,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "De-hee-lightful."
+  },
+  {
+   "i": 254,
+   "start": 681.2,
+   "end": 684.04,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "And, uh, have you been hitting the gym? 'Cause, uh..."
+  },
+  {
+   "i": 255,
+   "start": 684.4,
+   "end": 685.0,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "(Whistle)"
+  },
+  {
+   "i": 256,
+   "start": 685.0,
+   "end": 685.6,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Ow!"
+  },
+  {
+   "i": 257,
+   "start": 685.0,
+   "end": 685.6,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "(Whistle)"
+  },
+  {
+   "i": 258,
+   "start": 685.6,
+   "end": 687.1,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "That hurt me more than it hurt you."
+  },
+  {
+   "i": 259,
+   "start": 687.1,
+   "end": 691.14,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Okay, I'm all for awkward reunions, but we are on a timetable here."
+  },
+  {
+   "i": 260,
+   "start": 691.14,
+   "end": 693.1,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "How long will it take to make a new Dragon?"
+  },
+  {
+   "i": 261,
+   "start": 693.1,
+   "end": 695.44,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Uh, depends. Do you have the original sculpture around?"
+  },
+  {
+   "i": 262,
+   "start": 695.62,
+   "end": 698.0,
+   "kind": "dialog",
+   "speaker": "Popo",
+   "text": "Here it is. We were using it as a paperweight."
+  },
+  {
+   "i": 263,
+   "start": 698.08,
+   "end": 700.76,
+   "kind": "dialog",
+   "speaker": "Popo",
+   "text": "Which reminds me: We'll need to go over the contract later."
+  },
+  {
+   "i": 264,
+   "start": 700.76,
+   "end": 702.3,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Wow, that's your Dragon?"
+  },
+  {
+   "i": 265,
+   "start": 702.3,
+   "end": 705.18,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Our Dragon would literally wear him like a scarf."
+  },
+  {
+   "i": 266,
+   "start": 705.38,
+   "end": 708.74,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Okay, before I get started: Any alterations?"
+  },
+  {
+   "i": 267,
+   "start": 708.84,
+   "end": 710.0,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Can we get three wishes?"
+  },
+  {
+   "i": 268,
+   "start": 710.0,
+   "end": 711.46,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Not if you want multi-res."
+  },
+  {
+   "i": 269,
+   "start": 711.6,
+   "end": 712.96,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "I can give you two, though."
+  },
+  {
+   "i": 270,
+   "start": 713.1,
+   "end": 714.98,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Seems like an... awkward number."
+  },
+  {
+   "i": 271,
+   "start": 714.98,
+   "end": 718.76,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "It's a magical wish-granting dragon, Nail! I don't make the rules!"
+  },
+  {
+   "i": 272,
+   "start": 719.12,
+   "end": 721.08,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Now... let us begin."
+  },
+  {
+   "i": 273,
+   "start": 721.38,
+   "end": 725.6,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Man, all this lore we're learning today, and we even get to see a new Dragon being made!"
+  },
+  {
+   "i": 274,
+   "start": 725.6,
+   "end": 726.6,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "This is going to be awes—"
+  },
+  {
+   "i": 275,
+   "start": 726.6,
+   "end": 728.48,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "HEY, DRAGON, WAKE THE F*** UP!"
+  },
+  {
+   "i": 276,
+   "start": 728.72,
+   "end": 731.8,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "IT'S ALREADY PAST NOON! GET YOUR *LIFE* TOGETHER!"
+  },
+  {
+   "i": 277,
+   "start": 745.9,
+   "end": 748.82,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "By the way, two wishes means I had to nix immortality."
+  },
+  {
+   "i": 278,
+   "start": 749.0,
+   "end": 751.7,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Better that way—nobody pulling any more of that Freeza *shit*."
+  },
+  {
+   "i": 279,
+   "start": 751.98,
+   "end": 754.4,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Huh. I wonder if that'll upset Vegeta."
+  },
+  {
+   "i": 280,
+   "start": 755.0,
+   "end": 758.2,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Wait... did you say he's still in the Chamber?"
+  },
+  {
+   "i": 281,
+   "start": 758.38,
+   "end": 759.3,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Yeah; why?"
+  },
+  {
+   "i": 282,
+   "start": 759.3,
+   "end": 761.2,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "It's been three days!"
+  },
+  {
+   "i": 283,
+   "start": 761.2,
+   "end": 763.64,
+   "kind": "dialog",
+   "speaker": "Popo",
+   "text": "Oh, I muted the time dilation in the Chamber."
+  },
+  {
+   "i": 284,
+   "start": 763.88,
+   "end": 765.86,
+   "kind": "dialog",
+   "speaker": "Popo",
+   "text": "One day out here is now one day in there."
+  },
+  {
+   "i": 285,
+   "start": 765.98,
+   "end": 767.04,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "You can do that?!"
+  },
+  {
+   "i": 286,
+   "start": 767.3,
+   "end": 768.7,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Why did you do that?!"
+  },
+  {
+   "i": 287,
+   "start": 768.7,
+   "end": 769.8,
+   "kind": "dialog",
+   "speaker": "Popo",
+   "text": "Because f*** 'im."
+  },
+  {
+   "i": 288,
+   "start": 769.8,
+   "end": 772.0,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "You really like screwin' with people, don't cha?"
+  },
+  {
+   "i": 289,
+   "start": 772.0,
+   "end": 772.7,
+   "kind": "dialog",
+   "speaker": "Popo",
+   "text": "Mm."
+  },
+  {
+   "i": 290,
+   "start": 772.7,
+   "end": 774.96,
+   "kind": "dialog",
+   "speaker": "Popo",
+   "text": "Of course, his first mistake was going in alone."
+  },
+  {
+   "i": 291,
+   "start": 775.28,
+   "end": 777.14,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Why? Is that... bad?"
+  },
+  {
+   "i": 292,
+   "start": 778.6,
+   "end": 779.9,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "They called me crazy..."
+  },
+  {
+   "i": 293,
+   "start": 779.9,
+   "end": 783.9,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "THEY ALL CALLED ME CRAZY for letting him achieve his perfect form!"
+  },
+  {
+   "i": 294,
+   "start": 783.9,
+   "end": 785.0,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Well, guess what?"
+  },
+  {
+   "i": 295,
+   "start": 785.0,
+   "end": 786.26,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I'm going to get out of here!"
+  },
+  {
+   "i": 296,
+   "start": 786.26,
+   "end": 788.2,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I'M GOING TO BE SO MUCH STRONGER!"
+  },
+  {
+   "i": 297,
+   "start": 788.2,
+   "end": 792.0,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "*NO ONE WILL BE ABLE TO STOP ME*!! ESPECIALLY CELL!"
+  },
+  {
+   "i": 298,
+   "start": 792.0,
+   "end": 792.88,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "RIGHT, NAPPA?!"
+  },
+  {
+   "i": 299,
+   "start": 794.1,
+   "end": 794.8,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Clunk"
+  },
+  {
+   "i": 300,
+   "start": 796.2,
+   "end": 796.88,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "How..."
+  },
+  {
+   "i": 301,
+   "start": 797.2,
+   "end": 798.9,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "HOW DARE YOU!?!"
+  },
+  {
+   "i": 302,
+   "start": 798.9,
+   "end": 800.72,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "*RAAAAAAAAAAAAAAAAAAAGHH—*!!!"
+  },
+  {
+   "i": 303,
+   "start": 802.6,
+   "end": 803.3,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Showed him."
+  },
+  {
+   "i": 304,
+   "start": 804.0,
+   "end": 808.58,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "So after everything, he just starts *crying*!"
+  },
+  {
+   "i": 305,
+   "start": 808.78,
+   "end": 811.1,
+   "kind": "dialog",
+   "speaker": "Journalist",
+   "text": "Wow... like a *bitch*!"
+  },
+  {
+   "i": 306,
+   "start": 811.1,
+   "end": 813.46,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "And that's what Freeza said!"
+  },
+  {
+   "i": 307,
+   "start": 813.7,
+   "end": 814.76,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "...Before he killed him."
+  },
+  {
+   "i": 308,
+   "start": 814.96,
+   "end": 818.2,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "But, sadly, Vegeta does come back."
+  },
+  {
+   "i": 309,
+   "start": 818.2,
+   "end": 819.18,
+   "kind": "dialog",
+   "speaker": "Journalist",
+   "text": "Dragon Balls, right."
+  },
+  {
+   "i": 310,
+   "start": 819.38,
+   "end": 821.2,
+   "kind": "dialog",
+   "speaker": "Journalist",
+   "text": "By the way, does the fat green one come back?"
+  },
+  {
+   "i": 311,
+   "start": 821.34,
+   "end": 822.0,
+   "kind": "dialog",
+   "speaker": "Journalist",
+   "text": "'Cause he's funny."
+  },
+  {
+   "i": 312,
+   "start": 822.0,
+   "end": 823.3,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "(Scoffs) I wish!"
+  },
+  {
+   "i": 313,
+   "start": 824.1,
+   "end": 825.0,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hey, Chi-Chi?"
+  },
+  {
+   "i": 314,
+   "start": 825.6,
+   "end": 827.7,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Please don't be upset, but—"
+  },
+  {
+   "i": 315,
+   "start": 827.7,
+   "end": 829.2,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "What is it, sweetheart?"
+  },
+  {
+   "i": 316,
+   "start": 829.2,
+   "end": 830.5,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I'm throwing in the towel."
+  },
+  {
+   "i": 317,
+   "start": 830.7,
+   "end": 832.1,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I am *tapped*."
+  },
+  {
+   "i": 318,
+   "start": 832.3,
+   "end": 834.16,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Like, boned dry."
+  },
+  {
+   "i": 319,
+   "start": 834.4,
+   "end": 839.6,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "You know in those cartoons where the guy in the desert finds a faucet, and it just comes out like..."
+  },
+  {
+   "i": 320,
+   "start": 839.6,
+   "end": 840.9,
+   "kind": "direction",
+   "speaker": null,
+   "text": "puff!"
+  },
+  {
+   "i": 321,
+   "start": 840.9,
+   "end": 841.88,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "*That* is me."
+  },
+  {
+   "i": 322,
+   "start": 842.4,
+   "end": 843.88,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "That is my balls."
+  },
+  {
+   "i": 323,
+   "start": 844.24,
+   "end": 847.3,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "And speaking of balls, I need to go find a dragon's."
+  },
+  {
+   "i": 324,
+   "start": 847.46,
+   "end": 850.2,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Oh, Goku darling, that's fine!"
+  },
+  {
+   "i": 325,
+   "start": 850.2,
+   "end": 851.64,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "I took a test this morning."
+  },
+  {
+   "i": 326,
+   "start": 851.84,
+   "end": 853.52,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "I'm already pregnant!"
+  },
+  {
+   "i": 327,
+   "start": 853.52,
+   "end": 855.44,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "...HOW?!"
+  },
+  {
+   "i": 328,
+   "start": 855.96,
+   "end": 859.7,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "And so I told him, \"Pull your pants up, man,\" \"I'm not that kind of doctor!\""
+  },
+  {
+   "i": 329,
+   "start": 859.7,
+   "end": 860.2,
+   "kind": "direction",
+   "speaker": null,
+   "text": "pop!"
+  },
+  {
+   "i": 330,
+   "start": 859.7,
+   "end": 862.1,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Bulma! Sex makes babies!"
+  },
+  {
+   "i": 331,
+   "start": 862.1,
+   "end": 863.1,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Baby Trunks acts adorably"
+  },
+  {
+   "i": 332,
+   "start": 863.5,
+   "end": 864.76,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "...I'm well aware."
+  },
+  {
+   "i": 333,
+   "start": 864.76,
+   "end": 866.5,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Also, I need the Dragon Radar."
+  },
+  {
+   "i": 334,
+   "start": 866.5,
+   "end": 868.0,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Tool cabinet in the back, third drawer."
+  },
+  {
+   "i": 335,
+   "start": 868.8,
+   "end": 869.7,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Awesome!"
+  },
+  {
+   "i": 336,
+   "start": 869.7,
+   "end": 871.8,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Bee-tee-dubs, we have Dragon Balls again."
+  },
+  {
+   "i": 337,
+   "start": 871.8,
+   "end": 872.3,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Bye!"
+  },
+  {
+   "i": 338,
+   "start": 872.3,
+   "end": 874.3,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Wait, we didn't have Dragon Balls?"
+  },
+  {
+   "i": 339,
+   "start": 873.8,
+   "end": 874.3,
+   "kind": "direction",
+   "speaker": null,
+   "text": "pop!"
+  },
+  {
+   "i": 340,
+   "start": 876.1,
+   "end": 877.56,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "BZZZ"
+  },
+  {
+   "i": 341,
+   "start": 877.56,
+   "end": 878.06,
+   "kind": "direction",
+   "speaker": null,
+   "text": "pop!"
+  },
+  {
+   "i": 342,
+   "start": 877.56,
+   "end": 879.0,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh, and Chi-Chi's pregnant."
+  },
+  {
+   "i": 343,
+   "start": 879.0,
+   "end": 881.4,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Oh my God, congratulations!"
+  },
+  {
+   "i": 344,
+   "start": 881.7,
+   "end": 890.0,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Okay, so Article Five says that atrocities can *and will* be committed in your name... but you can't do anything about it."
+  },
+  {
+   "i": 345,
+   "start": 890.0,
+   "end": 892.28,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Awesome. But, question:"
+  },
+  {
+   "i": 346,
+   "start": 892.28,
+   "end": 894.46,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Do I have to answer all of these prayers?"
+  },
+  {
+   "i": 347,
+   "start": 894.46,
+   "end": 897.0,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Well, technically, you don't have to answer any of them."
+  },
+  {
+   "i": 348,
+   "start": 897.0,
+   "end": 898.24,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Oh, thank God!"
+  },
+  {
+   "i": 349,
+   "start": 898.48,
+   "end": 901.4,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Or I guess I should start saying... me."
+  },
+  {
+   "i": 350,
+   "start": 901.4,
+   "end": 903.1,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "That does raise the question..."
+  },
+  {
+   "i": 351,
+   "start": 903.52,
+   "end": 907.1,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Which do you prefer: \"Kami\", \"God\", or \"Dende\"?"
+  },
+  {
+   "i": 352,
+   "start": 907.1,
+   "end": 910.62,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Oh Gohan, you can call me whatever you like."
+  },
+  {
+   "i": 353,
+   "start": 910.7,
+   "end": 912.7,
+   "kind": "dialog",
+   "speaker": "Popo",
+   "text": "Well, I'm going to call you Little Green."
+  },
+  {
+   "i": 354,
+   "start": 912.78,
+   "end": 913.8,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Your funeral."
+  },
+  {
+   "i": 355,
+   "start": 914.32,
+   "end": 915.4,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Mr. Popo literally cracks a smile"
+  },
+  {
+   "i": 356,
+   "start": 915.8,
+   "end": 916.8,
+   "kind": "dialog",
+   "speaker": "Popo",
+   "text": "*I like you*."
+  },
+  {
+   "i": 357,
+   "start": 917.0,
+   "end": 918.58,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Don't feel bad, Mr. Popo."
+  },
+  {
+   "i": 358,
+   "start": 918.58,
+   "end": 922.6,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I'm his best friend, so that means only *I* can call him Little Green, right, Little Gree—"
+  },
+  {
+   "i": 359,
+   "start": 922.6,
+   "end": 923.1,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "OOF!"
+  },
+  {
+   "i": 360,
+   "start": 923.1,
+   "end": 924.38,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "You will call me Dende!"
+  },
+  {
+   "i": 361,
+   "start": 924.58,
+   "end": 925.16,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "DENDE!"
+  },
+  {
+   "i": 362,
+   "start": 925.56,
+   "end": 926.14,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "SAY IT!"
+  },
+  {
+   "i": 363,
+   "start": 926.52,
+   "end": 927.9,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Say my name!"
+  },
+  {
+   "i": 364,
+   "start": 927.9,
+   "end": 929.34,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Dende! DENDE!"
+  },
+  {
+   "i": 365,
+   "start": 929.34,
+   "end": 930.3,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "No..."
+  },
+  {
+   "i": 366,
+   "start": 931.4,
+   "end": 933.5,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "*Super Kami Dende*."
+  },
+  {
+   "i": 367,
+   "start": 939.0,
+   "end": 948.8,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "So after I finished humiliating the entire Saiyan royal bloodline, I made my newsroom debut, delivered my immaculate address, and now... here we are."
+  },
+  {
+   "i": 368,
+   "start": 949.1,
+   "end": 950.3,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Any more questions?"
+  },
+  {
+   "i": 369,
+   "start": 950.3,
+   "end": 951.18,
+   "kind": "dialog",
+   "speaker": "Journalist",
+   "text": "Yeah, um..."
+  },
+  {
+   "i": 370,
+   "start": 951.4,
+   "end": 955.3,
+   "kind": "dialog",
+   "speaker": "Journalist",
+   "text": "Were the parts about fake Namek and that Maron girl really necessary to the story?"
+  },
+  {
+   "i": 371,
+   "start": 955.3,
+   "end": 957.5,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "It's called \"world-building\"."
+  },
+  {
+   "i": 372,
+   "start": 957.5,
+   "end": 958.24,
+   "kind": "dialog",
+   "speaker": "Journalist",
+   "text": "Right..."
+  },
+  {
+   "i": 373,
+   "start": 958.62,
+   "end": 960.06,
+   "kind": "dialog",
+   "speaker": "Journalist",
+   "text": "Um, last question:"
+  },
+  {
+   "i": 374,
+   "start": 960.3,
+   "end": 962.72,
+   "kind": "dialog",
+   "speaker": "Journalist",
+   "text": "*How* did you know about the parts you weren't there for?"
+  },
+  {
+   "i": 375,
+   "start": 962.92,
+   "end": 966.4,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Ah, that's a story for another time, I'm afraid."
+  },
+  {
+   "i": 376,
+   "start": 966.4,
+   "end": 969.06,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "But for now, I must bid you adieu."
+  },
+  {
+   "i": 377,
+   "start": 969.3,
+   "end": 970.0,
+   "kind": "dialog",
+   "speaker": "Journalist",
+   "text": "Oh."
+  },
+  {
+   "i": 378,
+   "start": 970.0,
+   "end": 971.7,
+   "kind": "dialog",
+   "speaker": "Journalist",
+   "text": "Well, thank you for your time, Perfect Cell."
+  },
+  {
+   "i": 379,
+   "start": 973.2,
+   "end": 973.7,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Energy blast"
+  },
+  {
+   "i": 380,
+   "start": 973.2,
+   "end": 975.4,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Screams of indescribable anguish"
+  },
+  {
+   "i": 381,
+   "start": 975.6,
+   "end": 978.3,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "MISTER... Perfect Cell."
+  }
+ ],
+ "segments": [
+  {
+   "start": 78.9,
+   "end": 114.08,
+   "title": "It's a Challenge, Krillin",
+   "quote": "You... know you can say \"no\", right? / But it's a *challenge*, Krillin! ... Also, it feels really good! Have you ever tried it? / Like... with a real person?",
+   "line_start": 14,
+   "line_end": 28
+  },
+  {
+   "start": 176.9,
+   "end": 215.68,
+   "title": "Mr. Satan's Hot Asian Wife",
+   "quote": "So after I eat my Jimmy John's, and drink my HETAP, AND F*** MY HOT ASIAN WIFE...! I'm gonna squash you like the bug... you... are.",
+   "line_start": 49,
+   "line_end": 59
+  },
+  {
+   "start": 215.6,
+   "end": 224.5,
+   "title": "HAIL SATAN!",
+   "quote": "So... do they know what's going on with his name, or— / HAIL SATAN! HAIL SATAN! / ...Okay, yeah, they know.",
+   "line_start": 60,
+   "line_end": 62
+  },
+  {
+   "start": 249.6,
+   "end": 266.76,
+   "title": "MISTER Perfect Cell",
+   "quote": "Call me \"Perfect Cell\". / Uh... okay. Perfect Cell— / MISTER Perfect Cell!",
+   "line_start": 74,
+   "line_end": 81
+  },
+  {
+   "start": 299.0,
+   "end": 317.52,
+   "title": "GO for TEN!",
+   "quote": "Chi-Chi keeps trying to break my record of nine times. \"Go for ten,\" she yells... \"GO for TEN!\" / I feel like a man dying of thirst watching another man drown.",
+   "line_start": 92,
+   "line_end": 97
+  },
+  {
+   "start": 360.7,
+   "end": 395.6,
+   "title": "Piccolo Makes Small Talk",
+   "quote": "So... uh... do you hate your dad? ... Heh... but you know dads, right? / Goku killed mine.",
+   "line_start": 113,
+   "line_end": 132
+  },
+  {
+   "start": 573.9,
+   "end": 601.4,
+   "title": "Sorry About This, Dad",
+   "quote": "Just wanted you to know that I... miss you, Dad. ... Got to run. Love you. Good luck with your cybor— / ...*Jesus*!",
+   "line_start": 202,
+   "line_end": 221
+  },
+  {
+   "start": 642.0,
+   "end": 666.9,
+   "title": "The F***'s a God?",
+   "quote": "The f***'s a god? I mean, what the f***'s a dog?! I mean, what the f***?!",
+   "line_start": 237,
+   "line_end": 246
+  },
+  {
+   "start": 720.9,
+   "end": 731.8,
+   "title": "HEY DRAGON, WAKE THE F*** UP!",
+   "quote": "HEY, DRAGON, WAKE THE F*** UP! IT'S ALREADY PAST NOON! GET YOUR *LIFE* TOGETHER!",
+   "line_start": 273,
+   "line_end": 276
+  },
+  {
+   "start": 772.4,
+   "end": 803.3,
+   "title": "RIGHT, NAPPA?!",
+   "quote": "NO ONE WILL BE ABLE TO STOP ME!! ESPECIALLY CELL! RIGHT, NAPPA?! ... Showed him.",
+   "line_start": 290,
+   "line_end": 303
+  },
+  {
+   "start": 855.6,
+   "end": 881.4,
+   "title": "Bulma! Sex Makes Babies!",
+   "quote": "Bulma! Sex makes babies! / ...I'm well aware. ... Bee-tee-dubs, we have Dragon Balls again. Bye!",
+   "line_start": 328,
+   "line_end": 343
+  },
+  {
+   "start": 916.6,
+   "end": 933.5,
+   "title": "Super Kami Dende",
+   "quote": "You will call me Dende! DENDE! SAY IT! Say my name! / Dende! DENDE! / No... *Super Kami Dende*.",
+   "line_start": 357,
+   "line_end": 366
+  }
+ ]
+}

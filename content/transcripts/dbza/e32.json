@@ -1,0 +1,1563 @@
+{
+ "item": "e32",
+ "show": "dbza",
+ "youtube": "OGWPDHrUWko",
+ "title": "Episode 30 Part 1",
+ "duration": 579,
+ "lines": [
+  {
+   "i": 0,
+   "start": 13.34,
+   "end": 16.26,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "Last time on Dragon Ball Z Abridged..."
+  },
+  {
+   "i": 1,
+   "start": 16.26,
+   "end": 18.2,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "WAH! WAH! WA--!"
+  },
+  {
+   "i": 2,
+   "start": 24.0,
+   "end": 30.3,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Oh, out of *all* the people I've blown to bits, that one will hold a special place in my heart."
+  },
+  {
+   "i": 3,
+   "start": 30.84,
+   "end": 32.3,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(Shakes/grunts in anger)"
+  },
+  {
+   "i": 4,
+   "start": 32.72,
+   "end": 36.34,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Oh, what's wrong, monkey? Come on now, give me something funny."
+  },
+  {
+   "i": 5,
+   "start": 36.74,
+   "end": 39.62,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "You... killed my best friend...!"
+  },
+  {
+   "i": 6,
+   "start": 40.58,
+   "end": 43.92,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Ha! That is pretty funny. Hilarious, actually."
+  },
+  {
+   "i": 7,
+   "start": 59.88,
+   "end": 62.78,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "RRAAAAAAAAAGGGHHHHHHHH!!"
+  },
+  {
+   "i": 8,
+   "start": 63.42,
+   "end": 64.04,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "What?!"
+  },
+  {
+   "i": 9,
+   "start": 64.04,
+   "end": 64.6,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Dad?"
+  },
+  {
+   "i": 10,
+   "start": 68.18,
+   "end": 68.68,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "HM!"
+  },
+  {
+   "i": 11,
+   "start": 70.8,
+   "end": 73.4,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "That's... that's not funny."
+  },
+  {
+   "i": 12,
+   "start": 73.8,
+   "end": 74.46,
+   "kind": "direction",
+   "speaker": null,
+   "text": "High pitch signal"
+  },
+  {
+   "i": 13,
+   "start": 74.46,
+   "end": 81.4,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "I don't believe it! Goku has truly done it. He has become... the one and only Super Saiyan™!"
+  },
+  {
+   "i": 14,
+   "start": 83.7,
+   "end": 84.38,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "...Right?"
+  },
+  {
+   "i": 15,
+   "start": 85.04,
+   "end": 86.88,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "Y...yeah..."
+  },
+  {
+   "i": 16,
+   "start": 87.52,
+   "end": 89.52,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "You hesitated there for a second."
+  },
+  {
+   "i": 17,
+   "start": 91.42,
+   "end": 91.98,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "...What?"
+  },
+  {
+   "i": 18,
+   "start": 95.62,
+   "end": 97.34,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "What the hell is all this about?"
+  },
+  {
+   "i": 19,
+   "start": 97.34,
+   "end": 99.64,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "What's up with your hair? What's up with your eyes?"
+  },
+  {
+   "i": 20,
+   "start": 99.9,
+   "end": 100.8,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Answer me!"
+  },
+  {
+   "i": 21,
+   "start": 100.8,
+   "end": 101.84,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Gohan..."
+  },
+  {
+   "i": 22,
+   "start": 101.84,
+   "end": 104.74,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Take Piccolo, find Bulma, get back to the ship."
+  },
+  {
+   "i": 23,
+   "start": 104.74,
+   "end": 106.08,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "But what about you?"
+  },
+  {
+   "i": 24,
+   "start": 106.08,
+   "end": 111.6,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "If Piccolo dies, then all this was pointless! Take him, get to the ship, and get out of here!"
+  },
+  {
+   "i": 25,
+   "start": 111.6,
+   "end": 113.38,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "This is surprisingly well-thought-out for you."
+  },
+  {
+   "i": 26,
+   "start": 113.38,
+   "end": 115.38,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Gohan, where should you be right now?"
+  },
+  {
+   "i": 27,
+   "start": 115.38,
+   "end": 116.06,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "The ship?"
+  },
+  {
+   "i": 28,
+   "start": 116.06,
+   "end": 116.78,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "*The SHIP*!"
+  },
+  {
+   "i": 29,
+   "start": 116.78,
+   "end": 117.28,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "OK!"
+  },
+  {
+   "i": 30,
+   "start": 120.34,
+   "end": 125.48,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Oh-ho, real cute. But at the very least, I do love a moving target."
+  },
+  {
+   "i": 31,
+   "start": 125.48,
+   "end": 125.98,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hurrh!"
+  },
+  {
+   "i": 32,
+   "start": 126.34,
+   "end": 129.36,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Gah! What are you--... let go of me!"
+  },
+  {
+   "i": 33,
+   "start": 129.36,
+   "end": 131.3,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I'm going to *break* you..."
+  },
+  {
+   "i": 34,
+   "start": 131.3,
+   "end": 131.86,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "What?"
+  },
+  {
+   "i": 35,
+   "start": 131.86,
+   "end": 132.66,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "CRUNCH"
+  },
+  {
+   "i": 36,
+   "start": 131.86,
+   "end": 132.66,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "AAH!"
+  },
+  {
+   "i": 37,
+   "start": 132.66,
+   "end": 134.66,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "...like a Kit-Kat™ bar."
+  },
+  {
+   "i": 38,
+   "start": 136.04,
+   "end": 136.7,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "...*What*?"
+  },
+  {
+   "i": 39,
+   "start": 136.7,
+   "end": 137.62,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "D'AAAGH!"
+  },
+  {
+   "i": 40,
+   "start": 138.46,
+   "end": 138.96,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "'*What*?!'"
+  },
+  {
+   "i": 41,
+   "start": 139.42,
+   "end": 141.06,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "CRUNCH"
+  },
+  {
+   "i": 42,
+   "start": 139.42,
+   "end": 141.06,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "GAAAAAH!"
+  },
+  {
+   "i": 43,
+   "start": 148.98,
+   "end": 151.2,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "You... you're different!"
+  },
+  {
+   "i": 44,
+   "start": 151.2,
+   "end": 154.04,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "What happened? What the hell are *you*?"
+  },
+  {
+   "i": 45,
+   "start": 154.66,
+   "end": 158.3,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Can't you tell, Freezer? It's just like Vegeta said."
+  },
+  {
+   "i": 46,
+   "start": 158.3,
+   "end": 160.56,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "No, you f***ing *don't*...!"
+  },
+  {
+   "i": 47,
+   "start": 160.68,
+   "end": 162.86,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I am the hope of the Omniverse!"
+  },
+  {
+   "i": 48,
+   "start": 163.32,
+   "end": 165.52,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I am the lightbulb in the darkness!"
+  },
+  {
+   "i": 49,
+   "start": 165.9,
+   "end": 169.92,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I am the bacon in the fridge for all living things that cry out in hunger!"
+  },
+  {
+   "i": 50,
+   "start": 170.24,
+   "end": 172.64,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I am the Alpha and the Amiga!"
+  },
+  {
+   "i": 51,
+   "start": 173.5,
+   "end": 176.88,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I am the terror that flaps in the night!"
+  },
+  {
+   "i": 52,
+   "start": 177.42,
+   "end": 180.42,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I... AM SON GOKU!"
+  },
+  {
+   "i": 53,
+   "start": 180.42,
+   "end": 182.16,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "AND I AM A SUPER--!"
+  },
+  {
+   "i": 54,
+   "start": 182.16,
+   "end": 182.68,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "BING"
+  },
+  {
+   "i": 55,
+   "start": 183.28,
+   "end": 184.88,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Hurrrurrrgh...!"
+  },
+  {
+   "i": 56,
+   "start": 188.06,
+   "end": 188.8,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "...Saiyan."
+  },
+  {
+   "i": 57,
+   "start": 188.8,
+   "end": 190.42,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "HurrriURRRRGH!"
+  },
+  {
+   "i": 58,
+   "start": 191.54,
+   "end": 194.46,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "(Gasping in disbelief)"
+  },
+  {
+   "i": 59,
+   "start": 194.46,
+   "end": 197.04,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "King Kai! What's going on on Namek right now?"
+  },
+  {
+   "i": 60,
+   "start": 197.04,
+   "end": 200.4,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "You know you could always just grab my shoulder and watch."
+  },
+  {
+   "i": 61,
+   "start": 200.4,
+   "end": 203.28,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Yeah, but, you kinda... smell..."
+  },
+  {
+   "i": 62,
+   "start": 203.28,
+   "end": 205.28,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "That's just my natural musk."
+  },
+  {
+   "i": 63,
+   "start": 206.1,
+   "end": 207.34,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Mmmmusk..."
+  },
+  {
+   "i": 64,
+   "start": 208.46,
+   "end": 210.04,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Mmmmmmmusk..."
+  },
+  {
+   "i": 65,
+   "start": 210.04,
+   "end": 211.16,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Stop saying \"musk\"."
+  },
+  {
+   "i": 66,
+   "start": 211.16,
+   "end": 212.38,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Stop eating my food!"
+  },
+  {
+   "i": 67,
+   "start": 212.38,
+   "end": 213.78,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "King Kai, do you hear me?"
+  },
+  {
+   "i": 68,
+   "start": 213.78,
+   "end": 216.54,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Oh, hey Kami. How's everything coming along?"
+  },
+  {
+   "i": 69,
+   "start": 216.54,
+   "end": 220.34,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Well, I've sent off Mr. Popo to collect the Dragon Balls like you asked."
+  },
+  {
+   "i": 70,
+   "start": 220.34,
+   "end": 223.0,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Good. The whole plan is coming together."
+  },
+  {
+   "i": 71,
+   "start": 223.0,
+   "end": 224.78,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Hey, I don't think you ever told us your plan."
+  },
+  {
+   "i": 72,
+   "start": 224.78,
+   "end": 227.84,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "I don't have to tell you everything! I don't have to tell you anything!"
+  },
+  {
+   "i": 73,
+   "start": 227.84,
+   "end": 230.36,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "And that just about sums up our time spent here."
+  },
+  {
+   "i": 74,
+   "start": 230.36,
+   "end": 231.48,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Ha ha..."
+  },
+  {
+   "i": 75,
+   "start": 236.16,
+   "end": 237.92,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Huh? It's the ship!"
+  },
+  {
+   "i": 76,
+   "start": 240.18,
+   "end": 242.58,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "See, Mr. Piccolo - we're halfway home!"
+  },
+  {
+   "i": 77,
+   "start": 243.08,
+   "end": 247.44,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "I mean, not literally, but... just don't bleed out, okay?"
+  },
+  {
+   "i": 78,
+   "start": 247.6,
+   "end": 249.42,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "'God, so many buttons...!'"
+  },
+  {
+   "i": 79,
+   "start": 249.76,
+   "end": 254.16,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "'I forgot, I don't know how to fly the ship! I could have sworn somebody did that for--'"
+  },
+  {
+   "i": 80,
+   "start": 254.16,
+   "end": 255.6,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Oh my God, Bulma!"
+  },
+  {
+   "i": 81,
+   "start": 256.38,
+   "end": 257.56,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Help?"
+  },
+  {
+   "i": 82,
+   "start": 260.02,
+   "end": 261.58,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "...Somebody?"
+  },
+  {
+   "i": 83,
+   "start": 264.22,
+   "end": 268.28,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "I have to admit, this is new, monkey! This is definitely new!"
+  },
+  {
+   "i": 84,
+   "start": 268.28,
+   "end": 273.12,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "But a monkey is still a monkey, and I've killed plenty in my day."
+  },
+  {
+   "i": 85,
+   "start": 273.42,
+   "end": 277.24,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "*Millions*. Literally, *millions*."
+  },
+  {
+   "i": 86,
+   "start": 277.98,
+   "end": 282.88,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "What's the matter, run out of quips? Cat got your tongue?! No more words to fail?!"
+  },
+  {
+   "i": 87,
+   "start": 283.78,
+   "end": 289.96,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "You think now that you're this, so-called \"Super Saiyan\", that you're *better* than me, *Lord Freeza*?!"
+  },
+  {
+   "i": 88,
+   "start": 290.84,
+   "end": 291.96,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Well, you're NOT!"
+  },
+  {
+   "i": 89,
+   "start": 291.96,
+   "end": 298.1,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "I own you! I own your planet! I own THIS planet! In fact..."
+  },
+  {
+   "i": 90,
+   "start": 298.1,
+   "end": 299.66,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "F*** THIS PLANET!!!"
+  },
+  {
+   "i": 91,
+   "start": 300.06,
+   "end": 301.98,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Wait, I zoned out there for a second. Wha--?"
+  },
+  {
+   "i": 92,
+   "start": 309.64,
+   "end": 313.54,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "No... *no*, *no*, son of a bitch! Daaarrgghh...!"
+  },
+  {
+   "i": 93,
+   "start": 313.54,
+   "end": 314.8,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "What's wrong, King Kai?"
+  },
+  {
+   "i": 94,
+   "start": 314.8,
+   "end": 318.32,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "You dumb assholes are gonna be here forever!"
+  },
+  {
+   "i": 95,
+   "start": 318.32,
+   "end": 320.4,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Tch, yeah, real funny, King Kai."
+  },
+  {
+   "i": 96,
+   "start": 321.64,
+   "end": 322.88,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Oh God, you're serious."
+  },
+  {
+   "i": 97,
+   "start": 322.88,
+   "end": 328.96,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "I had this whole plan ready to go, but, as it turns out, Freeza's a sore loser, and just--"
+  },
+  {
+   "i": 98,
+   "start": 328.96,
+   "end": 331.02,
+   "kind": "dialog",
+   "speaker": "Chiaotzu",
+   "text": "Blew himself up along with his opponent?"
+  },
+  {
+   "i": 99,
+   "start": 332.62,
+   "end": 333.66,
+   "kind": "dialog",
+   "speaker": "Chiaotzu",
+   "text": "What? It's what I do."
+  },
+  {
+   "i": 100,
+   "start": 333.66,
+   "end": 335.8,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Yeah, only this time, it *worked*."
+  },
+  {
+   "i": 101,
+   "start": 335.8,
+   "end": 340.62,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "And now Goku, Gohan, Piccolo... everyone's dead!"
+  },
+  {
+   "i": 102,
+   "start": 340.62,
+   "end": 343.36,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "And I'm stuck with you idiots for the rest of my life!"
+  },
+  {
+   "i": 103,
+   "start": 343.36,
+   "end": 346.76,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Should I call you back when you're done screaming? Or is that just not happening?"
+  },
+  {
+   "i": 104,
+   "start": 346.76,
+   "end": 349.06,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "And then there's *this* c--..."
+  },
+  {
+   "i": 105,
+   "start": 349.06,
+   "end": 350.0,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Kami?"
+  },
+  {
+   "i": 106,
+   "start": 350.0,
+   "end": 354.6,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Yes, I wanted to inform you that Mr. Popo has acquired the sixth Dragon Ball an--"
+  },
+  {
+   "i": 107,
+   "start": 354.6,
+   "end": 355.46,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "You're alive?!"
+  },
+  {
+   "i": 108,
+   "start": 356.0,
+   "end": 359.08,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "So this is what counts for omnipotence these days, hmm?"
+  },
+  {
+   "i": 109,
+   "start": 359.08,
+   "end": 364.66,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "But if you're not dead, then that means Piccolo's not dead, and Namek is still there!"
+  },
+  {
+   "i": 110,
+   "start": 367.98,
+   "end": 369.8,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "D...didya miss?"
+  },
+  {
+   "i": 111,
+   "start": 369.8,
+   "end": 371.2,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "How could I miss?"
+  },
+  {
+   "i": 112,
+   "start": 371.2,
+   "end": 372.5,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I dunno, how didya?"
+  },
+  {
+   "i": 113,
+   "start": 372.5,
+   "end": 377.2,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "I know I hit the core. God, this always happens when I try and perform under stress."
+  },
+  {
+   "i": 114,
+   "start": 377.2,
+   "end": 380.48,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Seems to me like you just couldn't go through with blowing us *both* up."
+  },
+  {
+   "i": 115,
+   "start": 380.48,
+   "end": 384.26,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "That's not the problem, you idiot. I can breathe in space."
+  },
+  {
+   "i": 116,
+   "start": 384.26,
+   "end": 386.46,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(Gasp)... But space is a vac-uum!"
+  },
+  {
+   "i": 117,
+   "start": 386.46,
+   "end": 391.18,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Honestly, I'd say you only have... I don't know... five min--... is it five?"
+  },
+  {
+   "i": 118,
+   "start": 391.18,
+   "end": 392.46,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Y-yes, five!"
+  },
+  {
+   "i": 119,
+   "start": 392.46,
+   "end": 397.26,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Five minutes before this planet explodes, and you perish along with it."
+  },
+  {
+   "i": 120,
+   "start": 397.26,
+   "end": 398.12,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh..."
+  },
+  {
+   "i": 121,
+   "start": 398.46,
+   "end": 400.42,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Well then, I'll just have to kill you in four!"
+  },
+  {
+   "i": 122,
+   "start": 400.42,
+   "end": 403.18,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Wait, hold on! I-I'm only at half my full power."
+  },
+  {
+   "i": 123,
+   "start": 403.18,
+   "end": 405.08,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I don't see how that's my problem..."
+  },
+  {
+   "i": 124,
+   "start": 405.08,
+   "end": 407.98,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "No, listen! If you let me power up..."
+  },
+  {
+   "i": 125,
+   "start": 407.98,
+   "end": 409.86,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "I'll give you a pizza!"
+  },
+  {
+   "i": 126,
+   "start": 409.86,
+   "end": 413.94,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "You killed my best friend, Freezer. That's not gonna work anymore!"
+  },
+  {
+   "i": 127,
+   "start": 413.94,
+   "end": 414.72,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Two pizzas!"
+  },
+  {
+   "i": 128,
+   "start": 414.72,
+   "end": 417.14,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I SAID I'M *DONE*! HAAAAA...!"
+  },
+  {
+   "i": 129,
+   "start": 417.14,
+   "end": 419.14,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "...With stuffed crust."
+  },
+  {
+   "i": 130,
+   "start": 421.78,
+   "end": 423.46,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "*Gokuuuu...!*"
+  },
+  {
+   "i": 131,
+   "start": 423.46,
+   "end": 424.74,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Now, hear me out, King Kai."
+  },
+  {
+   "i": 132,
+   "start": 425.14,
+   "end": 433.14,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "If I let him power up to 100%, and beat him *then*... it'll demoramalize him! And he'll never threaten anyone again!"
+  },
+  {
+   "i": 133,
+   "start": 433.14,
+   "end": 434.34,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Goku, that is retarded!"
+  },
+  {
+   "i": 134,
+   "start": 434.34,
+   "end": 439.46,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "*Stuffed crust*, King Kai! You can eat it in *reverse*!"
+  },
+  {
+   "i": 135,
+   "start": 439.46,
+   "end": 442.0,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "I-I can't even believe we're having this conversation..."
+  },
+  {
+   "i": 136,
+   "start": 442.0,
+   "end": 442.8,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Me either..."
+  },
+  {
+   "i": 137,
+   "start": 442.8,
+   "end": 444.28,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Thanks for waiting, by the way."
+  },
+  {
+   "i": 138,
+   "start": 444.28,
+   "end": 445.92,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hold on one second, King Kai. What was tha--?"
+  },
+  {
+   "i": 139,
+   "start": 446.18,
+   "end": 446.68,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Huhh!"
+  },
+  {
+   "i": 140,
+   "start": 446.68,
+   "end": 448.1,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Smash monkey!"
+  },
+  {
+   "i": 141,
+   "start": 448.1,
+   "end": 450.14,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "SMASH MONKEY!"
+  },
+  {
+   "i": 142,
+   "start": 454.28,
+   "end": 456.7,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Bulmaaa... where are you?"
+  },
+  {
+   "i": 143,
+   "start": 457.14,
+   "end": 461.24,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "(Unearthly eldritch sounds)"
+  },
+  {
+   "i": 144,
+   "start": 461.94,
+   "end": 467.4,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Oh, well how nice of you to finally come and get me... only you left me stranded all on my own to fend for myself!"
+  },
+  {
+   "i": 145,
+   "start": 467.4,
+   "end": 470.86,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Planet's going to hell, I almost die, and I'M FREAKING THE F*** OUT!"
+  },
+  {
+   "i": 146,
+   "start": 470.86,
+   "end": 474.18,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Bulma, how high would you have to fall from to hit terminal velocity?"
+  },
+  {
+   "i": 147,
+   "start": 476.78,
+   "end": 477.72,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "...I thought so."
+  },
+  {
+   "i": 148,
+   "start": 478.3,
+   "end": 479.22,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Huaagh!"
+  },
+  {
+   "i": 149,
+   "start": 479.6,
+   "end": 483.22,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "I just love how easy it is to get away with this s*** with you people!"
+  },
+  {
+   "i": 150,
+   "start": 483.22,
+   "end": 490.42,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "I want to transform, you just sit there and let me. I want to blow the planet up, you just sit there and let me! I want to reach 100% power..."
+  },
+  {
+   "i": 151,
+   "start": 490.42,
+   "end": 493.12,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "*and you just sit right there and let me*!"
+  },
+  {
+   "i": 152,
+   "start": 494.08,
+   "end": 496.1,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Sooo, can I get a Meat Lover's®?"
+  },
+  {
+   "i": 153,
+   "start": 496.1,
+   "end": 496.82,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "OW!"
+  },
+  {
+   "i": 154,
+   "start": 497.18,
+   "end": 499.04,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "And that is my star pupil."
+  },
+  {
+   "i": 155,
+   "start": 499.46,
+   "end": 500.98,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "I don't even know why I bother."
+  },
+  {
+   "i": 156,
+   "start": 500.98,
+   "end": 502.46,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "King Kai, are you there?"
+  },
+  {
+   "i": 157,
+   "start": 502.46,
+   "end": 504.46,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Oh Kami, d'you have an update for me?"
+  },
+  {
+   "i": 158,
+   "start": 504.46,
+   "end": 506.7,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Apparently it's all I'm good for anymore..."
+  },
+  {
+   "i": 159,
+   "start": 506.7,
+   "end": 512.2,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "I wanted to tell you that Mr. Popo has acquired the final Dragon Ball and is ready to summon the Dragon."
+  },
+  {
+   "i": 160,
+   "start": 512.2,
+   "end": 513.84,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Awesome, now let me talk to him."
+  },
+  {
+   "i": 161,
+   "start": 513.84,
+   "end": 515.84,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Heh, if you insist."
+  },
+  {
+   "i": 162,
+   "start": 515.84,
+   "end": 518.28,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Alright, now Mr. Pop-- oaarrggh!"
+  },
+  {
+   "i": 163,
+   "start": 518.8,
+   "end": 521.22,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "How the hell do you work with this guy??"
+  },
+  {
+   "i": 164,
+   "start": 521.22,
+   "end": 523.0,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "It's easier than you think..."
+  },
+  {
+   "i": 165,
+   "start": 523.22,
+   "end": 526.08,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "I'm so f***ing high right now!"
+  },
+  {
+   "i": 166,
+   "start": 532.84,
+   "end": 537.7,
+   "kind": "dialog",
+   "speaker": "Shenron",
+   "text": "I am the Eternal Dragon. Speak your wish and I sha--"
+  },
+  {
+   "i": 167,
+   "start": 538.3,
+   "end": 543.14,
+   "kind": "dialog",
+   "speaker": "Shenron",
+   "text": "...oh. It is you, my Master. Is it time to lay waste to this world?"
+  },
+  {
+   "i": 168,
+   "start": 543.14,
+   "end": 547.16,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Eh, not yet. Give 'em a couple hundred years. See if they can clean this up."
+  },
+  {
+   "i": 169,
+   "start": 547.16,
+   "end": 550.84,
+   "kind": "dialog",
+   "speaker": "Shenron",
+   "text": "Then how might I be of service, Lord Popo?"
+  },
+  {
+   "i": 170,
+   "start": 550.84,
+   "end": 553.68,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Good question. Kami, the f*** am I doing?"
+  },
+  {
+   "i": 171,
+   "start": 553.68,
+   "end": 556.38,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Good question. King Kai, the f*** is he doing?"
+  },
+  {
+   "i": 172,
+   "start": 556.38,
+   "end": 557.84,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Ow, my head..."
+  },
+  {
+   "i": 173,
+   "start": 557.84,
+   "end": 562.66,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "OK, listen. I want you to bring back everyone Freeza and his men have killed."
+  },
+  {
+   "i": 174,
+   "start": 562.92,
+   "end": 563.7,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Why?"
+  },
+  {
+   "i": 175,
+   "start": 563.7,
+   "end": 565.0,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Are you questioning God?"
+  },
+  {
+   "i": 176,
+   "start": 565.0,
+   "end": 565.8,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Are *you*?"
+  },
+  {
+   "i": 177,
+   "start": 565.8,
+   "end": 567.08,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Not in the mood, Kami!"
+  },
+  {
+   "i": 178,
+   "start": 567.08,
+   "end": 569.52,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Fine, not my problem anyway. Mr. Popo--"
+  },
+  {
+   "i": 179,
+   "start": 569.52,
+   "end": 570.42,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "I heard."
+  },
+  {
+   "i": 180,
+   "start": 570.42,
+   "end": 575.14,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Dragon, bring back all the worthless maggots that were killed by Freeza and his men, or whatever..."
+  },
+  {
+   "i": 181,
+   "start": 575.14,
+   "end": 579.38,
+   "kind": "dialog",
+   "speaker": "Shenron",
+   "text": "As you command, so it shall be."
+  }
+ ],
+ "segments": [
+  {
+   "start": 23.5,
+   "end": 43.92,
+   "title": "That Is Pretty Funny",
+   "quote": "You... killed my best friend...! / Ha! That is pretty funny. Hilarious, actually.",
+   "line_start": 2,
+   "line_end": 6
+  },
+  {
+   "start": 59.5,
+   "end": 91.98,
+   "title": "The One and Only Super Saiyan™",
+   "quote": "He has become... the one and only Super Saiyan™! ...Right? / Y...yeah... / You hesitated there for a second.",
+   "line_start": 7,
+   "line_end": 17
+  },
+  {
+   "start": 120.0,
+   "end": 141.06,
+   "title": "Like a Kit-Kat Bar",
+   "quote": "I'm going to *break* you... ...like a Kit-Kat™ bar.",
+   "line_start": 30,
+   "line_end": 42
+  },
+  {
+   "start": 154.3,
+   "end": 190.42,
+   "title": "The Hope of the Omniverse",
+   "quote": "I am the hope of the Omniverse! ... I... AM SON GOKU! AND I AM A SUPER--! ...Saiyan.",
+   "line_start": 45,
+   "line_end": 57
+  },
+  {
+   "start": 194.0,
+   "end": 212.38,
+   "title": "Natural Musk",
+   "quote": "That's just my natural musk. Mmmmusk... / Stop saying \"musk\".",
+   "line_start": 59,
+   "line_end": 66
+  },
+  {
+   "start": 277.7,
+   "end": 301.98,
+   "title": "F*** THIS PLANET",
+   "quote": "F*** THIS PLANET!!! / Wait, I zoned out there for a second. Wha--?",
+   "line_start": 86,
+   "line_end": 91
+  },
+  {
+   "start": 367.5,
+   "end": 386.46,
+   "title": "I Can Breathe in Space",
+   "quote": "That's not the problem, you idiot. I can breathe in space. / (Gasp)... But space is a vac-uum!",
+   "line_start": 110,
+   "line_end": 116
+  },
+  {
+   "start": 397.0,
+   "end": 419.14,
+   "title": "With Stuffed Crust",
+   "quote": "I'll give you a pizza! / Two pizzas! / I SAID I'M *DONE*! / ...With stuffed crust.",
+   "line_start": 120,
+   "line_end": 129
+  },
+  {
+   "start": 421.5,
+   "end": 450.14,
+   "title": "It'll Demoramalize Him",
+   "quote": "Goku, that is retarded! / *Stuffed crust*, King Kai! You can eat it in *reverse*! / Smash monkey! SMASH MONKEY!",
+   "line_start": 130,
+   "line_end": 141
+  },
+  {
+   "start": 479.3,
+   "end": 496.82,
+   "title": "You Just Sit There and Let Me",
+   "quote": "I want to reach 100% power... *and you just sit right there and let me*! / Sooo, can I get a Meat Lover's®?",
+   "line_start": 149,
+   "line_end": 153
+  },
+  {
+   "start": 515.5,
+   "end": 526.08,
+   "title": "So F***ing High Right Now",
+   "quote": "How the hell do you work with this guy?? / It's easier than you think... / I'm so f***ing high right now!",
+   "line_start": 161,
+   "line_end": 165
+  },
+  {
+   "start": 550.5,
+   "end": 579.38,
+   "title": "Lord Popo's Wish",
+   "quote": "Dragon, bring back all the worthless maggots that were killed by Freeza and his men, or whatever...",
+   "line_start": 170,
+   "line_end": 181
+  }
+ ]
+}

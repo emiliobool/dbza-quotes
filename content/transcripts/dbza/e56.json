@@ -1,0 +1,1483 @@
+{
+ "item": "e56",
+ "show": "dbza",
+ "youtube": "nMfTDFIdRQw",
+ "title": "Episode 50",
+ "duration": 544,
+ "lines": [
+  {
+   "i": 0,
+   "start": 18.26,
+   "end": 20.18,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Aaah!"
+  },
+  {
+   "i": 1,
+   "start": 20.18,
+   "end": 22.18,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Aaaaahh!!"
+  },
+  {
+   "i": 2,
+   "start": 22.92,
+   "end": 25.36,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Aaaaaaahhh!!!"
+  },
+  {
+   "i": 3,
+   "start": 25.36,
+   "end": 28.02,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Aaaaaaaaahhhh!!!!"
+  },
+  {
+   "i": 4,
+   "start": 31.98,
+   "end": 33.06,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Good try, Gohan!"
+  },
+  {
+   "i": 5,
+   "start": 33.22,
+   "end": 35.9,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "But you can't just power up and become a Super Saiyan."
+  },
+  {
+   "i": 6,
+   "start": 36.34,
+   "end": 39.74,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "It comes from pure, raw, emotion."
+  },
+  {
+   "i": 7,
+   "start": 40.12,
+   "end": 42.74,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "You know where *I* was when I became a Super Saiyan?"
+  },
+  {
+   "i": 8,
+   "start": 42.74,
+   "end": 43.62,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Yes, you--"
+  },
+  {
+   "i": 9,
+   "start": 43.62,
+   "end": 48.46,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I was on Namek. I thought I'd finally defeated Freezer with the Spirit Bomb."
+  },
+  {
+   "i": 10,
+   "start": 48.74,
+   "end": 51.68,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "But as it turns out... he was *still alive*!"
+  },
+  {
+   "i": 11,
+   "start": 51.82,
+   "end": 52.68,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Dad, I was ther--"
+  },
+  {
+   "i": 12,
+   "start": 52.68,
+   "end": 55.0,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "He killed Vegeta, and he killed Krillin,"
+  },
+  {
+   "i": 13,
+   "start": 55.0,
+   "end": 56.14,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "I saw everythi--"
+  },
+  {
+   "i": 14,
+   "start": 56.14,
+   "end": 59.26,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Piccolo... tripped or... something..."
+  },
+  {
+   "i": 15,
+   "start": 59.48,
+   "end": 61.08,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "It was pretty bad for everyone."
+  },
+  {
+   "i": 16,
+   "start": 61.3,
+   "end": 64.74,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Then, he threatened to do the same to MY SON!"
+  },
+  {
+   "i": 17,
+   "start": 65.82,
+   "end": 67.44,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh hey, you were there!"
+  },
+  {
+   "i": 18,
+   "start": 68.6,
+   "end": 70.18,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Why didn't you go Super Saiyan?"
+  },
+  {
+   "i": 19,
+   "start": 71.26,
+   "end": 72.12,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "(Sigh)"
+  },
+  {
+   "i": 20,
+   "start": 97.86,
+   "end": 99.98,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "Stop fisting me!"
+  },
+  {
+   "i": 21,
+   "start": 99.98,
+   "end": 100.62,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Okay."
+  },
+  {
+   "i": 22,
+   "start": 101.1,
+   "end": 103.5,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "HURRHG! Not all at once!"
+  },
+  {
+   "i": 23,
+   "start": 104.84,
+   "end": 108.04,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "Just... can I... have a minute...?"
+  },
+  {
+   "i": 24,
+   "start": 108.46,
+   "end": 109.42,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Sure you can."
+  },
+  {
+   "i": 25,
+   "start": 109.92,
+   "end": 112.14,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "Well, thank you. That's apprecia--"
+  },
+  {
+   "i": 26,
+   "start": 112.14,
+   "end": 113.44,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Struck by a Shoryuken"
+  },
+  {
+   "i": 27,
+   "start": 112.14,
+   "end": 113.44,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "D'AH-AAUGH...!"
+  },
+  {
+   "i": 28,
+   "start": 115.42,
+   "end": 117.0,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "C-C-C-COMBO!"
+  },
+  {
+   "i": 29,
+   "start": 121.08,
+   "end": 122.4,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "(Sigh)"
+  },
+  {
+   "i": 30,
+   "start": 123.02,
+   "end": 125.42,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Wait, so I beat Vegeta..."
+  },
+  {
+   "i": 31,
+   "start": 125.42,
+   "end": 126.82,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "Data not found."
+  },
+  {
+   "i": 32,
+   "start": 126.82,
+   "end": 129.72,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "But now Vegeta is wrecking Cell..."
+  },
+  {
+   "i": 33,
+   "start": 129.72,
+   "end": 131.04,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "Data not found."
+  },
+  {
+   "i": 34,
+   "start": 131.04,
+   "end": 134.4,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Okay, do you have anything substantial to add to this?"
+  },
+  {
+   "i": 35,
+   "start": 135.3,
+   "end": 136.12,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "...Do you?"
+  },
+  {
+   "i": 36,
+   "start": 137.16,
+   "end": 138.56,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "...Data not found."
+  },
+  {
+   "i": 37,
+   "start": 138.94,
+   "end": 140.1,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "Hurrrargh!"
+  },
+  {
+   "i": 38,
+   "start": 141.8,
+   "end": 148.52,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Ya know, maybe if you'd actually TRAINED instead of gorging yourself on a worthless species, your punches might actually hit a little closer to home."
+  },
+  {
+   "i": 39,
+   "start": 150.28,
+   "end": 152.14,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "(Cries of pain)"
+  },
+  {
+   "i": 40,
+   "start": 153.96,
+   "end": 158.14,
+   "kind": "dialog",
+   "speaker": "Cell's Ass",
+   "text": "Hahahaha, ah, this is an unfortunate turn of events."
+  },
+  {
+   "i": 41,
+   "start": 158.56,
+   "end": 161.5,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Did you just... talk out your ass?"
+  },
+  {
+   "i": 42,
+   "start": 161.62,
+   "end": 167.28,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "Well... to be fair, Vegeta, you are part of my DNA."
+  },
+  {
+   "i": 43,
+   "start": 167.28,
+   "end": 170.32,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Oo, that is the closest thing you've done to damage since I've gotten here."
+  },
+  {
+   "i": 44,
+   "start": 170.5,
+   "end": 172.64,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "Allow me to fix that..."
+  },
+  {
+   "i": 45,
+   "start": 179.42,
+   "end": 181.68,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Is that Cell or Vegeta?"
+  },
+  {
+   "i": 46,
+   "start": 182.24,
+   "end": 183.94,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Dun' matter; steering clear o' that."
+  },
+  {
+   "i": 47,
+   "start": 184.88,
+   "end": 191.16,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Except, if I were a bettin' boy, that's... probably where the Androids are."
+  },
+  {
+   "i": 48,
+   "start": 192.3,
+   "end": 194.36,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Stealth Mode, don't fail me now."
+  },
+  {
+   "i": 49,
+   "start": 197.76,
+   "end": 199.38,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "There we are."
+  },
+  {
+   "i": 50,
+   "start": 199.88,
+   "end": 203.76,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "Now, do you understand, Vegeta?"
+  },
+  {
+   "i": 51,
+   "start": 203.94,
+   "end": 209.6,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "What I understand is I'm about to pound you so hard, the boy's mother is going to be jealous."
+  },
+  {
+   "i": 52,
+   "start": 209.6,
+   "end": 211.12,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Oh, can we not?!"
+  },
+  {
+   "i": 53,
+   "start": 211.12,
+   "end": 214.44,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "But, if it makes you feel any better, I'll give you one free shot."
+  },
+  {
+   "i": 54,
+   "start": 215.18,
+   "end": 217.46,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "But I'm warning you, if you waste i--"
+  },
+  {
+   "i": 55,
+   "start": 217.46,
+   "end": 218.3,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "UURGH!"
+  },
+  {
+   "i": 56,
+   "start": 219.88,
+   "end": 221.48,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "(Chuckling)"
+  },
+  {
+   "i": 57,
+   "start": 224.2,
+   "end": 226.04,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "*you're gonna regret it*..."
+  },
+  {
+   "i": 58,
+   "start": 227.82,
+   "end": 228.5,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "...How?"
+  },
+  {
+   "i": 59,
+   "start": 229.22,
+   "end": 230.3,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "Hooww?!"
+  },
+  {
+   "i": 60,
+   "start": 230.7,
+   "end": 232.88,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "How did you get this strong?!"
+  },
+  {
+   "i": 61,
+   "start": 233.16,
+   "end": 235.24,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I trained *all* day yesterday."
+  },
+  {
+   "i": 62,
+   "start": 235.46,
+   "end": 238.66,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "Oh, you think you're being *cute*!"
+  },
+  {
+   "i": 63,
+   "start": 238.66,
+   "end": 239.98,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Bitch, I'm adorable."
+  },
+  {
+   "i": 64,
+   "start": 240.16,
+   "end": 240.7,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "Fine!"
+  },
+  {
+   "i": 65,
+   "start": 242.08,
+   "end": 244.18,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "Then how about THIS?!"
+  },
+  {
+   "i": 66,
+   "start": 244.64,
+   "end": 246.64,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "GALICK GUN..."
+  },
+  {
+   "i": 67,
+   "start": 247.22,
+   "end": 249.28,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Hohoho, and that's just precious..."
+  },
+  {
+   "i": 68,
+   "start": 249.42,
+   "end": 252.64,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "FIRRRRE!!!"
+  },
+  {
+   "i": 69,
+   "start": 259.42,
+   "end": 262.14,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "So we're *actually* rooting for Vegeta?"
+  },
+  {
+   "i": 70,
+   "start": 262.14,
+   "end": 264.74,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Let's be honest - we're rooting *against* Cell."
+  },
+  {
+   "i": 71,
+   "start": 264.74,
+   "end": 266.28,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "What do we do if he wins?"
+  },
+  {
+   "i": 72,
+   "start": 266.28,
+   "end": 267.2,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Which one?"
+  },
+  {
+   "i": 73,
+   "start": 267.2,
+   "end": 268.5,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Which one is worse?"
+  },
+  {
+   "i": 74,
+   "start": 268.5,
+   "end": 270.58,
+   "kind": "dialog",
+   "speaker": "Baby Trunks",
+   "text": "(Making baby noises)"
+  },
+  {
+   "i": 75,
+   "start": 268.5,
+   "end": 274.68,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Ya know, Vegeta might be... *is* a total ass, but he's not *that* bad."
+  },
+  {
+   "i": 76,
+   "start": 274.68,
+   "end": 276.82,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Says the woman he left a single mother."
+  },
+  {
+   "i": 77,
+   "start": 276.82,
+   "end": 279.24,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Please, I'm rich; it's hardly the same."
+  },
+  {
+   "i": 78,
+   "start": 279.24,
+   "end": 281.36,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Really, him leaving was probably for the best."
+  },
+  {
+   "i": 79,
+   "start": 281.64,
+   "end": 283.24,
+   "kind": "dialog",
+   "speaker": "Baby Trunks",
+   "text": "Wohhh..."
+  },
+  {
+   "i": 80,
+   "start": 281.64,
+   "end": 283.24,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Wow! Really?!"
+  },
+  {
+   "i": 81,
+   "start": 283.4,
+   "end": 286.14,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "What? Would you really trust Vegeta with a baby?"
+  },
+  {
+   "i": 82,
+   "start": 286.38,
+   "end": 287.8,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Well, not *my* baby..."
+  },
+  {
+   "i": 83,
+   "start": 288.06,
+   "end": 289.32,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "And there you go."
+  },
+  {
+   "i": 84,
+   "start": 294.66,
+   "end": 302.2,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "'\"Look at me, I'm Vegeta! I'm the Prince of all Saiyans!\" \"And I both wear, and *am*, a unitar--\"'"
+  },
+  {
+   "i": 85,
+   "start": 302.2,
+   "end": 304.24,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "You call THAT a Galick Gun?"
+  },
+  {
+   "i": 86,
+   "start": 305.0,
+   "end": 306.92,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Dear God, get it together."
+  },
+  {
+   "i": 87,
+   "start": 307.28,
+   "end": 309.52,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "I WILL END YOU!"
+  },
+  {
+   "i": 88,
+   "start": 309.8,
+   "end": 311.1,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "You'll die trying."
+  },
+  {
+   "i": 89,
+   "start": 312.44,
+   "end": 316.66,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "(Screaming)"
+  },
+  {
+   "i": 90,
+   "start": 318.94,
+   "end": 321.78,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "'Eesh... somehow I actually feel kinda bad for *Cell*...'"
+  },
+  {
+   "i": 91,
+   "start": 322.88,
+   "end": 325.08,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "'Oh well, should probably start lookin' for the Androids.'"
+  },
+  {
+   "i": 92,
+   "start": 325.98,
+   "end": 327.04,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "'Aaand found 'em.'"
+  },
+  {
+   "i": 93,
+   "start": 327.46,
+   "end": 329.4,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "'Man, I am REALLY good at this...'"
+  },
+  {
+   "i": 94,
+   "start": 330.44,
+   "end": 331.52,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "'Okay, Krillin...'"
+  },
+  {
+   "i": 95,
+   "start": 332.26,
+   "end": 334.92,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "'Mission... (Gulp)... *Start*.'"
+  },
+  {
+   "i": 96,
+   "start": 337.54,
+   "end": 339.64,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I know I kicked him into the water somewhere..."
+  },
+  {
+   "i": 97,
+   "start": 340.32,
+   "end": 343.08,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Damn it, he's pulling a bald one on me and hiding his energy..."
+  },
+  {
+   "i": 98,
+   "start": 343.5,
+   "end": 346.44,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Urgh, if I were a disgusting bug-man, where would I--"
+  },
+  {
+   "i": 99,
+   "start": 346.44,
+   "end": 347.46,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "SURPRISE!"
+  },
+  {
+   "i": 100,
+   "start": 349.52,
+   "end": 350.88,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "Looky what I caught!"
+  },
+  {
+   "i": 101,
+   "start": 351.22,
+   "end": 354.04,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "A walking, talking Napoleon complex."
+  },
+  {
+   "i": 102,
+   "start": 355.32,
+   "end": 356.02,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "Huurgh...!"
+  },
+  {
+   "i": 103,
+   "start": 356.02,
+   "end": 357.84,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "And looky what I caught!"
+  },
+  {
+   "i": 104,
+   "start": 358.08,
+   "end": 360.46,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "Oh no, *not again*!"
+  },
+  {
+   "i": 105,
+   "start": 360.68,
+   "end": 363.06,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "So, what do you do with this... *thing*?"
+  },
+  {
+   "i": 106,
+   "start": 363.06,
+   "end": 364.56,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "I drink people!"
+  },
+  {
+   "i": 107,
+   "start": 364.56,
+   "end": 366.2,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Were you trying to drink me?"
+  },
+  {
+   "i": 108,
+   "start": 366.2,
+   "end": 367.04,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "N-n... no!"
+  },
+  {
+   "i": 109,
+   "start": 369.0,
+   "end": 369.58,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "...Yes."
+  },
+  {
+   "i": 110,
+   "start": 369.7,
+   "end": 371.3,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "(Groans in pain)"
+  },
+  {
+   "i": 111,
+   "start": 371.74,
+   "end": 372.6,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "Raarhhg--!"
+  },
+  {
+   "i": 112,
+   "start": 372.76,
+   "end": 373.54,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "You feel that?"
+  },
+  {
+   "i": 113,
+   "start": 374.1,
+   "end": 376.02,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "That's what honesty feels like."
+  },
+  {
+   "i": 114,
+   "start": 385.3,
+   "end": 387.72,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "This... this is all wrong..."
+  },
+  {
+   "i": 115,
+   "start": 388.1,
+   "end": 389.9,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "You can't be this strong!"
+  },
+  {
+   "i": 116,
+   "start": 390.4,
+   "end": 392.32,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "Nothing about this makes sense!"
+  },
+  {
+   "i": 117,
+   "start": 392.56,
+   "end": 395.54,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Well if THAT'S wracking your brain, try drinking this in:"
+  },
+  {
+   "i": 118,
+   "start": 395.78,
+   "end": 401.2,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "It may pain me to say it, but the boy over there is actually almost as strong as I am."
+  },
+  {
+   "i": 119,
+   "start": 401.7,
+   "end": 404.6,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Then again, unlike you, he's HALF me."
+  },
+  {
+   "i": 120,
+   "start": 405.88,
+   "end": 406.4,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "What?!"
+  },
+  {
+   "i": 121,
+   "start": 406.4,
+   "end": 407.94,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'Course the other half is his mother..."
+  },
+  {
+   "i": 122,
+   "start": 407.94,
+   "end": 409.26,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I mean, look at that hair!"
+  },
+  {
+   "i": 123,
+   "start": 409.26,
+   "end": 409.76,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "I--"
+  },
+  {
+   "i": 124,
+   "start": 409.26,
+   "end": 410.7,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "YOU LOOK LIKE A FRUIT!"
+  },
+  {
+   "i": 125,
+   "start": 410.7,
+   "end": 411.2,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Y-you--"
+  },
+  {
+   "i": 126,
+   "start": 411.2,
+   "end": 414.3,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "And not like a homosexual, I mean like a literal, walking fruit!"
+  },
+  {
+   "i": 127,
+   "start": 416.54,
+   "end": 417.4,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "...EGGPLANT!"
+  },
+  {
+   "i": 128,
+   "start": 417.4,
+   "end": 419.92,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "DAMN IIIIIIIT!"
+  },
+  {
+   "i": 129,
+   "start": 420.42,
+   "end": 422.42,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "I want to be perfect!"
+  },
+  {
+   "i": 130,
+   "start": 422.76,
+   "end": 424.04,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "I wanna!"
+  },
+  {
+   "i": 131,
+   "start": 424.26,
+   "end": 426.08,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "I wanna, I wanna, I wanna--"
+  },
+  {
+   "i": 132,
+   "start": 427.28,
+   "end": 430.16,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "I wanna-ha-ha-ha-ha-haaaa..."
+  },
+  {
+   "i": 133,
+   "start": 430.32,
+   "end": 433.68,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Excellent, I've broken both your body *and* your spirit."
+  },
+  {
+   "i": 134,
+   "start": 433.68,
+   "end": 434.44,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Time to die."
+  },
+  {
+   "i": 135,
+   "start": 435.34,
+   "end": 438.08,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "If only you had showed up just a minute later..."
+  },
+  {
+   "i": 136,
+   "start": 438.52,
+   "end": 440.44,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "I would've had Eighteen..."
+  },
+  {
+   "i": 137,
+   "start": 440.8,
+   "end": 443.06,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "Then NOBODY could've stopped me!"
+  },
+  {
+   "i": 138,
+   "start": 443.84,
+   "end": 445.06,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "...Oh really?"
+  },
+  {
+   "i": 139,
+   "start": 445.74,
+   "end": 446.86,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Nooo..."
+  },
+  {
+   "i": 140,
+   "start": 447.38,
+   "end": 448.52,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "Vegeta..."
+  },
+  {
+   "i": 141,
+   "start": 449.72,
+   "end": 453.56,
+   "kind": "dialog",
+   "speaker": "Semi-Perfect Cell",
+   "text": "I would've destroyed you without a second thought..."
+  },
+  {
+   "i": 142,
+   "start": 453.92,
+   "end": 455.32,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "...Nooo!"
+  },
+  {
+   "i": 143,
+   "start": 457.12,
+   "end": 457.98,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "...Go on."
+  },
+  {
+   "i": 144,
+   "start": 457.98,
+   "end": 459.32,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "NooooOOOO--!"
+  },
+  {
+   "i": 145,
+   "start": 459.42,
+   "end": 461.42,
+   "kind": "direction",
+   "speaker": null,
+   "text": "DBZ intermission (post-commercial)"
+  },
+  {
+   "i": 146,
+   "start": 464.48,
+   "end": 465.36,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Aaah..."
+  },
+  {
+   "i": 147,
+   "start": 466.06,
+   "end": 467.24,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Aaah..."
+  },
+  {
+   "i": 148,
+   "start": 468.04,
+   "end": 471.18,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "You know, Dad, it's honestly been kinda nice training with you."
+  },
+  {
+   "i": 149,
+   "start": 471.4,
+   "end": 473.16,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Right? I like training too."
+  },
+  {
+   "i": 150,
+   "start": 473.44,
+   "end": 473.94,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Hm..."
+  },
+  {
+   "i": 151,
+   "start": 474.28,
+   "end": 478.56,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "But even though we're taking a nice, soothing bath, we can't hold back."
+  },
+  {
+   "i": 152,
+   "start": 478.76,
+   "end": 481.34,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "We have to stay training at all times."
+  },
+  {
+   "i": 153,
+   "start": 481.54,
+   "end": 483.98,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Soooo... Splash attack!"
+  },
+  {
+   "i": 154,
+   "start": 483.98,
+   "end": 485.16,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Hu-ha-ha-ha-ha...!"
+  },
+  {
+   "i": 155,
+   "start": 485.38,
+   "end": 487.6,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Alright, then - here I go!"
+  },
+  {
+   "i": 156,
+   "start": 487.86,
+   "end": 493.46,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Laughing and splashing"
+  },
+  {
+   "i": 157,
+   "start": 493.46,
+   "end": 494.16,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Got you there!"
+  },
+  {
+   "i": 158,
+   "start": 493.46,
+   "end": 494.72,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Laughing and splashing"
+  },
+  {
+   "i": 159,
+   "start": 494.72,
+   "end": 496.02,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "KAME"
+  },
+  {
+   "i": 160,
+   "start": 496.02,
+   "end": 497.06,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "HAME"
+  },
+  {
+   "i": 161,
+   "start": 497.06,
+   "end": 497.68,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Dad, no!"
+  },
+  {
+   "i": 162,
+   "start": 497.68,
+   "end": 498.64,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "No holding back!"
+  },
+  {
+   "i": 163,
+   "start": 498.64,
+   "end": 499.8,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "HAA!"
+  },
+  {
+   "i": 164,
+   "start": 501.7,
+   "end": 503.2,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Hey, puny Earth-whelps!"
+  },
+  {
+   "i": 165,
+   "start": 503.2,
+   "end": 507.26,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "If you liked what you saw, be sure to show it by clicking that like button down there."
+  },
+  {
+   "i": 166,
+   "start": 507.26,
+   "end": 512.36,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "And if you wanna see MORE of my greatness, be sure to click the subscribe button to stay updated."
+  },
+  {
+   "i": 167,
+   "start": 512.36,
+   "end": 522.02,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "And if you wanna see what it would be like if I, the Prince of all Saiyans were to waste my precious training time on some video games, then you should click that Renegade for Life button right there."
+  },
+  {
+   "i": 168,
+   "start": 522.02,
+   "end": 527.04,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Or if you want to see something ELSE video game-related, be sure to click the Final Fantasy 7 Machinabridged button."
+  },
+  {
+   "i": 169,
+   "start": 527.22,
+   "end": 529.74,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Ha! Look at that Super Saiyan wannabe..."
+  },
+  {
+   "i": 170,
+   "start": 530.06,
+   "end": 534.5,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Now if you'll excuse me, I need to figure out what that big-lipped bug-man was going on about..."
+  },
+  {
+   "i": 171,
+   "start": 538.08,
+   "end": 539.92,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "MLB"
+  }
+ ],
+ "segments": [
+  {
+   "start": 51.3,
+   "end": 72.6,
+   "title": "Piccolo... Tripped or Something",
+   "quote": "He killed Vegeta, and he killed Krillin, Piccolo... tripped or... something... / Oh hey, you were there! Why didn't you go Super Saiyan?",
+   "line_start": 11,
+   "line_end": 19
+  },
+  {
+   "start": 97.3,
+   "end": 117.5,
+   "title": "Stop Fisting Me!",
+   "quote": "Stop fisting me! / Okay. / HURRHG! Not all at once! / C-C-C-COMBO!",
+   "line_start": 20,
+   "line_end": 28
+  },
+  {
+   "start": 122.5,
+   "end": 139.0,
+   "title": "Data Not Found",
+   "quote": "Okay, do you have anything substantial to add to this? / ...Do you? / ...Data not found.",
+   "line_start": 30,
+   "line_end": 36
+  },
+  {
+   "start": 153.4,
+   "end": 173.1,
+   "title": "Talking Out His Ass",
+   "quote": "Did you just... talk out your ass? / Well... to be fair, Vegeta, you are part of my DNA.",
+   "line_start": 40,
+   "line_end": 44
+  },
+  {
+   "start": 203.4,
+   "end": 226.5,
+   "title": "One Free Shot",
+   "quote": "I'm about to pound you so hard, the boy's mother is going to be jealous. / Oh, can we not?!",
+   "line_start": 51,
+   "line_end": 57
+  },
+  {
+   "start": 227.3,
+   "end": 253.1,
+   "title": "Bitch, I'm Adorable",
+   "quote": "How did you get this strong?! / I trained *all* day yesterday. / Oh, you think you're being *cute*! / Bitch, I'm adorable.",
+   "line_start": 58,
+   "line_end": 68
+  },
+  {
+   "start": 258.9,
+   "end": 289.8,
+   "title": "Rooting Against Cell",
+   "quote": "Says the woman he left a single mother. / Please, I'm rich; it's hardly the same. / Would you really trust Vegeta with a baby? / Well, not *my* baby...",
+   "line_start": 69,
+   "line_end": 83
+  },
+  {
+   "start": 318.4,
+   "end": 335.4,
+   "title": "Mission... *Start*",
+   "quote": "'Okay, Krillin... Mission... (Gulp)... *Start*.'",
+   "line_start": 90,
+   "line_end": 95
+  },
+  {
+   "start": 355.5,
+   "end": 376.5,
+   "title": "That's What Honesty Feels Like",
+   "quote": "I drink people! / Were you trying to drink me? / N-n... no! / ...Yes. / That's what honesty feels like.",
+   "line_start": 103,
+   "line_end": 113
+  },
+  {
+   "start": 392.1,
+   "end": 417.4,
+   "title": "YOU LOOK LIKE A FRUIT!",
+   "quote": "I mean, look at that hair! / YOU LOOK LIKE A FRUIT! / ...EGGPLANT!",
+   "line_start": 117,
+   "line_end": 127
+  },
+  {
+   "start": 434.9,
+   "end": 459.42,
+   "title": "...Go On",
+   "quote": "If only you had showed up just a minute later... I would've had Eighteen... / ...Oh really? / ...Go on.",
+   "line_start": 135,
+   "line_end": 144
+  },
+  {
+   "start": 473.8,
+   "end": 500.3,
+   "title": "Splash Attack",
+   "quote": "Splash attack! / KAME / HAME / Dad, no! / No holding back! / HAA!",
+   "line_start": 151,
+   "line_end": 163
+  }
+ ]
+}

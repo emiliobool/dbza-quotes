@@ -1,0 +1,22 @@
+{
+  "name": "dbza-quotes",
+  "private": true,
+  "type": "module",
+  "version": "0.1.0",
+  "description": "Quote search + shareable clip references for Dragon Ball Z Abridged",
+  "scripts": {
+    "data": "node tools/build-data.mjs",
+    "dev": "npm run data && astro dev",
+    "build": "npm run data && astro build",
+    "preview": "astro preview",
+    "pages:dev": "npm run build && wrangler pages dev dist"
+  },
+  "dependencies": {
+    "astro": "^5.12.0",
+    "minisearch": "^7.1.0"
+  },
+  "devDependencies": {
+    "yaml": "^2.5.0",
+    "wrangler": "^4.0.0"
+  }
+}

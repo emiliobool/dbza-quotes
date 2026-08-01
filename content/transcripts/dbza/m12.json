@@ -1,0 +1,5875 @@
+{
+ "item": "m12",
+ "show": "dbza",
+ "youtube": "FJBgzX2HMe8",
+ "title": "BROLY  - TeamFourStar #TFSBroly",
+ "duration": 1822,
+ "lines": [
+  {
+   "i": 0,
+   "start": 16.86,
+   "end": 19.1,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "The South Galaxy..."
+  },
+  {
+   "i": 1,
+   "start": 20.1,
+   "end": 22.38,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "...has been obliterated."
+  },
+  {
+   "i": 2,
+   "start": 22.38,
+   "end": 24.08,
+   "kind": "dialog",
+   "speaker": "South Kai",
+   "text": "HOLY SHIT!!"
+  },
+  {
+   "i": 3,
+   "start": 24.08,
+   "end": 26.12,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Okay, first of all, calm down."
+  },
+  {
+   "i": 4,
+   "start": 26.12,
+   "end": 30.54,
+   "kind": "dialog",
+   "speaker": "South Kai",
+   "text": "I was in the bathroom for FIVE MINUTES! And now it's all gone!"
+  },
+  {
+   "i": 5,
+   "start": 30.54,
+   "end": 31.48,
+   "kind": "dialog",
+   "speaker": "South Kai",
+   "text": "HOW?!"
+  },
+  {
+   "i": 6,
+   "start": 32.12,
+   "end": 33.26,
+   "kind": "dialog",
+   "speaker": "South Kai",
+   "text": "...WHO?!"
+  },
+  {
+   "i": 7,
+   "start": 33.26,
+   "end": 34.28,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Could've been Beerus."
+  },
+  {
+   "i": 8,
+   "start": 34.28,
+   "end": 36.5,
+   "kind": "dialog",
+   "speaker": "South Kai",
+   "text": "Oh, you know that mother's still asleep!"
+  },
+  {
+   "i": 9,
+   "start": 36.5,
+   "end": 38.06,
+   "kind": "dialog",
+   "speaker": "South Kai",
+   "text": "This is my ex, man!"
+  },
+  {
+   "i": 10,
+   "start": 38.06,
+   "end": 41.44,
+   "kind": "dialog",
+   "speaker": "South Kai",
+   "text": "She told me she would hurt me in a way I'd never see comin'!"
+  },
+  {
+   "i": 11,
+   "start": 41.44,
+   "end": 44.32,
+   "kind": "dialog",
+   "speaker": "South Kai",
+   "text": "WHY, EAST KAI?! WHY?!"
+  },
+  {
+   "i": 12,
+   "start": 44.32,
+   "end": 45.62,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "South Kai, listen."
+  },
+  {
+   "i": 13,
+   "start": 45.62,
+   "end": 48.58,
+   "kind": "dialog",
+   "speaker": "South Kai",
+   "text": "I thought she may, like, steal my Blu-Ray player, man!"
+  },
+  {
+   "i": 14,
+   "start": 48.58,
+   "end": 52.48,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "South Kai! We are going... to figure... this out."
+  },
+  {
+   "i": 15,
+   "start": 52.48,
+   "end": 55.08,
+   "kind": "dialog",
+   "speaker": "South Kai",
+   "text": "We need to get whoever did this, North Kai!"
+  },
+  {
+   "i": 16,
+   "start": 55.08,
+   "end": 56.64,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Alright then, listen."
+  },
+  {
+   "i": 17,
+   "start": 57.2,
+   "end": 58.32,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "I got a guy."
+  },
+  {
+   "i": 18,
+   "start": 58.48,
+   "end": 59.68,
+   "kind": "dialog",
+   "speaker": "South Kai",
+   "text": "What's his name?"
+  },
+  {
+   "i": 19,
+   "start": 59.94,
+   "end": 61.88,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Goku! I'm gonna show you!"
+  },
+  {
+   "i": 20,
+   "start": 61.88,
+   "end": 62.88,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Show me what?"
+  },
+  {
+   "i": 21,
+   "start": 62.88,
+   "end": 65.18,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "How to act like an actual adult."
+  },
+  {
+   "i": 22,
+   "start": 65.28,
+   "end": 68.34,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "But Chi-Chi, we're missing the wedding reception!"
+  },
+  {
+   "i": 23,
+   "start": 68.34,
+   "end": 73.68,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "We sat through that boring talk about love and junk for 40 minutes just waiting for the banquet!"
+  },
+  {
+   "i": 24,
+   "start": 73.68,
+   "end": 76.46,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I learned how to count up to 40 because of that!"
+  },
+  {
+   "i": 25,
+   "start": 76.62,
+   "end": 78.06,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "That's ten fours, by the way."
+  },
+  {
+   "i": 26,
+   "start": 78.06,
+   "end": 80.34,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "And that is exactly why we're here."
+  },
+  {
+   "i": 27,
+   "start": 80.34,
+   "end": 84.56,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "I don't want Gohan ending up the same, barely functional man-child you are!"
+  },
+  {
+   "i": 28,
+   "start": 80.9,
+   "end": 82.56,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Uh...? Eeeee!"
+  },
+  {
+   "i": 29,
+   "start": 84.56,
+   "end": 93.0,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "And I made sure to schedule this college interview on the same day as the wedding, because as we both know, getting you into a suit is like trying to give a cat a bath."
+  },
+  {
+   "i": 30,
+   "start": 93.3,
+   "end": 94.72,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "But I like baths."
+  },
+  {
+   "i": 31,
+   "start": 95.12,
+   "end": 98.42,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "♫Dooon't stop! Belieeevin!♫"
+  },
+  {
+   "i": 32,
+   "start": 99.9,
+   "end": 102.96,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Hold on to that feeeeeliiiii-iiiiin'!"
+  },
+  {
+   "i": 33,
+   "start": 102.96,
+   "end": 104.72,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Streetlights!"
+  },
+  {
+   "i": 34,
+   "start": 104.98,
+   "end": 107.3,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Peeeeopleee-aa-aa-aa-olhuuuull!"
+  },
+  {
+   "i": 35,
+   "start": 107.3,
+   "end": 110.78,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Aaaaaahaaaaa!"
+  },
+  {
+   "i": 36,
+   "start": 108.28,
+   "end": 110.78,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "Yeaaaaah, sing it girl! Ha haaa!"
+  },
+  {
+   "i": 37,
+   "start": 110.78,
+   "end": 113.98,
+   "kind": "dialog",
+   "speaker": "Oolong",
+   "text": "Are you drunk already? The reception just started."
+  },
+  {
+   "i": 38,
+   "start": 113.98,
+   "end": 117.36,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "Pig, I am the pre-gaming master."
+  },
+  {
+   "i": 39,
+   "start": 117.36,
+   "end": 121.7,
+   "kind": "dialog",
+   "speaker": "Korin",
+   "text": "Aw, sweetheart, I'm so sorry your best man had to skip out on the reception."
+  },
+  {
+   "i": 40,
+   "start": 121.7,
+   "end": 125.38,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "That's okay. I have my real best man right here."
+  },
+  {
+   "i": 41,
+   "start": 125.38,
+   "end": 127.46,
+   "kind": "dialog",
+   "speaker": "Korin",
+   "text": "Daww, save it for the honeymoon."
+  },
+  {
+   "i": 42,
+   "start": 127.46,
+   "end": 129.7,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "Hoho, that's not all I'm savin'..."
+  },
+  {
+   "i": 43,
+   "start": 129.7,
+   "end": 130.8,
+   "kind": "dialog",
+   "speaker": "Korin",
+   "text": "Is it a turkey?"
+  },
+  {
+   "i": 44,
+   "start": 130.8,
+   "end": 132.18,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "You know me so well."
+  },
+  {
+   "i": 45,
+   "start": 132.3,
+   "end": 137.08,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I came here for a banquet, and I find out it's a potluck, you CHEAP F**KS!"
+  },
+  {
+   "i": 46,
+   "start": 137.08,
+   "end": 139.88,
+   "kind": "dialog",
+   "speaker": "Panchy",
+   "text": "Well, I'm surprised you came, sweetheart!"
+  },
+  {
+   "i": 47,
+   "start": 139.88,
+   "end": 143.14,
+   "kind": "dialog",
+   "speaker": "Panchy",
+   "text": "An interspecies, homosexual marriage?"
+  },
+  {
+   "i": 48,
+   "start": 143.14,
+   "end": 146.5,
+   "kind": "dialog",
+   "speaker": "Dr. Brief",
+   "text": "I just wanted to see what the gay agenda looked like in person!"
+  },
+  {
+   "i": 49,
+   "start": 146.5,
+   "end": 148.9,
+   "kind": "dialog",
+   "speaker": "Dr. Brief",
+   "text": "Frankly? Not impressed."
+  },
+  {
+   "i": 50,
+   "start": 152.0,
+   "end": 157.16,
+   "kind": "dialog",
+   "speaker": "Dr. Brief",
+   "text": "Oh, great, and now immigrants! Truly a liberal wonderland around here."
+  },
+  {
+   "i": 51,
+   "start": 157.7,
+   "end": 160.54,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Do you fools have any idea whose planet this is?"
+  },
+  {
+   "i": 52,
+   "start": 160.54,
+   "end": 162.88,
+   "kind": "dialog",
+   "speaker": "Soldiers",
+   "text": "All hail Lord Vegeta!"
+  },
+  {
+   "i": 53,
+   "start": 163.44,
+   "end": 165.76,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Well, good! Glad we're clear on that."
+  },
+  {
+   "i": 54,
+   "start": 166.1,
+   "end": 169.64,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "It has been too many years, Prince Vegeta."
+  },
+  {
+   "i": 55,
+   "start": 170.32,
+   "end": 175.36,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "Or should I say... KING... Vegeta."
+  },
+  {
+   "i": 56,
+   "start": 175.36,
+   "end": 178.48,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "KINGKINGKINGKINGKINGKINGKING"
+  },
+  {
+   "i": 57,
+   "start": 178.48,
+   "end": 183.4,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Never in my life have I needed something so much and never known until I received it."
+  },
+  {
+   "i": 58,
+   "start": 183.92,
+   "end": 186.06,
+   "kind": "dialog",
+   "speaker": "Interviewer",
+   "text": "This is rather unorthodox."
+  },
+  {
+   "i": 59,
+   "start": 186.06,
+   "end": 192.02,
+   "kind": "dialog",
+   "speaker": "Interviewer",
+   "text": "Your son is 11 years old and home-schooled, but you say he's at a 12th grade level?"
+  },
+  {
+   "i": 60,
+   "start": 192.02,
+   "end": 194.96,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "I'm a teacher first, and a mother second!"
+  },
+  {
+   "i": 61,
+   "start": 194.96,
+   "end": 195.88,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Also a wife."
+  },
+  {
+   "i": 62,
+   "start": 195.88,
+   "end": 199.64,
+   "kind": "dialog",
+   "speaker": "Interviewer",
+   "text": "I see. Uh, speaking of your husband, Mr..."
+  },
+  {
+   "i": 63,
+   "start": 199.64,
+   "end": 201.04,
+   "kind": "dialog",
+   "speaker": "Interviewer",
+   "text": "Son Goku, was it?"
+  },
+  {
+   "i": 64,
+   "start": 201.04,
+   "end": 201.54,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Uhhgh..."
+  },
+  {
+   "i": 65,
+   "start": 201.54,
+   "end": 203.58,
+   "kind": "dialog",
+   "speaker": "Interviewer",
+   "text": "Can you tell us anything interesting about yourself?"
+  },
+  {
+   "i": 66,
+   "start": 203.68,
+   "end": 206.24,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh, sure! Well, uh, I'm a Saiyan."
+  },
+  {
+   "i": 67,
+   "start": 206.24,
+   "end": 206.96,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Goku?"
+  },
+  {
+   "i": 68,
+   "start": 206.96,
+   "end": 211.16,
+   "kind": "dialog",
+   "speaker": "Interviewer",
+   "text": "Oh, so you're a minority! Because that could favor your child for enrollment!"
+  },
+  {
+   "i": 69,
+   "start": 211.16,
+   "end": 214.16,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Oh, uh, yes! Definitely a minority."
+  },
+  {
+   "i": 70,
+   "start": 214.16,
+   "end": 215.82,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "There are only two and a half more like him that are [...]"
+  },
+  {
+   "i": 71,
+   "start": 215.82,
+   "end": 217.5,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Huh?"
+  },
+  {
+   "i": 72,
+   "start": 215.82,
+   "end": 217.5,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Goku! Are you there?"
+  },
+  {
+   "i": 73,
+   "start": 217.5,
+   "end": 221.04,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh, hey, King Kai! Long time no talk. How's Bubbles?"
+  },
+  {
+   "i": 74,
+   "start": 221.04,
+   "end": 221.68,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "*gasp*"
+  },
+  {
+   "i": 75,
+   "start": 221.68,
+   "end": 224.54,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Eh, not much. Just a silly school thing."
+  },
+  {
+   "i": 76,
+   "start": 224.8,
+   "end": 226.36,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "No, not for me; for Gohan."
+  },
+  {
+   "i": 77,
+   "start": 226.36,
+   "end": 229.06,
+   "kind": "dialog",
+   "speaker": "Interviewer",
+   "text": "Um, excuse me, uh, Mr. Son?"
+  },
+  {
+   "i": 78,
+   "start": 226.36,
+   "end": 229.06,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh wow, an entire galaxy?"
+  },
+  {
+   "i": 79,
+   "start": 229.06,
+   "end": 230.46,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hold on, talkin' to God."
+  },
+  {
+   "i": 80,
+   "start": 230.46,
+   "end": 232.58,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Wait, there are other Kais?"
+  },
+  {
+   "i": 81,
+   "start": 231.4,
+   "end": 232.58,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Uhh, he's very religious."
+  },
+  {
+   "i": 82,
+   "start": 232.58,
+   "end": 234.58,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "We both are!"
+  },
+  {
+   "i": 83,
+   "start": 232.58,
+   "end": 234.58,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "When were we gonna talk about this?"
+  },
+  {
+   "i": 84,
+   "start": 234.58,
+   "end": 236.34,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Did you know my mother was Jewish?"
+  },
+  {
+   "i": 85,
+   "start": 236.34,
+   "end": 238.22,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "One sec. I-I gotta take this."
+  },
+  {
+   "i": 86,
+   "start": 238.22,
+   "end": 238.72,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "*pop*"
+  },
+  {
+   "i": 87,
+   "start": 238.72,
+   "end": 239.22,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "*gasp*"
+  },
+  {
+   "i": 88,
+   "start": 239.22,
+   "end": 242.64,
+   "kind": "dialog",
+   "speaker": "Interviewer",
+   "text": "Ma'am? Is-is your husband a magician?"
+  },
+  {
+   "i": 89,
+   "start": 242.64,
+   "end": 244.88,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Oh...- yes! *laugh*"
+  },
+  {
+   "i": 90,
+   "start": 244.88,
+   "end": 249.2,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "And for his next trick, he will convince you to enroll our son."
+  },
+  {
+   "i": 91,
+   "start": 249.2,
+   "end": 254.16,
+   "kind": "dialog",
+   "speaker": "Interviewer",
+   "text": "Well, if he's as 'in touch with God' as you say he is, perhaps he could work that miracle."
+  },
+  {
+   "i": 92,
+   "start": 254.16,
+   "end": 256.04,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "*worried moan*"
+  },
+  {
+   "i": 93,
+   "start": 256.04,
+   "end": 258.04,
+   "kind": "direction",
+   "speaker": null,
+   "text": "*crowd noises*"
+  },
+  {
+   "i": 94,
+   "start": 258.04,
+   "end": 263.42,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "So you're telling me that you've acquired an entirely new Planet Vegeta for me to rule over?"
+  },
+  {
+   "i": 95,
+   "start": 263.42,
+   "end": 266.5,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "That is... exactly what I said, yes."
+  },
+  {
+   "i": 96,
+   "start": 266.5,
+   "end": 267.84,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Ah, well then, it's official."
+  },
+  {
+   "i": 97,
+   "start": 267.84,
+   "end": 271.88,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Attention everyone! Your planet is a mudhole for entitled weaklings."
+  },
+  {
+   "i": 98,
+   "start": 271.88,
+   "end": 273.4,
+   "kind": "dialog",
+   "speaker": "Baby Trunks",
+   "text": "*cooing*"
+  },
+  {
+   "i": 99,
+   "start": 271.88,
+   "end": 273.4,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "And you're all worthless."
+  },
+  {
+   "i": 100,
+   "start": 273.4,
+   "end": 275.74,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I'm going to claim my birthright."
+  },
+  {
+   "i": 101,
+   "start": 275.74,
+   "end": 277.48,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "But Dad, what about Cell?"
+  },
+  {
+   "i": 102,
+   "start": 277.48,
+   "end": 278.16,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "F**k 'im!"
+  },
+  {
+   "i": 103,
+   "start": 279.26,
+   "end": 281.44,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "Ah, so, you must be..."
+  },
+  {
+   "i": 104,
+   "start": 281.44,
+   "end": 282.92,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "My name is Trunks."
+  },
+  {
+   "i": 105,
+   "start": 282.92,
+   "end": 284.84,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "Hello, Princess Trunks."
+  },
+  {
+   "i": 106,
+   "start": 284.84,
+   "end": 285.36,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "I'm not a--!"
+  },
+  {
+   "i": 107,
+   "start": 285.36,
+   "end": 288.48,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "As my first decree, you shall ONLY call her Princess Trunks!"
+  },
+  {
+   "i": 108,
+   "start": 288.48,
+   "end": 290.7,
+   "kind": "dialog",
+   "speaker": "Soldiers",
+   "text": "All hail Princess Trunks!"
+  },
+  {
+   "i": 109,
+   "start": 290.7,
+   "end": 292.76,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Nooooo!"
+  },
+  {
+   "i": 110,
+   "start": 290.7,
+   "end": 292.76,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Ha ha ha ha ha ha ha!"
+  },
+  {
+   "i": 111,
+   "start": 292.76,
+   "end": 296.14,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "Yeaaaah! Let's go find some space-strippers!"
+  },
+  {
+   "i": 112,
+   "start": 296.14,
+   "end": 298.14,
+   "kind": "dialog",
+   "speaker": "Oolong",
+   "text": "This isn't part of the reception!"
+  },
+  {
+   "i": 113,
+   "start": 298.14,
+   "end": 300.24,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "How is he this strong?!"
+  },
+  {
+   "i": 114,
+   "start": 300.24,
+   "end": 303.94,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Sure, just go back into space again. At least I'm not pregnant this time."
+  },
+  {
+   "i": 115,
+   "start": 304.24,
+   "end": 305.6,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Shit, I hope."
+  },
+  {
+   "i": 116,
+   "start": 305.6,
+   "end": 309.2,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "I'll drag him back by his non-existent tail if I have to!"
+  },
+  {
+   "i": 117,
+   "start": 309.2,
+   "end": 311.82,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "*sigh* Don't try too hard..."
+  },
+  {
+   "i": 118,
+   "start": 318.82,
+   "end": 320.18,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Wait, \"take this\" where?"
+  },
+  {
+   "i": 119,
+   "start": 320.6,
+   "end": 321.82,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Goku? Goku?"
+  },
+  {
+   "i": 120,
+   "start": 321.82,
+   "end": 322.32,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "*pop* Goku? Goku?"
+  },
+  {
+   "i": 121,
+   "start": 322.32,
+   "end": 324.04,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "SUPREME KAI ALMIGHTY!"
+  },
+  {
+   "i": 122,
+   "start": 324.04,
+   "end": 325.96,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "What is up with that monkey suit you're wearing?"
+  },
+  {
+   "i": 123,
+   "start": 325.96,
+   "end": 328.04,
+   "kind": "dialog",
+   "speaker": "Talking Movie Bubbles",
+   "text": "That's highly offensive, sir."
+  },
+  {
+   "i": 124,
+   "start": 328.04,
+   "end": 331.78,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "I'm a god, Bubbles; I don't see race, you filthy macaque."
+  },
+  {
+   "i": 125,
+   "start": 331.78,
+   "end": 332.6,
+   "kind": "dialog",
+   "speaker": "Talking Movie Bubbles",
+   "text": "Aw..."
+  },
+  {
+   "i": 126,
+   "start": 332.74,
+   "end": 333.5,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "*grunt*"
+  },
+  {
+   "i": 127,
+   "start": 334.64,
+   "end": 335.46,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Ah..."
+  },
+  {
+   "i": 128,
+   "start": 335.46,
+   "end": 337.66,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Alright! Who do I gotta beat up?"
+  },
+  {
+   "i": 129,
+   "start": 337.66,
+   "end": 339.88,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "That's what you're going to find out."
+  },
+  {
+   "i": 130,
+   "start": 340.06,
+   "end": 346.82,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Now normally I don't involve myself in the matters of other galaxies, but South Kai bought me my car, so, I owe him a favor."
+  },
+  {
+   "i": 131,
+   "start": 346.82,
+   "end": 349.64,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Have you seen it? It's only got 63 miles on it!"
+  },
+  {
+   "i": 132,
+   "start": 349.64,
+   "end": 351.02,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "She's a Buick."
+  },
+  {
+   "i": 133,
+   "start": 351.02,
+   "end": 352.98,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Chevrolet Bel-Air, actually."
+  },
+  {
+   "i": 134,
+   "start": 352.98,
+   "end": 357.4,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Now! It's up to you to find out who destroyed South Galaxy."
+  },
+  {
+   "i": 135,
+   "start": 357.4,
+   "end": 359.4,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Okey-doke! I'll go look for clues!"
+  },
+  {
+   "i": 136,
+   "start": 359.4,
+   "end": 360.44,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Uh-- wait, look where?"
+  },
+  {
+   "i": 137,
+   "start": 360.44,
+   "end": 360.94,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "*pop*"
+  },
+  {
+   "i": 138,
+   "start": 363.06,
+   "end": 363.56,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "*pop*"
+  },
+  {
+   "i": 139,
+   "start": 363.56,
+   "end": 367.24,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "*gasp* S-s-so-ho-ho! I can't breathe in space, apparently!"
+  },
+  {
+   "i": 140,
+   "start": 367.24,
+   "end": 369.24,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "You're the salt of the Earth, Goku."
+  },
+  {
+   "i": 141,
+   "start": 379.3,
+   "end": 382.28,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "And now, my Lord. Behold!"
+  },
+  {
+   "i": 142,
+   "start": 382.28,
+   "end": 384.92,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "Your magnificent new kingdom."
+  },
+  {
+   "i": 143,
+   "start": 385.0,
+   "end": 388.5,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Pretty sure when you rule over a planet, the *planet* is your kingdom."
+  },
+  {
+   "i": 144,
+   "start": 388.5,
+   "end": 390.64,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "How wise you are, my Lord."
+  },
+  {
+   "i": 145,
+   "start": 390.64,
+   "end": 394.68,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "How about we take a tour of your beautiful new palace?"
+  },
+  {
+   "i": 146,
+   "start": 395.16,
+   "end": 402.16,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "Somebody get me a raw egg, two shots of Tabasco, salt, pepper, and a *gun* to shoot myself!"
+  },
+  {
+   "i": 147,
+   "start": 402.16,
+   "end": 405.74,
+   "kind": "dialog",
+   "speaker": "Oolong",
+   "text": "You know what they say: \"Liquor before beer, you're in the clear.\""
+  },
+  {
+   "i": 148,
+   "start": 405.74,
+   "end": 409.3,
+   "kind": "dialog",
+   "speaker": "Oolong",
+   "text": "\"Liquor before intergalactic travel... feel your insides unravel.\""
+  },
+  {
+   "i": 149,
+   "start": 409.3,
+   "end": 409.82,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "BLEHHHH--!!"
+  },
+  {
+   "i": 150,
+   "start": 409.82,
+   "end": 411.48,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Elevator muzak"
+  },
+  {
+   "i": 151,
+   "start": 411.48,
+   "end": 411.98,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "*pop*"
+  },
+  {
+   "i": 152,
+   "start": 411.98,
+   "end": 412.54,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Cell...!"
+  },
+  {
+   "i": 153,
+   "start": 412.54,
+   "end": 413.04,
+   "kind": "dialog",
+   "speaker": "Cell",
+   "text": "Hm?"
+  },
+  {
+   "i": 154,
+   "start": 413.04,
+   "end": 415.04,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Did you destroy South Galaxy?"
+  },
+  {
+   "i": 155,
+   "start": 415.04,
+   "end": 416.58,
+   "kind": "dialog",
+   "speaker": "Cell",
+   "text": "There's a South Galaxy?"
+  },
+  {
+   "i": 156,
+   "start": 416.58,
+   "end": 417.4,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Forget you heard that."
+  },
+  {
+   "i": 157,
+   "start": 417.4,
+   "end": 417.9,
+   "kind": "dialog",
+   "speaker": "Cell",
+   "text": "No."
+  },
+  {
+   "i": 158,
+   "start": 417.9,
+   "end": 418.4,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "*pop*"
+  },
+  {
+   "i": 159,
+   "start": 419.9,
+   "end": 421.22,
+   "kind": "dialog",
+   "speaker": "Cell",
+   "text": "Our talks are nice."
+  },
+  {
+   "i": 160,
+   "start": 421.68,
+   "end": 425.2,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "You call THIS a palace worthy of KING Vegeta?"
+  },
+  {
+   "i": 161,
+   "start": 425.32,
+   "end": 431.86,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "* First of all, I demand more towers. * Second, I demand more towels! * And third, I demand more trowels."
+  },
+  {
+   "i": 162,
+   "start": 431.86,
+   "end": 433.96,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "The brick-work on this place is a shit-show."
+  },
+  {
+   "i": 163,
+   "start": 434.22,
+   "end": 435.92,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "And who's this scrawny puke?"
+  },
+  {
+   "i": 164,
+   "start": 435.92,
+   "end": 438.48,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "I'm a foot and a half taller than you, but, whatever..."
+  },
+  {
+   "i": 165,
+   "start": 438.48,
+   "end": 439.34,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "What was that?!"
+  },
+  {
+   "i": 166,
+   "start": 439.34,
+   "end": 441.3,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "I said I can't hear you from down there..."
+  },
+  {
+   "i": 167,
+   "start": 441.3,
+   "end": 443.62,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Speak up, boy; I can't hear you from up there!"
+  },
+  {
+   "i": 168,
+   "start": 443.62,
+   "end": 446.94,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "Uhm, that is my son, Broly, my liege."
+  },
+  {
+   "i": 169,
+   "start": 446.94,
+   "end": 449.64,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "Forgive him; he's a very... passive boy."
+  },
+  {
+   "i": 170,
+   "start": 449.64,
+   "end": 455.0,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Beta male; got it. But, for the sake of the Saiyan race... ...he has my blessings to bed Princess Trunks."
+  },
+  {
+   "i": 171,
+   "start": 455.0,
+   "end": 456.48,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Excuse you?!"
+  },
+  {
+   "i": 172,
+   "start": 456.48,
+   "end": 458.1,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Shut up, boy; think of the bloodline."
+  },
+  {
+   "i": 173,
+   "start": 458.1,
+   "end": 459.98,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Do you even know what you're doing?!"
+  },
+  {
+   "i": 174,
+   "start": 459.98,
+   "end": 460.94,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I don't need to."
+  },
+  {
+   "i": 175,
+   "start": 461.36,
+   "end": 462.1,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I'm King."
+  },
+  {
+   "i": 176,
+   "start": 462.26,
+   "end": 462.98,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Huh?!"
+  },
+  {
+   "i": 177,
+   "start": 462.26,
+   "end": 465.9,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "Your hair looks like lavender, but smells like strawberries..."
+  },
+  {
+   "i": 178,
+   "start": 465.9,
+   "end": 466.94,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Daaad!"
+  },
+  {
+   "i": 179,
+   "start": 466.94,
+   "end": 468.76,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Something seems really fishy."
+  },
+  {
+   "i": 180,
+   "start": 468.76,
+   "end": 470.8,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Yeah. Trunks doesn't even have a womb."
+  },
+  {
+   "i": 181,
+   "start": 470.8,
+   "end": 472.42,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "I say we investigate."
+  },
+  {
+   "i": 182,
+   "start": 472.42,
+   "end": 474.06,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Ha! Not that curious!"
+  },
+  {
+   "i": 183,
+   "start": 474.06,
+   "end": 475.2,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "The PLANET."
+  },
+  {
+   "i": 184,
+   "start": 475.2,
+   "end": 476.66,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Yeah, yeah, I know..."
+  },
+  {
+   "i": 185,
+   "start": 476.66,
+   "end": 479.16,
+   "kind": "dialog",
+   "speaker": "Mercenary Tao",
+   "text": "*screaming*"
+  },
+  {
+   "i": 186,
+   "start": 479.16,
+   "end": 484.44,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I just wanna make sure... if it was you who destroyed South Galaxy."
+  },
+  {
+   "i": 187,
+   "start": 479.16,
+   "end": 484.44,
+   "kind": "dialog",
+   "speaker": "Mercenary Tao",
+   "text": "*screaming*"
+  },
+  {
+   "i": 188,
+   "start": 484.44,
+   "end": 486.8,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Stop screaming if it was."
+  },
+  {
+   "i": 189,
+   "start": 484.44,
+   "end": 489.04,
+   "kind": "dialog",
+   "speaker": "Mercenary Tao",
+   "text": "*still screaming*"
+  },
+  {
+   "i": 190,
+   "start": 489.04,
+   "end": 490.3,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Okay..."
+  },
+  {
+   "i": 191,
+   "start": 489.04,
+   "end": 490.3,
+   "kind": "dialog",
+   "speaker": "Mercenary Tao",
+   "text": "*continues screaming*"
+  },
+  {
+   "i": 192,
+   "start": 490.3,
+   "end": 492.42,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I'ma let you go then..."
+  },
+  {
+   "i": 193,
+   "start": 490.3,
+   "end": 492.42,
+   "kind": "dialog",
+   "speaker": "Mercenary Tao",
+   "text": "*continues screaming*"
+  },
+  {
+   "i": 194,
+   "start": 492.42,
+   "end": 494.18,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Good luck with your ass-assing!"
+  },
+  {
+   "i": 195,
+   "start": 492.42,
+   "end": 494.18,
+   "kind": "dialog",
+   "speaker": "Mercenary Tao",
+   "text": "*continues screaming*"
+  },
+  {
+   "i": 196,
+   "start": 494.18,
+   "end": 494.86,
+   "kind": "dialog",
+   "speaker": "Mercenary Tao",
+   "text": "*pop* *continues screaming*"
+  },
+  {
+   "i": 197,
+   "start": 495.24,
+   "end": 497.42,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Man, King Kai, I'm stumped!"
+  },
+  {
+   "i": 198,
+   "start": 497.6,
+   "end": 503.42,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I asked Cell, Mercenary Tao, Piccolo, Tenshinhan, and that *monster*, Pilaf!"
+  },
+  {
+   "i": 199,
+   "start": 503.58,
+   "end": 506.24,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "And none of them destroyed South Galaxy!"
+  },
+  {
+   "i": 200,
+   "start": 506.24,
+   "end": 510.2,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "*Goku*... I've been trying to tell you for the last two hours!"
+  },
+  {
+   "i": 201,
+   "start": 510.2,
+   "end": 512.2,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "GO TO NEW VEGETA!"
+  },
+  {
+   "i": 202,
+   "start": 512.2,
+   "end": 513.24,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "*gasp*"
+  },
+  {
+   "i": 203,
+   "start": 513.5,
+   "end": 515.52,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "There's another Vegeta?!"
+  },
+  {
+   "i": 204,
+   "start": 515.52,
+   "end": 518.24,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I wonder if he's stronger than normal Vegeta..."
+  },
+  {
+   "i": 205,
+   "start": 518.56,
+   "end": 519.46,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Eeeeee!"
+  },
+  {
+   "i": 206,
+   "start": 519.46,
+   "end": 519.96,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "*pop*"
+  },
+  {
+   "i": 207,
+   "start": 520.82,
+   "end": 523.02,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "That man is going to be the death of me."
+  },
+  {
+   "i": 208,
+   "start": 523.36,
+   "end": 525.88,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "*wind*"
+  },
+  {
+   "i": 209,
+   "start": 525.88,
+   "end": 528.14,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "This place looked a lot better as a skyline."
+  },
+  {
+   "i": 210,
+   "start": 528.36,
+   "end": 529.74,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "What happened here?"
+  },
+  {
+   "i": 211,
+   "start": 529.74,
+   "end": 532.76,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "And why does it look like \"The Day After Tomorrow\" was yesterday?"
+  },
+  {
+   "i": 212,
+   "start": 532.76,
+   "end": 533.98,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Hey, over there!"
+  },
+  {
+   "i": 213,
+   "start": 533.98,
+   "end": 537.42,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Maybe we can ask one of these fine, indentured servants what's going on."
+  },
+  {
+   "i": 214,
+   "start": 537.54,
+   "end": 539.4,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Aw, crapbaskets..."
+  },
+  {
+   "i": 215,
+   "start": 539.5,
+   "end": 541.88,
+   "kind": "dialog",
+   "speaker": "Condi",
+   "text": "*coughing in pain*"
+  },
+  {
+   "i": 216,
+   "start": 541.88,
+   "end": 542.98,
+   "kind": "dialog",
+   "speaker": "Shamo",
+   "text": "Grandfather!"
+  },
+  {
+   "i": 217,
+   "start": 543.94,
+   "end": 548.02,
+   "kind": "dialog",
+   "speaker": "Condi",
+   "text": "Worry not, podling... I just inhaled a little bit of rust..."
+  },
+  {
+   "i": 218,
+   "start": 548.02,
+   "end": 551.22,
+   "kind": "dialog",
+   "speaker": "Condi",
+   "text": "*coughing*"
+  },
+  {
+   "i": 219,
+   "start": 551.22,
+   "end": 552.18,
+   "kind": "dialog",
+   "speaker": "Shamo",
+   "text": "No, please!"
+  },
+  {
+   "i": 220,
+   "start": 552.22,
+   "end": 555.02,
+   "kind": "dialog",
+   "speaker": "Shamo",
+   "text": "If you are angry, use your whip on me."
+  },
+  {
+   "i": 221,
+   "start": 555.14,
+   "end": 556.48,
+   "kind": "dialog",
+   "speaker": "Shamo",
+   "text": "I can take it..."
+  },
+  {
+   "i": 222,
+   "start": 556.48,
+   "end": 558.36,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "No, don't worry, we're not with them."
+  },
+  {
+   "i": 223,
+   "start": 558.36,
+   "end": 559.5,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "We won't hurt you."
+  },
+  {
+   "i": 224,
+   "start": 559.6,
+   "end": 560.24,
+   "kind": "dialog",
+   "speaker": "Shamo",
+   "text": "Oh."
+  },
+  {
+   "i": 225,
+   "start": 560.56,
+   "end": 561.38,
+   "kind": "dialog",
+   "speaker": "Shamo",
+   "text": "Whatever."
+  },
+  {
+   "i": 226,
+   "start": 561.78,
+   "end": 563.58,
+   "kind": "dialog",
+   "speaker": "Condi",
+   "text": "*coughing*"
+  },
+  {
+   "i": 227,
+   "start": 561.78,
+   "end": 563.58,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "So, uh..."
+  },
+  {
+   "i": 228,
+   "start": 563.58,
+   "end": 565.32,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "You guys slaves, or...?"
+  },
+  {
+   "i": 229,
+   "start": 565.32,
+   "end": 566.12,
+   "kind": "dialog",
+   "speaker": "Shamo",
+   "text": "Oh yeah!"
+  },
+  {
+   "i": 230,
+   "start": 566.32,
+   "end": 571.72,
+   "kind": "dialog",
+   "speaker": "Shamo",
+   "text": "A couple of Saiyans landed on our planet a few months ago, and transported us here against our will."
+  },
+  {
+   "i": 231,
+   "start": 571.9,
+   "end": 574.34,
+   "kind": "dialog",
+   "speaker": "Shamo",
+   "text": "And if we step outta line, well..."
+  },
+  {
+   "i": 232,
+   "start": 574.34,
+   "end": 575.06,
+   "kind": "dialog",
+   "speaker": "Shamo",
+   "text": "AUGH-UGH...!"
+  },
+  {
+   "i": 233,
+   "start": 575.06,
+   "end": 579.42,
+   "kind": "dialog",
+   "speaker": "Masked Sadist",
+   "text": "Surprise, you worthless runt! It's time for your hourly beating!"
+  },
+  {
+   "i": 234,
+   "start": 579.42,
+   "end": 582.0,
+   "kind": "dialog",
+   "speaker": "Shamo",
+   "text": "Oogh, oh God, *daddy*!"
+  },
+  {
+   "i": 235,
+   "start": 582.0,
+   "end": 582.76,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Whoa!"
+  },
+  {
+   "i": 236,
+   "start": 582.76,
+   "end": 584.96,
+   "kind": "dialog",
+   "speaker": "Masked Sadist",
+   "text": "Uh, no! No, no, no, no. That's my name."
+  },
+  {
+   "i": 237,
+   "start": 585.2,
+   "end": 587.32,
+   "kind": "dialog",
+   "speaker": "Masked Sadist",
+   "text": "It's actually pronounced: \"Dah-Di\"."
+  },
+  {
+   "i": 238,
+   "start": 587.54,
+   "end": 589.46,
+   "kind": "dialog",
+   "speaker": "Shamo",
+   "text": "Huaa! Harder, daddy!"
+  },
+  {
+   "i": 239,
+   "start": 589.46,
+   "end": 591.7,
+   "kind": "dialog",
+   "speaker": "Dah-Di",
+   "text": "Now, that one was what you thought it was."
+  },
+  {
+   "i": 240,
+   "start": 591.82,
+   "end": 593.92,
+   "kind": "dialog",
+   "speaker": "Shamo",
+   "text": "Ungh, yeaaah~! Ughh!"
+  },
+  {
+   "i": 241,
+   "start": 593.92,
+   "end": 596.82,
+   "kind": "dialog",
+   "speaker": "Condi",
+   "text": "Please, I beg you! He is but a boy!"
+  },
+  {
+   "i": 242,
+   "start": 596.98,
+   "end": 600.4,
+   "kind": "dialog",
+   "speaker": "Condi",
+   "text": "Let me take it! It's *my turn*!"
+  },
+  {
+   "i": 243,
+   "start": 600.4,
+   "end": 603.18,
+   "kind": "dialog",
+   "speaker": "Dah-Di",
+   "text": "Only after you lick my boot!"
+  },
+  {
+   "i": 244,
+   "start": 603.18,
+   "end": 605.9,
+   "kind": "dialog",
+   "speaker": "Condi",
+   "text": "Oh, you monster~!"
+  },
+  {
+   "i": 245,
+   "start": 605.9,
+   "end": 606.82,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Stop that!"
+  },
+  {
+   "i": 246,
+   "start": 606.82,
+   "end": 607.7,
+   "kind": "dialog",
+   "speaker": "Dah-Di",
+   "text": "Huagh!"
+  },
+  {
+   "i": 247,
+   "start": 608.24,
+   "end": 611.46,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Leave these... odd people alone!"
+  },
+  {
+   "i": 248,
+   "start": 611.58,
+   "end": 615.56,
+   "kind": "dialog",
+   "speaker": "Mah-Stehr",
+   "text": "Ha ha ha... We've been beating up children all day long."
+  },
+  {
+   "i": 249,
+   "start": 615.56,
+   "end": 617.02,
+   "kind": "dialog",
+   "speaker": "Mah-Stehr",
+   "text": "What makes you any different?"
+  },
+  {
+   "i": 250,
+   "start": 617.02,
+   "end": 619.1,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Because he's with me!"
+  },
+  {
+   "i": 251,
+   "start": 619.1,
+   "end": 621.26,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Hii ya! Ha! Hua! Whacha-cha!"
+  },
+  {
+   "i": 252,
+   "start": 621.26,
+   "end": 624.42,
+   "kind": "dialog",
+   "speaker": "Mah-Stehr",
+   "text": "Okay - kinky we can handle, but we're not being paid for crazy."
+  },
+  {
+   "i": 253,
+   "start": 624.42,
+   "end": 625.02,
+   "kind": "dialog",
+   "speaker": "Mah-Stehr",
+   "text": "We're out."
+  },
+  {
+   "i": 254,
+   "start": 625.02,
+   "end": 626.28,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Wawawawawawa!"
+  },
+  {
+   "i": 255,
+   "start": 626.28,
+   "end": 627.7,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "WATAAH!"
+  },
+  {
+   "i": 256,
+   "start": 626.28,
+   "end": 627.7,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "-eeee-aaaagaaghhh!"
+  },
+  {
+   "i": 257,
+   "start": 627.7,
+   "end": 632.9,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh... agh.... And I just bit the inside of my cheek earlier! Augh..."
+  },
+  {
+   "i": 258,
+   "start": 632.9,
+   "end": 635.12,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Goku?! What the heck are you doing here?!"
+  },
+  {
+   "i": 259,
+   "start": 635.26,
+   "end": 636.22,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Also, sorry."
+  },
+  {
+   "i": 260,
+   "start": 636.22,
+   "end": 638.16,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh, just looking for the New Vegeta."
+  },
+  {
+   "i": 261,
+   "start": 638.34,
+   "end": 641.3,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I followed Old Vegeta's energy here and I found you guys!"
+  },
+  {
+   "i": 262,
+   "start": 641.44,
+   "end": 644.94,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Uh, Goku? New Vegeta is actually just a planet."
+  },
+  {
+   "i": 263,
+   "start": 645.12,
+   "end": 650.14,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Aw, NOW you tell me! Who names their planet after themselves?"
+  },
+  {
+   "i": 264,
+   "start": 650.14,
+   "end": 651.62,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "A goddamn idiot!"
+  },
+  {
+   "i": 265,
+   "start": 650.66,
+   "end": 651.62,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Huh?"
+  },
+  {
+   "i": 266,
+   "start": 651.74,
+   "end": 654.5,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "That's what I am for buying into this garbage heap!"
+  },
+  {
+   "i": 267,
+   "start": 654.58,
+   "end": 656.02,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "Please, my liege!"
+  },
+  {
+   "i": 268,
+   "start": 656.02,
+   "end": 659.1,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I'm not your \"liege\", you brown-nosing toady."
+  },
+  {
+   "i": 269,
+   "start": 659.1,
+   "end": 664.72,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "You promised me a kingdom - but I have no subjects, no infrastructure, and a throne made of wood!"
+  },
+  {
+   "i": 270,
+   "start": 664.72,
+   "end": 666.32,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "What am I, the Space Pope?!"
+  },
+  {
+   "i": 271,
+   "start": 666.32,
+   "end": 669.76,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "I beg of you, King Vegeta - please stay."
+  },
+  {
+   "i": 272,
+   "start": 669.76,
+   "end": 673.0,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "For roughly, three... maybe three and a half hours?"
+  },
+  {
+   "i": 273,
+   "start": 673.0,
+   "end": 675.02,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "And continue wasting my time?!"
+  },
+  {
+   "i": 274,
+   "start": 675.02,
+   "end": 678.0,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Oh, and tell your creepy brat to stop following me!"
+  },
+  {
+   "i": 275,
+   "start": 678.0,
+   "end": 679.26,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "What's your power level?"
+  },
+  {
+   "i": 276,
+   "start": 679.26,
+   "end": 682.56,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "And stop *asking that*! *No-one cares anymore*!"
+  },
+  {
+   "i": 277,
+   "start": 682.56,
+   "end": 683.74,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "Mine's pretty big..."
+  },
+  {
+   "i": 278,
+   "start": 683.74,
+   "end": 685.06,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hey 'Geets!"
+  },
+  {
+   "i": 279,
+   "start": 685.06,
+   "end": 686.32,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "Oh shit, it's Kaka--"
+  },
+  {
+   "i": 280,
+   "start": 686.32,
+   "end": 686.82,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "Hng!"
+  },
+  {
+   "i": 281,
+   "start": 686.82,
+   "end": 687.88,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "--kuu!"
+  },
+  {
+   "i": 282,
+   "start": 688.06,
+   "end": 691.46,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "Goku! Hello, Goku."
+  },
+  {
+   "i": 283,
+   "start": 691.46,
+   "end": 695.12,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "Have you come to join the rest of your marvelous race?"
+  },
+  {
+   "i": 284,
+   "start": 695.12,
+   "end": 697.68,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Or did you just come to see my new palace?"
+  },
+  {
+   "i": 285,
+   "start": 697.68,
+   "end": 700.42,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "It has six towers! *Like a peasant*!"
+  },
+  {
+   "i": 286,
+   "start": 700.42,
+   "end": 702.3,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "Hello... What is your power level?"
+  },
+  {
+   "i": 287,
+   "start": 702.3,
+   "end": 704.38,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Uh, dunno. Pretty big, though."
+  },
+  {
+   "i": 288,
+   "start": 704.38,
+   "end": 705.38,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "Mine too..."
+  },
+  {
+   "i": 289,
+   "start": 705.38,
+   "end": 705.96,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Cool!"
+  },
+  {
+   "i": 290,
+   "start": 706.1,
+   "end": 709.92,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "So, 'Geets - I'm actually looking for the person who blew up a galaxy?"
+  },
+  {
+   "i": 291,
+   "start": 709.92,
+   "end": 713.14,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "But who would blow up South Galaxy??"
+  },
+  {
+   "i": 292,
+   "start": 713.14,
+   "end": 715.66,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "Probably someone with a really big power level..."
+  },
+  {
+   "i": 293,
+   "start": 715.76,
+   "end": 718.44,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "That's a good point. You've got a good point."
+  },
+  {
+   "i": 294,
+   "start": 718.54,
+   "end": 719.46,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "What's your name?"
+  },
+  {
+   "i": 295,
+   "start": 719.46,
+   "end": 720.06,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "Broly."
+  },
+  {
+   "i": 296,
+   "start": 720.06,
+   "end": 721.36,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Good point, Broly!"
+  },
+  {
+   "i": 297,
+   "start": 721.36,
+   "end": 722.24,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "Mmm..."
+  },
+  {
+   "i": 298,
+   "start": 722.24,
+   "end": 724.52,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Father! It's all a lie!"
+  },
+  {
+   "i": 299,
+   "start": 724.52,
+   "end": 728.54,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I know; a queen-sized bed? Paragus, you squalid f**k."
+  },
+  {
+   "i": 300,
+   "start": 728.54,
+   "end": 729.22,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "No."
+  },
+  {
+   "i": 301,
+   "start": 729.22,
+   "end": 733.92,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Paragus has been fabricating this entire planet. From its palace to its people!"
+  },
+  {
+   "i": 302,
+   "start": 734.18,
+   "end": 736.32,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "Princess Trunks, er, perhaps--"
+  },
+  {
+   "i": 303,
+   "start": 736.32,
+   "end": 738.98,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Okay, I'm putting a moratorium on that right now."
+  },
+  {
+   "i": 304,
+   "start": 739.12,
+   "end": 744.62,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Father, this psychopath has been enslaving races from *other* planets to build your kingdom!"
+  },
+  {
+   "i": 305,
+   "start": 744.62,
+   "end": 746.86,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "*Even the greenery* is manufactured!"
+  },
+  {
+   "i": 306,
+   "start": 746.94,
+   "end": 749.44,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Paragus... is this true?"
+  },
+  {
+   "i": 307,
+   "start": 749.64,
+   "end": 750.92,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "My liege..."
+  },
+  {
+   "i": 308,
+   "start": 751.24,
+   "end": 753.3,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "Yes... it is."
+  },
+  {
+   "i": 309,
+   "start": 753.48,
+   "end": 754.92,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "*My God*..."
+  },
+  {
+   "i": 310,
+   "start": 755.2,
+   "end": 758.02,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "You're not the shitstain of a Saiyan I thought you were!"
+  },
+  {
+   "i": 311,
+   "start": 758.02,
+   "end": 759.56,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "Thank you, my liege!"
+  },
+  {
+   "i": 312,
+   "start": 759.56,
+   "end": 760.94,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Oh goddammit, Dad."
+  },
+  {
+   "i": 313,
+   "start": 760.94,
+   "end": 763.78,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "You are now my Royal Grand Vizier!"
+  },
+  {
+   "i": 314,
+   "start": 763.78,
+   "end": 765.94,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "Ah! Big shoes to fill..."
+  },
+  {
+   "i": 315,
+   "start": 765.94,
+   "end": 768.38,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Father! What this guy has done..."
+  },
+  {
+   "i": 316,
+   "start": 768.38,
+   "end": 769.58,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "It's inhuman!"
+  },
+  {
+   "i": 317,
+   "start": 769.58,
+   "end": 772.04,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Yes, but it's not *insaiyan*."
+  },
+  {
+   "i": 318,
+   "start": 772.04,
+   "end": 774.52,
+   "kind": "dialog",
+   "speaker": "Shamo",
+   "text": "Actually, we much enjoy the slavery!"
+  },
+  {
+   "i": 319,
+   "start": 774.52,
+   "end": 775.34,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Say wha'?"
+  },
+  {
+   "i": 320,
+   "start": 775.34,
+   "end": 778.38,
+   "kind": "dialog",
+   "speaker": "Shamo",
+   "text": "Yes. Being enslaved and exploited by another..."
+  },
+  {
+   "i": 321,
+   "start": 778.38,
+   "end": 782.96,
+   "kind": "dialog",
+   "speaker": "Shamo",
+   "text": "stronger, *strapping* race, fulfills us completely."
+  },
+  {
+   "i": 322,
+   "start": 782.96,
+   "end": 785.38,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "You know, I... actually kinda get it."
+  },
+  {
+   "i": 323,
+   "start": 785.38,
+   "end": 790.04,
+   "kind": "dialog",
+   "speaker": "Shamo",
+   "text": "Although, it is strange that he would force us to build a kingdom on a doomed planet."
+  },
+  {
+   "i": 324,
+   "start": 790.04,
+   "end": 791.32,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "'Oh, goddammit.'"
+  },
+  {
+   "i": 325,
+   "start": 791.32,
+   "end": 792.7,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Explain, shitstain."
+  },
+  {
+   "i": 326,
+   "start": 792.86,
+   "end": 796.26,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "To hell with this; I'll leave the boot-licking to the Shamoshians."
+  },
+  {
+   "i": 327,
+   "start": 796.46,
+   "end": 798.18,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "Well, then...!"
+  },
+  {
+   "i": 328,
+   "start": 798.18,
+   "end": 802.62,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "You have finally unravelled my plan, King Vegeta!"
+  },
+  {
+   "i": 329,
+   "start": 803.02,
+   "end": 803.66,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Okay...?"
+  },
+  {
+   "i": 330,
+   "start": 803.66,
+   "end": 813.44,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "This whole wretched planet will soon be encompassed by the cataclysmic comet, Camori... ...wiping it, and you, out with it."
+  },
+  {
+   "i": 331,
+   "start": 813.44,
+   "end": 816.66,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I'm confused. Am I being pranked? 'Cause I don't do jokes."
+  },
+  {
+   "i": 332,
+   "start": 816.66,
+   "end": 818.86,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "This is no joke!"
+  },
+  {
+   "i": 333,
+   "start": 819.06,
+   "end": 822.0,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "This... is my revenge!"
+  },
+  {
+   "i": 334,
+   "start": 822.0,
+   "end": 823.24,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "But why?"
+  },
+  {
+   "i": 335,
+   "start": 823.24,
+   "end": 827.46,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "Because that bastard Vegeta left us both to die."
+  },
+  {
+   "i": 336,
+   "start": 827.46,
+   "end": 829.78,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Sounds like me but that doesn't sound familiar."
+  },
+  {
+   "i": 337,
+   "start": 829.78,
+   "end": 833.26,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "Not you, you self-absorbed blue-blooded snot!"
+  },
+  {
+   "i": 338,
+   "start": 833.44,
+   "end": 836.48,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "Your father... The true king."
+  },
+  {
+   "i": 339,
+   "start": 836.72,
+   "end": 844.84,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "Mere days after my son was born, they realized his immense power level: A whopping 10,000!"
+  },
+  {
+   "i": 340,
+   "start": 844.84,
+   "end": 848.8,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Pff, yeah, well I was like, 20,000 as like a sperm, so, y'know..."
+  },
+  {
+   "i": 341,
+   "start": 848.8,
+   "end": 856.5,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "And so... threatened by the magnificence of my progeny... ...the king ordered for him to be executed."
+  },
+  {
+   "i": 342,
+   "start": 856.64,
+   "end": 858.24,
+   "kind": "dialog",
+   "speaker": "Young Paragus",
+   "text": "This is insane!"
+  },
+  {
+   "i": 343,
+   "start": 858.44,
+   "end": 865.58,
+   "kind": "dialog",
+   "speaker": "Young Paragus",
+   "text": "Freeza's got us paying rent under his boot-heel, and you're just going to murder a Saiyan baby with a power level of 10,000?!"
+  },
+  {
+   "i": 344,
+   "start": 866.1,
+   "end": 871.4,
+   "kind": "dialog",
+   "speaker": "Young Paragus",
+   "text": "He's like a trump card - if the card literally flipped the table over, and shot the other player!"
+  },
+  {
+   "i": 345,
+   "start": 871.4,
+   "end": 873.76,
+   "kind": "dialog",
+   "speaker": "Young Paragus",
+   "text": "He would be of great use to Vegeta!"
+  },
+  {
+   "i": 346,
+   "start": 873.98,
+   "end": 876.56,
+   "kind": "dialog",
+   "speaker": "King Vegeta",
+   "text": "My son, the planet, or me?"
+  },
+  {
+   "i": 347,
+   "start": 876.56,
+   "end": 877.46,
+   "kind": "dialog",
+   "speaker": "Young Paragus",
+   "text": "Yes!"
+  },
+  {
+   "i": 348,
+   "start": 877.56,
+   "end": 879.08,
+   "kind": "dialog",
+   "speaker": "Young Paragus",
+   "text": "HUAAAAAAAAAAGH"
+  },
+  {
+   "i": 349,
+   "start": 879.08,
+   "end": 881.7,
+   "kind": "dialog",
+   "speaker": "Young Paragus",
+   "text": "GAHBHOOHUAAHYEAB HYUNNOBHUHA"
+  },
+  {
+   "i": 350,
+   "start": 881.7,
+   "end": 883.2,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Crash"
+  },
+  {
+   "i": 351,
+   "start": 883.2,
+   "end": 885.16,
+   "kind": "dialog",
+   "speaker": "King Vegeta",
+   "text": "Grand Vizier Nappa!"
+  },
+  {
+   "i": 352,
+   "start": 885.48,
+   "end": 888.88,
+   "kind": "dialog",
+   "speaker": "King Vegeta",
+   "text": "I require your treasured guidance once more."
+  },
+  {
+   "i": 353,
+   "start": 888.88,
+   "end": 889.8,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Stab the baby."
+  },
+  {
+   "i": 354,
+   "start": 890.2,
+   "end": 891.82,
+   "kind": "dialog",
+   "speaker": "King Vegeta",
+   "text": "Are... you sure?"
+  },
+  {
+   "i": 355,
+   "start": 891.82,
+   "end": 896.86,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Look, we've got a meeting with Freeza in one hour, so either stab the baby, or we have to cancel your six 'o' clock."
+  },
+  {
+   "i": 356,
+   "start": 897.02,
+   "end": 900.98,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "He then saw to my son's execution himself."
+  },
+  {
+   "i": 357,
+   "start": 901.36,
+   "end": 904.88,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "With, well... less than success."
+  },
+  {
+   "i": 358,
+   "start": 906.86,
+   "end": 907.72,
+   "kind": "dialog",
+   "speaker": "Baby Broly",
+   "text": "Ahh!"
+  },
+  {
+   "i": 359,
+   "start": 907.72,
+   "end": 909.18,
+   "kind": "dialog",
+   "speaker": "King Vegeta",
+   "text": "Son of an Arlian whore...!"
+  },
+  {
+   "i": 360,
+   "start": 909.18,
+   "end": 913.86,
+   "kind": "dialog",
+   "speaker": "King Vegeta",
+   "text": "SOMEONE FETCH ME A BETTER DAGGER SO I MAY PROPERLY STAB THIS BABY!"
+  },
+  {
+   "i": 361,
+   "start": 913.86,
+   "end": 917.14,
+   "kind": "dialog",
+   "speaker": "Baby Broly",
+   "text": "(Crying)"
+  },
+  {
+   "i": 362,
+   "start": 914.8,
+   "end": 917.14,
+   "kind": "dialog",
+   "speaker": "King Vegeta",
+   "text": "Oh, good, now it's crying. To hell with this!"
+  },
+  {
+   "i": 363,
+   "start": 917.14,
+   "end": 917.68,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Splat"
+  },
+  {
+   "i": 364,
+   "start": 917.68,
+   "end": 919.78,
+   "kind": "dialog",
+   "speaker": "King Vegeta",
+   "text": "Just dump him in a hole with his father."
+  },
+  {
+   "i": 365,
+   "start": 919.94,
+   "end": 926.3,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "Luckily, the king was as half-assed at murdering us as he was at raising you, Vegeta."
+  },
+  {
+   "i": 366,
+   "start": 926.7,
+   "end": 932.4,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "And with Broly's magnificent power, we survived the extinction of our race."
+  },
+  {
+   "i": 367,
+   "start": 932.98,
+   "end": 934.38,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Wait, wait, wait, wait."
+  },
+  {
+   "i": 368,
+   "start": 934.38,
+   "end": 937.52,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "So does this have *anything* to do with South Galaxy?"
+  },
+  {
+   "i": 369,
+   "start": 937.68,
+   "end": 939.74,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Cause that's kinda why I'm here."
+  },
+  {
+   "i": 370,
+   "start": 939.74,
+   "end": 941.16,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "Actually, yes."
+  },
+  {
+   "i": 371,
+   "start": 941.16,
+   "end": 944.8,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "You see, one night while I was discussing The Son of Bardock..."
+  },
+  {
+   "i": 372,
+   "start": 944.8,
+   "end": 945.86,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "The scientist?"
+  },
+  {
+   "i": 373,
+   "start": 945.86,
+   "end": 947.08,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "The very same."
+  },
+  {
+   "i": 374,
+   "start": 947.24,
+   "end": 951.78,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "...That night, I uttered a single word that triggered Broly."
+  },
+  {
+   "i": 375,
+   "start": 952.06,
+   "end": 954.46,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "And he suddenly went wild!"
+  },
+  {
+   "i": 376,
+   "start": 954.64,
+   "end": 960.32,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "In his furious rage, he exterminated the South Galaxy *in its entirety*."
+  },
+  {
+   "i": 377,
+   "start": 961.44,
+   "end": 962.82,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "What was the word?"
+  },
+  {
+   "i": 378,
+   "start": 962.82,
+   "end": 963.48,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "I..."
+  },
+  {
+   "i": 379,
+   "start": 963.98,
+   "end": 964.62,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "Why would I--?"
+  },
+  {
+   "i": 380,
+   "start": 964.62,
+   "end": 965.86,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Was it \"non-fat\"?"
+  },
+  {
+   "i": 381,
+   "start": 965.98,
+   "end": 967.74,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "No! Why would it be--?"
+  },
+  {
+   "i": 382,
+   "start": 967.74,
+   "end": 968.42,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "\"Diet\"?"
+  },
+  {
+   "i": 383,
+   "start": 968.42,
+   "end": 971.72,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "This is ridiculous. Stop trying to trigger my son!"
+  },
+  {
+   "i": 384,
+   "start": 971.96,
+   "end": 973.3,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Freezer with an \"i\"."
+  },
+  {
+   "i": 385,
+   "start": 973.3,
+   "end": 975.12,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "For God's sake...!"
+  },
+  {
+   "i": 386,
+   "start": 975.12,
+   "end": 979.76,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "First of all, Paragus, your seed couldn't compare to my own. And he's a filthy half-ling."
+  },
+  {
+   "i": 387,
+   "start": 979.76,
+   "end": 980.72,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Love you too, Dad."
+  },
+  {
+   "i": 388,
+   "start": 980.72,
+   "end": 985.76,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "And second, I couldn't care *less* about any South Galaxies, or lack thereof."
+  },
+  {
+   "i": 389,
+   "start": 985.76,
+   "end": 992.18,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "So, if you're done wasting everyone's time... Grab your friends, grab your shit, AND GO HOME, KAKAROT!"
+  },
+  {
+   "i": 390,
+   "start": 992.18,
+   "end": 992.94,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "Unnghh!"
+  },
+  {
+   "i": 391,
+   "start": 992.94,
+   "end": 994.18,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "Please do not say that again."
+  },
+  {
+   "i": 392,
+   "start": 994.18,
+   "end": 995.96,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "It was \"friends\", wasn't it?!"
+  },
+  {
+   "i": 393,
+   "start": 995.96,
+   "end": 997.46,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I said *shut it*, Kakarot!"
+  },
+  {
+   "i": 394,
+   "start": 997.46,
+   "end": 998.08,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "Agghhh!"
+  },
+  {
+   "i": 395,
+   "start": 998.08,
+   "end": 1000.1,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "Please, stop saying that name!"
+  },
+  {
+   "i": 396,
+   "start": 1000.1,
+   "end": 1002.02,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Father, just call him Goku!"
+  },
+  {
+   "i": 397,
+   "start": 1002.02,
+   "end": 1004.54,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "And disrespect MY heritage?!"
+  },
+  {
+   "i": 398,
+   "start": 1004.54,
+   "end": 1008.56,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I will address him with the name given to him by the glorious Saiyan race!"
+  },
+  {
+   "i": 399,
+   "start": 1008.56,
+   "end": 1009.82,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "KAKAROT, KAKAROT--"
+  },
+  {
+   "i": 400,
+   "start": 1009.82,
+   "end": 1013.54,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "KAKAROOOOOOOOOT!!"
+  },
+  {
+   "i": 401,
+   "start": 1013.54,
+   "end": 1015.24,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "See, he's slow, and he gets it."
+  },
+  {
+   "i": 402,
+   "start": 1015.24,
+   "end": 1016.5,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "I suggest we all run."
+  },
+  {
+   "i": 403,
+   "start": 1016.5,
+   "end": 1019.22,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "RAAAAAAAAAAAAAAAAGH!!!"
+  },
+  {
+   "i": 404,
+   "start": 1025.3,
+   "end": 1028.4,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "(Growling)"
+  },
+  {
+   "i": 405,
+   "start": 1033.46,
+   "end": 1036.26,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "This power... wha... what is he?!"
+  },
+  {
+   "i": 406,
+   "start": 1036.66,
+   "end": 1040.88,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "He... is the Legendary Super Saiyan."
+  },
+  {
+   "i": 407,
+   "start": 1040.96,
+   "end": 1042.76,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "OH, THAT'S SO COOL!"
+  },
+  {
+   "i": 408,
+   "start": 1042.76,
+   "end": 1045.28,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "But why is it kinda... green?"
+  },
+  {
+   "i": 409,
+   "start": 1045.28,
+   "end": 1047.42,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "Because it's LEGENDARY."
+  },
+  {
+   "i": 410,
+   "start": 1047.42,
+   "end": 1048.9,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "(orgasm)"
+  },
+  {
+   "i": 411,
+   "start": 1049.0,
+   "end": 1050.6,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "Hey, Kakarot."
+  },
+  {
+   "i": 412,
+   "start": 1050.6,
+   "end": 1054.18,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "You said your power level was \"pretty big\", right?"
+  },
+  {
+   "i": 413,
+   "start": 1054.4,
+   "end": 1055.74,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Uh-huh."
+  },
+  {
+   "i": 414,
+   "start": 1055.74,
+   "end": 1056.54,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Why?"
+  },
+  {
+   "i": 415,
+   "start": 1056.54,
+   "end": 1060.92,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "Because MY power... ...IS MAXIMUM!!"
+  },
+  {
+   "i": 416,
+   "start": 1062.5,
+   "end": 1063.08,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "...Prove it."
+  },
+  {
+   "i": 417,
+   "start": 1063.08,
+   "end": 1064.22,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "HUUUAAGH!"
+  },
+  {
+   "i": 418,
+   "start": 1064.22,
+   "end": 1064.98,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Why-hy?!"
+  },
+  {
+   "i": 419,
+   "start": 1066.42,
+   "end": 1068.3,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "When I woke up this morning for a gay wedding,"
+  },
+  {
+   "i": 420,
+   "start": 1068.3,
+   "end": 1069.72,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "I did not expect this."
+  },
+  {
+   "i": 421,
+   "start": 1070.6,
+   "end": 1073.3,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "H-how... How is he this strong?"
+  },
+  {
+   "i": 422,
+   "start": 1073.5,
+   "end": 1077.74,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "How many pushups did he do?! How many situps?! WHAT KIND OF JUICE DID HE DRINK?!"
+  },
+  {
+   "i": 423,
+   "start": 1077.86,
+   "end": 1081.32,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "This is not the result of paltry training..."
+  },
+  {
+   "i": 424,
+   "start": 1081.6,
+   "end": 1084.14,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "This... is destiny!"
+  },
+  {
+   "i": 425,
+   "start": 1084.36,
+   "end": 1092.7,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "For you see, Prince Vegeta... ...you're not dealing with the average Saiyan warrior anymore."
+  },
+  {
+   "i": 426,
+   "start": 1093.24,
+   "end": 1095.36,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Nooooo..."
+  },
+  {
+   "i": 427,
+   "start": 1095.98,
+   "end": 1097.46,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Gohan! Trunks!"
+  },
+  {
+   "i": 428,
+   "start": 1097.64,
+   "end": 1098.78,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Haaaaa!"
+  },
+  {
+   "i": 429,
+   "start": 1099.1,
+   "end": 1099.72,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Hu!"
+  },
+  {
+   "i": 430,
+   "start": 1100.7,
+   "end": 1102.62,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Huuuu-ahhh!"
+  },
+  {
+   "i": 431,
+   "start": 1102.62,
+   "end": 1105.82,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Wha- aw, dammit, my jacket! I only had the one!"
+  },
+  {
+   "i": 432,
+   "start": 1105.82,
+   "end": 1107.66,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Augh, Mom is gonna kill me!"
+  },
+  {
+   "i": 433,
+   "start": 1108.06,
+   "end": 1109.1,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "OUUUAAAAGHHHH!"
+  },
+  {
+   "i": 434,
+   "start": 1109.1,
+   "end": 1109.7,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hurrngh!"
+  },
+  {
+   "i": 435,
+   "start": 1109.7,
+   "end": 1110.32,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "AGHA!"
+  },
+  {
+   "i": 436,
+   "start": 1110.32,
+   "end": 1111.24,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Ahhhh!"
+  },
+  {
+   "i": 437,
+   "start": 1110.32,
+   "end": 1111.24,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Ha!"
+  },
+  {
+   "i": 438,
+   "start": 1111.24,
+   "end": 1111.88,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "AUGH!"
+  },
+  {
+   "i": 439,
+   "start": 1115.32,
+   "end": 1116.42,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Listen, Broly..."
+  },
+  {
+   "i": 440,
+   "start": 1116.54,
+   "end": 1126.28,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I don't wanna tell you how to be the the Legendary Super Saiyan, but you're not supposed to start all-out... ...you're supposed to start small and then work up to it!"
+  },
+  {
+   "i": 441,
+   "start": 1126.28,
+   "end": 1128.4,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "I am starting small."
+  },
+  {
+   "i": 442,
+   "start": 1128.6,
+   "end": 1130.48,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh! Good for you!"
+  },
+  {
+   "i": 443,
+   "start": 1130.9,
+   "end": 1132.2,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Holy crap...(!)"
+  },
+  {
+   "i": 444,
+   "start": 1132.2,
+   "end": 1134.6,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Hey Goku! I brought the Shamoshians!"
+  },
+  {
+   "i": 445,
+   "start": 1134.92,
+   "end": 1135.68,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Why??"
+  },
+  {
+   "i": 446,
+   "start": 1135.68,
+   "end": 1138.84,
+   "kind": "dialog",
+   "speaker": "Shamo",
+   "text": "There's no way we're gonna miss sadism like this!"
+  },
+  {
+   "i": 447,
+   "start": 1138.84,
+   "end": 1140.34,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Dad, what is sadism?"
+  },
+  {
+   "i": 448,
+   "start": 1140.34,
+   "end": 1141.3,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Ask your mother."
+  },
+  {
+   "i": 449,
+   "start": 1141.3,
+   "end": 1143.22,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "Yeah, you know your place."
+  },
+  {
+   "i": 450,
+   "start": 1143.42,
+   "end": 1145.46,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "Under your master's feet!"
+  },
+  {
+   "i": 451,
+   "start": 1145.46,
+   "end": 1147.08,
+   "kind": "dialog",
+   "speaker": "Shamo",
+   "text": "Oh God~, yes!"
+  },
+  {
+   "i": 452,
+   "start": 1147.08,
+   "end": 1149.36,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "You want the ultimate punishment?!"
+  },
+  {
+   "i": 453,
+   "start": 1149.36,
+   "end": 1151.06,
+   "kind": "dialog",
+   "speaker": "Shamo",
+   "text": "Mmm, yeah~!"
+  },
+  {
+   "i": 454,
+   "start": 1151.06,
+   "end": 1153.62,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "Then I'll just blow up your planet!"
+  },
+  {
+   "i": 455,
+   "start": 1154.14,
+   "end": 1156.06,
+   "kind": "dialog",
+   "speaker": "Shamo",
+   "text": "...Guys? What's our safeword?"
+  },
+  {
+   "i": 456,
+   "start": 1156.06,
+   "end": 1157.62,
+   "kind": "dialog",
+   "speaker": "Shamoshian 1",
+   "text": "Uhh, I think it was \"banana\"?"
+  },
+  {
+   "i": 457,
+   "start": 1157.62,
+   "end": 1158.82,
+   "kind": "dialog",
+   "speaker": "Shamoshian 2",
+   "text": "No, \"pineapple\"!"
+  },
+  {
+   "i": 458,
+   "start": 1158.82,
+   "end": 1161.46,
+   "kind": "dialog",
+   "speaker": "Shamoshian 3",
+   "text": "It wasn't a fruit, it was a vegetable!"
+  },
+  {
+   "i": 459,
+   "start": 1161.46,
+   "end": 1162.52,
+   "kind": "dialog",
+   "speaker": "Shamoshian 2",
+   "text": "\"Brussels sprouts\"?"
+  },
+  {
+   "i": 460,
+   "start": 1162.52,
+   "end": 1164.26,
+   "kind": "dialog",
+   "speaker": "Condi",
+   "text": "\"Broccoli\"! It was \"broccoli\"--!"
+  },
+  {
+   "i": 461,
+   "start": 1167.92,
+   "end": 1170.86,
+   "kind": "dialog",
+   "speaker": "Shamo",
+   "text": "Why did we not know our own safeword...?!"
+  },
+  {
+   "i": 462,
+   "start": 1170.86,
+   "end": 1173.2,
+   "kind": "dialog",
+   "speaker": "Condi",
+   "text": "It was lost to time..."
+  },
+  {
+   "i": 463,
+   "start": 1173.58,
+   "end": 1175.9,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "Princess Truunnks~?"
+  },
+  {
+   "i": 464,
+   "start": 1175.9,
+   "end": 1176.98,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Please, no...(!)"
+  },
+  {
+   "i": 465,
+   "start": 1176.98,
+   "end": 1178.64,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "You lied to me."
+  },
+  {
+   "i": 466,
+   "start": 1178.64,
+   "end": 1180.12,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "I did no such thing!"
+  },
+  {
+   "i": 467,
+   "start": 1180.12,
+   "end": 1182.36,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "You dirty boy!"
+  },
+  {
+   "i": 468,
+   "start": 1183.2,
+   "end": 1185.44,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "...Goku, get me off this planet right now! I'm serious!"
+  },
+  {
+   "i": 469,
+   "start": 1185.44,
+   "end": 1186.56,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "INSTANT TRANSMISSION--!!"
+  },
+  {
+   "i": 470,
+   "start": 1186.56,
+   "end": 1187.22,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Agh!!"
+  },
+  {
+   "i": 471,
+   "start": 1187.8,
+   "end": 1188.54,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Gaugh!!"
+  },
+  {
+   "i": 472,
+   "start": 1188.86,
+   "end": 1189.46,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Gagh!"
+  },
+  {
+   "i": 473,
+   "start": 1190.12,
+   "end": 1193.26,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Okay, Gohan? I was gonna save this for Cell..."
+  },
+  {
+   "i": 474,
+   "start": 1193.42,
+   "end": 1195.36,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "...but I'm gonna need you to let go, and--"
+  },
+  {
+   "i": 475,
+   "start": 1195.36,
+   "end": 1196.48,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Got it. Leaving."
+  },
+  {
+   "i": 476,
+   "start": 1196.48,
+   "end": 1198.18,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Gohan? Where'd you Gohan?"
+  },
+  {
+   "i": 477,
+   "start": 1198.18,
+   "end": 1199.14,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "HUAAAAUU--!"
+  },
+  {
+   "i": 478,
+   "start": 1200.78,
+   "end": 1205.02,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "(It's okay, Gohan. Just find that ship we came here on, grab everyone else, and--)"
+  },
+  {
+   "i": 479,
+   "start": 1205.02,
+   "end": 1206.0,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "HA-HAAGH!"
+  },
+  {
+   "i": 480,
+   "start": 1206.0,
+   "end": 1208.2,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "(I should apologize to Mom if I get home.)"
+  },
+  {
+   "i": 481,
+   "start": 1208.2,
+   "end": 1211.3,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Aggh! Gaaah-ahhhhh!"
+  },
+  {
+   "i": 482,
+   "start": 1211.3,
+   "end": 1212.0,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Aghh!"
+  },
+  {
+   "i": 483,
+   "start": 1212.64,
+   "end": 1213.4,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Gohan!"
+  },
+  {
+   "i": 484,
+   "start": 1213.4,
+   "end": 1214.54,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "RAAAGH!"
+  },
+  {
+   "i": 485,
+   "start": 1213.4,
+   "end": 1214.54,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Huaaoouu!"
+  },
+  {
+   "i": 486,
+   "start": 1214.54,
+   "end": 1215.82,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "RRUAGH!"
+  },
+  {
+   "i": 487,
+   "start": 1214.54,
+   "end": 1215.82,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Wahhhhh!"
+  },
+  {
+   "i": 488,
+   "start": 1215.82,
+   "end": 1218.54,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(Groans in pain)"
+  },
+  {
+   "i": 489,
+   "start": 1218.98,
+   "end": 1223.34,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "What's wrong, Kakarot?! Don't you care if I kill your son?!"
+  },
+  {
+   "i": 490,
+   "start": 1223.9,
+   "end": 1226.06,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Ugh... I'd rather you not?"
+  },
+  {
+   "i": 491,
+   "start": 1226.22,
+   "end": 1229.82,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "We have Dragon Balls, but, that's like a whole day."
+  },
+  {
+   "i": 492,
+   "start": 1230.06,
+   "end": 1232.76,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh! But he's never met King Kai..."
+  },
+  {
+   "i": 493,
+   "start": 1232.96,
+   "end": 1235.6,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hey Gohan! You're gonna meet King Kai!"
+  },
+  {
+   "i": 494,
+   "start": 1235.6,
+   "end": 1237.14,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Eeeeeeeeeee--!"
+  },
+  {
+   "i": 495,
+   "start": 1239.04,
+   "end": 1244.5,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "You are probably wondering where this unfettered hatred for Kakarot stems from..."
+  },
+  {
+   "i": 496,
+   "start": 1244.68,
+   "end": 1245.98,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Not... really?"
+  },
+  {
+   "i": 497,
+   "start": 1246.28,
+   "end": 1248.32,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Hating Kakarot kinda gives me life, so--"
+  },
+  {
+   "i": 498,
+   "start": 1248.32,
+   "end": 1253.28,
+   "kind": "dialog",
+   "speaker": "Baby Goku",
+   "text": "(Crying)"
+  },
+  {
+   "i": 499,
+   "start": 1248.32,
+   "end": 1253.28,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "It all began when they were but newborn babes."
+  },
+  {
+   "i": 500,
+   "start": 1249.6,
+   "end": 1250.78,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Oh, I'm being ignored."
+  },
+  {
+   "i": 501,
+   "start": 1253.28,
+   "end": 1257.3,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "Their cribs in the maternity ward were right beside each other."
+  },
+  {
+   "start": 1253.28,
+   "end": 1262.62,
+   "kind": "dialog",
+   "speaker": "Baby Goku",
+   "text": "(Crying)",
+   "i": 502
+  },
+  {
+   "i": 503,
+   "start": 1257.98,
+   "end": 1260.3,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "And Kakarot cried..."
+  },
+  {
+   "i": 504,
+   "start": 1260.3,
+   "end": 1262.62,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "...terrorizing my son!"
+  },
+  {
+   "i": 505,
+   "start": 1263.32,
+   "end": 1265.06,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "And... then...?"
+  },
+  {
+   "i": 506,
+   "start": 1265.06,
+   "end": 1265.76,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "That's it."
+  },
+  {
+   "i": 507,
+   "start": 1266.0,
+   "end": 1267.52,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Didn't my father stab him?"
+  },
+  {
+   "i": 508,
+   "start": 1267.52,
+   "end": 1268.6,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "Indeed."
+  },
+  {
+   "i": 509,
+   "start": 1268.6,
+   "end": 1269.96,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Then why doesn't he hate me?"
+  },
+  {
+   "i": 510,
+   "start": 1269.96,
+   "end": 1272.26,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "Oh! No, *I* hate you."
+  },
+  {
+   "i": 511,
+   "start": 1272.7,
+   "end": 1275.84,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "Well - I hated your father, and therefore you."
+  },
+  {
+   "i": 512,
+   "start": 1276.14,
+   "end": 1278.24,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "Broly hates Kakarot."
+  },
+  {
+   "i": 513,
+   "start": 1278.78,
+   "end": 1280.0,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "Because he cried."
+  },
+  {
+   "i": 514,
+   "start": 1280.4,
+   "end": 1281.22,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "A lot."
+  },
+  {
+   "i": 515,
+   "start": 1282.06,
+   "end": 1284.18,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "For like, three hours."
+  },
+  {
+   "i": 516,
+   "start": 1284.28,
+   "end": 1286.12,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "But... that's really dumb."
+  },
+  {
+   "i": 517,
+   "start": 1286.56,
+   "end": 1287.84,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "B-but he's so cool!"
+  },
+  {
+   "i": 518,
+   "start": 1288.26,
+   "end": 1289.92,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "BUT THAT'S SO DUMB!"
+  },
+  {
+   "i": 519,
+   "start": 1290.24,
+   "end": 1291.36,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "My power..."
+  },
+  {
+   "i": 520,
+   "start": 1291.96,
+   "end": 1296.64,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "My power is... ...MAXIMUMER!!!"
+  },
+  {
+   "i": 521,
+   "start": 1301.14,
+   "end": 1301.76,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Dad?"
+  },
+  {
+   "i": 522,
+   "start": 1301.98,
+   "end": 1302.96,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Yeah, son?"
+  },
+  {
+   "i": 523,
+   "start": 1303.32,
+   "end": 1305.84,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Holy f**k, he's strong."
+  },
+  {
+   "i": 524,
+   "start": 1306.0,
+   "end": 1312.48,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Yeah... and to make things worse... ...I think we blew your college submission."
+  },
+  {
+   "i": 525,
+   "start": 1312.48,
+   "end": 1314.86,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Man, this just isn't my day."
+  },
+  {
+   "i": 526,
+   "start": 1314.86,
+   "end": 1318.38,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Eh, don't worry. I think it's your movie next."
+  },
+  {
+   "i": 527,
+   "start": 1318.38,
+   "end": 1320.32,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "BUT NOW IS BROLY..."
+  },
+  {
+   "i": 528,
+   "start": 1320.78,
+   "end": 1322.44,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "NOW BROLY!!"
+  },
+  {
+   "i": 529,
+   "start": 1322.68,
+   "end": 1323.6,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Piccolo-help!"
+  },
+  {
+   "i": 530,
+   "start": 1326.44,
+   "end": 1330.4,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Gohan! Are you okay?! Do you need some juice?! Did you get into that school you wanted?"
+  },
+  {
+   "i": 531,
+   "start": 1330.4,
+   "end": 1331.56,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Doesn't look like it."
+  },
+  {
+   "i": 532,
+   "start": 1331.56,
+   "end": 1334.3,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "NOOOOOOOOOOOOO!!"
+  },
+  {
+   "i": 533,
+   "start": 1334.86,
+   "end": 1336.08,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "How did you get here?"
+  },
+  {
+   "i": 534,
+   "start": 1336.08,
+   "end": 1338.18,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "I came when I heard you call."
+  },
+  {
+   "i": 535,
+   "start": 1338.64,
+   "end": 1339.54,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "...How?"
+  },
+  {
+   "i": 536,
+   "start": 1339.68,
+   "end": 1340.96,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Thanks for the ship, Piccolo!"
+  },
+  {
+   "i": 537,
+   "start": 1340.96,
+   "end": 1343.4,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "We're taking this bitch to Space Vegas!"
+  },
+  {
+   "i": 538,
+   "start": 1343.4,
+   "end": 1345.72,
+   "kind": "dialog",
+   "speaker": "Oolong",
+   "text": "Yeaaaaaah!"
+  },
+  {
+   "i": 539,
+   "start": 1343.4,
+   "end": 1345.72,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Wooooooo!"
+  },
+  {
+   "i": 540,
+   "start": 1343.4,
+   "end": 1345.72,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "He he he he haa!"
+  },
+  {
+   "i": 541,
+   "start": 1345.98,
+   "end": 1348.12,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "You! Green man!"
+  },
+  {
+   "i": 542,
+   "start": 1348.58,
+   "end": 1349.98,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "You're new."
+  },
+  {
+   "i": 543,
+   "start": 1350.08,
+   "end": 1352.58,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "What is YOUR power level?"
+  },
+  {
+   "i": 544,
+   "start": 1352.58,
+   "end": 1353.72,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "I dunno, give me a minute."
+  },
+  {
+   "i": 545,
+   "start": 1353.72,
+   "end": 1355.56,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "BROLY DOES NOT LIKE TO WAIT!"
+  },
+  {
+   "i": 546,
+   "start": 1355.84,
+   "end": 1357.54,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Goku, can we beat this guy?"
+  },
+  {
+   "i": 547,
+   "start": 1357.54,
+   "end": 1358.14,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Uh!"
+  },
+  {
+   "i": 548,
+   "start": 1358.52,
+   "end": 1361.26,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I dunno! I'm sure I'll pull something out my butt."
+  },
+  {
+   "i": 549,
+   "start": 1361.26,
+   "end": 1363.9,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "AND IT WILL BE BROLY'S FIST!"
+  },
+  {
+   "i": 550,
+   "start": 1364.18,
+   "end": 1365.22,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Probably..."
+  },
+  {
+   "i": 551,
+   "start": 1365.44,
+   "end": 1368.8,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Let's see how you fare when it's four-on-one, monster!"
+  },
+  {
+   "i": 552,
+   "start": 1368.8,
+   "end": 1369.74,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "\"Monster\"?"
+  },
+  {
+   "i": 553,
+   "start": 1370.06,
+   "end": 1372.26,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "Broly is not a monster."
+  },
+  {
+   "i": 554,
+   "start": 1372.74,
+   "end": 1373.78,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "Broly is..."
+  },
+  {
+   "i": 555,
+   "start": 1374.52,
+   "end": 1375.08,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "...durh..."
+  },
+  {
+   "i": 556,
+   "start": 1375.08,
+   "end": 1375.96,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "A genuine demon?"
+  },
+  {
+   "i": 557,
+   "start": 1375.96,
+   "end": 1377.24,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "A true freak?"
+  },
+  {
+   "i": 558,
+   "start": 1377.38,
+   "end": 1378.88,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "...the Devil!"
+  },
+  {
+   "i": 559,
+   "start": 1379.02,
+   "end": 1382.92,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "OH MY GOD HE'S SO GOD DAMN COOL"
+  },
+  {
+   "i": 560,
+   "start": 1384.36,
+   "end": 1387.98,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Haaaaaa!"
+  },
+  {
+   "i": 561,
+   "start": 1386.34,
+   "end": 1387.98,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Raaaaaa!"
+  },
+  {
+   "i": 562,
+   "start": 1387.98,
+   "end": 1394.62,
+   "kind": "direction",
+   "speaker": null,
+   "text": "(Goku and Piccolo struggling to hit Broly)"
+  },
+  {
+   "i": 563,
+   "start": 1394.78,
+   "end": 1395.78,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "Ruuaaaahhh!!"
+  },
+  {
+   "i": 564,
+   "start": 1395.88,
+   "end": 1397.2,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Masenko!"
+  },
+  {
+   "i": 565,
+   "start": 1395.88,
+   "end": 1397.2,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Masenko!"
+  },
+  {
+   "i": 566,
+   "start": 1399.42,
+   "end": 1401.04,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "HUUUUUUUAAARRR!"
+  },
+  {
+   "i": 567,
+   "start": 1401.04,
+   "end": 1401.98,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Guuakhh!"
+  },
+  {
+   "i": 568,
+   "start": 1404.92,
+   "end": 1406.22,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Waghh!"
+  },
+  {
+   "i": 569,
+   "start": 1406.22,
+   "end": 1407.44,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "(Groans in pain)"
+  },
+  {
+   "i": 570,
+   "start": 1406.22,
+   "end": 1407.44,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "(Groans in pain)"
+  },
+  {
+   "i": 571,
+   "start": 1408.08,
+   "end": 1409.2,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "WAAUUGGH!"
+  },
+  {
+   "i": 572,
+   "start": 1409.38,
+   "end": 1411.42,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "AAAAAAAHHHH--!!"
+  },
+  {
+   "i": 573,
+   "start": 1414.36,
+   "end": 1416.14,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "URRRGHH OOUHH..."
+  },
+  {
+   "i": 574,
+   "start": 1416.54,
+   "end": 1419.5,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "What... the f**k are you DOING back here?!"
+  },
+  {
+   "i": 575,
+   "start": 1419.62,
+   "end": 1421.46,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I don't know what's going on anymore."
+  },
+  {
+   "i": 576,
+   "start": 1421.88,
+   "end": 1425.34,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "He's so cool but he's SO goddamn dumb!"
+  },
+  {
+   "i": 577,
+   "start": 1425.34,
+   "end": 1431.64,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Okay, Vegeta... while you're here having this \"crisis\", we're out there getting beaten into a bloody paste!"
+  },
+  {
+   "i": 578,
+   "start": 1431.64,
+   "end": 1433.04,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "But you don't understand!"
+  },
+  {
+   "i": 579,
+   "start": 1433.04,
+   "end": 1437.36,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "The Legendary Super Saiyan is motivated by a crying infant!"
+  },
+  {
+   "i": 580,
+   "start": 1437.62,
+   "end": 1440.26,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "He is a literal giant f**king baby!"
+  },
+  {
+   "i": 581,
+   "start": 1440.48,
+   "end": 1442.56,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "So, kind of what you're being right now?"
+  },
+  {
+   "i": 582,
+   "start": 1442.56,
+   "end": 1444.98,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "You're just mad you're not The Legendary Super Namekian."
+  },
+  {
+   "i": 583,
+   "start": 1445.16,
+   "end": 1446.58,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Alright, bye Vegeta."
+  },
+  {
+   "i": 584,
+   "start": 1446.58,
+   "end": 1448.04,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Byeeeeeeeeee..."
+  },
+  {
+   "i": 585,
+   "start": 1453.0,
+   "end": 1454.12,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hey, Broly!"
+  },
+  {
+   "i": 586,
+   "start": 1454.26,
+   "end": 1456.42,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "KAA... MEE--"
+  },
+  {
+   "i": 587,
+   "start": 1456.42,
+   "end": 1457.3,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Ah! Oh wah!"
+  },
+  {
+   "i": 588,
+   "start": 1457.3,
+   "end": 1458.92,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "You were SAYIN'?"
+  },
+  {
+   "i": 589,
+   "start": 1458.92,
+   "end": 1460.54,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I am Saiyan!"
+  },
+  {
+   "i": 590,
+   "start": 1460.86,
+   "end": 1461.64,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hu hu hu--!"
+  },
+  {
+   "i": 591,
+   "start": 1461.64,
+   "end": 1463.4,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Ah aughh...!"
+  },
+  {
+   "i": 592,
+   "start": 1464.38,
+   "end": 1466.5,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "This all you got, Kakarot?"
+  },
+  {
+   "i": 593,
+   "start": 1466.88,
+   "end": 1468.76,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "Broly is disappointed."
+  },
+  {
+   "i": 594,
+   "start": 1469.22,
+   "end": 1471.06,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "Kakarot killed Frieza."
+  },
+  {
+   "i": 595,
+   "start": 1471.44,
+   "end": 1476.6,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "Kakarot's supposed to be strongest... ...but now Broly's strongest!"
+  },
+  {
+   "i": 596,
+   "start": 1477.08,
+   "end": 1479.56,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "And now you DIE!"
+  },
+  {
+   "i": 597,
+   "start": 1479.76,
+   "end": 1481.1,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Excuse you."
+  },
+  {
+   "i": 598,
+   "start": 1481.32,
+   "end": 1483.38,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "Excuse BROLY?"
+  },
+  {
+   "i": 599,
+   "start": 1483.48,
+   "end": 1486.24,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "You've been ignoring someone this entire time."
+  },
+  {
+   "i": 600,
+   "start": 1486.66,
+   "end": 1488.2,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "...Broly's wife?"
+  },
+  {
+   "i": 601,
+   "start": 1488.4,
+   "end": 1491.02,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Well, technically, I was the one who killed Frieza."
+  },
+  {
+   "i": 602,
+   "start": 1491.18,
+   "end": 1492.2,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "THAT'S HOT."
+  },
+  {
+   "i": 603,
+   "start": 1492.26,
+   "end": 1495.7,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "No, you mouth-breather! You have been ignoring your king!"
+  },
+  {
+   "i": 604,
+   "start": 1495.86,
+   "end": 1498.24,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "What is a king to a god?"
+  },
+  {
+   "i": 605,
+   "start": 1498.24,
+   "end": 1501.7,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "And what is a god... TO A NONBELIEVER?!"
+  },
+  {
+   "i": 606,
+   "start": 1501.8,
+   "end": 1502.72,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "HEAAAAAAAAAAA--!"
+  },
+  {
+   "i": 607,
+   "start": 1502.72,
+   "end": 1503.48,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "MMMFF--!!"
+  },
+  {
+   "i": 608,
+   "start": 1505.8,
+   "end": 1507.58,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "Do you believe now?"
+  },
+  {
+   "i": 609,
+   "start": 1507.9,
+   "end": 1508.94,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Uh-huh."
+  },
+  {
+   "i": 610,
+   "start": 1509.8,
+   "end": 1510.94,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "So cool..."
+  },
+  {
+   "i": 611,
+   "start": 1511.68,
+   "end": 1513.16,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "Now, Kakarot..."
+  },
+  {
+   "i": 612,
+   "start": 1513.72,
+   "end": 1515.08,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "KAKAROT...!"
+  },
+  {
+   "i": 613,
+   "start": 1515.6,
+   "end": 1518.04,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "KAKARRROOOOOOOT!!"
+  },
+  {
+   "i": 614,
+   "start": 1518.68,
+   "end": 1521.92,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "He has devolved into saying only a single word."
+  },
+  {
+   "i": 615,
+   "start": 1522.92,
+   "end": 1525.96,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "(Time to hit the ol' cosmic trail...)"
+  },
+  {
+   "i": 616,
+   "start": 1525.96,
+   "end": 1526.94,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "Kakarot?"
+  },
+  {
+   "i": 617,
+   "start": 1526.94,
+   "end": 1527.62,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "Oh..."
+  },
+  {
+   "i": 618,
+   "start": 1528.2,
+   "end": 1529.18,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "...hi, son."
+  },
+  {
+   "i": 619,
+   "start": 1529.18,
+   "end": 1530.12,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "Kakarot."
+  },
+  {
+   "i": 620,
+   "start": 1530.12,
+   "end": 1532.28,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "N-no, i-it's your father."
+  },
+  {
+   "i": 621,
+   "start": 1532.56,
+   "end": 1536.4,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "I was just prepping this pod for us to leave, before the comet hits."
+  },
+  {
+   "i": 622,
+   "start": 1536.4,
+   "end": 1537.4,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "Kakarot...!"
+  },
+  {
+   "i": 623,
+   "start": 1537.72,
+   "end": 1541.96,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "Yes, true, it's a pod meant for one person, but..."
+  },
+  {
+   "i": 624,
+   "start": 1541.96,
+   "end": 1543.06,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "KAKAROT!"
+  },
+  {
+   "i": 625,
+   "start": 1543.06,
+   "end": 1545.38,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "Broly! Be a good boy!"
+  },
+  {
+   "i": 626,
+   "start": 1545.38,
+   "end": 1547.92,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "Show your daddy the love he has shown you...!"
+  },
+  {
+   "i": 627,
+   "start": 1548.1,
+   "end": 1548.92,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "Hug."
+  },
+  {
+   "i": 628,
+   "start": 1549.34,
+   "end": 1550.62,
+   "kind": "dialog",
+   "speaker": "Paragus",
+   "text": "Oh, nononononono--!"
+  },
+  {
+   "i": 629,
+   "start": 1549.34,
+   "end": 1550.62,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "Huuuuuuug!"
+  },
+  {
+   "i": 630,
+   "start": 1550.62,
+   "end": 1551.46,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Squelch"
+  },
+  {
+   "i": 631,
+   "start": 1551.78,
+   "end": 1553.16,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "HEAAAAUNGH!!"
+  },
+  {
+   "i": 632,
+   "start": 1558.18,
+   "end": 1559.26,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "...Kakarot."
+  },
+  {
+   "i": 633,
+   "start": 1559.72,
+   "end": 1562.4,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Okay, guys... be real with me..."
+  },
+  {
+   "i": 634,
+   "start": 1562.8,
+   "end": 1564.98,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "...is this the worst, or what?"
+  },
+  {
+   "i": 635,
+   "start": 1564.98,
+   "end": 1569.62,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Frankly, at this point, I wish we could open up the Dead Zone and bring back Garlic Jr."
+  },
+  {
+   "i": 636,
+   "start": 1569.62,
+   "end": 1573.24,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Can't believe I'm saying it, but... I'll take some more Androids, please."
+  },
+  {
+   "i": 637,
+   "start": 1573.24,
+   "end": 1580.04,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "And I'd rather get kicked in the dick, a THOUSAND more times... ...than hear that idiot scream Kakarot's name again."
+  },
+  {
+   "i": 638,
+   "start": 1580.04,
+   "end": 1580.88,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "KAKAROT!"
+  },
+  {
+   "i": 639,
+   "start": 1580.88,
+   "end": 1582.2,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "EUUHARRRGHH."
+  },
+  {
+   "i": 640,
+   "start": 1582.2,
+   "end": 1586.02,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "I'd even take Turles. And he was just an evil version of my dad."
+  },
+  {
+   "i": 641,
+   "start": 1586.02,
+   "end": 1588.28,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Wait, that guy with the tree? Is he alive?"
+  },
+  {
+   "i": 642,
+   "start": 1588.28,
+   "end": 1589.44,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Not anymore."
+  },
+  {
+   "i": 643,
+   "start": 1589.7,
+   "end": 1592.0,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Also, that Wheelo guy. He was nice..."
+  },
+  {
+   "i": 644,
+   "start": 1592.0,
+   "end": 1595.0,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Oh yeah... too bad he died of brain cancer."
+  },
+  {
+   "i": 645,
+   "start": 1595.0,
+   "end": 1597.64,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Cool... then I'll cut to the chaste..."
+  },
+  {
+   "i": 646,
+   "start": 1598.0,
+   "end": 1599.52,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Give me all of your energy."
+  },
+  {
+   "i": 647,
+   "start": 1599.9,
+   "end": 1600.64,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Right now."
+  },
+  {
+   "i": 648,
+   "start": 1600.98,
+   "end": 1602.92,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I'll end it in one punch, man."
+  },
+  {
+   "i": 649,
+   "start": 1602.92,
+   "end": 1604.7,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Done."
+  },
+  {
+   "i": 650,
+   "start": 1602.92,
+   "end": 1604.7,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Doing it."
+  },
+  {
+   "i": 651,
+   "start": 1602.92,
+   "end": 1604.7,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Please make it end."
+  },
+  {
+   "i": 652,
+   "start": 1604.7,
+   "end": 1607.66,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Now Vegeta... I know you're probably not going to--"
+  },
+  {
+   "i": 653,
+   "start": 1607.66,
+   "end": 1609.5,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "F**k it, you have it, just go."
+  },
+  {
+   "i": 654,
+   "start": 1609.5,
+   "end": 1610.8,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Thanks, best buddy!"
+  },
+  {
+   "i": 655,
+   "start": 1610.8,
+   "end": 1611.4,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "No."
+  },
+  {
+   "i": 656,
+   "start": 1611.98,
+   "end": 1615.84,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "HUUUAAAAAAAAGHHHHHHHH!!!!"
+  },
+  {
+   "i": 657,
+   "start": 1619.98,
+   "end": 1622.38,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "HUAAARRRRGHHHHH!!!"
+  },
+  {
+   "i": 658,
+   "start": 1622.72,
+   "end": 1624.6,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hey! BROLY!"
+  },
+  {
+   "i": 659,
+   "start": 1625.9,
+   "end": 1627.58,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "SAY MY NAME!"
+  },
+  {
+   "i": 660,
+   "start": 1629.68,
+   "end": 1630.8,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "HUUNGH?!?!"
+  },
+  {
+   "i": 661,
+   "start": 1630.84,
+   "end": 1637.78,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "(Crying)"
+  },
+  {
+   "i": 662,
+   "start": 1638.32,
+   "end": 1640.22,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "HUUUNGH!"
+  },
+  {
+   "i": 663,
+   "start": 1640.22,
+   "end": 1645.04,
+   "kind": "dialog",
+   "speaker": "Broly",
+   "text": "KA…KAA…ROOOOOOOOOTTT!!!!"
+  },
+  {
+   "i": 664,
+   "start": 1645.04,
+   "end": 1646.32,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Victory for Gok—!"
+  },
+  {
+   "i": 665,
+   "start": 1646.32,
+   "end": 1647.2,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Huaaaaa!"
+  },
+  {
+   "i": 666,
+   "start": 1660.96,
+   "end": 1661.46,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Pop"
+  },
+  {
+   "i": 667,
+   "start": 1661.68,
+   "end": 1663.08,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "HOLY SHIT!"
+  },
+  {
+   "i": 668,
+   "start": 1663.3,
+   "end": 1665.46,
+   "kind": "dialog",
+   "speaker": "Shamo",
+   "text": "OHH, IT'S SO TIGHT~!"
+  },
+  {
+   "i": 669,
+   "start": 1665.46,
+   "end": 1671.04,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Okay, just gonna drop this one out there, but earlier, nobody brought up Slug and I feel that's kind of racist."
+  },
+  {
+   "i": 670,
+   "start": 1671.34,
+   "end": 1674.88,
+   "kind": "dialog",
+   "speaker": "Oolong",
+   "text": "What are these things and why is one GRINDING ON ME?!"
+  },
+  {
+   "i": 671,
+   "start": 1674.88,
+   "end": 1676.92,
+   "kind": "dialog",
+   "speaker": "Shamo",
+   "text": "STEP ON MY GENITALS~!"
+  },
+  {
+   "i": 672,
+   "start": 1677.56,
+   "end": 1679.26,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "There you go, South Kai."
+  },
+  {
+   "i": 673,
+   "start": 1679.44,
+   "end": 1682.02,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Your galaxy has been avenged."
+  },
+  {
+   "i": 674,
+   "start": 1684.5,
+   "end": 1686.08,
+   "kind": "dialog",
+   "speaker": "South Kai",
+   "text": "…But it's still gone."
+  },
+  {
+   "i": 675,
+   "start": 1686.08,
+   "end": 1688.78,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Sorry, but ain't no Dragon Balls that'll bring that back!"
+  },
+  {
+   "i": 676,
+   "start": 1689.18,
+   "end": 1689.82,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "…I think."
+  },
+  {
+   "i": 677,
+   "start": 1689.82,
+   "end": 1691.98,
+   "kind": "dialog",
+   "speaker": "South Kai",
+   "text": "But what about the Otherworld Tournament coming up?"
+  },
+  {
+   "i": 678,
+   "start": 1692.06,
+   "end": 1693.84,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Well, now you have a lot more options."
+  },
+  {
+   "i": 679,
+   "start": 1694.74,
+   "end": 1696.26,
+   "kind": "dialog",
+   "speaker": "South Kai",
+   "text": "That's f**ked up, man."
+  },
+  {
+   "i": 680,
+   "start": 1696.78,
+   "end": 1711.02,
+   "kind": "dialog",
+   "speaker": "South Kai",
+   "text": "♫ Broly's legend first began in 1993 ♫"
+  },
+  {
+   "i": 681,
+   "start": 1711.92,
+   "end": 1715.2,
+   "kind": "dialog",
+   "speaker": "South Kai",
+   "text": "♫ With biceps bigger than Goku's head ♫"
+  },
+  {
+   "i": 682,
+   "start": 1715.2,
+   "end": 1718.72,
+   "kind": "dialog",
+   "speaker": "South Kai",
+   "text": "♫ And a heart that longed to be free ♫"
+  },
+  {
+   "i": 683,
+   "start": 1719.68,
+   "end": 1723.06,
+   "kind": "dialog",
+   "speaker": "South Kai",
+   "text": "♫ Broly, Broly, Broly ♫"
+  },
+  {
+   "i": 684,
+   "start": 1723.26,
+   "end": 1726.36,
+   "kind": "dialog",
+   "speaker": "South Kai",
+   "text": "♫ Why are you so strong ♫"
+  },
+  {
+   "i": 685,
+   "start": 1727.1,
+   "end": 1730.88,
+   "kind": "dialog",
+   "speaker": "South Kai",
+   "text": "♫ Your power level is twice as high ♫"
+  },
+  {
+   "i": 686,
+   "start": 1730.88,
+   "end": 1733.82,
+   "kind": "dialog",
+   "speaker": "South Kai",
+   "text": "♫ As your Saiyan hair is long ♫"
+  },
+  {
+   "i": 687,
+   "start": 1736.8,
+   "end": 1739.66,
+   "kind": "dialog",
+   "speaker": "South Kai",
+   "text": "♫ Broly was a motherf**ker ♫"
+  },
+  {
+   "i": 688,
+   "start": 1740.86,
+   "end": 1743.34,
+   "kind": "dialog",
+   "speaker": "South Kai",
+   "text": "♫ Stronger than that robot trucker ♫"
+  },
+  {
+   "i": 689,
+   "start": 1744.56,
+   "end": 1748.64,
+   "kind": "dialog",
+   "speaker": "South Kai",
+   "text": "♫ Broly's enemies are done! ♫"
+  },
+  {
+   "i": 690,
+   "start": 1754.0,
+   "end": 1755.2,
+   "kind": "dialog",
+   "speaker": "South Kai",
+   "text": "Yeah!"
+  },
+  {
+   "i": 691,
+   "start": 1756.16,
+   "end": 1757.56,
+   "kind": "dialog",
+   "speaker": "South Kai",
+   "text": "That's it everybody!"
+  },
+  {
+   "i": 692,
+   "start": 1757.56,
+   "end": 1758.4,
+   "kind": "dialog",
+   "speaker": "South Kai",
+   "text": "That's Broly!"
+  },
+  {
+   "i": 693,
+   "start": 1759.64,
+   "end": 1760.92,
+   "kind": "dialog",
+   "speaker": "South Kai",
+   "text": "WEN BROLY, BROLY DUN!"
+  },
+  {
+   "i": 694,
+   "start": 1761.22,
+   "end": 1763.1,
+   "kind": "dialog",
+   "speaker": "South Kai",
+   "text": "DON'T EVEN— DON'T EVEN ASK ANYMORE!"
+  },
+  {
+   "i": 695,
+   "start": 1763.1,
+   "end": 1764.94,
+   "kind": "dialog",
+   "speaker": "South Kai",
+   "text": "Y'SHOULD JUST SUBSCRIBE AND ENJOY!"
+  },
+  {
+   "i": 696,
+   "start": 1765.02,
+   "end": 1765.74,
+   "kind": "dialog",
+   "speaker": "South Kai",
+   "text": "AND I'M OUT!"
+  },
+  {
+   "i": 697,
+   "start": 1772.62,
+   "end": 1773.12,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Pop"
+  },
+  {
+   "i": 698,
+   "start": 1773.3,
+   "end": 1776.88,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Alright. Let's see if we can just sneak into the house, and—"
+  },
+  {
+   "i": 699,
+   "start": 1776.88,
+   "end": 1777.92,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "ROOM! NOW!"
+  },
+  {
+   "i": 700,
+   "start": 1777.92,
+   "end": 1778.58,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Okay!"
+  },
+  {
+   "i": 701,
+   "start": 1778.76,
+   "end": 1780.14,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh, hey, Chi-Chi!"
+  },
+  {
+   "i": 702,
+   "start": 1780.4,
+   "end": 1781.82,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Did Gohan not make it in?"
+  },
+  {
+   "i": 703,
+   "start": 1781.82,
+   "end": 1783.5,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Oh, no, he made it in!"
+  },
+  {
+   "i": 704,
+   "start": 1783.5,
+   "end": 1786.06,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "After a sizeable donation from my father!"
+  },
+  {
+   "i": 705,
+   "start": 1786.06,
+   "end": 1788.84,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Good! Man, I'm glad we come from money!"
+  },
+  {
+   "i": 706,
+   "start": 1788.84,
+   "end": 1790.72,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "*I* come from money, Goku!"
+  },
+  {
+   "i": 707,
+   "start": 1790.72,
+   "end": 1792.84,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "*You* come from a race of idiots!"
+  },
+  {
+   "i": 708,
+   "start": 1792.84,
+   "end": 1794.58,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I sure do, Chi-Chi!"
+  },
+  {
+   "i": 709,
+   "start": 1794.9,
+   "end": 1796.34,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I sure do!"
+  },
+  {
+   "i": 710,
+   "start": 1796.34,
+   "end": 1798.84,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"Burning Fight: A Red-Hot, Raging, Super-Fierce Fight\" plays ♫"
+  },
+  {
+   "i": 711,
+   "start": 1798.84,
+   "end": 1799.88,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "I want a divorce."
+  },
+  {
+   "i": 712,
+   "start": 1799.88,
+   "end": 1801.48,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Me too, I'm starving!"
+  },
+  {
+   "i": 713,
+   "start": 1802.3,
+   "end": 1804.76,
+   "kind": "dialog",
+   "speaker": "Lanipator",
+   "text": "Hey, everyone, Lanipator here. Thanks for watching!"
+  },
+  {
+   "i": 714,
+   "start": 1804.76,
+   "end": 1808.46,
+   "kind": "dialog",
+   "speaker": "Lanipator",
+   "text": "If you're new to the channel, and enjoy what you saw, make sure you subscribe and stay up to date!"
+  },
+  {
+   "i": 715,
+   "start": 1808.46,
+   "end": 1812.68,
+   "kind": "dialog",
+   "speaker": "Lanipator",
+   "text": "And if you're in the mood for some more anime violence, why not check out Hellsing Ultimate Abridged?"
+  },
+  {
+   "i": 716,
+   "start": 1812.68,
+   "end": 1820.04,
+   "kind": "dialog",
+   "speaker": "Lanipator",
+   "text": "Also, if you're catching this on release day, join us at 6 Central Time for a post-release stream over on twitch.tv/streamfourstar"
+  },
+  {
+   "i": 717,
+   "start": 1820.04,
+   "end": 1821.62,
+   "kind": "dialog",
+   "speaker": "Lanipator",
+   "text": "Love ya, and catch you later."
+  }
+ ],
+ "segments": [
+  {
+   "start": 64.8,
+   "end": 94.8,
+   "title": "That's Ten Fours, By the Way",
+   "quote": "I learned how to count up to 40 because of that! That's ten fours, by the way.",
+   "line_start": 22,
+   "line_end": 30
+  },
+  {
+   "start": 165.6,
+   "end": 183.4,
+   "title": "KING Vegeta",
+   "quote": "Or should I say... KING... Vegeta. — Never in my life have I needed something so much and never known until I received it.",
+   "line_start": 54,
+   "line_end": 57
+  },
+  {
+   "start": 278.8,
+   "end": 292.8,
+   "title": "All Hail Princess Trunks",
+   "quote": "Hello, Princess Trunks. — I'm not a--! — As my first decree, you shall ONLY call her Princess Trunks!",
+   "line_start": 103,
+   "line_end": 108
+  },
+  {
+   "start": 411.5,
+   "end": 421.2,
+   "title": "Our Talks Are Nice",
+   "quote": "Did you destroy South Galaxy? — There's a South Galaxy? — Forget you heard that. — No. — Our talks are nice.",
+   "line_start": 152,
+   "line_end": 159
+  },
+  {
+   "start": 433.7,
+   "end": 466.9,
+   "title": "Who's This Scrawny Puke?",
+   "quote": "I'm a foot and a half taller than you, but, whatever... — Your hair looks like lavender, but smells like strawberries...",
+   "line_start": 163,
+   "line_end": 178
+  },
+  {
+   "start": 574.6,
+   "end": 605.9,
+   "title": "It's Pronounced Dah-Di",
+   "quote": "Oogh, oh God, *daddy*! — Uh, no! That's my name. It's actually pronounced: \"Dah-Di\".",
+   "line_start": 233,
+   "line_end": 244
+  },
+  {
+   "start": 654.1,
+   "end": 666.3,
+   "title": "What Am I, the Space Pope?!",
+   "quote": "You promised me a kingdom - but I have no subjects, no infrastructure, and a throne made of wood! What am I, the Space Pope?!",
+   "line_start": 267,
+   "line_end": 270
+  },
+  {
+   "start": 697.2,
+   "end": 722.2,
+   "title": "Good Point, Broly!",
+   "quote": "What is your power level? — Uh, dunno. Pretty big, though. — Mine too...",
+   "line_start": 286,
+   "line_end": 297
+  },
+  {
+   "start": 882.7,
+   "end": 919.8,
+   "title": "Stab the Baby",
+   "quote": "Stab the baby. — SOMEONE FETCH ME A BETTER DAGGER SO I MAY PROPERLY STAB THIS BABY!",
+   "line_start": 351,
+   "line_end": 364
+  },
+  {
+   "start": 991.7,
+   "end": 1016.9,
+   "title": "KAKAROOOOOOOT!!",
+   "quote": "KAKAROT, KAKAROT-- — KAKAROOOOOOOT!! — See, he's slow, and he gets it. — I suggest we all run.",
+   "line_start": 390,
+   "line_end": 402
+  },
+  {
+   "start": 1033.0,
+   "end": 1048.9,
+   "title": "Because It's LEGENDARY",
+   "quote": "But why is it kinda... green? — Because it's LEGENDARY.",
+   "line_start": 405,
+   "line_end": 410
+  },
+  {
+   "start": 1048.5,
+   "end": 1065.0,
+   "title": "MY Power IS MAXIMUM",
+   "quote": "Because MY power... ...IS MAXIMUM!! — ...Prove it.",
+   "line_start": 411,
+   "line_end": 416
+  },
+  {
+   "start": 1491.8,
+   "end": 1510.9,
+   "title": "What Is a King to a God?",
+   "quote": "What is a king to a god? — And what is a god... TO A NONBELIEVER?! — Do you believe now? — Uh-huh. So cool...",
+   "line_start": 603,
+   "line_end": 610
+  },
+  {
+   "start": 1522.4,
+   "end": 1559.3,
+   "title": "Hug.",
+   "quote": "Broly! Be a good boy! Show your daddy the love he has shown you...! — Hug. — Oh, nononononono--!",
+   "line_start": 615,
+   "line_end": 632
+  },
+  {
+   "start": 1622.2,
+   "end": 1647.2,
+   "title": "SAY MY NAME",
+   "quote": "Hey! BROLY! SAY MY NAME! — KA…KAA…ROOOOOOOOOTTT!!!! — Victory for Gok—!",
+   "line_start": 658,
+   "line_end": 665
+  }
+ ]
+}

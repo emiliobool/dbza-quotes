@@ -1,0 +1,2147 @@
+{
+ "item": "e20",
+ "show": "dbza",
+ "youtube": "bsPujgqpx8w",
+ "title": "Episode 18",
+ "duration": 671,
+ "lines": [
+  {
+   "i": 0,
+   "start": 14.16,
+   "end": 16.52,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Wow... you really took care of that guy."
+  },
+  {
+   "i": 1,
+   "start": 16.52,
+   "end": 18.76,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Yeah. Didn't even know I could pull it off."
+  },
+  {
+   "i": 2,
+   "start": 18.76,
+   "end": 23.2,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "But, you know us Saiyans: We get stronger *every* time we almost die."
+  },
+  {
+   "i": 3,
+   "start": 23.2,
+   "end": 26.64,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Well, that seems... incredibly unfair."
+  },
+  {
+   "i": 4,
+   "start": 26.64,
+   "end": 29.98,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "So, umm... you seem like a busy man, so--"
+  },
+  {
+   "i": 5,
+   "start": 29.98,
+   "end": 32.68,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Oh yeah, killing people. And I'm about to become immortal."
+  },
+  {
+   "i": 6,
+   "start": 32.68,
+   "end": 35.66,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Well, we don't want to keep ya, so I guess we'll be seeing ya."
+  },
+  {
+   "i": 7,
+   "start": 35.66,
+   "end": 38.04,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Yup, and I still got a lot to take care of, and I--"
+  },
+  {
+   "i": 8,
+   "start": 38.04,
+   "end": 42.04,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Ohohohoho, oh, wait a minute, nice try..."
+  },
+  {
+   "i": 9,
+   "start": 42.04,
+   "end": 43.14,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Give me the Dragon Ball."
+  },
+  {
+   "i": 10,
+   "start": 43.14,
+   "end": 43.8,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Aww..."
+  },
+  {
+   "i": 11,
+   "start": 43.8,
+   "end": 50.22,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "You know, I could kill both of you right now, but after killing Zarbon and getting this last Dragon Ball, I'm in a good mood."
+  },
+  {
+   "i": 12,
+   "start": 50.22,
+   "end": 52.4,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I mean, a REALLY good mood."
+  },
+  {
+   "i": 13,
+   "start": 52.4,
+   "end": 53.62,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "But just remember this:"
+  },
+  {
+   "i": 14,
+   "start": 53.62,
+   "end": 57.36,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Next time you see me, I WILL be immortal."
+  },
+  {
+   "i": 15,
+   "start": 57.58,
+   "end": 62.16,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Not that you stood a chance to begin with; I'm just... sayin'."
+  },
+  {
+   "i": 16,
+   "start": 62.16,
+   "end": 65.08,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Uproarious laugh track"
+  },
+  {
+   "i": 17,
+   "start": 65.08,
+   "end": 65.82,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Wakka wakka!"
+  },
+  {
+   "i": 18,
+   "start": 70.52,
+   "end": 73.9,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Well, congratulations. You’ve single-handedly doomed us all."
+  },
+  {
+   "i": 19,
+   "start": 73.9,
+   "end": 75.34,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I didn’t see YOU do anything."
+  },
+  {
+   "i": 20,
+   "start": 75.34,
+   "end": 77.5,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "What exactly did you expect me to do?"
+  },
+  {
+   "i": 21,
+   "start": 77.5,
+   "end": 79.88,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I dunno, maybe you coulda *bitched* at him, how 'bout that?"
+  },
+  {
+   "i": 22,
+   "start": 79.88,
+   "end": 82.38,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "That’s all you appear to be good for these days, huh?"
+  },
+  {
+   "i": 23,
+   "start": 82.38,
+   "end": 84.3,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Used your Bitch Fu on him?"
+  },
+  {
+   "i": 24,
+   "start": 84.3,
+   "end": 87.66,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Bulma, the Mistress of *Bitching*, that’s what they should call you!"
+  },
+  {
+   "i": 25,
+   "start": 87.66,
+   "end": 88.84,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ Parody of “Don’t Stop Me Now” ♫"
+  },
+  {
+   "i": 26,
+   "start": 88.84,
+   "end": 90.88,
+   "kind": "dialog",
+   "speaker": "Vegeta & Gohan",
+   "text": "♫ Don’t stop me now ♫"
+  },
+  {
+   "i": 27,
+   "start": 90.88,
+   "end": 93.14,
+   "kind": "dialog",
+   "speaker": "Vegeta & Gohan",
+   "text": "♫ I'm havin’ such a good time ♫"
+  },
+  {
+   "i": 28,
+   "start": 93.14,
+   "end": 94.88,
+   "kind": "dialog",
+   "speaker": "Vegeta & Gohan",
+   "text": "♫ I’m holdin’ this ball ♫"
+  },
+  {
+   "i": 29,
+   "start": 94.88,
+   "end": 96.56,
+   "kind": "dialog",
+   "speaker": "Vegeta & Gohan",
+   "text": "♫ Don’t stop me now ♫"
+  },
+  {
+   "i": 30,
+   "start": 96.56,
+   "end": 97.18,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Needle scratch"
+  },
+  {
+   "i": 31,
+   "start": 97.18,
+   "end": 98.06,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "What the...!?"
+  },
+  {
+   "i": 32,
+   "start": 98.06,
+   "end": 99.44,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "That’s Vegeta!"
+  },
+  {
+   "i": 33,
+   "start": 99.44,
+   "end": 103.94,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "'Uh... I know - if I just hide here and lower my power level,'"
+  },
+  {
+   "i": 34,
+   "start": 103.94,
+   "end": 105.46,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "'he shouldn’t find me!'"
+  },
+  {
+   "i": 35,
+   "start": 105.46,
+   "end": 106.94,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Okay, what the hell is going on?"
+  },
+  {
+   "i": 36,
+   "start": 106.94,
+   "end": 109.08,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I know I just sensed something down there."
+  },
+  {
+   "i": 37,
+   "start": 109.08,
+   "end": 111.32,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "'Good! Now just go on, and--'"
+  },
+  {
+   "i": 38,
+   "start": 111.32,
+   "end": 115.5,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Hey! Show yourself before I turn this place into a barren wasteland!"
+  },
+  {
+   "i": 39,
+   "start": 115.8,
+   "end": 118.08,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "So basically the same, only on fire."
+  },
+  {
+   "i": 40,
+   "start": 118.08,
+   "end": 119.5,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "'Crapbaskets!'"
+  },
+  {
+   "i": 41,
+   "start": 119.76,
+   "end": 124.0,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "THREE.....TWO.....ONE...."
+  },
+  {
+   "i": 42,
+   "start": 124.98,
+   "end": 130.3,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Hi! Um... hello, Mister... Vegeta... Sir."
+  },
+  {
+   "i": 43,
+   "start": 130.3,
+   "end": 132.3,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Well, if it isn’t Moe Howard."
+  },
+  {
+   "i": 44,
+   "start": 132.3,
+   "end": 133.5,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "How do you even--?"
+  },
+  {
+   "i": 45,
+   "start": 133.5,
+   "end": 134.22,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Space Hulu."
+  },
+  {
+   "i": 46,
+   "start": 134.22,
+   "end": 135.04,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Figures."
+  },
+  {
+   "i": 47,
+   "start": 135.04,
+   "end": 136.18,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "So what are you doing here?"
+  },
+  {
+   "i": 48,
+   "start": 136.18,
+   "end": 138.48,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Oh, you know - just flyin’ around."
+  },
+  {
+   "i": 49,
+   "start": 138.48,
+   "end": 139.1,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Flyin' around?"
+  },
+  {
+   "i": 50,
+   "start": 139.1,
+   "end": 139.78,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Flyin' around."
+  },
+  {
+   "i": 51,
+   "start": 139.78,
+   "end": 140.62,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Thwartin' mah plans?"
+  },
+  {
+   "i": 52,
+   "start": 140.62,
+   "end": 141.26,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Thwarting your plans?"
+  },
+  {
+   "i": 53,
+   "start": 141.26,
+   "end": 141.76,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Are you?"
+  },
+  {
+   "i": 54,
+   "start": 141.76,
+   "end": 142.26,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "No."
+  },
+  {
+   "i": 55,
+   "start": 142.26,
+   "end": 143.22,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Good, ‘cause that’d be bad."
+  },
+  {
+   "i": 56,
+   "start": 143.22,
+   "end": 143.8,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "How bad?"
+  },
+  {
+   "i": 57,
+   "start": 143.8,
+   "end": 144.52,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I’d have to kill you."
+  },
+  {
+   "i": 58,
+   "start": 144.52,
+   "end": 145.16,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "That’s bad."
+  },
+  {
+   "i": 59,
+   "start": 145.16,
+   "end": 147.36,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Indeed. Stupid-looking watch you got there."
+  },
+  {
+   "i": 60,
+   "start": 147.52,
+   "end": 151.42,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Yes; it tells time... and nothing else."
+  },
+  {
+   "i": 61,
+   "start": 151.42,
+   "end": 154.54,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Well, yeah, that’s what a watch DOES... dumbass."
+  },
+  {
+   "i": 62,
+   "start": 154.8,
+   "end": 157.58,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "So, uh, can I... help you?"
+  },
+  {
+   "i": 63,
+   "start": 157.58,
+   "end": 160.38,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "No... but maybe I can help you."
+  },
+  {
+   "i": 64,
+   "start": 160.46,
+   "end": 162.58,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Uh! I need an adult!"
+  },
+  {
+   "i": 65,
+   "start": 162.58,
+   "end": 163.44,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I am an adult."
+  },
+  {
+   "i": 66,
+   "start": 163.44,
+   "end": 165.2,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "UNNGH! UWEHH!"
+  },
+  {
+   "i": 67,
+   "start": 165.2,
+   "end": 168.56,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "By the way, I only hit you because I have pent-up aggression against your father."
+  },
+  {
+   "i": 68,
+   "start": 169.2,
+   "end": 169.82,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Take that."
+  },
+  {
+   "i": 69,
+   "start": 169.82,
+   "end": 173.48,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "PCHOOOOOOOOOOOOooooo"
+  },
+  {
+   "i": 70,
+   "start": 173.94,
+   "end": 177.38,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "'Don’t... stop me now...'"
+  },
+  {
+   "i": 71,
+   "start": 177.68,
+   "end": 181.88,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "'I don’t... wanna... stop at... allllll--'"
+  },
+  {
+   "i": 72,
+   "start": 181.88,
+   "end": 183.28,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Egh! Uwehh!"
+  },
+  {
+   "i": 73,
+   "start": 184.12,
+   "end": 185.14,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Seriously."
+  },
+  {
+   "i": 74,
+   "start": 185.14,
+   "end": 190.8,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Five ancient sages of bitchdom all gathered together one day on the peaks of Mount Bitch to proclaim your birth."
+  },
+  {
+   "i": 75,
+   "start": 190.98,
+   "end": 200.9,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "And a hundred years later, when all the *bitch* stars had aligned, you were born and made everybody’s life around you a living hell because YOU ARE SUCH A *BITCH*!!!"
+  },
+  {
+   "i": 76,
+   "start": 201.68,
+   "end": 202.32,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Uhh..."
+  },
+  {
+   "i": 77,
+   "start": 202.76,
+   "end": 203.54,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "You done?"
+  },
+  {
+   "i": 78,
+   "start": 203.7,
+   "end": 206.1,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Yeah... yeah, I guess."
+  },
+  {
+   "i": 79,
+   "start": 206.1,
+   "end": 206.6,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Good."
+  },
+  {
+   "i": 80,
+   "start": 206.6,
+   "end": 207.4,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "SMACK"
+  },
+  {
+   "i": 81,
+   "start": 206.6,
+   "end": 207.4,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Ow!"
+  },
+  {
+   "i": 82,
+   "start": 208.58,
+   "end": 209.54,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Guys!"
+  },
+  {
+   "i": 83,
+   "start": 209.56,
+   "end": 210.3,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Gohan!"
+  },
+  {
+   "i": 84,
+   "start": 211.08,
+   "end": 214.28,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "You guys... I think we should find a new location."
+  },
+  {
+   "i": 85,
+   "start": 214.28,
+   "end": 216.08,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Why? What’s wrong with this place?"
+  },
+  {
+   "i": 86,
+   "start": 216.08,
+   "end": 220.3,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Because we have 10 minutes before Vegeta finds out that I just stole this."
+  },
+  {
+   "i": 87,
+   "start": 220.3,
+   "end": 223.38,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Uh--...! Uh...!  Aah...!"
+  },
+  {
+   "i": 88,
+   "start": 223.86,
+   "end": 225.34,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Swan dive!"
+  },
+  {
+   "i": 89,
+   "start": 225.34,
+   "end": 227.48,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'God, I love it when a plan comes together!'"
+  },
+  {
+   "i": 90,
+   "start": 227.74,
+   "end": 231.96,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'Took some time, effort and lots of bodies, but now it’s mine.'"
+  },
+  {
+   "i": 91,
+   "start": 232.2,
+   "end": 235.08,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'Immortality is my BITCH!'"
+  },
+  {
+   "i": 92,
+   "start": 235.2,
+   "end": 237.32,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'Now, it should be right here.'"
+  },
+  {
+   "i": 93,
+   "start": 238.38,
+   "end": 239.4,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'Riiight here...'"
+  },
+  {
+   "i": 94,
+   "start": 240.72,
+   "end": 242.04,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'Where the hell is it?'"
+  },
+  {
+   "i": 95,
+   "start": 242.34,
+   "end": 244.32,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'It couldn’t have gone anywhere...'"
+  },
+  {
+   "i": 96,
+   "start": 244.32,
+   "end": 250.28,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'Alright - I’m going to close my eyes, and when I open them up, it’s going to be right here-- it's not here.'"
+  },
+  {
+   "i": 97,
+   "start": 250.9,
+   "end": 254.5,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'Why isn't it here?! I don't get it! Who could've--'"
+  },
+  {
+   "i": 98,
+   "start": 254.5,
+   "end": 255.14,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "!"
+  },
+  {
+   "i": 99,
+   "start": 255.14,
+   "end": 259.2,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'The kid! But... how could he have found it?! He would...'"
+  },
+  {
+   "i": 100,
+   "start": 259.2,
+   "end": 261.8,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'wait... that watch...'"
+  },
+  {
+   "i": 101,
+   "start": 261.8,
+   "end": 263.82,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'that watch was no watch at all!'"
+  },
+  {
+   "i": 102,
+   "start": 263.82,
+   "end": 266.56,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'It was some kind of Dragon Ball locator!'"
+  },
+  {
+   "i": 103,
+   "start": 266.56,
+   "end": 269.92,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'Which means... *which means*...!'"
+  },
+  {
+   "i": 104,
+   "start": 269.92,
+   "end": 270.52,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "DING"
+  },
+  {
+   "i": 105,
+   "start": 270.52,
+   "end": 273.9,
+   "kind": "dialog",
+   "speaker": "Ghost Nappa",
+   "text": "He tooook the Dragon Ball..."
+  },
+  {
+   "i": 106,
+   "start": 273.9,
+   "end": 276.04,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Vegeta begins screaming in rage"
+  },
+  {
+   "i": 107,
+   "start": 276.04,
+   "end": 276.8,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "BOOM"
+  },
+  {
+   "i": 108,
+   "start": 276.04,
+   "end": 283.66,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "AAAAAAAAAAARRRRRRRRGGGGGGGGGGGH...!!!"
+  },
+  {
+   "i": 109,
+   "start": 284.66,
+   "end": 287.42,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Uh, Krillin... do you hear that?"
+  },
+  {
+   "i": 110,
+   "start": 287.42,
+   "end": 289.34,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I *feel* that."
+  },
+  {
+   "i": 111,
+   "start": 291.1,
+   "end": 293.58,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "What the devil is that noise?"
+  },
+  {
+   "i": 112,
+   "start": 294.28,
+   "end": 296.54,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Ah, time for a delicious sports drink--"
+  },
+  {
+   "i": 113,
+   "start": 296.54,
+   "end": 299.44,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "huh? What the heck is that?"
+  },
+  {
+   "i": 114,
+   "start": 299.44,
+   "end": 300.64,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Background talking"
+  },
+  {
+   "i": 115,
+   "start": 300.64,
+   "end": 303.46,
+   "kind": "dialog",
+   "speaker": "King Yemma",
+   "text": "Purgatory, Hell..."
+  },
+  {
+   "i": 116,
+   "start": 303.46,
+   "end": 306.22,
+   "kind": "dialog",
+   "speaker": "King Yemma",
+   "text": "Denise... Denise, do you hear that...?"
+  },
+  {
+   "i": 117,
+   "start": 306.22,
+   "end": 308.28,
+   "kind": "dialog",
+   "speaker": "King Yemma",
+   "text": "Oh God, is that my wife?!"
+  },
+  {
+   "i": 118,
+   "start": 308.28,
+   "end": 313.42,
+   "kind": "dialog",
+   "speaker": "King Yemma",
+   "text": "LEAVE ME ALONE! YOU ALREADY TOOK THE KIDS, WHAT MORE DO YOU WANT?!"
+  },
+  {
+   "i": 119,
+   "start": 313.42,
+   "end": 316.94,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Sounds of emergency sirens and burning buildings"
+  },
+  {
+   "i": 120,
+   "start": 317.5,
+   "end": 324.08,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Alright, Mom. Once that Time Machine is done, I can go back into the past, to save Goku and my father--"
+  },
+  {
+   "i": 121,
+   "start": 324.08,
+   "end": 327.42,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Who is STILL screaming - from a different TIMELINE."
+  },
+  {
+   "i": 122,
+   "start": 324.08,
+   "end": 327.42,
+   "kind": "direction",
+   "speaker": null,
+   "text": "How the hell did his vocal cords not rupture?!"
+  },
+  {
+   "i": 123,
+   "start": 327.42,
+   "end": 328.84,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "...Daddy?"
+  },
+  {
+   "i": 124,
+   "start": 329.88,
+   "end": 332.58,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Alright... I don't think Vegeta will find us here."
+  },
+  {
+   "i": 125,
+   "start": 332.78,
+   "end": 335.32,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Gohan, I need to get you to Guru's!"
+  },
+  {
+   "i": 126,
+   "start": 335.32,
+   "end": 336.8,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "What? Why?"
+  },
+  {
+   "i": 127,
+   "start": 336.8,
+   "end": 341.24,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "So the old man can touch you and pull things out of you that you never knew you had!"
+  },
+  {
+   "i": 128,
+   "start": 342.06,
+   "end": 343.4,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "...I need an adult?"
+  },
+  {
+   "i": 129,
+   "start": 343.4,
+   "end": 344.54,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I am an adult."
+  },
+  {
+   "i": 130,
+   "start": 344.54,
+   "end": 348.78,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Oh no, no no *no*! I am not letting you abandon me here again!"
+  },
+  {
+   "i": 131,
+   "start": 348.78,
+   "end": 351.44,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Those bitches on Lifetime might put up with it, but not me!"
+  },
+  {
+   "i": 132,
+   "start": 351.44,
+   "end": 356.16,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Bulma, you're right. You have been *very* helpful and *very* patient with us."
+  },
+  {
+   "i": 133,
+   "start": 356.16,
+   "end": 359.18,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "So, in return... we're letting you watch the Dragon Ball. Bye!"
+  },
+  {
+   "i": 134,
+   "start": 359.6,
+   "end": 361.92,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "I WILL KILL YOU BOTH IN YOUR SLEEP!"
+  },
+  {
+   "i": 135,
+   "start": 362.6,
+   "end": 363.92,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Ominous music"
+  },
+  {
+   "i": 136,
+   "start": 364.14,
+   "end": 369.14,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "'As soon as the Ginyu Force arrives, all of my problems will officially be over.'"
+  },
+  {
+   "i": 137,
+   "start": 369.14,
+   "end": 375.46,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "'Soon, immortality will be mine and the entire Universe will be under my foot!'"
+  },
+  {
+   "i": 138,
+   "start": 375.46,
+   "end": 381.52,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "'Oh, I wonder what I should do first? I guess I should start with what I *won't* do when I become immortal:'"
+  },
+  {
+   "i": 139,
+   "start": 381.52,
+   "end": 383.0,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "'*Die*!' >:)"
+  },
+  {
+   "i": 140,
+   "start": 383.0,
+   "end": 386.54,
+   "kind": "dialog",
+   "speaker": "Acai",
+   "text": "Lord Freeza! The Ginyu Force is scheduled to arrive in five minutes!"
+  },
+  {
+   "i": 141,
+   "start": 386.54,
+   "end": 387.78,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Thank you, Acai."
+  },
+  {
+   "i": 142,
+   "start": 387.78,
+   "end": 391.76,
+   "kind": "dialog",
+   "speaker": "Acai",
+   "text": "Also, after rising concerns with our personnel... exploding..."
+  },
+  {
+   "i": 143,
+   "start": 391.76,
+   "end": 393.3,
+   "kind": "dialog",
+   "speaker": "Acai",
+   "text": "we decided to form a union!"
+  },
+  {
+   "i": 144,
+   "start": 393.78,
+   "end": 394.74,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "...Adorable."
+  },
+  {
+   "i": 145,
+   "start": 395.32,
+   "end": 397.5,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Acai is vaporized"
+  },
+  {
+   "i": 146,
+   "start": 395.32,
+   "end": 397.5,
+   "kind": "dialog",
+   "speaker": "Acai",
+   "text": "RRRAAGGGH!"
+  },
+  {
+   "i": 147,
+   "start": 397.5,
+   "end": 403.02,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "'Oh! First thing I'm going to do is go up to Cooler and slap him right in his smug, prick *face*!'"
+  },
+  {
+   "i": 148,
+   "start": 404.28,
+   "end": 405.48,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Hey, Krillin!"
+  },
+  {
+   "i": 149,
+   "start": 405.48,
+   "end": 407.48,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "That's it! We're going to make it!"
+  },
+  {
+   "i": 150,
+   "start": 407.48,
+   "end": 412.28,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "We're finally gonna-- ...die! We are going to die!"
+  },
+  {
+   "i": 151,
+   "start": 408.3,
+   "end": 409.4,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "SCREECH"
+  },
+  {
+   "i": 152,
+   "start": 412.28,
+   "end": 414.14,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Krillin, what is *that*?"
+  },
+  {
+   "i": 153,
+   "start": 414.14,
+   "end": 416.58,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Pure rage, Gohan. Pure rage."
+  },
+  {
+   "i": 154,
+   "start": 416.58,
+   "end": 417.44,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "What do we do?"
+  },
+  {
+   "i": 155,
+   "start": 417.44,
+   "end": 420.26,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Run, Gohan. Run as fast as you can."
+  },
+  {
+   "i": 156,
+   "start": 420.26,
+   "end": 423.18,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "But I--"
+  },
+  {
+   "i": 157,
+   "start": 420.26,
+   "end": 423.18,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Do as I say, for I am the Heavenly Buddha!"
+  },
+  {
+   "i": 158,
+   "start": 423.64,
+   "end": 424.82,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "...Wha--?"
+  },
+  {
+   "i": 159,
+   "start": 423.64,
+   "end": 424.82,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Just go!"
+  },
+  {
+   "i": 160,
+   "start": 427.6,
+   "end": 429.88,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "Guru, sir, we have another traveller from Earth."
+  },
+  {
+   "i": 161,
+   "start": 429.88,
+   "end": 432.64,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "Oh, tell me you didn't let him inside--!"
+  },
+  {
+   "i": 162,
+   "start": 432.64,
+   "end": 433.72,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Hello, Mr. Guru!"
+  },
+  {
+   "i": 163,
+   "start": 433.72,
+   "end": 435.88,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "Oh, goddammit!"
+  },
+  {
+   "i": 164,
+   "start": 435.88,
+   "end": 441.38,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Mr. Guru, sir, my friend Krillin told me that you could help us by... touching me."
+  },
+  {
+   "i": 165,
+   "start": 441.38,
+   "end": 443.6,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "Do I look Catholic to you?"
+  },
+  {
+   "i": 166,
+   "start": 443.6,
+   "end": 446.94,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "Sir, I think he means he wants you to release his hidden potential."
+  },
+  {
+   "i": 167,
+   "start": 446.94,
+   "end": 447.8,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Yeah, that."
+  },
+  {
+   "i": 168,
+   "start": 447.8,
+   "end": 453.56,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "Fine, stand still. It's your first time so I'll gentle."
+  },
+  {
+   "i": 169,
+   "start": 453.56,
+   "end": 459.78,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "Now relax as I reach deep inside you and grab hold of your essence."
+  },
+  {
+   "i": 170,
+   "start": 460.18,
+   "end": 461.92,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "I need an adult...?"
+  },
+  {
+   "i": 171,
+   "start": 461.92,
+   "end": 465.72,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "I AM AN ADUUUUULLLLL--!!"
+  },
+  {
+   "i": 172,
+   "start": 463.58,
+   "end": 465.72,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Gohan powers up"
+  },
+  {
+   "i": 173,
+   "start": 466.88,
+   "end": 469.82,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Huh, that's odd. I don't feel anything anymore."
+  },
+  {
+   "i": 174,
+   "start": 469.82,
+   "end": 470.96,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I wonder if we lost him--"
+  },
+  {
+   "i": 175,
+   "start": 472.4,
+   "end": 474.18,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Sinister music"
+  },
+  {
+   "i": 176,
+   "start": 472.4,
+   "end": 474.18,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I am here for it..."
+  },
+  {
+   "i": 177,
+   "start": 474.18,
+   "end": 474.92,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "For what?"
+  },
+  {
+   "i": 178,
+   "start": 474.92,
+   "end": 482.44,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Dragon. Ball. I. Need. That Dragon Ball. Give it to me. The one you took. I need my wish..."
+  },
+  {
+   "i": 179,
+   "start": 482.44,
+   "end": 484.18,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Are... you OK?"
+  },
+  {
+   "i": 180,
+   "start": 484.18,
+   "end": 485.88,
+   "kind": "dialog",
+   "speaker": "Ghost Nappa",
+   "text": "I think your rage broke, Vegeta."
+  },
+  {
+   "i": 181,
+   "start": 485.88,
+   "end": 487.22,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "SHUT UP, GHOST OF NAPPA!"
+  },
+  {
+   "i": 182,
+   "start": 487.22,
+   "end": 487.98,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Who was that?"
+  },
+  {
+   "i": 183,
+   "start": 487.98,
+   "end": 491.22,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I'm not crazy! *You're* crazy! *Especially* you, Nappa!"
+  },
+  {
+   "i": 184,
+   "start": 491.22,
+   "end": 492.06,
+   "kind": "dialog",
+   "speaker": "Ghost Nappa",
+   "text": "Eeeeey."
+  },
+  {
+   "i": 185,
+   "start": 492.06,
+   "end": 493.02,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Who are you talking to--?"
+  },
+  {
+   "i": 186,
+   "start": 493.02,
+   "end": 495.42,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Dragon Ball! Hand now, please!"
+  },
+  {
+   "i": 187,
+   "start": 495.42,
+   "end": 498.78,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Ummm... I don't... really... have it."
+  },
+  {
+   "i": 188,
+   "start": 499.96,
+   "end": 500.82,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "No..."
+  },
+  {
+   "i": 189,
+   "start": 500.82,
+   "end": 501.44,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "What?"
+  },
+  {
+   "i": 190,
+   "start": 501.44,
+   "end": 502.36,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "nooo..."
+  },
+  {
+   "i": 191,
+   "start": 502.36,
+   "end": 503.12,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Uhhh..."
+  },
+  {
+   "i": 192,
+   "start": 503.12,
+   "end": 504.48,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "nooooo...!"
+  },
+  {
+   "i": 193,
+   "start": 504.48,
+   "end": 505.38,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "uhhh...!"
+  },
+  {
+   "i": 194,
+   "start": 505.92,
+   "end": 506.42,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "SNAP"
+  },
+  {
+   "i": 195,
+   "start": 505.92,
+   "end": 506.42,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Sinister music ends"
+  },
+  {
+   "i": 196,
+   "start": 506.42,
+   "end": 508.3,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Vegeta breaks out of his rage"
+  },
+  {
+   "i": 197,
+   "start": 506.42,
+   "end": 508.3,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "How? Wait, what? Where am I?"
+  },
+  {
+   "i": 198,
+   "start": 508.3,
+   "end": 510.58,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Why are you here? Where's Nappa?"
+  },
+  {
+   "i": 199,
+   "start": 510.58,
+   "end": 511.5,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Didn't you kill him?"
+  },
+  {
+   "i": 200,
+   "start": 511.5,
+   "end": 515.88,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Yes! Of course I did! He's dead... forever."
+  },
+  {
+   "i": 201,
+   "start": 515.88,
+   "end": 516.96,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "So, uh--"
+  },
+  {
+   "i": 202,
+   "start": 516.96,
+   "end": 518.88,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Where's that immense power coming from?"
+  },
+  {
+   "i": 203,
+   "start": 518.88,
+   "end": 521.28,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Oh, that's probably Gohan over in the hut where the creator of the Dragon Balls is."
+  },
+  {
+   "i": 204,
+   "start": 521.28,
+   "end": 526.26,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "You know, the guy who can unlock your potential by putting his hand on top of your head-- oh God, I cannot shut up when I am scared..."
+  },
+  {
+   "i": 205,
+   "start": 526.26,
+   "end": 529.84,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Interesting! I'm gonna go pay him a... whaddya call it?"
+  },
+  {
+   "i": 206,
+   "start": 529.84,
+   "end": 530.4,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "A visit?"
+  },
+  {
+   "i": 207,
+   "start": 530.4,
+   "end": 533.06,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Beating! That's it... I'm gonna go pay him a beating."
+  },
+  {
+   "i": 208,
+   "start": 533.06,
+   "end": 535.18,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Ah! Crapbaskets."
+  },
+  {
+   "i": 209,
+   "start": 536.98,
+   "end": 539.78,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "Hello? Can I help you with something?"
+  },
+  {
+   "i": 210,
+   "start": 539.78,
+   "end": 542.7,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Yeah, the first thing you can do is go die; save me the trouble."
+  },
+  {
+   "i": 211,
+   "start": 542.7,
+   "end": 546.2,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "Ooh! Ooh, is this really happening? 'Cause I really hope it is."
+  },
+  {
+   "i": 212,
+   "start": 546.2,
+   "end": 549.46,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Ohoho, trust me, you don't want any of what I am right now."
+  },
+  {
+   "i": 213,
+   "start": 549.46,
+   "end": 553.1,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "Then come on, bring all four feet of you. Or should I count your stupid hair?"
+  },
+  {
+   "i": 214,
+   "start": 553.1,
+   "end": 555.56,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Pretty big talk coming from a bipedal slug."
+  },
+  {
+   "i": 215,
+   "start": 555.56,
+   "end": 558.02,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "Big talk coming from a bipedal *bitch*."
+  },
+  {
+   "i": 216,
+   "start": 558.02,
+   "end": 562.92,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Ohoho! Oh, I gotta admit, you are the best challenge I've gotten out of your people yet."
+  },
+  {
+   "i": 217,
+   "start": 563.04,
+   "end": 565.88,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Then again, I'll have to compare you to all those villagers I slaughtered."
+  },
+  {
+   "i": 218,
+   "start": 565.88,
+   "end": 567.36,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "Oh, you are *dead*!"
+  },
+  {
+   "i": 219,
+   "start": 566.86,
+   "end": 569.04,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "Naaaaail!"
+  },
+  {
+   "i": 220,
+   "start": 569.04,
+   "end": 576.1,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "Stop making out with your boyfriend! I can hear it from here! It sounds like:"
+  },
+  {
+   "i": 221,
+   "start": 576.1,
+   "end": 577.94,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Slurping noises"
+  },
+  {
+   "i": 222,
+   "start": 577.94,
+   "end": 579.18,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "Thank you, Lord Guru!"
+  },
+  {
+   "i": 223,
+   "start": 579.18,
+   "end": 582.78,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I'm not here for any of you idiots anyway. I'm here for the old man."
+  },
+  {
+   "i": 224,
+   "start": 582.78,
+   "end": 584.18,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Oh no, you don't!"
+  },
+  {
+   "i": 225,
+   "start": 584.18,
+   "end": 588.4,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "With this power-up, I'm now as strong as you were when we fought on Earth!"
+  },
+  {
+   "i": 226,
+   "start": 588.4,
+   "end": 592.34,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Congratulations! You're still weaker than the last 3 guys I killed."
+  },
+  {
+   "i": 227,
+   "start": 592.8,
+   "end": 595.8,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Wow... I now know what it's like to feel like Krillin."
+  },
+  {
+   "i": 228,
+   "start": 595.8,
+   "end": 597.0,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Sucks, doesn't it?"
+  },
+  {
+   "i": 229,
+   "start": 597.0,
+   "end": 599.34,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Look, it doesn't matter how strong you get, kid."
+  },
+  {
+   "i": 230,
+   "start": 599.34,
+   "end": 602.92,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Besides Freeza, I'm the strongest thing on this planet!"
+  },
+  {
+   "i": 231,
+   "start": 602.92,
+   "end": 604.26,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Bar none."
+  },
+  {
+   "i": 232,
+   "start": 604.26,
+   "end": 607.3,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "Heeey! Just thought I would inform you all:"
+  },
+  {
+   "i": 233,
+   "start": 607.3,
+   "end": 611.48,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "I detect several high power levels coming towaaards the planet..."
+  },
+  {
+   "i": 234,
+   "start": 611.48,
+   "end": 613.6,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "What? Several high power levels?"
+  },
+  {
+   "i": 235,
+   "start": 613.6,
+   "end": 616.14,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "...there are five of them in total..."
+  },
+  {
+   "i": 236,
+   "start": 616.14,
+   "end": 617.18,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Five of them?!"
+  },
+  {
+   "i": 237,
+   "start": 617.18,
+   "end": 620.78,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "...and they're all increeedibly flamboyant!"
+  },
+  {
+   "i": 238,
+   "start": 620.78,
+   "end": 622.36,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Oh God! It's them!"
+  },
+  {
+   "i": 239,
+   "start": 622.36,
+   "end": 623.74,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"Sanjō!! Ginyū Tokusentai!!\" ♫"
+  },
+  {
+   "i": 240,
+   "start": 622.36,
+   "end": 623.74,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "What are you talking about?"
+  },
+  {
+   "i": 241,
+   "start": 623.74,
+   "end": 627.42,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "We're doomed. Don't you understand? We're all going to die here!"
+  },
+  {
+   "i": 242,
+   "start": 627.42,
+   "end": 629.22,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Who? Who is it?"
+  },
+  {
+   "i": 243,
+   "start": 629.22,
+   "end": 629.74,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "It's--"
+  },
+  {
+   "i": 244,
+   "start": 629.74,
+   "end": 630.6,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "BOOM"
+  },
+  {
+   "i": 245,
+   "start": 629.74,
+   "end": 630.6,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Music cuts-off"
+  },
+  {
+   "i": 246,
+   "start": 630.6,
+   "end": 632.74,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "the Ginyu Force (!)"
+  },
+  {
+   "i": 247,
+   "start": 632.74,
+   "end": 636.1,
+   "kind": "dialog",
+   "speaker": "Ginyu Force",
+   "text": "We're heeere!"
+  },
+  {
+   "i": 248,
+   "start": 637.06,
+   "end": 637.82,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Mates!"
+  },
+  {
+   "i": 249,
+   "start": 644.18,
+   "end": 648.54,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Whew! Alrighty! Time for a post-workout drink!"
+  },
+  {
+   "i": 250,
+   "start": 649.34,
+   "end": 651.54,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Nah! It's too early to get crunk."
+  },
+  {
+   "i": 251,
+   "start": 652.78,
+   "end": 655.7,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Nah! Energy drinks just don't do it for me anymore."
+  },
+  {
+   "i": 252,
+   "start": 657.08,
+   "end": 660.24,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I can't drink these! These are *nuts*!"
+  },
+  {
+   "i": 253,
+   "start": 661.28,
+   "end": 666.56,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Ooh, what's *this*? It looks delicious, and it's high in calcium!"
+  },
+  {
+   "i": 254,
+   "start": 666.56,
+   "end": 670.96,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "♪ Doo doo doo doo doo, Team Four Star Soda! ♪"
+  }
+ ],
+ "segments": [
+  {
+   "start": 49.8,
+   "end": 66.3,
+   "title": "Wakka Wakka",
+   "quote": "Next time you see me, I WILL be immortal. Not that you stood a chance to begin with; I'm just... sayin'. / Wakka wakka!",
+   "line_start": 12,
+   "line_end": 17
+  },
+  {
+   "start": 75.0,
+   "end": 98.1,
+   "title": "Mistress of Bitching",
+   "quote": "Used your Bitch Fu on him? Bulma, the Mistress of *Bitching*! / ♫ Don’t stop me now ♫",
+   "line_start": 20,
+   "line_end": 31
+  },
+  {
+   "start": 133.8,
+   "end": 154.9,
+   "title": "Thwartin' Mah Plans",
+   "quote": "Flyin' around? / Flyin' around. / Thwartin' mah plans? / Yes; it tells time... and nothing else.",
+   "line_start": 46,
+   "line_end": 61
+  },
+  {
+   "start": 154.3,
+   "end": 168.6,
+   "title": "I Need an Adult!",
+   "quote": "Uh! I need an adult! / I am an adult.",
+   "line_start": 62,
+   "line_end": 67
+  },
+  {
+   "start": 183.7,
+   "end": 207.4,
+   "title": "The Peaks of Mount Bitch",
+   "quote": "Five ancient sages of bitchdom all gathered together one day on the peaks of Mount Bitch... YOU ARE SUCH A *BITCH*!!!",
+   "line_start": 73,
+   "line_end": 81
+  },
+  {
+   "start": 244.0,
+   "end": 283.7,
+   "title": "He Took the Dragon Ball",
+   "quote": "'Which means... *which means*...!' / He tooook the Dragon Ball... / AAAAAAAAAAARRRRRRRRGGGGGGGGGGGH...!!!",
+   "line_start": 96,
+   "line_end": 108
+  },
+  {
+   "start": 299.0,
+   "end": 329.3,
+   "title": "Screaming Across the Timeline",
+   "quote": "YOU ALREADY TOOK THE KIDS, WHAT MORE DO YOU WANT?! / ...Daddy?",
+   "line_start": 115,
+   "line_end": 123
+  },
+  {
+   "start": 433.2,
+   "end": 465.7,
+   "title": "Do I Look Catholic?",
+   "quote": "You could help us by... touching me. / Do I look Catholic to you? / I need an adult...? / I AM AN ADUUUUULLLLL--!!",
+   "line_start": 163,
+   "line_end": 171
+  },
+  {
+   "start": 471.9,
+   "end": 498.8,
+   "title": "I Think Your Rage Broke",
+   "quote": "Dragon. Ball. I. Need. That Dragon Ball. / I think your rage broke, Vegeta. / SHUT UP, GHOST OF NAPPA!",
+   "line_start": 176,
+   "line_end": 187
+  },
+  {
+   "start": 515.4,
+   "end": 535.2,
+   "title": "Pay Him a Beating",
+   "quote": "I'm gonna go pay him a... whaddya call it? / A visit? / Beating! / Ah! Crapbaskets.",
+   "line_start": 201,
+   "line_end": 208
+  },
+  {
+   "start": 545.7,
+   "end": 579.2,
+   "title": "Bipedal Bitch",
+   "quote": "Big talk coming from a bipedal *bitch*. / Naaaaail! Stop making out with your boyfriend!",
+   "line_start": 212,
+   "line_end": 222
+  },
+  {
+   "start": 603.8,
+   "end": 638.3,
+   "title": "The Ginyu Force Arrives",
+   "quote": "...and they're all increeedibly flamboyant! / It's-- the Ginyu Force (!) / We're heeere!",
+   "line_start": 232,
+   "line_end": 248
+  }
+ ]
+}

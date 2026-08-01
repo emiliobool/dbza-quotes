@@ -1,0 +1,667 @@
+{
+ "item": "e49",
+ "show": "dbza",
+ "youtube": "PHCGcVWst3E",
+ "title": "DragonBall Z Abridged SPECIAL: Celloween: A FLIGHT OUT OF CELL",
+ "duration": 245,
+ "lines": [
+  {
+   "i": 0,
+   "start": 12.7,
+   "end": 16.02,
+   "kind": "dialog",
+   "speaker": "Wess",
+   "text": "And here is George to tell us about the situation in Nicky Town."
+  },
+  {
+   "i": 1,
+   "start": 16.7,
+   "end": 17.38,
+   "kind": "dialog",
+   "speaker": "George",
+   "text": "Thank you Wess."
+  },
+  {
+   "i": 2,
+   "start": 17.62,
+   "end": 20.42,
+   "kind": "dialog",
+   "speaker": "George",
+   "text": "It is a regular Invasion of the Body Snatchers down here."
+  },
+  {
+   "i": 3,
+   "start": 20.66,
+   "end": 30.02,
+   "kind": "dialog",
+   "speaker": "George",
+   "text": "In this Land of the Dead who knows what psycho is causing this massacre- From Dusk Till Dawn from Crystal Lake to Elm Street, nobody is being left behind!"
+  },
+  {
+   "i": 4,
+   "start": 30.1,
+   "end": 41.66,
+   "kind": "dialog",
+   "speaker": "George",
+   "text": "If this Hellraiser slithers into your town we suggest you run like hell, find a Cabin in the Woods- And if anyone comes knocking... Make sure you let the right one in, or you'll be Dead by Dawn."
+  },
+  {
+   "i": 5,
+   "start": 41.96,
+   "end": 42.46,
+   "kind": "direction",
+   "speaker": null,
+   "text": "cue loud crash"
+  },
+  {
+   "i": 6,
+   "start": 42.98,
+   "end": 43.88,
+   "kind": "dialog",
+   "speaker": "Dead Guy",
+   "text": "AAAAAAHHHHHH!!!"
+  },
+  {
+   "i": 7,
+   "start": 43.94,
+   "end": 44.64,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "FYOOM FYOOM FYOOM (x15)"
+  },
+  {
+   "i": 8,
+   "start": 44.66,
+   "end": 48.06,
+   "kind": "dialog",
+   "speaker": "Dead Guy",
+   "text": "HUHHHHHAAAAAAHHHHHHHHHHHHH"
+  },
+  {
+   "i": 9,
+   "start": 48.22,
+   "end": 48.72,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Click click!"
+  },
+  {
+   "i": 10,
+   "start": 48.72,
+   "end": 50.76,
+   "kind": "dialog",
+   "speaker": "Dead Guy",
+   "text": "Huh?! Huh? Uh!"
+  },
+  {
+   "i": 11,
+   "start": 51.28,
+   "end": 54.38,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Cell breathing like a super creep"
+  },
+  {
+   "i": 12,
+   "start": 54.52,
+   "end": 55.02,
+   "kind": "dialog",
+   "speaker": "Dead Guy",
+   "text": "Aw, shi-"
+  },
+  {
+   "i": 13,
+   "start": 55.02,
+   "end": 56.02,
+   "kind": "dialog",
+   "speaker": "Dead Guy",
+   "text": "Ah!"
+  },
+  {
+   "i": 14,
+   "start": 59.18,
+   "end": 60.62,
+   "kind": "dialog",
+   "speaker": "Cell",
+   "text": "Hrmm Ehhh"
+  },
+  {
+   "i": 15,
+   "start": 61.36,
+   "end": 62.18,
+   "kind": "dialog",
+   "speaker": "Dead Guy",
+   "text": "AHHHHHHHEAHHHH"
+  },
+  {
+   "i": 16,
+   "start": 62.3,
+   "end": 69.2,
+   "kind": "dialog",
+   "speaker": "George",
+   "text": "There have been no eye witnesses of the monster so far- here is a composite sketch of what our top experts believe the monster to look like..."
+  },
+  {
+   "i": 17,
+   "start": 69.2,
+   "end": 71.2,
+   "kind": "direction",
+   "speaker": "Tv",
+   "text": "Sounds of breaking"
+  },
+  {
+   "i": 18,
+   "start": 71.62,
+   "end": 74.3,
+   "kind": "dialog",
+   "speaker": "Cell",
+   "text": "God damn 24-hour news cycle."
+  },
+  {
+   "i": 19,
+   "start": 74.3,
+   "end": 76.3,
+   "kind": "dialog",
+   "speaker": "Mommy and Kid",
+   "text": "Hmmm, hmmM!"
+  },
+  {
+   "i": 20,
+   "start": 77.62,
+   "end": 78.72,
+   "kind": "dialog",
+   "speaker": "Cell",
+   "text": "Hmmh...?"
+  },
+  {
+   "i": 21,
+   "start": 78.96,
+   "end": 80.78,
+   "kind": "dialog",
+   "speaker": "Cell",
+   "text": "Mmmh..."
+  },
+  {
+   "i": 22,
+   "start": 80.78,
+   "end": 81.58,
+   "kind": "dialog",
+   "speaker": "Cell",
+   "text": "Nyeh~!"
+  },
+  {
+   "i": 23,
+   "start": 83.12,
+   "end": 85.6,
+   "kind": "dialog",
+   "speaker": "Cell",
+   "text": "\"I want to play a game...\""
+  },
+  {
+   "i": 24,
+   "start": 85.94,
+   "end": 93.1,
+   "kind": "direction",
+   "speaker": null,
+   "text": "insert horror stinger"
+  },
+  {
+   "i": 25,
+   "start": 93.22,
+   "end": 96.26,
+   "kind": "direction",
+   "speaker": "Tv",
+   "text": "♫ Tiptoe through the window ♫"
+  },
+  {
+   "i": 26,
+   "start": 98.82,
+   "end": 99.32,
+   "kind": "dialog",
+   "speaker": "Kid",
+   "text": "Ah!"
+  },
+  {
+   "i": 27,
+   "start": 99.32,
+   "end": 100.82,
+   "kind": "dialog",
+   "speaker": "Kid",
+   "text": "I twist my ankle!"
+  },
+  {
+   "i": 28,
+   "start": 104.34,
+   "end": 107.14,
+   "kind": "dialog",
+   "speaker": "Mommy",
+   "text": "Aah! I twisted MY ankle."
+  },
+  {
+   "i": 29,
+   "start": 110.76,
+   "end": 112.02,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Not today!"
+  },
+  {
+   "i": 30,
+   "start": 114.32,
+   "end": 117.62,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Heroic Music"
+  },
+  {
+   "i": 31,
+   "start": 118.04,
+   "end": 121.78,
+   "kind": "dialog",
+   "speaker": "Cell",
+   "text": "Ah! Krillin, my arch-nemesis."
+  },
+  {
+   "i": 32,
+   "start": 121.94,
+   "end": 125.2,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Cell, you fiend, we meet at last- AGAIN!"
+  },
+  {
+   "i": 33,
+   "start": 125.76,
+   "end": 127.34,
+   "kind": "dialog",
+   "speaker": "Mommy",
+   "text": "Thank you for saving me!"
+  },
+  {
+   "i": 34,
+   "start": 127.62,
+   "end": 129.92,
+   "kind": "dialog",
+   "speaker": "Mommy",
+   "text": "You're so brave, and attractive!"
+  },
+  {
+   "i": 35,
+   "start": 130.06,
+   "end": 131.16,
+   "kind": "dialog",
+   "speaker": "Kid",
+   "text": "Will you be my new daddy?"
+  },
+  {
+   "i": 36,
+   "start": 131.42,
+   "end": 138.62,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Listen! I know you both just lost a husband and a father, and you need to fill that void- but I have eyes for another."
+  },
+  {
+   "i": 37,
+   "start": 138.62,
+   "end": 139.44,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Now go!"
+  },
+  {
+   "i": 38,
+   "start": 139.8,
+   "end": 140.74,
+   "kind": "dialog",
+   "speaker": "Mommy",
+   "text": "Okay."
+  },
+  {
+   "i": 39,
+   "start": 140.96,
+   "end": 142.36,
+   "kind": "dialog",
+   "speaker": "Kid",
+   "text": "I love you new daddy!"
+  },
+  {
+   "i": 40,
+   "start": 143.04,
+   "end": 145.14,
+   "kind": "dialog",
+   "speaker": "Cell",
+   "text": "Now, we shall battle!"
+  },
+  {
+   "i": 41,
+   "start": 145.66,
+   "end": 148.8,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Wup! Eep! Up!"
+  },
+  {
+   "i": 42,
+   "start": 152.22,
+   "end": 154.22,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "It's no use Cell-"
+  },
+  {
+   "i": 43,
+   "start": 154.22,
+   "end": 156.06,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I've studied all your moves!"
+  },
+  {
+   "i": 44,
+   "start": 156.1,
+   "end": 157.0,
+   "kind": "dialog",
+   "speaker": "Cell",
+   "text": "Curse you!"
+  },
+  {
+   "i": 45,
+   "start": 157.42,
+   "end": 159.42,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Now for my ultimate technique-!"
+  },
+  {
+   "i": 46,
+   "start": 160.08,
+   "end": 163.0,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "SOOLAAAR FLAAAAREE!!!"
+  },
+  {
+   "i": 47,
+   "start": 168.66,
+   "end": 170.26,
+   "kind": "dialog",
+   "speaker": "Little Man",
+   "text": "Little Man: We on a plane mama."
+  },
+  {
+   "i": 48,
+   "start": 171.12,
+   "end": 173.12,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "[Wait that's not my ultimate attack i thought the Kienza-]"
+  },
+  {
+   "i": 49,
+   "start": 173.7,
+   "end": 175.56,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "UGH GODDAMMIT EVERY TIME!"
+  },
+  {
+   "i": 50,
+   "start": 175.7,
+   "end": 177.22,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ Aqua - Halloween ♫"
+  },
+  {
+   "i": 51,
+   "start": 177.52,
+   "end": 178.02,
+   "kind": "direction",
+   "speaker": null,
+   "text": "cue loud crash"
+  },
+  {
+   "i": 52,
+   "start": 179.46,
+   "end": 181.28,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I SAID NOT TODAY!"
+  },
+  {
+   "i": 53,
+   "start": 181.28,
+   "end": 183.28,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "WAHTAAHH"
+  },
+  {
+   "i": 54,
+   "start": 183.9,
+   "end": 186.76,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "How? How did you best my penultimate technique?"
+  },
+  {
+   "i": 55,
+   "start": 187.36,
+   "end": 188.62,
+   "kind": "dialog",
+   "speaker": "Cell",
+   "text": "I blinked."
+  },
+  {
+   "i": 56,
+   "start": 188.8,
+   "end": 189.5,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Oh, that'd do it."
+  },
+  {
+   "i": 57,
+   "start": 190.16,
+   "end": 192.74,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Well then, let's see how you handle my ulti-"
+  },
+  {
+   "i": 58,
+   "start": 192.96,
+   "end": 194.98,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "ACK!"
+  },
+  {
+   "i": 59,
+   "start": 195.16,
+   "end": 196.72,
+   "kind": "dialog",
+   "speaker": "Kid",
+   "text": "Are you okay new daddy?"
+  },
+  {
+   "i": 60,
+   "start": 196.94,
+   "end": 199.08,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Ash sh vuv, sh vuv sh hunna HAMAM nonna ma!"
+  },
+  {
+   "i": 61,
+   "start": 199.26,
+   "end": 200.16,
+   "kind": "dialog",
+   "speaker": "Kid",
+   "text": "What you say?"
+  },
+  {
+   "i": 62,
+   "start": 200.36,
+   "end": 203.86,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I said, Ash sh vuv, sh vuv sh hunna HAMAM nonna ma!"
+  },
+  {
+   "i": 63,
+   "start": 207.88,
+   "end": 209.26,
+   "kind": "dialog",
+   "speaker": "Cell",
+   "text": "Well, Krillin..."
+  },
+  {
+   "i": 64,
+   "start": 209.82,
+   "end": 215.88,
+   "kind": "dialog",
+   "speaker": "Cell",
+   "text": "It seems that even in your wildest dreams- you still can't measure up."
+  },
+  {
+   "i": 65,
+   "start": 216.08,
+   "end": 217.8,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Wha- What are you saying?"
+  },
+  {
+   "i": 66,
+   "start": 218.16,
+   "end": 220.34,
+   "kind": "dialog",
+   "speaker": "Cell",
+   "text": "I'm sayin', wake up."
+  },
+  {
+   "i": 67,
+   "start": 220.7,
+   "end": 222.04,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Wha-, what?"
+  },
+  {
+   "i": 68,
+   "start": 222.22,
+   "end": 223.68,
+   "kind": "dialog",
+   "speaker": "Cell",
+   "text": "I said... WAKE UP"
+  },
+  {
+   "i": 69,
+   "start": 223.68,
+   "end": 224.78,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "AH!"
+  },
+  {
+   "i": 70,
+   "start": 224.78,
+   "end": 229.04,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Oh man, I had the craziest dream, Cell was there."
+  },
+  {
+   "i": 71,
+   "start": 229.06,
+   "end": 230.62,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Piccolo: Well the androids are here!"
+  },
+  {
+   "i": 72,
+   "start": 230.62,
+   "end": 231.78,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Yo."
+  },
+  {
+   "i": 73,
+   "start": 231.9,
+   "end": 233.9,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "AH!"
+  }
+ ],
+ "segments": [
+  {
+   "start": 12.2,
+   "end": 41.66,
+   "title": "The Nicky Town News Report",
+   "quote": "Make sure you let the right one in, or you'll be Dead by Dawn.",
+   "line_start": 0,
+   "line_end": 4
+  },
+  {
+   "start": 42.5,
+   "end": 62.18,
+   "title": "Cell the Slasher",
+   "quote": "Aw, shi- / Hrmm Ehhh / AHHHHHHHEAHHHH",
+   "line_start": 6,
+   "line_end": 15
+  },
+  {
+   "start": 62.0,
+   "end": 93.1,
+   "title": "I Want to Play a Game",
+   "quote": "God damn 24-hour news cycle. ... \"I want to play a game...\"",
+   "line_start": 16,
+   "line_end": 24
+  },
+  {
+   "start": 98.5,
+   "end": 117.62,
+   "title": "I Twist My Ankle!",
+   "quote": "I twist my ankle! / Aah! I twisted MY ankle. / Not today!",
+   "line_start": 26,
+   "line_end": 30
+  },
+  {
+   "start": 121.5,
+   "end": 145.14,
+   "title": "Will You Be My New Daddy?",
+   "quote": "Cell, you fiend, we meet at last- AGAIN! ... I know you both just lost a husband and a father... but I have eyes for another.",
+   "line_start": 32,
+   "line_end": 40
+  },
+  {
+   "start": 157.0,
+   "end": 175.56,
+   "title": "SOOLAAAR FLAAAAREE!",
+   "quote": "SOOLAAAR FLAAAAREE!!! / We on a plane mama. / UGH GODDAMMIT EVERY TIME!",
+   "line_start": 45,
+   "line_end": 49
+  },
+  {
+   "start": 179.0,
+   "end": 189.5,
+   "title": "I Blinked",
+   "quote": "How? How did you best my penultimate technique? / I blinked. / Oh, that'd do it.",
+   "line_start": 52,
+   "line_end": 56
+  },
+  {
+   "start": 207.4,
+   "end": 233.9,
+   "title": "WAKE UP",
+   "quote": "It seems that even in your wildest dreams- you still can't measure up. ... I said... WAKE UP / Well the androids are here! / Yo.",
+   "line_start": 63,
+   "line_end": 73
+  }
+ ]
+}

@@ -1,0 +1,2011 @@
+{
+ "item": "e08",
+ "show": "dbza",
+ "youtube": "GXeOlcctd9g",
+ "title": "Episode 8",
+ "duration": 574,
+ "lines": [
+  {
+   "i": 0,
+   "start": 7.82,
+   "end": 9.54,
+   "kind": "dialog",
+   "speaker": "Mr. Kent",
+   "text": "[TV] And there you have it, folks."
+  },
+  {
+   "i": 1,
+   "start": 9.54,
+   "end": 13.26,
+   "kind": "dialog",
+   "speaker": "Mr. Kent",
+   "text": "That man is dead. Very, very dead."
+  },
+  {
+   "i": 2,
+   "start": 13.36,
+   "end": 17.16,
+   "kind": "dialog",
+   "speaker": "Jimmy",
+   "text": "[TV] Mr. Kent, if you had to come up with a word for how dead he is, what would it be?"
+  },
+  {
+   "i": 3,
+   "start": 17.44,
+   "end": 19.0,
+   "kind": "dialog",
+   "speaker": "Mr. Kent",
+   "text": "[TV] \"Cadaverific!\""
+  },
+  {
+   "i": 4,
+   "start": 19.28,
+   "end": 22.22,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "(Crying)"
+  },
+  {
+   "i": 5,
+   "start": 22.22,
+   "end": 27.5,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Yamcha! No! I was saving myself for him!"
+  },
+  {
+   "i": 6,
+   "start": 27.5,
+   "end": 30.0,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "(Crying)"
+  },
+  {
+   "i": 7,
+   "start": 30.82,
+   "end": 31.84,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "...Bulls**t!"
+  },
+  {
+   "i": 8,
+   "start": 52.72,
+   "end": 53.42,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Yamcha..."
+  },
+  {
+   "i": 9,
+   "start": 53.9,
+   "end": 54.62,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Yamcha!"
+  },
+  {
+   "i": 10,
+   "start": 55.56,
+   "end": 59.84,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Yamcha was our friend... and you bastards killed him!"
+  },
+  {
+   "i": 11,
+   "start": 60.42,
+   "end": 63.42,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Don’t worry, Yamcha... I’ll avenge you!"
+  },
+  {
+   "i": 12,
+   "start": 63.74,
+   "end": 66.1,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Oh, right. *You're* going to avenge him."
+  },
+  {
+   "i": 13,
+   "start": 66.34,
+   "end": 69.04,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "The FIVE-YEAR-OLD over here is stronger than you are."
+  },
+  {
+   "i": 14,
+   "start": 69.18,
+   "end": 69.68,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "But I--"
+  },
+  {
+   "i": 15,
+   "start": 69.68,
+   "end": 72.2,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Face it, you’re pretty much here as a meat shield."
+  },
+  {
+   "i": 16,
+   "start": 72.34,
+   "end": 76.18,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Ha! Look at him, Vegeta. He’s like the *Raditz* of their group."
+  },
+  {
+   "i": 17,
+   "start": 76.34,
+   "end": 77.1,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "That's it!"
+  },
+  {
+   "i": 18,
+   "start": 77.48,
+   "end": 79.2,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I can’t take it anymore!"
+  },
+  {
+   "i": 19,
+   "start": 79.48,
+   "end": 81.8,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I can only be pushed so far!"
+  },
+  {
+   "i": 20,
+   "start": 82.46,
+   "end": 85.72,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "KRILLIN LIMIT BREEEEEAK!!"
+  },
+  {
+   "i": 21,
+   "start": 88.46,
+   "end": 91.78,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Saibamen shriek"
+  },
+  {
+   "i": 22,
+   "start": 92.16,
+   "end": 96.02,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ Final Fantasy 7 victory fanfare ♫"
+  },
+  {
+   "i": 23,
+   "start": 96.4,
+   "end": 98.4,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "(Panting)"
+  },
+  {
+   "i": 24,
+   "start": 98.82,
+   "end": 100.96,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "That was... for Yamcha."
+  },
+  {
+   "i": 25,
+   "start": 101.48,
+   "end": 105.14,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Congratulations, you've just destroyed the equivalent of three Raditz."
+  },
+  {
+   "i": 26,
+   "start": 105.14,
+   "end": 106.92,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "That’s right! What now, you son of a bi--?!"
+  },
+  {
+   "i": 27,
+   "start": 106.92,
+   "end": 108.96,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Nappa here is worth FIVE Raditz..."
+  },
+  {
+   "i": 28,
+   "start": 108.96,
+   "end": 109.62,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I, uh..."
+  },
+  {
+   "i": 29,
+   "start": 110.32,
+   "end": 110.82,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "what?"
+  },
+  {
+   "i": 30,
+   "start": 111.02,
+   "end": 113.48,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "...and I am worth *fifteen* Raditz."
+  },
+  {
+   "i": 31,
+   "start": 113.96,
+   "end": 114.54,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I..."
+  },
+  {
+   "i": 32,
+   "start": 115.56,
+   "end": 116.24,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Awww..."
+  },
+  {
+   "i": 33,
+   "start": 116.52,
+   "end": 118.88,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Aw, come on, don’t get so down on yourself."
+  },
+  {
+   "i": 34,
+   "start": 119.02,
+   "end": 123.4,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "At least you’ve proven that YOUR Raditz is *still* stronger than our Raditz."
+  },
+  {
+   "i": 35,
+   "start": 124.44,
+   "end": 127.68,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "I... hate... *all* of you!"
+  },
+  {
+   "i": 36,
+   "start": 128.5,
+   "end": 131.58,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "So in short - good for you. Oh, by the way, you missed one."
+  },
+  {
+   "i": 37,
+   "start": 132.2,
+   "end": 132.8,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Aaah!"
+  },
+  {
+   "i": 38,
+   "start": 132.8,
+   "end": 133.76,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Shriek"
+  },
+  {
+   "i": 39,
+   "start": 134.7,
+   "end": 135.2,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Whimper"
+  },
+  {
+   "i": 40,
+   "start": 135.2,
+   "end": 135.86,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Yeah, no."
+  },
+  {
+   "i": 41,
+   "start": 136.36,
+   "end": 136.86,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Hargh!"
+  },
+  {
+   "i": 42,
+   "start": 137.64,
+   "end": 138.16,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Argh!"
+  },
+  {
+   "i": 43,
+   "start": 138.64,
+   "end": 139.4,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "HARGH!"
+  },
+  {
+   "i": 44,
+   "start": 139.62,
+   "end": 140.88,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Terrified shriek"
+  },
+  {
+   "i": 45,
+   "start": 142.38,
+   "end": 144.64,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "That was incredible, Mr. Piccolo!"
+  },
+  {
+   "i": 46,
+   "start": 144.86,
+   "end": 146.1,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Yeah! Way to go!"
+  },
+  {
+   "i": 47,
+   "start": 146.42,
+   "end": 147.38,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "But, what about--?"
+  },
+  {
+   "i": 48,
+   "start": 147.38,
+   "end": 149.3,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Well, we can all learn a thing or two."
+  },
+  {
+   "i": 49,
+   "start": 149.56,
+   "end": 150.76,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "But I just killed three of them--!"
+  },
+  {
+   "i": 50,
+   "start": 150.76,
+   "end": 152.24,
+   "kind": "dialog",
+   "speaker": "Chiaotzu",
+   "text": "Nobody cares, Krillin!"
+  },
+  {
+   "i": 51,
+   "start": 152.64,
+   "end": 153.54,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Aww..."
+  },
+  {
+   "i": 52,
+   "start": 153.88,
+   "end": 157.14,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Well, Nappa - looks like it’s your turn to teach them a lesson."
+  },
+  {
+   "i": 53,
+   "start": 157.52,
+   "end": 159.64,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Yeah, right outta Saiyan University!"
+  },
+  {
+   "i": 54,
+   "start": 159.88,
+   "end": 161.8,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Hold on, you went to college?"
+  },
+  {
+   "i": 55,
+   "start": 161.8,
+   "end": 162.3,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Yup."
+  },
+  {
+   "i": 56,
+   "start": 162.44,
+   "end": 165.66,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "*What the hell* could someone like you possibly major in?"
+  },
+  {
+   "i": 57,
+   "start": 165.72,
+   "end": 167.28,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Child Psychology..."
+  },
+  {
+   "i": 58,
+   "start": 167.58,
+   "end": 169.42,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Wow! That sounds really interest--!"
+  },
+  {
+   "i": 59,
+   "start": 169.42,
+   "end": 171.06,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "...*with a minor in Pain*!"
+  },
+  {
+   "i": 60,
+   "start": 171.44,
+   "end": 172.14,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Uhuh...?!"
+  },
+  {
+   "i": 61,
+   "start": 171.44,
+   "end": 172.14,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Hurrrr..."
+  },
+  {
+   "i": 62,
+   "start": 172.14,
+   "end": 172.82,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "GAUGH!"
+  },
+  {
+   "i": 63,
+   "start": 172.14,
+   "end": 172.82,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "RAAGH!"
+  },
+  {
+   "i": 64,
+   "start": 173.34,
+   "end": 176.24,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "*YAAAAAAAUGHAAAAAAAH*!!"
+  },
+  {
+   "i": 65,
+   "start": 176.36,
+   "end": 177.94,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Haaaagh...!"
+  },
+  {
+   "i": 66,
+   "start": 176.36,
+   "end": 179.48,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Looks like he’s been... *disarmed*!"
+  },
+  {
+   "i": 67,
+   "start": 177.94,
+   "end": 179.48,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "HURAAARGH!!"
+  },
+  {
+   "i": 68,
+   "start": 180.22,
+   "end": 181.94,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Wind blows"
+  },
+  {
+   "i": 69,
+   "start": 182.3,
+   "end": 183.06,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "I get it!"
+  },
+  {
+   "i": 70,
+   "start": 183.06,
+   "end": 183.96,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Shut it, Nappa."
+  },
+  {
+   "i": 71,
+   "start": 184.62,
+   "end": 185.12,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Guh!"
+  },
+  {
+   "i": 72,
+   "start": 185.58,
+   "end": 187.22,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Oh, I LOVE this game!"
+  },
+  {
+   "i": 73,
+   "start": 187.88,
+   "end": 188.66,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Tag!"
+  },
+  {
+   "i": 74,
+   "start": 187.88,
+   "end": 188.66,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Guahg!"
+  },
+  {
+   "i": 75,
+   "start": 189.2,
+   "end": 189.92,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Huagh!"
+  },
+  {
+   "i": 76,
+   "start": 191.14,
+   "end": 192.86,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "No tagbacks."
+  },
+  {
+   "i": 77,
+   "start": 193.14,
+   "end": 195.76,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "'Agh, damn. This guy’s strong.'"
+  },
+  {
+   "i": 78,
+   "start": 196.06,
+   "end": 198.58,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "'Maybe it would be best if I just took Chiaotzu and...'"
+  },
+  {
+   "i": 79,
+   "start": 198.96,
+   "end": 200.32,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "'Wait, where is he??'"
+  },
+  {
+   "i": 80,
+   "start": 200.32,
+   "end": 203.04,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Vegeta! The Pokémon’s on my back."
+  },
+  {
+   "i": 81,
+   "start": 204.22,
+   "end": 205.7,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Chiaotzu! No!!"
+  },
+  {
+   "i": 82,
+   "start": 205.7,
+   "end": 207.62,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "I can’t get it off, Vegeta!"
+  },
+  {
+   "i": 83,
+   "start": 207.84,
+   "end": 210.12,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Here! I’ll use Rock Smash."
+  },
+  {
+   "i": 84,
+   "start": 210.4,
+   "end": 211.78,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Booming crunch"
+  },
+  {
+   "i": 85,
+   "start": 210.4,
+   "end": 211.78,
+   "kind": "dialog",
+   "speaker": "Chiaotzu",
+   "text": "UU-HU!"
+  },
+  {
+   "i": 86,
+   "start": 211.78,
+   "end": 214.1,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Chiaotzu! You get down from there this instant!"
+  },
+  {
+   "i": 87,
+   "start": 214.24,
+   "end": 217.06,
+   "kind": "dialog",
+   "speaker": "Chiaotzu",
+   "text": "[telepathically] No! I have to do this, Tenshinhan!"
+  },
+  {
+   "i": 88,
+   "start": 217.06,
+   "end": 221.28,
+   "kind": "dialog",
+   "speaker": "Chiaotzu",
+   "text": "For all the people of Earth! Our friends! And especially you!"
+  },
+  {
+   "i": 89,
+   "start": 221.6,
+   "end": 222.58,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "But Chiaotzu...!"
+  },
+  {
+   "i": 90,
+   "start": 222.58,
+   "end": 226.18,
+   "kind": "dialog",
+   "speaker": "Chiaotzu",
+   "text": "[t] Don’t worry! You can just wish me back with the Dragon Balls!"
+  },
+  {
+   "i": 91,
+   "start": 226.34,
+   "end": 228.1,
+   "kind": "dialog",
+   "speaker": "Chiaotzu",
+   "text": "Now goodbye, my friend!"
+  },
+  {
+   "i": 92,
+   "start": 228.62,
+   "end": 230.52,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "That won’t work, Chiaotzu!!"
+  },
+  {
+   "i": 93,
+   "start": 230.52,
+   "end": 234.66,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "We already wished you back once with the Dragon Balls! We can’t do it twice!"
+  },
+  {
+   "i": 94,
+   "start": 235.54,
+   "end": 236.04,
+   "kind": "dialog",
+   "speaker": "Chiaotzu",
+   "text": "[t] ...Wait, wha--?"
+  },
+  {
+   "i": 95,
+   "start": 239.16,
+   "end": 241.16,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "(Gasping)"
+  },
+  {
+   "i": 96,
+   "start": 241.96,
+   "end": 244.6,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "No! NO! Chiaotzu!"
+  },
+  {
+   "i": 97,
+   "start": 244.98,
+   "end": 247.22,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "CHIAOTZUUUU!!"
+  },
+  {
+   "i": 98,
+   "start": 248.96,
+   "end": 250.04,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Oh, my God..."
+  },
+  {
+   "i": 99,
+   "start": 250.78,
+   "end": 252.72,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "He blew into more pieces than Yamcha!"
+  },
+  {
+   "i": 100,
+   "start": 252.92,
+   "end": 253.5,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Krillin!"
+  },
+  {
+   "i": 101,
+   "start": 253.8,
+   "end": 254.3,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "What?"
+  },
+  {
+   "i": 102,
+   "start": 254.54,
+   "end": 256.14,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "He was my closest friend!"
+  },
+  {
+   "i": 103,
+   "start": 256.48,
+   "end": 256.98,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "I..."
+  },
+  {
+   "i": 104,
+   "start": 258.16,
+   "end": 259.08,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "I loved him."
+  },
+  {
+   "i": 105,
+   "start": 259.92,
+   "end": 262.4,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "As a memorial to Yamcha... ”gay”."
+  },
+  {
+   "i": 106,
+   "start": 262.98,
+   "end": 265.94,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "'At least your sacrifice wasn’t in vain, my friend.'"
+  },
+  {
+   "i": 107,
+   "start": 266.24,
+   "end": 268.98,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Aww, dang it, Vegeta. He used Self Destruct."
+  },
+  {
+   "i": 108,
+   "start": 269.14,
+   "end": 270.62,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "I hate it when they do that."
+  },
+  {
+   "i": 109,
+   "start": 270.96,
+   "end": 271.82,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "DAMMIT!"
+  },
+  {
+   "i": 110,
+   "start": 272.04,
+   "end": 275.64,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Awwww, I think I made him mad, Vegeta. Should I talk to him about it?"
+  },
+  {
+   "i": 111,
+   "start": 275.9,
+   "end": 279.34,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "The first step to working out your problems is healthy communication."
+  },
+  {
+   "i": 112,
+   "start": 279.46,
+   "end": 280.84,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "FFRAAAAAAAGH!!"
+  },
+  {
+   "i": 113,
+   "start": 281.9,
+   "end": 286.44,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Hey, that was very rude! I was talking to VEGETA!!"
+  },
+  {
+   "i": 114,
+   "start": 285.84,
+   "end": 286.44,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "GAAGH!!"
+  },
+  {
+   "i": 115,
+   "start": 287.0,
+   "end": 287.5,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Uagh!"
+  },
+  {
+   "i": 116,
+   "start": 288.08,
+   "end": 288.58,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Ugh!"
+  },
+  {
+   "i": 117,
+   "start": 289.54,
+   "end": 291.44,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Should... Shouldn’t we help him?"
+  },
+  {
+   "i": 118,
+   "start": 291.64,
+   "end": 294.22,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Can’t you see - he has to fight this battle on his own."
+  },
+  {
+   "i": 119,
+   "start": 294.6,
+   "end": 297.36,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "He’s fighting for the honor of his fallen comrade."
+  },
+  {
+   "i": 120,
+   "start": 297.36,
+   "end": 300.78,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "HELP ME! FOR THE LOVE OF GOD, HELP MEEEE!"
+  },
+  {
+   "i": 121,
+   "start": 301.28,
+   "end": 302.64,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Like a hero."
+  },
+  {
+   "i": 122,
+   "start": 302.84,
+   "end": 305.06,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Mr. Piccolo, help him!"
+  },
+  {
+   "i": 123,
+   "start": 305.06,
+   "end": 306.06,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Oh, fine!"
+  },
+  {
+   "i": 124,
+   "start": 306.06,
+   "end": 307.18,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Krillin! Go!"
+  },
+  {
+   "i": 125,
+   "start": 307.88,
+   "end": 309.74,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "FOR PONYYYY--!"
+  },
+  {
+   "i": 126,
+   "start": 309.74,
+   "end": 310.98,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Uagh! He hit me!"
+  },
+  {
+   "i": 127,
+   "start": 310.98,
+   "end": 312.36,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Gaha! He hit me too!"
+  },
+  {
+   "i": 128,
+   "start": 313.02,
+   "end": 319.06,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Gohan! Hurry up and blast him with all your strength... before he has time to DOOOOOODGE!"
+  },
+  {
+   "i": 129,
+   "start": 319.06,
+   "end": 323.76,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "[Piccolo's echo (in Gohan's head)] 'DOOOOOODGE!'"
+  },
+  {
+   "i": 130,
+   "start": 319.06,
+   "end": 323.76,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "(Whimpering)"
+  },
+  {
+   "i": 131,
+   "start": 323.76,
+   "end": 324.48,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "(Shrieks)"
+  },
+  {
+   "i": 132,
+   "start": 325.74,
+   "end": 327.66,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Damn you, PAVLOV!!"
+  },
+  {
+   "i": 133,
+   "start": 327.82,
+   "end": 328.94,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Static"
+  },
+  {
+   "i": 134,
+   "start": 329.08,
+   "end": 332.48,
+   "kind": "dialog",
+   "speaker": "News Reporter",
+   "text": "[TV] For those of you who don’t know who Pavlov is, allow us to take a brief moment to explain."
+  },
+  {
+   "i": 135,
+   "start": 332.48,
+   "end": 333.68,
+   "kind": "dialog",
+   "speaker": "News Reporter",
+   "text": "Back in 1904--"
+  },
+  {
+   "i": 136,
+   "start": 333.68,
+   "end": 335.02,
+   "kind": "dialog",
+   "speaker": "Oolong",
+   "text": "Get back to the fight!"
+  },
+  {
+   "i": 137,
+   "start": 335.28,
+   "end": 336.68,
+   "kind": "dialog",
+   "speaker": "News Reporter",
+   "text": "[TV] Aaand back to the fight."
+  },
+  {
+   "i": 138,
+   "start": 337.0,
+   "end": 338.1,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Static"
+  },
+  {
+   "i": 139,
+   "start": 338.1,
+   "end": 339.9,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Hey, not gonna lie."
+  },
+  {
+   "i": 140,
+   "start": 339.9,
+   "end": 342.44,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Dick move, guys. Dick move."
+  },
+  {
+   "i": 141,
+   "start": 342.76,
+   "end": 344.58,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Piccolo... do you have a plan?"
+  },
+  {
+   "i": 142,
+   "start": 344.72,
+   "end": 347.02,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "That depends; can you get him in a Full Nelson?"
+  },
+  {
+   "i": 143,
+   "start": 347.66,
+   "end": 350.06,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Any plans that don’t involve killing me?"
+  },
+  {
+   "i": 144,
+   "start": 350.24,
+   "end": 352.56,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Well, there is the Multi-Form technique."
+  },
+  {
+   "i": 145,
+   "start": 352.74,
+   "end": 354.5,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "But doesn’t that cut our power levels by--?"
+  },
+  {
+   "i": 146,
+   "start": 354.5,
+   "end": 355.98,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Plan A or Plan B, Krillin?!"
+  },
+  {
+   "i": 147,
+   "start": 355.98,
+   "end": 357.44,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Plan B! Plan B!"
+  },
+  {
+   "i": 148,
+   "start": 358.3,
+   "end": 360.12,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "KAGE BUNSHIN NO JUTSU!"
+  },
+  {
+   "i": 149,
+   "start": 358.3,
+   "end": 360.12,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "KAGE BUNSHIN NO JUTSU!"
+  },
+  {
+   "i": 150,
+   "start": 363.1,
+   "end": 367.56,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Vegeta! I can’t... ”Believe it”."
+  },
+  {
+   "i": 151,
+   "start": 368.22,
+   "end": 369.9,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "(Groaning)"
+  },
+  {
+   "i": 152,
+   "start": 370.6,
+   "end": 374.24,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Yelling, shouting, and grunting"
+  },
+  {
+   "i": 153,
+   "start": 379.44,
+   "end": 382.54,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'He’s dodging every hit! We can’t lay a FINGER on him!'"
+  },
+  {
+   "i": 154,
+   "start": 382.94,
+   "end": 386.14,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'What kind of incredible mental discipline has this guy gone through?'"
+  },
+  {
+   "i": 155,
+   "start": 386.56,
+   "end": 389.44,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Patty cake, patty cake, baker’s MAN!"
+  },
+  {
+   "i": 156,
+   "start": 389.44,
+   "end": 392.24,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Bake me a cake as fast as you CAN!"
+  },
+  {
+   "i": 157,
+   "start": 392.76,
+   "end": 393.26,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "DING"
+  },
+  {
+   "i": 158,
+   "start": 392.76,
+   "end": 393.26,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "D'UGH!"
+  },
+  {
+   "i": 159,
+   "start": 393.56,
+   "end": 394.2,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "DING DING"
+  },
+  {
+   "i": 160,
+   "start": 393.56,
+   "end": 394.2,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "D'UH-HOUH!"
+  },
+  {
+   "i": 161,
+   "start": 394.64,
+   "end": 395.82,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Ahuh-houww..."
+  },
+  {
+   "i": 162,
+   "start": 395.96,
+   "end": 397.34,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "UGH-HOUGH!"
+  },
+  {
+   "i": 163,
+   "start": 397.74,
+   "end": 400.9,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Good effort, but I’m the Patty Cake champion."
+  },
+  {
+   "i": 164,
+   "start": 402.12,
+   "end": 402.62,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "...What?"
+  },
+  {
+   "i": 165,
+   "start": 402.9,
+   "end": 407.06,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "BUT, at least you didn’t uselessly self-destruct like that Pokémon."
+  },
+  {
+   "i": 166,
+   "start": 407.68,
+   "end": 412.9,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "You stupid... ugly... son of a bitch."
+  },
+  {
+   "i": 167,
+   "start": 413.58,
+   "end": 416.84,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "His *name*... was CHIAOTZU!"
+  },
+  {
+   "i": 168,
+   "start": 417.32,
+   "end": 419.38,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "KIKOHO!!"
+  },
+  {
+   "i": 169,
+   "start": 419.38,
+   "end": 420.62,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Yeah, that Chiaotzu--"
+  },
+  {
+   "i": 170,
+   "start": 420.62,
+   "end": 422.34,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "OHHH, MY GOOOD!"
+  },
+  {
+   "i": 171,
+   "start": 422.34,
+   "end": 423.42,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "BOOM"
+  },
+  {
+   "i": 172,
+   "start": 428.24,
+   "end": 431.64,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "'Right... right behind you, Chiaotzu.'"
+  },
+  {
+   "i": 173,
+   "start": 432.04,
+   "end": 432.6,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Guah!"
+  },
+  {
+   "i": 174,
+   "start": 433.52,
+   "end": 434.08,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Thud"
+  },
+  {
+   "i": 175,
+   "start": 440.18,
+   "end": 442.54,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Ahaaaa... pointless."
+  },
+  {
+   "i": 176,
+   "start": 443.22,
+   "end": 444.58,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "...We’re gonna die, aren’t we?"
+  },
+  {
+   "i": 177,
+   "start": 444.7,
+   "end": 445.22,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Yep!"
+  },
+  {
+   "i": 178,
+   "start": 445.34,
+   "end": 448.34,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "RAAAAAAAAAAAAGH--!"
+  },
+  {
+   "i": 179,
+   "start": 448.34,
+   "end": 448.84,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Ah!"
+  },
+  {
+   "i": 180,
+   "start": 449.68,
+   "end": 450.34,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Vegeta!"
+  },
+  {
+   "i": 181,
+   "start": 450.96,
+   "end": 451.74,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "What?"
+  },
+  {
+   "i": 182,
+   "start": 452.46,
+   "end": 454.08,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "...I can flyyyy...!"
+  },
+  {
+   "i": 183,
+   "start": 454.54,
+   "end": 457.56,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Are... are... ugh."
+  },
+  {
+   "i": 184,
+   "start": 458.02,
+   "end": 459.64,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Yes, Nappa; yes you can."
+  },
+  {
+   "i": 185,
+   "start": 460.32,
+   "end": 463.74,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "You know, you’re going to be in a lot of trouble once Goku gets here!"
+  },
+  {
+   "i": 186,
+   "start": 464.38,
+   "end": 464.98,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Who?"
+  },
+  {
+   "i": 187,
+   "start": 465.32,
+   "end": 468.28,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Goku. He’s stronger than all of us combined!"
+  },
+  {
+   "i": 188,
+   "start": 468.44,
+   "end": 471.02,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Well then, I guess we’d better kill you before he gets here."
+  },
+  {
+   "i": 189,
+   "start": 471.3,
+   "end": 472.48,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "W-Wait, I mean..."
+  },
+  {
+   "i": 190,
+   "start": 472.6,
+   "end": 475.84,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "But Vegeta, I wanna meet the strong guy!"
+  },
+  {
+   "i": 191,
+   "start": 476.02,
+   "end": 477.76,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Nappa, just kill them first and--"
+  },
+  {
+   "i": 192,
+   "start": 477.76,
+   "end": 480.18,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "But I want him to SEE us kill them!"
+  },
+  {
+   "i": 193,
+   "start": 480.32,
+   "end": 482.46,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Oh God, there’s no arguing with you!"
+  },
+  {
+   "i": 194,
+   "start": 482.46,
+   "end": 485.08,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Fine! We’ll give you three hours tops."
+  },
+  {
+   "i": 195,
+   "start": 485.08,
+   "end": 486.64,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "After that, I’m killing all of you."
+  },
+  {
+   "i": 196,
+   "start": 486.84,
+   "end": 488.18,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Yaayyyyyyy!"
+  },
+  {
+   "i": 197,
+   "start": 488.18,
+   "end": 489.8,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "And now we wait..."
+  },
+  {
+   "i": 198,
+   "start": 491.92,
+   "end": 492.84,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Is he here yet?"
+  },
+  {
+   "i": 199,
+   "start": 493.02,
+   "end": 493.92,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "No."
+  },
+  {
+   "i": 200,
+   "start": 493.02,
+   "end": 493.92,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "No."
+  },
+  {
+   "i": 201,
+   "start": 493.02,
+   "end": 493.92,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "No."
+  },
+  {
+   "i": 202,
+   "start": 494.04,
+   "end": 494.94,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Is he here yet?"
+  },
+  {
+   "i": 203,
+   "start": 495.22,
+   "end": 496.14,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "*No*."
+  },
+  {
+   "i": 204,
+   "start": 495.22,
+   "end": 496.14,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "*No*."
+  },
+  {
+   "i": 205,
+   "start": 495.22,
+   "end": 496.14,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "*No*."
+  },
+  {
+   "i": 206,
+   "start": 496.34,
+   "end": 497.24,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Is he here yet?"
+  },
+  {
+   "i": 207,
+   "start": 497.4,
+   "end": 498.42,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "NO!"
+  },
+  {
+   "i": 208,
+   "start": 497.4,
+   "end": 498.42,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "NO!"
+  },
+  {
+   "i": 209,
+   "start": 497.4,
+   "end": 498.42,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "NO!"
+  },
+  {
+   "i": 210,
+   "start": 498.56,
+   "end": 499.44,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Is he here yet?"
+  },
+  {
+   "i": 211,
+   "start": 499.6,
+   "end": 500.62,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "NOO!!"
+  },
+  {
+   "i": 212,
+   "start": 499.6,
+   "end": 500.62,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "NOO!!"
+  },
+  {
+   "i": 213,
+   "start": 499.6,
+   "end": 500.62,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "NOO!!"
+  },
+  {
+   "i": 214,
+   "start": 503.64,
+   "end": 504.44,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "...Is he here ye--?"
+  },
+  {
+   "i": 215,
+   "start": 504.44,
+   "end": 505.28,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "*NOO*!!!"
+  },
+  {
+   "i": 216,
+   "start": 504.44,
+   "end": 505.28,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "*NOO*!!!"
+  },
+  {
+   "i": 217,
+   "start": 504.44,
+   "end": 505.28,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "*NOO*!!!"
+  },
+  {
+   "i": 218,
+   "start": 504.44,
+   "end": 505.28,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "*NOO*!!!"
+  },
+  {
+   "i": 219,
+   "start": 505.68,
+   "end": 508.6,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Goddammit, Nappa! Just go do something!"
+  },
+  {
+   "i": 220,
+   "start": 508.72,
+   "end": 511.14,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Go have fun; I don’t care how."
+  },
+  {
+   "i": 221,
+   "start": 511.4,
+   "end": 516.5,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Oh, boy! This is gonna be my best... day... ever."
+  },
+  {
+   "i": 222,
+   "start": 516.5,
+   "end": 527.26,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "♪♪ Wheeeeee!"
+  },
+  {
+   "i": 223,
+   "start": 527.26,
+   "end": 528.46,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "♪♪ Yay!"
+  },
+  {
+   "i": 224,
+   "start": 528.46,
+   "end": 529.68,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "♪♪ Whoo! Hahaha!"
+  },
+  {
+   "i": 225,
+   "start": 529.68,
+   "end": 534.56,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "♪♪ Wheee!"
+  },
+  {
+   "i": 226,
+   "start": 534.56,
+   "end": 537.82,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "♪♪ Yayyy!"
+  },
+  {
+   "i": 227,
+   "start": 537.82,
+   "end": 541.1,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "♪♪ Muhahahahaha!"
+  },
+  {
+   "i": 228,
+   "start": 541.1,
+   "end": 543.84,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Wind blows"
+  },
+  {
+   "i": 229,
+   "start": 543.84,
+   "end": 545.28,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Scouter beeps"
+  },
+  {
+   "i": 230,
+   "start": 545.54,
+   "end": 547.46,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Well, time’s up; time to die."
+  },
+  {
+   "i": 231,
+   "start": 548.1,
+   "end": 549.7,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "So, where’s your friend--?"
+  },
+  {
+   "i": 232,
+   "start": 549.7,
+   "end": 550.2,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "I’M-BACK!"
+  },
+  {
+   "i": 233,
+   "start": 550.2,
+   "end": 550.7,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "GURHG!"
+  },
+  {
+   "i": 234,
+   "start": 558.16,
+   "end": 560.0,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Nappa, where did your armor go?"
+  },
+  {
+   "i": 235,
+   "start": 560.16,
+   "end": 562.02,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "I had a hell of a day, Vegeta."
+  },
+  {
+   "i": 236,
+   "start": 562.32,
+   "end": 566.92,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "I sank their *battleship*... and their *whales*."
+  },
+  {
+   "i": 237,
+   "start": 569.28,
+   "end": 572.96,
+   "kind": "dialog",
+   "speaker": "Aquaman",
+   "text": "Nooooooooooooo...!"
+  }
+ ],
+ "segments": [
+  {
+   "start": 71.9,
+   "end": 101.0,
+   "title": "KRILLIN LIMIT BREEEEEAK!!",
+   "quote": "KRILLIN LIMIT BREEEEEAK!! / That was... for Yamcha.",
+   "line_start": 16,
+   "line_end": 24
+  },
+  {
+   "start": 101.0,
+   "end": 128.2,
+   "title": "Worth Fifteen Raditz",
+   "quote": "At least you’ve proven that YOUR Raditz is *still* stronger than our Raditz. / I... hate... *all* of you!",
+   "line_start": 25,
+   "line_end": 35
+  },
+  {
+   "start": 153.4,
+   "end": 171.4,
+   "title": "A Minor in Pain",
+   "quote": "Child Psychology... / ...*with a minor in Pain*!",
+   "line_start": 52,
+   "line_end": 59
+  },
+  {
+   "start": 222.1,
+   "end": 247.7,
+   "title": "We Can't Do It Twice",
+   "quote": "We already wished you back once with the Dragon Balls! We can’t do it twice! / ...Wait, wha--?",
+   "line_start": 90,
+   "line_end": 97
+  },
+  {
+   "start": 248.5,
+   "end": 271.1,
+   "title": "He Used Self Destruct",
+   "quote": "He blew into more pieces than Yamcha! / As a memorial to Yamcha... ”gay”. / Aww, dang it, Vegeta. He used Self Destruct.",
+   "line_start": 98,
+   "line_end": 108
+  },
+  {
+   "start": 312.5,
+   "end": 328.2,
+   "title": "DOOOOOODGE!",
+   "quote": "...before he has time to DOOOOOODGE! / Damn you, PAVLOV!!",
+   "line_start": 128,
+   "line_end": 132
+  },
+  {
+   "start": 342.3,
+   "end": 368.1,
+   "title": "KAGE BUNSHIN NO JUTSU!",
+   "quote": "Plan B! Plan B! / KAGE BUNSHIN NO JUTSU! / Vegeta! I can’t... ”Believe it”.",
+   "line_start": 141,
+   "line_end": 150
+  },
+  {
+   "start": 378.9,
+   "end": 407.1,
+   "title": "Patty Cake Champion",
+   "quote": "Good effort, but I’m the Patty Cake champion. / ...What?",
+   "line_start": 153,
+   "line_end": 165
+  },
+  {
+   "start": 407.2,
+   "end": 424.0,
+   "title": "His Name Was CHIAOTZU!",
+   "quote": "His *name*... was CHIAOTZU! / KIKOHO!! / Yeah, that Chiaotzu-- OHHH, MY GOOOD!",
+   "line_start": 166,
+   "line_end": 171
+  },
+  {
+   "start": 444.8,
+   "end": 460.1,
+   "title": "...I Can Flyyyy...!",
+   "quote": "...I can flyyyy...! / Yes, Nappa; yes you can.",
+   "line_start": 178,
+   "line_end": 184
+  },
+  {
+   "start": 491.4,
+   "end": 511.6,
+   "title": "Is He Here Yet?",
+   "quote": "Is he here yet? / NO! / Goddammit, Nappa! Just go do something!",
+   "line_start": 198,
+   "line_end": 220
+  },
+  {
+   "start": 557.7,
+   "end": 573.5,
+   "title": "And Their *Whales*",
+   "quote": "I sank their *battleship*... and their *whales*. / Nooooooooooooo...!",
+   "line_start": 234,
+   "line_end": 237
+  }
+ ]
+}

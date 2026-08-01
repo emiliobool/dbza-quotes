@@ -1,0 +1,1763 @@
+{
+ "item": "e59",
+ "show": "dbza",
+ "youtube": "tIZGSXjco8g",
+ "title": "Episode 53",
+ "duration": 796,
+ "lines": [
+  {
+   "i": 0,
+   "start": 15.76,
+   "end": 17.7,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Techno music; sounds of ki attacks"
+  },
+  {
+   "i": 1,
+   "start": 22.26,
+   "end": 27.34,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Boy, I'm glad you're a Super Saiyan now; I've needed a good training partner!"
+  },
+  {
+   "i": 2,
+   "start": 32.02,
+   "end": 36.44,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I don't know Trunks very well, and Vegeta's always so busy... and angry."
+  },
+  {
+   "i": 3,
+   "start": 39.5,
+   "end": 43.24,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I'm not gonna lie; sometimes, I think he doesn't like me."
+  },
+  {
+   "i": 4,
+   "start": 46.86,
+   "end": 49.06,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I mean, who wouldn't like *me*?"
+  },
+  {
+   "i": 5,
+   "start": 49.06,
+   "end": 51.12,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Maybe you're just too good."
+  },
+  {
+   "i": 6,
+   "start": 51.12,
+   "end": 56.1,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Na-haw, I'm just Goku! And speaking of Goku, IT'S LUNCH TI--!"
+  },
+  {
+   "i": 7,
+   "start": 59.2,
+   "end": 63.72,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Well, guess we don't know what time it is anymore, huh? (Chuckling)"
+  },
+  {
+   "i": 8,
+   "start": 62.74,
+   "end": 68.76,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Don't break Popo's stuff don't break Popo's stuff don't break Popo's stuff don't break Popo's stuff don't break Popo's stuff"
+  },
+  {
+   "i": 9,
+   "start": 63.72,
+   "end": 64.84,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "(Calming down)"
+  },
+  {
+   "i": 10,
+   "start": 64.84,
+   "end": 66.06,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Uh... Dad?"
+  },
+  {
+   "i": 11,
+   "start": 66.06,
+   "end": 67.26,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "..."
+  },
+  {
+   "i": 12,
+   "start": 67.26,
+   "end": 68.76,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "What're you muttering?"
+  },
+  {
+   "i": 13,
+   "start": 68.76,
+   "end": 71.1,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "SIXTH RULE OF POPO'S TRAINING!"
+  },
+  {
+   "i": 14,
+   "start": 71.1,
+   "end": 72.86,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"Cha-La Head-Cha-La\" ♫"
+  },
+  {
+   "i": 15,
+   "start": 72.86,
+   "end": 75.84,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "♫ CHA-LA HEAD-CHA-LA ♫"
+  },
+  {
+   "i": 16,
+   "start": 76.36,
+   "end": 80.04,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "♫ Egao urutora zetto de ♫ (With a smile that’s Ultra-Z)"
+  },
+  {
+   "i": 17,
+   "start": 80.04,
+   "end": 83.32,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "♫ Kyô mo ai-yai-yai-yai-yai~ ♫ (Even today is ai-yai-yai-yai-yai~)"
+  },
+  {
+   "i": 18,
+   "start": 83.32,
+   "end": 85.32,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "♫ Sparking! [fading echo] ♫"
+  },
+  {
+   "i": 19,
+   "start": 91.0,
+   "end": 93.12,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Aaah!"
+  },
+  {
+   "i": 20,
+   "start": 93.12,
+   "end": 94.92,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Aaaaahh!!"
+  },
+  {
+   "i": 21,
+   "start": 94.92,
+   "end": 96.44,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Aaaaaaahhh!!!"
+  },
+  {
+   "i": 22,
+   "start": 96.44,
+   "end": 98.28,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Aaaaaaaaahhhh!!!!"
+  },
+  {
+   "i": 23,
+   "start": 98.28,
+   "end": 100.62,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Good Lord, the lungs on that boy!"
+  },
+  {
+   "i": 24,
+   "start": 98.28,
+   "end": 100.62,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Trunks continues to yell during his power-up"
+  },
+  {
+   "i": 25,
+   "start": 101.1,
+   "end": 104.54,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "You OK, Trunks? You, uh, doin' good on air--"
+  },
+  {
+   "i": 26,
+   "start": 104.54,
+   "end": 105.52,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "ZAP"
+  },
+  {
+   "i": 27,
+   "start": 104.54,
+   "end": 105.52,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "dehyeyeyagh!"
+  },
+  {
+   "i": 28,
+   "start": 106.04,
+   "end": 107.74,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "And *there's* the twist."
+  },
+  {
+   "i": 29,
+   "start": 107.92,
+   "end": 110.58,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Not to be a broken record, but..."
+  },
+  {
+   "i": 30,
+   "start": 110.58,
+   "end": 118.26,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Right, so uh, no worries, your uh... huh, I was gonna say husband, but... well, I was gonna say boyfriend, but--"
+  },
+  {
+   "i": 31,
+   "start": 118.26,
+   "end": 120.46,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Your baby-daddy is still breathing."
+  },
+  {
+   "i": 32,
+   "start": 120.46,
+   "end": 121.66,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Yeah, barely."
+  },
+  {
+   "i": 33,
+   "start": 121.66,
+   "end": 123.26,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Well, that's a relief."
+  },
+  {
+   "i": 34,
+   "start": 123.26,
+   "end": 125.84,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "On the other hand, Trunks is about to fight Cell."
+  },
+  {
+   "i": 35,
+   "start": 125.84,
+   "end": 127.72,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "What?! But he's just a baby!"
+  },
+  {
+   "i": 36,
+   "start": 129.7,
+   "end": 132.72,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Oh-hoh, right... the future one..."
+  },
+  {
+   "i": 37,
+   "start": 132.72,
+   "end": 134.52,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "But he's just a baby!"
+  },
+  {
+   "i": 38,
+   "start": 135.3,
+   "end": 136.76,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "OK, ya done?"
+  },
+  {
+   "i": 39,
+   "start": 136.76,
+   "end": 138.98,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Yeah, yeah, I'm, I'm so sorry about that!"
+  },
+  {
+   "i": 40,
+   "start": 138.98,
+   "end": 140.1,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Hey man, it's fine."
+  },
+  {
+   "i": 41,
+   "start": 140.1,
+   "end": 142.6,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "My power was rising, I couldn't control it."
+  },
+  {
+   "i": 42,
+   "start": 142.6,
+   "end": 143.9,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "No, it's good, go kill him!"
+  },
+  {
+   "i": 43,
+   "start": 143.9,
+   "end": 146.66,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Definitely didn't do that because you spared the Android or anything..."
+  },
+  {
+   "i": 44,
+   "start": 146.66,
+   "end": 147.94,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Well, obviously."
+  },
+  {
+   "i": 45,
+   "start": 148.74,
+   "end": 149.36,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "...Right?"
+  },
+  {
+   "i": 46,
+   "start": 149.64,
+   "end": 155.46,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "You know, if I had a watch, I'd be looking at my wrist reeaaally condescendingly right now..."
+  },
+  {
+   "i": 47,
+   "start": 155.46,
+   "end": 158.24,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Krillin, take this. Give it to my father."
+  },
+  {
+   "i": 48,
+   "start": 158.56,
+   "end": 160.34,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "You... sure you won't need it?"
+  },
+  {
+   "i": 49,
+   "start": 160.54,
+   "end": 164.06,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "No. This battle was over before it began."
+  },
+  {
+   "i": 50,
+   "start": 165.48,
+   "end": 166.74,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "BAD-ASS!"
+  },
+  {
+   "i": 51,
+   "start": 166.88,
+   "end": 168.06,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Also accurate!"
+  },
+  {
+   "i": 52,
+   "start": 173.14,
+   "end": 180.1,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "Trunks! Senzu beans heal physical damage! Only therapy will aid emotional trauma."
+  },
+  {
+   "i": 53,
+   "start": 180.1,
+   "end": 184.32,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Oh, please. There's not a shrink qualified enough to deal with that hot mess."
+  },
+  {
+   "i": 54,
+   "start": 184.32,
+   "end": 186.04,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "And, speaking of shrink..."
+  },
+  {
+   "i": 55,
+   "start": 186.04,
+   "end": 187.32,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Here it comes..."
+  },
+  {
+   "i": 56,
+   "start": 187.32,
+   "end": 192.92,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Krillin, go kiss the Prince's booboos. The big boys need to talk."
+  },
+  {
+   "i": 57,
+   "start": 193.04,
+   "end": 196.46,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Fine, whatever. Leave ya to it. Say goodbye, Vegeta!"
+  },
+  {
+   "i": 58,
+   "start": 196.46,
+   "end": 198.3,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "(Gurgling)"
+  },
+  {
+   "i": 59,
+   "start": 199.98,
+   "end": 203.42,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "I'm going to make you pay in blood for what you did to him!"
+  },
+  {
+   "i": 60,
+   "start": 203.42,
+   "end": 208.38,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Oh don't lie, boy scout; that *must* have been catharsis by proxy. (Chuckle)"
+  },
+  {
+   "i": 61,
+   "start": 208.38,
+   "end": 212.12,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "He's gonna be waking up for the next five years in a cold *sweat* remembering today!"
+  },
+  {
+   "i": 62,
+   "start": 212.12,
+   "end": 214.24,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "(Chuckle)"
+  },
+  {
+   "i": 63,
+   "start": 212.12,
+   "end": 214.24,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "I'm not a psychopath like--"
+  },
+  {
+   "i": 64,
+   "start": 214.24,
+   "end": 215.66,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Kind of like you!"
+  },
+  {
+   "i": 65,
+   "start": 216.04,
+   "end": 216.9,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Like me??"
+  },
+  {
+   "i": 66,
+   "start": 217.24,
+   "end": 219.44,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Does Gohan know, by the way?"
+  },
+  {
+   "i": 67,
+   "start": 219.66,
+   "end": 220.86,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Does he know what?"
+  },
+  {
+   "i": 68,
+   "start": 221.52,
+   "end": 222.94,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "That you let him die."
+  },
+  {
+   "i": 69,
+   "start": 226.24,
+   "end": 227.94,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "I'm going to power up now."
+  },
+  {
+   "i": 70,
+   "start": 227.94,
+   "end": 229.74,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "I'd be disappointed if you didn't!"
+  },
+  {
+   "i": 71,
+   "start": 229.74,
+   "end": 232.42,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "(Yelling)"
+  },
+  {
+   "i": 72,
+   "start": 236.32,
+   "end": 237.54,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "That's Trunks?!"
+  },
+  {
+   "i": 73,
+   "start": 237.54,
+   "end": 239.38,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Yeah, pretty astonishing, isn't it?"
+  },
+  {
+   "i": 74,
+   "start": 239.38,
+   "end": 240.8,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "It's in*furiating*!"
+  },
+  {
+   "i": 75,
+   "start": 241.02,
+   "end": 242.98,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Why? Because the gap keeps widening?"
+  },
+  {
+   "i": 76,
+   "start": 242.98,
+   "end": 250.28,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Because he could've: A) Killed Android 18 B) Killed Cell Or C) Killed Vegeta!"
+  },
+  {
+   "i": 77,
+   "start": 250.46,
+   "end": 251.38,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Why Vegeta?"
+  },
+  {
+   "i": 78,
+   "start": 251.38,
+   "end": 253.76,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Because I deserve SOMETHING today!"
+  },
+  {
+   "i": 79,
+   "start": 254.1,
+   "end": 258.84,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Trunks' screaming continues"
+  },
+  {
+   "i": 80,
+   "start": 260.44,
+   "end": 264.82,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "That's right, keep it coming, boy! I want a *real* fight this time!"
+  },
+  {
+   "i": 81,
+   "start": 264.96,
+   "end": 269.8,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Don't you worry! I'll show you just how much stronger I am than my father!"
+  },
+  {
+   "i": 82,
+   "start": 269.8,
+   "end": 270.94,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Your fathe--?"
+  },
+  {
+   "i": 83,
+   "start": 270.94,
+   "end": 276.58,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Oh, no, I'm sorry, I wasn't being specific. I'm referring to the *last* time we met."
+  },
+  {
+   "i": 84,
+   "start": 276.58,
+   "end": 280.36,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Of course you wouldn't remember, because you weren't there. (Chuckle)"
+  },
+  {
+   "i": 85,
+   "start": 280.36,
+   "end": 282.46,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "I mean, you were, buuuuttt~..."
+  },
+  {
+   "i": 86,
+   "start": 282.46,
+   "end": 284.08,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "GET TO THE POINT!"
+  },
+  {
+   "i": 87,
+   "start": 284.08,
+   "end": 288.92,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Alright kiddo, tell me: What do you know about time travel?"
+  },
+  {
+   "i": 88,
+   "start": 289.3,
+   "end": 290.66,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Less than I should..."
+  },
+  {
+   "i": 89,
+   "start": 290.8,
+   "end": 292.92,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Well, how do you suppose I got here?"
+  },
+  {
+   "i": 90,
+   "start": 293.16,
+   "end": 295.08,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Well, my Time Machine, obviously."
+  },
+  {
+   "i": 91,
+   "start": 295.18,
+   "end": 299.0,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Ya-huh; and how do you think I *got* said Time Machine?"
+  },
+  {
+   "i": 92,
+   "start": 299.42,
+   "end": 300.78,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "...I don't wanna answer that..."
+  },
+  {
+   "i": 93,
+   "start": 300.9,
+   "end": 304.96,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Here's the thing: Multiverse theory's a *bitch*."
+  },
+  {
+   "i": 94,
+   "start": 304.96,
+   "end": 313.14,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Fact is, you - or at least, another you - traveled to the past, saved the world, came back to your future, and finally defeated the Androids."
+  },
+  {
+   "i": 95,
+   "start": 313.14,
+   "end": 316.5,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Congratulations, son. You *won*!"
+  },
+  {
+   "i": 96,
+   "start": 316.5,
+   "end": 317.76,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "But wait, then when did you--"
+  },
+  {
+   "i": 97,
+   "start": 317.76,
+   "end": 320.02,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "So you decided to *celebrate*!"
+  },
+  {
+   "i": 98,
+   "start": 320.02,
+   "end": 326.68,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Head back to the past, get your hair ruffled, and finally get that *thumbs up* from daddy dearest!"
+  },
+  {
+   "i": 99,
+   "start": 327.22,
+   "end": 331.06,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "But you made one. Fatal. Mistake."
+  },
+  {
+   "i": 100,
+   "start": 331.78,
+   "end": 335.3,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "You took away what was *mine*!"
+  },
+  {
+   "i": 101,
+   "start": 335.3,
+   "end": 337.3,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Flashback Trunks screaming"
+  },
+  {
+   "i": 102,
+   "start": 339.68,
+   "end": 350.98,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Unfortunately, I couldn't fit in your Time Machine, so I had to revert to my larval stage, made the trip to a year before *you* showed up, burrowed underground for four years, and w-well... the rest is history."
+  },
+  {
+   "i": 103,
+   "start": 351.38,
+   "end": 352.94,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Then... you're here...!"
+  },
+  {
+   "i": 104,
+   "start": 352.94,
+   "end": 354.72,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Because of *you*!"
+  },
+  {
+   "i": 105,
+   "start": 354.72,
+   "end": 357.64,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "But please don't beat yourself up. (Chuckle)"
+  },
+  {
+   "i": 106,
+   "start": 357.64,
+   "end": 363.3,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "You're just a child, playing hero... complete with spandex."
+  },
+  {
+   "i": 107,
+   "start": 363.3,
+   "end": 367.22,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "And you are just another mistake that I have to correct."
+  },
+  {
+   "i": 108,
+   "start": 367.42,
+   "end": 375.22,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Powering up"
+  },
+  {
+   "i": 109,
+   "start": 375.22,
+   "end": 376.68,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Cell chuckles (again)"
+  },
+  {
+   "i": 110,
+   "start": 376.68,
+   "end": 381.84,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Trunks continues to yell (again)"
+  },
+  {
+   "i": 111,
+   "start": 398.88,
+   "end": 404.58,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "I'm impressed! Behind all that angst and ridiculous hair, there's a real fighter!"
+  },
+  {
+   "i": 112,
+   "start": 404.58,
+   "end": 408.2,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "And behind all that insufferable smarm is a *dead man*!"
+  },
+  {
+   "i": 113,
+   "start": 409.74,
+   "end": 415.06,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Trunks... you couldn't fathom the amount of dead men behind me!"
+  },
+  {
+   "i": 114,
+   "start": 425.5,
+   "end": 427.42,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "Go, unreasonably buff bird!"
+  },
+  {
+   "i": 115,
+   "start": 451.3,
+   "end": 456.08,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Now that might not have done a lot of damage... but *damn* did it feel good!"
+  },
+  {
+   "i": 116,
+   "start": 456.42,
+   "end": 461.06,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Oh-ho-ho~? Am I sensing an iota of pride?"
+  },
+  {
+   "i": 117,
+   "start": 461.2,
+   "end": 465.0,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Guess the apple doesn't fall far if ya *shake* the tree hard enough!"
+  },
+  {
+   "i": 118,
+   "start": 465.16,
+   "end": 468.62,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "That snark isn't going to save you while I'm taking you apart."
+  },
+  {
+   "i": 119,
+   "start": 468.62,
+   "end": 471.86,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "If you haven't noticed, I've LITERALLY got you against the wall."
+  },
+  {
+   "i": 120,
+   "start": 472.06,
+   "end": 474.42,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "And don't think I don't appreciate the effort."
+  },
+  {
+   "i": 121,
+   "start": 474.42,
+   "end": 478.44,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "By a wide margin, you're packing more of a wallop than daddy ever did!"
+  },
+  {
+   "i": 122,
+   "start": 478.98,
+   "end": 485.32,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "However... you will never... *ever*... defeat me with that form."
+  },
+  {
+   "i": 123,
+   "start": 485.32,
+   "end": 487.58,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "But why? It's so *strong*!"
+  },
+  {
+   "i": 124,
+   "start": 487.92,
+   "end": 490.76,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh yeah! In raw power, it can't be beat."
+  },
+  {
+   "i": 125,
+   "start": 491.02,
+   "end": 496.84,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "But the amount of concentrated energy causes an extreme expansion in mass. The body can't compensate."
+  },
+  {
+   "i": 126,
+   "start": 496.84,
+   "end": 503.8,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "And while you'll see a fifty percent power increase, you'll see a seventy-five percent *de*crease in speed AND mobility."
+  },
+  {
+   "i": 127,
+   "start": 503.8,
+   "end": 505.54,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "You'd never hit your opponent."
+  },
+  {
+   "i": 128,
+   "start": 507.18,
+   "end": 508.3,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Did-did you...?"
+  },
+  {
+   "i": 129,
+   "start": 508.86,
+   "end": 509.74,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "What just...?"
+  },
+  {
+   "i": 130,
+   "start": 509.74,
+   "end": 511.84,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Whoop, sorry! Was thinkin' about fightin'."
+  },
+  {
+   "i": 131,
+   "start": 511.84,
+   "end": 513.8,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "I'm not sure what just happened."
+  },
+  {
+   "i": 132,
+   "start": 513.8,
+   "end": 517.06,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Silly Gohan! In a lame-man's terms:"
+  },
+  {
+   "i": 133,
+   "start": 517.06,
+   "end": 519.22,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "You. Can't. Hit me."
+  },
+  {
+   "i": 134,
+   "start": 519.38,
+   "end": 521.82,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Then what do you call the last five minutes?!"
+  },
+  {
+   "i": 135,
+   "start": 522.08,
+   "end": 522.8,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Pity..."
+  },
+  {
+   "i": 136,
+   "start": 522.8,
+   "end": 523.7,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Hrrrgh!"
+  },
+  {
+   "i": 137,
+   "start": 523.7,
+   "end": 527.58,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "Trunks! Do not worry! He is just playing you."
+  },
+  {
+   "i": 138,
+   "start": 528.52,
+   "end": 532.56,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Perfect Cell hums to himself under Trunks' ineffectual onslaught"
+  },
+  {
+   "i": 139,
+   "start": 532.56,
+   "end": 535.32,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "Correction: He's *been* playing you."
+  },
+  {
+   "i": 140,
+   "start": 538.36,
+   "end": 540.36,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Why?! T-*how*?!"
+  },
+  {
+   "i": 141,
+   "start": 540.36,
+   "end": 541.96,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Because you're green."
+  },
+  {
+   "i": 142,
+   "start": 542.48,
+   "end": 543.86,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "...Wait, you mean..."
+  },
+  {
+   "i": 143,
+   "start": 543.86,
+   "end": 548.18,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "No, not like me you idiot; as in, you're a novice, an amateur!"
+  },
+  {
+   "i": 144,
+   "start": 548.18,
+   "end": 553.04,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "You're surrounded by fighters who have seen more action in a week than you've seen in your ENTIRE LIFE."
+  },
+  {
+   "i": 145,
+   "start": 553.04,
+   "end": 559.34,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Hell, at your age, Goku had defeated an entire army, several demons, and sent a rabbit to the moon!"
+  },
+  {
+   "i": 146,
+   "start": 559.86,
+   "end": 562.12,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Did... did you make that last one u--?"
+  },
+  {
+   "i": 147,
+   "start": 562.12,
+   "end": 566.32,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "And the worst part of it is, that form isn't even new. Watch."
+  },
+  {
+   "i": 148,
+   "start": 567.22,
+   "end": 571.04,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "\"Look at me, I'm Trunks! Please love me Daaaad~!\""
+  },
+  {
+   "i": 149,
+   "start": 571.58,
+   "end": 572.8,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "See? Anyone can do it."
+  },
+  {
+   "i": 150,
+   "start": 573.42,
+   "end": 574.76,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "...That's a terrible impression."
+  },
+  {
+   "i": 151,
+   "start": 574.76,
+   "end": 576.24,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "But not inaccurate!"
+  },
+  {
+   "i": 152,
+   "start": 576.24,
+   "end": 578.36,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Why are you still here?!"
+  },
+  {
+   "i": 153,
+   "start": 578.36,
+   "end": 583.74,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "For God's sake, I bet even your *father* can do it; he's just not stupid enough to try!"
+  },
+  {
+   "i": 154,
+   "start": 583.74,
+   "end": 587.68,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "And as we've seen today, that threshold is vast..."
+  },
+  {
+   "i": 155,
+   "start": 587.98,
+   "end": 595.64,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Now, how about you come on down, stop using that useless form... and quit wasting everyone's time?"
+  },
+  {
+   "i": 156,
+   "start": 598.64,
+   "end": 603.62,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Jeez, I can't tell which is more shattered; your father's body or your spirit..."
+  },
+  {
+   "i": 157,
+   "start": 603.62,
+   "end": 606.52,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Just get it over with and kill me already..."
+  },
+  {
+   "i": 158,
+   "start": 606.52,
+   "end": 610.86,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Whoa, and spirit it is! Seriously bucko, way to bring down the mood."
+  },
+  {
+   "i": 159,
+   "start": 610.86,
+   "end": 612.72,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Is this all just a game to you?!"
+  },
+  {
+   "i": 160,
+   "start": 612.88,
+   "end": 614.98,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "A game? Hardly."
+  },
+  {
+   "i": 161,
+   "start": 614.98,
+   "end": 619.06,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "If this were a game, I'd be having fun... or killing Goku."
+  },
+  {
+   "i": 162,
+   "start": 619.06,
+   "end": 621.62,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Now *that* sounds like a good time."
+  },
+  {
+   "i": 163,
+   "start": 621.62,
+   "end": 623.62,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "That still doesn't make us friends!"
+  },
+  {
+   "i": 164,
+   "start": 623.62,
+   "end": 625.34,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "I'M TRYING, SIXTEEN!"
+  },
+  {
+   "i": 165,
+   "start": 625.62,
+   "end": 628.74,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Fine! Go ahead. Fight Goku."
+  },
+  {
+   "i": 166,
+   "start": 629.32,
+   "end": 635.68,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "But when he wins, and when YOU DIE... NOBODY... is going to remember you."
+  },
+  {
+   "i": 167,
+   "start": 637.02,
+   "end": 638.02,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Huh..."
+  },
+  {
+   "i": 168,
+   "start": 638.02,
+   "end": 640.4,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Alright; change of plans."
+  },
+  {
+   "i": 169,
+   "start": 640.4,
+   "end": 644.56,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Turn that frown upside-down, boy scout! You're not dying today."
+  },
+  {
+   "i": 170,
+   "start": 644.56,
+   "end": 646.32,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "What in the...? WHY?"
+  },
+  {
+   "i": 171,
+   "start": 646.32,
+   "end": 649.6,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Careful, junior; don't want that gift horse to *bite you*!"
+  },
+  {
+   "i": 172,
+   "start": 649.6,
+   "end": 653.98,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "You've just given me an idea is all. What *would* I accomplish killing you here?"
+  },
+  {
+   "i": 173,
+   "start": 654.24,
+   "end": 658.58,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "No... the whole world needs to see what it's created."
+  },
+  {
+   "i": 174,
+   "start": 658.58,
+   "end": 660.78,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Oh, what the *hell* are you planning now?!"
+  },
+  {
+   "i": 175,
+   "start": 661.92,
+   "end": 664.34,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "*My revolution*..."
+  },
+  {
+   "i": 176,
+   "start": 664.34,
+   "end": 668.16,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Go take care of your daddy. And make sure to check the news!"
+  },
+  {
+   "i": 177,
+   "start": 678.66,
+   "end": 680.32,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "...WHAT CHANNEL?!"
+  },
+  {
+   "i": 178,
+   "start": 680.32,
+   "end": 683.84,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ Closing theme (DBZ intermission) ♫"
+  },
+  {
+   "i": 179,
+   "start": 689.58,
+   "end": 692.44,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Well, time to see how well Senzu beans do with a broken spine!"
+  },
+  {
+   "i": 180,
+   "start": 692.44,
+   "end": 694.38,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "(Groans)"
+  },
+  {
+   "i": 181,
+   "start": 694.38,
+   "end": 695.1,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "GULP"
+  },
+  {
+   "i": 182,
+   "start": 695.98,
+   "end": 698.8,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "(Gasp) Where am I?! What happened?!"
+  },
+  {
+   "i": 183,
+   "start": 698.8,
+   "end": 701.2,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "You *may* have blacked out a little bit..."
+  },
+  {
+   "i": 184,
+   "start": 701.46,
+   "end": 705.8,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "But I'm still alive! H-he must have realized his mistake and run away..."
+  },
+  {
+   "i": 185,
+   "start": 705.8,
+   "end": 707.76,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "(Slight chuckle)"
+  },
+  {
+   "i": 186,
+   "start": 705.8,
+   "end": 707.76,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Dude, c'mon, it's just me."
+  },
+  {
+   "i": 187,
+   "start": 708.1,
+   "end": 714.48,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I... I don't get it... I trained so hard... I reached a new level...! And yet...!"
+  },
+  {
+   "i": 188,
+   "start": 714.48,
+   "end": 718.5,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "*Trust* me man, I get you. I mean, my neck's still stiff from earlier."
+  },
+  {
+   "i": 189,
+   "start": 718.7,
+   "end": 719.94,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "(Sniff)... Heh."
+  },
+  {
+   "i": 190,
+   "start": 720.06,
+   "end": 725.58,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I mean, if I had a dime for every time I had my ass kicked, I might not be in crippling debt! (Laughing)"
+  },
+  {
+   "i": 191,
+   "start": 725.58,
+   "end": 731.64,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "(Laughing)"
+  },
+  {
+   "i": 192,
+   "start": 727.34,
+   "end": 734.44,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "But, but if I had gotten a beat down like that, *man*, I would've hung up my gloves, my blue spandex, and my ridiculously pointy hair!"
+  },
+  {
+   "i": 193,
+   "start": 731.64,
+   "end": 732.68,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "(Calms down)"
+  },
+  {
+   "i": 194,
+   "start": 732.68,
+   "end": 734.44,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Hnnn!"
+  },
+  {
+   "i": 195,
+   "start": 734.44,
+   "end": 738.3,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Hahaha, ah-ha, ah-- heeeyy you're not laughing anymore...!"
+  },
+  {
+   "i": 196,
+   "start": 738.3,
+   "end": 738.88,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "THUMP"
+  },
+  {
+   "i": 197,
+   "start": 738.3,
+   "end": 738.88,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "DING"
+  },
+  {
+   "i": 198,
+   "start": 738.88,
+   "end": 740.28,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Krillin's usual noises"
+  },
+  {
+   "i": 199,
+   "start": 740.82,
+   "end": 742.2,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Could I get a dime for that?"
+  },
+  {
+   "i": 200,
+   "start": 743.92,
+   "end": 749.96,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Um... hey... um, if you liked the video, please like and subscribe..."
+  },
+  {
+   "i": 201,
+   "start": 749.96,
+   "end": 758.18,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "And uh... uh... check out... the gaming channel? Uh, they're... playing Doom! Um..."
+  },
+  {
+   "i": 202,
+   "start": 758.18,
+   "end": 767.82,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Oh! And, uh, the Tenkaichi Ironman Budokai Abridgathon. Where you can be the best abridger ever! Uh, maybe... I guess...?"
+  },
+  {
+   "i": 203,
+   "start": 767.82,
+   "end": 773.6,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Sorry... I guess it's just a little weird that I'm not... *dead*..."
+  },
+  {
+   "i": 204,
+   "start": 773.6,
+   "end": 781.68,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Oh, uh, they also have a patreon... and... shirts over on sharkrobot.com... huh..."
+  },
+  {
+   "i": 205,
+   "start": 781.68,
+   "end": 788.16,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Well, uh... if you don't mind me, I'm gonna go uh... I'm gonna go have a sit."
+  },
+  {
+   "i": 206,
+   "start": 790.72,
+   "end": 791.82,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "MLB"
+  }
+ ],
+ "segments": [
+  {
+   "start": 58.7,
+   "end": 71.1,
+   "title": "Don't Break Popo's Stuff",
+   "quote": "Don't break Popo's stuff don't break Popo's stuff... SIXTH RULE OF POPO'S TRAINING!",
+   "line_start": 7,
+   "line_end": 13
+  },
+  {
+   "start": 90.5,
+   "end": 107.74,
+   "title": "The Lungs on That Boy",
+   "quote": "Good Lord, the lungs on that boy! / You OK, Trunks? You, uh, doin' good on air-- {ZAP} / And *there's* the twist.",
+   "line_start": 19,
+   "line_end": 28
+  },
+  {
+   "start": 149.1,
+   "end": 168.06,
+   "title": "This Battle Was Over Before It Began",
+   "quote": "No. This battle was over before it began. / BAD-ASS! / Also accurate!",
+   "line_start": 46,
+   "line_end": 51
+  },
+  {
+   "start": 172.6,
+   "end": 193.0,
+   "title": "Only Therapy Aids Emotional Trauma",
+   "quote": "Trunks! Senzu beans heal physical damage! Only therapy will aid emotional trauma.",
+   "line_start": 52,
+   "line_end": 56
+  },
+  {
+   "start": 283.6,
+   "end": 317.76,
+   "title": "Multiverse Theory's a Bitch",
+   "quote": "Here's the thing: Multiverse theory's a *bitch*. ... Congratulations, son. You *won*!",
+   "line_start": 87,
+   "line_end": 95
+  },
+  {
+   "start": 326.7,
+   "end": 337.3,
+   "title": "You Took Away What Was MINE",
+   "quote": "But you made one. Fatal. Mistake. You took away what was *mine*!",
+   "line_start": 99,
+   "line_end": 101
+  },
+  {
+   "start": 537.9,
+   "end": 562.12,
+   "title": "Because You're Green",
+   "quote": "Hell, at your age, Goku had defeated an entire army, several demons, and sent a rabbit to the moon!",
+   "line_start": 140,
+   "line_end": 146
+  },
+  {
+   "start": 566.7,
+   "end": 578.36,
+   "title": "Please Love Me, Daaaad~!",
+   "quote": "\"Look at me, I'm Trunks! Please love me Daaaad~!\" / ...That's a terrible impression. / But not inaccurate!",
+   "line_start": 147,
+   "line_end": 152
+  },
+  {
+   "start": 612.4,
+   "end": 625.34,
+   "title": "I'M TRYING, SIXTEEN!",
+   "quote": "That still doesn't make us friends! / I'M TRYING, SIXTEEN!",
+   "line_start": 160,
+   "line_end": 164
+  },
+  {
+   "start": 625.1,
+   "end": 644.56,
+   "title": "Nobody Will Remember You",
+   "quote": "But when he wins, and when YOU DIE... NOBODY... is going to remember you.",
+   "line_start": 165,
+   "line_end": 169
+  },
+  {
+   "start": 658.1,
+   "end": 680.32,
+   "title": "Check the News — WHAT CHANNEL?!",
+   "quote": "*My revolution*... make sure to check the news! / ...WHAT CHANNEL?!",
+   "line_start": 174,
+   "line_end": 177
+  },
+  {
+   "start": 719.5,
+   "end": 742.2,
+   "title": "A Dime for Every Ass-Kicking",
+   "quote": "If I had a dime for every time I had my ass kicked, I might not be in crippling debt! ... Could I get a dime for that?",
+   "line_start": 190,
+   "line_end": 199
+  }
+ ]
+}

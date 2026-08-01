@@ -1,0 +1,16 @@
+id: horse-eaten
+show: dbza
+media: e68
+start: 717.5
+end: 737.0
+title: Horse... Eaten!
+quote: horse eaten
+speaker: Gohan
+tags:
+- gohan
+status: published
+source: https://reddit.com/r/TeamFourStar/comments/a01dnq/
+signal: 582
+recurrence: 7
+added: '2026-08-01'
+by: reddit-pipeline

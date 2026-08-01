@@ -1,0 +1,15 @@
+id: dbza
+title: Dragon Ball Z Abridged
+aliases:
+- dba
+- dbza
+- tfs
+language: en
+visibility: public
+sources:
+- kind: youtube_playlist
+  playlist: PL6EC7B047181AD013
+  label: Episodes
+- kind: youtube_playlist
+  playlist: PL5j80D9V7lqb69YBC9aNjQeQcpH7Ps11y
+  label: Movies

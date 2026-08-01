@@ -1,0 +1,1931 @@
+{
+ "item": "e14",
+ "show": "dbza",
+ "youtube": "6fAQtmY2NUM",
+ "title": "Episode 12",
+ "duration": 636,
+ "lines": [
+  {
+   "i": 0,
+   "start": 21.94,
+   "end": 26.88,
+   "kind": "dialog",
+   "speaker": "Cutter",
+   "text": "So, Freeza sent you to follow us, huh? Looks he wasn’t satisfied with just our planet!"
+  },
+  {
+   "i": 1,
+   "start": 26.88,
+   "end": 28.22,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Who the hell is Freeza--?"
+  },
+  {
+   "i": 2,
+   "start": 28.22,
+   "end": 28.72,
+   "kind": "dialog",
+   "speaker": "Cutter",
+   "text": "SHUT UP!"
+  },
+  {
+   "i": 3,
+   "start": 29.4,
+   "end": 34.4,
+   "kind": "dialog",
+   "speaker": "Cutter",
+   "text": "There’s no way we can let you people live! Not after what you did to our planet, our families!"
+  },
+  {
+   "i": 4,
+   "start": 34.4,
+   "end": 36.0,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Space orphans cheer"
+  },
+  {
+   "i": 5,
+   "start": 36.0,
+   "end": 38.42,
+   "kind": "dialog",
+   "speaker": "Cutter",
+   "text": "And now, for you crimes against our people…"
+  },
+  {
+   "i": 6,
+   "start": 38.42,
+   "end": 41.02,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "OK, seriously, we have no idea what--"
+  },
+  {
+   "i": 7,
+   "start": 41.02,
+   "end": 42.66,
+   "kind": "dialog",
+   "speaker": "Cutter",
+   "text": "WE SENTENCE YOU TO DEATH!"
+  },
+  {
+   "i": 8,
+   "start": 42.8,
+   "end": 44.06,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Uhhh, isn’t that a little--"
+  },
+  {
+   "i": 9,
+   "start": 44.06,
+   "end": 45.76,
+   "kind": "dialog",
+   "speaker": "Cutter",
+   "text": "Men! Ready your blasters!"
+  },
+  {
+   "i": 10,
+   "start": 45.76,
+   "end": 46.5,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Guns cocking"
+  },
+  {
+   "i": 11,
+   "start": 46.5,
+   "end": 49.68,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Gohan, this may be it. Close your eyes!"
+  },
+  {
+   "i": 12,
+   "start": 49.82,
+   "end": 50.38,
+   "kind": "dialog",
+   "speaker": "Cutter",
+   "text": "Aim...!"
+  },
+  {
+   "i": 13,
+   "start": 50.38,
+   "end": 51.34,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "(Whimpers)"
+  },
+  {
+   "i": 14,
+   "start": 51.82,
+   "end": 52.32,
+   "kind": "dialog",
+   "speaker": "Cutter",
+   "text": "FIRE!"
+  },
+  {
+   "i": 15,
+   "start": 52.32,
+   "end": 54.62,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Echoing bang"
+  },
+  {
+   "i": 16,
+   "start": 56.0,
+   "end": 56.5,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Oh..."
+  },
+  {
+   "i": 17,
+   "start": 57.64,
+   "end": 58.14,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Huh..."
+  },
+  {
+   "i": 18,
+   "start": 58.58,
+   "end": 61.46,
+   "kind": "dialog",
+   "speaker": "Cutter",
+   "text": "Oh my God... Freeza’s men are stronger than we thought!"
+  },
+  {
+   "i": 19,
+   "start": 59.74,
+   "end": 61.46,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Space orphans gasp in shock and horror"
+  },
+  {
+   "i": 20,
+   "start": 61.84,
+   "end": 64.42,
+   "kind": "dialog",
+   "speaker": "Cutter",
+   "text": "Everyone! Take your cyanide tablets!"
+  },
+  {
+   "i": 21,
+   "start": 64.42,
+   "end": 66.94,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "But we told you, we don’t know any Freeza--!"
+  },
+  {
+   "i": 22,
+   "start": 66.94,
+   "end": 71.9,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Thudding"
+  },
+  {
+   "i": 23,
+   "start": 72.06,
+   "end": 73.94,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I, uh... uh..."
+  },
+  {
+   "i": 24,
+   "start": 74.6,
+   "end": 77.0,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Krillin, can I open my eyes now?"
+  },
+  {
+   "i": 25,
+   "start": 77.76,
+   "end": 79.08,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "...Just get back to the ship, Gohan."
+  },
+  {
+   "i": 26,
+   "start": 79.08,
+   "end": 79.98,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "But I can’t see--"
+  },
+  {
+   "i": 27,
+   "start": 79.98,
+   "end": 81.28,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "JUST GET BACK TO THE SHIP!"
+  },
+  {
+   "i": 28,
+   "start": 81.28,
+   "end": 83.12,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"Cha-La Head-Cha-La\" ♫"
+  },
+  {
+   "i": 29,
+   "start": 83.12,
+   "end": 85.9,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "♫ CHA-LA HEAD-CHA-LA ♫"
+  },
+  {
+   "i": 30,
+   "start": 86.58,
+   "end": 90.26,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "♫ Egao urutora zetto de ♫ (With a smile that’s Ultra-Z)"
+  },
+  {
+   "i": 31,
+   "start": 90.26,
+   "end": 93.52,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "♫ Kyô mo ai-yai-yai-yai-yai~ ♫ (Even today is ai-yai-yai-yai-yai~)"
+  },
+  {
+   "i": 32,
+   "start": 93.52,
+   "end": 95.4,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "♫ Sparking! [fading echo] ♫"
+  },
+  {
+   "i": 33,
+   "start": 105.2,
+   "end": 109.12,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "\"Krillin’s log, stardate: Uh, November 28th.\""
+  },
+  {
+   "i": 34,
+   "start": 109.54,
+   "end": 114.24,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "\"We’ve been flying for two weeks now. Starting to feel verrrry pent up...\""
+  },
+  {
+   "i": 35,
+   "start": 114.62,
+   "end": 121.1,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "\"Not just from being trapped on the ship of course, but from Bulma walking around in nothing but her UNDERWEAR!\""
+  },
+  {
+   "i": 36,
+   "start": 121.78,
+   "end": 126.8,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "\"I would relieve this tension, but I have had no alone time as the toilet KEEPS\" SCREAMING AT ME!!"
+  },
+  {
+   "i": 37,
+   "start": 126.82,
+   "end": 128.9,
+   "kind": "dialog",
+   "speaker": "Toilet",
+   "text": "Scheißen Sie auf meinem Gesicht! (German for \"Shit in my face\")"
+  },
+  {
+   "i": 38,
+   "start": 129.16,
+   "end": 131.86,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "\"I’m not sure how much longer I can last.\""
+  },
+  {
+   "i": 39,
+   "start": 131.86,
+   "end": 133.9,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Krillin, are you saying something?"
+  },
+  {
+   "i": 40,
+   "start": 133.9,
+   "end": 134.66,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Nothing!"
+  },
+  {
+   "i": 41,
+   "start": 135.1,
+   "end": 136.5,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Goddamn c**ktease...!"
+  },
+  {
+   "i": 42,
+   "start": 136.5,
+   "end": 141.24,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Huh? You guys! You wouldn’t believe it, but... I see Planet Namek!"
+  },
+  {
+   "i": 43,
+   "start": 141.28,
+   "end": 143.62,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Wait, how the hell do you know it’s Planet Name--"
+  },
+  {
+   "i": 44,
+   "start": 143.62,
+   "end": 145.3,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Buzzing"
+  },
+  {
+   "i": 45,
+   "start": 143.62,
+   "end": 145.3,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "...Huh..."
+  },
+  {
+   "i": 46,
+   "start": 145.3,
+   "end": 147.86,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Well, what do you know? Bring us in for a landing, Bulma."
+  },
+  {
+   "i": 47,
+   "start": 147.86,
+   "end": 150.4,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Yeah, um, about that…"
+  },
+  {
+   "i": 48,
+   "start": 150.4,
+   "end": 150.96,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "About what?"
+  },
+  {
+   "i": 49,
+   "start": 150.96,
+   "end": 151.46,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Zips"
+  },
+  {
+   "i": 50,
+   "start": 151.46,
+   "end": 154.58,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Did I mention I don’t really know how to land this thing?"
+  },
+  {
+   "i": 51,
+   "start": 154.82,
+   "end": 155.56,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Uh..."
+  },
+  {
+   "i": 52,
+   "start": 156.04,
+   "end": 157.24,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "SEATBELTS, GOHAN!"
+  },
+  {
+   "i": 53,
+   "start": 163.12,
+   "end": 165.34,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Buzzing, shorts"
+  },
+  {
+   "i": 54,
+   "start": 165.76,
+   "end": 168.72,
+   "kind": "dialog",
+   "speaker": "Everyone",
+   "text": "AAAAAAAAAAAAAAAHHHHHHHHHH!!!!!"
+  },
+  {
+   "i": 55,
+   "start": 168.72,
+   "end": 169.28,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Crash"
+  },
+  {
+   "i": 56,
+   "start": 169.28,
+   "end": 170.74,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Engine winds down"
+  },
+  {
+   "i": 57,
+   "start": 171.18,
+   "end": 173.4,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "See? This is why women shouldn’t drive!"
+  },
+  {
+   "i": 58,
+   "start": 173.4,
+   "end": 175.72,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Oh, right. This coming from the Asian!"
+  },
+  {
+   "i": 59,
+   "start": 176.02,
+   "end": 179.02,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Well, I’m half-Saiyan. What does that make me?"
+  },
+  {
+   "i": 60,
+   "start": 179.02,
+   "end": 179.52,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "*Five*!"
+  },
+  {
+   "i": 61,
+   "start": 179.02,
+   "end": 179.52,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "*Five*!"
+  },
+  {
+   "i": 62,
+   "start": 179.52,
+   "end": 182.08,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Crack"
+  },
+  {
+   "i": 63,
+   "start": 179.52,
+   "end": 182.08,
+   "kind": "dialog",
+   "speaker": "Everyone",
+   "text": "AAAAAAAAAAAHHHHHHHH...!!!!!"
+  },
+  {
+   "i": 64,
+   "start": 183.46,
+   "end": 184.78,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Birds chirping"
+  },
+  {
+   "i": 65,
+   "start": 184.78,
+   "end": 188.66,
+   "kind": "dialog",
+   "speaker": "Zaacro",
+   "text": "Uh, are you sure they’re OK? They’ve been out for a long time."
+  },
+  {
+   "i": 66,
+   "start": 188.66,
+   "end": 191.52,
+   "kind": "dialog",
+   "speaker": "Raiti",
+   "text": "Of course I’m sure zey’re OK! Now just follow ze plan!"
+  },
+  {
+   "i": 67,
+   "start": 191.78,
+   "end": 192.98,
+   "kind": "dialog",
+   "speaker": "Zaacro",
+   "text": "We had a plan?"
+  },
+  {
+   "i": 68,
+   "start": 193.1,
+   "end": 198.48,
+   "kind": "dialog",
+   "speaker": "Raiti",
+   "text": "Of course ve have ze plan, stupid! To take their ship, and get off zis stoopid rock."
+  },
+  {
+   "i": 69,
+   "start": 198.7,
+   "end": 200.98,
+   "kind": "dialog",
+   "speaker": "Raiti",
+   "text": "Oh crap, zey’re vaking up! Act natural, act natural!"
+  },
+  {
+   "i": 70,
+   "start": 200.98,
+   "end": 201.48,
+   "kind": "dialog",
+   "speaker": "Zaacro",
+   "text": "Hi."
+  },
+  {
+   "i": 71,
+   "start": 201.48,
+   "end": 202.06,
+   "kind": "dialog",
+   "speaker": "Raiti",
+   "text": "Hiii!"
+  },
+  {
+   "i": 72,
+   "start": 202.06,
+   "end": 203.08,
+   "kind": "dialog",
+   "speaker": "Zaacro",
+   "text": "Welcome to Namek!"
+  },
+  {
+   "i": 73,
+   "start": 203.08,
+   "end": 203.98,
+   "kind": "dialog",
+   "speaker": "Raiti",
+   "text": "Yeah, Namek!"
+  },
+  {
+   "i": 74,
+   "start": 203.98,
+   "end": 204.48,
+   "kind": "dialog",
+   "speaker": "Zaacro",
+   "text": "Totally."
+  },
+  {
+   "i": 75,
+   "start": 204.48,
+   "end": 206.16,
+   "kind": "dialog",
+   "speaker": "Raiti",
+   "text": "Ve’re totally Namekers."
+  },
+  {
+   "i": 76,
+   "start": 206.48,
+   "end": 208.12,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "You mean \"Namekians\"?"
+  },
+  {
+   "i": 77,
+   "start": 208.16,
+   "end": 210.16,
+   "kind": "dialog",
+   "speaker": "Raiti",
+   "text": "Yah, zose guys. Zat’s us!"
+  },
+  {
+   "i": 78,
+   "start": 210.64,
+   "end": 214.26,
+   "kind": "dialog",
+   "speaker": "Zaacro",
+   "text": "So, uh, what brings you to, like, our planet?"
+  },
+  {
+   "i": 79,
+   "start": 214.26,
+   "end": 215.24,
+   "kind": "dialog",
+   "speaker": "Raiti",
+   "text": "Vhich is Namek."
+  },
+  {
+   "i": 80,
+   "start": 215.24,
+   "end": 217.68,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Well, we’re here to search for the Dragon Balls."
+  },
+  {
+   "i": 81,
+   "start": 217.68,
+   "end": 219.52,
+   "kind": "dialog",
+   "speaker": "Raiti",
+   "text": "Eww! That’s disgusting! Vhy vould you--"
+  },
+  {
+   "i": 82,
+   "start": 219.52,
+   "end": 221.76,
+   "kind": "dialog",
+   "speaker": "Zaacro",
+   "text": "I think they mean the ones that grant wishes."
+  },
+  {
+   "i": 83,
+   "start": 221.76,
+   "end": 225.5,
+   "kind": "dialog",
+   "speaker": "Raiti",
+   "text": "Oh yah, ve totally have zose! The vish-granting balls…"
+  },
+  {
+   "i": 84,
+   "start": 226.0,
+   "end": 229.58,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Oh, well, if you wouldn’t mind helping us look for them..."
+  },
+  {
+   "i": 85,
+   "start": 229.58,
+   "end": 232.06,
+   "kind": "dialog",
+   "speaker": "Raiti",
+   "text": "Oh yah, ve’ll help you find ze ball dragons."
+  },
+  {
+   "i": 86,
+   "start": 232.08,
+   "end": 232.9,
+   "kind": "dialog",
+   "speaker": "Zaacro",
+   "text": "Dragon balls."
+  },
+  {
+   "i": 87,
+   "start": 232.9,
+   "end": 235.42,
+   "kind": "dialog",
+   "speaker": "Raiti",
+   "text": "Yah, zat one. Hey, Zaacro."
+  },
+  {
+   "i": 88,
+   "start": 235.58,
+   "end": 236.08,
+   "kind": "dialog",
+   "speaker": "Zaacro",
+   "text": "What?"
+  },
+  {
+   "i": 89,
+   "start": 236.2,
+   "end": 241.32,
+   "kind": "dialog",
+   "speaker": "Raiti",
+   "text": "Ve should totally help zem find zem, and zen ve’ll take zem and zen ve’ll make our vish for ourselves!"
+  },
+  {
+   "i": 90,
+   "start": 241.66,
+   "end": 246.92,
+   "kind": "dialog",
+   "speaker": "Zaacro",
+   "text": "Uhh, ours don’t actually grant any wishes. I think we made that up. Did we make that up?"
+  },
+  {
+   "i": 91,
+   "start": 246.92,
+   "end": 249.96,
+   "kind": "dialog",
+   "speaker": "Raiti",
+   "text": "Vhat? Noooo. Vhy vould ve make zat up?"
+  },
+  {
+   "i": 92,
+   "start": 250.14,
+   "end": 257.1,
+   "kind": "dialog",
+   "speaker": "Zaacro",
+   "text": "Well, ‘cause, like ya told me when we read their minds; that we wanted their ship so we could get off this planet."
+  },
+  {
+   "i": 93,
+   "start": 257.22,
+   "end": 263.84,
+   "kind": "dialog",
+   "speaker": "Raiti",
+   "text": "Zat’s… zat’s… nooo… zat’s, just no. Ve vould never do that, dude. Come on, not cool."
+  },
+  {
+   "i": 94,
+   "start": 263.94,
+   "end": 266.58,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Krillin... do these two seem off to you?"
+  },
+  {
+   "i": 95,
+   "start": 266.58,
+   "end": 267.54,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I like 'em!"
+  },
+  {
+   "i": 96,
+   "start": 267.7,
+   "end": 269.38,
+   "kind": "dialog",
+   "speaker": "Raiti",
+   "text": "Time to find ze Dragon Balls!"
+  },
+  {
+   "i": 97,
+   "start": 274.26,
+   "end": 276.82,
+   "kind": "dialog",
+   "speaker": "Dr. Birdenheim",
+   "text": "...Yeah. He landed here a few days ago."
+  },
+  {
+   "i": 98,
+   "start": 277.22,
+   "end": 279.64,
+   "kind": "dialog",
+   "speaker": "Dr. Birdenheim",
+   "text": "He was pretty messed up, I’ll tell ya what."
+  },
+  {
+   "i": 99,
+   "start": 279.86,
+   "end": 281.44,
+   "kind": "dialog",
+   "speaker": "Rudy",
+   "text": "But, what happened to his partner?"
+  },
+  {
+   "i": 100,
+   "start": 281.54,
+   "end": 288.52,
+   "kind": "dialog",
+   "speaker": "Dr. Birdenheim",
+   "text": "Well, that’s the screwed-up part. They say he killed his partner and that his ghost still haunts him to this very day."
+  },
+  {
+   "i": 101,
+   "start": 288.96,
+   "end": 290.34,
+   "kind": "dialog",
+   "speaker": "Rudy",
+   "text": "Wha--... really?"
+  },
+  {
+   "i": 102,
+   "start": 290.6,
+   "end": 295.24,
+   "kind": "dialog",
+   "speaker": "Dr. Birdenheim",
+   "text": "No! What are you; stupid? We’re doctors! Scientists!"
+  },
+  {
+   "i": 103,
+   "start": 295.24,
+   "end": 297.76,
+   "kind": "dialog",
+   "speaker": "Dr. Birdenheim",
+   "text": "Now inject this man with some *science*!"
+  },
+  {
+   "i": 104,
+   "start": 298.36,
+   "end": 300.8,
+   "kind": "dialog",
+   "speaker": "Dr. Birdenheim",
+   "text": "Delicious, magical science!"
+  },
+  {
+   "i": 105,
+   "start": 301.22,
+   "end": 303.64,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'Gotta. Get. Out of here…'"
+  },
+  {
+   "i": 106,
+   "start": 304.14,
+   "end": 306.54,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'Gotta. Get to. Namek...'"
+  },
+  {
+   "i": 107,
+   "start": 307.1,
+   "end": 309.72,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'Gotta. Get the. Dragon Balls…'"
+  },
+  {
+   "i": 108,
+   "start": 310.16,
+   "end": 313.2,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'God. Damn it. Nappa...!'"
+  },
+  {
+   "i": 109,
+   "start": 313.76,
+   "end": 317.36,
+   "kind": "dialog",
+   "speaker": "Ghost Nappa",
+   "text": "You were saying... saying… saying…?"
+  },
+  {
+   "i": 110,
+   "start": 317.36,
+   "end": 318.94,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Monitor beeping rapidly"
+  },
+  {
+   "i": 111,
+   "start": 317.36,
+   "end": 318.94,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "(Muffled screaming)"
+  },
+  {
+   "i": 112,
+   "start": 318.94,
+   "end": 321.58,
+   "kind": "dialog",
+   "speaker": "Dr. Birdenheim",
+   "text": "My God! We have to get him out of there!"
+  },
+  {
+   "i": 113,
+   "start": 321.58,
+   "end": 323.74,
+   "kind": "dialog",
+   "speaker": "Dr. Birdenheim",
+   "text": "His heart rocket is skyrating!"
+  },
+  {
+   "i": 114,
+   "start": 323.88,
+   "end": 325.88,
+   "kind": "dialog",
+   "speaker": "Rudy",
+   "text": "Uhh.. don’t you mean his heart rate…"
+  },
+  {
+   "i": 115,
+   "start": 326.08,
+   "end": 329.14,
+   "kind": "dialog",
+   "speaker": "Dr. Birdenheim",
+   "text": "Damn it, man! I’m a *doctor*, not an English teacher!"
+  },
+  {
+   "i": 116,
+   "start": 331.04,
+   "end": 333.04,
+   "kind": "dialog",
+   "speaker": "Dr. Birdenheim",
+   "text": "Good to see you’re awake, Vegeta."
+  },
+  {
+   "i": 117,
+   "start": 333.34,
+   "end": 337.88,
+   "kind": "dialog",
+   "speaker": "Dr. Birdenheim",
+   "text": "We have to apologize, though... we… couldn’t save your tail."
+  },
+  {
+   "i": 118,
+   "start": 337.88,
+   "end": 339.7,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "It’s all right. I can live without it."
+  },
+  {
+   "i": 119,
+   "start": 339.7,
+   "end": 347.02,
+   "kind": "dialog",
+   "speaker": "Dr. Birdenheim",
+   "text": "If you call that living, you’d walk around a shell of your former self, everyone calling you a “tail-less freak!”"
+  },
+  {
+   "i": 120,
+   "start": 347.68,
+   "end": 350.88,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "You know I could probably kill all of you and Freeza wouldn’t care."
+  },
+  {
+   "i": 121,
+   "start": 351.02,
+   "end": 353.38,
+   "kind": "dialog",
+   "speaker": "Dr. Birdenheim",
+   "text": "Yeah, but that still wouldn’t get your tail back."
+  },
+  {
+   "i": 122,
+   "start": 354.36,
+   "end": 357.42,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Tell me something: Which is your favorite internal organ?"
+  },
+  {
+   "i": 123,
+   "start": 357.42,
+   "end": 363.46,
+   "kind": "dialog",
+   "speaker": "Dr. Birdenheim",
+   "text": "What an odd question! But if I had to choose, I guess I would have to say my liver."
+  },
+  {
+   "i": 124,
+   "start": 363.46,
+   "end": 366.38,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "SQUELCH"
+  },
+  {
+   "i": 125,
+   "start": 363.46,
+   "end": 366.38,
+   "kind": "dialog",
+   "speaker": "Dr. Birdenheim",
+   "text": "AAAAAUGH!"
+  },
+  {
+   "i": 126,
+   "start": 366.38,
+   "end": 368.76,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'You know, it’s the simple things in life...'"
+  },
+  {
+   "i": 127,
+   "start": 369.08,
+   "end": 370.72,
+   "kind": "dialog",
+   "speaker": "Cui",
+   "text": "Hey there, Vegeta."
+  },
+  {
+   "i": 128,
+   "start": 370.72,
+   "end": 373.02,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Speaking of simple; what is it, Cui?"
+  },
+  {
+   "i": 129,
+   "start": 373.12,
+   "end": 375.36,
+   "kind": "dialog",
+   "speaker": "Cui",
+   "text": "Where are you off to in such a hurry?"
+  },
+  {
+   "i": 130,
+   "start": 375.36,
+   "end": 376.84,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Off to plow your mother!"
+  },
+  {
+   "i": 131,
+   "start": 376.84,
+   "end": 379.44,
+   "kind": "dialog",
+   "speaker": "Cui",
+   "text": "Hah! Shows what you know, Vegeta."
+  },
+  {
+   "i": 132,
+   "start": 379.44,
+   "end": 381.42,
+   "kind": "dialog",
+   "speaker": "Cui",
+   "text": "We reproduce asexually."
+  },
+  {
+   "i": 133,
+   "start": 381.42,
+   "end": 382.7,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Gross, out of my way."
+  },
+  {
+   "i": 134,
+   "start": 382.92,
+   "end": 385.06,
+   "kind": "dialog",
+   "speaker": "Cui",
+   "text": "Off to Namek, are we?"
+  },
+  {
+   "i": 135,
+   "start": 385.8,
+   "end": 386.6,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "...Come again?"
+  },
+  {
+   "i": 136,
+   "start": 387.02,
+   "end": 389.24,
+   "kind": "dialog",
+   "speaker": "Cui",
+   "text": "We heard about the Dragon Balls."
+  },
+  {
+   "i": 137,
+   "start": 389.62,
+   "end": 393.84,
+   "kind": "dialog",
+   "speaker": "Cui",
+   "text": "We know the Namekians made them, and Freeza is way ahead of you."
+  },
+  {
+   "i": 138,
+   "start": 393.98,
+   "end": 394.62,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "But-- how?!"
+  },
+  {
+   "i": 139,
+   "start": 394.62,
+   "end": 398.12,
+   "kind": "dialog",
+   "speaker": "Cui",
+   "text": "The Scouter was on the entire time."
+  },
+  {
+   "i": 140,
+   "start": 398.12,
+   "end": 402.28,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "That’s impossible! My transmitter was off the entire time! Whose scouter was--?!"
+  },
+  {
+   "i": 141,
+   "start": 402.28,
+   "end": 402.78,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "SNAP"
+  },
+  {
+   "i": 142,
+   "start": 403.5,
+   "end": 408.2,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "GOD DAMN IT, *NAPPAAAAAAAAA*...!!!"
+  },
+  {
+   "i": 143,
+   "start": 409.82,
+   "end": 413.02,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Wow, you guys. We’ve already found two Dragon Balls."
+  },
+  {
+   "i": 144,
+   "start": 413.02,
+   "end": 415.42,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Wow! This usually takes us, like, *months*!"
+  },
+  {
+   "i": 145,
+   "start": 415.78,
+   "end": 417.96,
+   "kind": "dialog",
+   "speaker": "Raiti",
+   "text": "Zat’s because you’re on ze Planet Namek."
+  },
+  {
+   "i": 146,
+   "start": 418.14,
+   "end": 420.14,
+   "kind": "dialog",
+   "speaker": "Raiti",
+   "text": "Everyzing’s better up here!"
+  },
+  {
+   "i": 147,
+   "start": 420.54,
+   "end": 423.48,
+   "kind": "dialog",
+   "speaker": "Raiti",
+   "text": "You should totally stay here, forever."
+  },
+  {
+   "i": 148,
+   "start": 423.48,
+   "end": 425.3,
+   "kind": "dialog",
+   "speaker": "Raiti",
+   "text": "Vhile ve take your ship…"
+  },
+  {
+   "i": 149,
+   "start": 425.3,
+   "end": 425.84,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "What?"
+  },
+  {
+   "i": 150,
+   "start": 425.84,
+   "end": 429.22,
+   "kind": "dialog",
+   "speaker": "Raiti",
+   "text": "Oh, look it’s anozer Dragon Ball in ze lake. YOU SHOULD GO GET IT!"
+  },
+  {
+   "i": 151,
+   "start": 429.48,
+   "end": 431.48,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Is that a giant skeleton?"
+  },
+  {
+   "i": 152,
+   "start": 431.48,
+   "end": 434.86,
+   "kind": "dialog",
+   "speaker": "Raiti",
+   "text": "Oh come on, dude. Vhat are you, chicken?"
+  },
+  {
+   "i": 153,
+   "start": 434.86,
+   "end": 437.62,
+   "kind": "dialog",
+   "speaker": "Raiti",
+   "text": "Don’t you vant to have ze awesome adventures?"
+  },
+  {
+   "i": 154,
+   "start": 437.62,
+   "end": 440.66,
+   "kind": "dialog",
+   "speaker": "Raiti",
+   "text": "On ze Planet Namek? Vith ze Dragon Balls?"
+  },
+  {
+   "i": 155,
+   "start": 441.38,
+   "end": 443.38,
+   "kind": "dialog",
+   "speaker": "Raiti",
+   "text": "And ze awesome musical montage?!"
+  },
+  {
+   "i": 156,
+   "start": 441.38,
+   "end": 444.1,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"Gotta Find That Dragon Ball!\" - theme of Dragon Ball (BLT dub) ♫"
+  },
+  {
+   "i": 157,
+   "start": 444.1,
+   "end": 445.18,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "♫ Dragon Ball! ♫"
+  },
+  {
+   "i": 158,
+   "start": 446.0,
+   "end": 448.1,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "♫ Gotta find that Dragon Ball! ♫"
+  },
+  {
+   "i": 159,
+   "start": 448.96,
+   "end": 451.0,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "♫ Don’t stop until you got 'em all ♫"
+  },
+  {
+   "i": 160,
+   "start": 451.0,
+   "end": 452.8,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "♫ the seven magic balls ♫"
+  },
+  {
+   "i": 161,
+   "start": 453.02,
+   "end": 456.5,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "♫ It’s all you gotta do to have your wish come true! ♫"
+  },
+  {
+   "i": 162,
+   "start": 456.86,
+   "end": 458.6,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "♫ Get that Dragon Ball! ♫"
+  },
+  {
+   "i": 163,
+   "start": 459.06,
+   "end": 460.06,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "♫ Dragon Ball! ♫"
+  },
+  {
+   "i": 164,
+   "start": 460.58,
+   "end": 463.22,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "♫ Everybody's searchin’ for the Dragon Ball! ♫"
+  },
+  {
+   "i": 165,
+   "start": 464.5,
+   "end": 466.06,
+   "kind": "dialog",
+   "speaker": "Raiti",
+   "text": "Hey, vasn’t zat fun?"
+  },
+  {
+   "i": 166,
+   "start": 466.06,
+   "end": 467.84,
+   "kind": "dialog",
+   "speaker": "Zaacro",
+   "text": "Yeah, it was… \"woo\"."
+  },
+  {
+   "i": 167,
+   "start": 467.84,
+   "end": 472.28,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Hey, um, I’ve been meaning to ask you guys... where are all the other Namekians?"
+  },
+  {
+   "i": 168,
+   "start": 472.38,
+   "end": 475.14,
+   "kind": "dialog",
+   "speaker": "Raiti",
+   "text": "Oh, zey’re around. Don’t even pretend you didn’t see them."
+  },
+  {
+   "i": 169,
+   "start": 475.28,
+   "end": 477.36,
+   "kind": "dialog",
+   "speaker": "Zaacro",
+   "text": "Yeah, we passed ‘em like, three times."
+  },
+  {
+   "i": 170,
+   "start": 477.36,
+   "end": 478.62,
+   "kind": "dialog",
+   "speaker": "Raiti",
+   "text": "Didn’t you see Steve?"
+  },
+  {
+   "i": 171,
+   "start": 478.62,
+   "end": 479.34,
+   "kind": "dialog",
+   "speaker": "Zaacro",
+   "text": "He waved!"
+  },
+  {
+   "i": 172,
+   "start": 479.34,
+   "end": 480.34,
+   "kind": "dialog",
+   "speaker": "Raiti",
+   "text": "Don't diss Steve!"
+  },
+  {
+   "i": 173,
+   "start": 480.34,
+   "end": 481.76,
+   "kind": "dialog",
+   "speaker": "Zaacro",
+   "text": "Yeah, don't do that."
+  },
+  {
+   "i": 174,
+   "start": 481.76,
+   "end": 483.38,
+   "kind": "dialog",
+   "speaker": "Raiti",
+   "text": "He has social phobias."
+  },
+  {
+   "i": 175,
+   "start": 483.38,
+   "end": 488.18,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Come on, you guys! We only have one more Dragon Ball left! Then we can wish back our friends!"
+  },
+  {
+   "i": 176,
+   "start": 488.4,
+   "end": 491.04,
+   "kind": "dialog",
+   "speaker": "Raiti",
+   "text": "Vhat?! NO! VE CAN’T LET YOU DO ZAT!"
+  },
+  {
+   "i": 177,
+   "start": 491.04,
+   "end": 492.54,
+   "kind": "dialog",
+   "speaker": "Zaacro",
+   "text": "Yeaaaah. We-- what?"
+  },
+  {
+   "i": 178,
+   "start": 492.54,
+   "end": 494.86,
+   "kind": "dialog",
+   "speaker": "Raiti",
+   "text": "See, ve can’t let you have ze Dragon Balls."
+  },
+  {
+   "i": 179,
+   "start": 494.86,
+   "end": 499.12,
+   "kind": "dialog",
+   "speaker": "Raiti",
+   "text": "Zey’re our Dragon Balls! Ve vill take zem and ve vill make our vish for ourselves!"
+  },
+  {
+   "i": 180,
+   "start": 499.12,
+   "end": 502.28,
+   "kind": "dialog",
+   "speaker": "Raiti",
+   "text": "And zen you suck our three foot long Schwanzstuckers!"
+  },
+  {
+   "i": 181,
+   "start": 502.66,
+   "end": 503.32,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Your what?"
+  },
+  {
+   "i": 182,
+   "start": 503.32,
+   "end": 504.74,
+   "kind": "dialog",
+   "speaker": "Zaacro",
+   "text": "Our-- our wangs."
+  },
+  {
+   "i": 183,
+   "start": 504.74,
+   "end": 507.24,
+   "kind": "dialog",
+   "speaker": "Raiti",
+   "text": "It’s funny because “vang” means penis."
+  },
+  {
+   "i": 184,
+   "start": 507.46,
+   "end": 508.28,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Wait a minute...!"
+  },
+  {
+   "i": 185,
+   "start": 508.54,
+   "end": 510.54,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Namekians don’t have penises!"
+  },
+  {
+   "i": 186,
+   "start": 510.54,
+   "end": 512.38,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Dramatic sting"
+  },
+  {
+   "i": 187,
+   "start": 512.62,
+   "end": 514.8,
+   "kind": "dialog",
+   "speaker": "Raiti",
+   "text": "Vhat?! Vhat are you talking about?! Of course ve do!"
+  },
+  {
+   "i": 188,
+   "start": 514.8,
+   "end": 519.98,
+   "kind": "dialog",
+   "speaker": "Zaacro",
+   "text": "Uhh, actually, I, uh, read their minds... and I don’t think we do."
+  },
+  {
+   "i": 189,
+   "start": 519.98,
+   "end": 521.78,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "You guys aren’t Namekians at all!"
+  },
+  {
+   "i": 190,
+   "start": 521.78,
+   "end": 522.28,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Whoosh"
+  },
+  {
+   "i": 191,
+   "start": 522.44,
+   "end": 524.76,
+   "kind": "dialog",
+   "speaker": "Raiti",
+   "text": "Oh look vhat you’ve done, Zaacro!"
+  },
+  {
+   "i": 192,
+   "start": 525.02,
+   "end": 527.74,
+   "kind": "dialog",
+   "speaker": "Raiti",
+   "text": "Vhy do you have to go and mess this up, blow our cover?"
+  },
+  {
+   "i": 193,
+   "start": 527.74,
+   "end": 530.04,
+   "kind": "dialog",
+   "speaker": "Zaacro",
+   "text": "OK, I did not do that. Did I do that?"
+  },
+  {
+   "i": 194,
+   "start": 530.2,
+   "end": 533.56,
+   "kind": "dialog",
+   "speaker": "Raiti",
+   "text": "Vell you must have ‘cause I would never do anything that stupid."
+  },
+  {
+   "i": 195,
+   "start": 533.7,
+   "end": 540.06,
+   "kind": "dialog",
+   "speaker": "Zaacro",
+   "text": "Well, there was that one time… when you got mad at those two guys… who just wanted to play a children’s card game."
+  },
+  {
+   "i": 196,
+   "start": 540.2,
+   "end": 545.28,
+   "kind": "dialog",
+   "speaker": "Zaacro",
+   "text": "And you made us chase after them… then we ended up crashing here… on this planet..."
+  },
+  {
+   "i": 197,
+   "start": 545.28,
+   "end": 548.28,
+   "kind": "dialog",
+   "speaker": "Raiti",
+   "text": "Vhy did you have to bring zat up? Open those vounds…"
+  },
+  {
+   "i": 198,
+   "start": 548.76,
+   "end": 552.04,
+   "kind": "dialog",
+   "speaker": "Raiti",
+   "text": "You know vhat? Screw it. Just summon ze tentacle monsters."
+  },
+  {
+   "i": 199,
+   "start": 552.3,
+   "end": 559.76,
+   "kind": "dialog",
+   "speaker": "Zaacro",
+   "text": "Oh, all right. Umm, tentacle monsters… heeeere. OK, I think that did it."
+  },
+  {
+   "i": 200,
+   "start": 560.08,
+   "end": 566.12,
+   "kind": "dialog",
+   "speaker": "Raiti",
+   "text": "Hah! Now soon, you vill deal vith ze many protruding tentacles of ze violating tentacle monster."
+  },
+  {
+   "i": 201,
+   "start": 566.24,
+   "end": 568.24,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Don’t worry, Bulma! I’ll protect you!"
+  },
+  {
+   "i": 202,
+   "start": 568.26,
+   "end": 570.26,
+   "kind": "dialog",
+   "speaker": "Raiti",
+   "text": "I vas talking to you, Baldy."
+  },
+  {
+   "i": 203,
+   "start": 570.48,
+   "end": 573.48,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Wait, wha-- Oh! Nooo! NO!"
+  },
+  {
+   "i": 204,
+   "start": 573.48,
+   "end": 577.88,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "No not there! Whoa, God! Help me! Help! Aaaaugh--"
+  },
+  {
+   "i": 205,
+   "start": 577.88,
+   "end": 579.82,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Aaaaaagh!"
+  },
+  {
+   "i": 206,
+   "start": 579.82,
+   "end": 587.2,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "'Oh God… oooh… oh man. That was… that was terrifying.'"
+  },
+  {
+   "i": 207,
+   "start": 587.76,
+   "end": 588.74,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "I’ll say. ( ͡° ͜ʖ ͡°)"
+  },
+  {
+   "i": 208,
+   "start": 588.88,
+   "end": 590.44,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Noooooooooooo!!"
+  },
+  {
+   "i": 209,
+   "start": 590.44,
+   "end": 590.94,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Gasp"
+  },
+  {
+   "i": 210,
+   "start": 596.68,
+   "end": 597.48,
+   "kind": "dialog",
+   "speaker": "Kaiserneko",
+   "text": "Oh, man..."
+  },
+  {
+   "i": 211,
+   "start": 598.4,
+   "end": 600.66,
+   "kind": "dialog",
+   "speaker": "Kaiserneko",
+   "text": "I have got to stop editing so late."
+  },
+  {
+   "i": 212,
+   "start": 601.24,
+   "end": 603.24,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Spooky whoosh"
+  },
+  {
+   "i": 213,
+   "start": 606.0,
+   "end": 606.98,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "I'll say. ( ͡° ͜ʖ ͡°)"
+  },
+  {
+   "i": 214,
+   "start": 607.32,
+   "end": 607.82,
+   "kind": "dialog",
+   "speaker": "Kaiserneko",
+   "text": "AAA--!"
+  },
+  {
+   "i": 215,
+   "start": 607.82,
+   "end": 610.88,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ Closing theme (DBZ intermission) ♫"
+  },
+  {
+   "i": 216,
+   "start": 610.88,
+   "end": 612.9,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Captions by PyroAvok"
+  },
+  {
+   "i": 217,
+   "start": 612.94,
+   "end": 614.94,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Birds chirping"
+  },
+  {
+   "i": 218,
+   "start": 615.86,
+   "end": 616.6,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "Lord Guru!"
+  },
+  {
+   "i": 219,
+   "start": 616.76,
+   "end": 617.46,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "Hmm?"
+  },
+  {
+   "i": 220,
+   "start": 617.74,
+   "end": 620.66,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "I have terrible news: Someone has attacked the planet."
+  },
+  {
+   "i": 221,
+   "start": 621.1,
+   "end": 623.28,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "This is very serious."
+  },
+  {
+   "i": 222,
+   "start": 623.78,
+   "end": 626.58,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "I must put on my war face."
+  },
+  {
+   "i": 223,
+   "start": 627.5,
+   "end": 628.0,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "Hm."
+  },
+  {
+   "i": 224,
+   "start": 629.48,
+   "end": 632.12,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "There. Now show me yours."
+  },
+  {
+   "i": 225,
+   "start": 634.16,
+   "end": 635.2,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "Needs work."
+  }
+ ],
+ "segments": [
+  {
+   "start": 21.4,
+   "end": 66.9,
+   "title": "Space Orphans Cyanide",
+   "quote": "Oh my God... Freeza's men are stronger than we thought! Everyone! Take your cyanide tablets!",
+   "line_start": 0,
+   "line_end": 21
+  },
+  {
+   "start": 104.7,
+   "end": 131.9,
+   "title": "Krillin's Log",
+   "quote": "\"Krillin’s log, stardate: Uh, November 28th.\" ... SCREAMING AT ME!!",
+   "line_start": 33,
+   "line_end": 38
+  },
+  {
+   "start": 150.4,
+   "end": 170.8,
+   "title": "Women Shouldn't Drive",
+   "quote": "Did I mention I don’t really know how to land this thing? / SEATBELTS, GOHAN!",
+   "line_start": 50,
+   "line_end": 56
+  },
+  {
+   "start": 171.0,
+   "end": 182.1,
+   "title": "*Five*!",
+   "quote": "Well, I’m half-Saiyan. What does that make me? / *Five*!",
+   "line_start": 57,
+   "line_end": 63
+  },
+  {
+   "start": 198.2,
+   "end": 217.7,
+   "title": "Totally Namekers",
+   "quote": "Ve’re totally Namekers. / You mean \"Namekians\"? / Yah, zose guys. Zat’s us!",
+   "line_start": 69,
+   "line_end": 80
+  },
+  {
+   "start": 235.1,
+   "end": 267.6,
+   "title": "The Not-So-Secret Plan",
+   "quote": "Ve should totally help zem find zem... and zen ve’ll make our vish for ourselves! / Do these two seem off to you? / I like 'em!",
+   "line_start": 87,
+   "line_end": 95
+  },
+  {
+   "start": 300.7,
+   "end": 318.9,
+   "title": "Ghost Nappa Haunts",
+   "quote": "'God. Damn it. Nappa...!' / You were saying... saying… saying…?",
+   "line_start": 105,
+   "line_end": 111
+  },
+  {
+   "start": 321.3,
+   "end": 347.0,
+   "title": "Doctor, Not an English Teacher",
+   "quote": "Damn it, man! I’m a *doctor*, not an English teacher!",
+   "line_start": 113,
+   "line_end": 119
+  },
+  {
+   "start": 353.9,
+   "end": 370.7,
+   "title": "Favorite Internal Organ",
+   "quote": "Which is your favorite internal organ? ... 'You know, it’s the simple things in life...'",
+   "line_start": 122,
+   "line_end": 126
+  },
+  {
+   "start": 393.5,
+   "end": 408.2,
+   "title": "GOD DAMN IT NAPPA",
+   "quote": "The Scouter was on the entire time. / GOD DAMN IT, *NAPPAAAAAAAAA*...!!!",
+   "line_start": 138,
+   "line_end": 142
+  },
+  {
+   "start": 440.9,
+   "end": 466.1,
+   "title": "Musical Montage",
+   "quote": "And ze awesome musical montage?! / ♫ Gotta find that Dragon Ball! ♫",
+   "line_start": 155,
+   "line_end": 165
+  },
+  {
+   "start": 507.0,
+   "end": 524.8,
+   "title": "Namekians Don't Have Penises",
+   "quote": "Namekians don’t have penises! / Vhat?! Vhat are you talking about?! Of course ve do!",
+   "line_start": 184,
+   "line_end": 191
+  },
+  {
+   "start": 579.6,
+   "end": 610.9,
+   "title": "I'll Say. (Mr. Popo)",
+   "quote": "'That was… that was terrifying.' / I’ll say. ( ͡° ͜ʖ ͡°) / I have got to stop editing so late.",
+   "line_start": 206,
+   "line_end": 214
+  },
+  {
+   "start": 615.4,
+   "end": 635.3,
+   "title": "Guru's War Face",
+   "quote": "I must put on my war face. / There. Now show me yours. / Needs work.",
+   "line_start": 218,
+   "line_end": 225
+  }
+ ]
+}

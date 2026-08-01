@@ -1,0 +1,1483 @@
+{
+ "item": "e06",
+ "show": "dbza",
+ "youtube": "JJDa3irhkoI",
+ "title": "Episode 6",
+ "duration": 465,
+ "lines": [
+  {
+   "i": 0,
+   "start": 8.32,
+   "end": 10.1,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Um, Mr. Popo?"
+  },
+  {
+   "i": 1,
+   "start": 10.1,
+   "end": 11.68,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Are you sure this'll make us stron--?"
+  },
+  {
+   "i": 2,
+   "start": 11.68,
+   "end": 13.04,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Pecking orderrr~"
+  },
+  {
+   "i": 3,
+   "start": 13.04,
+   "end": 13.54,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Sorry!"
+  },
+  {
+   "i": 4,
+   "start": 13.54,
+   "end": 14.86,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Damn right you are."
+  },
+  {
+   "i": 5,
+   "start": 15.06,
+   "end": 17.58,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Now - stand in this circle here."
+  },
+  {
+   "i": 6,
+   "start": 17.78,
+   "end": 19.22,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "You mean like this?"
+  },
+  {
+   "i": 7,
+   "start": 19.52,
+   "end": 20.34,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Yeah."
+  },
+  {
+   "i": 8,
+   "start": 20.78,
+   "end": 21.96,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Byyee~!"
+  },
+  {
+   "i": 9,
+   "start": 22.32,
+   "end": 23.12,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Wait, what--?"
+  },
+  {
+   "i": 10,
+   "start": 24.06,
+   "end": 26.56,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Pendulum swinging"
+  },
+  {
+   "i": 11,
+   "start": 49.14,
+   "end": 51.9,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Alright. Today, we will commence your training."
+  },
+  {
+   "i": 12,
+   "start": 51.9,
+   "end": 53.94,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Woohoo! Alright!"
+  },
+  {
+   "i": 13,
+   "start": 54.1,
+   "end": 55.86,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Now, what's my first lesson?"
+  },
+  {
+   "i": 14,
+   "start": 55.88,
+   "end": 56.96,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "First, you must--"
+  },
+  {
+   "i": 15,
+   "start": 56.96,
+   "end": 57.76,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Catch the monkey!"
+  },
+  {
+   "i": 16,
+   "start": 58.38,
+   "end": 59.56,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Actually, I was going to--"
+  },
+  {
+   "i": 17,
+   "start": 59.56,
+   "end": 60.96,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Wheeeee!"
+  },
+  {
+   "i": 18,
+   "start": 61.48,
+   "end": 62.96,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "OK, have fun with that."
+  },
+  {
+   "i": 19,
+   "start": 64.5,
+   "end": 66.7,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "Meanwhile in... somewhere..."
+  },
+  {
+   "i": 20,
+   "start": 67.7,
+   "end": 69.56,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Wow. This place is a wreck."
+  },
+  {
+   "i": 21,
+   "start": 69.94,
+   "end": 74.02,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "I know. The desolation, the ruin, the horror."
+  },
+  {
+   "i": 22,
+   "start": 74.68,
+   "end": 76.32,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Where are we? New Orleans?"
+  },
+  {
+   "i": 23,
+   "start": 76.32,
+   "end": 77.08,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Needle scratch"
+  },
+  {
+   "i": 24,
+   "start": 76.32,
+   "end": 77.08,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Krillin!"
+  },
+  {
+   "i": 25,
+   "start": 77.38,
+   "end": 77.88,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "What?"
+  },
+  {
+   "i": 26,
+   "start": 78.12,
+   "end": 78.84,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Too soon!"
+  },
+  {
+   "i": 27,
+   "start": 80.9,
+   "end": 81.66,
+   "kind": "dialog",
+   "speaker": "Chiaotzu",
+   "text": "Huh?"
+  },
+  {
+   "i": 28,
+   "start": 82.88,
+   "end": 84.66,
+   "kind": "dialog",
+   "speaker": "Helmet",
+   "text": "YOU MUST CONSTRUCT ADDITIONAL PYLONS"
+  },
+  {
+   "i": 29,
+   "start": 84.66,
+   "end": 85.18,
+   "kind": "dialog",
+   "speaker": "Chiaotzu",
+   "text": "(Squeaks)"
+  },
+  {
+   "i": 30,
+   "start": 85.42,
+   "end": 87.08,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Chiaotzu! Get away from there."
+  },
+  {
+   "i": 31,
+   "start": 87.5,
+   "end": 88.22,
+   "kind": "dialog",
+   "speaker": "Chiaotzu",
+   "text": "Why?"
+  },
+  {
+   "i": 32,
+   "start": 88.22,
+   "end": 90.9,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "You have no idea where that’s been; it could give you an infection."
+  },
+  {
+   "i": 33,
+   "start": 90.9,
+   "end": 92.58,
+   "kind": "dialog",
+   "speaker": "Chiaotzu",
+   "text": "You're not my dad; don’t tell me what to–"
+  },
+  {
+   "i": 34,
+   "start": 92.58,
+   "end": 95.64,
+   "kind": "dialog",
+   "speaker": "Chiaotzu",
+   "text": "(Yelling)"
+  },
+  {
+   "i": 35,
+   "start": 95.64,
+   "end": 97.64,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Chiaotzu! My partner!"
+  },
+  {
+   "i": 36,
+   "start": 98.66,
+   "end": 99.16,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "...Gay."
+  },
+  {
+   "i": 37,
+   "start": 99.42,
+   "end": 103.12,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Hey! At least I don’t spend all my free time living alone with a cat!"
+  },
+  {
+   "i": 38,
+   "start": 103.3,
+   "end": 105.24,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Hey! At least *I* get some puss—"
+  },
+  {
+   "i": 39,
+   "start": 105.74,
+   "end": 107.62,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "*Wow*, that did *not* come out right."
+  },
+  {
+   "i": 40,
+   "start": 108.02,
+   "end": 110.88,
+   "kind": "dialog",
+   "speaker": "Spraut",
+   "text": "Hey, Bruzzel, look what we got here."
+  },
+  {
+   "i": 41,
+   "start": 110.88,
+   "end": 113.78,
+   "kind": "dialog",
+   "speaker": "Bruzzel",
+   "text": "Yes; we’ve got some tourists, Spraut."
+  },
+  {
+   "i": 42,
+   "start": 113.78,
+   "end": 114.3,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "(Gasp)"
+  },
+  {
+   "i": 43,
+   "start": 114.3,
+   "end": 116.34,
+   "kind": "dialog",
+   "speaker": "Spraut",
+   "text": "Well, then we should give them the tour."
+  },
+  {
+   "i": 44,
+   "start": 116.34,
+   "end": 133.86,
+   "kind": "dialog",
+   "speaker": "Bruzzel",
+   "text": "Yes; the tour straight to hell, ...because we’ll be killing them. With our own two diabolical hands, which are comprised of many sinister fingers, which we shall use to fiendishly destroy them one by one until--!"
+  },
+  {
+   "i": 45,
+   "start": 133.86,
+   "end": 136.92,
+   "kind": "dialog",
+   "speaker": "Spraut",
+   "text": "Oh, for Christ’s sake, yes; they get it; we’re evil. Shut up!"
+  },
+  {
+   "i": 46,
+   "start": 137.74,
+   "end": 138.7,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Oh, God, why?!"
+  },
+  {
+   "i": 47,
+   "start": 138.7,
+   "end": 142.78,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Krillin screams as the Saiyans pummel him"
+  },
+  {
+   "i": 48,
+   "start": 142.78,
+   "end": 147.26,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Oh, God! This can’t possibly get any worse...!"
+  },
+  {
+   "i": 49,
+   "start": 147.26,
+   "end": 148.28,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Hi~~i."
+  },
+  {
+   "i": 50,
+   "start": 148.28,
+   "end": 150.46,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Krillin screaming"
+  },
+  {
+   "i": 51,
+   "start": 150.46,
+   "end": 151.0,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "DING"
+  },
+  {
+   "i": 52,
+   "start": 151.98,
+   "end": 154.58,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "It’s up to us! We have to attack together!"
+  },
+  {
+   "i": 53,
+   "start": 154.9,
+   "end": 157.94,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Right. Back to back. Let’s do it for Chiaotzu!"
+  },
+  {
+   "i": 54,
+   "start": 158.06,
+   "end": 158.98,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "And Krillin!"
+  },
+  {
+   "i": 55,
+   "start": 159.44,
+   "end": 161.44,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Crickets chirping"
+  },
+  {
+   "i": 56,
+   "start": 161.64,
+   "end": 163.24,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Eh, OK, just Chiaotzu."
+  },
+  {
+   "i": 57,
+   "start": 163.42,
+   "end": 166.7,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "HAAAAAAAAAAAAAAA!"
+  },
+  {
+   "i": 58,
+   "start": 163.42,
+   "end": 166.7,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "HAAAAAAAAAAAAAAA!"
+  },
+  {
+   "i": 59,
+   "start": 168.56,
+   "end": 171.28,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Alright. Let’s see how they’re doing inside..."
+  },
+  {
+   "i": 60,
+   "start": 171.88,
+   "end": 184.16,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Screams of agony from Yamcha and Tien"
+  },
+  {
+   "i": 61,
+   "start": 178.46,
+   "end": 184.16,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Mr. Popo laughs"
+  },
+  {
+   "i": 62,
+   "start": 186.28,
+   "end": 187.84,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "So, how was it?"
+  },
+  {
+   "i": 63,
+   "start": 187.84,
+   "end": 189.58,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Heavy breathing and Krillin muttering something about “darkness”"
+  },
+  {
+   "i": 64,
+   "start": 189.58,
+   "end": 191.78,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "It was... *horrible*."
+  },
+  {
+   "i": 65,
+   "start": 192.8,
+   "end": 195.88,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Good. You survived the first test."
+  },
+  {
+   "i": 66,
+   "start": 196.12,
+   "end": 198.12,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Oh, thank God!"
+  },
+  {
+   "i": 67,
+   "start": 198.12,
+   "end": 199.9,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "But I have some bad news..."
+  },
+  {
+   "i": 68,
+   "start": 200.32,
+   "end": 200.96,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "What?"
+  },
+  {
+   "i": 69,
+   "start": 201.42,
+   "end": 203.08,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "You’re going back!"
+  },
+  {
+   "i": 70,
+   "start": 203.44,
+   "end": 204.6,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Wh... What?"
+  },
+  {
+   "i": 71,
+   "start": 205.2,
+   "end": 206.18,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Bye!"
+  },
+  {
+   "i": 72,
+   "start": 206.18,
+   "end": 207.56,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "NOOOOO...!!"
+  },
+  {
+   "i": 73,
+   "start": 209.4,
+   "end": 212.06,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Pendulum swinging"
+  },
+  {
+   "i": 74,
+   "start": 212.76,
+   "end": 216.06,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Mr. Popo, where did you send them?"
+  },
+  {
+   "i": 75,
+   "start": 216.52,
+   "end": 218.18,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "I’ll tell you where they’re not:"
+  },
+  {
+   "i": 76,
+   "start": 218.94,
+   "end": 220.3,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Safe~"
+  },
+  {
+   "i": 77,
+   "start": 221.16,
+   "end": 224.3,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Woohoo! Alright! I caught the mon—"
+  },
+  {
+   "i": 78,
+   "start": 224.3,
+   "end": 225.26,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Ooh, a cricket!"
+  },
+  {
+   "i": 79,
+   "start": 225.26,
+   "end": 226.28,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Thud"
+  },
+  {
+   "i": 80,
+   "start": 225.26,
+   "end": 226.28,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Bubbles screeches"
+  },
+  {
+   "i": 81,
+   "start": 226.28,
+   "end": 227.28,
+   "kind": "dialog",
+   "speaker": "Gregory",
+   "text": "Yeah, I’m Gregor--"
+  },
+  {
+   "i": 82,
+   "start": 227.28,
+   "end": 228.36,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I'ma smash him!"
+  },
+  {
+   "i": 83,
+   "start": 228.6,
+   "end": 229.1,
+   "kind": "dialog",
+   "speaker": "Gregory",
+   "text": "What...?"
+  },
+  {
+   "i": 84,
+   "start": 229.62,
+   "end": 230.4,
+   "kind": "dialog",
+   "speaker": "Gregory",
+   "text": "OHMYDEARGOD!"
+  },
+  {
+   "i": 85,
+   "start": 230.4,
+   "end": 231.34,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Wee-hee!"
+  },
+  {
+   "i": 86,
+   "start": 231.34,
+   "end": 232.72,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Shut up, Gregory."
+  },
+  {
+   "i": 87,
+   "start": 232.72,
+   "end": 233.6,
+   "kind": "dialog",
+   "speaker": "Gregory",
+   "text": "Aagh?!"
+  },
+  {
+   "i": 88,
+   "start": 232.72,
+   "end": 233.6,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Hammer impact"
+  },
+  {
+   "i": 89,
+   "start": 233.6,
+   "end": 234.7,
+   "kind": "dialog",
+   "speaker": "Bojack",
+   "text": "Yarrrgh!"
+  },
+  {
+   "i": 90,
+   "start": 234.7,
+   "end": 236.06,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Shut up, Bojack."
+  },
+  {
+   "i": 91,
+   "start": 239.3,
+   "end": 242.12,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "It seems that your training here is complete."
+  },
+  {
+   "i": 92,
+   "start": 242.26,
+   "end": 243.06,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "But, we--"
+  },
+  {
+   "i": 93,
+   "start": 243.06,
+   "end": 246.6,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Mr. Popo, do you have any last comments for them?"
+  },
+  {
+   "i": 94,
+   "start": 247.22,
+   "end": 248.86,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "You’re all going to die."
+  },
+  {
+   "i": 95,
+   "start": 249.22,
+   "end": 250.96,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Thank you, Mr. Popo."
+  },
+  {
+   "i": 96,
+   "start": 250.96,
+   "end": 253.4,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Now, I believe it is time for you to leave."
+  },
+  {
+   "i": 97,
+   "start": 253.64,
+   "end": 254.8,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "But-- but all we did was--"
+  },
+  {
+   "i": 98,
+   "start": 254.8,
+   "end": 255.74,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Pecking order."
+  },
+  {
+   "i": 99,
+   "start": 255.74,
+   "end": 257.58,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Aaaaaaagh...!"
+  },
+  {
+   "i": 100,
+   "start": 255.74,
+   "end": 257.58,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Oh, God, get out of my way!"
+  },
+  {
+   "i": 101,
+   "start": 259.06,
+   "end": 261.44,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I completed the first two lessons, King Kai."
+  },
+  {
+   "i": 102,
+   "start": 261.78,
+   "end": 266.84,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Yes, congratulations; you’ve managed to catch my pet monkey, Bubbles, and give Gregory a concussion."
+  },
+  {
+   "i": 103,
+   "start": 267.04,
+   "end": 268.92,
+   "kind": "dialog",
+   "speaker": "Gregory",
+   "text": "You psychotic bastard!"
+  },
+  {
+   "i": 104,
+   "start": 269.32,
+   "end": 271.78,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Now we can start on your real training and I can teach you the–"
+  },
+  {
+   "i": 105,
+   "start": 271.78,
+   "end": 274.58,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh, before you do - could you tell me about the Saiyans?"
+  },
+  {
+   "i": 106,
+   "start": 274.76,
+   "end": 277.88,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Not much to tell you other than they all died twenty years ago."
+  },
+  {
+   "i": 107,
+   "start": 278.08,
+   "end": 280.2,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Uh... Even my Dad?"
+  },
+  {
+   "i": 108,
+   "start": 280.46,
+   "end": 283.68,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Bardock screaming"
+  },
+  {
+   "i": 109,
+   "start": 283.68,
+   "end": 286.42,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "(Laughing)"
+  },
+  {
+   "i": 110,
+   "start": 286.42,
+   "end": 287.1,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Yes."
+  },
+  {
+   "i": 111,
+   "start": 287.32,
+   "end": 289.32,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Really? What killed them?"
+  },
+  {
+   "i": 112,
+   "start": 289.5,
+   "end": 290.3,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Lemme check."
+  },
+  {
+   "i": 113,
+   "start": 290.3,
+   "end": 291.48,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Dial-up modem sound"
+  },
+  {
+   "i": 114,
+   "start": 291.48,
+   "end": 292.46,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Let's see here..."
+  },
+  {
+   "i": 115,
+   "start": 292.7,
+   "end": 299.12,
+   "kind": "direction",
+   "speaker": null,
+   "text": "King Kai reads \"Planet destruction\" section"
+  },
+  {
+   "i": 116,
+   "start": 299.54,
+   "end": 300.54,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "That doesn’t seem right--"
+  },
+  {
+   "i": 117,
+   "start": 300.54,
+   "end": 303.18,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Bored now. Let’s get back to training, King Kai!"
+  },
+  {
+   "i": 118,
+   "start": 303.72,
+   "end": 305.3,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "(Groans)"
+  },
+  {
+   "i": 119,
+   "start": 306.1,
+   "end": 308.7,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "And so, one year has passed."
+  },
+  {
+   "i": 120,
+   "start": 308.7,
+   "end": 319.82,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "The characters who actually did anything in the last series, but not in this one, have finally found themselves of use, and have summoned the Eternal Dragon to wish back their fallen comrade, Goku!"
+  },
+  {
+   "i": 121,
+   "start": 321.04,
+   "end": 323.7,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "I don’t get it. Why are we doing this again?"
+  },
+  {
+   "i": 122,
+   "start": 323.7,
+   "end": 325.98,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "Because my sister Baba told us to."
+  },
+  {
+   "i": 123,
+   "start": 325.98,
+   "end": 327.68,
+   "kind": "dialog",
+   "speaker": "Shenron",
+   "text": "(Growling)"
+  },
+  {
+   "i": 124,
+   "start": 327.68,
+   "end": 331.26,
+   "kind": "dialog",
+   "speaker": "Shenron",
+   "text": "You have summoned the Eternal Dragon."
+  },
+  {
+   "i": 125,
+   "start": 331.44,
+   "end": 333.46,
+   "kind": "dialog",
+   "speaker": "Shenron",
+   "text": "Make your wish and I’ll..."
+  },
+  {
+   "i": 126,
+   "start": 333.78,
+   "end": 335.84,
+   "kind": "dialog",
+   "speaker": "Shenron",
+   "text": "God, it’s you guys again..."
+  },
+  {
+   "i": 127,
+   "start": 336.44,
+   "end": 338.94,
+   "kind": "dialog",
+   "speaker": "Shenron",
+   "text": "Can’t anyone else find these damn things?"
+  },
+  {
+   "i": 128,
+   "start": 339.36,
+   "end": 341.0,
+   "kind": "dialog",
+   "speaker": "Shenron",
+   "text": "Aaagh, screw it. Whatever."
+  },
+  {
+   "i": 129,
+   "start": 341.0,
+   "end": 342.36,
+   "kind": "dialog",
+   "speaker": "Shenron",
+   "text": "What do you want?"
+  },
+  {
+   "i": 130,
+   "start": 342.7,
+   "end": 349.86,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "There are two horrible Saiyans coming to our planet, and we need Goku to be brought back to life in order to defeat them."
+  },
+  {
+   "i": 131,
+   "start": 350.36,
+   "end": 351.16,
+   "kind": "dialog",
+   "speaker": "Shenron",
+   "text": "Really?"
+  },
+  {
+   "i": 132,
+   "start": 351.4,
+   "end": 359.44,
+   "kind": "dialog",
+   "speaker": "Shenron",
+   "text": "You know you could, um, just wish me... - a magical dragon - ...to send them into an ASTEROID field!"
+  },
+  {
+   "i": 133,
+   "start": 359.52,
+   "end": 362.7,
+   "kind": "dialog",
+   "speaker": "Shenron",
+   "text": "One crossed wire, and BOOM! Right in the Sun!"
+  },
+  {
+   "i": 134,
+   "start": 363.14,
+   "end": 366.32,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "No, you see, as long as we have Goku we’ll be fine."
+  },
+  {
+   "i": 135,
+   "start": 367.18,
+   "end": 368.34,
+   "kind": "dialog",
+   "speaker": "Shenron",
+   "text": "Rrright..."
+  },
+  {
+   "i": 136,
+   "start": 368.7,
+   "end": 370.56,
+   "kind": "dialog",
+   "speaker": "Shenron",
+   "text": "Yeah, OK, fine, whatever."
+  },
+  {
+   "i": 137,
+   "start": 370.56,
+   "end": 376.74,
+   "kind": "dialog",
+   "speaker": "Shenron",
+   "text": "I’ll grant your wish. Just don’t come crying to me when half your stupid asses get killed."
+  },
+  {
+   "i": 138,
+   "start": 377.4,
+   "end": 379.52,
+   "kind": "dialog",
+   "speaker": "Shenron",
+   "text": "Uuugh, who am I kidding, you will..."
+  },
+  {
+   "i": 139,
+   "start": 379.52,
+   "end": 381.12,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Whimsical noise"
+  },
+  {
+   "i": 140,
+   "start": 381.3,
+   "end": 382.2,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Boop"
+  },
+  {
+   "i": 141,
+   "start": 381.3,
+   "end": 382.2,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Whistle"
+  },
+  {
+   "i": 142,
+   "start": 382.2,
+   "end": 383.96,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hey, King Kai! I’m alive again!"
+  },
+  {
+   "i": 143,
+   "start": 384.28,
+   "end": 388.42,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Yes, and you’ve conveniently learned the Kaio-ken and Spirit Bomb off screen."
+  },
+  {
+   "i": 144,
+   "start": 388.58,
+   "end": 390.58,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Now get the f*** off my planet!"
+  },
+  {
+   "i": 145,
+   "start": 390.86,
+   "end": 394.28,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Alright. And thank you, King Kai, for all the training."
+  },
+  {
+   "i": 146,
+   "start": 394.8,
+   "end": 398.9,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "It’ll be a hard fight when I return to Earth... ...but now, I’m truly confid--"
+  },
+  {
+   "i": 147,
+   "start": 398.9,
+   "end": 399.82,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "GO HOME!"
+  },
+  {
+   "i": 148,
+   "start": 399.82,
+   "end": 400.78,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'K, bye!"
+  },
+  {
+   "i": 149,
+   "start": 402.78,
+   "end": 404.78,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "WHOOSH"
+  },
+  {
+   "i": 150,
+   "start": 405.48,
+   "end": 407.86,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Eh-- Oh, God, what have I done?!"
+  },
+  {
+   "i": 151,
+   "start": 408.16,
+   "end": 409.74,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "I’m all alone again!"
+  },
+  {
+   "i": 152,
+   "start": 409.8,
+   "end": 411.04,
+   "kind": "dialog",
+   "speaker": "Bubbles",
+   "text": "(Monkey noises)"
+  },
+  {
+   "i": 153,
+   "start": 414.02,
+   "end": 415.02,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Shut up, Bubbles!"
+  },
+  {
+   "i": 154,
+   "start": 415.18,
+   "end": 416.52,
+   "kind": "dialog",
+   "speaker": "Gregory",
+   "text": "Well, I’m still here for you, sir."
+  },
+  {
+   "i": 155,
+   "start": 416.52,
+   "end": 417.52,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Shut up, Gregory!"
+  },
+  {
+   "i": 156,
+   "start": 417.52,
+   "end": 418.9,
+   "kind": "dialog",
+   "speaker": "Bojack",
+   "text": "Yarrgh! Ya still have--"
+  },
+  {
+   "i": 157,
+   "start": 422.221,
+   "end": 424.781,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "All right, runt, your training is complete."
+  },
+  {
+   "i": 158,
+   "start": 424.781,
+   "end": 426.761,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Now you and I will take over the worl--!"
+  },
+  {
+   "i": 159,
+   "start": 426.761,
+   "end": 428.981,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Hello? HELLO?"
+  },
+  {
+   "i": 160,
+   "start": 429.201,
+   "end": 430.181,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "(Groan)"
+  },
+  {
+   "i": 161,
+   "start": 430.801,
+   "end": 432.121,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "What is it, old man?"
+  },
+  {
+   "i": 162,
+   "start": 432.121,
+   "end": 435.881,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "I just wanted to check in and make sure you were ready for the Saiyans."
+  },
+  {
+   "i": 163,
+   "start": 436.381,
+   "end": 437.581,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "R-Ready for the what now...?"
+  },
+  {
+   "i": 164,
+   "start": 438.001,
+   "end": 439.841,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Didn’t Mr. Popo tell you?"
+  },
+  {
+   "i": 165,
+   "start": 439.841,
+   "end": 446.161,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "There are two Saiyans headed towards the Earth as we speak; both several times more powerful than the last one you faced."
+  },
+  {
+   "i": 166,
+   "start": 446.381,
+   "end": 450.141,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "They should be landing pretty soon. Within a few days, in fact."
+  },
+  {
+   "i": 167,
+   "start": 451.081,
+   "end": 452.701,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "New plan, Gohan!"
+  },
+  {
+   "i": 168,
+   "start": 453.001,
+   "end": 455.681,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "We’re going to kick some Saiyan ass!"
+  },
+  {
+   "i": 169,
+   "start": 455.821,
+   "end": 458.001,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Um, OK?"
+  },
+  {
+   "i": 170,
+   "start": 460.401,
+   "end": 462.141,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "...You’re still there, aren’t you?"
+  },
+  {
+   "i": 171,
+   "start": 462.141,
+   "end": 464.021,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "I’m just so lonely..."
+  }
+ ],
+ "segments": [
+  {
+   "start": 8.0,
+   "end": 23.12,
+   "title": "Pecking Order",
+   "quote": "Pecking orderrr~ / Sorry! / Damn right you are.",
+   "line_start": 0,
+   "line_end": 9
+  },
+  {
+   "start": 67.3,
+   "end": 78.84,
+   "title": "Too Soon",
+   "quote": "Where are we? New Orleans? / Krillin! ...Too soon!",
+   "line_start": 20,
+   "line_end": 26
+  },
+  {
+   "start": 80.5,
+   "end": 97.64,
+   "title": "Additional Pylons",
+   "quote": "YOU MUST CONSTRUCT ADDITIONAL PYLONS",
+   "line_start": 27,
+   "line_end": 35
+  },
+  {
+   "start": 98.3,
+   "end": 107.62,
+   "title": "At Least I Get Some Puss--",
+   "quote": "Hey! At least *I* get some puss— *Wow*, that did *not* come out right.",
+   "line_start": 36,
+   "line_end": 39
+  },
+  {
+   "start": 107.7,
+   "end": 136.92,
+   "title": "The Tour Straight to Hell",
+   "quote": "Oh, for Christ’s sake, yes; they get it; we’re evil. Shut up!",
+   "line_start": 40,
+   "line_end": 45
+  },
+  {
+   "start": 142.4,
+   "end": 151.0,
+   "title": "This Can't Possibly Get Any Worse",
+   "quote": "Oh, God! This can’t possibly get any worse...! / Hi~~i.",
+   "line_start": 48,
+   "line_end": 51
+  },
+  {
+   "start": 195.8,
+   "end": 207.56,
+   "title": "You're Going Back",
+   "quote": "But I have some bad news... You’re going back! / NOOOOO...!!",
+   "line_start": 66,
+   "line_end": 72
+  },
+  {
+   "start": 238.9,
+   "end": 257.58,
+   "title": "You're All Going to Die",
+   "quote": "Mr. Popo, do you have any last comments for them? / You’re all going to die. / Thank you, Mr. Popo.",
+   "line_start": 91,
+   "line_end": 100
+  },
+  {
+   "start": 271.3,
+   "end": 303.18,
+   "title": "Even My Dad?",
+   "quote": "Uh... Even my Dad? / (Bardock screaming) / Yes.",
+   "line_start": 105,
+   "line_end": 117
+  },
+  {
+   "start": 350.0,
+   "end": 376.74,
+   "title": "No One Listens to the Magical Dragon",
+   "quote": "You know you could, um, just wish me... - a magical dragon - ...to send them into an ASTEROID field! One crossed wire, and BOOM! Right in the Sun!",
+   "line_start": 131,
+   "line_end": 137
+  },
+  {
+   "start": 390.5,
+   "end": 418.9,
+   "title": "Get the F*** Off My Planet",
+   "quote": "GO HOME! / 'K, bye! / Oh, God, what have I done?! I’m all alone again!",
+   "line_start": 145,
+   "line_end": 156
+  },
+  {
+   "start": 429.0,
+   "end": 464.02,
+   "title": "I'm Just So Lonely",
+   "quote": "New plan, Gohan! We’re going to kick some Saiyan ass! / ...You’re still there, aren’t you? / I’m just so lonely...",
+   "line_start": 160,
+   "line_end": 171
+  }
+ ]
+}

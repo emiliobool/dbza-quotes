@@ -1,0 +1,1555 @@
+{
+ "item": "e51",
+ "show": "dbza",
+ "youtube": "Q8g9c61wE4U",
+ "title": "Episode 46",
+ "duration": 572,
+ "lines": [
+  {
+   "i": 0,
+   "start": 27.1,
+   "end": 31.2,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Alright, sis. Since you had all the fun last time, why don't you sit this one out?"
+  },
+  {
+   "i": 1,
+   "start": 31.2,
+   "end": 34.46,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Already on it. I'll just hang out with Sixteen over here."
+  },
+  {
+   "i": 2,
+   "start": 34.46,
+   "end": 36.08,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "I have spotted a pelican."
+  },
+  {
+   "i": 3,
+   "start": 36.46,
+   "end": 37.34,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "So majesti--"
+  },
+  {
+   "i": 4,
+   "start": 37.34,
+   "end": 38.04,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Pelican squawks"
+  },
+  {
+   "i": 5,
+   "start": 38.34,
+   "end": 38.96,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "So majes--"
+  },
+  {
+   "i": 6,
+   "start": 38.96,
+   "end": 39.74,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Pelican squawks"
+  },
+  {
+   "i": 7,
+   "start": 40.06,
+   "end": 40.62,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "Majes--"
+  },
+  {
+   "i": 8,
+   "start": 40.62,
+   "end": 41.18,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Pelican squawks"
+  },
+  {
+   "i": 9,
+   "start": 41.6,
+   "end": 42.82,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "That is a big bird."
+  },
+  {
+   "i": 10,
+   "start": 43.14,
+   "end": 47.02,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Now, are you trying to buy time? Or are you just looking to throw your life away?"
+  },
+  {
+   "i": 11,
+   "start": 47.5,
+   "end": 49.26,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Because if I remember correctly..."
+  },
+  {
+   "i": 12,
+   "start": 49.26,
+   "end": 50.52,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Flashback"
+  },
+  {
+   "i": 13,
+   "start": 49.26,
+   "end": 50.52,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Piccolo groans in pain"
+  },
+  {
+   "i": 14,
+   "start": 51.1,
+   "end": 53.72,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "...this did *not* go well for you last time."
+  },
+  {
+   "i": 15,
+   "start": 54.2,
+   "end": 57.66,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Oh, I'm not the same Namekian you faced before."
+  },
+  {
+   "i": 16,
+   "start": 59.78,
+   "end": 62.74,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Oh. Oh shit, are you talking metaphorically?"
+  },
+  {
+   "i": 17,
+   "start": 62.74,
+   "end": 67.96,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Because if not, I'm gonna start feelin' like a racist, because you look *exactly* the same."
+  },
+  {
+   "i": 18,
+   "start": 67.96,
+   "end": 73.24,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "HraaaaaaaaAAAAAAAAA!!"
+  },
+  {
+   "i": 19,
+   "start": 73.32,
+   "end": 74.98,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Piccolo's yell becomes distant and fades out"
+  },
+  {
+   "i": 20,
+   "start": 75.14,
+   "end": 79.96,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Huh. I'm feeling a whole lotta Piccolo right now. Either he's showing off..."
+  },
+  {
+   "i": 21,
+   "start": 79.96,
+   "end": 82.9,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Or he's fighting an Android! We have to go help him!"
+  },
+  {
+   "i": 22,
+   "start": 82.9,
+   "end": 88.0,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "No, Gohan! We have to wait for Vegeta and Trunks to come out of the Hypertonic Lion Tamer!"
+  },
+  {
+   "i": 23,
+   "start": 88.0,
+   "end": 89.5,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "That one was on purpose!"
+  },
+  {
+   "i": 24,
+   "start": 89.5,
+   "end": 90.2,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Coulda been."
+  },
+  {
+   "i": 25,
+   "start": 90.46,
+   "end": 92.4,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Well, how long do we have left?"
+  },
+  {
+   "i": 26,
+   "start": 92.4,
+   "end": 93.36,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Four hours."
+  },
+  {
+   "i": 27,
+   "start": 93.36,
+   "end": 97.8,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "We've been here for twenty hours!? When!? I mean, how!?"
+  },
+  {
+   "i": 28,
+   "start": 97.8,
+   "end": 100.28,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "That's what makes it hyper-sonic, Gohan!"
+  },
+  {
+   "i": 29,
+   "start": 100.5,
+   "end": 101.28,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Goku?"
+  },
+  {
+   "i": 30,
+   "start": 101.28,
+   "end": 101.9,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Yeah-huh?"
+  },
+  {
+   "i": 31,
+   "start": 101.94,
+   "end": 102.44,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Impact!"
+  },
+  {
+   "i": 32,
+   "start": 102.44,
+   "end": 105.92,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "EEEEEEEEEEeeee...!!"
+  },
+  {
+   "i": 33,
+   "start": 105.92,
+   "end": 107.58,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"Cha-La Head-Cha-La\" ♫"
+  },
+  {
+   "i": 34,
+   "start": 107.58,
+   "end": 110.3,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "♫ CHA-LA HEAD-CHA-LA ♫"
+  },
+  {
+   "i": 35,
+   "start": 111.16,
+   "end": 114.82,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "♫ Egao urutora zetto de ♫ (With a smile that’s Ultra-Z)"
+  },
+  {
+   "i": 36,
+   "start": 114.82,
+   "end": 118.06,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "♫ Kyô mo ai-yai-yai-yai-yai~ ♫ (Even today is ai-yai-yai-yai-yai~)"
+  },
+  {
+   "i": 37,
+   "start": 118.06,
+   "end": 119.76,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "♫ Sparking! ♫"
+  },
+  {
+   "i": 38,
+   "start": 125.62,
+   "end": 129.92,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "...AAAAAAA...!!!"
+  },
+  {
+   "i": 39,
+   "start": 129.92,
+   "end": 132.6,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Man, he has been at this for, like, twenty hours."
+  },
+  {
+   "i": 40,
+   "start": 132.6,
+   "end": 134.54,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "It has been five minutes."
+  },
+  {
+   "i": 41,
+   "start": 134.54,
+   "end": 139.28,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "S'called \"hyperbole\", big guy. Also, I can't sense power levels. What's goin' on over there?"
+  },
+  {
+   "i": 42,
+   "start": 139.28,
+   "end": 140.12,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "Dodge."
+  },
+  {
+   "i": 43,
+   "start": 140.12,
+   "end": 140.64,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Dodge wh--?"
+  },
+  {
+   "i": 44,
+   "start": 141.74,
+   "end": 146.06,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Ah! Y'know, Sixteen, yelling \"dodge\" is more distracting than helpful!"
+  },
+  {
+   "i": 45,
+   "start": 146.06,
+   "end": 147.86,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "He has fused with Kami!"
+  },
+  {
+   "i": 46,
+   "start": 147.86,
+   "end": 148.9,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Kami? Wh--"
+  },
+  {
+   "i": 47,
+   "start": 152.46,
+   "end": 155.7,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Seriously, what the hell's a \"Kami\"?"
+  },
+  {
+   "i": 48,
+   "start": 155.7,
+   "end": 157.28,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "It means \"God\"."
+  },
+  {
+   "i": 49,
+   "start": 157.66,
+   "end": 158.76,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Now, bow."
+  },
+  {
+   "i": 50,
+   "start": 167.34,
+   "end": 170.88,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "Aww, there's my sweet little half-breed grand-baby."
+  },
+  {
+   "i": 51,
+   "start": 171.18,
+   "end": 173.34,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "So, how's the detonator coming along?"
+  },
+  {
+   "i": 52,
+   "start": 173.34,
+   "end": 176.4,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "It's coming. But did you look at Dr. Gero's notes?"
+  },
+  {
+   "i": 53,
+   "start": 176.58,
+   "end": 180.64,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "As it turns out, he only attributes model numbers to his successful projects."
+  },
+  {
+   "i": 54,
+   "start": 180.94,
+   "end": 185.26,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "The crazy bastard was kidnapping dozens of orphaned teenagers and experimenting on them!"
+  },
+  {
+   "i": 55,
+   "start": 185.26,
+   "end": 188.8,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "Oh, come now, ya can't kidnap an orphan. They weren't wanted in the first place."
+  },
+  {
+   "i": 56,
+   "start": 189.2,
+   "end": 190.72,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "As a side, that's kinda brilliant."
+  },
+  {
+   "i": 57,
+   "start": 190.96,
+   "end": 194.1,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Interesting that he set explosives in their chests like this, though."
+  },
+  {
+   "i": 58,
+   "start": 194.32,
+   "end": 197.12,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Must've been a fail-safe, for in case they went rogue."
+  },
+  {
+   "i": 59,
+   "start": 197.12,
+   "end": 203.32,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "Dooh, he does that to strangers and it's fine; but I want to do it to my own children, and your mother gets all uppity!"
+  },
+  {
+   "i": 60,
+   "start": 204.02,
+   "end": 207.02,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "*Dad*, any more talk like that and you don't get to hold Trunks anymore."
+  },
+  {
+   "i": 61,
+   "start": 207.36,
+   "end": 208.26,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "Hmph!"
+  },
+  {
+   "i": 62,
+   "start": 208.26,
+   "end": 211.4,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "Wouldn't be talking so mighty if you had a bomb in your chest..."
+  },
+  {
+   "i": 63,
+   "start": 216.34,
+   "end": 221.14,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Too bad, Jolly Green Giant™. Looks like ya missed. Try again for a zeni?"
+  },
+  {
+   "i": 64,
+   "start": 223.66,
+   "end": 225.76,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Raaaah!"
+  },
+  {
+   "i": 65,
+   "start": 226.44,
+   "end": 228.86,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "(Humming nonchalantly)"
+  },
+  {
+   "i": 66,
+   "start": 232.5,
+   "end": 237.88,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Umm, I stopped dodging. Seriously, are you even trying to hit me?"
+  },
+  {
+   "i": 67,
+   "start": 237.88,
+   "end": 238.72,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "NO!"
+  },
+  {
+   "i": 68,
+   "start": 239.14,
+   "end": 240.92,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "The hell do you mean, \"no\"?"
+  },
+  {
+   "i": 69,
+   "start": 240.92,
+   "end": 241.92,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Uh!?"
+  },
+  {
+   "i": 70,
+   "start": 242.02,
+   "end": 242.52,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Oh."
+  },
+  {
+   "i": 71,
+   "start": 243.52,
+   "end": 245.56,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Ooooohh..."
+  },
+  {
+   "i": 72,
+   "start": 246.0,
+   "end": 247.34,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "ooooh..."
+  },
+  {
+   "i": 73,
+   "start": 247.7,
+   "end": 248.2,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "shit."
+  },
+  {
+   "i": 74,
+   "start": 248.94,
+   "end": 250.62,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "HELLZONE GRENADE!"
+  },
+  {
+   "i": 75,
+   "start": 250.62,
+   "end": 253.34,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "'Oh, man! It's even got a cool name!'"
+  },
+  {
+   "i": 76,
+   "start": 266.24,
+   "end": 267.98,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "You know something I don't get?"
+  },
+  {
+   "i": 77,
+   "start": 266.24,
+   "end": 267.98,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "!?"
+  },
+  {
+   "i": 78,
+   "start": 268.36,
+   "end": 274.74,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "YOU try to kill Goku and that's fine. WE try to kill Goku and suddenly, you get all uppity."
+  },
+  {
+   "i": 79,
+   "start": 275.04,
+   "end": 280.12,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "True. But when I did it, it was for revenge. You're just doing it for shits and giggles."
+  },
+  {
+   "i": 80,
+   "start": 280.24,
+   "end": 281.14,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Tell you what:"
+  },
+  {
+   "i": 81,
+   "start": 281.14,
+   "end": 290.6,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "You live a few years in stasis with your creator repeating the words \"Kill Goku\" over and over again in your subconscious... then you can ride that high horse all day long."
+  },
+  {
+   "i": 82,
+   "start": 291.26,
+   "end": 291.88,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "...Wow."
+  },
+  {
+   "i": 83,
+   "start": 292.18,
+   "end": 292.82,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "What?"
+  },
+  {
+   "i": 84,
+   "start": 293.06,
+   "end": 295.48,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Nothing, just... nostalgia."
+  },
+  {
+   "i": 85,
+   "start": 297.06,
+   "end": 300.02,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Man, that is some *serious* power being thrown around."
+  },
+  {
+   "i": 86,
+   "start": 300.2,
+   "end": 304.28,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Dammit! We shouldn't just sit here like a bunch of cowards! We need to help!"
+  },
+  {
+   "i": 87,
+   "start": 304.28,
+   "end": 307.48,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "And do what - get ragdolled again!? No, thank you."
+  },
+  {
+   "i": 88,
+   "start": 307.48,
+   "end": 309.38,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Of course *you'd* say that."
+  },
+  {
+   "i": 89,
+   "start": 309.38,
+   "end": 310.94,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Hey, he's actually got a point."
+  },
+  {
+   "i": 90,
+   "start": 310.94,
+   "end": 316.12,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I mean, between the Super Saiyans, the Super Namekian, the Androids and whatever the hell Cell is..."
+  },
+  {
+   "i": 91,
+   "start": 316.12,
+   "end": 317.64,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Oh, don't *you* start!"
+  },
+  {
+   "i": 92,
+   "start": 317.64,
+   "end": 323.3,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Hey! I was on Namek, okay!? Shit got crazy! I got stabbed! And BLOWN UP!"
+  },
+  {
+   "i": 93,
+   "start": 323.3,
+   "end": 328.34,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "I've been stabbed and blown up, too! And dumped by the only girlfriend I ever had!"
+  },
+  {
+   "i": 94,
+   "start": 328.34,
+   "end": 330.26,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Same. But ya know the difference?"
+  },
+  {
+   "i": 95,
+   "start": 330.26,
+   "end": 332.3,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "When mine left, she took all my money."
+  },
+  {
+   "i": 96,
+   "start": 332.3,
+   "end": 334.74,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "When yours left, she took all *her* money."
+  },
+  {
+   "i": 97,
+   "start": 334.74,
+   "end": 336.76,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Ambient noise"
+  },
+  {
+   "i": 98,
+   "start": 336.76,
+   "end": 338.4,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "...Gonna need a Senzu for that one."
+  },
+  {
+   "i": 99,
+   "start": 339.96,
+   "end": 345.52,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Not that his hasn't been fun and all, but I'm going to give you one last chance to tell us where Goku is."
+  },
+  {
+   "i": 100,
+   "start": 345.8,
+   "end": 348.62,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Or I'm going to have to start taking this seriously."
+  },
+  {
+   "i": 101,
+   "start": 348.82,
+   "end": 350.38,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Be a nice change of pace."
+  },
+  {
+   "i": 102,
+   "start": 351.08,
+   "end": 352.28,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "(Sigh)"
+  },
+  {
+   "i": 103,
+   "start": 357.36,
+   "end": 357.98,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Hi."
+  },
+  {
+   "i": 104,
+   "start": 358.88,
+   "end": 359.5,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Uuuh, hi--"
+  },
+  {
+   "i": 105,
+   "start": 362.6,
+   "end": 363.88,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'Why are you back-flipping?'"
+  },
+  {
+   "i": 106,
+   "start": 363.88,
+   "end": 364.98,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'To gain some distance!'"
+  },
+  {
+   "i": 107,
+   "start": 365.48,
+   "end": 366.68,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "'YOU CAN FLY!'"
+  },
+  {
+   "i": 108,
+   "start": 367.32,
+   "end": 368.58,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Hraagh!!"
+  },
+  {
+   "i": 109,
+   "start": 367.32,
+   "end": 368.58,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Hn!"
+  },
+  {
+   "i": 110,
+   "start": 369.24,
+   "end": 371.84,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Dad? Do you think Piccolo can win?"
+  },
+  {
+   "i": 111,
+   "start": 372.5,
+   "end": 373.0,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "No."
+  },
+  {
+   "i": 112,
+   "start": 374.6,
+   "end": 375.48,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "But maybe..."
+  },
+  {
+   "i": 113,
+   "start": 376.96,
+   "end": 377.84,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Then again..."
+  },
+  {
+   "i": 114,
+   "start": 379.36,
+   "end": 380.04,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Although..."
+  },
+  {
+   "i": 115,
+   "start": 381.96,
+   "end": 383.74,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Why do you keep stopping short?"
+  },
+  {
+   "i": 116,
+   "start": 383.74,
+   "end": 385.62,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh, I'm sorry, Gohan, w-were you saying something?"
+  },
+  {
+   "i": 117,
+   "start": 385.84,
+   "end": 388.14,
+   "kind": "dialog",
+   "speaker": "Baby Trunks",
+   "text": "(Crying throughout)"
+  },
+  {
+   "i": 118,
+   "start": 385.84,
+   "end": 388.14,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "I said, \"the detonator's almost finished\"!"
+  },
+  {
+   "i": 119,
+   "start": 388.14,
+   "end": 392.08,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "Sorry, hard to hear you over the baby. He sure does cry a lot."
+  },
+  {
+   "i": 120,
+   "start": 392.08,
+   "end": 394.24,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "Do you think he gets that from his monkey side?"
+  },
+  {
+   "i": 121,
+   "start": 394.24,
+   "end": 396.82,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Dad! No racism in front of Trunks!"
+  },
+  {
+   "i": 122,
+   "start": 396.82,
+   "end": 401.66,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "Oh, come on, I'm using \"monkey\" unironically, here. D'I-I mean, mostly."
+  },
+  {
+   "i": 123,
+   "start": 402.12,
+   "end": 402.94,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "Half-and-half."
+  },
+  {
+   "i": 124,
+   "start": 403.28,
+   "end": 404.5,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "...Kinda like the baby!"
+  },
+  {
+   "i": 125,
+   "start": 404.5,
+   "end": 408.14,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "Y'know, it's kinda hard to enjoy my meal with yer brat screaming."
+  },
+  {
+   "i": 126,
+   "start": 408.14,
+   "end": 411.58,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "Where did you get that food?! You've already cleared out our kitchens!"
+  },
+  {
+   "i": 127,
+   "start": 411.58,
+   "end": 413.2,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "Not the fridge in the basement."
+  },
+  {
+   "i": 128,
+   "start": 413.2,
+   "end": 415.86,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "I don't HAVE a fridge in my..."
+  },
+  {
+   "i": 129,
+   "start": 415.86,
+   "end": 416.9,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "Oh, my God (!)"
+  },
+  {
+   "i": 130,
+   "start": 417.06,
+   "end": 417.7,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Done!"
+  },
+  {
+   "i": 131,
+   "start": 418.6,
+   "end": 421.14,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "We effectively have a detonator for the Androids."
+  },
+  {
+   "i": 132,
+   "start": 421.14,
+   "end": 423.34,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "\"Bulma: Kills 'droids dead.\""
+  },
+  {
+   "i": 133,
+   "start": 423.34,
+   "end": 424.82,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Now, if you'll excuse me..."
+  },
+  {
+   "i": 134,
+   "start": 425.46,
+   "end": 426.92,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "Wait, are you breastfeeding?"
+  },
+  {
+   "i": 135,
+   "start": 427.24,
+   "end": 428.6,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Yeah. Why?"
+  },
+  {
+   "i": 136,
+   "start": 429.04,
+   "end": 429.96,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "...Awesome!"
+  },
+  {
+   "i": 137,
+   "start": 430.54,
+   "end": 434.16,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "(Yelling)"
+  },
+  {
+   "i": 138,
+   "start": 430.54,
+   "end": 434.16,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "(Yelling)"
+  },
+  {
+   "i": 139,
+   "start": 434.16,
+   "end": 436.94,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "(Still yelling)"
+  },
+  {
+   "i": 140,
+   "start": 434.16,
+   "end": 436.94,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "(Still yelling)"
+  },
+  {
+   "i": 141,
+   "start": 436.94,
+   "end": 441.96,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Ugh, my God! This is so dumb! This cannot get any dumber."
+  },
+  {
+   "i": 142,
+   "start": 441.96,
+   "end": 446.28,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "Agreed. Sure is a lot of not-killing Goku going on right now."
+  },
+  {
+   "i": 143,
+   "start": 447.44,
+   "end": 448.9,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "You know what would fix that?"
+  },
+  {
+   "i": 144,
+   "start": 448.9,
+   "end": 449.74,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "Is it \"killing Goku\"--?"
+  },
+  {
+   "i": 145,
+   "start": 449.74,
+   "end": 452.6,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "A good old rousing round of killing Goku."
+  },
+  {
+   "i": 146,
+   "start": 455.02,
+   "end": 457.7,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Yeah!? W-w-well at least I *slept* with Bulma!"
+  },
+  {
+   "i": 147,
+   "start": 457.7,
+   "end": 460.84,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Yeah? Well, unlike Vegeta, *you can't prove it*!"
+  },
+  {
+   "i": 148,
+   "start": 460.84,
+   "end": 462.6,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Can, too! W-we'll just ask her!"
+  },
+  {
+   "i": 149,
+   "start": 462.6,
+   "end": 463.76,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Bulma's on the phone!"
+  },
+  {
+   "i": 150,
+   "start": 463.76,
+   "end": 465.16,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "On second thought, never mind."
+  },
+  {
+   "i": 151,
+   "start": 465.16,
+   "end": 467.92,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "'You know, in hindsight, I'm so glad I'm here right now.'"
+  },
+  {
+   "i": 152,
+   "start": 468.18,
+   "end": 469.42,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Krill-Master speaking!"
+  },
+  {
+   "i": 153,
+   "start": 469.42,
+   "end": 471.02,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "I will murder you!!"
+  },
+  {
+   "i": 154,
+   "start": 471.02,
+   "end": 472.1,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Whoa, hostile!"
+  },
+  {
+   "i": 155,
+   "start": 472.38,
+   "end": 475.66,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Never mind that. Listen, I have the detonator for the Androids."
+  },
+  {
+   "i": 156,
+   "start": 475.66,
+   "end": 476.94,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Wow, that was quick!"
+  },
+  {
+   "i": 157,
+   "start": 476.94,
+   "end": 478.4,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Twenty-two hours isn't quick!"
+  },
+  {
+   "i": 158,
+   "start": 478.66,
+   "end": 481.86,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "TWENTY-TWO HOURS!? WHEN!? I-I MEAN, HOW!?"
+  },
+  {
+   "i": 159,
+   "start": 481.86,
+   "end": 483.06,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "How long did we sleep!?!"
+  },
+  {
+   "i": 160,
+   "start": 483.06,
+   "end": 486.0,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Look, I'm on my way over; try not to die in the meantime."
+  },
+  {
+   "i": 161,
+   "start": 486.0,
+   "end": 486.5,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Bulma hangs up"
+  },
+  {
+   "i": 162,
+   "start": 487.38,
+   "end": 488.7,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Alright, so where were we?"
+  },
+  {
+   "i": 163,
+   "start": 494.38,
+   "end": 495.72,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "I was wrong!"
+  },
+  {
+   "i": 164,
+   "start": 495.72,
+   "end": 497.2,
+   "kind": "dialog",
+   "speaker": "Android 18",
+   "text": "This got so much dumber."
+  },
+  {
+   "i": 165,
+   "start": 503.52,
+   "end": 506.78,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "Dammit, green man. You are hard to put down."
+  },
+  {
+   "i": 166,
+   "start": 508.16,
+   "end": 512.46,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Yeah. Not gonna lie. Actually beginning to enjoy myself here."
+  },
+  {
+   "i": 167,
+   "start": 512.9,
+   "end": 514.86,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'Uh, man? We have a problem!'"
+  },
+  {
+   "i": 168,
+   "start": 514.86,
+   "end": 517.48,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'Yeah, I know, I'm bluffing. I'm kind of at my limit.'"
+  },
+  {
+   "i": 169,
+   "start": 517.48,
+   "end": 519.44,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "'No, *another* problem.'"
+  },
+  {
+   "i": 170,
+   "start": 519.44,
+   "end": 521.0,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'What, the other Androids?'"
+  },
+  {
+   "i": 171,
+   "start": 521.0,
+   "end": 523.5,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'No, another, 'NOTHER problem!'"
+  },
+  {
+   "i": 172,
+   "start": 523.5,
+   "end": 525.7,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'What? I... (gasps)... oh.'"
+  },
+  {
+   "i": 173,
+   "start": 525.7,
+   "end": 528.36,
+   "kind": "dialog",
+   "speaker": "Android 17",
+   "text": "What the f*ck is *that*!?"
+  },
+  {
+   "i": 174,
+   "start": 531.76,
+   "end": 533.98,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "Hello, boys."
+  },
+  {
+   "i": 175,
+   "start": 533.98,
+   "end": 535.98,
+   "kind": "dialog",
+   "speaker": "Imperfect Cell",
+   "text": "Room for one mooore?"
+  },
+  {
+   "i": 176,
+   "start": 536.52,
+   "end": 540.34,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ Closing theme (DBZ intermission) ♫"
+  },
+  {
+   "i": 177,
+   "start": 541.36,
+   "end": 543.6,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Yajirobe running"
+  },
+  {
+   "i": 178,
+   "start": 543.6,
+   "end": 545.6,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "You run pretty good for a fat man!"
+  },
+  {
+   "i": 179,
+   "start": 546.52,
+   "end": 549.2,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "Why're you so mad!? They weren't even that good!"
+  },
+  {
+   "i": 180,
+   "start": 549.2,
+   "end": 552.42,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "Most of those weren't even meant to be *eaten* that way!"
+  }
+ ],
+ "segments": [
+  {
+   "start": 34.0,
+   "end": 42.82,
+   "title": "So Majestic",
+   "quote": "I have spotted a pelican. So majesti-- ... That is a big bird.",
+   "line_start": 2,
+   "line_end": 9
+  },
+  {
+   "start": 82.4,
+   "end": 100.3,
+   "title": "Hypertonic Lion Tamer",
+   "quote": "We have to wait for Vegeta and Trunks to come out of the Hypertonic Lion Tamer! / That one was on purpose! / That's what makes it hyper-sonic, Gohan!",
+   "line_start": 22,
+   "line_end": 28
+  },
+  {
+   "start": 100.0,
+   "end": 119.76,
+   "title": "Goku Sings Cha-La",
+   "quote": "♫ CHA-LA HEAD-CHA-LA ♫ ... ♫ Sparking! ♫",
+   "line_start": 29,
+   "line_end": 37
+  },
+  {
+   "start": 138.8,
+   "end": 158.76,
+   "title": "Yelling \"Dodge\" Is More Distracting Than Helpful",
+   "quote": "Dodge. / Dodge wh--? ... Seriously, what the hell's a \"Kami\"? / It means \"God\". Now, bow.",
+   "line_start": 42,
+   "line_end": 49
+  },
+  {
+   "start": 180.4,
+   "end": 211.4,
+   "title": "You Can't Kidnap an Orphan",
+   "quote": "Oh, come now, ya can't kidnap an orphan. They weren't wanted in the first place.",
+   "line_start": 54,
+   "line_end": 62
+  },
+  {
+   "start": 225.9,
+   "end": 253.34,
+   "title": "HELLZONE GRENADE!",
+   "quote": "Umm, I stopped dodging. Seriously, are you even trying to hit me? / NO! ... shit. / HELLZONE GRENADE! / 'Oh, man! It's even got a cool name!'",
+   "line_start": 65,
+   "line_end": 75
+  },
+  {
+   "start": 265.7,
+   "end": 295.48,
+   "title": "Nothing, Just... Nostalgia",
+   "quote": "YOU try to kill Goku and that's fine. WE try to kill Goku and suddenly, you get all uppity. ... Nothing, just... nostalgia.",
+   "line_start": 76,
+   "line_end": 84
+  },
+  {
+   "start": 317.1,
+   "end": 338.4,
+   "title": "She Took All *Her* Money",
+   "quote": "When mine left, she took all my money. When yours left, she took all *her* money. / ...Gonna need a Senzu for that one.",
+   "line_start": 92,
+   "line_end": 98
+  },
+  {
+   "start": 356.9,
+   "end": 368.58,
+   "title": "YOU CAN FLY!",
+   "quote": "'Why are you back-flipping?' / 'To gain some distance!' / 'YOU CAN FLY!'",
+   "line_start": 102,
+   "line_end": 109
+  },
+  {
+   "start": 368.7,
+   "end": 385.62,
+   "title": "Do You Think Piccolo Can Win?",
+   "quote": "No. ... But maybe... Then again... Although... / Why do you keep stopping short?",
+   "line_start": 110,
+   "line_end": 115
+  },
+  {
+   "start": 416.6,
+   "end": 429.96,
+   "title": "Bulma: Kills 'Droids Dead",
+   "quote": "\"Bulma: Kills 'droids dead.\" / Wait, are you breastfeeding? / Yeah. Why? / ...Awesome!",
+   "line_start": 130,
+   "line_end": 136
+  },
+  {
+   "start": 503.0,
+   "end": 535.98,
+   "title": "Room for One Mooore?",
+   "quote": "What the f*ck is *that*!? / Hello, boys. Room for one mooore?",
+   "line_start": 165,
+   "line_end": 175
+  }
+ ]
+}

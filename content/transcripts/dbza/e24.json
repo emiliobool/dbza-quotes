@@ -1,0 +1,1787 @@
+{
+ "item": "e24",
+ "show": "dbza",
+ "youtube": "JJSuUWYcZwc",
+ "title": "Episode 22",
+ "duration": 666,
+ "lines": [
+  {
+   "i": 0,
+   "start": 13.58,
+   "end": 15.08,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "And so I tell him:"
+  },
+  {
+   "i": 1,
+   "start": 15.08,
+   "end": 20.38,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "“I don’t care who you are! Now clean my jowls!”"
+  },
+  {
+   "i": 2,
+   "start": 20.82,
+   "end": 23.9,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "And that was Nail’s first day on the job."
+  },
+  {
+   "i": 3,
+   "start": 24.06,
+   "end": 29.82,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "Yes sir, I remember; I was there. That also doesn’t have anything to do with what we were talking about."
+  },
+  {
+   "i": 4,
+   "start": 30.04,
+   "end": 31.76,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "What were we talking about?"
+  },
+  {
+   "i": 5,
+   "start": 31.94,
+   "end": 34.84,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "That ungodly POWER headed our way!"
+  },
+  {
+   "i": 6,
+   "start": 35.06,
+   "end": 37.2,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "Oh yeah. That."
+  },
+  {
+   "i": 7,
+   "start": 37.2,
+   "end": 40.34,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "You know, perhaps you should give someone *else* that power-up?"
+  },
+  {
+   "i": 8,
+   "start": 40.58,
+   "end": 42.7,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "You remember - the one you gave the Earthlings?"
+  },
+  {
+   "i": 9,
+   "start": 42.74,
+   "end": 49.3,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "You are correct. It is time for me to unlock your hidden powers… Dende."
+  },
+  {
+   "i": 10,
+   "start": 50.34,
+   "end": 51.74,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "AH, WHAT THE HELL?!"
+  },
+  {
+   "i": 11,
+   "start": 51.74,
+   "end": 54.76,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "And now, your power has been awakened."
+  },
+  {
+   "i": 12,
+   "start": 54.76,
+   "end": 55.7,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "I noticed (!)"
+  },
+  {
+   "i": 13,
+   "start": 55.7,
+   "end": 57.82,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "Sir, I was referring to ME!"
+  },
+  {
+   "i": 14,
+   "start": 57.82,
+   "end": 59.9,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "Now listen to me, Dende."
+  },
+  {
+   "i": 15,
+   "start": 60.16,
+   "end": 64.96,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "With these powers, you garner a huge responsibility."
+  },
+  {
+   "i": 16,
+   "start": 64.96,
+   "end": 68.56,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "I need you to run as fast as you can to the Earthlin—"
+  },
+  {
+   "i": 17,
+   "start": 68.56,
+   "end": 71.6,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "Sir, he left you the moment after you gave him the power-up."
+  },
+  {
+   "i": 18,
+   "start": 74.12,
+   "end": 75.82,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "That SLUT!"
+  },
+  {
+   "i": 19,
+   "start": 75.82,
+   "end": 79.42,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"Sanjō!! Ginyū Tokusentai!!\" ♫"
+  },
+  {
+   "i": 20,
+   "start": 79.42,
+   "end": 82.26,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "Eriito Senshi - Ginyū Tokusentai!"
+  },
+  {
+   "i": 21,
+   "start": 83.1,
+   "end": 87.38,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "♫ Tokusentai! ♫"
+  },
+  {
+   "i": 22,
+   "start": 87.94,
+   "end": 94.04,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "...Then out of nowhere, this *stupid* guy in this *stupid* outfit starts beating us up and I lost me best mate and–!"
+  },
+  {
+   "i": 23,
+   "start": 94.04,
+   "end": 97.86,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Jeice! You’ll speak to me professionally and dutifully."
+  },
+  {
+   "i": 24,
+   "start": 97.86,
+   "end": 100.14,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Oh, um... sorry, Cap’n."
+  },
+  {
+   "i": 25,
+   "start": 100.14,
+   "end": 103.0,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Now, Jeice, back from the field. Full report!"
+  },
+  {
+   "i": 26,
+   "start": 103.0,
+   "end": 108.46,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Well, see, at first it was going fine, but next thing we know, Guldo, well…"
+  },
+  {
+   "i": 27,
+   "start": 108.46,
+   "end": 109.9,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Oh Lord, he’s dead, isn’t he?"
+  },
+  {
+   "i": 28,
+   "start": 110.02,
+   "end": 111.02,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "That he is, sir."
+  },
+  {
+   "i": 29,
+   "start": 111.08,
+   "end": 116.34,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Well, in our line of work, our lives can be compromised at any moment. This is something we must live with."
+  },
+  {
+   "i": 30,
+   "start": 116.76,
+   "end": 119.1,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "On the plus side, Burter owes me 50 Raditz."
+  },
+  {
+   "i": 31,
+   "start": 119.5,
+   "end": 123.98,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Aaabout that, Cap'n - he’s probably not gonna pay up."
+  },
+  {
+   "i": 32,
+   "start": 124.14,
+   "end": 127.16,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Really? He’s usually such a good sport about that."
+  },
+  {
+   "i": 33,
+   "start": 127.36,
+   "end": 131.36,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Thing is, he’s come down with a sudden case of death, sir."
+  },
+  {
+   "i": 34,
+   "start": 131.68,
+   "end": 134.68,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Oh... that's... wow..."
+  },
+  {
+   "i": 35,
+   "start": 135.22,
+   "end": 136.6,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "That’s a rather hefty loss."
+  },
+  {
+   "i": 36,
+   "start": 136.72,
+   "end": 140.96,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Yes, sir. He was a valued teammate. Strong, fast, and—"
+  },
+  {
+   "i": 37,
+   "start": 140.96,
+   "end": 141.68,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "And blue!"
+  },
+  {
+   "i": 38,
+   "start": 141.86,
+   "end": 142.92,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Pardon, Cap’n?"
+  },
+  {
+   "i": 39,
+   "start": 143.0,
+   "end": 146.78,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Blue! And tall! And you're so red! And short!"
+  },
+  {
+   "i": 40,
+   "start": 146.78,
+   "end": 149.12,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "It was the perfect little yin-yang thing we had going."
+  },
+  {
+   "i": 41,
+   "start": 149.12,
+   "end": 150.52,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Not that short, Cap’n."
+  },
+  {
+   "i": 42,
+   "start": 150.52,
+   "end": 152.44,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Oh, don’t go all Vegeta on me."
+  },
+  {
+   "i": 43,
+   "start": 152.6,
+   "end": 157.34,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Now, where are we going to find another blue recruit? Perhaps Recoome knows someone?"
+  },
+  {
+   "i": 44,
+   "start": 157.34,
+   "end": 158.32,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "(Breathes tellingly)"
+  },
+  {
+   "i": 45,
+   "start": 158.32,
+   "end": 159.58,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "He’s dead too, isn’t he?"
+  },
+  {
+   "i": 46,
+   "start": 159.58,
+   "end": 160.96,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Yeeaaah."
+  },
+  {
+   "i": 47,
+   "start": 161.12,
+   "end": 163.54,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Well, did he at least die with dignity?"
+  },
+  {
+   "i": 48,
+   "start": 163.64,
+   "end": 165.62,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Flies buzzing"
+  },
+  {
+   "i": 49,
+   "start": 165.64,
+   "end": 167.84,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Define \"dignity\", sir."
+  },
+  {
+   "i": 50,
+   "start": 167.84,
+   "end": 169.32,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Uhhh…"
+  },
+  {
+   "i": 51,
+   "start": 169.32,
+   "end": 173.02,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Well, Jeice, I believe the next step is obvious."
+  },
+  {
+   "i": 52,
+   "start": 173.14,
+   "end": 177.16,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "We, as professionals, cannot allow this act to go unabated."
+  },
+  {
+   "i": 53,
+   "start": 177.46,
+   "end": 180.42,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "We have a job to finish, and we shall see it through."
+  },
+  {
+   "i": 54,
+   "start": 180.42,
+   "end": 181.28,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Yes, sir!"
+  },
+  {
+   "i": 55,
+   "start": 181.42,
+   "end": 183.52,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Ginyu Force, away!"
+  },
+  {
+   "i": 56,
+   "start": 186.72,
+   "end": 191.88,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Sure is nice to see you guys again. But I sure can’t help but feel that someone’s missing..."
+  },
+  {
+   "i": 57,
+   "start": 191.88,
+   "end": 193.16,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Oh yeah; Bulma!"
+  },
+  {
+   "i": 58,
+   "start": 193.3,
+   "end": 194.7,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "What do you think she’s up to?"
+  },
+  {
+   "i": 59,
+   "start": 194.9,
+   "end": 195.98,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Probably something girly."
+  },
+  {
+   "i": 60,
+   "start": 196.04,
+   "end": 198.58,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"Crabplosion\" ♫"
+  },
+  {
+   "i": 61,
+   "start": 206.24,
+   "end": 207.24,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "♫ Yeah! ♫"
+  },
+  {
+   "i": 62,
+   "start": 207.46,
+   "end": 208.34,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Like her hair."
+  },
+  {
+   "i": 63,
+   "start": 208.78,
+   "end": 213.02,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Your idiotic banter is charming, but if you haven’t noticed, we’re pretty much screwed here."
+  },
+  {
+   "i": 64,
+   "start": 213.02,
+   "end": 214.18,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "What? Why?"
+  },
+  {
+   "i": 65,
+   "start": 214.3,
+   "end": 218.38,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Freeza has the Dragon Balls, you *dolt*, which basically means we’re already dead!"
+  },
+  {
+   "i": 66,
+   "start": 218.6,
+   "end": 219.98,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Actually, not really."
+  },
+  {
+   "i": 67,
+   "start": 219.98,
+   "end": 222.14,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Oh? Something you know that I don’t?"
+  },
+  {
+   "i": 68,
+   "start": 222.14,
+   "end": 223.48,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "A lot of things, actually."
+  },
+  {
+   "i": 69,
+   "start": 224.34,
+   "end": 226.72,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "...You have five seconds to rephrase that..."
+  },
+  {
+   "i": 70,
+   "start": 226.72,
+   "end": 228.16,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "4... 3..."
+  },
+  {
+   "i": 71,
+   "start": 228.16,
+   "end": 234.54,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Actually what I meant to say was when you make a wish on the Dragon Balls, the sky turns darker than the *blackest* void…"
+  },
+  {
+   "i": 72,
+   "start": 234.54,
+   "end": 235.22,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Hm?"
+  },
+  {
+   "i": 73,
+   "start": 235.74,
+   "end": 239.16,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "...and out of the balls rises a *giant dragon*!"
+  },
+  {
+   "i": 74,
+   "start": 240.0,
+   "end": 240.9,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "So yeah, none of that."
+  },
+  {
+   "i": 75,
+   "start": 241.8,
+   "end": 243.14,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "...2... 1..."
+  },
+  {
+   "i": 76,
+   "start": 243.14,
+   "end": 243.78,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Hi, Vegeta."
+  },
+  {
+   "i": 77,
+   "start": 243.78,
+   "end": 246.1,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Hi, Ginyu--... uugh..."
+  },
+  {
+   "i": 78,
+   "start": 246.1,
+   "end": 248.86,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "That’s him, Cap’n! That’s the one who beat us up!"
+  },
+  {
+   "i": 79,
+   "start": 248.98,
+   "end": 255.38,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "*What*? Just look at his hair! He looks like he just got out of bed! For goodness sakes, Jeice, he’s even wearing pajamas!"
+  },
+  {
+   "i": 80,
+   "start": 255.48,
+   "end": 259.86,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "I swear it, sir! He picked us apart one by one! We never stood a cha—!"
+  },
+  {
+   "i": 81,
+   "start": 259.86,
+   "end": 260.36,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "THWACK"
+  },
+  {
+   "i": 82,
+   "start": 259.86,
+   "end": 262.42,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "GAOGH! D'oh, that’s just not *fair*!"
+  },
+  {
+   "i": 83,
+   "start": 262.42,
+   "end": 264.14,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Jeice, what have I told you?!"
+  },
+  {
+   "i": 84,
+   "start": 264.26,
+   "end": 268.74,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "You know, I’m surprised you’re here, Ginyu. I thought you’d be busy polishing Freeza’s boots."
+  },
+  {
+   "i": 85,
+   "start": 268.74,
+   "end": 276.02,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "* First off, Lord Freeza doesn’t wear boots. * Second, if he did, I’d have already polished them. * Third, he’s off chasing some leftover Namekians."
+  },
+  {
+   "i": 86,
+   "start": 276.22,
+   "end": 278.5,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Wait, so Freeza’s not at the ship?"
+  },
+  {
+   "i": 87,
+   "start": 278.6,
+   "end": 279.26,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Correct."
+  },
+  {
+   "i": 88,
+   "start": 279.36,
+   "end": 280.3,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "And you’re here?"
+  },
+  {
+   "i": 89,
+   "start": 280.3,
+   "end": 281.0,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "That’s right."
+  },
+  {
+   "i": 90,
+   "start": 281.14,
+   "end": 284.44,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "And the average power level of Freeza’s soldiers is…"
+  },
+  {
+   "i": 91,
+   "start": 284.64,
+   "end": 285.38,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Two thousand."
+  },
+  {
+   "i": 92,
+   "start": 285.38,
+   "end": 287.46,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Iiiinteresting!"
+  },
+  {
+   "i": 93,
+   "start": 287.66,
+   "end": 290.78,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Krillin! Gohan! Get out of here and find Bulma."
+  },
+  {
+   "i": 94,
+   "start": 290.78,
+   "end": 292.8,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Vegeta and I can handle this on our own."
+  },
+  {
+   "i": 95,
+   "start": 292.96,
+   "end": 298.04,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Oh, no! I mean, I’d really hate to leave you on your own, you know but if you say so, LET’S GO, GOHAN!"
+  },
+  {
+   "i": 96,
+   "start": 298.38,
+   "end": 299.76,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Be careful, Dad!"
+  },
+  {
+   "i": 97,
+   "start": 300.94,
+   "end": 306.18,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "All right, Vegeta. We have to put our differences aside for now, and take these guys as a team."
+  },
+  {
+   "i": 98,
+   "start": 306.18,
+   "end": 312.34,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Yeah, that’s fantastic and entertaining and all that, but first, if you don’t mind me, I need to use the restroom."
+  },
+  {
+   "i": 99,
+   "start": 312.52,
+   "end": 313.16,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh, okay--"
+  },
+  {
+   "i": 100,
+   "start": 313.16,
+   "end": 314.24,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "About a hundred miles away."
+  },
+  {
+   "i": 101,
+   "start": 316.3,
+   "end": 317.98,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "...He has a very nervous bladder."
+  },
+  {
+   "i": 102,
+   "start": 318.26,
+   "end": 319.08,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "AAHWOOH!"
+  },
+  {
+   "i": 103,
+   "start": 322.7,
+   "end": 341.74,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "'So, for the first century, I’ll go easy on them, lure them into a false sense of security; and then when they think I’m not so bad, BAM! I’ll go full tyrant on them in the second century! After that, I’ll disappear for a millennia and make them wonder if I ever existed to begin with... just to come back and kill them all.'"
+  },
+  {
+   "i": 104,
+   "start": 345.08,
+   "end": 346.18,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Good afternoon."
+  },
+  {
+   "i": 105,
+   "start": 346.18,
+   "end": 347.36,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "It’s morning..."
+  },
+  {
+   "i": 106,
+   "start": 349.78,
+   "end": 351.82,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Cute kid. Seems familiar."
+  },
+  {
+   "i": 107,
+   "start": 357.98,
+   "end": 359.16,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "What do *you* want?"
+  },
+  {
+   "i": 108,
+   "start": 359.16,
+   "end": 364.0,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Ah, good sir. I suppose you could say I’m looking for \"technical support\"."
+  },
+  {
+   "i": 109,
+   "start": 364.22,
+   "end": 367.92,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "Naaaail! Do we have a visitor?"
+  },
+  {
+   "i": 110,
+   "start": 367.92,
+   "end": 368.84,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "Yes, sir."
+  },
+  {
+   "i": 111,
+   "start": 368.98,
+   "end": 372.0,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "Naaaail! Take his coat!"
+  },
+  {
+   "i": 112,
+   "start": 372.0,
+   "end": 373.18,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "I don’t have a coat."
+  },
+  {
+   "i": 113,
+   "start": 373.18,
+   "end": 378.26,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "He doesn’t have a coat, sir. And I believe this is the man who basically killed our entire race."
+  },
+  {
+   "i": 114,
+   "start": 379.14,
+   "end": 382.62,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "Naaail. Don’t take his coat."
+  },
+  {
+   "i": 115,
+   "start": 382.86,
+   "end": 390.52,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "You see, I recently acquired what you people refer to as “Dragon Balls”, but I’m having trouble getting them to do what I want."
+  },
+  {
+   "i": 116,
+   "start": 390.52,
+   "end": 392.26,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "Did you try working the shaft?"
+  },
+  {
+   "i": 117,
+   "start": 392.44,
+   "end": 393.58,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "*Classy*."
+  },
+  {
+   "i": 118,
+   "start": 393.74,
+   "end": 396.16,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "Naaaail! What does he want?"
+  },
+  {
+   "i": 119,
+   "start": 396.16,
+   "end": 398.26,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "He’s asking how to use the Dragon Balls."
+  },
+  {
+   "i": 120,
+   "start": 398.26,
+   "end": 400.32,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "Did you tell him to work the shaft?"
+  },
+  {
+   "i": 121,
+   "start": 400.36,
+   "end": 401.48,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "Yes, Lord Guru."
+  },
+  {
+   "i": 122,
+   "start": 401.62,
+   "end": 402.98,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "Good work, Nail."
+  },
+  {
+   "i": 123,
+   "start": 402.98,
+   "end": 406.42,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "I have the distinct impression you’re going to be difficult."
+  },
+  {
+   "i": 124,
+   "start": 406.46,
+   "end": 410.88,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "Well, sir, if you’re having a problem with our customer support, you can call 1-800-EAT-A-D**K."
+  },
+  {
+   "i": 125,
+   "start": 411.02,
+   "end": 413.2,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "We don’t even haaave those!!"
+  },
+  {
+   "i": 126,
+   "start": 413.2,
+   "end": 415.96,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Okay, this is getting ridiculous. What *is* that?"
+  },
+  {
+   "i": 127,
+   "start": 415.96,
+   "end": 417.36,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Explosion"
+  },
+  {
+   "i": 128,
+   "start": 417.74,
+   "end": 421.42,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "Oh, God! NATURAL LIIIGHT!"
+  },
+  {
+   "i": 129,
+   "start": 421.42,
+   "end": 427.28,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "*Good Lord*, I was led to believe your species survived entirely on water! How is he so FAT?!"
+  },
+  {
+   "i": 130,
+   "start": 427.42,
+   "end": 433.32,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "Oh, hello. I’m Super Kami Guru, and I’m the guy who’s *not* judging you on your appearance."
+  },
+  {
+   "i": 131,
+   "start": 433.44,
+   "end": 439.1,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Well, my name is Freeza, ruler of most of the known galaxy. I’m here to offer you a deal."
+  },
+  {
+   "i": 132,
+   "start": 439.1,
+   "end": 443.68,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "You give me the information I require, and I’ll let the sporting young man live."
+  },
+  {
+   "i": 133,
+   "start": 443.8,
+   "end": 449.6,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "Pleeease. Nail isn’t afraid of you. He is the strongest of our race!"
+  },
+  {
+   "i": 134,
+   "start": 449.6,
+   "end": 450.82,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Oh, really?"
+  },
+  {
+   "i": 135,
+   "start": 450.82,
+   "end": 451.86,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "Uh, sir?"
+  },
+  {
+   "i": 136,
+   "start": 451.86,
+   "end": 460.32,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "Yeah. Nail’s gonna *destroy* your sorry ass. They wouldn’t be able to air it on the news because it’ll be SO BRUTAL!"
+  },
+  {
+   "i": 137,
+   "start": 460.32,
+   "end": 461.6,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "Sir, seriously!"
+  },
+  {
+   "i": 138,
+   "start": 461.6,
+   "end": 464.26,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "Hush, Nail! I’m speaking for you."
+  },
+  {
+   "i": 139,
+   "start": 464.42,
+   "end": 469.24,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Well, then. If this is the only course of action available to me, I accept."
+  },
+  {
+   "i": 140,
+   "start": 469.24,
+   "end": 473.76,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "I’ll dispatch of this worm, and then I’ll be back for *you*, *slug*."
+  },
+  {
+   "i": 141,
+   "start": 473.76,
+   "end": 476.28,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "Leave my brother out of this!"
+  },
+  {
+   "i": 142,
+   "start": 476.28,
+   "end": 481.76,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "Sir, his power is overwhelming! I can also sense it’s only a fraction of what he’s capable of!"
+  },
+  {
+   "i": 143,
+   "start": 481.76,
+   "end": 483.76,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "*Nail*, listen to me."
+  },
+  {
+   "i": 144,
+   "start": 484.14,
+   "end": 488.48,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "You are Namek’s number one son. A prodigy child."
+  },
+  {
+   "i": 145,
+   "start": 488.68,
+   "end": 493.48,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "You have been trained in the ancient ways. I believe in you."
+  },
+  {
+   "i": 146,
+   "start": 493.74,
+   "end": 495.66,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "You… mean that, Lord Guru?"
+  },
+  {
+   "i": 147,
+   "start": 495.8,
+   "end": 504.36,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "Yes, Nail. Now show him the staggering spirit of Namek, and waste his smug ass!"
+  },
+  {
+   "i": 148,
+   "start": 504.36,
+   "end": 506.44,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "Yes, sir! Follow me!"
+  },
+  {
+   "i": 149,
+   "start": 512.6,
+   "end": 517.76,
+   "kind": "dialog",
+   "speaker": "Guru",
+   "text": "Fool. If I had trained him in the *new* way, he might’ve stood a chance..."
+  },
+  {
+   "i": 150,
+   "start": 520.02,
+   "end": 523.22,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "You have an interesting form, and a surprisingly well-honed technique."
+  },
+  {
+   "i": 151,
+   "start": 523.22,
+   "end": 524.44,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "And you’re purple!"
+  },
+  {
+   "i": 152,
+   "start": 524.44,
+   "end": 525.0,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Dramatic disengage"
+  },
+  {
+   "i": 153,
+   "start": 525.0,
+   "end": 526.02,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Dramatic landings"
+  },
+  {
+   "i": 154,
+   "start": 526.22,
+   "end": 529.82,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "I’m sufficiently impressed! You’ve held your own very well."
+  },
+  {
+   "i": 155,
+   "start": 529.82,
+   "end": 536.36,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "But your form and grace will never compare to that of the illustrious CAPTAIN GINYU!"
+  },
+  {
+   "i": 156,
+   "start": 537.04,
+   "end": 538.34,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "You mean, like this?"
+  },
+  {
+   "i": 157,
+   "start": 538.34,
+   "end": 540.8,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Oh, God! Is that what I look like?!"
+  },
+  {
+   "i": 158,
+   "start": 541.1,
+   "end": 543.3,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Jeice! That isn’t what I look like, is it?!"
+  },
+  {
+   "i": 159,
+   "start": 543.3,
+   "end": 545.62,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "No, Cap’n! You look amazing!"
+  },
+  {
+   "i": 160,
+   "start": 545.78,
+   "end": 547.96,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "No offense, but this is boring."
+  },
+  {
+   "i": 161,
+   "start": 547.96,
+   "end": 549.84,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Like, really boring."
+  },
+  {
+   "i": 162,
+   "start": 549.84,
+   "end": 552.88,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Like, listening to Gohan’s piano recital boring."
+  },
+  {
+   "i": 163,
+   "start": 552.88,
+   "end": 557.18,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "I realize these poses in an effort to invigorate my men and raise morale!"
+  },
+  {
+   "i": 164,
+   "start": 557.3,
+   "end": 559.42,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "How DARE you mock them!"
+  },
+  {
+   "i": 165,
+   "start": 559.42,
+   "end": 563.56,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Well, I mean, it’s just, I’m not even using half my power right now."
+  },
+  {
+   "i": 166,
+   "start": 563.62,
+   "end": 568.48,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Ahaahhhhh. Quite a substantial bluff! But a bluff, and nothing more."
+  },
+  {
+   "i": 167,
+   "start": 568.48,
+   "end": 571.7,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "I’ve witnessed your abilities first hand, and I assure you that you’re—"
+  },
+  {
+   "i": 168,
+   "start": 571.78,
+   "end": 576.34,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "HIYAAAAA... AAA... AAA... AAAAYAAAH!!"
+  },
+  {
+   "i": 169,
+   "start": 573.04,
+   "end": 573.7,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Rapid Scouter beeps"
+  },
+  {
+   "i": 170,
+   "start": 573.7,
+   "end": 574.38,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "(Shocked gasp)"
+  },
+  {
+   "i": 171,
+   "start": 578.08,
+   "end": 579.68,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "A hundred and eighty thousand!"
+  },
+  {
+   "i": 172,
+   "start": 580.38,
+   "end": 581.18,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Huh..."
+  },
+  {
+   "i": 173,
+   "start": 581.18,
+   "end": 584.3,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Oy, Cap’n! Isn’t your max power level only one hundred and—"
+  },
+  {
+   "i": 174,
+   "start": 584.3,
+   "end": 585.38,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "D'AAAUUUUGGHH!!"
+  },
+  {
+   "i": 175,
+   "start": 585.38,
+   "end": 585.94,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "SPLASH"
+  },
+  {
+   "i": 176,
+   "start": 585.94,
+   "end": 588.72,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "...Yeah, one hundred and twenty thousand. That’s what I thought."
+  },
+  {
+   "i": 177,
+   "start": 589.0,
+   "end": 590.36,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Is he gonna be okay?"
+  },
+  {
+   "i": 178,
+   "start": 590.54,
+   "end": 593.04,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Eh, the Cap’n? Yeah, he just does that sometimes."
+  },
+  {
+   "i": 179,
+   "start": 593.12,
+   "end": 593.62,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "GAUGH!!"
+  },
+  {
+   "i": 180,
+   "start": 594.92,
+   "end": 595.78,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "All right, I’m back!"
+  },
+  {
+   "i": 181,
+   "start": 596.0,
+   "end": 597.14,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "‘Ow ya goin, Cap’n?"
+  },
+  {
+   "i": 182,
+   "start": 597.18,
+   "end": 598.36,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "How do you think??"
+  },
+  {
+   "i": 183,
+   "start": 598.44,
+   "end": 601.72,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Well, Cap’n, if you’re gettin’ stressed, you could always… you know..."
+  },
+  {
+   "i": 184,
+   "start": 601.72,
+   "end": 604.74,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "*Oh, Jeice*! This is hardly the time or the place!"
+  },
+  {
+   "i": 185,
+   "start": 604.74,
+   "end": 607.1,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Besides, I did it in the pod on the way here."
+  },
+  {
+   "i": 186,
+   "start": 607.32,
+   "end": 610.34,
+   "kind": "dialog",
+   "speaker": "Jeice",
+   "text": "Uh… I meant switch bodies, sir..."
+  },
+  {
+   "i": 187,
+   "start": 610.34,
+   "end": 613.42,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Ah yes, of course! Hold my Scouter."
+  },
+  {
+   "i": 188,
+   "start": 613.42,
+   "end": 614.96,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hey, what’re you doing with your hand?"
+  },
+  {
+   "i": 189,
+   "start": 614.96,
+   "end": 616.28,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "URRRHHG! URH!"
+  },
+  {
+   "i": 190,
+   "start": 616.72,
+   "end": 619.56,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Um, sir? You’re supposed to do that to me."
+  },
+  {
+   "i": 191,
+   "start": 619.56,
+   "end": 623.98,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "Ohh-ho, but you see... I DID do it to you!"
+  },
+  {
+   "i": 192,
+   "start": 623.98,
+   "end": 625.12,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I don’t understand--"
+  },
+  {
+   "i": 193,
+   "start": 625.12,
+   "end": 627.34,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "CHANGE NOOOWWWW!"
+  },
+  {
+   "i": 194,
+   "start": 628.1,
+   "end": 630.58,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "'Ahahahahahahaa!'"
+  },
+  {
+   "i": 195,
+   "start": 630.58,
+   "end": 634.36,
+   "kind": "dialog",
+   "speaker": "Captain Ginyu",
+   "text": "'Haaahahahahahaaa!'"
+  },
+  {
+   "i": 196,
+   "start": 635.74,
+   "end": 641.46,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'Oh, wow… what happened? Everything seems… weird...'"
+  },
+  {
+   "i": 197,
+   "start": 641.46,
+   "end": 644.22,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'...oh, hey! There’s another me over there! I wonder if—'"
+  },
+  {
+   "i": 198,
+   "start": 644.22,
+   "end": 648.38,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'Aaaah! Ow! My *chest*! What in the…'"
+  },
+  {
+   "i": 199,
+   "start": 648.38,
+   "end": 649.86,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'...oh...'"
+  },
+  {
+   "i": 200,
+   "start": 649.86,
+   "end": 651.8,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "GINYU!"
+  },
+  {
+   "i": 201,
+   "start": 649.86,
+   "end": 651.8,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "...oh..."
+  },
+  {
+   "i": 202,
+   "start": 651.8,
+   "end": 653.76,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "...ohhhh..."
+  },
+  {
+   "i": 203,
+   "start": 653.76,
+   "end": 655.2,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "♫ Tokusentai! ♫"
+  },
+  {
+   "i": 204,
+   "start": 657.1,
+   "end": 658.7,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Hey, Bulma! We’re back!"
+  },
+  {
+   "i": 205,
+   "start": 658.7,
+   "end": 659.54,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "How are ya doing?"
+  },
+  {
+   "i": 206,
+   "start": 659.54,
+   "end": 661.36,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "I FOUGHT A GIANT CRAB!"
+  },
+  {
+   "i": 207,
+   "start": 662.18,
+   "end": 664.1,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "They make a special shampoo for that, I hear."
+  },
+  {
+   "i": 208,
+   "start": 664.1,
+   "end": 665.04,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "SMACK"
+  },
+  {
+   "i": 209,
+   "start": 664.1,
+   "end": 665.04,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "OW!"
+  }
+ ],
+ "segments": [
+  {
+   "start": 13.0,
+   "end": 34.84,
+   "title": "Now Clean My Jowls",
+   "quote": "“I don’t care who you are! Now clean my jowls!” And that was Nail’s first day on the job.",
+   "line_start": 0,
+   "line_end": 5
+  },
+  {
+   "start": 42.5,
+   "end": 75.82,
+   "title": "That SLUT!",
+   "quote": "It is time for me to unlock your hidden powers… Dende. / AH, WHAT THE HELL?! ... That SLUT!",
+   "line_start": 9,
+   "line_end": 18
+  },
+  {
+   "start": 108.2,
+   "end": 136.6,
+   "title": "A Sudden Case of Death",
+   "quote": "Thing is, he’s come down with a sudden case of death, sir. / Oh... that's... wow...",
+   "line_start": 27,
+   "line_end": 35
+  },
+  {
+   "start": 218.4,
+   "end": 246.1,
+   "title": "You Have Five Seconds",
+   "quote": "...You have five seconds to rephrase that... 4... 3... / ...2... 1... / Hi, Vegeta.",
+   "line_start": 66,
+   "line_end": 77
+  },
+  {
+   "start": 245.8,
+   "end": 262.42,
+   "title": "He's Even Wearing Pajamas",
+   "quote": "Just look at his hair! He looks like he just got out of bed! For goodness sakes, Jeice, he’s even wearing pajamas!",
+   "line_start": 78,
+   "line_end": 82
+  },
+  {
+   "start": 322.2,
+   "end": 341.74,
+   "title": "Freeza's Long Game",
+   "quote": "'...BAM! I’ll go full tyrant on them in the second century!'",
+   "line_start": 103,
+   "line_end": 103
+  },
+  {
+   "start": 382.5,
+   "end": 413.2,
+   "title": "Did You Try Working the Shaft?",
+   "quote": "Did you try working the shaft? / *Classy*. ... you can call 1-800-EAT-A-D**K. / We don’t even haaave those!!",
+   "line_start": 115,
+   "line_end": 125
+  },
+  {
+   "start": 413.2,
+   "end": 433.32,
+   "title": "NATURAL LIGHT!",
+   "quote": "Oh, God! NATURAL LIIIGHT! / How is he so FAT?!",
+   "line_start": 126,
+   "line_end": 130
+  },
+  {
+   "start": 443.5,
+   "end": 464.26,
+   "title": "SO BRUTAL",
+   "quote": "Nail’s gonna *destroy* your sorry ass. They wouldn’t be able to air it on the news because it’ll be SO BRUTAL!",
+   "line_start": 133,
+   "line_end": 138
+  },
+  {
+   "start": 520.0,
+   "end": 545.62,
+   "title": "Is That What I Look Like?!",
+   "quote": "And you’re purple! ... CAPTAIN GINYU! / You mean, like this? / Oh, God! Is that what I look like?!",
+   "line_start": 150,
+   "line_end": 159
+  },
+  {
+   "start": 567.9,
+   "end": 593.62,
+   "title": "A Hundred and Eighty Thousand",
+   "quote": "A hundred and eighty thousand! / Isn’t your max power level only one hundred and— / D'AAAUUUUGGHH!!",
+   "line_start": 167,
+   "line_end": 179
+  },
+  {
+   "start": 612.9,
+   "end": 655.2,
+   "title": "CHANGE NOW",
+   "quote": "You’re supposed to do that to me. / Ohh-ho, but you see... I DID do it to you! CHANGE NOOOWWWW!",
+   "line_start": 188,
+   "line_end": 203
+  }
+ ]
+}

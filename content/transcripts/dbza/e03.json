@@ -1,0 +1,1163 @@
+{
+ "item": "e03",
+ "show": "dbza",
+ "youtube": "OTuMh7VDaC4",
+ "title": "Episode 3",
+ "duration": 434,
+ "lines": [
+  {
+   "i": 0,
+   "start": 8.24,
+   "end": 13.88,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "Well, Goku has passed, but his sacrifice has stopped a great evil."
+  },
+  {
+   "i": 1,
+   "start": 14.14,
+   "end": 17.84,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "Thanks to him, our lives can return to peace once mor--"
+  },
+  {
+   "i": 2,
+   "start": 17.84,
+   "end": 21.32,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Raaaditz? Raaaaaditz?"
+  },
+  {
+   "i": 3,
+   "start": 21.32,
+   "end": 23.16,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "What the hell is that?"
+  },
+  {
+   "i": 4,
+   "start": 23.34,
+   "end": 25.36,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Guy-who's-as-strong-as-a-Saibaman-says \"What?\""
+  },
+  {
+   "i": 5,
+   "start": 25.98,
+   "end": 28.6,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "That usually gets to him. I think he's dead, Vegeta."
+  },
+  {
+   "i": 6,
+   "start": 28.84,
+   "end": 33.24,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Big shocker -- nobody cares. We're ten times stronger than him anyway."
+  },
+  {
+   "i": 7,
+   "start": 33.24,
+   "end": 36.5,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "We'll go to Earth, find the Dragon Balls, and kill everyone!"
+  },
+  {
+   "i": 8,
+   "start": 36.5,
+   "end": 38.78,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "And we'll be there within a year or so."
+  },
+  {
+   "i": 9,
+   "start": 39.16,
+   "end": 41.12,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "...Depending on filler, of course."
+  },
+  {
+   "i": 10,
+   "start": 41.32,
+   "end": 43.78,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Aaanything else we need to go over, Vegeta?"
+  },
+  {
+   "i": 11,
+   "start": 43.78,
+   "end": 46.0,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Nope. That's about it."
+  },
+  {
+   "i": 12,
+   "start": 46.92,
+   "end": 47.98,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "Well..."
+  },
+  {
+   "i": 13,
+   "start": 69.38,
+   "end": 72.08,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Wind whistling"
+  },
+  {
+   "i": 14,
+   "start": 72.64,
+   "end": 77.24,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "All right, you little human... Saiyan... thing..."
+  },
+  {
+   "i": 15,
+   "start": 77.24,
+   "end": 79.72,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "I saw what you did to that Saiyan back there."
+  },
+  {
+   "i": 16,
+   "start": 79.94,
+   "end": 82.0,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "That kind of power can be useful."
+  },
+  {
+   "i": 17,
+   "start": 82.22,
+   "end": 84.0,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Wh... What do you mean?"
+  },
+  {
+   "i": 18,
+   "start": 84.22,
+   "end": 87.54,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "I'm going to make you my pupil, and then..."
+  },
+  {
+   "i": 19,
+   "start": 87.54,
+   "end": 91.0,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "I'll use YOU for my conquest to take over the world!"
+  },
+  {
+   "i": 20,
+   "start": 91.0,
+   "end": 93.08,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "But... But where's my Daddy?"
+  },
+  {
+   "i": 21,
+   "start": 93.24,
+   "end": 95.76,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Hate to tell you, kid, but your dad's DEAD!"
+  },
+  {
+   "i": 22,
+   "start": 96.36,
+   "end": 98.18,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Actually, I kind of like saying that."
+  },
+  {
+   "i": 23,
+   "start": 98.18,
+   "end": 99.76,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Gohan cries"
+  },
+  {
+   "i": 24,
+   "start": 98.18,
+   "end": 99.76,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Haha! Your dad's dea--!"
+  },
+  {
+   "i": 25,
+   "start": 99.76,
+   "end": 102.28,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Gohan cries"
+  },
+  {
+   "i": 26,
+   "start": 99.76,
+   "end": 102.28,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Ah... damn it."
+  },
+  {
+   "i": 27,
+   "start": 102.82,
+   "end": 105.28,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "This is why I hang out in wastelands."
+  },
+  {
+   "i": 28,
+   "start": 107.04,
+   "end": 110.04,
+   "kind": "dialog",
+   "speaker": "Heavenly Attendant",
+   "text": "Hello! And welcome to the Heavenly Check-In Station!"
+  },
+  {
+   "i": 29,
+   "start": 110.04,
+   "end": 111.74,
+   "kind": "dialog",
+   "speaker": "Heavenly Attendant",
+   "text": "Please no cutting in line."
+  },
+  {
+   "i": 30,
+   "start": 111.74,
+   "end": 115.32,
+   "kind": "dialog",
+   "speaker": "Heavenly Attendant",
+   "text": "If you are caught cutting in line, you will be sent straight to Hell."
+  },
+  {
+   "i": 31,
+   "start": 115.54,
+   "end": 120.04,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "...And so, we need Goku here to get to King Kai's for his masterful training, Lord Yemma."
+  },
+  {
+   "i": 32,
+   "start": 120.14,
+   "end": 123.2,
+   "kind": "dialog",
+   "speaker": "Yemma",
+   "text": "Give me one good reason I should allow this."
+  },
+  {
+   "i": 33,
+   "start": 123.26,
+   "end": 127.94,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Because, if you don't, that line's going to increase by SIX BILLION!"
+  },
+  {
+   "i": 34,
+   "start": 128.1,
+   "end": 129.46,
+   "kind": "dialog",
+   "speaker": "Yemma",
+   "text": "Six billion?!"
+  },
+  {
+   "i": 35,
+   "start": 129.46,
+   "end": 132.72,
+   "kind": "dialog",
+   "speaker": "Yemma",
+   "text": "I'm supposed to be intimidated by six billion?!"
+  },
+  {
+   "i": 36,
+   "start": 132.72,
+   "end": 137.86,
+   "kind": "dialog",
+   "speaker": "Yemma",
+   "text": "Please! I can judge six billion souls faster than you take a piss, old man!"
+  },
+  {
+   "i": 37,
+   "start": 138.1,
+   "end": 140.38,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "You know, I am the Guardian of Earth."
+  },
+  {
+   "i": 38,
+   "start": 140.38,
+   "end": 142.8,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Can I *please* get a little bit more respect here?"
+  },
+  {
+   "i": 39,
+   "start": 142.8,
+   "end": 145.94,
+   "kind": "dialog",
+   "speaker": "Yemma",
+   "text": "Big deal! I'm the closest thing to a God in this show!"
+  },
+  {
+   "i": 40,
+   "start": 146.36,
+   "end": 148.08,
+   "kind": "dialog",
+   "speaker": "Yemma",
+   "text": "Until you get to the Kais..."
+  },
+  {
+   "i": 41,
+   "start": 148.46,
+   "end": 150.82,
+   "kind": "dialog",
+   "speaker": "Yemma",
+   "text": "...then I'll be horrrribly insignificant."
+  },
+  {
+   "i": 42,
+   "start": 150.96,
+   "end": 154.26,
+   "kind": "dialog",
+   "speaker": "Yemma",
+   "text": "I do have a desk, though! It's made of mahogany!"
+  },
+  {
+   "i": 43,
+   "start": 155.36,
+   "end": 156.52,
+   "kind": "dialog",
+   "speaker": "Yemma",
+   "text": "Ma-ho-gany."
+  },
+  {
+   "i": 44,
+   "start": 157.58,
+   "end": 159.7,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Uhh, anyway, can we please--"
+  },
+  {
+   "i": 45,
+   "start": 159.7,
+   "end": 161.1,
+   "kind": "dialog",
+   "speaker": "Yemma",
+   "text": "SILENCE!"
+  },
+  {
+   "i": 46,
+   "start": 163.18,
+   "end": 164.56,
+   "kind": "dialog",
+   "speaker": "Yemma",
+   "text": "Mahogany..."
+  },
+  {
+   "i": 47,
+   "start": 165.32,
+   "end": 167.58,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Ummm... sir?"
+  },
+  {
+   "i": 48,
+   "start": 167.88,
+   "end": 170.82,
+   "kind": "dialog",
+   "speaker": "Yemma",
+   "text": "Uh, what? Oh, uh, sure. Whatever."
+  },
+  {
+   "i": 49,
+   "start": 170.82,
+   "end": 177.32,
+   "kind": "dialog",
+   "speaker": "Yemma",
+   "text": "He can go to King Kai's... but he'll have to run on SNAAAAKE WAAAY!"
+  },
+  {
+   "i": 50,
+   "start": 177.32,
+   "end": 179.4,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Dramatic sting"
+  },
+  {
+   "i": 51,
+   "start": 180.1,
+   "end": 180.98,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Sounds fun!"
+  },
+  {
+   "i": 52,
+   "start": 180.98,
+   "end": 182.48,
+   "kind": "dialog",
+   "speaker": "Yemma",
+   "text": "Prepare to be surprised."
+  },
+  {
+   "i": 53,
+   "start": 182.92,
+   "end": 185.74,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Alright, I'm off! Oh, wait."
+  },
+  {
+   "i": 54,
+   "start": 186.08,
+   "end": 189.52,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "By the way... did you see a guy named Raditz come through here?"
+  },
+  {
+   "i": 55,
+   "start": 189.52,
+   "end": 191.36,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "He has spiky hair and a tail?"
+  },
+  {
+   "i": 56,
+   "start": 191.66,
+   "end": 193.92,
+   "kind": "dialog",
+   "speaker": "Yemma",
+   "text": "Oh yeah, I remember that guy."
+  },
+  {
+   "i": 57,
+   "start": 193.92,
+   "end": 196.48,
+   "kind": "dialog",
+   "speaker": "Yemma",
+   "text": "I put him in my patented Yemma-lock!"
+  },
+  {
+   "i": 58,
+   "start": 196.6,
+   "end": 197.52,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "And it worked?"
+  },
+  {
+   "i": 59,
+   "start": 197.52,
+   "end": 200.2,
+   "kind": "dialog",
+   "speaker": "Yemma",
+   "text": "F*** no! He kicked me in the balls and ran away!"
+  },
+  {
+   "i": 60,
+   "start": 200.2,
+   "end": 201.94,
+   "kind": "dialog",
+   "speaker": "Yemma",
+   "text": "Now I don't know where he is."
+  },
+  {
+   "i": 61,
+   "start": 202.3,
+   "end": 204.44,
+   "kind": "dialog",
+   "speaker": "Raditz",
+   "text": "He didn't keep his eye on the birdie!"
+  },
+  {
+   "i": 62,
+   "start": 205.22,
+   "end": 207.06,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Huh. Okaay..."
+  },
+  {
+   "i": 63,
+   "start": 207.6,
+   "end": 208.32,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Well, bye!"
+  },
+  {
+   "i": 64,
+   "start": 208.32,
+   "end": 209.64,
+   "kind": "dialog",
+   "speaker": "Yemma",
+   "text": "See ya next time you die!"
+  },
+  {
+   "i": 65,
+   "start": 213.56,
+   "end": 214.82,
+   "kind": "dialog",
+   "speaker": "Yemma",
+   "text": "....Mahogany."
+  },
+  {
+   "i": 66,
+   "start": 216.5,
+   "end": 219.04,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "So, Krillin, how did Chi-Chi take the news?"
+  },
+  {
+   "i": 67,
+   "start": 219.36,
+   "end": 220.54,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Ummm..."
+  },
+  {
+   "i": 68,
+   "start": 220.54,
+   "end": 221.18,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Flashback"
+  },
+  {
+   "i": 69,
+   "start": 221.18,
+   "end": 224.02,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Well, Krillin, what did you need to talk about?"
+  },
+  {
+   "i": 70,
+   "start": 224.02,
+   "end": 226.64,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "So, Chi-Chi. Hypothetically:"
+  },
+  {
+   "i": 71,
+   "start": 226.64,
+   "end": 233.08,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "What would you do if you were told that your husband was dead, and your son were kidnapped by his worst enemy?"
+  },
+  {
+   "i": 72,
+   "start": 233.34,
+   "end": 237.66,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "I'd castrate the messenger in his sleep with a rusty carving knife!"
+  },
+  {
+   "i": 73,
+   "start": 238.4,
+   "end": 239.08,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Oh!"
+  },
+  {
+   "i": 74,
+   "start": 239.58,
+   "end": 243.42,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Then it's a good thing I'm not telling you that!"
+  },
+  {
+   "i": 75,
+   "start": 243.42,
+   "end": 245.22,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Krillin and Chi-Chi laugh"
+  },
+  {
+   "i": 76,
+   "start": 245.22,
+   "end": 247.24,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Would you like to spend the night?"
+  },
+  {
+   "i": 77,
+   "start": 247.46,
+   "end": 250.18,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Against my better judgment..."
+  },
+  {
+   "i": 78,
+   "start": 250.6,
+   "end": 256.76,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Ox King snoring"
+  },
+  {
+   "i": 79,
+   "start": 256.76,
+   "end": 263.54,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Sound of knife sharpening"
+  },
+  {
+   "i": 80,
+   "start": 258.04,
+   "end": 261.8,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "♪ Kriiilliiin, where arrree youuu? ♪"
+  },
+  {
+   "i": 81,
+   "start": 263.54,
+   "end": 265.74,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "AaaaaAAAAUUUGH!!"
+  },
+  {
+   "i": 82,
+   "start": 267.18,
+   "end": 267.7,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Flashback ends"
+  },
+  {
+   "i": 83,
+   "start": 267.7,
+   "end": 268.7,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Relatively well."
+  },
+  {
+   "i": 84,
+   "start": 269.24,
+   "end": 272.88,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "So, are you going to grab the other Z-Warriors and go train with Kami?"
+  },
+  {
+   "i": 85,
+   "start": 273.12,
+   "end": 274.36,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "The who warriors?"
+  },
+  {
+   "i": 86,
+   "start": 274.5,
+   "end": 279.32,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "The Z-Warriors. You, Goku, Tien, Yamcha, Chiaotzu..."
+  },
+  {
+   "i": 87,
+   "start": 279.32,
+   "end": 281.12,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "That's what we always call you guys."
+  },
+  {
+   "i": 88,
+   "start": 281.4,
+   "end": 283.18,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "That's the stupidest thing I've ever--!"
+  },
+  {
+   "i": 89,
+   "start": 283.18,
+   "end": 286.48,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "KRILLIIIN!! Where the hell are you!?!"
+  },
+  {
+   "i": 90,
+   "start": 286.82,
+   "end": 289.24,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Well, I'm off to gather the Z-Warriors! Bye!"
+  },
+  {
+   "i": 91,
+   "start": 289.24,
+   "end": 291.46,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "AAUGH-HA-HAAA...!"
+  },
+  {
+   "i": 92,
+   "start": 292.9,
+   "end": 296.98,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Listen up, runt! Today we're going to commence your intense training, under me."
+  },
+  {
+   "i": 93,
+   "start": 297.24,
+   "end": 303.6,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "But wait... wouldn't that cause horrible muscle degeneration for somebody my age, crippling me for years to come?"
+  },
+  {
+   "i": 94,
+   "start": 305.1,
+   "end": 307.1,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "...You're a wordy little bastard, aren't you?"
+  },
+  {
+   "i": 95,
+   "start": 307.42,
+   "end": 308.98,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "My Mom wants me to become an ortho--"
+  },
+  {
+   "i": 96,
+   "start": 308.98,
+   "end": 310.1,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "NERRRD!"
+  },
+  {
+   "i": 97,
+   "start": 310.48,
+   "end": 311.32,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Wha-what?"
+  },
+  {
+   "i": 98,
+   "start": 311.7,
+   "end": 316.14,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Anyway, I figured to unleash your hidden potential, I'd have to put you in immense physical danger."
+  },
+  {
+   "i": 99,
+   "start": 316.34,
+   "end": 318.14,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "So I'm going to throw you at that mountain."
+  },
+  {
+   "i": 100,
+   "start": 318.94,
+   "end": 320.66,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Actually, that looks more like a plat--"
+  },
+  {
+   "i": 101,
+   "start": 320.66,
+   "end": 322.64,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "EAAAAAAAUUUUUU...!"
+  },
+  {
+   "i": 102,
+   "start": 322.64,
+   "end": 324.16,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Gohan screams throughout his flight"
+  },
+  {
+   "i": 103,
+   "start": 322.64,
+   "end": 324.16,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'Any second now...'"
+  },
+  {
+   "i": 104,
+   "start": 324.86,
+   "end": 326.48,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'Here it commmmes...'"
+  },
+  {
+   "i": 105,
+   "start": 327.36,
+   "end": 328.3,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'Aaaannd...!'"
+  },
+  {
+   "i": 106,
+   "start": 329.12,
+   "end": 330.02,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "SPLAT"
+  },
+  {
+   "i": 107,
+   "start": 329.12,
+   "end": 330.02,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Ewww..."
+  },
+  {
+   "i": 108,
+   "start": 330.02,
+   "end": 337.24,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Gohan crying"
+  },
+  {
+   "i": 109,
+   "start": 333.14,
+   "end": 337.24,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'This is going to be a loooooong training session...'"
+  },
+  {
+   "i": 110,
+   "start": 339.26,
+   "end": 342.16,
+   "kind": "dialog",
+   "speaker": "Heavenly Attendant",
+   "text": "All right, Mr. Muscle Man. Here you are at Snake Way."
+  },
+  {
+   "i": 111,
+   "start": 342.16,
+   "end": 344.78,
+   "kind": "dialog",
+   "speaker": "Heavenly Attendant",
+   "text": "Now; you might wanna pack a lunch because it's gonna be a long run."
+  },
+  {
+   "i": 112,
+   "start": 344.96,
+   "end": 346.78,
+   "kind": "dialog",
+   "speaker": "Heavenly Attendant",
+   "text": "Nah, I'm just jokin'; you're not going to be eating nothin'."
+  },
+  {
+   "i": 113,
+   "start": 347.36,
+   "end": 350.76,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "WOW... That looks like it's going to take me a while."
+  },
+  {
+   "i": 114,
+   "start": 350.76,
+   "end": 353.46,
+   "kind": "dialog",
+   "speaker": "Heavenly Attendant",
+   "text": "Now, be careful running; you don't wanna fall off and die."
+  },
+  {
+   "i": 115,
+   "start": 353.46,
+   "end": 358.2,
+   "kind": "dialog",
+   "speaker": "Heavenly Attendant",
+   "text": "That's just a little bit of dead humor. But seriously; do not fall off or you will go to Hell."
+  },
+  {
+   "i": 116,
+   "start": 358.58,
+   "end": 360.74,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Has anyone ever run the whole thing before?"
+  },
+  {
+   "i": 117,
+   "start": 361.06,
+   "end": 362.42,
+   "kind": "dialog",
+   "speaker": "Heavenly Attendant",
+   "text": "Well, there was one man."
+  },
+  {
+   "i": 118,
+   "start": 362.52,
+   "end": 363.9,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Well, who was he?"
+  },
+  {
+   "i": 119,
+   "start": 363.9,
+   "end": 365.1,
+   "kind": "dialog",
+   "speaker": "Heavenly Attendant",
+   "text": "I believe his name was--"
+  },
+  {
+   "i": 120,
+   "start": 365.1,
+   "end": 366.32,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Mr. Popo!"
+  },
+  {
+   "i": 121,
+   "start": 366.52,
+   "end": 367.36,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Yes, Kami?"
+  },
+  {
+   "i": 122,
+   "start": 367.66,
+   "end": 371.14,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "I just received word that we have a new batch of trainees coming."
+  },
+  {
+   "i": 123,
+   "start": 371.36,
+   "end": 373.84,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Make sure you take good care of them."
+  },
+  {
+   "i": 124,
+   "start": 375.98,
+   "end": 380.76,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Sinister laughter"
+  },
+  {
+   "i": 125,
+   "start": 380.76,
+   "end": 384.02,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Mr. Popo laughing; Psycho strings play"
+  },
+  {
+   "i": 126,
+   "start": 384.02,
+   "end": 387.84,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Mr. Popo laughing; insidious music"
+  },
+  {
+   "i": 127,
+   "start": 395.74,
+   "end": 406.3,
+   "kind": "dialog",
+   "speaker": "Yemma",
+   "text": "And not just any mahogany; but mahogany from the planet of Malchior 7, where the trees are three-hundred feet tall and breathe FIRE!!"
+  },
+  {
+   "i": 128,
+   "start": 406.82,
+   "end": 415.56,
+   "kind": "dialog",
+   "speaker": "Yemma",
+   "text": "From these trees, this desk was forged 2,000 years ago, using ancient blood-rituals of the Malchior people!"
+  },
+  {
+   "i": 129,
+   "start": 414.68,
+   "end": 416.38,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Malchiorians cackling"
+  },
+  {
+   "i": 130,
+   "start": 416.38,
+   "end": 424.52,
+   "kind": "dialog",
+   "speaker": "Yemma",
+   "text": "Not only does this make my desk nigh *indestructible*, but it can bend the fabric of the Universe ITSELF!"
+  },
+  {
+   "i": 131,
+   "start": 425.52,
+   "end": 429.32,
+   "kind": "dialog",
+   "speaker": "Yemma",
+   "text": "Also, it's a very fine material. Verrry expensive."
+  },
+  {
+   "i": 132,
+   "start": 429.8,
+   "end": 431.5,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Oooookay--?"
+  },
+  {
+   "i": 133,
+   "start": 431.5,
+   "end": 432.22,
+   "kind": "dialog",
+   "speaker": "Yemma",
+   "text": "It's mahogany."
+  }
+ ],
+ "segments": [
+  {
+   "start": 17.3,
+   "end": 46.0,
+   "title": "Saibaman Says \"What?\"",
+   "quote": "Guy-who's-as-strong-as-a-Saibaman-says \"What?\" ... I think he's dead, Vegeta.",
+   "line_start": 2,
+   "line_end": 11
+  },
+  {
+   "start": 90.5,
+   "end": 105.3,
+   "title": "Your Dad's DEAD!",
+   "quote": "Hate to tell you, kid, but your dad's DEAD! ... Actually, I kind of like saying that.",
+   "line_start": 20,
+   "line_end": 27
+  },
+  {
+   "start": 142.3,
+   "end": 164.6,
+   "title": "It's Made of Mahogany",
+   "quote": "I do have a desk, though! It's made of mahogany! Ma-ho-gany.",
+   "line_start": 39,
+   "line_end": 46
+  },
+  {
+   "start": 185.6,
+   "end": 214.9,
+   "title": "The Patented Yemma-Lock",
+   "quote": "F*** no! He kicked me in the balls and ran away!",
+   "line_start": 54,
+   "line_end": 65
+  },
+  {
+   "start": 220.7,
+   "end": 268.7,
+   "title": "How Did Chi-Chi Take the News?",
+   "quote": "I'd castrate the messenger in his sleep with a rusty carving knife! / Relatively well.",
+   "line_start": 69,
+   "line_end": 83
+  },
+  {
+   "start": 268.8,
+   "end": 291.5,
+   "title": "The Z-Warriors",
+   "quote": "That's the stupidest thing I've ever--! / KRILLIIIN!! Where the hell are you!?! / Well, I'm off to gather the Z-Warriors! Bye!",
+   "line_start": 84,
+   "line_end": 91
+  },
+  {
+   "start": 304.6,
+   "end": 330.0,
+   "title": "Wordy Little Bastard",
+   "quote": "...You're a wordy little bastard, aren't you? / My Mom wants me to become an ortho-- / NERRRD!",
+   "line_start": 94,
+   "line_end": 107
+  },
+  {
+   "start": 338.8,
+   "end": 358.2,
+   "title": "Welcome to Snake Way",
+   "quote": "Nah, I'm just jokin'; you're not going to be eating nothin'.",
+   "line_start": 110,
+   "line_end": 115
+  },
+  {
+   "start": 364.6,
+   "end": 387.8,
+   "title": "Mr. Popo's Trainees",
+   "quote": "Make sure you take good care of them. [Sinister laughter]",
+   "line_start": 120,
+   "line_end": 126
+  },
+  {
+   "start": 395.2,
+   "end": 432.22,
+   "title": "Mahogany from Malchior 7",
+   "quote": "...where the trees are three-hundred feet tall and breathe FIRE!! ... It's mahogany.",
+   "line_start": 127,
+   "line_end": 133
+  }
+ ]
+}

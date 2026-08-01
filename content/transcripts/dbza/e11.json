@@ -1,0 +1,1651 @@
+{
+ "item": "e11",
+ "show": "dbza",
+ "youtube": "Bm0V0UVqFtQ",
+ "title": "Episode 10 Part 2",
+ "duration": 536,
+ "lines": [
+  {
+   "i": 0,
+   "start": 7.58,
+   "end": 9.58,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Aaaaaaaahhhaaa....!"
+  },
+  {
+   "i": 1,
+   "start": 9.94,
+   "end": 10.44,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Thud"
+  },
+  {
+   "i": 2,
+   "start": 11.02,
+   "end": 18.32,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "What did I tell you, Kakarot? I'm ten times stronger in this form, while you are beaten and weary!"
+  },
+  {
+   "i": 3,
+   "start": 18.32,
+   "end": 28.56,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'Man. This is worse than that time I was in high school, and all the guys called me \"Geeko\", and I was Piccolo's slave, I couldn't get Chi-Chi to like me, and--'"
+  },
+  {
+   "i": 4,
+   "start": 28.56,
+   "end": 31.2,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh, wow. I hit that rock harder than I thought."
+  },
+  {
+   "i": 5,
+   "start": 31.98,
+   "end": 34.9,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Now, Kakarot... to FINISH THIS!"
+  },
+  {
+   "i": 6,
+   "start": 34.9,
+   "end": 37.2,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'Oh, man. What would Yamcha do?'"
+  },
+  {
+   "i": 7,
+   "start": 37.6,
+   "end": 39.42,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "BOOM"
+  },
+  {
+   "i": 8,
+   "start": 40.42,
+   "end": 42.6,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'Um, um... what would Tien do?!'"
+  },
+  {
+   "i": 9,
+   "start": 43.14,
+   "end": 44.32,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Wait, I know!"
+  },
+  {
+   "i": 10,
+   "start": 44.32,
+   "end": 46.66,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Prepare to die, Kakarot!"
+  },
+  {
+   "i": 11,
+   "start": 46.66,
+   "end": 47.78,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Solar Flare!"
+  },
+  {
+   "i": 12,
+   "start": 48.44,
+   "end": 50.0,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "AAAAAugh!"
+  },
+  {
+   "i": 13,
+   "start": 50.36,
+   "end": 51.46,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Aaaah!"
+  },
+  {
+   "i": 14,
+   "start": 52.92,
+   "end": 54.5,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Damn, my eyes!"
+  },
+  {
+   "i": 15,
+   "start": 54.5,
+   "end": 58.18,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Oh God, it's like walking in on Freeza in the shower!"
+  },
+  {
+   "i": 16,
+   "start": 58.58,
+   "end": 60.84,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Wait a minute, Freeza's always naked..."
+  },
+  {
+   "i": 17,
+   "start": 61.18,
+   "end": 62.42,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "GAAAAHHH!!"
+  },
+  {
+   "i": 18,
+   "start": 64.22,
+   "end": 73.2,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Kakarot, when I find you you're going to die! And not any sort of good death! You’re going to die horribly, terribly, I’m going to eat your--"
+  },
+  {
+   "i": 19,
+   "start": 64.22,
+   "end": 68.14,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "All right! That should buy me some time, now let's see."
+  },
+  {
+   "i": 20,
+   "start": 68.14,
+   "end": 73.2,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Planet! Give me your energy -- everything you can spare!"
+  },
+  {
+   "i": 21,
+   "start": 73.44,
+   "end": 80.04,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oceans, Forests, People of the planet, and all the animals that live alongside them!"
+  },
+  {
+   "i": 22,
+   "start": 75.74,
+   "end": 77.26,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I’m going to hammer you..."
+  },
+  {
+   "i": 23,
+   "start": 77.26,
+   "end": 81.0,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "(indistinguishable), you're gonna be so *dead*!"
+  },
+  {
+   "i": 24,
+   "start": 80.04,
+   "end": 83.56,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Energy noises"
+  },
+  {
+   "i": 25,
+   "start": 83.56,
+   "end": 88.18,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "There! I think I have enough energy... but, maybe a little more wouldn't hurt."
+  },
+  {
+   "i": 26,
+   "start": 88.6,
+   "end": 90.24,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Deer groans"
+  },
+  {
+   "i": 27,
+   "start": 91.72,
+   "end": 95.1,
+   "kind": "dialog",
+   "speaker": "Baby Deer",
+   "text": "Daddy?"
+  },
+  {
+   "i": 28,
+   "start": 96.78,
+   "end": 99.74,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'All right! That should do it! All finished.'"
+  },
+  {
+   "i": 29,
+   "start": 100.38,
+   "end": 106.16,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Hurgh, finally, I can see again. Kakarot, I am going to KILL you!"
+  },
+  {
+   "i": 30,
+   "start": 106.16,
+   "end": 108.02,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Now, take this:"
+  },
+  {
+   "i": 31,
+   "start": 108.02,
+   "end": 110.5,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Energy from the entire *world*!"
+  },
+  {
+   "i": 32,
+   "start": 110.5,
+   "end": 111.94,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "HURAAAAAAAAAAAGH!"
+  },
+  {
+   "i": 33,
+   "start": 111.94,
+   "end": 115.54,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'Well, if that don't beat all...' AAAAAAAAH!"
+  },
+  {
+   "i": 34,
+   "start": 115.54,
+   "end": 116.36,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Ugh!"
+  },
+  {
+   "i": 35,
+   "start": 118.4,
+   "end": 122.54,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Hey, Kakarot, what's the opposite of Christopher Walken?"
+  },
+  {
+   "i": 36,
+   "start": 122.74,
+   "end": 123.34,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Huh?"
+  },
+  {
+   "i": 37,
+   "start": 123.52,
+   "end": 125.02,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Christopher Reeves!"
+  },
+  {
+   "i": 38,
+   "start": 125.02,
+   "end": 125.68,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "POW"
+  },
+  {
+   "i": 39,
+   "start": 125.68,
+   "end": 128.18,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "AAAAAAAOOWWW!"
+  },
+  {
+   "i": 40,
+   "start": 128.18,
+   "end": 131.3,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "That was in terrible ta-a-aste...!"
+  },
+  {
+   "i": 41,
+   "start": 131.56,
+   "end": 136.24,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Don't care; evil! Now, time to crush you like an Arlian."
+  },
+  {
+   "i": 42,
+   "start": 136.24,
+   "end": 137.78,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "A... what?"
+  },
+  {
+   "i": 43,
+   "start": 137.78,
+   "end": 140.4,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Exactly! Now die!"
+  },
+  {
+   "i": 44,
+   "start": 140.4,
+   "end": 141.26,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Huhh!"
+  },
+  {
+   "i": 45,
+   "start": 141.26,
+   "end": 141.98,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Argh!"
+  },
+  {
+   "i": 46,
+   "start": 141.98,
+   "end": 143.16,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "AAAAAAAAH!!"
+  },
+  {
+   "i": 47,
+   "start": 143.16,
+   "end": 145.66,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Again with the f**king eye!"
+  },
+  {
+   "i": 48,
+   "start": 145.66,
+   "end": 148.16,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "God...dammit!"
+  },
+  {
+   "i": 49,
+   "start": 145.66,
+   "end": 148.16,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hah! Now to make my cunning escape."
+  },
+  {
+   "i": 50,
+   "start": 149.22,
+   "end": 151.22,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Grunts"
+  },
+  {
+   "i": 51,
+   "start": 151.66,
+   "end": 152.16,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Huh! Hah!"
+  },
+  {
+   "i": 52,
+   "start": 152.16,
+   "end": 155.12,
+   "kind": "direction",
+   "speaker": null,
+   "text": "More grunting"
+  },
+  {
+   "i": 53,
+   "start": 155.92,
+   "end": 156.42,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hah!"
+  },
+  {
+   "i": 54,
+   "start": 156.42,
+   "end": 157.32,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Smash"
+  },
+  {
+   "i": 55,
+   "start": 157.64,
+   "end": 159.76,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Ah, that would be awesome."
+  },
+  {
+   "i": 56,
+   "start": 159.76,
+   "end": 164.96,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I've had enough of this. I'm going to crush the life out of you, you insolent little--"
+  },
+  {
+   "i": 57,
+   "start": 164.96,
+   "end": 168.0,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "CRUNCH"
+  },
+  {
+   "i": 58,
+   "start": 164.96,
+   "end": 168.0,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "AAAAAAAAAH...!"
+  },
+  {
+   "i": 59,
+   "start": 170.5,
+   "end": 174.26,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Krillin, are you sure my Dad's going to be okay all on his own?"
+  },
+  {
+   "i": 60,
+   "start": 174.26,
+   "end": 178.86,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Oh, come on, Gohan. You saw how much stronger your dad's become. I'm sure he can take care of--"
+  },
+  {
+   "i": 61,
+   "start": 178.86,
+   "end": 182.78,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "AAAAAAAAAH...!"
+  },
+  {
+   "i": 62,
+   "start": 183.68,
+   "end": 186.24,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Ah, Jesus Christ Vampire Hunter..."
+  },
+  {
+   "i": 63,
+   "start": 186.74,
+   "end": 188.3,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "AAAAAAAAAUGH!"
+  },
+  {
+   "i": 64,
+   "start": 188.3,
+   "end": 191.32,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "All right, Kakarot. Let's hear those bones shatter!"
+  },
+  {
+   "i": 65,
+   "start": 191.32,
+   "end": 191.82,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "CRUNCH"
+  },
+  {
+   "i": 66,
+   "start": 191.82,
+   "end": 192.92,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "AAUAGH--{SQUEAK}"
+  },
+  {
+   "i": 67,
+   "start": 193.5,
+   "end": 194.12,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "What the..."
+  },
+  {
+   "i": 68,
+   "start": 194.38,
+   "end": 195.24,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "AUAGH--{SQUEAK}"
+  },
+  {
+   "i": 69,
+   "start": 195.6,
+   "end": 197.6,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Oh my God, that's hilarious!"
+  },
+  {
+   "i": 70,
+   "start": 197.6,
+   "end": 199.9,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "Repetitive squeaks"
+  },
+  {
+   "i": 71,
+   "start": 197.6,
+   "end": 199.9,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Hahahaha, muhahahahaha!"
+  },
+  {
+   "i": 72,
+   "start": 199.9,
+   "end": 203.58,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Get your filthy hands off of him, you damn dirty ape!"
+  },
+  {
+   "i": 73,
+   "start": 203.58,
+   "end": 207.56,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Oh, very creative. And what exactly will you do if I don't?"
+  },
+  {
+   "i": 74,
+   "start": 207.56,
+   "end": 209.28,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "I'll make you regret it!"
+  },
+  {
+   "i": 75,
+   "start": 209.28,
+   "end": 219.3,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Law of mass dictates that the mass of an object dramatically increases the force of impact when said object collides with the ground; and, with your size, you'll make an extensively large impact upon your inevitable defeat!"
+  },
+  {
+   "i": 76,
+   "start": 220.78,
+   "end": 221.48,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "...What?"
+  },
+  {
+   "i": 77,
+   "start": 220.78,
+   "end": 221.48,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "...What?"
+  },
+  {
+   "i": 78,
+   "start": 221.84,
+   "end": 225.1,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "The bigger they are, the harder they *fall*!"
+  },
+  {
+   "i": 79,
+   "start": 228.68,
+   "end": 229.18,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "...What?"
+  },
+  {
+   "i": 80,
+   "start": 229.18,
+   "end": 229.68,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "SQUEAK"
+  },
+  {
+   "i": 81,
+   "start": 229.68,
+   "end": 232.5,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "ARGH! Stop that!"
+  },
+  {
+   "i": 82,
+   "start": 232.5,
+   "end": 238.5,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Listen, kid, you're real brave and all, but your dad's beaten and broken, and neither of you have the skill or energy--"
+  },
+  {
+   "i": 83,
+   "start": 238.5,
+   "end": 239.48,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Kienzan!"
+  },
+  {
+   "i": 84,
+   "start": 239.9,
+   "end": 240.54,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Thud"
+  },
+  {
+   "i": 85,
+   "start": 240.9,
+   "end": 242.02,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "...to take me on."
+  },
+  {
+   "i": 86,
+   "start": 242.52,
+   "end": 243.82,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Da-a-amnit!"
+  },
+  {
+   "i": 87,
+   "start": 243.88,
+   "end": 247.1,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "You're finished! All of your planet's greatest fighters!"
+  },
+  {
+   "i": 88,
+   "start": 247.1,
+   "end": 251.14,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "ALL of them *worthless* in the presence of a Saiyan elite!"
+  },
+  {
+   "i": 89,
+   "start": 251.14,
+   "end": 253.76,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "None of you can stop me! NONE OF YOU--!"
+  },
+  {
+   "i": 90,
+   "start": 253.76,
+   "end": 255.08,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Slash"
+  },
+  {
+   "i": 91,
+   "start": 253.76,
+   "end": 255.08,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Uhhh-uh..?"
+  },
+  {
+   "i": 92,
+   "start": 255.08,
+   "end": 258.34,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Dramatic drum beat"
+  },
+  {
+   "i": 93,
+   "start": 258.86,
+   "end": 260.28,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Thud"
+  },
+  {
+   "i": 94,
+   "start": 261.16,
+   "end": 262.94,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "Runningrunningrunningrunningrunning!"
+  },
+  {
+   "i": 95,
+   "start": 263.24,
+   "end": 264.68,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Uh, ohh..."
+  },
+  {
+   "i": 96,
+   "start": 264.9,
+   "end": 265.88,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Thud"
+  },
+  {
+   "i": 97,
+   "start": 264.9,
+   "end": 265.88,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "SQUEAK"
+  },
+  {
+   "i": 98,
+   "start": 264.9,
+   "end": 265.88,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Ow..."
+  },
+  {
+   "i": 99,
+   "start": 266.4,
+   "end": 275.6,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "God... ....damn iiiiiiii (voice transitions from growly to normal) iiiit."
+  },
+  {
+   "i": 100,
+   "start": 276.34,
+   "end": 280.24,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Haaa...."
+  },
+  {
+   "i": 101,
+   "start": 280.24,
+   "end": 281.38,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "He's back to normal!"
+  },
+  {
+   "i": 102,
+   "start": 281.72,
+   "end": 283.58,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Gohan, we can do this!"
+  },
+  {
+   "i": 103,
+   "start": 283.76,
+   "end": 285.72,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "We can beat him! WE HAVE A CHAN--!"
+  },
+  {
+   "i": 104,
+   "start": 285.96,
+   "end": 286.56,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Aha!"
+  },
+  {
+   "i": 105,
+   "start": 288.58,
+   "end": 289.08,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "DING"
+  },
+  {
+   "i": 106,
+   "start": 289.08,
+   "end": 291.88,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Oh, God... (sobbing)"
+  },
+  {
+   "i": 107,
+   "start": 292.26,
+   "end": 302.24,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "You know, I thought I'd be angrier; what with the utter humiliation and loss of my tail... or maybe I'm just so *unbelievably* enraged that I have come full circle."
+  },
+  {
+   "i": 108,
+   "start": 302.76,
+   "end": 305.44,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Oh well. Either way, it's time to put an end to this."
+  },
+  {
+   "i": 109,
+   "start": 306.9,
+   "end": 310.12,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "G...Gohan... is that you?"
+  },
+  {
+   "i": 110,
+   "start": 310.62,
+   "end": 315.5,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Hey, Daddy. I'm.... really sorry."
+  },
+  {
+   "i": 111,
+   "start": 315.96,
+   "end": 319.36,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "It's okay, Gohan. You tried your best."
+  },
+  {
+   "i": 112,
+   "start": 320.14,
+   "end": 324.32,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "At least... you got home to your mother... and told her to--"
+  },
+  {
+   "i": 113,
+   "start": 324.32,
+   "end": 330.12,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Um! Actually, I never went home. I came back to save you."
+  },
+  {
+   "i": 114,
+   "start": 331.54,
+   "end": 332.04,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh..."
+  },
+  {
+   "i": 115,
+   "start": 332.8,
+   "end": 334.4,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "D...Daddy?"
+  },
+  {
+   "i": 116,
+   "start": 334.4,
+   "end": 336.4,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Everyone makes mistakes, Gohan."
+  },
+  {
+   "i": 117,
+   "start": 337.64,
+   "end": 340.48,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "But we have to be strong now, okay?"
+  },
+  {
+   "i": 118,
+   "start": 341.06,
+   "end": 341.66,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Daddy..."
+  },
+  {
+   "i": 119,
+   "start": 342.24,
+   "end": 342.84,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Son!"
+  },
+  {
+   "i": 120,
+   "start": 342.84,
+   "end": 344.64,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♪♪"
+  },
+  {
+   "i": 121,
+   "start": 344.64,
+   "end": 345.3,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Ungh!"
+  },
+  {
+   "i": 122,
+   "start": 345.3,
+   "end": 350.36,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ DBZ intermission (pre-commercial) ♫"
+  },
+  {
+   "i": 123,
+   "start": 351.62,
+   "end": 355.1,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ DBZ intermission (post-commercial) ♫"
+  },
+  {
+   "i": 124,
+   "start": 356.3,
+   "end": 356.8,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Ugh!"
+  },
+  {
+   "i": 125,
+   "start": 356.8,
+   "end": 357.5,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "No-ho-oh!"
+  },
+  {
+   "i": 126,
+   "start": 357.72,
+   "end": 359.08,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "What now, Kakarot?"
+  },
+  {
+   "i": 127,
+   "start": 359.08,
+   "end": 366.4,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "You damaged me! You cut off my tail! You've insulted me beyond belief. But you still havn't taken my pride!"
+  },
+  {
+   "i": 128,
+   "start": 366.4,
+   "end": 367.52,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Hah!"
+  },
+  {
+   "i": 129,
+   "start": 366.4,
+   "end": 367.52,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Oh my pride!"
+  },
+  {
+   "i": 130,
+   "start": 367.84,
+   "end": 370.24,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "I'll teach you to hurt my Daddy!"
+  },
+  {
+   "i": 131,
+   "start": 370.24,
+   "end": 373.42,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "What are you going to do, huh?! You barely have any energy left!"
+  },
+  {
+   "i": 132,
+   "start": 373.42,
+   "end": 374.36,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Hah!"
+  },
+  {
+   "i": 133,
+   "start": 373.42,
+   "end": 374.36,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Uwagh!"
+  },
+  {
+   "i": 134,
+   "start": 374.36,
+   "end": 378.52,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'D'AAAH! MY EYE! Why is it always the goddamn eye?!'"
+  },
+  {
+   "i": 135,
+   "start": 378.92,
+   "end": 381.4,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "K...Krillin... come here..."
+  },
+  {
+   "i": 136,
+   "start": 381.64,
+   "end": 383.48,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I have something to give you."
+  },
+  {
+   "i": 137,
+   "start": 383.64,
+   "end": 385.16,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Your last will and testament?"
+  },
+  {
+   "i": 138,
+   "start": 385.5,
+   "end": 390.12,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "No, it's energy from the entire world. It's our last hope!"
+  },
+  {
+   "i": 139,
+   "start": 390.66,
+   "end": 392.84,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "...And you're giving it to ME...?"
+  },
+  {
+   "i": 140,
+   "start": 392.84,
+   "end": 394.64,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I'm... kind of out of options."
+  },
+  {
+   "i": 141,
+   "start": 396.8,
+   "end": 399.84,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Holy crap! So THIS is what being important feels like!"
+  },
+  {
+   "i": 142,
+   "start": 400.28,
+   "end": 401.36,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Hyah!"
+  },
+  {
+   "i": 143,
+   "start": 400.28,
+   "end": 401.36,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "AAAAAHH!"
+  },
+  {
+   "i": 144,
+   "start": 404.0,
+   "end": 407.6,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "All right, Kakarot. Say goodbye to your son!"
+  },
+  {
+   "i": 145,
+   "start": 408.28,
+   "end": 410.28,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "'Wow, such power!'"
+  },
+  {
+   "i": 146,
+   "start": 410.68,
+   "end": 412.88,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "'From every living being on the planet!'"
+  },
+  {
+   "i": 147,
+   "start": 413.36,
+   "end": 415.66,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "'I can feel it all surging inside of me.'"
+  },
+  {
+   "i": 148,
+   "start": 415.76,
+   "end": 417.76,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "'Every man, woman, and child!'"
+  },
+  {
+   "i": 149,
+   "start": 418.48,
+   "end": 421.74,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "'This... is Planet Earth's very *essence*!'"
+  },
+  {
+   "i": 150,
+   "start": 422.74,
+   "end": 424.22,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "BOOYAH, MOTHERF**KER!"
+  },
+  {
+   "i": 151,
+   "start": 426.56,
+   "end": 427.8,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Wh-what the hell is--"
+  },
+  {
+   "i": 152,
+   "start": 428.42,
+   "end": 430.42,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "ENJOY YOUR STAY IN HELL!"
+  },
+  {
+   "i": 153,
+   "start": 430.98,
+   "end": 431.58,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "RAH!"
+  },
+  {
+   "i": 154,
+   "start": 433.16,
+   "end": 435.06,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "*Gyaaaah*! *Goddamn it*!"
+  },
+  {
+   "i": 155,
+   "start": 437.24,
+   "end": 441.62,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Gohan... listen. You have to bounce it back at Vegeta!"
+  },
+  {
+   "i": 156,
+   "start": 441.62,
+   "end": 446.14,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "But, are you sure? I don't think energy works like that."
+  },
+  {
+   "i": 157,
+   "start": 446.14,
+   "end": 450.02,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Don't worry, Gohan. You can do it. You're a *good guy*!"
+  },
+  {
+   "i": 158,
+   "start": 450.36,
+   "end": 454.34,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Oh... okay... if you believe in me, then I'll--"
+  },
+  {
+   "i": 159,
+   "start": 454.34,
+   "end": 455.44,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Or, it'll kill you."
+  },
+  {
+   "i": 160,
+   "start": 455.44,
+   "end": 455.96,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "WHAT?!"
+  },
+  {
+   "i": 161,
+   "start": 455.96,
+   "end": 456.56,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "BOING"
+  },
+  {
+   "i": 162,
+   "start": 455.96,
+   "end": 456.56,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "AAAH...!"
+  },
+  {
+   "i": 163,
+   "start": 457.82,
+   "end": 461.08,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "There's nothing left now. Your last hope and you missed."
+  },
+  {
+   "i": 164,
+   "start": 461.08,
+   "end": 464.16,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "You're all defeated and there isn't a damn thing you can--"
+  },
+  {
+   "i": 165,
+   "start": 464.16,
+   "end": 465.38,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'What smells like deer?'"
+  },
+  {
+   "i": 166,
+   "start": 466.22,
+   "end": 467.74,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "WAAAAAAAGH!"
+  },
+  {
+   "i": 167,
+   "start": 467.74,
+   "end": 469.18,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "KABOOM"
+  },
+  {
+   "i": 168,
+   "start": 469.48,
+   "end": 471.62,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "CURSE MY HUBRIS!!!"
+  },
+  {
+   "i": 169,
+   "start": 476.58,
+   "end": 477.8,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "YAHOO!!"
+  },
+  {
+   "i": 170,
+   "start": 477.8,
+   "end": 482.08,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Goku, we did it! We won! We beat him with the Spirit Bomb!"
+  },
+  {
+   "i": 171,
+   "start": 482.08,
+   "end": 483.42,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Way to go, you guys."
+  },
+  {
+   "i": 172,
+   "start": 484.26,
+   "end": 486.26,
+   "kind": "direction",
+   "speaker": "Gohan",
+   "text": "Laughing"
+  },
+  {
+   "i": 173,
+   "start": 488.94,
+   "end": 491.94,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "All right, Goku. Let's get you and Gohan home."
+  },
+  {
+   "i": 174,
+   "start": 492.46,
+   "end": 497.54,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "It's been tough, but now, we'll never have to see that rotten Saiyan ever again."
+  },
+  {
+   "i": 175,
+   "start": 497.72,
+   "end": 498.78,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "WHAM"
+  },
+  {
+   "i": 176,
+   "start": 499.58,
+   "end": 503.06,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "*Alive* again. We'll never have to see him alive again, that's what I meant."
+  },
+  {
+   "i": 177,
+   "start": 504.16,
+   "end": 507.02,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "(Sigh)... but at least it's finally over."
+  },
+  {
+   "i": 178,
+   "start": 507.46,
+   "end": 508.98,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "You gunna eat that Saiyan?"
+  },
+  {
+   "i": 179,
+   "start": 510.04,
+   "end": 510.54,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "...Wha--?"
+  },
+  {
+   "i": 180,
+   "start": 510.54,
+   "end": 511.04,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "Dibs!"
+  },
+  {
+   "i": 181,
+   "start": 512.18,
+   "end": 516.74,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Rrright... anyway, it seems the Spirit Bomb's done the trick."
+  },
+  {
+   "i": 182,
+   "start": 516.74,
+   "end": 519.64,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "And with that, we can all go home and live in peace and--"
+  },
+  {
+   "i": 183,
+   "start": 519.64,
+   "end": 525.66,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "HUAAAAAAAH!!"
+  },
+  {
+   "i": 184,
+   "start": 520.8,
+   "end": 524.48,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "WAAAAAAHH!!"
+  },
+  {
+   "i": 185,
+   "start": 522.08,
+   "end": 527.0,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "AAAAAAAAGH!!"
+  },
+  {
+   "i": 186,
+   "start": 523.26,
+   "end": 528.5,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "AAAAAAAHH!!"
+  },
+  {
+   "i": 187,
+   "start": 524.48,
+   "end": 529.92,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "UAAAAAHHH!!"
+  },
+  {
+   "i": 188,
+   "start": 525.66,
+   "end": 529.92,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "WAAAAAHH!!"
+  },
+  {
+   "i": 189,
+   "start": 527.0,
+   "end": 529.92,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "AAAAAAH!!"
+  },
+  {
+   "i": 190,
+   "start": 528.5,
+   "end": 529.92,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "UAAAAHHH!!"
+  },
+  {
+   "i": 191,
+   "start": 529.92,
+   "end": 531.42,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "What's goin' on, guys?"
+  },
+  {
+   "i": 192,
+   "start": 532.5,
+   "end": 533.44,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "We won, right?"
+  }
+ ],
+ "segments": [
+  {
+   "start": 42.6,
+   "end": 62.9,
+   "title": "Like Walking In on Freeza in the Shower",
+   "quote": "Oh God, it's like walking in on Freeza in the shower! Wait a minute, Freeza's always naked...",
+   "line_start": 9,
+   "line_end": 17
+  },
+  {
+   "start": 83.0,
+   "end": 100.2,
+   "title": "Maybe a Little More Wouldn't Hurt",
+   "quote": "Daddy?",
+   "line_start": 25,
+   "line_end": 28
+  },
+  {
+   "start": 117.9,
+   "end": 136.2,
+   "title": "Don't Care; Evil!",
+   "quote": "What's the opposite of Christopher Walken? Christopher Reeves! / Don't care; evil!",
+   "line_start": 35,
+   "line_end": 41
+  },
+  {
+   "start": 187.8,
+   "end": 204.0,
+   "title": "Squeaky Toy Goku",
+   "quote": "Oh my God, that's hilarious! / Get your filthy hands off of him, you damn dirty ape!",
+   "line_start": 64,
+   "line_end": 72
+  },
+  {
+   "start": 203.1,
+   "end": 230.2,
+   "title": "The Bigger They Are",
+   "quote": "The bigger they are, the harder they *fall*! / ...What?",
+   "line_start": 73,
+   "line_end": 81
+  },
+  {
+   "start": 250.6,
+   "end": 276.0,
+   "title": "Runningrunningrunning",
+   "quote": "Runningrunningrunningrunningrunning!",
+   "line_start": 89,
+   "line_end": 99
+  },
+  {
+   "start": 291.8,
+   "end": 305.4,
+   "title": "Come Full Circle",
+   "quote": "...or maybe I'm just so *unbelievably* enraged that I have come full circle.",
+   "line_start": 107,
+   "line_end": 108
+  },
+  {
+   "start": 378.4,
+   "end": 400.0,
+   "title": "So THIS Is What Being Important Feels Like",
+   "quote": "Holy crap! So THIS is what being important feels like!",
+   "line_start": 135,
+   "line_end": 141
+  },
+  {
+   "start": 407.8,
+   "end": 435.1,
+   "title": "BOOYAH, MOTHERF**KER!",
+   "quote": "This... is Planet Earth's very *essence*! BOOYAH, MOTHERF**KER!",
+   "line_start": 145,
+   "line_end": 154
+  },
+  {
+   "start": 436.7,
+   "end": 457.0,
+   "title": "Or, It'll Kill You",
+   "quote": "You're a *good guy*! / ...Or, it'll kill you.",
+   "line_start": 155,
+   "line_end": 162
+  },
+  {
+   "start": 457.3,
+   "end": 472.5,
+   "title": "CURSE MY HUBRIS!",
+   "quote": "'What smells like deer?' / CURSE MY HUBRIS!!!",
+   "line_start": 163,
+   "line_end": 168
+  },
+  {
+   "start": 503.6,
+   "end": 511.5,
+   "title": "You Gunna Eat That Saiyan?",
+   "quote": "You gunna eat that Saiyan? / ...Dibs!",
+   "line_start": 177,
+   "line_end": 180
+  }
+ ]
+}

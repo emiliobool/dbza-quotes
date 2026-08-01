@@ -1,0 +1,78 @@
+---
+import Base from "../../layouts/Base.astro";
+import site from "../../gen/site.json";
+import { fmtTime, ytThumb, ytLink, mediaLabel, clipUrl } from "../../lib/util.js";
+
+export function getStaticPaths() {
+  return site.shows.flatMap((s) =>
+    site.media[s.id].map((m) => ({ params: { show: s.id, item: m.id } }))
+  );
+}
+const { show, item } = Astro.params;
+const m = site.media[show].find((x) => x.id === item);
+
+const transcripts = import.meta.glob("../../../content/transcripts/**/*.json", { eager: true });
+const t = transcripts[`../../../content/transcripts/${show}/${item}.json`];
+const lines = t.lines;
+const segments = t.segments ?? [];
+const dialogCount = lines.filter((l) => l.kind === "dialog").length;
+---
+
+<Base
+  title={`${m.title} — transcript | DBZA Quotes`}
+  description={`Full searchable transcript of ${mediaLabel(m)} (${dialogCount} lines). Link any moment.`}
+  ogImage={ytThumb(m.youtube)}
+>
+  <p class="meta"><a href={`/${show}/`}>← All episodes</a></p>
+  <h1>{m.title}</h1>
+  <p class="meta">
+    {fmtTime(m.duration)} · {dialogCount} dialog lines ·
+    <a href={ytLink(m.youtube)}>Watch on YouTube</a> ·
+    <a href={clipUrl(show, item, 0, 15)}>Open in clip editor</a>
+  </p>
+
+  {segments.length > 0 && (
+    <>
+      <h2>Moments</h2>
+      <div class="clip-grid">
+        {segments.map((s) => (
+          <a class="clip-card" href={clipUrl(show, item, s.start, s.end)}>
+            <div class="pad">
+              <div class="title">{s.title}</div>
+              <div class="meta">{fmtTime(s.start)} · {Math.round(s.end - s.start)}s</div>
+            </div>
+          </a>
+        ))}
+      </div>
+    </>
+  )}
+
+  <h2>Transcript</h2>
+  <p class="meta">Click a timestamp to open that moment in the clip editor.</p>
+  <div class="transcript card">
+    {lines.map((l) => (
+      <div class={`line ${l.kind}`} id={`L${l.i}`}>
+        <a class="tstamp" href={clipUrl(show, item, Math.max(0, l.start - 1), l.end + 1.5)}>{fmtTime(l.start)}</a>
+        <div class="text">
+          {l.kind === "dialog" ? (
+            <>
+              {l.speaker && <span class="speaker">{l.speaker}: </span>}
+              {l.text}
+            </>
+          ) : (
+            <>[{l.text}]</>
+          )}
+        </div>
+      </div>
+    ))}
+  </div>
+</Base>
+
+<script>
+  // highlight a deep-linked line (#L123)
+  const hash = location.hash;
+  if (/^#L\d+$/.test(hash)) {
+    const el = document.getElementById(hash.slice(1));
+    if (el) { el.classList.add("active"); el.scrollIntoView({ block: "center" }); }
+  }
+</script>

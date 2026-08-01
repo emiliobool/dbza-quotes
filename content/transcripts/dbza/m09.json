@@ -1,0 +1,3211 @@
+{
+ "item": "m09",
+ "show": "dbza",
+ "youtube": "C8yC02d7UZY",
+ "title": "The Return of Cooler",
+ "duration": 1094,
+ "lines": [
+  {
+   "i": 0,
+   "start": 11.5,
+   "end": 13.5,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ (within the ship)"
+  },
+  {
+   "i": 1,
+   "start": 17.7,
+   "end": 20.52,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "So Dad, what's the first thing you wanna do when we get to Namek?"
+  },
+  {
+   "i": 2,
+   "start": 20.88,
+   "end": 24.92,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Yajirobe is heard eating the background"
+  },
+  {
+   "i": 3,
+   "start": 20.88,
+   "end": 24.92,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Maybe go fishing? Camping? Any thing that doesn't involve training?"
+  },
+  {
+   "i": 4,
+   "start": 24.92,
+   "end": 28.18,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I'm gonna be first in line to try some old fashioned Namekian cooking."
+  },
+  {
+   "i": 5,
+   "start": 28.72,
+   "end": 30.66,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "...I don't see that happening..."
+  },
+  {
+   "i": 6,
+   "start": 30.66,
+   "end": 32.52,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Not with THAT attitude!"
+  },
+  {
+   "i": 7,
+   "start": 32.52,
+   "end": 34.88,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I'm looking forward to a relaxing vacation!"
+  },
+  {
+   "i": 8,
+   "start": 34.88,
+   "end": 37.86,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "This'll be the first time that I've been on Namek where I haven't been beaten up!"
+  },
+  {
+   "i": 9,
+   "start": 38.22,
+   "end": 39.06,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "...Or stabbed!"
+  },
+  {
+   "i": 10,
+   "start": 39.56,
+   "end": 40.48,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "...Or exploded!"
+  },
+  {
+   "i": 11,
+   "start": 40.66,
+   "end": 44.76,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "*I'm* looking to get with some sexy Namekian ladies!"
+  },
+  {
+   "i": 12,
+   "start": 45.44,
+   "end": 47.68,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "...I... don't see that happening..."
+  },
+  {
+   "i": 13,
+   "start": 47.68,
+   "end": 49.3,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "Not with THAT attitude!"
+  },
+  {
+   "i": 14,
+   "start": 49.3,
+   "end": 52.14,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "I'm just looking forward to getting some time away from Korin."
+  },
+  {
+   "i": 15,
+   "start": 52.14,
+   "end": 56.0,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Are you two fighting? Because I notice a distinct lack of cat hair on you."
+  },
+  {
+   "i": 16,
+   "start": 56.0,
+   "end": 58.36,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "Yum (eating noise intensifies)"
+  },
+  {
+   "i": 17,
+   "start": 58.36,
+   "end": 61.6,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hey, Piccolo! What's your favorite Namekian dish?"
+  },
+  {
+   "i": 18,
+   "start": 61.92,
+   "end": 66.58,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Dad... I hate to break it to you, but... Namekians don't eat."
+  },
+  {
+   "i": 19,
+   "start": 66.98,
+   "end": 69.02,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "That's weird. They're weird."
+  },
+  {
+   "i": 20,
+   "start": 69.9,
+   "end": 72.2,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'So, haven't been home in a while eh, Kami?'"
+  },
+  {
+   "i": 21,
+   "start": 72.2,
+   "end": 74.22,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "'Bout 500 years, give or take.'"
+  },
+  {
+   "i": 22,
+   "start": 74.42,
+   "end": 76.24,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Eh. You're not missing much."
+  },
+  {
+   "i": 23,
+   "start": 76.24,
+   "end": 77.66,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "'Oh, please.'"
+  },
+  {
+   "i": 24,
+   "start": 77.66,
+   "end": 88.12,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "'Unlike you, I remember the halcyon days of our planet... Beautiful blue landscapes, a thriving culture... Our beautiful kinship with our Albino brothers.'"
+  },
+  {
+   "i": 25,
+   "start": 88.12,
+   "end": 89.58,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'Oooooh...'"
+  },
+  {
+   "i": 26,
+   "start": 88.12,
+   "end": 89.58,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'Oooooh...'"
+  },
+  {
+   "i": 27,
+   "start": 90.0,
+   "end": 90.58,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "'What?'"
+  },
+  {
+   "i": 28,
+   "start": 93.56,
+   "end": 96.62,
+   "kind": "dialog",
+   "speaker": "Oolong",
+   "text": "...Uh, guys? Can a planet get cancer?"
+  },
+  {
+   "i": 29,
+   "start": 96.62,
+   "end": 97.92,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "That's a weird question, why do you--"
+  },
+  {
+   "i": 30,
+   "start": 97.92,
+   "end": 99.6,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "*Whoa*, wow!"
+  },
+  {
+   "i": 31,
+   "start": 100.08,
+   "end": 102.4,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "If it needs some inspectin', I'm your man!"
+  },
+  {
+   "i": 32,
+   "start": 102.62,
+   "end": 106.86,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "I've done my share of mammograms in my day if you catch my drift!"
+  },
+  {
+   "i": 33,
+   "start": 106.86,
+   "end": 109.2,
+   "kind": "dialog",
+   "speaker": "Oolong",
+   "text": "When I do them, they're called \"hammograms\"."
+  },
+  {
+   "i": 34,
+   "start": 109.2,
+   "end": 110.56,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "That'll do, pig."
+  },
+  {
+   "i": 35,
+   "start": 110.76,
+   "end": 113.8,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh, boy. Someone should probably go tell Piccolo."
+  },
+  {
+   "i": 36,
+   "start": 113.8,
+   "end": 115.2,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Someone should go tell Piccolo"
+  },
+  {
+   "i": 37,
+   "start": 115.2,
+   "end": 119.9,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "*whaaaaAAAAAAAAAaaaahhh*...!!"
+  },
+  {
+   "i": 38,
+   "start": 142.84,
+   "end": 144.96,
+   "kind": "dialog",
+   "speaker": "Cycloid",
+   "text": "BEEP"
+  },
+  {
+   "i": 39,
+   "start": 149.36,
+   "end": 150.78,
+   "kind": "dialog",
+   "speaker": "Keel",
+   "text": "'That's it.'"
+  },
+  {
+   "i": 40,
+   "start": 150.78,
+   "end": 152.34,
+   "kind": "dialog",
+   "speaker": "Keel",
+   "text": "'Enough of this.'"
+  },
+  {
+   "i": 41,
+   "start": 152.34,
+   "end": 154.66,
+   "kind": "dialog",
+   "speaker": "Keel",
+   "text": "'Time to f**k some FACE!'"
+  },
+  {
+   "i": 42,
+   "start": 154.66,
+   "end": 155.16,
+   "kind": "dialog",
+   "speaker": "Cycloid",
+   "text": "BEEP"
+  },
+  {
+   "i": 43,
+   "start": 155.84,
+   "end": 157.0,
+   "kind": "dialog",
+   "speaker": "Keel",
+   "text": "Oh no, my face!"
+  },
+  {
+   "i": 44,
+   "start": 157.8,
+   "end": 161.96,
+   "kind": "dialog",
+   "speaker": "Mouri",
+   "text": "No, please! He's but a boy. He knows not what he does!"
+  },
+  {
+   "i": 45,
+   "start": 161.96,
+   "end": 163.38,
+   "kind": "dialog",
+   "speaker": "Cycloid",
+   "text": "BEEP"
+  },
+  {
+   "i": 46,
+   "start": 163.38,
+   "end": 165.3,
+   "kind": "dialog",
+   "speaker": "Mouri",
+   "text": "You're so cruel..."
+  },
+  {
+   "i": 47,
+   "start": 165.68,
+   "end": 166.18,
+   "kind": "dialog",
+   "speaker": "Cycloid",
+   "text": "BEEP"
+  },
+  {
+   "i": 48,
+   "start": 166.88,
+   "end": 167.38,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Hyah!"
+  },
+  {
+   "i": 49,
+   "start": 174.8,
+   "end": 179.74,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I don't want to have to solve this with violence, but I also *really* wanna punch you."
+  },
+  {
+   "i": 50,
+   "start": 181.08,
+   "end": 182.04,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "And your friends."
+  },
+  {
+   "i": 51,
+   "start": 182.14,
+   "end": 182.64,
+   "kind": "dialog",
+   "speaker": "Cycloid",
+   "text": "BEEP"
+  },
+  {
+   "i": 52,
+   "start": 182.74,
+   "end": 184.12,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "That one's askin' for it!"
+  },
+  {
+   "i": 53,
+   "start": 184.3,
+   "end": 186.3,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "What are you even doing on New Namek?"
+  },
+  {
+   "i": 54,
+   "start": 186.4,
+   "end": 186.9,
+   "kind": "dialog",
+   "speaker": "Cycloid",
+   "text": "BEEP"
+  },
+  {
+   "i": 55,
+   "start": 187.24,
+   "end": 187.82,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "A what?"
+  },
+  {
+   "i": 56,
+   "start": 188.32,
+   "end": 191.94,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Well, I think we have one on the ship, but the sodas aren't cold yet."
+  },
+  {
+   "i": 57,
+   "start": 192.14,
+   "end": 194.62,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "META-COOLER (cyborg voice): I believe they're referring to me."
+  },
+  {
+   "i": 58,
+   "start": 199.14,
+   "end": 200.78,
+   "kind": "dialog",
+   "speaker": "Meta-Cooler",
+   "text": "I believe they're referring to me."
+  },
+  {
+   "i": 59,
+   "start": 200.78,
+   "end": 203.42,
+   "kind": "dialog",
+   "speaker": "Meta-Cooler",
+   "text": "Thank you, thank you. You're too kind."
+  },
+  {
+   "i": 60,
+   "start": 200.78,
+   "end": 203.42,
+   "kind": "dialog",
+   "speaker": "All Cycloids",
+   "text": "(Beeps of applause)"
+  },
+  {
+   "i": 61,
+   "start": 203.6,
+   "end": 204.22,
+   "kind": "dialog",
+   "speaker": "Cycloid",
+   "text": "BEEP"
+  },
+  {
+   "i": 62,
+   "start": 204.22,
+   "end": 206.08,
+   "kind": "dialog",
+   "speaker": "Meta-Cooler",
+   "text": "And you're just brown-nosing."
+  },
+  {
+   "i": 63,
+   "start": 206.22,
+   "end": 208.9,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "So, you return once again, Freezer."
+  },
+  {
+   "i": 64,
+   "start": 208.9,
+   "end": 209.4,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Cooler."
+  },
+  {
+   "i": 65,
+   "start": 209.4,
+   "end": 210.0,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Cooler."
+  },
+  {
+   "i": 66,
+   "start": 210.18,
+   "end": 212.96,
+   "kind": "dialog",
+   "speaker": "Meta-Cooler",
+   "text": "Yes, I have returned, *dumbass*."
+  },
+  {
+   "i": 67,
+   "start": 212.96,
+   "end": 213.46,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Goku."
+  },
+  {
+   "i": 68,
+   "start": 213.46,
+   "end": 214.54,
+   "kind": "dialog",
+   "speaker": "Meta-Cooler",
+   "text": "*DUMBASS*."
+  },
+  {
+   "i": 69,
+   "start": 214.54,
+   "end": 216.98,
+   "kind": "dialog",
+   "speaker": "Meta-Cooler",
+   "text": "With the help of the Big Gete Star!"
+  },
+  {
+   "i": 70,
+   "start": 216.98,
+   "end": 218.42,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "HA, ha-ha-ha-ha-ha!"
+  },
+  {
+   "i": 71,
+   "start": 218.42,
+   "end": 222.6,
+   "kind": "dialog",
+   "speaker": "Meta-Cooler",
+   "text": "Thanks to it, I have been reborn with this new dynamic, metal form."
+  },
+  {
+   "i": 72,
+   "start": 222.94,
+   "end": 225.8,
+   "kind": "dialog",
+   "speaker": "Meta-Cooler",
+   "text": "With it, we have entrapped this planet."
+  },
+  {
+   "i": 73,
+   "start": 225.96,
+   "end": 226.92,
+   "kind": "dialog",
+   "speaker": "Meta-Cooler",
+   "text": "And now..."
+  },
+  {
+   "i": 74,
+   "start": 227.6,
+   "end": 229.98,
+   "kind": "dialog",
+   "speaker": "Meta-Cooler",
+   "text": "...we are going to f**k it."
+  },
+  {
+   "i": 75,
+   "start": 230.34,
+   "end": 231.54,
+   "kind": "dialog",
+   "speaker": "Meta-Cooler",
+   "text": "Both figuratively..."
+  },
+  {
+   "i": 76,
+   "start": 233.68,
+   "end": 236.46,
+   "kind": "dialog",
+   "speaker": "Meta-Cooler",
+   "text": "And *very literally*."
+  },
+  {
+   "i": 77,
+   "start": 237.16,
+   "end": 240.46,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "...You know, just because it can't reject you, doesn't imply consent."
+  },
+  {
+   "i": 78,
+   "start": 240.64,
+   "end": 243.1,
+   "kind": "dialog",
+   "speaker": "Meta-Cooler",
+   "text": "Now - what say you?"
+  },
+  {
+   "i": 79,
+   "start": 243.36,
+   "end": 244.32,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Freeza did it."
+  },
+  {
+   "i": 80,
+   "start": 244.32,
+   "end": 245.18,
+   "kind": "dialog",
+   "speaker": "Meta-Cooler",
+   "text": "Excuse you?"
+  },
+  {
+   "i": 81,
+   "start": 245.4,
+   "end": 248.9,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "The robot thing; Freeza did it. When he came back to Earth..."
+  },
+  {
+   "i": 82,
+   "start": 249.08,
+   "end": 250.42,
+   "kind": "dialog",
+   "speaker": "Meta-Cooler",
+   "text": "But, that's not the same; I--"
+  },
+  {
+   "i": 83,
+   "start": 250.42,
+   "end": 253.26,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "*After* he took over Namek, like you are now."
+  },
+  {
+   "i": 84,
+   "start": 253.26,
+   "end": 255.46,
+   "kind": "dialog",
+   "speaker": "Meta-Cooler",
+   "text": "Wait! He *destroyed* Namek!"
+  },
+  {
+   "i": 85,
+   "start": 255.46,
+   "end": 256.56,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Well, this is New Namek."
+  },
+  {
+   "i": 86,
+   "start": 256.56,
+   "end": 258.44,
+   "kind": "dialog",
+   "speaker": "Meta-Cooler",
+   "text": "So it's completely *different*!"
+  },
+  {
+   "i": 87,
+   "start": 258.44,
+   "end": 260.56,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Yeah - about as different as you are from Freeza."
+  },
+  {
+   "i": 88,
+   "start": 260.56,
+   "end": 261.6,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Shots fired!"
+  },
+  {
+   "i": 89,
+   "start": 261.6,
+   "end": 262.46,
+   "kind": "dialog",
+   "speaker": "Meta-Cooler",
+   "text": "Kill the bald one."
+  },
+  {
+   "i": 90,
+   "start": 262.46,
+   "end": 263.0,
+   "kind": "dialog",
+   "speaker": "Cycloid",
+   "text": "BEEP"
+  },
+  {
+   "i": 91,
+   "start": 263.0,
+   "end": 263.5,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Freeza did it--"
+  },
+  {
+   "i": 92,
+   "start": 263.5,
+   "end": 264.16,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "AYRRG!"
+  },
+  {
+   "i": 93,
+   "start": 265.74,
+   "end": 266.24,
+   "kind": "dialog",
+   "speaker": "Cycloid",
+   "text": "BEEP"
+  },
+  {
+   "i": 94,
+   "start": 266.24,
+   "end": 266.74,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Eep!"
+  },
+  {
+   "i": 95,
+   "start": 267.08,
+   "end": 269.14,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Stop being a bunch of pansies!"
+  },
+  {
+   "i": 96,
+   "start": 269.86,
+   "end": 273.98,
+   "kind": "dialog",
+   "speaker": "Oolong",
+   "text": "I'm gonna die on an alien planet! Dammit, I'm becoming Krillin!"
+  },
+  {
+   "i": 97,
+   "start": 273.98,
+   "end": 277.5,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "Calm your tits, Scrabo-breath. Master Roshi's got this one."
+  },
+  {
+   "i": 98,
+   "start": 277.98,
+   "end": 280.1,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "I have many things..."
+  },
+  {
+   "i": 99,
+   "start": 280.1,
+   "end": 284.66,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "*A best friend who's a turtle... * An island... * Chlamydia..."
+  },
+  {
+   "i": 100,
+   "start": 284.66,
+   "end": 286.96,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "This... is not one of 'em."
+  },
+  {
+   "i": 101,
+   "start": 287.3,
+   "end": 289.42,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "Oh... well then, what do we--"
+  },
+  {
+   "i": 102,
+   "start": 289.42,
+   "end": 292.02,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "(Groaning)"
+  },
+  {
+   "i": 103,
+   "start": 292.02,
+   "end": 296.06,
+   "kind": "dialog",
+   "speaker": "Oolong",
+   "text": "Hey, Master Roshi! Why don't ya try giving them the clap, ya jackass?!"
+  },
+  {
+   "i": 104,
+   "start": 298.18,
+   "end": 300.3,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(Grunts of exertion)"
+  },
+  {
+   "i": 105,
+   "start": 300.8,
+   "end": 302.3,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(Grunts of pain)"
+  },
+  {
+   "i": 106,
+   "start": 306.16,
+   "end": 308.9,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "So, I keep punching you, but you ain't budgin'."
+  },
+  {
+   "i": 107,
+   "start": 308.9,
+   "end": 311.28,
+   "kind": "dialog",
+   "speaker": "Meta-Cooler",
+   "text": "That would be my new metal body."
+  },
+  {
+   "i": 108,
+   "start": 311.28,
+   "end": 313.54,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Which you got from the Spaghetti Star, right?"
+  },
+  {
+   "i": 109,
+   "start": 314.46,
+   "end": 318.0,
+   "kind": "dialog",
+   "speaker": "Meta-Cooler",
+   "text": "...Not dignifying that. Look, why don't you just turn Super Saiyan?"
+  },
+  {
+   "i": 110,
+   "start": 318.0,
+   "end": 320.08,
+   "kind": "dialog",
+   "speaker": "Meta-Cooler",
+   "text": "Then we can get *serious*."
+  },
+  {
+   "i": 111,
+   "start": 320.22,
+   "end": 323.04,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "But I don't want to end the fight *yet*; we just started..."
+  },
+  {
+   "i": 112,
+   "start": 323.14,
+   "end": 325.62,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I mean, why don't you use that little mask thing?"
+  },
+  {
+   "i": 113,
+   "start": 325.62,
+   "end": 328.54,
+   "kind": "dialog",
+   "speaker": "Meta-Cooler",
+   "text": "Good question. But I've got a better one, though:"
+  },
+  {
+   "i": 114,
+   "start": 328.8,
+   "end": 330.68,
+   "kind": "dialog",
+   "speaker": "Meta-Cooler",
+   "text": "What's that thing on your face?"
+  },
+  {
+   "i": 115,
+   "start": 330.94,
+   "end": 331.6,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "What's what on thing on m--"
+  },
+  {
+   "i": 116,
+   "start": 331.6,
+   "end": 332.62,
+   "kind": "dialog",
+   "speaker": "Meta-Cooler",
+   "text": "MAH FIST!"
+  },
+  {
+   "i": 117,
+   "start": 332.62,
+   "end": 333.16,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Wauwh...!"
+  },
+  {
+   "i": 118,
+   "start": 334.08,
+   "end": 336.3,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Alright, fine! I'll go Super Saiyan."
+  },
+  {
+   "i": 119,
+   "start": 336.66,
+   "end": 337.86,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "But I'm doing this for *me*."
+  },
+  {
+   "i": 120,
+   "start": 341.12,
+   "end": 342.26,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "RAARRGH!"
+  },
+  {
+   "i": 121,
+   "start": 343.08,
+   "end": 343.58,
+   "kind": "dialog",
+   "speaker": "Cycloid",
+   "text": "BEEP"
+  },
+  {
+   "i": 122,
+   "start": 343.82,
+   "end": 344.5,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "F**k!"
+  },
+  {
+   "i": 123,
+   "start": 345.04,
+   "end": 347.98,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'Dammit! I gotta find a way to break these things...'"
+  },
+  {
+   "i": 124,
+   "start": 348.08,
+   "end": 349.94,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'Have ya tried hitting them harder?'"
+  },
+  {
+   "i": 125,
+   "start": 350.04,
+   "end": 352.38,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "That sounds like something Goku would say."
+  },
+  {
+   "i": 126,
+   "start": 352.56,
+   "end": 355.92,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "'Yes... and remember that time you've never beaten him?'"
+  },
+  {
+   "i": 127,
+   "start": 355.92,
+   "end": 357.0,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "RAAAGH~!"
+  },
+  {
+   "i": 128,
+   "start": 358.44,
+   "end": 360.16,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'Huh... it worked.'"
+  },
+  {
+   "i": 129,
+   "start": 360.32,
+   "end": 361.86,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "HiraaaaAAAA--"
+  },
+  {
+   "i": 130,
+   "start": 361.86,
+   "end": 362.88,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "IYAAH!"
+  },
+  {
+   "i": 131,
+   "start": 363.78,
+   "end": 364.78,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Heh-hey! It worked!"
+  },
+  {
+   "i": 132,
+   "start": 372.94,
+   "end": 375.64,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Wow, the Big Ghetto Star ain't no one's fool."
+  },
+  {
+   "i": 133,
+   "start": 375.9,
+   "end": 377.34,
+   "kind": "dialog",
+   "speaker": "Meta-Cooler",
+   "text": "That's right, monkey."
+  },
+  {
+   "i": 134,
+   "start": 377.62,
+   "end": 384.86,
+   "kind": "dialog",
+   "speaker": "Meta-Cooler",
+   "text": "With the power of the Big Gete Star - I can recover from any injury, no matter how intense."
+  },
+  {
+   "i": 135,
+   "start": 385.12,
+   "end": 387.94,
+   "kind": "dialog",
+   "speaker": "Meta-Cooler",
+   "text": "But enough about me. LET'S KILL YOOOUUUU~!"
+  },
+  {
+   "i": 136,
+   "start": 388.02,
+   "end": 388.58,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "D'ROAAGH!"
+  },
+  {
+   "i": 137,
+   "start": 388.58,
+   "end": 391.4,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(Choking noises)"
+  },
+  {
+   "i": 138,
+   "start": 391.4,
+   "end": 391.9,
+   "kind": "dialog",
+   "speaker": "Cycloid",
+   "text": "BEEP"
+  },
+  {
+   "i": 139,
+   "start": 391.9,
+   "end": 392.4,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "GUHG!"
+  },
+  {
+   "i": 140,
+   "start": 393.12,
+   "end": 393.62,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "UU-HAGH!"
+  },
+  {
+   "i": 141,
+   "start": 395.78,
+   "end": 396.28,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "HI GOHAN!"
+  },
+  {
+   "i": 142,
+   "start": 399.92,
+   "end": 401.14,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Any ideas?"
+  },
+  {
+   "i": 143,
+   "start": 401.32,
+   "end": 407.6,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Well, our opponents are mechanical... ...which means they'll have structural weak points we can exploit; likely their joint areas."
+  },
+  {
+   "i": 144,
+   "start": 402.94,
+   "end": 403.44,
+   "kind": "dialog",
+   "speaker": "Cycloid",
+   "text": "BEEP"
+  },
+  {
+   "i": 145,
+   "start": 407.7,
+   "end": 408.94,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "I suggest-- huh?"
+  },
+  {
+   "i": 146,
+   "start": 408.94,
+   "end": 412.64,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "I figured it out. We just need to hit them really, really hard."
+  },
+  {
+   "i": 147,
+   "start": 413.52,
+   "end": 415.62,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "...That sounds like something my Dad would say."
+  },
+  {
+   "i": 148,
+   "start": 415.62,
+   "end": 416.12,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Right!"
+  },
+  {
+   "i": 149,
+   "start": 422.92,
+   "end": 425.42,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I've prepared my whole life for this..."
+  },
+  {
+   "i": 150,
+   "start": 425.66,
+   "end": 427.26,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "IT'S KRILLER TI--!"
+  },
+  {
+   "i": 151,
+   "start": 427.26,
+   "end": 427.76,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "CRUNCH"
+  },
+  {
+   "i": 152,
+   "start": 428.92,
+   "end": 430.64,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "It's never gonna to be a thing..."
+  },
+  {
+   "i": 153,
+   "start": 431.98,
+   "end": 434.78,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Just use your friggin' Kienzan! *Christ*!"
+  },
+  {
+   "i": 154,
+   "start": 435.18,
+   "end": 436.9,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(Still choking)"
+  },
+  {
+   "i": 155,
+   "start": 436.9,
+   "end": 439.3,
+   "kind": "dialog",
+   "speaker": "Meta-Cooler",
+   "text": "My *God*, you take an eternity to choke."
+  },
+  {
+   "i": 156,
+   "start": 439.66,
+   "end": 442.16,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Is... that all you... got?"
+  },
+  {
+   "i": 157,
+   "start": 442.16,
+   "end": 443.5,
+   "kind": "dialog",
+   "speaker": "Meta-Cooler",
+   "text": "As a matter of fact...!"
+  },
+  {
+   "i": 158,
+   "start": 444.1,
+   "end": 446.2,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Aah, regret, *regret*!"
+  },
+  {
+   "i": 159,
+   "start": 446.64,
+   "end": 447.42,
+   "kind": "dialog",
+   "speaker": "Meta-Cooler",
+   "text": "GAUGH...!"
+  },
+  {
+   "i": 160,
+   "start": 450.16,
+   "end": 453.64,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh, hey Vegeta. When and how did you get here?"
+  },
+  {
+   "i": 161,
+   "start": 453.78,
+   "end": 458.9,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Apologies. But if anyone's going to kill Kakarot... *it's me*."
+  },
+  {
+   "i": 162,
+   "start": 459.3,
+   "end": 460.88,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "And you're not even that good at it."
+  },
+  {
+   "i": 163,
+   "start": 460.88,
+   "end": 462.34,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Shut your hole, Kakarot."
+  },
+  {
+   "i": 164,
+   "start": 462.64,
+   "end": 466.5,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Anyway, we meet at last... Cooler."
+  },
+  {
+   "i": 165,
+   "start": 466.5,
+   "end": 468.46,
+   "kind": "dialog",
+   "speaker": "Meta-Cooler",
+   "text": "Yes, we do..."
+  },
+  {
+   "i": 166,
+   "start": 468.46,
+   "end": 469.6,
+   "kind": "dialog",
+   "speaker": "Meta-Cooler",
+   "text": "...y-you?"
+  },
+  {
+   "i": 167,
+   "start": 469.6,
+   "end": 472.08,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Wait. Do you not know who I am?"
+  },
+  {
+   "i": 168,
+   "start": 472.08,
+   "end": 472.88,
+   "kind": "dialog",
+   "speaker": "Meta-Cooler",
+   "text": "*Should I*?"
+  },
+  {
+   "i": 169,
+   "start": 473.18,
+   "end": 483.0,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I am Vegeta: Prince of All Saiyans! Last of my Royal Blood! Bringer of Death! Destroyer of Worlds! And wrecker of your shit!"
+  },
+  {
+   "i": 170,
+   "start": 483.24,
+   "end": 488.16,
+   "kind": "dialog",
+   "speaker": "Meta-Cooler",
+   "text": "Saiyan, hm? Forgive me. I was under the impression there was only one of you."
+  },
+  {
+   "i": 171,
+   "start": 488.16,
+   "end": 491.86,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Oh, trust me... there is only *one* of *me*."
+  },
+  {
+   "i": 172,
+   "start": 492.02,
+   "end": 497.48,
+   "kind": "dialog",
+   "speaker": "Meta-Cooler",
+   "text": "Then my eyes must deceive me, because I believe I see *two dead monkeys*!"
+  },
+  {
+   "i": 173,
+   "start": 497.48,
+   "end": 498.36,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Raaah!"
+  },
+  {
+   "i": 174,
+   "start": 499.24,
+   "end": 501.36,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "AAAAAaaaaaa...!"
+  },
+  {
+   "i": 175,
+   "start": 502.18,
+   "end": 503.46,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "...rrrrrRRRAAAA--!"
+  },
+  {
+   "i": 176,
+   "start": 503.46,
+   "end": 505.26,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "AAAAAaaaaa...!"
+  },
+  {
+   "i": 177,
+   "start": 505.54,
+   "end": 506.62,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "...rrrrrRRRAAA--!"
+  },
+  {
+   "i": 178,
+   "start": 506.62,
+   "end": 508.62,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "AAAAAaaaaa...!"
+  },
+  {
+   "i": 179,
+   "start": 509.2,
+   "end": 509.76,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "...rrrrrRRRAAA--!"
+  },
+  {
+   "i": 180,
+   "start": 512.04,
+   "end": 514.7,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Multiple BEEPS as Cycloids explode"
+  },
+  {
+   "i": 181,
+   "start": 515.68,
+   "end": 516.18,
+   "kind": "dialog",
+   "speaker": "Cycloid",
+   "text": "BEEP"
+  },
+  {
+   "i": 182,
+   "start": 517.12,
+   "end": 519.3,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Mr. Piccolooo...!"
+  },
+  {
+   "i": 183,
+   "start": 519.44,
+   "end": 520.54,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "I'm coming!"
+  },
+  {
+   "i": 184,
+   "start": 520.54,
+   "end": 522.44,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Phrasing! I mean, *helllp*...!"
+  },
+  {
+   "i": 185,
+   "start": 523.36,
+   "end": 526.46,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Nice try, but you're not just gonna pull me away like--"
+  },
+  {
+   "i": 186,
+   "start": 526.58,
+   "end": 527.08,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "huh?"
+  },
+  {
+   "i": 187,
+   "start": 527.98,
+   "end": 530.7,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Ow! Ow! Ow! Ow! Ow! Dicks! *Dicks*!!"
+  },
+  {
+   "i": 188,
+   "start": 531.02,
+   "end": 533.1,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'They're just *bullets*, they're hardly even--'"
+  },
+  {
+   "i": 189,
+   "start": 534.16,
+   "end": 536.44,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'...oh cool, cannons! Those'll hurt.'"
+  },
+  {
+   "i": 190,
+   "start": 536.44,
+   "end": 538.64,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "They doooo-hoo-hoo-hoo-hoo...!"
+  },
+  {
+   "i": 191,
+   "start": 539.2,
+   "end": 540.64,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "AAAAaaaaaa...!"
+  },
+  {
+   "i": 192,
+   "start": 541.2,
+   "end": 542.84,
+   "kind": "dialog",
+   "speaker": "Meta-Cooler",
+   "text": "He's quite persistent."
+  },
+  {
+   "i": 193,
+   "start": 542.84,
+   "end": 544.14,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "You have *no* idea."
+  },
+  {
+   "i": 194,
+   "start": 544.64,
+   "end": 545.32,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "...rrRRAAHHH--!"
+  },
+  {
+   "i": 195,
+   "start": 545.32,
+   "end": 547.0,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "AAAaaaaa...!"
+  },
+  {
+   "i": 196,
+   "start": 547.5,
+   "end": 549.82,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "...He's actually a really nice guy after you get to know him."
+  },
+  {
+   "i": 197,
+   "start": 549.82,
+   "end": 550.58,
+   "kind": "dialog",
+   "speaker": "Meta-Cooler",
+   "text": "I doubt that."
+  },
+  {
+   "i": 198,
+   "start": 550.58,
+   "end": 552.82,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Son of a bitch, I got you this tiiiiii--!"
+  },
+  {
+   "i": 199,
+   "start": 553.04,
+   "end": 553.54,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "CRUNCH"
+  },
+  {
+   "i": 200,
+   "start": 553.54,
+   "end": 554.7,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "D'AAAAAA--!"
+  },
+  {
+   "i": 201,
+   "start": 554.7,
+   "end": 555.48,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Mmmmff!"
+  },
+  {
+   "i": 202,
+   "start": 555.48,
+   "end": 557.54,
+   "kind": "dialog",
+   "speaker": "Meta-Cooler",
+   "text": "You want to know what death tastes like?!"
+  },
+  {
+   "i": 203,
+   "start": 557.54,
+   "end": 559.46,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Mmmmfff! Mmmhhmmff!!"
+  },
+  {
+   "i": 204,
+   "start": 559.46,
+   "end": 560.26,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hiyaaa!"
+  },
+  {
+   "i": 205,
+   "start": 560.26,
+   "end": 560.76,
+   "kind": "dialog",
+   "speaker": "Meta-Cooler",
+   "text": "GAUGH!"
+  },
+  {
+   "i": 206,
+   "start": 561.14,
+   "end": 562.42,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Hurgh! Would you just--"
+  },
+  {
+   "i": 207,
+   "start": 562.92,
+   "end": 564.02,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "...what?! Where did you--"
+  },
+  {
+   "i": 208,
+   "start": 564.02,
+   "end": 565.8,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Don't worry! Saved ya again, best buddy!"
+  },
+  {
+   "i": 209,
+   "start": 565.8,
+   "end": 567.58,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "That's it! Killing you both!"
+  },
+  {
+   "i": 210,
+   "start": 567.58,
+   "end": 569.04,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "BIG BANG ATTACK!!"
+  },
+  {
+   "i": 211,
+   "start": 573.24,
+   "end": 579.02,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ Ave Maria ♫"
+  },
+  {
+   "i": 212,
+   "start": 574.92,
+   "end": 579.02,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "(Faint high-pitched squeal)"
+  },
+  {
+   "i": 213,
+   "start": 579.68,
+   "end": 580.18,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Huh?"
+  },
+  {
+   "i": 214,
+   "start": 580.98,
+   "end": 583.12,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Aww~, he's all tuckered out..."
+  },
+  {
+   "i": 215,
+   "start": 589.64,
+   "end": 591.66,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Alright, you get that out of your system?"
+  },
+  {
+   "i": 216,
+   "start": 591.94,
+   "end": 592.44,
+   "kind": "dialog",
+   "speaker": "Cycloid",
+   "text": "BEEP"
+  },
+  {
+   "i": 217,
+   "start": 592.68,
+   "end": 594.56,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Okay, just wanted to make sure."
+  },
+  {
+   "i": 218,
+   "start": 594.8,
+   "end": 595.36,
+   "kind": "dialog",
+   "speaker": "Cycloid",
+   "text": "BEEP"
+  },
+  {
+   "i": 219,
+   "start": 595.36,
+   "end": 596.72,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Okay, good. (Inhale)"
+  },
+  {
+   "i": 220,
+   "start": 596.72,
+   "end": 598.52,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "HRRAAAAAAAAAHH!!!"
+  },
+  {
+   "i": 221,
+   "start": 598.52,
+   "end": 600.54,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Lots of BEEPing"
+  },
+  {
+   "i": 222,
+   "start": 604.64,
+   "end": 606.64,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'Alright, better go save Gohan...'"
+  },
+  {
+   "i": 223,
+   "start": 606.82,
+   "end": 607.98,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "'What about the others?'"
+  },
+  {
+   "i": 224,
+   "start": 608.12,
+   "end": 609.44,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'What *about* the others?'"
+  },
+  {
+   "i": 225,
+   "start": 612.4,
+   "end": 614.08,
+   "kind": "dialog",
+   "speaker": "D.V.E.D",
+   "text": "Hello, meatbags!"
+  },
+  {
+   "i": 226,
+   "start": 614.08,
+   "end": 620.04,
+   "kind": "dialog",
+   "speaker": "D.V.E.D",
+   "text": "Let me be the first to congratulate you on your selection to have your life juices power the Big Gete Star!"
+  },
+  {
+   "i": 227,
+   "start": 620.04,
+   "end": 622.02,
+   "kind": "dialog",
+   "speaker": "D.V.E.D",
+   "text": "I hope the amenities are to your liking!"
+  },
+  {
+   "i": 228,
+   "start": 622.02,
+   "end": 623.02,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "They're not!"
+  },
+  {
+   "i": 229,
+   "start": 623.02,
+   "end": 625.56,
+   "kind": "dialog",
+   "speaker": "D.V.E.D",
+   "text": "Then good news! You won't be staying long!"
+  },
+  {
+   "i": 230,
+   "start": 625.56,
+   "end": 626.6,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "You're damn right!"
+  },
+  {
+   "i": 231,
+   "start": 626.6,
+   "end": 627.16,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "Eegh!"
+  },
+  {
+   "i": 232,
+   "start": 628.44,
+   "end": 632.52,
+   "kind": "dialog",
+   "speaker": "D.V.E.D",
+   "text": "Splendid! A volunteer! Quick everyone, to the de-organer!"
+  },
+  {
+   "i": 233,
+   "start": 637.0,
+   "end": 639.52,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "He keeps kickin' me in the dick!"
+  },
+  {
+   "i": 234,
+   "start": 640.18,
+   "end": 640.9,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Why?!"
+  },
+  {
+   "i": 235,
+   "start": 641.58,
+   "end": 643.92,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Why does he keep kickin' me in the dick?!"
+  },
+  {
+   "i": 236,
+   "start": 644.2,
+   "end": 646.28,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Wait! I think I might have a way to beat him!"
+  },
+  {
+   "i": 237,
+   "start": 646.28,
+   "end": 651.36,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "If you say, \"hit him really hard\", I swear to God, I will kick YOU in the dick!"
+  },
+  {
+   "i": 238,
+   "start": 651.8,
+   "end": 655.76,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I-I guess... we could hit him... really hard--"
+  },
+  {
+   "i": 239,
+   "start": 655.76,
+   "end": 656.52,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Hurrrgh...!"
+  },
+  {
+   "i": 240,
+   "start": 656.52,
+   "end": 657.98,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "--together...?"
+  },
+  {
+   "i": 241,
+   "start": 658.78,
+   "end": 659.42,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "...Whatever."
+  },
+  {
+   "i": 242,
+   "start": 659.92,
+   "end": 660.48,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "YAARGH!"
+  },
+  {
+   "i": 243,
+   "start": 660.48,
+   "end": 661.02,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "HIYAGH!"
+  },
+  {
+   "i": 244,
+   "start": 662.22,
+   "end": 663.8,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "HIYAAAGH...!"
+  },
+  {
+   "i": 245,
+   "start": 662.22,
+   "end": 663.8,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "YAAAARGH...!"
+  },
+  {
+   "i": 246,
+   "start": 670.64,
+   "end": 671.42,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hey, Vegeta!"
+  },
+  {
+   "i": 247,
+   "start": 671.92,
+   "end": 673.34,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "What works? Teamwor--!"
+  },
+  {
+   "i": 248,
+   "start": 673.34,
+   "end": 675.22,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Finish him off, you *gibbering oaf*!"
+  },
+  {
+   "i": 249,
+   "start": 675.34,
+   "end": 676.12,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "BOOM"
+  },
+  {
+   "i": 250,
+   "start": 682.9,
+   "end": 684.7,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Both Saiyans panting"
+  },
+  {
+   "i": 251,
+   "start": 687.86,
+   "end": 688.54,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "See...?"
+  },
+  {
+   "i": 252,
+   "start": 688.96,
+   "end": 692.78,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "♪ We can do anything by working with each other... ♪"
+  },
+  {
+   "i": 253,
+   "start": 692.78,
+   "end": 695.0,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "*Just shut the f**k up*, Kakarot..."
+  },
+  {
+   "i": 254,
+   "start": 697.42,
+   "end": 698.16,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hey..."
+  },
+  {
+   "i": 255,
+   "start": 698.52,
+   "end": 699.9,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "We beat him, right?"
+  },
+  {
+   "i": 256,
+   "start": 700.04,
+   "end": 700.84,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Yeah..."
+  },
+  {
+   "i": 257,
+   "start": 701.12,
+   "end": 702.48,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "He turned into smoke."
+  },
+  {
+   "i": 258,
+   "start": 703.26,
+   "end": 704.74,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Orchestal music"
+  },
+  {
+   "i": 259,
+   "start": 703.26,
+   "end": 704.74,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "...Then who's *that* guy?"
+  },
+  {
+   "i": 260,
+   "start": 705.16,
+   "end": 706.38,
+   "kind": "dialog",
+   "speaker": "Meta-Cooler",
+   "text": "Hello, buddy~!"
+  },
+  {
+   "i": 261,
+   "start": 706.78,
+   "end": 709.46,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh, right... the Serengeti Star."
+  },
+  {
+   "i": 262,
+   "start": 709.86,
+   "end": 710.98,
+   "kind": "dialog",
+   "speaker": "Meta-Coolers",
+   "text": "That's right..."
+  },
+  {
+   "i": 263,
+   "start": 711.84,
+   "end": 713.64,
+   "kind": "dialog",
+   "speaker": "Meta-Coolers",
+   "text": "I am Legion..."
+  },
+  {
+   "i": 264,
+   "start": 714.66,
+   "end": 715.66,
+   "kind": "dialog",
+   "speaker": "Meta-Coolers",
+   "text": "For we are--"
+  },
+  {
+   "i": 265,
+   "start": 715.66,
+   "end": 717.46,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "--A pain in my ass."
+  },
+  {
+   "i": 266,
+   "start": 717.84,
+   "end": 718.8,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Well, Vegeta..."
+  },
+  {
+   "i": 267,
+   "start": 719.32,
+   "end": 725.86,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "You take the five hundred on the right... I'll take the five hundred on the left. Screw you, I'll take five hundred and one!"
+  },
+  {
+   "i": 268,
+   "start": 725.96,
+   "end": 727.44,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "That's the spirit!"
+  },
+  {
+   "i": 269,
+   "start": 727.66,
+   "end": 731.08,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "HIRAAAAAAAAH...!"
+  },
+  {
+   "i": 270,
+   "start": 729.06,
+   "end": 731.08,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "AAAAAAAAAAGH...!"
+  },
+  {
+   "i": 271,
+   "start": 731.08,
+   "end": 732.46,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Music and yelling cut-off"
+  },
+  {
+   "i": 272,
+   "start": 733.12,
+   "end": 738.62,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Wow... I can't believe every single one of them kicked you in the dick..."
+  },
+  {
+   "i": 273,
+   "start": 739.0,
+   "end": 742.04,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "(High-pitched squeal)"
+  },
+  {
+   "i": 274,
+   "start": 742.52,
+   "end": 745.22,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "So... where the heck are we, anyway?"
+  },
+  {
+   "i": 275,
+   "start": 745.6,
+   "end": 750.32,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "You are inside... of me..."
+  },
+  {
+   "i": 276,
+   "start": 750.36,
+   "end": 751.44,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(Gasp)"
+  },
+  {
+   "i": 277,
+   "start": 751.44,
+   "end": 754.26,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Vegeta! He *shrank* us!"
+  },
+  {
+   "i": 278,
+   "start": 754.26,
+   "end": 757.58,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "What? No. No! I'm part of the Big Gete Star!"
+  },
+  {
+   "i": 279,
+   "start": 758.04,
+   "end": 759.76,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh, you're a head..."
+  },
+  {
+   "i": 280,
+   "start": 760.14,
+   "end": 763.9,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Well that's neat... probably you don't punch as hard as you used to, though..."
+  },
+  {
+   "i": 281,
+   "start": 763.9,
+   "end": 767.56,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "I'm sure you're dying to know the story..."
+  },
+  {
+   "i": 282,
+   "start": 767.56,
+   "end": 768.98,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I'm really not interested--"
+  },
+  {
+   "i": 283,
+   "start": 768.98,
+   "end": 770.44,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "You see..."
+  },
+  {
+   "i": 284,
+   "start": 770.44,
+   "end": 771.0,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Flashback"
+  },
+  {
+   "i": 285,
+   "start": 775.02,
+   "end": 775.78,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "...What the fu--?!"
+  },
+  {
+   "i": 286,
+   "start": 775.78,
+   "end": 777.9,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Flashback ends"
+  },
+  {
+   "i": 287,
+   "start": 775.78,
+   "end": 777.9,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "And that's how it happened."
+  },
+  {
+   "i": 288,
+   "start": 777.9,
+   "end": 789.92,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "And now, with the help of your energy, we shall have everything we need to fuel the Big Gete Star, as well as rebuild myself even better than before..."
+  },
+  {
+   "i": 289,
+   "start": 790.34,
+   "end": 790.84,
+   "kind": "dialog",
+   "speaker": "Big Gete Star",
+   "text": "BEEP"
+  },
+  {
+   "i": 290,
+   "start": 791.0,
+   "end": 792.58,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "Shut up, baby! I know it!"
+  },
+  {
+   "i": 291,
+   "start": 792.58,
+   "end": 795.76,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Both Saiyans scream in pain"
+  },
+  {
+   "i": 292,
+   "start": 795.76,
+   "end": 796.66,
+   "kind": "dialog",
+   "speaker": "Big Gete Star",
+   "text": "BEEP"
+  },
+  {
+   "i": 293,
+   "start": 795.76,
+   "end": 800.7,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Screaming continues in background"
+  },
+  {
+   "i": 294,
+   "start": 796.66,
+   "end": 800.7,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "Oh, yes... to the *laaast*... *drrrop*..."
+  },
+  {
+   "i": 295,
+   "start": 804.56,
+   "end": 809.02,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "Ah, delicious. Now, to dispose of the tra--"
+  },
+  {
+   "i": 296,
+   "start": 809.02,
+   "end": 809.52,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "Huh?"
+  },
+  {
+   "i": 297,
+   "start": 811.48,
+   "end": 815.24,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "What?! Impossible! You were bone dry!"
+  },
+  {
+   "i": 298,
+   "start": 815.58,
+   "end": 816.12,
+   "kind": "dialog",
+   "speaker": "Big Gete Star",
+   "text": "BEEP"
+  },
+  {
+   "i": 299,
+   "start": 816.96,
+   "end": 818.9,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "I know, but I can't stop them!"
+  },
+  {
+   "i": 300,
+   "start": 818.9,
+   "end": 821.62,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "Where are the mes?! SEND IN THE MES!"
+  },
+  {
+   "i": 301,
+   "start": 821.62,
+   "end": 822.24,
+   "kind": "dialog",
+   "speaker": "Big Gete Star",
+   "text": "BEEP"
+  },
+  {
+   "i": 302,
+   "start": 822.56,
+   "end": 825.42,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "WHAT DO YOU MEAN, I'M EXPLODING?!"
+  },
+  {
+   "i": 303,
+   "start": 825.42,
+   "end": 827.86,
+   "kind": "direction",
+   "speaker": null,
+   "text": "All Meta-Coolers exploding"
+  },
+  {
+   "i": 304,
+   "start": 827.86,
+   "end": 828.88,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "Aaah, f--"
+  },
+  {
+   "i": 305,
+   "start": 828.88,
+   "end": 829.38,
+   "kind": "dialog",
+   "speaker": "Big Gete Star",
+   "text": "BEEP"
+  },
+  {
+   "i": 306,
+   "start": 829.38,
+   "end": 830.56,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "--mes!"
+  },
+  {
+   "i": 307,
+   "start": 830.8,
+   "end": 833.16,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "(Yelling)"
+  },
+  {
+   "i": 308,
+   "start": 833.16,
+   "end": 837.0,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "No! Please! You can't kill me! There's someone at home that I love!"
+  },
+  {
+   "i": 309,
+   "start": 837.0,
+   "end": 838.8,
+   "kind": "dialog",
+   "speaker": "D.V.E.D",
+   "text": "Beautiful! What's her name?"
+  },
+  {
+   "i": 310,
+   "start": 838.8,
+   "end": 841.14,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "He-he-he's a cat named Korin!"
+  },
+  {
+   "i": 311,
+   "start": 841.42,
+   "end": 842.86,
+   "kind": "dialog",
+   "speaker": "D.V.E.D",
+   "text": "I am no one to judge!"
+  },
+  {
+   "i": 312,
+   "start": 843.14,
+   "end": 844.76,
+   "kind": "dialog",
+   "speaker": "D.V.E.D",
+   "text": "But I do decide your fate!"
+  },
+  {
+   "i": 313,
+   "start": 845.0,
+   "end": 851.9,
+   "kind": "dialog",
+   "speaker": "D.V.E.D",
+   "text": "Kill him s--looow... loooow... loooow... looooowwww..."
+  },
+  {
+   "i": 314,
+   "start": 851.9,
+   "end": 852.4,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "CLICK"
+  },
+  {
+   "i": 315,
+   "start": 852.4,
+   "end": 853.2,
+   "kind": "dialog",
+   "speaker": "D.V.E.D",
+   "text": "Drop the bass."
+  },
+  {
+   "i": 316,
+   "start": 853.2,
+   "end": 853.86,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "BOOM"
+  },
+  {
+   "i": 317,
+   "start": 853.86,
+   "end": 856.34,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Alarm"
+  },
+  {
+   "i": 318,
+   "start": 856.34,
+   "end": 857.8,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Everyone, follow me!"
+  },
+  {
+   "i": 319,
+   "start": 859.94,
+   "end": 862.28,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Aww... crap-baskets."
+  },
+  {
+   "i": 320,
+   "start": 862.28,
+   "end": 864.42,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I am not dying here again!"
+  },
+  {
+   "i": 321,
+   "start": 865.22,
+   "end": 867.66,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "BOOM"
+  },
+  {
+   "i": 322,
+   "start": 868.68,
+   "end": 869.74,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ Terminator Genisys main theme ♫"
+  },
+  {
+   "i": 323,
+   "start": 869.74,
+   "end": 871.58,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Come with me if you want to live."
+  },
+  {
+   "i": 324,
+   "start": 871.88,
+   "end": 874.54,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Eh, wrong sci-fi, but it'll do."
+  },
+  {
+   "i": 325,
+   "start": 875.12,
+   "end": 878.42,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "How?! It literally doesn't make any *sense*!"
+  },
+  {
+   "i": 326,
+   "start": 878.42,
+   "end": 885.46,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "It took everything you had to defeat a *single* \"me\", yet you have enough power to overload the *Big Gete Star*?!"
+  },
+  {
+   "i": 327,
+   "start": 885.74,
+   "end": 888.36,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "HOW?! HOW DID YOU DO THIS?!"
+  },
+  {
+   "i": 328,
+   "start": 888.72,
+   "end": 892.0,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "It looks like... you underestimated our power."
+  },
+  {
+   "i": 329,
+   "start": 892.56,
+   "end": 893.34,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Just like--"
+  },
+  {
+   "i": 330,
+   "start": 893.34,
+   "end": 894.06,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "Don't you dare--"
+  },
+  {
+   "i": 331,
+   "start": 894.06,
+   "end": 895.28,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "--you did on Earth."
+  },
+  {
+   "i": 332,
+   "start": 895.78,
+   "end": 896.32,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "Oh."
+  },
+  {
+   "i": 333,
+   "start": 897.06,
+   "end": 897.56,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "...Fair enou--"
+  },
+  {
+   "i": 334,
+   "start": 897.56,
+   "end": 898.86,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "And just like Freeza."
+  },
+  {
+   "i": 335,
+   "start": 898.86,
+   "end": 902.0,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Epic orchestral music"
+  },
+  {
+   "i": 336,
+   "start": 898.86,
+   "end": 902.0,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "(Yelling in rage)"
+  },
+  {
+   "i": 337,
+   "start": 904.74,
+   "end": 906.32,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Ugh."
+  },
+  {
+   "i": 338,
+   "start": 906.32,
+   "end": 908.46,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "Did Freeza ever do THIS?!"
+  },
+  {
+   "i": 339,
+   "start": 908.46,
+   "end": 911.78,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Beginning to feel like you have something against your brother."
+  },
+  {
+   "i": 340,
+   "start": 911.78,
+   "end": 912.46,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "DIE."
+  },
+  {
+   "i": 341,
+   "start": 913.02,
+   "end": 914.9,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "GAAAAAAH!!"
+  },
+  {
+   "i": 342,
+   "start": 913.02,
+   "end": 914.9,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "*DIIIIE*~!!"
+  },
+  {
+   "i": 343,
+   "start": 915.46,
+   "end": 918.98,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "*HuuWAAAAAAaaaaagh*...!!"
+  },
+  {
+   "i": 344,
+   "start": 919.1,
+   "end": 922.96,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "That... was for... muh dick..."
+  },
+  {
+   "i": 345,
+   "start": 923.72,
+   "end": 924.52,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Ughhh..."
+  },
+  {
+   "i": 346,
+   "start": 924.9,
+   "end": 925.68,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Thud"
+  },
+  {
+   "i": 347,
+   "start": 926.02,
+   "end": 927.86,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "HerrrrrYAAGH!"
+  },
+  {
+   "i": 348,
+   "start": 928.62,
+   "end": 930.18,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Time to put you..."
+  },
+  {
+   "i": 349,
+   "start": 931.22,
+   "end": 936.6,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "ON ICE...! ...*Really*...?"
+  },
+  {
+   "i": 350,
+   "start": 936.88,
+   "end": 938.46,
+   "kind": "dialog",
+   "speaker": "Cooler",
+   "text": "(Sigh)..."
+  },
+  {
+   "i": 351,
+   "start": 943.54,
+   "end": 944.24,
+   "kind": "dialog",
+   "speaker": "Big Gete Star",
+   "text": "BEEP"
+  },
+  {
+   "i": 352,
+   "start": 951.9,
+   "end": 952.4,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Huh..."
+  },
+  {
+   "i": 353,
+   "start": 952.78,
+   "end": 953.96,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Well, Goku's dead again."
+  },
+  {
+   "i": 354,
+   "start": 954.58,
+   "end": 956.24,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Any of you guys got Dragon Balls?"
+  },
+  {
+   "i": 355,
+   "start": 956.24,
+   "end": 957.56,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Wait - look!"
+  },
+  {
+   "i": 356,
+   "start": 959.38,
+   "end": 960.58,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Wait, is that Vegeta?"
+  },
+  {
+   "i": 357,
+   "start": 961.16,
+   "end": 963.88,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "(Joyful laughter)"
+  },
+  {
+   "i": 358,
+   "start": 964.24,
+   "end": 967.98,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(Tired laughter)"
+  },
+  {
+   "i": 359,
+   "start": 971.6,
+   "end": 973.8,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Thanks for bringing those Senzu, Bean Daddy!"
+  },
+  {
+   "i": 360,
+   "start": 973.8,
+   "end": 974.78,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "S'what I do."
+  },
+  {
+   "i": 361,
+   "start": 975.02,
+   "end": 983.94,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Y'know, I learned something today. In the end, when all is said and done... Freezer was cooler... and Cooler... was freezer."
+  },
+  {
+   "i": 362,
+   "start": 985.4,
+   "end": 988.74,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "...So, now that it's over, we should probably go find Dende."
+  },
+  {
+   "i": 363,
+   "start": 988.84,
+   "end": 992.96,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Yeah, where is Little Green? He's the one who invited us to vacation here in the first place."
+  },
+  {
+   "i": 364,
+   "start": 993.06,
+   "end": 994.18,
+   "kind": "dialog",
+   "speaker": "Mouri",
+   "text": "Oh wait, you thought...?"
+  },
+  {
+   "i": 365,
+   "start": 994.68,
+   "end": 995.28,
+   "kind": "dialog",
+   "speaker": "Mouri",
+   "text": "But he..."
+  },
+  {
+   "i": 366,
+   "start": 995.98,
+   "end": 997.04,
+   "kind": "dialog",
+   "speaker": "Mouri",
+   "text": "oh, my...."
+  },
+  {
+   "i": 367,
+   "start": 997.66,
+   "end": 1000.04,
+   "kind": "dialog",
+   "speaker": "Mouri",
+   "text": "I think you may have misinterpreted his message."
+  },
+  {
+   "i": 368,
+   "start": 1001.28,
+   "end": 1004.16,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "WHERE THE F**K IS EVERYONE?!"
+  },
+  {
+   "i": 369,
+   "start": 1006.22,
+   "end": 1008.22,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ Monkey Vs Robot (by James Kochalka) ♫"
+  },
+  {
+   "i": 370,
+   "start": 1011.7,
+   "end": 1014.42,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "♫ Monkey hate technology ♫"
+  },
+  {
+   "i": 371,
+   "start": 1014.42,
+   "end": 1017.06,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "♫ Robot hate the monkey ♫"
+  },
+  {
+   "i": 372,
+   "start": 1017.06,
+   "end": 1019.74,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "♫ They will fight eternally ♫"
+  },
+  {
+   "i": 373,
+   "start": 1019.74,
+   "end": 1022.24,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "♫ Why can't we all get along ♫"
+  },
+  {
+   "i": 374,
+   "start": 1022.24,
+   "end": 1024.88,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "♫ Would that be oh so wrong? ♫"
+  },
+  {
+   "i": 375,
+   "start": 1024.88,
+   "end": 1027.56,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "♫ Why can't we all love each other ♫"
+  },
+  {
+   "i": 376,
+   "start": 1027.56,
+   "end": 1030.08,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "♫ Monkey and a robot brother ♫"
+  },
+  {
+   "i": 377,
+   "start": 1030.08,
+   "end": 1040.72,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "♫ Monkey vs Robot ♫"
+  },
+  {
+   "i": 378,
+   "start": 1040.72,
+   "end": 1045.66,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "♫ Monkey, R O B O T ♫"
+  },
+  {
+   "i": 379,
+   "start": 1045.66,
+   "end": 1050.56,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "♫ Robot, M O N K E Y ♫"
+  },
+  {
+   "i": 380,
+   "start": 1050.56,
+   "end": 1055.58,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "♫ Monkey, R O B O T ♫"
+  },
+  {
+   "i": 381,
+   "start": 1050.56,
+   "end": 1060.56,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Fade-out"
+  },
+  {
+   "i": 382,
+   "start": 1055.58,
+   "end": 1060.56,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "♫ Robot, M O N K E Y ♫"
+  },
+  {
+   "i": 383,
+   "start": 1067.52,
+   "end": 1068.02,
+   "kind": "dialog",
+   "speaker": "Big Gete Star",
+   "text": "BEEP"
+  },
+  {
+   "i": 384,
+   "start": 1071.46,
+   "end": 1073.02,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Flawless victory."
+  }
+ ],
+ "segments": [
+  {
+   "start": 17.2,
+   "end": 49.3,
+   "title": "Not With THAT Attitude",
+   "quote": "...I don't see that happening... — Not with THAT attitude!",
+   "line_start": 1,
+   "line_end": 13
+  },
+  {
+   "start": 110.3,
+   "end": 119.9,
+   "title": "Someone Should Go Tell Piccolo",
+   "quote": "Someone should go tell Piccolo *whaaaaAAAAAAAAAaaaahhh*...!!",
+   "line_start": 35,
+   "line_end": 37
+  },
+  {
+   "start": 205.7,
+   "end": 240.9,
+   "title": "Yes, I Have Returned, *Dumbass*",
+   "quote": "So, you return once again, Freezer. — Cooler. — Cooler. — Yes, I have returned, *dumbass*. — Goku. — *DUMBASS*.",
+   "line_start": 63,
+   "line_end": 77
+  },
+  {
+   "start": 242.9,
+   "end": 263.0,
+   "title": "Freeza Did It",
+   "quote": "Yeah - about as different as you are from Freeza. — Shots fired! — Kill the bald one.",
+   "line_start": 79,
+   "line_end": 89
+  },
+  {
+   "start": 277.5,
+   "end": 296.1,
+   "title": "Roshi Has Many Things",
+   "quote": "I have many things... A best friend who's a turtle... An island... Chlamydia... This... is not one of 'em.",
+   "line_start": 98,
+   "line_end": 100
+  },
+  {
+   "start": 325.1,
+   "end": 338.3,
+   "title": "MAH FIST!",
+   "quote": "What's that thing on your face? — What's what on thing on m-- — MAH FIST!",
+   "line_start": 112,
+   "line_end": 119
+  },
+  {
+   "start": 344.5,
+   "end": 364.8,
+   "title": "Have Ya Tried Hitting Them Harder?",
+   "quote": "Have ya tried hitting them harder? — That sounds like something Goku would say.",
+   "line_start": 123,
+   "line_end": 131
+  },
+  {
+   "start": 466.0,
+   "end": 497.5,
+   "title": "Wrecker of Your Shit",
+   "quote": "I am Vegeta: Prince of All Saiyans! Last of my Royal Blood! Bringer of Death! Destroyer of Worlds! And wrecker of your shit!",
+   "line_start": 165,
+   "line_end": 172
+  },
+  {
+   "start": 636.5,
+   "end": 659.4,
+   "title": "Kickin' Me in the Dick",
+   "quote": "Why does he keep kickin' me in the dick?!",
+   "line_start": 233,
+   "line_end": 241
+  },
+  {
+   "start": 670.1,
+   "end": 695.0,
+   "title": "What Works? Teamwork!",
+   "quote": "♪ We can do anything by working with each other... ♪ — *Just shut the f**k up*, Kakarot...",
+   "line_start": 246,
+   "line_end": 253
+  },
+  {
+   "start": 702.8,
+   "end": 727.4,
+   "title": "I Am Legion",
+   "quote": "I am Legion... For we are-- — --A pain in my ass.",
+   "line_start": 259,
+   "line_end": 268
+  },
+  {
+   "start": 842.7,
+   "end": 853.9,
+   "title": "Drop the Bass",
+   "quote": "Kill him s--looow... loooow... loooow... looooowwww... Drop the bass.",
+   "line_start": 311,
+   "line_end": 315
+  },
+  {
+   "start": 868.2,
+   "end": 874.5,
+   "title": "Wrong Sci-Fi",
+   "quote": "Come with me if you want to live. — Eh, wrong sci-fi, but it'll do.",
+   "line_start": 322,
+   "line_end": 324
+  },
+  {
+   "start": 971.1,
+   "end": 984.4,
+   "title": "Freezer Was Cooler",
+   "quote": "Freezer was cooler... and Cooler... was freezer.",
+   "line_start": 359,
+   "line_end": 361
+  },
+  {
+   "start": 992.6,
+   "end": 1004.6,
+   "title": "Where the F**k Is Everyone?!",
+   "quote": "I think you may have misinterpreted his message. — WHERE THE F**K IS EVERYONE?!",
+   "line_start": 364,
+   "line_end": 368
+  }
+ ]
+}

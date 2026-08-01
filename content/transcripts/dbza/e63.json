@@ -1,0 +1,2019 @@
+{
+ "item": "e63",
+ "show": "dbza",
+ "youtube": "DMZuBSJ3LEc",
+ "title": "Episode 57 - #CellGames | TeamFourStar (TFS)",
+ "duration": 769,
+ "lines": [
+  {
+   "i": 0,
+   "start": 17.5,
+   "end": 19.84,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "I'm making an *announcement*!"
+  },
+  {
+   "i": 1,
+   "start": 22.58,
+   "end": 27.6,
+   "kind": "dialog",
+   "speaker": "Mr. Satan",
+   "text": "I'm gonna squash you... like the bug. You. Are."
+  },
+  {
+   "i": 2,
+   "start": 29.66,
+   "end": 31.62,
+   "kind": "dialog",
+   "speaker": "Continuity Announcer",
+   "text": "...to decide it all."
+  },
+  {
+   "i": 3,
+   "start": 32.1,
+   "end": 33.56,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Are you filming up there?"
+  },
+  {
+   "i": 4,
+   "start": 33.56,
+   "end": 41.1,
+   "kind": "dialog",
+   "speaker": "Continuity Announcer",
+   "text": "Join us as it all comes together... AT THE #CELLGAMES, ONLY ON ZTV!"
+  },
+  {
+   "i": 5,
+   "start": 41.4,
+   "end": 54.4,
+   "kind": "dialog",
+   "speaker": "Continuity Announcer",
+   "text": "With your boy, Jimmy Firecracker, reporting live on-site, as the mighty Mister Satan takes on the sinister Cell, in a no-holds-barred fight for the fate of the world!"
+  },
+  {
+   "i": 6,
+   "start": 54.52,
+   "end": 60.2,
+   "kind": "dialog",
+   "speaker": "Continuity Announcer",
+   "text": "Will it be humanity's last stand?! Or will the devil get his due?!"
+  },
+  {
+   "i": 7,
+   "start": 60.48,
+   "end": 65.98,
+   "kind": "dialog",
+   "speaker": "Continuity Announcer",
+   "text": "Find out this Sunday at the Cell Games! Presented by HETAP."
+  },
+  {
+   "i": 8,
+   "start": 89.86,
+   "end": 92.0,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "♫ Got my wristbands on and my boots are tied ♫"
+  },
+  {
+   "i": 9,
+   "start": 92.0,
+   "end": 94.32,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "♫ Gonna grab my friends and fight a bug guy ♫"
+  },
+  {
+   "i": 10,
+   "start": 94.32,
+   "end": 97.04,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "♫ Doo, doo-doo, today is Fightin' Day ♫"
+  },
+  {
+   "i": 11,
+   "start": 97.12,
+   "end": 98.02,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Goku!"
+  },
+  {
+   "i": 12,
+   "start": 98.02,
+   "end": 99.72,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hey, Chi-Chi! You comin' with?"
+  },
+  {
+   "i": 13,
+   "start": 99.88,
+   "end": 101.42,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "What? No! I..."
+  },
+  {
+   "i": 14,
+   "start": 101.96,
+   "end": 103.78,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Ughh... look..."
+  },
+  {
+   "i": 15,
+   "start": 104.34,
+   "end": 106.02,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "You've already died once."
+  },
+  {
+   "i": 16,
+   "start": 106.52,
+   "end": 107.66,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "I can take that."
+  },
+  {
+   "i": 17,
+   "start": 108.18,
+   "end": 109.94,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "I can make peace with that."
+  },
+  {
+   "i": 18,
+   "start": 110.4,
+   "end": 114.82,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "You're a fighter; and to be honest... it's why I fell in love with you."
+  },
+  {
+   "i": 19,
+   "start": 115.7,
+   "end": 116.82,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "But Gohan?"
+  },
+  {
+   "i": 20,
+   "start": 117.32,
+   "end": 118.54,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "*Not* Gohan..."
+  },
+  {
+   "i": 21,
+   "start": 119.4,
+   "end": 121.0,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Not our baby boy."
+  },
+  {
+   "i": 22,
+   "start": 121.0,
+   "end": 123.64,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Chi-Chi, come on, don't be like that!"
+  },
+  {
+   "i": 23,
+   "start": 123.8,
+   "end": 124.84,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Goku..."
+  },
+  {
+   "i": 24,
+   "start": 124.84,
+   "end": 129.24,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "If Gohan dies, that means the world's doomed anyway - so, what will it matter?"
+  },
+  {
+   "i": 25,
+   "start": 130.0,
+   "end": 134.38,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "OK, for the record, we know that I'm not great at this... but you know what I'm *good* at?"
+  },
+  {
+   "i": 26,
+   "start": 134.66,
+   "end": 135.24,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Leaving?"
+  },
+  {
+   "i": 27,
+   "start": 135.24,
+   "end": 136.46,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "*Fighting*~!"
+  },
+  {
+   "i": 28,
+   "start": 136.46,
+   "end": 136.96,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "POP"
+  },
+  {
+   "i": 29,
+   "start": 137.1,
+   "end": 138.06,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Agghhh..."
+  },
+  {
+   "i": 30,
+   "start": 139.08,
+   "end": 141.78,
+   "kind": "dialog",
+   "speaker": "Ox-King",
+   "text": "Maybe I'll get lucky and Cell and him will just kill each-other."
+  },
+  {
+   "i": 31,
+   "start": 141.78,
+   "end": 142.62,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "*Daddy*!"
+  },
+  {
+   "i": 32,
+   "start": 142.62,
+   "end": 147.54,
+   "kind": "dialog",
+   "speaker": "Ox-King",
+   "text": "Sweetie, I can only afford to support *two* Saiyan mouths, and you've got a bun in the oven."
+  },
+  {
+   "i": 33,
+   "start": 149.78,
+   "end": 150.28,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "POP"
+  },
+  {
+   "i": 34,
+   "start": 150.28,
+   "end": 150.9,
+   "kind": "dialog",
+   "speaker": "All Others",
+   "text": "Huh?"
+  },
+  {
+   "i": 35,
+   "start": 150.28,
+   "end": 152.18,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hey, guys! Ha ha!"
+  },
+  {
+   "i": 36,
+   "start": 152.18,
+   "end": 155.46,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Y'all ready for the... for-- for the... tournament...?"
+  },
+  {
+   "i": 37,
+   "start": 156.1,
+   "end": 157.56,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Wow, did someone die?"
+  },
+  {
+   "i": 38,
+   "start": 157.92,
+   "end": 159.56,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh gosh, where's Yamcha?!"
+  },
+  {
+   "i": 39,
+   "start": 159.56,
+   "end": 160.76,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Nobody's dead!"
+  },
+  {
+   "i": 40,
+   "start": 160.76,
+   "end": 161.42,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "*Yet*."
+  },
+  {
+   "i": 41,
+   "start": 161.42,
+   "end": 163.9,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Then why are you all so glum, chums?"
+  },
+  {
+   "i": 42,
+   "start": 163.9,
+   "end": 166.5,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Come on! Today is Fightin' Day!"
+  },
+  {
+   "i": 43,
+   "start": 166.66,
+   "end": 170.72,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Goku, last time I fought Cell, he basically Tambourine'd me."
+  },
+  {
+   "i": 44,
+   "start": 170.72,
+   "end": 176.86,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "And he's gone through two transformations since we fought, so... still trying to come to terms on that one, really."
+  },
+  {
+   "i": 45,
+   "start": 176.86,
+   "end": 180.3,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Long story short: We're basically just going for moral support."
+  },
+  {
+   "i": 46,
+   "start": 180.3,
+   "end": 185.86,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh, I know. But I'm just so excited, guys! I finally get to *punch him*!"
+  },
+  {
+   "i": 47,
+   "start": 185.86,
+   "end": 187.8,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Right in his handsome face!"
+  },
+  {
+   "i": 48,
+   "start": 187.8,
+   "end": 190.06,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "*Why* do you keep calling him \"handsome\"?"
+  },
+  {
+   "i": 49,
+   "start": 190.06,
+   "end": 192.86,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Because that jawline don't lie and neither do I!"
+  },
+  {
+   "i": 50,
+   "start": 193.04,
+   "end": 197.24,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Now let's go! I don't want nobody gettin' a swing at Cell before me!"
+  },
+  {
+   "i": 51,
+   "start": 197.24,
+   "end": 200.5,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Ah, sure. Like anyone else would be *dumb* enough to show up..."
+  },
+  {
+   "i": 52,
+   "start": 200.82,
+   "end": 204.28,
+   "kind": "dialog",
+   "speaker": "Jimmy",
+   "text": "Jimmy Firecracker here, live from the Cell Games, presented by HETAP!"
+  },
+  {
+   "i": 53,
+   "start": 204.28,
+   "end": 206.2,
+   "kind": "dialog",
+   "speaker": "Jimmy",
+   "text": "Because apparently nobody else would take this job."
+  },
+  {
+   "i": 54,
+   "start": 206.42,
+   "end": 210.62,
+   "kind": "dialog",
+   "speaker": "Jimmy",
+   "text": "But don't worry about me. Because Jimmy Firecrack corn and he don't give a f**k!"
+  },
+  {
+   "i": 55,
+   "start": 210.62,
+   "end": 214.24,
+   "kind": "dialog",
+   "speaker": "Jimmy",
+   "text": "He'll take any job! He'll take every job! He'll take YOUR job!"
+  },
+  {
+   "i": 56,
+   "start": 214.24,
+   "end": 216.96,
+   "kind": "dialog",
+   "speaker": "Jimmy",
+   "text": "And speaking of jobs... nobody else is here yet."
+  },
+  {
+   "i": 57,
+   "start": 217.26,
+   "end": 220.1,
+   "kind": "dialog",
+   "speaker": "Jimmy",
+   "text": "Will Jimmy Firecracker have to get in that ring?"
+  },
+  {
+   "i": 58,
+   "start": 220.3,
+   "end": 226.4,
+   "kind": "dialog",
+   "speaker": "Jimmy",
+   "text": "Does Jimmy Firecracker gotta come down there *and SLAP that perfect jawline*?!"
+  },
+  {
+   "i": 59,
+   "start": 227.5,
+   "end": 232.5,
+   "kind": "dialog",
+   "speaker": "Jimmy",
+   "text": "It looks like Cell is saved the wrath of Jimmy Firecracker as his first opponent has arrived."
+  },
+  {
+   "i": 60,
+   "start": 232.64,
+   "end": 240.4,
+   "kind": "dialog",
+   "speaker": "Jimmy",
+   "text": "I'm receiving words that This. Is. Him, Folks! The Man! The Legend! The Winner Of The 24th World Martial Arts Tournament!"
+  },
+  {
+   "i": 61,
+   "start": 240.62,
+   "end": 243.64,
+   "kind": "dialog",
+   "speaker": "Jimmy",
+   "text": "MISTERR SATANNNN!"
+  },
+  {
+   "i": 62,
+   "start": 243.86,
+   "end": 246.08,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Maybe shouldn't have made this an open invite..."
+  },
+  {
+   "i": 63,
+   "start": 247.66,
+   "end": 249.3,
+   "kind": "dialog",
+   "speaker": "Jimmy",
+   "text": "The Champ has stepped up into the ring!"
+  },
+  {
+   "i": 64,
+   "start": 249.3,
+   "end": 255.44,
+   "kind": "dialog",
+   "speaker": "Jimmy",
+   "text": "Better update that TV-PG to TV-MA, 'cuz you're about to see a *full-blown-massacre*!"
+  },
+  {
+   "i": 65,
+   "start": 255.92,
+   "end": 257.22,
+   "kind": "dialog",
+   "speaker": "Jimmy",
+   "text": "Wait, what's this?"
+  },
+  {
+   "i": 66,
+   "start": 257.8,
+   "end": 259.06,
+   "kind": "dialog",
+   "speaker": "Jimmy",
+   "text": "The Champ is calling us down!"
+  },
+  {
+   "i": 67,
+   "start": 259.34,
+   "end": 261.66,
+   "kind": "dialog",
+   "speaker": "Jimmy",
+   "text": "Come on, Larry! What do I always say?"
+  },
+  {
+   "i": 68,
+   "start": 261.82,
+   "end": 264.08,
+   "kind": "dialog",
+   "speaker": "Larry",
+   "text": "Where there's smoke, there's Firecracker, sir!"
+  },
+  {
+   "i": 69,
+   "start": 264.26,
+   "end": 266.78,
+   "kind": "dialog",
+   "speaker": "Jimmy",
+   "text": "Yer goddang right!"
+  },
+  {
+   "i": 70,
+   "start": 267.12,
+   "end": 268.26,
+   "kind": "dialog",
+   "speaker": "Jimmy",
+   "text": "Mr. Satan, sir!"
+  },
+  {
+   "i": 71,
+   "start": 268.52,
+   "end": 270.52,
+   "kind": "dialog",
+   "speaker": "Jimmy",
+   "text": "What do you have to say to your adoring public?"
+  },
+  {
+   "i": 72,
+   "start": 270.92,
+   "end": 273.04,
+   "kind": "dialog",
+   "speaker": "Mr. Satan",
+   "text": "First, to all the kids at home:"
+  },
+  {
+   "i": 73,
+   "start": 273.42,
+   "end": 276.2,
+   "kind": "dialog",
+   "speaker": "Mr. Satan",
+   "text": "*Do not* recreate the violence you are about to see."
+  },
+  {
+   "i": 74,
+   "start": 276.2,
+   "end": 279.88,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Crowd cheers"
+  },
+  {
+   "i": 75,
+   "start": 276.7,
+   "end": 279.88,
+   "kind": "dialog",
+   "speaker": "Mr. Satan",
+   "text": "Unless you buy the new *Mr. Satan Action Figure*!"
+  },
+  {
+   "i": 76,
+   "start": 279.88,
+   "end": 282.12,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Crowd cheers"
+  },
+  {
+   "i": 77,
+   "start": 279.88,
+   "end": 282.12,
+   "kind": "dialog",
+   "speaker": "Mr. Satan",
+   "text": "On sale now, in stores everywhere!"
+  },
+  {
+   "i": 78,
+   "start": 282.5,
+   "end": 285.86,
+   "kind": "dialog",
+   "speaker": "Jimmy",
+   "text": "And why, Mr. Satan, have you come here today?"
+  },
+  {
+   "i": 79,
+   "start": 286.06,
+   "end": 291.5,
+   "kind": "dialog",
+   "speaker": "Mr. Satan",
+   "text": "Well, aside from being sponsored by HETAP, MR. SATAN NEVER BACKS DOWN FROM A CHALLENGE!"
+  },
+  {
+   "i": 80,
+   "start": 288.42,
+   "end": 291.5,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Crowd cheers"
+  },
+  {
+   "i": 81,
+   "start": 291.5,
+   "end": 294.44,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Crowd cheers"
+  },
+  {
+   "i": 82,
+   "start": 292.0,
+   "end": 304.82,
+   "kind": "dialog",
+   "speaker": "Mr. Satan",
+   "text": "Not when it comes to evil! Vile! Wretched! Contemptible! Wicked! Monstrous! Inhuman! Dishonorable! Nefarious...!"
+  },
+  {
+   "i": 83,
+   "start": 298.2,
+   "end": 299.42,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Crowd cheers"
+  },
+  {
+   "i": 84,
+   "start": 299.42,
+   "end": 300.8,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Crowd cheers"
+  },
+  {
+   "i": 85,
+   "start": 300.8,
+   "end": 303.28,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "*Definitely* shouldn't have made this an open invite...!"
+  },
+  {
+   "i": 86,
+   "start": 308.82,
+   "end": 311.38,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Oh, hey! It's Tenshinhan and Yamcha!"
+  },
+  {
+   "i": 87,
+   "start": 311.78,
+   "end": 313.54,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hiya, guys? How ya doin'?"
+  },
+  {
+   "i": 88,
+   "start": 313.74,
+   "end": 315.08,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Just heading towards the arena."
+  },
+  {
+   "i": 89,
+   "start": 315.42,
+   "end": 319.92,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Vegeta passed us earlier; flipped us off. So that was a good way to start the morning."
+  },
+  {
+   "i": 90,
+   "start": 319.92,
+   "end": 321.64,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Yeah, but we totally flipped him off back."
+  },
+  {
+   "i": 91,
+   "start": 321.64,
+   "end": 325.34,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "*I* flipped him off back. You just waved and laughed nervously."
+  },
+  {
+   "i": 92,
+   "start": 325.34,
+   "end": 329.32,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Look, I don't have your mutually-sustained hate-boner for the guy, OK?"
+  },
+  {
+   "i": 93,
+   "start": 329.32,
+   "end": 331.72,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "I don't have a *hate-boner* for him."
+  },
+  {
+   "i": 94,
+   "start": 331.72,
+   "end": 333.62,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Dude, it's a pretty hateful boner."
+  },
+  {
+   "i": 95,
+   "start": 334.26,
+   "end": 341.18,
+   "kind": "dialog",
+   "speaker": "Mr. Satan",
+   "text": "...Baneful! Iniquitous! Execrable...! *Villain like you*!"
+  },
+  {
+   "i": 96,
+   "start": 341.18,
+   "end": 342.82,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Crowd cheers"
+  },
+  {
+   "i": 97,
+   "start": 342.82,
+   "end": 346.3,
+   "kind": "dialog",
+   "speaker": "Mr. Satan",
+   "text": "Now... what d'ya haf'ta say ta THAT?!"
+  },
+  {
+   "i": 98,
+   "start": 347.32,
+   "end": 350.88,
+   "kind": "dialog",
+   "speaker": "Mr. Satan",
+   "text": "Oh, what's the matter? Satan gotch'er tongue?"
+  },
+  {
+   "i": 99,
+   "start": 351.02,
+   "end": 352.38,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Are you sure about this?"
+  },
+  {
+   "i": 100,
+   "start": 352.38,
+   "end": 354.02,
+   "kind": "dialog",
+   "speaker": "Mr. Satan",
+   "text": "Speak up, bug-boy!"
+  },
+  {
+   "i": 101,
+   "start": 354.48,
+   "end": 357.06,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "You look like an extra from a budget porno flick."
+  },
+  {
+   "i": 102,
+   "start": 357.06,
+   "end": 360.58,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "The kind where *everyone* gets tested afterwards. Even the cameramen."
+  },
+  {
+   "i": 103,
+   "start": 360.58,
+   "end": 362.16,
+   "kind": "dialog",
+   "speaker": "Mr. Satan",
+   "text": "Oh... um, you're--"
+  },
+  {
+   "i": 104,
+   "start": 362.16,
+   "end": 363.68,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Did they find you in the subway?"
+  },
+  {
+   "i": 105,
+   "start": 363.68,
+   "end": 364.64,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Were you homeless?"
+  },
+  {
+   "i": 106,
+   "start": 364.64,
+   "end": 366.5,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Did you get your start in bum fights?"
+  },
+  {
+   "i": 107,
+   "start": 366.5,
+   "end": 367.98,
+   "kind": "dialog",
+   "speaker": "Mr. Satan",
+   "text": "This is getting oddly personal..."
+  },
+  {
+   "i": 108,
+   "start": 367.98,
+   "end": 369.88,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Do you have any actual friends?"
+  },
+  {
+   "i": 109,
+   "start": 369.88,
+   "end": 373.2,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Any relationships at all that aren't about your money or your position?"
+  },
+  {
+   "i": 110,
+   "start": 373.82,
+   "end": 374.86,
+   "kind": "dialog",
+   "speaker": "Mr. Satan",
+   "text": "...I have a daughter."
+  },
+  {
+   "i": 111,
+   "start": 374.86,
+   "end": 376.6,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Oh, that poor orphan."
+  },
+  {
+   "i": 112,
+   "start": 376.96,
+   "end": 378.38,
+   "kind": "dialog",
+   "speaker": "Mr. Satan",
+   "text": "C--can we can we cut to commercial?"
+  },
+  {
+   "i": 113,
+   "start": 382.28,
+   "end": 384.32,
+   "kind": "dialog",
+   "speaker": "Jimmy",
+   "text": "Another man has just touched down at the arena!"
+  },
+  {
+   "i": 114,
+   "start": 384.48,
+   "end": 388.34,
+   "kind": "dialog",
+   "speaker": "Jimmy",
+   "text": "Uh-uh-sir! Are you looking to take on the terrifying Perfect Cell?"
+  },
+  {
+   "i": 115,
+   "start": 388.52,
+   "end": 392.08,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Get that mic out of my face before I give you a colonoscopy with your camera."
+  },
+  {
+   "i": 116,
+   "start": 392.08,
+   "end": 394.7,
+   "kind": "dialog",
+   "speaker": "Jimmy",
+   "text": "Message received, violent stranger!"
+  },
+  {
+   "i": 117,
+   "start": 395.38,
+   "end": 397.26,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Answer the question, Prince!"
+  },
+  {
+   "i": 118,
+   "start": 397.64,
+   "end": 399.44,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Do you plan to take me on?"
+  },
+  {
+   "i": 119,
+   "start": 399.44,
+   "end": 402.14,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Because I'm ready to throw down when you are, buddy!"
+  },
+  {
+   "i": 120,
+   "start": 402.14,
+   "end": 405.74,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Come on, let's toss you through a mountain or five for old times' sake."
+  },
+  {
+   "i": 121,
+   "start": 406.76,
+   "end": 408.62,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "...The old \"silent treatment\", is it?"
+  },
+  {
+   "i": 122,
+   "start": 408.92,
+   "end": 413.36,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Don't tell me you came all the way out here just to stand around and look mean~! (Chuckles)"
+  },
+  {
+   "i": 123,
+   "start": 413.36,
+   "end": 417.12,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Ohhh~, I see! You took my advice~!"
+  },
+  {
+   "i": 124,
+   "start": 415.36,
+   "end": 416.48,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "(Growling)"
+  },
+  {
+   "i": 125,
+   "start": 417.12,
+   "end": 418.6,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "You're waiting for..."
+  },
+  {
+   "i": 126,
+   "start": 418.6,
+   "end": 419.22,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "Goku!"
+  },
+  {
+   "i": 127,
+   "start": 419.22,
+   "end": 419.72,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Hm?"
+  },
+  {
+   "i": 128,
+   "start": 420.66,
+   "end": 422.98,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "My dear Android 16!"
+  },
+  {
+   "i": 129,
+   "start": 423.32,
+   "end": 425.66,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "How *wonderful* for you to join us today!"
+  },
+  {
+   "i": 130,
+   "start": 425.74,
+   "end": 426.7,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Are you here for--"
+  },
+  {
+   "i": 131,
+   "start": 426.7,
+   "end": 427.44,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "Goku!"
+  },
+  {
+   "i": 132,
+   "start": 427.44,
+   "end": 429.96,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Of course; your little murder-crush."
+  },
+  {
+   "i": 133,
+   "start": 429.96,
+   "end": 433.3,
+   "kind": "dialog",
+   "speaker": "Jimmy",
+   "text": "And another mysterious stranger has appeared from thin air!"
+  },
+  {
+   "i": 134,
+   "start": 433.42,
+   "end": 435.1,
+   "kind": "dialog",
+   "speaker": "Jimmy",
+   "text": "Where do these people keep coming from?"
+  },
+  {
+   "i": 135,
+   "start": 435.1,
+   "end": 436.84,
+   "kind": "dialog",
+   "speaker": "Jimmy",
+   "text": "And who does their hair?!"
+  },
+  {
+   "i": 136,
+   "start": 436.84,
+   "end": 443.74,
+   "kind": "dialog",
+   "speaker": "Mr. Satan",
+   "text": "Obviously they're just hidin' behind rocks, waitin' to make their dramatic entrances, and usin' cranes and wires to make it look like they're flyin'."
+  },
+  {
+   "i": 137,
+   "start": 443.88,
+   "end": 449.68,
+   "kind": "dialog",
+   "speaker": "Mr. Satan",
+   "text": "Similar to the practical effects we used in Skygina II: Mr. Satan vs. Dr. Brain-Man!"
+  },
+  {
+   "i": 138,
+   "start": 446.0,
+   "end": 449.68,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Crowd cheers"
+  },
+  {
+   "i": 139,
+   "start": 449.68,
+   "end": 451.52,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Crowd cheers"
+  },
+  {
+   "i": 140,
+   "start": 449.68,
+   "end": 451.52,
+   "kind": "dialog",
+   "speaker": "Mr. Satan",
+   "text": "In theatres Friday!"
+  },
+  {
+   "i": 141,
+   "start": 451.66,
+   "end": 454.52,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Will you be participating in the Games as well, Sixteen?"
+  },
+  {
+   "i": 142,
+   "start": 454.52,
+   "end": 457.46,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Or are you just going to sit on the sidelines like the Prince over here?"
+  },
+  {
+   "i": 143,
+   "start": 456.64,
+   "end": 457.46,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Hmmm!"
+  },
+  {
+   "i": 144,
+   "start": 457.46,
+   "end": 458.24,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "GOKU!"
+  },
+  {
+   "i": 145,
+   "start": 458.24,
+   "end": 460.78,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "OK, are you seriously just gonna say his name over and over?"
+  },
+  {
+   "i": 146,
+   "start": 460.78,
+   "end": 461.88,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "HE IS HERE!"
+  },
+  {
+   "i": 147,
+   "start": 462.04,
+   "end": 462.54,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Hm?"
+  },
+  {
+   "i": 148,
+   "start": 471.14,
+   "end": 473.94,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "And our roster is complete."
+  },
+  {
+   "i": 149,
+   "start": 474.12,
+   "end": 476.88,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "I hope this day finds you well, Son Goku."
+  },
+  {
+   "i": 150,
+   "start": 477.02,
+   "end": 479.36,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Slept a little weird on my arm, but, yeah."
+  },
+  {
+   "i": 151,
+   "start": 479.48,
+   "end": 482.48,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "I see you've brought the whole gang along to witness our battle."
+  },
+  {
+   "i": 152,
+   "start": 482.72,
+   "end": 487.28,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Piccolo, Trunks...*Tenshinhan*."
+  },
+  {
+   "i": 153,
+   "start": 487.28,
+   "end": 488.66,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Ki-ko-how ya doing?"
+  },
+  {
+   "i": 154,
+   "start": 488.66,
+   "end": 489.7,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "*Perfect*."
+  },
+  {
+   "i": 155,
+   "start": 489.98,
+   "end": 492.88,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "And Yamcha! What a surprise! How's it going, man?"
+  },
+  {
+   "i": 156,
+   "start": 492.88,
+   "end": 494.28,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Oh, uh, good..."
+  },
+  {
+   "i": 157,
+   "start": 494.46,
+   "end": 495.84,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "I brought towels and water bottles."
+  },
+  {
+   "i": 158,
+   "start": 495.84,
+   "end": 498.68,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "And like that, you've already contributed more than Vegeta."
+  },
+  {
+   "i": 159,
+   "start": 498.9,
+   "end": 500.4,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "Hello, little duckling."
+  },
+  {
+   "i": 160,
+   "start": 500.4,
+   "end": 504.26,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "He-hey, Sixteen! Looks like they fixed up your dome real nice, huh buddy?"
+  },
+  {
+   "i": 161,
+   "start": 504.26,
+   "end": 508.48,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "Indeed. I am now operating at 100% efficiency."
+  },
+  {
+   "i": 162,
+   "start": 508.76,
+   "end": 511.68,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "And for some reason, register 10 kilograms lighter."
+  },
+  {
+   "i": 163,
+   "start": 511.68,
+   "end": 513.58,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Good on ya, buddy! Ya look great!"
+  },
+  {
+   "i": 164,
+   "start": 513.58,
+   "end": 516.16,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh, hi! I'm Son Goku! Who are you?"
+  },
+  {
+   "i": 165,
+   "start": 516.7,
+   "end": 518.7,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ I Have Waited So Long ♫"
+  },
+  {
+   "i": 166,
+   "start": 519.14,
+   "end": 519.64,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Huh?"
+  },
+  {
+   "i": 167,
+   "start": 520.96,
+   "end": 524.5,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "♫ I have waited oh so long ♫"
+  },
+  {
+   "i": 168,
+   "start": 526.96,
+   "end": 529.32,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "♫ Please don't tell me baby ♫"
+  },
+  {
+   "i": 169,
+   "start": 529.68,
+   "end": 531.72,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "♫ I was wrong ♫"
+  },
+  {
+   "i": 170,
+   "start": 534.04,
+   "end": 537.12,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "♫ Dreaming of you every night ♫"
+  },
+  {
+   "i": 171,
+   "start": 539.6,
+   "end": 543.48,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "♫ Holding back until the time was right ♫"
+  },
+  {
+   "i": 172,
+   "start": 546.52,
+   "end": 549.14,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "♫ I've counted the days ♫"
+  },
+  {
+   "i": 173,
+   "start": 549.14,
+   "end": 549.64,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Music cuts-off"
+  },
+  {
+   "i": 174,
+   "start": 552.14,
+   "end": 554.18,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "...This guy's *intense*."
+  },
+  {
+   "i": 175,
+   "start": 554.46,
+   "end": 558.68,
+   "kind": "dialog",
+   "speaker": "Mr. Satan",
+   "text": "Yeah, uh, I get paid for every second I'm on camera, so if we could just--"
+  },
+  {
+   "i": 176,
+   "start": 558.68,
+   "end": 563.32,
+   "kind": "dialog",
+   "speaker": "Jimmy",
+   "text": "Excuse me, sir? Are you or any of your freakish-looking friends participating in the tournament today?"
+  },
+  {
+   "i": 177,
+   "start": 563.32,
+   "end": 565.9,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh yeah! I'ma go punch that Cell a lot!"
+  },
+  {
+   "i": 178,
+   "start": 566.16,
+   "end": 570.32,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "In fact, if you don't mind, I'ma gun go do that right now!"
+  },
+  {
+   "i": 179,
+   "start": 570.32,
+   "end": 571.98,
+   "kind": "dialog",
+   "speaker": "Mr. Satan",
+   "text": "*OK, enough*!"
+  },
+  {
+   "i": 180,
+   "start": 571.24,
+   "end": 571.98,
+   "kind": "dialog",
+   "speaker": "Jimmy",
+   "text": "Aah!"
+  },
+  {
+   "i": 181,
+   "start": 572.42,
+   "end": 573.08,
+   "kind": "dialog",
+   "speaker": "Jimmy",
+   "text": "F**k!"
+  },
+  {
+   "i": 182,
+   "start": 573.08,
+   "end": 578.26,
+   "kind": "dialog",
+   "speaker": "Mr. Satan",
+   "text": "I am not playing second-fiddle to a buncha gym rats with too much time on their hands!"
+  },
+  {
+   "i": 183,
+   "start": 578.26,
+   "end": 584.0,
+   "kind": "dialog",
+   "speaker": "Mr. Satan",
+   "text": "*I* am the World Martial Arts Champion, and *I* will be the one to defeat Cell!"
+  },
+  {
+   "i": 184,
+   "start": 584.1,
+   "end": 585.24,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(Gasp!)"
+  },
+  {
+   "i": 185,
+   "start": 585.6,
+   "end": 586.44,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "There was a tournament?"
+  },
+  {
+   "i": 186,
+   "start": 586.8,
+   "end": 587.78,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "You won a tournament?!"
+  },
+  {
+   "i": 187,
+   "start": 588.08,
+   "end": 589.56,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "*I* WON A TOURNAMENT!"
+  },
+  {
+   "i": 188,
+   "start": 589.84,
+   "end": 591.92,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "That means he's even stronger than Krillin!"
+  },
+  {
+   "i": 189,
+   "start": 591.92,
+   "end": 594.48,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Wait, hold u-- uh, why me specifically?!"
+  },
+  {
+   "i": 190,
+   "start": 594.6,
+   "end": 596.7,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Dang it, and I really wanted a turn!"
+  },
+  {
+   "i": 191,
+   "start": 596.98,
+   "end": 599.96,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh well. I guess we'll just have to let *The Champ* handle it."
+  },
+  {
+   "i": 192,
+   "start": 600.28,
+   "end": 601.68,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Are you for real right now?"
+  },
+  {
+   "i": 193,
+   "start": 601.9,
+   "end": 604.7,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Yeah - he's The Champ! He's got this."
+  },
+  {
+   "i": 194,
+   "start": 605.0,
+   "end": 607.92,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "I can't tell if he's serious - and that's very concerning."
+  },
+  {
+   "i": 195,
+   "start": 608.14,
+   "end": 611.38,
+   "kind": "dialog",
+   "speaker": "Mr. Satan",
+   "text": "Good! Now that we have rank all sorted out,"
+  },
+  {
+   "i": 196,
+   "start": 611.72,
+   "end": 617.64,
+   "kind": "dialog",
+   "speaker": "Mr. Satan",
+   "text": "I think it's about time I teach Cell where he falls: Specifically at my feet!"
+  },
+  {
+   "i": 197,
+   "start": 617.8,
+   "end": 623.64,
+   "kind": "dialog",
+   "speaker": "Mr. Satan",
+   "text": "When I, Mr. Satan, end this little freak-show, once and for--"
+  },
+  {
+   "i": 198,
+   "start": 623.64,
+   "end": 628.6,
+   "kind": "dialog",
+   "speaker": "Piiza",
+   "text": "Hope y'all ready to get down and dirty with the three hottest stars from the Y Network!"
+  },
+  {
+   "i": 199,
+   "start": 628.6,
+   "end": 629.3,
+   "kind": "dialog",
+   "speaker": "Piiza",
+   "text": "(Y'all ready?)"
+  },
+  {
+   "i": 200,
+   "start": 629.3,
+   "end": 633.78,
+   "kind": "dialog",
+   "speaker": "Jimmy",
+   "text": "What's this? New challengers from the bitter rivals of ZTV?!"
+  },
+  {
+   "i": 201,
+   "start": 633.78,
+   "end": 636.74,
+   "kind": "dialog",
+   "speaker": "Mr. Satan",
+   "text": "Like we don't got enough knuckleheads hoggin' mah spotlight!"
+  },
+  {
+   "i": 202,
+   "start": 636.74,
+   "end": 640.58,
+   "kind": "dialog",
+   "speaker": "Piiza",
+   "text": "Coming to you live from the Cell Games Arena, it's Piiza!"
+  },
+  {
+   "i": 203,
+   "start": 640.58,
+   "end": 641.64,
+   "kind": "dialog",
+   "speaker": "Piroshiki",
+   "text": "Piroshiki!"
+  },
+  {
+   "i": 204,
+   "start": 641.64,
+   "end": 642.96,
+   "kind": "dialog",
+   "speaker": "Caroni",
+   "text": "And Caroni!"
+  },
+  {
+   "i": 205,
+   "start": 642.96,
+   "end": 643.94,
+   "kind": "dialog",
+   "speaker": "Caroni",
+   "text": "And we are--"
+  },
+  {
+   "i": 206,
+   "start": 650.38,
+   "end": 650.88,
+   "kind": "dialog",
+   "speaker": "Jimmy",
+   "text": "...Di--"
+  },
+  {
+   "i": 207,
+   "start": 651.52,
+   "end": 653.1,
+   "kind": "dialog",
+   "speaker": "Jimmy",
+   "text": "...Did those people just die??"
+  },
+  {
+   "i": 208,
+   "start": 653.1,
+   "end": 655.56,
+   "kind": "dialog",
+   "speaker": "Mr. Satan",
+   "text": "Pfft! Don't be an idiot, Jimmy."
+  },
+  {
+   "i": 209,
+   "start": 655.56,
+   "end": 660.5,
+   "kind": "dialog",
+   "speaker": "Mr. Satan",
+   "text": "Obviously that was just an unmanned remote-controlled cargo robot with a voice-recordi--"
+  },
+  {
+   "i": 210,
+   "start": 661.48,
+   "end": 664.34,
+   "kind": "dialog",
+   "speaker": "Mr. Satan",
+   "text": "...and filled with fake cadavers for added effect!"
+  },
+  {
+   "i": 211,
+   "start": 664.76,
+   "end": 666.76,
+   "kind": "dialog",
+   "speaker": "Mr. Satan",
+   "text": "I'll give 'em points for effort, tho."
+  },
+  {
+   "i": 212,
+   "start": 666.76,
+   "end": 669.64,
+   "kind": "dialog",
+   "speaker": "Jimmy",
+   "text": "Mr. Satan ain't no one's fool!"
+  },
+  {
+   "i": 213,
+   "start": 669.64,
+   "end": 670.74,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Go Champ!"
+  },
+  {
+   "i": 214,
+   "start": 670.74,
+   "end": 672.44,
+   "kind": "dialog",
+   "speaker": "Mr. Satan",
+   "text": "Grrrrrh!"
+  },
+  {
+   "i": 215,
+   "start": 672.68,
+   "end": 675.26,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "If we're lucky, it'll be that quick with this Satan guy, uh?"
+  },
+  {
+   "i": 216,
+   "start": 675.26,
+   "end": 677.42,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Krillin, people are dying and we're just watching."
+  },
+  {
+   "i": 217,
+   "start": 677.42,
+   "end": 678.02,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Yup!"
+  },
+  {
+   "i": 218,
+   "start": 678.22,
+   "end": 682.62,
+   "kind": "dialog",
+   "speaker": "Mr. Satan",
+   "text": "Now, Cell... if that is your real name..."
+  },
+  {
+   "i": 219,
+   "start": 682.62,
+   "end": 683.82,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "It's actually *Perfect* Cell--"
+  },
+  {
+   "i": 220,
+   "start": 683.82,
+   "end": 686.16,
+   "kind": "dialog",
+   "speaker": "Mr. Satan",
+   "text": "IT'S ACTUALLY \"GARBAGE\"!"
+  },
+  {
+   "i": 221,
+   "start": 686.52,
+   "end": 690.64,
+   "kind": "dialog",
+   "speaker": "Mr. Satan",
+   "text": "And Mr. Satan's gonna take out the trash."
+  },
+  {
+   "i": 222,
+   "start": 690.64,
+   "end": 693.6,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "Wait, you were serious?! You're actually gonna *fight*?"
+  },
+  {
+   "i": 223,
+   "start": 693.6,
+   "end": 695.14,
+   "kind": "dialog",
+   "speaker": "Perfect Cell",
+   "text": "I thought you were just somebody's hype man."
+  },
+  {
+   "i": 224,
+   "start": 695.26,
+   "end": 696.98,
+   "kind": "dialog",
+   "speaker": "Mr. Satan",
+   "text": "I AM THE HYPE!"
+  },
+  {
+   "i": 225,
+   "start": 697.78,
+   "end": 698.82,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "KILL HIM!"
+  },
+  {
+   "i": 226,
+   "start": 699.0,
+   "end": 700.9,
+   "kind": "dialog",
+   "speaker": "Mr. Satan",
+   "text": "Now try to get this on camera, Gary!"
+  },
+  {
+   "i": 227,
+   "start": 700.9,
+   "end": 701.92,
+   "kind": "dialog",
+   "speaker": "Larry",
+   "text": "L-- Larry."
+  },
+  {
+   "i": 228,
+   "start": 701.92,
+   "end": 707.86,
+   "kind": "dialog",
+   "speaker": "Mr. Satan",
+   "text": "'Cus I'm gonna end this in a single blow, and it's gonna be *faster than light*!"
+  },
+  {
+   "i": 229,
+   "start": 708.38,
+   "end": 710.82,
+   "kind": "dialog",
+   "speaker": "Mr. Satan",
+   "text": "SATAN... PUUUU--!"
+  },
+  {
+   "i": 230,
+   "start": 710.82,
+   "end": 712.82,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "{BWOOOSH} {Splat}"
+  },
+  {
+   "i": 231,
+   "start": 712.82,
+   "end": 714.82,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "Spllllsh"
+  },
+  {
+   "i": 232,
+   "start": 714.82,
+   "end": 716.82,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "Splllsh"
+  },
+  {
+   "i": 233,
+   "start": 716.82,
+   "end": 718.82,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "Krpsh"
+  },
+  {
+   "i": 234,
+   "start": 728.16,
+   "end": 737.02,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ I Have Waited So Long ♫"
+  },
+  {
+   "i": 235,
+   "start": 734.48,
+   "end": 737.02,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Fade-out"
+  },
+  {
+   "i": 236,
+   "start": 737.02,
+   "end": 739.74,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "Hello my name is Sixteen may I please kill you?"
+  },
+  {
+   "i": 237,
+   "start": 739.86,
+   "end": 741.46,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "[To Krillin] Hold on. What'cha say?"
+  },
+  {
+   "i": 238,
+   "start": 742.7,
+   "end": 743.28,
+   "kind": "dialog",
+   "speaker": "Android 16",
+   "text": "...Nothing."
+  }
+ ],
+ "segments": [
+  {
+   "start": 36.2,
+   "end": 66.5,
+   "title": "Only on ZTV",
+   "quote": "Find out this Sunday at the Cell Games! Presented by HETAP.",
+   "line_start": 4,
+   "line_end": 7
+  },
+  {
+   "start": 89.3,
+   "end": 97.6,
+   "title": "Today is Fightin' Day",
+   "quote": "♫ Gonna grab my friends and fight a bug guy ♫",
+   "line_start": 8,
+   "line_end": 10
+  },
+  {
+   "start": 129.5,
+   "end": 148.1,
+   "title": "You Know What I'm Good At?",
+   "quote": "Leaving? / *Fighting*~!",
+   "line_start": 25,
+   "line_end": 32
+  },
+  {
+   "start": 179.8,
+   "end": 197.2,
+   "title": "That Jawline Don't Lie",
+   "quote": "Because that jawline don't lie and neither do I!",
+   "line_start": 46,
+   "line_end": 50
+  },
+  {
+   "start": 200.3,
+   "end": 226.9,
+   "title": "Jimmy Firecrack Corn and He Don't Give a F**k",
+   "quote": "He'll take any job! He'll take every job! He'll take YOUR job!",
+   "line_start": 52,
+   "line_end": 58
+  },
+  {
+   "start": 350.5,
+   "end": 378.9,
+   "title": "Budget Porno Flick",
+   "quote": "You look like an extra from a budget porno flick. / ...I have a daughter. / Oh, that poor orphan.",
+   "line_start": 99,
+   "line_end": 112
+  },
+  {
+   "start": 381.8,
+   "end": 395.2,
+   "title": "Message Received, Violent Stranger!",
+   "quote": "Get that mic out of my face before I give you a colonoscopy with your camera.",
+   "line_start": 113,
+   "line_end": 116
+  },
+  {
+   "start": 518.6,
+   "end": 554.6,
+   "title": "I Have Waited So Long",
+   "quote": "♫ I have waited oh so long ♫ / ...This guy's *intense*.",
+   "line_start": 166,
+   "line_end": 174
+  },
+  {
+   "start": 583.6,
+   "end": 608.3,
+   "title": "*I* WON A TOURNAMENT!",
+   "quote": "That means he's even stronger than Krillin! / Wait, hold u-- uh, why me specifically?!",
+   "line_start": 184,
+   "line_end": 194
+  },
+  {
+   "start": 642.5,
+   "end": 670.1,
+   "title": "Did Those People Just Die?",
+   "quote": "...Did those people just die?? / Pfft! Don't be an idiot, Jimmy.",
+   "line_start": 204,
+   "line_end": 212
+  },
+  {
+   "start": 690.1,
+   "end": 719.3,
+   "title": "I AM THE HYPE!",
+   "quote": "I thought you were just somebody's hype man. / I AM THE HYPE! / KILL HIM!",
+   "line_start": 222,
+   "line_end": 233
+  },
+  {
+   "start": 736.5,
+   "end": 743.8,
+   "title": "May I Please Kill You?",
+   "quote": "Hello my name is Sixteen may I please kill you? / ...Nothing.",
+   "line_start": 236,
+   "line_end": 238
+  }
+ ]
+}

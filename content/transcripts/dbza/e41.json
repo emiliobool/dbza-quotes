@@ -1,0 +1,1603 @@
+{
+ "item": "e41",
+ "show": "dbza",
+ "youtube": "h4L2dFoUysU",
+ "title": "Episode 37",
+ "duration": 576,
+ "lines": [
+  {
+   "i": 0,
+   "start": 16.06,
+   "end": 20.24,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "When a goddamn Super Saiyan asks you for a Senzu Bean, bald man, you say \"how many\"?"
+  },
+  {
+   "i": 1,
+   "start": 23.82,
+   "end": 25.14,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Aah, that's better."
+  },
+  {
+   "i": 2,
+   "start": 25.14,
+   "end": 30.32,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Count yourselves lucky to be in the presence of a shining golden God such as myself."
+  },
+  {
+   "i": 3,
+   "start": 30.32,
+   "end": 34.8,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Now, if you'll excuse me, I'm off to go kill the OTHER Android."
+  },
+  {
+   "i": 4,
+   "start": 34.8,
+   "end": 38.14,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "You peons may stay here and erect a statue in my honor."
+  },
+  {
+   "i": 5,
+   "start": 41.98,
+   "end": 43.48,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Soooo..."
+  },
+  {
+   "i": 6,
+   "start": 43.78,
+   "end": 45.32,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Vegeta's a Super Saiyan."
+  },
+  {
+   "i": 7,
+   "start": 45.32,
+   "end": 48.22,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Yeah, whatever. Did you catch the name of his attack, though?"
+  },
+  {
+   "i": 8,
+   "start": 48.22,
+   "end": 50.76,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "I know, right? \"Big Bang Attack\"?"
+  },
+  {
+   "i": 9,
+   "start": 50.76,
+   "end": 54.02,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'Uh, I dunno, this coming from Mr. \"Special Beam Cannon\".'"
+  },
+  {
+   "i": 10,
+   "start": 54.02,
+   "end": 57.0,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'Hey, why don't you try coming up with a better name for an attack?'"
+  },
+  {
+   "i": 11,
+   "start": 57.0,
+   "end": 58.88,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'How about...'"
+  },
+  {
+   "i": 12,
+   "start": 58.88,
+   "end": 60.46,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'\"Devil Drill Beam\"?'"
+  },
+  {
+   "i": 13,
+   "start": 60.46,
+   "end": 62.52,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'What about \"Spiral Death Beam\"?'"
+  },
+  {
+   "i": 14,
+   "start": 62.52,
+   "end": 64.18,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'\"Doom-Laser\"!'"
+  },
+  {
+   "i": 15,
+   "start": 64.18,
+   "end": 65.62,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'\"Rail Beam\"!'"
+  },
+  {
+   "i": 16,
+   "start": 65.62,
+   "end": 66.78,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'\"Nail Gun\"?'"
+  },
+  {
+   "i": 17,
+   "start": 67.42,
+   "end": 68.72,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "...Shit, that's good."
+  },
+  {
+   "i": 18,
+   "start": 76.185,
+   "end": 78.825,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'So just because he's a machine, I can't feel his energy?'"
+  },
+  {
+   "i": 19,
+   "start": 79.145,
+   "end": 80.985,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'That doesn't make any sense!'"
+  },
+  {
+   "i": 20,
+   "start": 81.285,
+   "end": 82.905,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'Energy sensing's bullshit.'"
+  },
+  {
+   "i": 21,
+   "start": 85.305,
+   "end": 89.225,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Hey, why you hidin'?! You scared 'cause I blew up your friend?!"
+  },
+  {
+   "i": 22,
+   "start": 89.225,
+   "end": 92.605,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I'd call it your sexbot, but as you're currently demonstrating..."
+  },
+  {
+   "i": 23,
+   "start": 92.605,
+   "end": 94.485,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "YOU DON'T HAVE ANY BALLS!"
+  },
+  {
+   "i": 24,
+   "start": 98.685,
+   "end": 101.385,
+   "kind": "dialog",
+   "speaker": "Old Android",
+   "text": "'Yes! He's desperate to find me...'"
+  },
+  {
+   "i": 25,
+   "start": 101.385,
+   "end": 103.345,
+   "kind": "dialog",
+   "speaker": "Old Android",
+   "text": "'I just have to wait him out.'"
+  },
+  {
+   "i": 26,
+   "start": 103.665,
+   "end": 109.185,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Ah man, sure do feel winded after blowing up your robosexual life partner!"
+  },
+  {
+   "i": 27,
+   "start": 109.445,
+   "end": 112.545,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Sure would suck if you jumped me and took my energy!"
+  },
+  {
+   "i": 28,
+   "start": 113.045,
+   "end": 117.405,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Oh no! Some dust in my eyes! This is the worst!"
+  },
+  {
+   "i": 29,
+   "start": 118.825,
+   "end": 120.385,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "GET THE F*CK OUT HERE!"
+  },
+  {
+   "i": 30,
+   "start": 120.945,
+   "end": 122.925,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Hey, Vegeta! We finally caught up and--"
+  },
+  {
+   "i": 31,
+   "start": 122.925,
+   "end": 123.925,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "OH GOD, NO!"
+  },
+  {
+   "i": 32,
+   "start": 130.185,
+   "end": 132.745,
+   "kind": "dialog",
+   "speaker": "Old Android",
+   "text": "And now your energy is mine!"
+  },
+  {
+   "i": 33,
+   "start": 132.745,
+   "end": 134.885,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "But that's exactly what I was planning on."
+  },
+  {
+   "i": 34,
+   "start": 134.885,
+   "end": 139.345,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I knew you couldn't resist jumping out to suckle on my Super Saiyan teat!"
+  },
+  {
+   "i": 35,
+   "start": 139.345,
+   "end": 142.625,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "And now you're mine, all mine, you old le--"
+  },
+  {
+   "i": 36,
+   "start": 143.445,
+   "end": 145.765,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "...Hey! Get back here, I wasn't done!"
+  },
+  {
+   "i": 37,
+   "start": 148.085,
+   "end": 150.985,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "This tactical shit's getting really old!"
+  },
+  {
+   "i": 38,
+   "start": 151.185,
+   "end": 154.785,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Now you get out here, and fight me blindly like a man!"
+  },
+  {
+   "i": 39,
+   "start": 155.285,
+   "end": 157.245,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Or a... mandroid."
+  },
+  {
+   "i": 40,
+   "start": 157.665,
+   "end": 165.825,
+   "kind": "dialog",
+   "speaker": "Old Android",
+   "text": "'Yes, you may be a Super Saiyan, Vegeta, but you're still just an arrogant little brat, aren't you?'"
+  },
+  {
+   "i": 41,
+   "start": 165.825,
+   "end": 168.005,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Olly olly oxen bitch!"
+  },
+  {
+   "i": 42,
+   "start": 169.105,
+   "end": 172.165,
+   "kind": "dialog",
+   "speaker": "Old Android",
+   "text": "'Well, while you continue to prattle on...'"
+  },
+  {
+   "i": 43,
+   "start": 172.165,
+   "end": 174.345,
+   "kind": "dialog",
+   "speaker": "Old Android",
+   "text": "'I shall make my escape an--'"
+  },
+  {
+   "i": 44,
+   "start": 174.805,
+   "end": 179.585,
+   "kind": "dialog",
+   "speaker": "Old Android",
+   "text": "'...Oh, they followed me! No matter, I'll just head the other way an--'"
+  },
+  {
+   "i": 45,
+   "start": 180.445,
+   "end": 184.405,
+   "kind": "dialog",
+   "speaker": "Old Android",
+   "text": "'...Okay, fine, I'll just maneuver back where I came fro--'"
+  },
+  {
+   "i": 46,
+   "start": 184.805,
+   "end": 186.625,
+   "kind": "dialog",
+   "speaker": "Old Android",
+   "text": "'WHY THE HELL IS HE EVEN HERE?!'"
+  },
+  {
+   "i": 47,
+   "start": 187.285,
+   "end": 188.665,
+   "kind": "dialog",
+   "speaker": "Old Android",
+   "text": "'Then again...'"
+  },
+  {
+   "i": 48,
+   "start": 188.905,
+   "end": 193.785,
+   "kind": "dialog",
+   "speaker": "Old Android",
+   "text": "'At my age, I could use more greens in my diet...'"
+  },
+  {
+   "i": 49,
+   "start": 194.425,
+   "end": 197.045,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'Alright, what about \"Regicide Blaster\"?'"
+  },
+  {
+   "i": 50,
+   "start": 197.045,
+   "end": 198.285,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'\"Doomsday Crush\"!'"
+  },
+  {
+   "i": 51,
+   "start": 198.285,
+   "end": 200.225,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'\"Anarchy Barrage\"!'"
+  },
+  {
+   "i": 52,
+   "start": 200.225,
+   "end": 201.505,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'\"Taco Tuesday\"!'"
+  },
+  {
+   "i": 53,
+   "start": 201.505,
+   "end": 202.965,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'\"Hellzone Grenade\"!'"
+  },
+  {
+   "i": 54,
+   "start": 202.965,
+   "end": 204.385,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'Ehhh...'"
+  },
+  {
+   "i": 55,
+   "start": 204.385,
+   "end": 206.245,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Screw you, I'm keeping that one."
+  },
+  {
+   "i": 56,
+   "start": 207.785,
+   "end": 209.345,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "(Muffled yelling)"
+  },
+  {
+   "i": 57,
+   "start": 209.345,
+   "end": 210.405,
+   "kind": "dialog",
+   "speaker": "Old Android",
+   "text": "Hello there!"
+  },
+  {
+   "i": 58,
+   "start": 210.405,
+   "end": 213.405,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'I'm gonna leave you two alone for now...'"
+  },
+  {
+   "i": 59,
+   "start": 213.405,
+   "end": 215.565,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "NAAAAIL!"
+  },
+  {
+   "i": 60,
+   "start": 215.725,
+   "end": 217.165,
+   "kind": "dialog",
+   "speaker": "Old Android",
+   "text": "Shhhhhh...!"
+  },
+  {
+   "i": 61,
+   "start": 217.165,
+   "end": 219.085,
+   "kind": "dialog",
+   "speaker": "Old Android",
+   "text": "Oh, don't struggle..."
+  },
+  {
+   "i": 62,
+   "start": 219.085,
+   "end": 221.345,
+   "kind": "dialog",
+   "speaker": "Old Android",
+   "text": "Just lie back and think of..."
+  },
+  {
+   "i": 63,
+   "start": 221.925,
+   "end": 223.025,
+   "kind": "dialog",
+   "speaker": "Old Android",
+   "text": "*Namek*."
+  },
+  {
+   "i": 64,
+   "start": 223.025,
+   "end": 227.105,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Ugh! 'Damn it! I have to contact Gohan!'"
+  },
+  {
+   "i": 65,
+   "start": 227.325,
+   "end": 229.865,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Gohan...! Do you hear me?!"
+  },
+  {
+   "i": 66,
+   "start": 229.865,
+   "end": 239.685,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "'Oh God, this feels amazing...! First thing I'm gonna do when I get home, is: * Step in front of a full length mirror * Strip down * Turn Super Saiyan and--'"
+  },
+  {
+   "i": 67,
+   "start": 239.685,
+   "end": 241.405,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Ugh-hugh GohanGohan*Gohan*!"
+  },
+  {
+   "i": 68,
+   "start": 241.405,
+   "end": 244.745,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "♫ 'Cat loves food yeah-yeah-yeah-yeah, cat loves--' ♫"
+  },
+  {
+   "i": 69,
+   "start": 244.745,
+   "end": 246.285,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Uhhh..."
+  },
+  {
+   "i": 70,
+   "start": 247.285,
+   "end": 250.405,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "You heard... *nothing*."
+  },
+  {
+   "i": 71,
+   "start": 250.405,
+   "end": 253.785,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Damn it! Gohan, this old man's got me from behind, you have to--"
+  },
+  {
+   "i": 72,
+   "start": 253.785,
+   "end": 255.525,
+   "kind": "dialog",
+   "speaker": "George Takei",
+   "text": "Ohh my~...!"
+  },
+  {
+   "i": 73,
+   "start": 255.525,
+   "end": 258.945,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "*Seriously*, how do people keep getting on this line?!"
+  },
+  {
+   "i": 74,
+   "start": 259.065,
+   "end": 261.185,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "(Muffled screaming)"
+  },
+  {
+   "i": 75,
+   "start": 261.185,
+   "end": 262.425,
+   "kind": "dialog",
+   "speaker": "Old Android",
+   "text": "Mu-ha-ha-ha!"
+  },
+  {
+   "i": 76,
+   "start": 262.425,
+   "end": 264.605,
+   "kind": "dialog",
+   "speaker": "Old Android",
+   "text": "Aa-ha-ha-ha-haa-ha--"
+  },
+  {
+   "i": 77,
+   "start": 264.605,
+   "end": 266.105,
+   "kind": "dialog",
+   "speaker": "Old Android",
+   "text": "HA-UGH! D'ungh!"
+  },
+  {
+   "i": 78,
+   "start": 266.105,
+   "end": 268.345,
+   "kind": "dialog",
+   "speaker": "Old Android",
+   "text": "NO! My head cylinder!"
+  },
+  {
+   "i": 79,
+   "start": 268.765,
+   "end": 271.045,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "G-Gohan... how did you...?"
+  },
+  {
+   "i": 80,
+   "start": 271.045,
+   "end": 274.725,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "You two were hanging in the middle of the air! How could I NOT see you?"
+  },
+  {
+   "i": 81,
+   "start": 274.725,
+   "end": 277.105,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Don't you... sass me..."
+  },
+  {
+   "i": 82,
+   "start": 277.185,
+   "end": 279.865,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Well, look who finally installed a pair!"
+  },
+  {
+   "i": 83,
+   "start": 280.705,
+   "end": 284.045,
+   "kind": "dialog",
+   "speaker": "Old Android",
+   "text": "Well, uh... this is a little awkward..."
+  },
+  {
+   "i": 84,
+   "start": 284.045,
+   "end": 287.685,
+   "kind": "dialog",
+   "speaker": "Old Android",
+   "text": "Maybe... we could have a little dialogue and work this out--"
+  },
+  {
+   "i": 85,
+   "start": 287.685,
+   "end": 288.325,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Nno."
+  },
+  {
+   "i": 86,
+   "start": 288.325,
+   "end": 288.965,
+   "kind": "dialog",
+   "speaker": "Old Android",
+   "text": "Okay."
+  },
+  {
+   "i": 87,
+   "start": 289.465,
+   "end": 292.765,
+   "kind": "dialog",
+   "speaker": "Old Android",
+   "text": "Then, how about I fight the bald one first?"
+  },
+  {
+   "i": 88,
+   "start": 292.765,
+   "end": 294.285,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Anytime, old man."
+  },
+  {
+   "i": 89,
+   "start": 294.285,
+   "end": 295.745,
+   "kind": "dialog",
+   "speaker": "Old Android",
+   "text": "No! That one!"
+  },
+  {
+   "i": 90,
+   "start": 295.745,
+   "end": 297.125,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Ehhh, I'ma opt out."
+  },
+  {
+   "i": 91,
+   "start": 297.125,
+   "end": 298.465,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "How about this one?"
+  },
+  {
+   "i": 92,
+   "start": 298.705,
+   "end": 303.485,
+   "kind": "dialog",
+   "speaker": "Old Android",
+   "text": "Oh, please. As if you're in any condition to fight me."
+  },
+  {
+   "i": 93,
+   "start": 303.485,
+   "end": 304.585,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Krillin, Senzu Bean."
+  },
+  {
+   "i": 94,
+   "start": 304.585,
+   "end": 305.245,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Senzu Bean?"
+  },
+  {
+   "i": 95,
+   "start": 305.245,
+   "end": 305.985,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Senzu Bean."
+  },
+  {
+   "i": 96,
+   "start": 305.985,
+   "end": 307.145,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Senzu Bean!"
+  },
+  {
+   "i": 97,
+   "start": 314.485,
+   "end": 318.465,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Call me the can opener, 'cause I'm about to bust open your metal ass!"
+  },
+  {
+   "i": 98,
+   "start": 318.785,
+   "end": 324.645,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Yeah, how about you just leave the one-liners to me? Besides, the old man is mine, Namekian."
+  },
+  {
+   "i": 99,
+   "start": 324.645,
+   "end": 329.565,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "I just figured you wouldn't wanna sully your \"Super Saiyan hands\" on such a weak opponent."
+  },
+  {
+   "i": 100,
+   "start": 330.765,
+   "end": 333.765,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Y'know, the funny thing is, I know you're playing me... but you're right."
+  },
+  {
+   "i": 101,
+   "start": 333.765,
+   "end": 334.925,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "He's all yours."
+  },
+  {
+   "i": 102,
+   "start": 334.925,
+   "end": 341.845,
+   "kind": "dialog",
+   "speaker": "Old Android",
+   "text": "Ah yes, pit me against your little green man. I've already consumed enough energy from him to match him twice--"
+  },
+  {
+   "i": 103,
+   "start": 341.845,
+   "end": 342.765,
+   "kind": "dialog",
+   "speaker": "Old Android",
+   "text": "D'OOAUGH-AACK!"
+  },
+  {
+   "i": 104,
+   "start": 344.145,
+   "end": 345.125,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Pfft, hah!"
+  },
+  {
+   "i": 105,
+   "start": 347.585,
+   "end": 349.965,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Oh my God! Chiaotzu's dead!"
+  },
+  {
+   "i": 106,
+   "start": 350.525,
+   "end": 354.945,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "...And he really let himself go... and he's an Android."
+  },
+  {
+   "i": 107,
+   "start": 356.005,
+   "end": 357.885,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "That's not Chiaotzu."
+  },
+  {
+   "i": 108,
+   "start": 358.485,
+   "end": 361.085,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "(Gasp) Ohh, crap baskets."
+  },
+  {
+   "i": 109,
+   "start": 361.885,
+   "end": 366.785,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "There's a long list of bad ideas, and this one is at the top. You know that, right?"
+  },
+  {
+   "i": 110,
+   "start": 366.785,
+   "end": 370.345,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "I absolutely refuse to sit around and not be part of the action anymore!"
+  },
+  {
+   "i": 111,
+   "start": 370.345,
+   "end": 373.065,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Do you know I never even saw Freeza?! Not once?!"
+  },
+  {
+   "i": 112,
+   "start": 373.065,
+   "end": 376.725,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "I'm pretty sure no one ever complained about not meeting Hitler!"
+  },
+  {
+   "i": 113,
+   "start": 376.725,
+   "end": 379.565,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "I mean, some people do, but they're weird..."
+  },
+  {
+   "i": 114,
+   "start": 379.565,
+   "end": 381.005,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "This isn't up for debate!"
+  },
+  {
+   "i": 115,
+   "start": 381.005,
+   "end": 383.405,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "You do know your kid is in the plane, right?!"
+  },
+  {
+   "i": 116,
+   "start": 383.405,
+   "end": 384.985,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Oh, he doesn't know what's going on."
+  },
+  {
+   "i": 117,
+   "start": 384.985,
+   "end": 386.825,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "Yeah, I don't think that's the point!"
+  },
+  {
+   "i": 118,
+   "start": 387.185,
+   "end": 389.465,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "Also, he keeps trying to feed off me."
+  },
+  {
+   "i": 119,
+   "start": 389.465,
+   "end": 392.525,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Don't worry, he'll give it up when he realizes it's a dry well."
+  },
+  {
+   "i": 120,
+   "start": 392.525,
+   "end": 397.085,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "Yeah, 'bout that... have you ever seen what an all-Senzu-Bean diet does to a man?"
+  },
+  {
+   "i": 121,
+   "start": 397.745,
+   "end": 398.365,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "What?!"
+  },
+  {
+   "i": 122,
+   "start": 398.645,
+   "end": 399.645,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "Korin likes it."
+  },
+  {
+   "i": 123,
+   "start": 407.625,
+   "end": 410.185,
+   "kind": "dialog",
+   "speaker": "Old Android",
+   "text": "Okay, first... WHAT?!"
+  },
+  {
+   "i": 124,
+   "start": 410.185,
+   "end": 412.365,
+   "kind": "dialog",
+   "speaker": "Old Android",
+   "text": "Second... THE F*CK?!"
+  },
+  {
+   "i": 125,
+   "start": 412.365,
+   "end": 414.945,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "You know, I did spend 3 years training with Goku."
+  },
+  {
+   "i": 126,
+   "start": 414.945,
+   "end": 418.625,
+   "kind": "dialog",
+   "speaker": "Old Android",
+   "text": "Oh, so what? Are you a Super Saiyan now, too?!"
+  },
+  {
+   "i": 127,
+   "start": 418.625,
+   "end": 422.025,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Well... more of a \"Super Namekian\", I guess."
+  },
+  {
+   "i": 128,
+   "start": 422.025,
+   "end": 424.265,
+   "kind": "dialog",
+   "speaker": "Old Android",
+   "text": "Wait, I thought you were a demon."
+  },
+  {
+   "i": 129,
+   "start": 424.265,
+   "end": 425.945,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Nope; slug-man."
+  },
+  {
+   "i": 130,
+   "start": 425.945,
+   "end": 429.865,
+   "kind": "dialog",
+   "speaker": "Old Android",
+   "text": "Wow... that's... significantly more mundane."
+  },
+  {
+   "i": 131,
+   "start": 429.865,
+   "end": 433.425,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Ugh, I know! By the way, what's that brain case made out of?"
+  },
+  {
+   "i": 132,
+   "start": 433.425,
+   "end": 437.325,
+   "kind": "dialog",
+   "speaker": "Old Android",
+   "text": "Oh, well, it's a polycarbonate thermoplastic laminated--"
+  },
+  {
+   "i": 133,
+   "start": 437.325,
+   "end": 438.625,
+   "kind": "dialog",
+   "speaker": "Old Android",
+   "text": "DM'AAAARGH!"
+  },
+  {
+   "i": 134,
+   "start": 441.305,
+   "end": 443.425,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "...Anyone else feel like we over trained for this?"
+  },
+  {
+   "i": 135,
+   "start": 443.425,
+   "end": 444.585,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Tell me about it--"
+  },
+  {
+   "i": 136,
+   "start": 444.585,
+   "end": 445.625,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "No! Shut up!"
+  },
+  {
+   "i": 137,
+   "start": 448.085,
+   "end": 451.165,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "MR. PICCOLOOOOoo--!"
+  },
+  {
+   "i": 138,
+   "start": 451.165,
+   "end": 452.145,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Oh, nevermind..."
+  },
+  {
+   "i": 139,
+   "start": 453.505,
+   "end": 457.625,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "You know, I never understood why you'd even bother installing pain receptors."
+  },
+  {
+   "i": 140,
+   "start": 457.805,
+   "end": 460.865,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Kinda comes off as an intentional design flaw if you ask me."
+  },
+  {
+   "i": 141,
+   "start": 460.865,
+   "end": 465.225,
+   "kind": "dialog",
+   "speaker": "Old Android",
+   "text": "Don't you criticize my methods like you understand the neural system!"
+  },
+  {
+   "i": 142,
+   "start": 465.225,
+   "end": 469.985,
+   "kind": "dialog",
+   "speaker": "Old Android",
+   "text": "Pain is imperative to recognize when you are in peril, to give the human mind CON--"
+  },
+  {
+   "i": 143,
+   "start": 469.985,
+   "end": 471.965,
+   "kind": "dialog",
+   "speaker": "Old Android",
+   "text": "TEEEEXXXXXT!!"
+  },
+  {
+   "i": 144,
+   "start": 472.305,
+   "end": 473.885,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "So, contextually speaking..."
+  },
+  {
+   "i": 145,
+   "start": 475.285,
+   "end": 476.365,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "How f*cked are you?"
+  },
+  {
+   "i": 146,
+   "start": 476.365,
+   "end": 479.605,
+   "kind": "dialog",
+   "speaker": "Old Android",
+   "text": "You lime-colored son of a BITCH!"
+  },
+  {
+   "i": 147,
+   "start": 479.605,
+   "end": 484.365,
+   "kind": "dialog",
+   "speaker": "Old Android",
+   "text": "It's going to take me at least... TWO HOURS to program a new hand!"
+  },
+  {
+   "i": 148,
+   "start": 484.365,
+   "end": 486.745,
+   "kind": "dialog",
+   "speaker": "Old Android",
+   "text": "No, wait... I'm right handed!"
+  },
+  {
+   "i": 149,
+   "start": 486.745,
+   "end": 488.085,
+   "kind": "dialog",
+   "speaker": "Old Android",
+   "text": "THREE HOURS!!"
+  },
+  {
+   "i": 150,
+   "start": 488.085,
+   "end": 492.465,
+   "kind": "dialog",
+   "speaker": "Old Android",
+   "text": "You miserable reprobates! What have I ever done to you?!"
+  },
+  {
+   "i": 151,
+   "start": 492.485,
+   "end": 495.325,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Pretty sure you vaporized half a city."
+  },
+  {
+   "i": 152,
+   "start": 495.325,
+   "end": 497.245,
+   "kind": "dialog",
+   "speaker": "Old Android",
+   "text": "I meant recently!"
+  },
+  {
+   "i": 153,
+   "start": 497.245,
+   "end": 498.785,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "That was an hour ago."
+  },
+  {
+   "i": 154,
+   "start": 498.785,
+   "end": 500.085,
+   "kind": "dialog",
+   "speaker": "Old Android",
+   "text": "Semantics!"
+  },
+  {
+   "i": 155,
+   "start": 501.305,
+   "end": 505.305,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "I'm sorry I'm late. The Time Machine's a little imprecise in terms of hours and--"
+  },
+  {
+   "i": 156,
+   "start": 505.305,
+   "end": 507.405,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "What the *hell* is that thing?!"
+  },
+  {
+   "i": 157,
+   "start": 507.405,
+   "end": 509.445,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Trunks?! What are you doing here?!"
+  },
+  {
+   "i": 158,
+   "start": 509.445,
+   "end": 511.125,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Hah! That's a girl's name!"
+  },
+  {
+   "i": 159,
+   "start": 511.125,
+   "end": 512.625,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Wait, isn't that the name of your kid?"
+  },
+  {
+   "i": 160,
+   "start": 512.625,
+   "end": 521.825,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "What? Are you trying to imply that this wannabe Super Saiyan from the future is my soooooooooo...."
+  },
+  {
+   "i": 161,
+   "start": 520.025,
+   "end": 523.725,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Well, guess that cat's outta' the bag. But seriously, what is that?!"
+  },
+  {
+   "i": 162,
+   "start": 523.725,
+   "end": 525.105,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "That's the Android."
+  },
+  {
+   "i": 163,
+   "start": 525.105,
+   "end": 526.105,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "No it's not."
+  },
+  {
+   "i": 164,
+   "start": 526.105,
+   "end": 527.305,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Yes it is!"
+  },
+  {
+   "i": 165,
+   "start": 527.305,
+   "end": 528.345,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "No! It's not!"
+  },
+  {
+   "i": 166,
+   "start": 528.345,
+   "end": 529.325,
+   "kind": "dialog",
+   "speaker": "Old Android",
+   "text": "Yes, I am!"
+  },
+  {
+   "i": 167,
+   "start": 529.325,
+   "end": 530.545,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "You stay out of this!"
+  },
+  {
+   "i": 168,
+   "start": 530.545,
+   "end": 534.485,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Wait, so you're saying that *that's* not the Android that kills us?"
+  },
+  {
+   "i": 169,
+   "start": 534.485,
+   "end": 535.625,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "No, I don't even--"
+  },
+  {
+   "i": 170,
+   "start": 535.625,
+   "end": 537.825,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "But you *said* two Androids, right?"
+  },
+  {
+   "i": 171,
+   "start": 537.825,
+   "end": 539.265,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "And we've been fighting two."
+  },
+  {
+   "i": 172,
+   "start": 539.265,
+   "end": 541.925,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "Yes I said two, but that's not one of them!"
+  },
+  {
+   "i": 173,
+   "start": 541.925,
+   "end": 543.885,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Why didn't you tell us what they look like, then?!"
+  },
+  {
+   "i": 174,
+   "start": 543.885,
+   "end": 545.645,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "I only ever met the two!"
+  },
+  {
+   "i": 175,
+   "start": 545.645,
+   "end": 547.985,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Well look at that, SO DID WE!"
+  },
+  {
+   "i": 176,
+   "start": 548.365,
+   "end": 549.625,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Hey guys!"
+  },
+  {
+   "i": 177,
+   "start": 549.625,
+   "end": 551.285,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "And now the woman's here!"
+  },
+  {
+   "i": 178,
+   "start": 551.285,
+   "end": 552.165,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Bulma, *no*!"
+  },
+  {
+   "i": 179,
+   "start": 552.165,
+   "end": 553.825,
+   "kind": "dialog",
+   "speaker": "Trunks",
+   "text": "DID SHE BRING *ME*?!"
+  },
+  {
+   "i": 180,
+   "start": 553.825,
+   "end": 556.205,
+   "kind": "dialog",
+   "speaker": "Old Android",
+   "text": "'And there's my door!' >:D"
+  },
+  {
+   "i": 181,
+   "start": 566.985,
+   "end": 568.065,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'\"Wind Scar\"!'"
+  },
+  {
+   "i": 182,
+   "start": 568.065,
+   "end": 569.425,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'\"Spirit Gun\"!'"
+  },
+  {
+   "i": 183,
+   "start": 569.425,
+   "end": 570.545,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'\"Bankai\"!'"
+  },
+  {
+   "i": 184,
+   "start": 570.545,
+   "end": 571.785,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'\"Rasengan\"!'"
+  },
+  {
+   "i": 185,
+   "start": 571.785,
+   "end": 573.425,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'\"Gum Gum Pistol\".'"
+  },
+  {
+   "i": 186,
+   "start": 574.385,
+   "end": 576.385,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'...That sounds dirty.'"
+  }
+ ],
+ "segments": [
+  {
+   "start": 41.5,
+   "end": 68.72,
+   "title": "Attack Name Game",
+   "quote": "'\"Nail Gun\"?' / ...Shit, that's good.",
+   "line_start": 5,
+   "line_end": 17
+  },
+  {
+   "start": 103.2,
+   "end": 123.92,
+   "title": "Some Dust in My Eyes",
+   "quote": "Oh no! Some dust in my eyes! This is the worst!",
+   "line_start": 26,
+   "line_end": 31
+  },
+  {
+   "start": 207.3,
+   "end": 229.87,
+   "title": "Think of Namek",
+   "quote": "Just lie back and think of... *Namek*.",
+   "line_start": 56,
+   "line_end": 65
+  },
+  {
+   "start": 229.4,
+   "end": 258.94,
+   "title": "Cat Loves Food",
+   "quote": "♫ 'Cat loves food yeah-yeah-yeah-yeah' ♫ / You heard... *nothing*.",
+   "line_start": 66,
+   "line_end": 73
+  },
+  {
+   "start": 347.1,
+   "end": 361.08,
+   "title": "Crap Baskets",
+   "quote": "That's not Chiaotzu. / (Gasp) Ohh, crap baskets.",
+   "line_start": 105,
+   "line_end": 108
+  },
+  {
+   "start": 361.4,
+   "end": 386.82,
+   "title": "Never Met Hitler",
+   "quote": "I'm pretty sure no one ever complained about not meeting Hitler!",
+   "line_start": 109,
+   "line_end": 117
+  },
+  {
+   "start": 407.1,
+   "end": 438.62,
+   "title": "Super Namekian? Nope; Slug-Man",
+   "quote": "Well... more of a \"Super Namekian\", I guess. / Nope; slug-man.",
+   "line_start": 123,
+   "line_end": 133
+  },
+  {
+   "start": 453.0,
+   "end": 476.37,
+   "title": "CON-TEXT",
+   "quote": "So, contextually speaking... How f*cked are you?",
+   "line_start": 139,
+   "line_end": 145
+  },
+  {
+   "start": 475.9,
+   "end": 500.08,
+   "title": "Semantics!",
+   "quote": "I meant recently! / That was an hour ago. / Semantics!",
+   "line_start": 146,
+   "line_end": 154
+  },
+  {
+   "start": 500.8,
+   "end": 523.73,
+   "title": "That's a Girl's Name",
+   "quote": "What? Are you trying to imply that this wannabe Super Saiyan from the future is my soooooooooo....",
+   "line_start": 155,
+   "line_end": 161
+  },
+  {
+   "start": 530.0,
+   "end": 556.21,
+   "title": "And There's My Door",
+   "quote": "DID SHE BRING *ME*?! / 'And there's my door!' >:D",
+   "line_start": 168,
+   "line_end": 180
+  },
+  {
+   "start": 566.5,
+   "end": 576.38,
+   "title": "That Sounds Dirty",
+   "quote": "'\"Gum Gum Pistol\".' / '...That sounds dirty.'",
+   "line_start": 181,
+   "line_end": 186
+  }
+ ]
+}

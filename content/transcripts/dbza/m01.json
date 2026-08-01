@@ -1,0 +1,3795 @@
+{
+ "item": "m01",
+ "show": "dbza",
+ "youtube": "ub3pgNSL0S4",
+ "title": "Dead Zone",
+ "duration": 1213,
+ "lines": [
+  {
+   "i": 0,
+   "start": 9.3,
+   "end": 13.16,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Rrrraaaaaaaghhh!!!"
+  },
+  {
+   "i": 1,
+   "start": 16.0,
+   "end": 16.5,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "(Perfect!)"
+  },
+  {
+   "i": 2,
+   "start": 16.5,
+   "end": 19.3,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "(Now I have a place to put my castle once I rule the world.)"
+  },
+  {
+   "i": 3,
+   "start": 20.0,
+   "end": 22.42,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "(And it'll have all the things a castle requires.)"
+  },
+  {
+   "i": 4,
+   "start": 23.04,
+   "end": 23.98,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "(Like walls...)"
+  },
+  {
+   "i": 5,
+   "start": 24.8,
+   "end": 26.02,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "(and subjects...)"
+  },
+  {
+   "i": 6,
+   "start": 27.08,
+   "end": 27.9,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Maybe even a trebuch--"
+  },
+  {
+   "i": 7,
+   "start": 27.9,
+   "end": 28.4,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Huh?"
+  },
+  {
+   "i": 8,
+   "start": 30.7,
+   "end": 31.82,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Wait, are they running on air?"
+  },
+  {
+   "i": 9,
+   "start": 32.26,
+   "end": 33.12,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "That's riduculous."
+  },
+  {
+   "i": 10,
+   "start": 33.38,
+   "end": 34.94,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "They're flying! Why would they even need to--"
+  },
+  {
+   "i": 11,
+   "start": 34.94,
+   "end": 35.88,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Ahhh!!"
+  },
+  {
+   "i": 12,
+   "start": 35.88,
+   "end": 37.06,
+   "kind": "dialog",
+   "speaker": "Ginger",
+   "text": "F*CK 'EM UP!!"
+  },
+  {
+   "i": 13,
+   "start": 37.06,
+   "end": 38.16,
+   "kind": "dialog",
+   "speaker": "Cinnamon",
+   "text": "From the front!"
+  },
+  {
+   "i": 14,
+   "start": 37.06,
+   "end": 38.16,
+   "kind": "dialog",
+   "speaker": "Pepper",
+   "text": "To the back!"
+  },
+  {
+   "i": 15,
+   "start": 38.74,
+   "end": 40.94,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Oh, you better just KILL me!"
+  },
+  {
+   "i": 16,
+   "start": 42.14,
+   "end": 42.94,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Shit."
+  },
+  {
+   "i": 17,
+   "start": 43.68,
+   "end": 45.84,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Aaaaaaaaaahhh!!!"
+  },
+  {
+   "i": 18,
+   "start": 45.9,
+   "end": 47.0,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Ahh!!"
+  },
+  {
+   "i": 19,
+   "start": 47.0,
+   "end": 48.36,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "You OK in there, Kami?"
+  },
+  {
+   "i": 20,
+   "start": 48.62,
+   "end": 49.62,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Mr. Popo!"
+  },
+  {
+   "i": 21,
+   "start": 49.62,
+   "end": 52.74,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "I believe... that Piccolo may have been slain."
+  },
+  {
+   "i": 22,
+   "start": 53.76,
+   "end": 55.78,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "I'd think you'd know if he were."
+  },
+  {
+   "i": 23,
+   "start": 57.06,
+   "end": 57.82,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "You still there?"
+  },
+  {
+   "i": 24,
+   "start": 57.82,
+   "end": 58.58,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Yes..."
+  },
+  {
+   "i": 25,
+   "start": 58.58,
+   "end": 60.58,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Then he ain't dead, is he, drama queen?"
+  },
+  {
+   "i": 26,
+   "start": 60.58,
+   "end": 61.64,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "But you don't understand--"
+  },
+  {
+   "i": 27,
+   "start": 61.82,
+   "end": 62.86,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "DRAMA QUEEN!"
+  },
+  {
+   "i": 28,
+   "start": 62.86,
+   "end": 64.46,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "I think Garlic Jr. may have--"
+  },
+  {
+   "i": 29,
+   "start": 64.6,
+   "end": 66.86,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "DRAMA QUEEEEEN!"
+  },
+  {
+   "i": 30,
+   "start": 67.56,
+   "end": 69.12,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "(sigh)"
+  },
+  {
+   "i": 31,
+   "start": 69.58,
+   "end": 70.74,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Garlic Jr.'s back."
+  },
+  {
+   "i": 32,
+   "start": 91.88,
+   "end": 96.34,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "\"Miss Watson, she kept pecking at me, and it got tiresome and lonesome.\""
+  },
+  {
+   "i": 33,
+   "start": 96.74,
+   "end": 98.68,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "\"By and by they fetched the nig-\""
+  },
+  {
+   "i": 34,
+   "start": 98.92,
+   "end": 99.7,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Huh."
+  },
+  {
+   "i": 35,
+   "start": 99.7,
+   "end": 101.52,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "That's not a word I've ever heard before."
+  },
+  {
+   "i": 36,
+   "start": 102.0,
+   "end": 102.5,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Oh well."
+  },
+  {
+   "i": 37,
+   "start": 102.92,
+   "end": 103.9,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "\"They fetched the nig--\""
+  },
+  {
+   "i": 38,
+   "start": 103.9,
+   "end": 105.48,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Gohan! Lunch is ready!"
+  },
+  {
+   "i": 39,
+   "start": 105.58,
+   "end": 107.58,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Come help me set the table!"
+  },
+  {
+   "i": 40,
+   "start": 107.8,
+   "end": 108.8,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Oh yay!"
+  },
+  {
+   "i": 41,
+   "start": 109.1,
+   "end": 112.6,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "And dad's gone fishing! Which means I'll get seconds!"
+  },
+  {
+   "i": 42,
+   "start": 112.82,
+   "end": 113.54,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hmm?"
+  },
+  {
+   "i": 43,
+   "start": 114.84,
+   "end": 116.84,
+   "kind": "dialog",
+   "speaker": "Ox King",
+   "text": "Hey! Gohan!"
+  },
+  {
+   "i": 44,
+   "start": 117.18,
+   "end": 118.22,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Grandpa Ox!"
+  },
+  {
+   "i": 45,
+   "start": 118.34,
+   "end": 120.68,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Oh! Daddy! What are you doing here?"
+  },
+  {
+   "i": 46,
+   "start": 121.0,
+   "end": 123.14,
+   "kind": "dialog",
+   "speaker": "Ox King",
+   "text": "I wanted to stop by and see my grandson!"
+  },
+  {
+   "i": 47,
+   "start": 123.54,
+   "end": 125.46,
+   "kind": "dialog",
+   "speaker": "Ox King",
+   "text": "Also, money for you guys to live."
+  },
+  {
+   "i": 48,
+   "start": 126.02,
+   "end": 127.3,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Thank you, daddy."
+  },
+  {
+   "i": 49,
+   "start": 127.62,
+   "end": 130.44,
+   "kind": "dialog",
+   "speaker": "Ox King",
+   "text": "I also brought you a gift, Gohan!"
+  },
+  {
+   "i": 50,
+   "start": 130.78,
+   "end": 131.38,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "A puppy!"
+  },
+  {
+   "i": 51,
+   "start": 131.38,
+   "end": 132.22,
+   "kind": "dialog",
+   "speaker": "Ox King",
+   "text": "BOOKS!!"
+  },
+  {
+   "i": 52,
+   "start": 132.8,
+   "end": 134.12,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Yaaayy..."
+  },
+  {
+   "i": 53,
+   "start": 134.26,
+   "end": 136.64,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Oh, I'm sure he'll love them, won't you, Goh--"
+  },
+  {
+   "i": 54,
+   "start": 136.64,
+   "end": 137.44,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Daddy?"
+  },
+  {
+   "i": 55,
+   "start": 139.1,
+   "end": 140.92,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Grandpa?!"
+  },
+  {
+   "i": 56,
+   "start": 140.92,
+   "end": 141.92,
+   "kind": "dialog",
+   "speaker": "Ox King",
+   "text": "Errrrrrrr..."
+  },
+  {
+   "i": 57,
+   "start": 141.92,
+   "end": 143.86,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Mom? Mom?! MOM?!"
+  },
+  {
+   "i": 58,
+   "start": 143.86,
+   "end": 145.0,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Uugggh..."
+  },
+  {
+   "i": 59,
+   "start": 145.52,
+   "end": 147.84,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Mommy! Grandpa's having a stroke!"
+  },
+  {
+   "i": 60,
+   "start": 149.64,
+   "end": 150.14,
+   "kind": "dialog",
+   "speaker": "Ginger",
+   "text": "Hi!"
+  },
+  {
+   "i": 61,
+   "start": 150.44,
+   "end": 152.44,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Gohan! Go inside immediately!"
+  },
+  {
+   "i": 62,
+   "start": 152.52,
+   "end": 154.74,
+   "kind": "dialog",
+   "speaker": "Cinnamon",
+   "text": "Oh yeah, come on in."
+  },
+  {
+   "i": 63,
+   "start": 157.1,
+   "end": 158.94,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "(Son of a bitch just ate my pears!)"
+  },
+  {
+   "i": 64,
+   "start": 159.06,
+   "end": 161.06,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "You know that we don't have a car, right?"
+  },
+  {
+   "i": 65,
+   "start": 161.06,
+   "end": 163.68,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "That's like a 10-mile Nimbus ride to the nearest city."
+  },
+  {
+   "i": 66,
+   "start": 163.68,
+   "end": 164.74,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "For pears!"
+  },
+  {
+   "i": 67,
+   "start": 164.74,
+   "end": 169.02,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "You have ten seconds to tell me what you want before I strangle you with that cowl!"
+  },
+  {
+   "i": 68,
+   "start": 169.02,
+   "end": 170.14,
+   "kind": "dialog",
+   "speaker": "Ginger",
+   "text": "I want the Dragonball!"
+  },
+  {
+   "i": 69,
+   "start": 170.14,
+   "end": 170.92,
+   "kind": "dialog",
+   "speaker": "Ginger",
+   "text": "Gimme the kid!"
+  },
+  {
+   "i": 70,
+   "start": 170.98,
+   "end": 172.98,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "What? You can't have my son!"
+  },
+  {
+   "i": 71,
+   "start": 172.98,
+   "end": 174.72,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "You just want the Dragonball, right?"
+  },
+  {
+   "i": 72,
+   "start": 174.72,
+   "end": 175.86,
+   "kind": "dialog",
+   "speaker": "Ginger",
+   "text": "Don't question my f*cking methods!"
+  },
+  {
+   "i": 73,
+   "start": 175.86,
+   "end": 177.44,
+   "kind": "dialog",
+   "speaker": "Ginger",
+   "text": "F*ck it! I'm taking your dad!"
+  },
+  {
+   "i": 74,
+   "start": 178.26,
+   "end": 179.38,
+   "kind": "dialog",
+   "speaker": "Ginger",
+   "text": "He's a f*cking fatass!"
+  },
+  {
+   "i": 75,
+   "start": 179.38,
+   "end": 180.94,
+   "kind": "dialog",
+   "speaker": "Ginger",
+   "text": "Forget it! Imma take your kid!"
+  },
+  {
+   "i": 76,
+   "start": 180.94,
+   "end": 181.9,
+   "kind": "dialog",
+   "speaker": "Pepper",
+   "text": "Yo, Ginger!"
+  },
+  {
+   "i": 77,
+   "start": 181.9,
+   "end": 183.2,
+   "kind": "dialog",
+   "speaker": "Ginger",
+   "text": "Oh right, Dragonball too."
+  },
+  {
+   "i": 78,
+   "start": 183.2,
+   "end": 185.04,
+   "kind": "dialog",
+   "speaker": "Ginger",
+   "text": "Please? If you wouldn't mind?"
+  },
+  {
+   "i": 79,
+   "start": 185.04,
+   "end": 185.56,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "I do."
+  },
+  {
+   "i": 80,
+   "start": 185.56,
+   "end": 186.72,
+   "kind": "dialog",
+   "speaker": "Ginger",
+   "text": "Too f*cking bad!"
+  },
+  {
+   "i": 81,
+   "start": 186.72,
+   "end": 187.6,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Enough of this!"
+  },
+  {
+   "i": 82,
+   "start": 187.6,
+   "end": 188.36,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Hyyyaa--"
+  },
+  {
+   "i": 83,
+   "start": 188.36,
+   "end": 189.16,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Aaaaah!!"
+  },
+  {
+   "i": 84,
+   "start": 189.16,
+   "end": 190.02,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Mommy!"
+  },
+  {
+   "i": 85,
+   "start": 190.3,
+   "end": 191.96,
+   "kind": "dialog",
+   "speaker": "Ginger",
+   "text": "Haha! F*cking WHAT!!"
+  },
+  {
+   "i": 86,
+   "start": 196.5,
+   "end": 199.66,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Chi-Chi! I heard lunch! What happened?!"
+  },
+  {
+   "i": 87,
+   "start": 199.9,
+   "end": 201.9,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Goku... they took..."
+  },
+  {
+   "i": 88,
+   "start": 201.9,
+   "end": 202.84,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "OUR LUNCH?!"
+  },
+  {
+   "i": 89,
+   "start": 202.84,
+   "end": 206.36,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "No... they took... our so--"
+  },
+  {
+   "i": 90,
+   "start": 206.36,
+   "end": 207.7,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh hey, your dad's here!"
+  },
+  {
+   "i": 91,
+   "start": 207.7,
+   "end": 208.62,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hi Ox King!"
+  },
+  {
+   "i": 92,
+   "start": 208.62,
+   "end": 209.12,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Focus!"
+  },
+  {
+   "i": 93,
+   "start": 209.64,
+   "end": 211.76,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "They took... Gohan!"
+  },
+  {
+   "i": 94,
+   "start": 212.12,
+   "end": 214.6,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Ah man! I can't have him miss lunch!"
+  },
+  {
+   "i": 95,
+   "start": 214.74,
+   "end": 216.74,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "It's the fourth most important meal of the day!"
+  },
+  {
+   "i": 96,
+   "start": 217.08,
+   "end": 218.3,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Right after brunch..."
+  },
+  {
+   "i": 97,
+   "start": 218.68,
+   "end": 220.3,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "But right before linner."
+  },
+  {
+   "i": 98,
+   "start": 220.3,
+   "end": 222.3,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Love me some linner though..."
+  },
+  {
+   "i": 99,
+   "start": 223.08,
+   "end": 225.88,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "So Imma go get Gohan back. We'll be back in time for linner."
+  },
+  {
+   "i": 100,
+   "start": 225.88,
+   "end": 226.98,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Chicken and waffles?"
+  },
+  {
+   "i": 101,
+   "start": 226.98,
+   "end": 228.0,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Chicken and waffles."
+  },
+  {
+   "i": 102,
+   "start": 228.0,
+   "end": 229.08,
+   "kind": "dialog",
+   "speaker": "Ox King",
+   "text": "(grunting in pain)"
+  },
+  {
+   "i": 103,
+   "start": 229.08,
+   "end": 230.22,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh, and some for your dad."
+  },
+  {
+   "i": 104,
+   "start": 233.26,
+   "end": 234.76,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "So let me get this straight."
+  },
+  {
+   "i": 105,
+   "start": 234.76,
+   "end": 239.02,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "I send you shit-fits off to find me a Dragonball and you bring back a toddler."
+  },
+  {
+   "i": 106,
+   "start": 239.02,
+   "end": 240.8,
+   "kind": "dialog",
+   "speaker": "Pepper",
+   "text": "Well, we did bring back a Dragonball."
+  },
+  {
+   "i": 107,
+   "start": 240.8,
+   "end": 242.28,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "AND a toddler!"
+  },
+  {
+   "i": 108,
+   "start": 242.28,
+   "end": 245.54,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "Did you try... I don't know... taking OFF the hat?!"
+  },
+  {
+   "i": 109,
+   "start": 245.54,
+   "end": 250.22,
+   "kind": "dialog",
+   "speaker": "Cinnamon",
+   "text": "Well, we thought about it on the way back but it really brings the whole \"Chinese prince\" look together."
+  },
+  {
+   "i": 110,
+   "start": 250.42,
+   "end": 252.92,
+   "kind": "dialog",
+   "speaker": "Ginger",
+   "text": "And he's your size. You can ROCK that shit!"
+  },
+  {
+   "i": 111,
+   "start": 253.5,
+   "end": 254.76,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "Fair enough."
+  },
+  {
+   "i": 112,
+   "start": 254.76,
+   "end": 257.14,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "My daddy's not gonna let you get away with this!"
+  },
+  {
+   "i": 113,
+   "start": 257.14,
+   "end": 258.34,
+   "kind": "dialog",
+   "speaker": "Ginger",
+   "text": "Big f*cking whoop!"
+  },
+  {
+   "i": 114,
+   "start": 258.34,
+   "end": 260.68,
+   "kind": "dialog",
+   "speaker": "Ginger",
+   "text": "We beat Piccolo and that guy's strong as shit!"
+  },
+  {
+   "i": 115,
+   "start": 260.68,
+   "end": 262.64,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Yeah? So did my dad."
+  },
+  {
+   "i": 116,
+   "start": 262.64,
+   "end": 263.94,
+   "kind": "dialog",
+   "speaker": "Ginger",
+   "text": "By himself?!"
+  },
+  {
+   "i": 117,
+   "start": 263.94,
+   "end": 264.66,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Yeah!"
+  },
+  {
+   "i": 118,
+   "start": 265.34,
+   "end": 266.74,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "Oh God, your father's Goku."
+  },
+  {
+   "i": 119,
+   "start": 267.06,
+   "end": 270.7,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "OH MY GOD! YOU MORONS STOLE GOKU'S KID?!"
+  },
+  {
+   "i": 120,
+   "start": 270.7,
+   "end": 271.54,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "How?!"
+  },
+  {
+   "i": 121,
+   "start": 271.54,
+   "end": 273.46,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "How did you steal Goku's kid?!"
+  },
+  {
+   "i": 122,
+   "start": 273.46,
+   "end": 274.98,
+   "kind": "dialog",
+   "speaker": "Cinnamon",
+   "text": "Well, first, we beat up his wife..."
+  },
+  {
+   "i": 123,
+   "start": 274.98,
+   "end": 276.32,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "Oh my shit!"
+  },
+  {
+   "i": 124,
+   "start": 276.32,
+   "end": 277.9,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "OK, look, new plan!"
+  },
+  {
+   "i": 125,
+   "start": 277.9,
+   "end": 279.4,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "Get the last two Dragonballs!"
+  },
+  {
+   "i": 126,
+   "start": 279.4,
+   "end": 280.28,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "NOW!"
+  },
+  {
+   "i": 127,
+   "start": 280.28,
+   "end": 284.08,
+   "kind": "dialog",
+   "speaker": "Cinnamon",
+   "text": "Oh yeah, we'll just go off, scour the globe, and be back before linner."
+  },
+  {
+   "i": 128,
+   "start": 284.08,
+   "end": 284.76,
+   "kind": "dialog",
+   "speaker": "Cinnamon",
+   "text": "(laughs)"
+  },
+  {
+   "i": 129,
+   "start": 284.88,
+   "end": 287.74,
+   "kind": "dialog",
+   "speaker": "Cinnamon",
+   "text": "You know, it's not like they make a RADAR for this shit!"
+  },
+  {
+   "i": 130,
+   "start": 288.52,
+   "end": 291.2,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh yeah, someone IS collecting the Dragonballs."
+  },
+  {
+   "i": 131,
+   "start": 291.2,
+   "end": 293.1,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Why'd they take Gohan?"
+  },
+  {
+   "i": 132,
+   "start": 293.1,
+   "end": 293.88,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I dunno."
+  },
+  {
+   "i": 133,
+   "start": 294.12,
+   "end": 297.18,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Maybe they just want a good ol'-fashioned Goku fanny whooping!"
+  },
+  {
+   "i": 134,
+   "start": 297.18,
+   "end": 298.16,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "\"Fanny\"?"
+  },
+  {
+   "i": 135,
+   "start": 298.16,
+   "end": 299.82,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Chi-Chi doesn't like us to swear."
+  },
+  {
+   "i": 136,
+   "start": 299.82,
+   "end": 301.36,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "\"Butt\" isn't a swear."
+  },
+  {
+   "i": 137,
+   "start": 301.74,
+   "end": 303.34,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "The HFIL you talkin' bout?!"
+  },
+  {
+   "i": 138,
+   "start": 303.54,
+   "end": 305.54,
+   "kind": "dialog",
+   "speaker": "Cinnamon",
+   "text": "Come back here, you little shitplin!"
+  },
+  {
+   "i": 139,
+   "start": 305.54,
+   "end": 308.64,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "No! You smell like hairspray and shea butter."
+  },
+  {
+   "i": 140,
+   "start": 308.84,
+   "end": 312.16,
+   "kind": "dialog",
+   "speaker": "Cinnamon",
+   "text": "Swear to God, I don't know how I got put in charge of babysitting!"
+  },
+  {
+   "i": 141,
+   "start": 312.16,
+   "end": 314.34,
+   "kind": "dialog",
+   "speaker": "Cinnamon",
+   "text": "Dammit, I need something to take the edge off..."
+  },
+  {
+   "i": 142,
+   "start": 315.56,
+   "end": 316.2,
+   "kind": "dialog",
+   "speaker": "Cinnamon",
+   "text": "Paaaahh!!"
+  },
+  {
+   "i": 143,
+   "start": 316.2,
+   "end": 317.16,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "You're it!!"
+  },
+  {
+   "i": 144,
+   "start": 317.16,
+   "end": 319.54,
+   "kind": "dialog",
+   "speaker": "Cinnamon",
+   "text": "I WILL SLAP FIRE FROM YOU!"
+  },
+  {
+   "i": 145,
+   "start": 319.62,
+   "end": 321.62,
+   "kind": "dialog",
+   "speaker": "Cinnamon",
+   "text": "I swear to God..."
+  },
+  {
+   "i": 146,
+   "start": 321.62,
+   "end": 323.56,
+   "kind": "dialog",
+   "speaker": "Cinnamon",
+   "text": "Oh good, there you are."
+  },
+  {
+   "i": 147,
+   "start": 323.56,
+   "end": 327.3,
+   "kind": "dialog",
+   "speaker": "Cinnamon",
+   "text": "Now, be a good little crotch-spawn and let's go back to your room."
+  },
+  {
+   "i": 148,
+   "start": 327.3,
+   "end": 328.52,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "I'm hungry!"
+  },
+  {
+   "i": 149,
+   "start": 328.52,
+   "end": 332.12,
+   "kind": "dialog",
+   "speaker": "Cinnamon",
+   "text": "Ah, well maybe I can make you a peanut butter, jelly, and ether sandwich and--"
+  },
+  {
+   "i": 150,
+   "start": 332.12,
+   "end": 333.54,
+   "kind": "dialog",
+   "speaker": "Cinnamon",
+   "text": "Where did you get that apple?!"
+  },
+  {
+   "i": 151,
+   "start": 333.54,
+   "end": 334.4,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "In the tree."
+  },
+  {
+   "i": 152,
+   "start": 334.4,
+   "end": 335.28,
+   "kind": "dialog",
+   "speaker": "Cinnamon",
+   "text": "Don't eat that apple!"
+  },
+  {
+   "i": 153,
+   "start": 335.28,
+   "end": 336.42,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Imma eat the apple."
+  },
+  {
+   "i": 154,
+   "start": 336.42,
+   "end": 337.56,
+   "kind": "dialog",
+   "speaker": "Cinnamon",
+   "text": "Don't eat that apple!"
+  },
+  {
+   "i": 155,
+   "start": 337.56,
+   "end": 338.58,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Imma eat the apple!"
+  },
+  {
+   "i": 156,
+   "start": 338.58,
+   "end": 340.3,
+   "kind": "dialog",
+   "speaker": "Cinnamon",
+   "text": "DO! NOT!"
+  },
+  {
+   "i": 157,
+   "start": 340.3,
+   "end": 341.2,
+   "kind": "dialog",
+   "speaker": "Cinnamon",
+   "text": "EAT!"
+  },
+  {
+   "i": 158,
+   "start": 341.2,
+   "end": 341.94,
+   "kind": "dialog",
+   "speaker": "Cinnamon",
+   "text": "THAT!"
+  },
+  {
+   "i": 159,
+   "start": 341.94,
+   "end": 342.44,
+   "kind": "dialog",
+   "speaker": "Cinnamon",
+   "text": "APP--"
+  },
+  {
+   "i": 160,
+   "start": 345.76,
+   "end": 347.08,
+   "kind": "dialog",
+   "speaker": "Cinnamon",
+   "text": "Oh balls..."
+  },
+  {
+   "i": 161,
+   "start": 347.08,
+   "end": 353.68,
+   "kind": "dialog",
+   "speaker": "Cinnamon",
+   "text": "Well, I hope you packed your bags, kid... because you're about to go on a trip..."
+  },
+  {
+   "i": 162,
+   "start": 356.72,
+   "end": 375.22,
+   "kind": "direction",
+   "speaker": null,
+   "text": "(Gohan laughing)"
+  },
+  {
+   "i": 163,
+   "start": 379.32,
+   "end": 381.04,
+   "kind": "dialog",
+   "speaker": "Ginger",
+   "text": "Got the last motherf*cking balls!"
+  },
+  {
+   "i": 164,
+   "start": 384.1,
+   "end": 386.1,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "Gotta say, I'm sort of impressed."
+  },
+  {
+   "i": 165,
+   "start": 386.1,
+   "end": 387.84,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "How did you find them so fast?"
+  },
+  {
+   "i": 166,
+   "start": 387.84,
+   "end": 389.88,
+   "kind": "dialog",
+   "speaker": "Ginger",
+   "text": "Prize in a high-stakes poker game."
+  },
+  {
+   "i": 167,
+   "start": 389.92,
+   "end": 391.92,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "Wow. Never thought you had a poker face."
+  },
+  {
+   "i": 168,
+   "start": 391.92,
+   "end": 393.16,
+   "kind": "dialog",
+   "speaker": "Ginger",
+   "text": "Never said I played!"
+  },
+  {
+   "i": 169,
+   "start": 393.16,
+   "end": 394.74,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "Once again, fair enough."
+  },
+  {
+   "i": 170,
+   "start": 406.66,
+   "end": 409.9,
+   "kind": "dialog",
+   "speaker": "Shenron",
+   "text": "I AM THE ETERNAL DRAGON."
+  },
+  {
+   "i": 171,
+   "start": 410.56,
+   "end": 412.88,
+   "kind": "dialog",
+   "speaker": "Shenron",
+   "text": "MAKE YOUR WISH AND I SHALL--"
+  },
+  {
+   "i": 172,
+   "start": 412.88,
+   "end": 414.5,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "MAKE ME IMMORTAL!"
+  },
+  {
+   "i": 173,
+   "start": 414.84,
+   "end": 415.52,
+   "kind": "dialog",
+   "speaker": "Shenron",
+   "text": "Oh."
+  },
+  {
+   "i": 174,
+   "start": 416.58,
+   "end": 418.06,
+   "kind": "dialog",
+   "speaker": "Shenron",
+   "text": "R-really?!"
+  },
+  {
+   "i": 175,
+   "start": 418.06,
+   "end": 418.86,
+   "kind": "dialog",
+   "speaker": "Shenron",
+   "text": "Wow!"
+  },
+  {
+   "i": 176,
+   "start": 419.42,
+   "end": 423.2,
+   "kind": "dialog",
+   "speaker": "Shenron",
+   "text": "I can't remember the last time someone actually nutted up and asked for that."
+  },
+  {
+   "i": 177,
+   "start": 423.48,
+   "end": 424.88,
+   "kind": "dialog",
+   "speaker": "Shenron",
+   "text": "Congrats!"
+  },
+  {
+   "i": 178,
+   "start": 424.88,
+   "end": 427.0,
+   "kind": "dialog",
+   "speaker": "Shenron",
+   "text": "Can't wait to hear how you f*ck this up."
+  },
+  {
+   "i": 179,
+   "start": 427.0,
+   "end": 428.16,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "Wait, the hell's that mean?"
+  },
+  {
+   "i": 180,
+   "start": 428.16,
+   "end": 434.18,
+   "kind": "dialog",
+   "speaker": "Shenron",
+   "text": "It means YOUR WISH HAS BEEN GRANTED."
+  },
+  {
+   "i": 181,
+   "start": 436.14,
+   "end": 439.54,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "Yes! YES! I can feel it!"
+  },
+  {
+   "i": 182,
+   "start": 439.54,
+   "end": 446.32,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "With this eternal body, I shall enslave the world and rule it with great prejudice and terror!"
+  },
+  {
+   "i": 183,
+   "start": 446.8,
+   "end": 448.78,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "Hail Garlic Jr.!"
+  },
+  {
+   "i": 184,
+   "start": 448.78,
+   "end": 450.78,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "HAIL ME!!"
+  },
+  {
+   "i": 185,
+   "start": 453.52,
+   "end": 456.44,
+   "kind": "dialog",
+   "speaker": "Everyone",
+   "text": "Hail Garlic Jr.! Hail Garlic Jr.!"
+  },
+  {
+   "i": 186,
+   "start": 456.44,
+   "end": 458.08,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hey Garlic Jr.!"
+  },
+  {
+   "i": 187,
+   "start": 458.08,
+   "end": 459.72,
+   "kind": "dialog",
+   "speaker": "Everyone",
+   "text": "Hey Garlic Jr.!"
+  },
+  {
+   "i": 188,
+   "start": 459.72,
+   "end": 460.6,
+   "kind": "dialog",
+   "speaker": "Everyone",
+   "text": "Huh?"
+  },
+  {
+   "i": 189,
+   "start": 462.66,
+   "end": 464.38,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I am Son Goku!"
+  },
+  {
+   "i": 190,
+   "start": 464.38,
+   "end": 466.36,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "And your name sounds yummy!"
+  },
+  {
+   "i": 191,
+   "start": 466.36,
+   "end": 467.76,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "I have been told."
+  },
+  {
+   "i": 192,
+   "start": 467.94,
+   "end": 469.06,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "So, uh..."
+  },
+  {
+   "i": 193,
+   "start": 469.06,
+   "end": 470.5,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "did you guys steal my kid?"
+  },
+  {
+   "i": 194,
+   "start": 470.5,
+   "end": 471.02,
+   "kind": "dialog",
+   "speaker": "Ginger",
+   "text": "Yep!"
+  },
+  {
+   "i": 195,
+   "start": 471.02,
+   "end": 472.9,
+   "kind": "dialog",
+   "speaker": "Ginger",
+   "text": "F*cking Amber Alert up in here!"
+  },
+  {
+   "i": 196,
+   "start": 472.9,
+   "end": 475.7,
+   "kind": "dialog",
+   "speaker": "Cinnamon",
+   "text": "Ah, don't worry about him, he's just high in the throne room."
+  },
+  {
+   "i": 197,
+   "start": 475.7,
+   "end": 478.48,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Joke's on you! I can fly!"
+  },
+  {
+   "i": 198,
+   "start": 479.6,
+   "end": 481.18,
+   "kind": "dialog",
+   "speaker": "Ginger",
+   "text": "I think he's f*cking dumb."
+  },
+  {
+   "i": 199,
+   "start": 481.18,
+   "end": 483.74,
+   "kind": "dialog",
+   "speaker": "Ginger",
+   "text": "Rrrraaaaaaaaaahhhh!!!"
+  },
+  {
+   "i": 200,
+   "start": 486.52,
+   "end": 488.78,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "And then there's THIS asshole..."
+  },
+  {
+   "i": 201,
+   "start": 488.78,
+   "end": 491.26,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Oh. Hello, Goku. What are you doing here?"
+  },
+  {
+   "i": 202,
+   "start": 491.26,
+   "end": 492.26,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "They stole my kid."
+  },
+  {
+   "i": 203,
+   "start": 492.26,
+   "end": 493.04,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Hmm."
+  },
+  {
+   "i": 204,
+   "start": 493.04,
+   "end": 495.42,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "I'm surprised you're still alive Kami."
+  },
+  {
+   "i": 205,
+   "start": 495.42,
+   "end": 499.0,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "I believe the last time we talked was... oh , when was that?"
+  },
+  {
+   "i": 206,
+   "start": 499.0,
+   "end": 499.96,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "Oh, right."
+  },
+  {
+   "i": 207,
+   "start": 499.96,
+   "end": 503.22,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "When you banished my father to another dimension!"
+  },
+  {
+   "i": 208,
+   "start": 503.46,
+   "end": 506.52,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Oh, Garlic Jr., how awful to see you again."
+  },
+  {
+   "i": 209,
+   "start": 506.52,
+   "end": 508.1,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "You're looking grotesque as always."
+  },
+  {
+   "i": 210,
+   "start": 508.1,
+   "end": 510.68,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "Oh hi there, Kettle. Name's Pot. Have we met?"
+  },
+  {
+   "i": 211,
+   "start": 510.68,
+   "end": 513.22,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Listen, Goku. Just go after your son."
+  },
+  {
+   "i": 212,
+   "start": 513.22,
+   "end": 514.78,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "I'll handle Garlic Jr."
+  },
+  {
+   "i": 213,
+   "start": 514.78,
+   "end": 515.88,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Thank God!"
+  },
+  {
+   "i": 214,
+   "start": 515.88,
+   "end": 516.58,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "You're welcome."
+  },
+  {
+   "i": 215,
+   "start": 518.62,
+   "end": 519.68,
+   "kind": "dialog",
+   "speaker": "Ginger",
+   "text": "Catch that bitch!"
+  },
+  {
+   "i": 216,
+   "start": 519.68,
+   "end": 520.94,
+   "kind": "dialog",
+   "speaker": "Cinnamon",
+   "text": "Slow your roll, champ!"
+  },
+  {
+   "i": 217,
+   "start": 520.96,
+   "end": 522.96,
+   "kind": "dialog",
+   "speaker": "Pepper",
+   "text": "Yo, wait for me! I'm bigger than y'all!"
+  },
+  {
+   "i": 218,
+   "start": 526.3,
+   "end": 528.26,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(panting)"
+  },
+  {
+   "i": 219,
+   "start": 528.26,
+   "end": 531.44,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Man, left in such a hurry, I accidentally skipped lunch."
+  },
+  {
+   "i": 220,
+   "start": 531.44,
+   "end": 533.7,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Maybe this place has a cafeteria."
+  },
+  {
+   "i": 221,
+   "start": 533.72,
+   "end": 535.72,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "No, it's a castle."
+  },
+  {
+   "i": 222,
+   "start": 535.72,
+   "end": 537.36,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "A meatery?"
+  },
+  {
+   "i": 223,
+   "start": 537.96,
+   "end": 540.38,
+   "kind": "dialog",
+   "speaker": "Ginger",
+   "text": "Want some food? We can hook you up."
+  },
+  {
+   "i": 224,
+   "start": 540.38,
+   "end": 542.38,
+   "kind": "dialog",
+   "speaker": "Ginger",
+   "text": "How about some motherf*ckin ginger?!"
+  },
+  {
+   "i": 225,
+   "start": 542.38,
+   "end": 544.34,
+   "kind": "dialog",
+   "speaker": "Cinnamon",
+   "text": "Or maybe some cinnamoooon?!"
+  },
+  {
+   "i": 226,
+   "start": 544.38,
+   "end": 546.58,
+   "kind": "dialog",
+   "speaker": "Pepper",
+   "text": "I got some pepper for you. You like pepper?"
+  },
+  {
+   "i": 227,
+   "start": 546.58,
+   "end": 549.92,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hey, those aren't foods. Those are things you put on foods!"
+  },
+  {
+   "i": 228,
+   "start": 549.92,
+   "end": 551.62,
+   "kind": "dialog",
+   "speaker": "Ginger",
+   "text": "Like gingerbread?!"
+  },
+  {
+   "i": 229,
+   "start": 551.62,
+   "end": 553.62,
+   "kind": "dialog",
+   "speaker": "Cinnamon",
+   "text": "Or cinnabuuuns?!"
+  },
+  {
+   "i": 230,
+   "start": 553.64,
+   "end": 555.64,
+   "kind": "dialog",
+   "speaker": "Pepper",
+   "text": "I got nothing. Umm..."
+  },
+  {
+   "i": 231,
+   "start": 555.64,
+   "end": 557.5,
+   "kind": "dialog",
+   "speaker": "Pepper",
+   "text": "EGGS!!"
+  },
+  {
+   "i": 232,
+   "start": 563.04,
+   "end": 565.32,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "OK, now you're just making me hungry."
+  },
+  {
+   "i": 233,
+   "start": 565.32,
+   "end": 567.46,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "And you wouldn't like me when I'm--"
+  },
+  {
+   "i": 234,
+   "start": 572.4,
+   "end": 573.34,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "... hungry."
+  },
+  {
+   "i": 235,
+   "start": 574.3,
+   "end": 576.92,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "So Kami, you mad that I tried to have you killed?"
+  },
+  {
+   "i": 236,
+   "start": 576.92,
+   "end": 579.74,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "More confused why you'd target Piccolo instead of me."
+  },
+  {
+   "i": 237,
+   "start": 579.74,
+   "end": 581.0,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Not that it matters."
+  },
+  {
+   "i": 238,
+   "start": 581.0,
+   "end": 584.76,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "I'm going to put you down for good, not unlike I did your father, you miserable little--"
+  },
+  {
+   "i": 239,
+   "start": 584.76,
+   "end": 586.96,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "And I will enjoy watching you fail."
+  },
+  {
+   "i": 240,
+   "start": 586.96,
+   "end": 592.8,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "Because you see, before you arrived, I used the Dragonballs to grant myself immortality."
+  },
+  {
+   "i": 241,
+   "start": 592.8,
+   "end": 594.72,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "Bah hahahahaha!"
+  },
+  {
+   "i": 242,
+   "start": 594.72,
+   "end": 598.24,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Wait, so you tried to have me killed, THEN use the Dragonballs?"
+  },
+  {
+   "i": 243,
+   "start": 598.24,
+   "end": 599.32,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "Eh, what?"
+  },
+  {
+   "i": 244,
+   "start": 599.32,
+   "end": 600.92,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "Yeah, uh, why?"
+  },
+  {
+   "i": 245,
+   "start": 601.28,
+   "end": 602.5,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "Oh shit."
+  },
+  {
+   "i": 246,
+   "start": 602.7,
+   "end": 604.58,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "Wow, I dodged a bullet on that one!"
+  },
+  {
+   "i": 247,
+   "start": 604.66,
+   "end": 606.66,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "Thank God my minions are so incompetent!"
+  },
+  {
+   "i": 248,
+   "start": 611.26,
+   "end": 613.36,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Now tell me where the meatery is!"
+  },
+  {
+   "i": 249,
+   "start": 613.36,
+   "end": 615.1,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "And then the throne room."
+  },
+  {
+   "i": 250,
+   "start": 615.44,
+   "end": 617.62,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Please tell me the meatery is IN the throne room."
+  },
+  {
+   "i": 251,
+   "start": 620.78,
+   "end": 621.52,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Huh?"
+  },
+  {
+   "i": 252,
+   "start": 621.52,
+   "end": 625.28,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Here I come to save the daaaaay!!"
+  },
+  {
+   "i": 253,
+   "start": 625.6,
+   "end": 626.68,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Hey Goku!"
+  },
+  {
+   "i": 254,
+   "start": 626.68,
+   "end": 627.82,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Looks like you could use some help."
+  },
+  {
+   "i": 255,
+   "start": 628.32,
+   "end": 629.42,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Not really, no."
+  },
+  {
+   "i": 256,
+   "start": 629.42,
+   "end": 630.4,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hey, Krillin."
+  },
+  {
+   "i": 257,
+   "start": 630.4,
+   "end": 632.08,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Is that a second power beam?"
+  },
+  {
+   "i": 258,
+   "start": 632.08,
+   "end": 632.84,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Sup."
+  },
+  {
+   "i": 259,
+   "start": 632.84,
+   "end": 633.6,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Waaah!!"
+  },
+  {
+   "i": 260,
+   "start": 633.6,
+   "end": 635.2,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh hey, Piccolo!"
+  },
+  {
+   "i": 261,
+   "start": 635.2,
+   "end": 636.24,
+   "kind": "dialog",
+   "speaker": "Ginger",
+   "text": "You alive?!"
+  },
+  {
+   "i": 262,
+   "start": 636.24,
+   "end": 638.22,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Well, of course he's alive!"
+  },
+  {
+   "i": 263,
+   "start": 638.22,
+   "end": 639.32,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Kami's alive."
+  },
+  {
+   "i": 264,
+   "start": 639.32,
+   "end": 642.2,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I mean, you guys have used the Dragonballs, right?"
+  },
+  {
+   "i": 265,
+   "start": 642.78,
+   "end": 644.78,
+   "kind": "dialog",
+   "speaker": "Ginger",
+   "text": "Oh wow, yeah, thank God we incompetent!"
+  },
+  {
+   "i": 266,
+   "start": 645.08,
+   "end": 648.64,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Not even gonna lie, this is EXACTLY what I'm looking for in a castle."
+  },
+  {
+   "i": 267,
+   "start": 648.64,
+   "end": 650.7,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Walls, ceiling, meatery..."
+  },
+  {
+   "i": 268,
+   "start": 650.7,
+   "end": 651.34,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Where?!"
+  },
+  {
+   "i": 269,
+   "start": 652.32,
+   "end": 654.28,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Could do without the spice rack though."
+  },
+  {
+   "i": 270,
+   "start": 654.28,
+   "end": 655.66,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Uuuhh..."
+  },
+  {
+   "i": 271,
+   "start": 655.66,
+   "end": 657.86,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Huh?!"
+  },
+  {
+   "i": 272,
+   "start": 659.96,
+   "end": 662.82,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "WHYYYYY??!! (gurgling)"
+  },
+  {
+   "i": 273,
+   "start": 671.3,
+   "end": 672.44,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "WHERE!"
+  },
+  {
+   "i": 274,
+   "start": 672.44,
+   "end": 673.36,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "IS!"
+  },
+  {
+   "i": 275,
+   "start": 673.36,
+   "end": 674.3,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "YOUR!"
+  },
+  {
+   "i": 276,
+   "start": 674.3,
+   "end": 675.32,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "GOD!"
+  },
+  {
+   "i": 277,
+   "start": 675.32,
+   "end": 676.36,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "NOW?!"
+  },
+  {
+   "i": 278,
+   "start": 676.36,
+   "end": 677.28,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Aaahh!!"
+  },
+  {
+   "i": 279,
+   "start": 680.78,
+   "end": 683.84,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "So, Kami, why don't you pray for your life?"
+  },
+  {
+   "i": 280,
+   "start": 684.02,
+   "end": 688.46,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "And then, like every person who's ever prayed to you, I'll ignore it."
+  },
+  {
+   "i": 281,
+   "start": 690.02,
+   "end": 691.92,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Rrrraaaaaahhh!!!"
+  },
+  {
+   "i": 282,
+   "start": 693.52,
+   "end": 698.0,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "Of course, you know this means war!"
+  },
+  {
+   "i": 283,
+   "start": 698.66,
+   "end": 699.82,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Gohan!"
+  },
+  {
+   "i": 284,
+   "start": 701.12,
+   "end": 703.94,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Krillin, I take back what I said!"
+  },
+  {
+   "i": 285,
+   "start": 703.94,
+   "end": 705.06,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Get my son!"
+  },
+  {
+   "i": 286,
+   "start": 705.18,
+   "end": 707.18,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Woohoo! I'm helping!"
+  },
+  {
+   "i": 287,
+   "start": 708.7,
+   "end": 709.72,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Aaahh!!"
+  },
+  {
+   "i": 288,
+   "start": 709.74,
+   "end": 710.96,
+   "kind": "dialog",
+   "speaker": "Pepper",
+   "text": "Imma break your butt!"
+  },
+  {
+   "i": 289,
+   "start": 710.96,
+   "end": 712.74,
+   "kind": "dialog",
+   "speaker": "Pepper",
+   "text": "Haaaaaaaa--"
+  },
+  {
+   "i": 290,
+   "start": 712.74,
+   "end": 714.62,
+   "kind": "dialog",
+   "speaker": "Pepper",
+   "text": "Aaaaaaaahh!!"
+  },
+  {
+   "i": 291,
+   "start": 714.62,
+   "end": 716.56,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Oh, thank God he's on our side!"
+  },
+  {
+   "i": 292,
+   "start": 716.74,
+   "end": 718.82,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "I was aiming for the short, bald one, but..."
+  },
+  {
+   "i": 293,
+   "start": 718.82,
+   "end": 719.96,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "you'll do."
+  },
+  {
+   "i": 294,
+   "start": 720.48,
+   "end": 722.08,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Ow! You mean!"
+  },
+  {
+   "i": 295,
+   "start": 724.02,
+   "end": 727.4,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Not so tough without your two backup dancers, are you, ugly?"
+  },
+  {
+   "i": 296,
+   "start": 727.4,
+   "end": 730.06,
+   "kind": "dialog",
+   "speaker": "Pepper",
+   "text": "Now why you gotta be throwing out mean words like that?"
+  },
+  {
+   "i": 297,
+   "start": 730.06,
+   "end": 731.12,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Y'know, that's fair."
+  },
+  {
+   "i": 298,
+   "start": 731.12,
+   "end": 734.22,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "How 'bout I grab a couple of friends and try to murder you instead?"
+  },
+  {
+   "i": 299,
+   "start": 734.22,
+   "end": 736.74,
+   "kind": "dialog",
+   "speaker": "Pepper",
+   "text": "Well, personally, I think that would be uncalled for."
+  },
+  {
+   "i": 300,
+   "start": 739.22,
+   "end": 740.24,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "You're right."
+  },
+  {
+   "i": 301,
+   "start": 740.24,
+   "end": 745.28,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Because, unlike you... I don't need help."
+  },
+  {
+   "i": 302,
+   "start": 742.22,
+   "end": 743.62,
+   "kind": "dialog",
+   "speaker": "Pepper",
+   "text": "Aaahh!!"
+  },
+  {
+   "i": 303,
+   "start": 745.92,
+   "end": 747.14,
+   "kind": "dialog",
+   "speaker": "Ginger",
+   "text": "Hehehehe!"
+  },
+  {
+   "i": 304,
+   "start": 747.62,
+   "end": 748.46,
+   "kind": "dialog",
+   "speaker": "Cinnamon",
+   "text": "Ha!"
+  },
+  {
+   "i": 305,
+   "start": 748.46,
+   "end": 750.62,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh, c'mon, you guys! That's not fair!"
+  },
+  {
+   "i": 306,
+   "start": 750.72,
+   "end": 752.72,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I can't pull swords out of MY body!"
+  },
+  {
+   "i": 307,
+   "start": 752.72,
+   "end": 754.52,
+   "kind": "dialog",
+   "speaker": "Cinnamon",
+   "text": "STAND STILL AND YOU WILL!!!"
+  },
+  {
+   "i": 308,
+   "start": 754.52,
+   "end": 755.14,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "No."
+  },
+  {
+   "i": 309,
+   "start": 755.14,
+   "end": 755.64,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "No!"
+  },
+  {
+   "i": 310,
+   "start": 755.64,
+   "end": 757.64,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "NO!!!!"
+  },
+  {
+   "i": 311,
+   "start": 758.6,
+   "end": 759.74,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "No! My do!"
+  },
+  {
+   "i": 312,
+   "start": 760.64,
+   "end": 761.64,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Stranger danger!"
+  },
+  {
+   "i": 313,
+   "start": 763.48,
+   "end": 764.78,
+   "kind": "dialog",
+   "speaker": "Ginger",
+   "text": "That shit gets longer?!"
+  },
+  {
+   "i": 314,
+   "start": 764.78,
+   "end": 766.32,
+   "kind": "dialog",
+   "speaker": "Cinnamon",
+   "text": "Oooh yeah it does!"
+  },
+  {
+   "i": 315,
+   "start": 766.54,
+   "end": 767.44,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Goku Kick!"
+  },
+  {
+   "i": 316,
+   "start": 767.44,
+   "end": 768.56,
+   "kind": "dialog",
+   "speaker": "Ginger",
+   "text": "Aaaahhh!!"
+  },
+  {
+   "i": 317,
+   "start": 768.56,
+   "end": 770.78,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Ka...me...ha...me..."
+  },
+  {
+   "i": 318,
+   "start": 770.78,
+   "end": 771.92,
+   "kind": "dialog",
+   "speaker": "Ginger",
+   "text": "YOU AIN'T GOT SHIT!!"
+  },
+  {
+   "i": 319,
+   "start": 771.92,
+   "end": 773.86,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "HAAA!!!"
+  },
+  {
+   "i": 320,
+   "start": 773.86,
+   "end": 775.18,
+   "kind": "dialog",
+   "speaker": "Cinnamon",
+   "text": "Friggin' hell."
+  },
+  {
+   "i": 321,
+   "start": 775.18,
+   "end": 777.62,
+   "kind": "dialog",
+   "speaker": "Cinnamon",
+   "text": "Last time I take on a guy with a pole THAT big."
+  },
+  {
+   "i": 322,
+   "start": 777.62,
+   "end": 779.06,
+   "kind": "dialog",
+   "speaker": "Ginger",
+   "text": "INCOMIIIING!!!"
+  },
+  {
+   "i": 323,
+   "start": 779.06,
+   "end": 780.98,
+   "kind": "dialog",
+   "speaker": "Cinnamon",
+   "text": "OH MY GOD!!!"
+  },
+  {
+   "i": 324,
+   "start": 786.24,
+   "end": 789.68,
+   "kind": "dialog",
+   "speaker": "Ginger",
+   "text": "What a... a douchebag..."
+  },
+  {
+   "i": 325,
+   "start": 790.0,
+   "end": 792.34,
+   "kind": "dialog",
+   "speaker": "Ginger",
+   "text": "Blehhhh..."
+  },
+  {
+   "i": 326,
+   "start": 794.84,
+   "end": 798.04,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "What's wrong, Kami? Fallen and can't get up?"
+  },
+  {
+   "i": 327,
+   "start": 798.04,
+   "end": 800.66,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "Do I need to push that big red button for you?"
+  },
+  {
+   "i": 328,
+   "start": 800.66,
+   "end": 801.78,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Aahhh..."
+  },
+  {
+   "i": 329,
+   "start": 802.42,
+   "end": 804.42,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "OK, you're making this weird, Kami."
+  },
+  {
+   "i": 330,
+   "start": 804.42,
+   "end": 809.2,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "We'll see how that immortality works out for you when I've blown us both into bits!"
+  },
+  {
+   "i": 331,
+   "start": 810.34,
+   "end": 812.88,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "Oh really? You want to stress test this?"
+  },
+  {
+   "i": 332,
+   "start": 812.88,
+   "end": 820.66,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "Sure, go ahead. And while my men are scraping little green chunks off the wall, I'll be partying in my throne room with a harem of sexy demon skanks."
+  },
+  {
+   "i": 333,
+   "start": 821.06,
+   "end": 824.18,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "Seriously, what part of \"immortality\" don't you understand?"
+  },
+  {
+   "i": 334,
+   "start": 824.18,
+   "end": 825.92,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Actually, I'm with him."
+  },
+  {
+   "i": 335,
+   "start": 825.92,
+   "end": 829.04,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Imma have to ask you NOT to blow yourself up right now."
+  },
+  {
+   "i": 336,
+   "start": 829.22,
+   "end": 832.32,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "Well, well, it seems you've eluded my men."
+  },
+  {
+   "i": 337,
+   "start": 832.58,
+   "end": 834.26,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Yeah, sure, let's go with that."
+  },
+  {
+   "i": 338,
+   "start": 834.32,
+   "end": 836.32,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "Oh God, they're all dead, aren't they?"
+  },
+  {
+   "i": 339,
+   "start": 836.32,
+   "end": 836.98,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Yep."
+  },
+  {
+   "i": 340,
+   "start": 836.98,
+   "end": 839.12,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Thank goodness they were so incontinent."
+  },
+  {
+   "i": 341,
+   "start": 839.12,
+   "end": 843.56,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "Looks like if you want someone killed right... you kill them yourself."
+  },
+  {
+   "i": 342,
+   "start": 843.56,
+   "end": 845.14,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Ooh, I might use that..."
+  },
+  {
+   "i": 343,
+   "start": 843.56,
+   "end": 845.14,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "Rrrraaaaahhh!!!"
+  },
+  {
+   "i": 344,
+   "start": 845.14,
+   "end": 847.34,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "Raaahhh!!!"
+  },
+  {
+   "i": 345,
+   "start": 848.66,
+   "end": 849.22,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Huh."
+  },
+  {
+   "i": 346,
+   "start": 849.22,
+   "end": 852.58,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "For a second there, I swore he was gonna yell out \"spaghetti\" or something--"
+  },
+  {
+   "i": 347,
+   "start": 855.92,
+   "end": 856.58,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "EeeYAH!"
+  },
+  {
+   "i": 348,
+   "start": 860.52,
+   "end": 862.86,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Kami! Stay here and don't move!"
+  },
+  {
+   "i": 349,
+   "start": 863.22,
+   "end": 866.56,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "I swear if I didn't know you, I'd call you a smartass."
+  },
+  {
+   "i": 350,
+   "start": 866.7,
+   "end": 868.88,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Rrrraaaaaaahhh!!!"
+  },
+  {
+   "i": 351,
+   "start": 869.58,
+   "end": 870.7,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "Hehehe."
+  },
+  {
+   "i": 352,
+   "start": 870.7,
+   "end": 873.84,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "Been bulking up since I installed the meatery."
+  },
+  {
+   "i": 353,
+   "start": 873.84,
+   "end": 877.36,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "WHERE IS IT?! WHERE IS IT?! WHERE IS IT?! WHERE IS IT?!"
+  },
+  {
+   "i": 354,
+   "start": 877.36,
+   "end": 880.22,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "I'm sure you can find one IN HELL!!"
+  },
+  {
+   "i": 355,
+   "start": 884.42,
+   "end": 885.18,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "(to Tetris theme) Crap! Crap!Crap!Crap!"
+  },
+  {
+   "i": 356,
+   "start": 885.18,
+   "end": 887.56,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Crap!Crap!Crap! Crap!Crap!Crap! Crap!Crap!Crap!"
+  },
+  {
+   "i": 357,
+   "start": 887.8,
+   "end": 889.92,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Crap!Crap!Crap!Crap!Crap! AAHH!!"
+  },
+  {
+   "i": 358,
+   "start": 899.92,
+   "end": 900.72,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "TOOT TOOT!!"
+  },
+  {
+   "i": 359,
+   "start": 900.72,
+   "end": 901.28,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Aahh!"
+  },
+  {
+   "i": 360,
+   "start": 902.04,
+   "end": 903.48,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Er, my wrist!"
+  },
+  {
+   "i": 361,
+   "start": 903.9,
+   "end": 907.1,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "It doesn't hurt a lot, but it's DEFINITELY uncomfortable."
+  },
+  {
+   "i": 362,
+   "start": 907.36,
+   "end": 908.8,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Maybe I should get a wrist brace or--"
+  },
+  {
+   "i": 363,
+   "start": 908.8,
+   "end": 910.8,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "PAIN TRAIN'S COMING!!"
+  },
+  {
+   "i": 364,
+   "start": 910.8,
+   "end": 911.8,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Ah!"
+  },
+  {
+   "i": 365,
+   "start": 910.8,
+   "end": 911.8,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hey, Piccolo!"
+  },
+  {
+   "i": 366,
+   "start": 913.4,
+   "end": 914.14,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "Next stop?!"
+  },
+  {
+   "i": 367,
+   "start": 914.56,
+   "end": 916.58,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "ROCK BOTTOM!!"
+  },
+  {
+   "i": 368,
+   "start": 917.72,
+   "end": 918.78,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(muffled) I get it!"
+  },
+  {
+   "i": 369,
+   "start": 921.06,
+   "end": 922.88,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "That's it, taking off my clothes!"
+  },
+  {
+   "i": 370,
+   "start": 923.02,
+   "end": 925.36,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Wait, why would you even BRING your weighted gi?"
+  },
+  {
+   "i": 371,
+   "start": 925.36,
+   "end": 926.44,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Why would YOU?"
+  },
+  {
+   "i": 372,
+   "start": 926.48,
+   "end": 929.58,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Because I don't have a house to LEAVE them in!"
+  },
+  {
+   "i": 373,
+   "start": 929.58,
+   "end": 932.36,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Why don't you just buy a house with the Ox King's money?"
+  },
+  {
+   "i": 374,
+   "start": 932.52,
+   "end": 934.36,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "What world do you live in?!"
+  },
+  {
+   "i": 375,
+   "start": 934.36,
+   "end": 935.32,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "One with a house."
+  },
+  {
+   "i": 376,
+   "start": 935.5,
+   "end": 936.5,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "And a wife."
+  },
+  {
+   "i": 377,
+   "start": 936.64,
+   "end": 937.7,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "And a son."
+  },
+  {
+   "i": 378,
+   "start": 938.7,
+   "end": 940.74,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "I really don't care for you right now."
+  },
+  {
+   "i": 379,
+   "start": 940.74,
+   "end": 943.94,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Rrrraaaaaaaaaahhh!!!"
+  },
+  {
+   "i": 380,
+   "start": 943.94,
+   "end": 945.56,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "Give me your best sh--"
+  },
+  {
+   "i": 381,
+   "start": 945.56,
+   "end": 946.34,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "Eerrrr!!!"
+  },
+  {
+   "i": 382,
+   "start": 946.34,
+   "end": 948.56,
+   "kind": "dialog",
+   "speaker": "Goku & Piccolo",
+   "text": "Rrrraaaaaaaaaahhh!!!"
+  },
+  {
+   "i": 383,
+   "start": 949.52,
+   "end": 952.82,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "Aaaaahh!!!"
+  },
+  {
+   "i": 384,
+   "start": 957.38,
+   "end": 959.44,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "And that's the way the garlic crumbles."
+  },
+  {
+   "i": 385,
+   "start": 959.44,
+   "end": 961.34,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "You do realize he's immortal?"
+  },
+  {
+   "i": 386,
+   "start": 961.34,
+   "end": 962.98,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Pretty sure you chop garlic."
+  },
+  {
+   "i": 387,
+   "start": 962.98,
+   "end": 966.14,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Seriously. He wished for immortality before you showed up."
+  },
+  {
+   "i": 388,
+   "start": 966.14,
+   "end": 968.94,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Either way, I'd call this another win for Goku!"
+  },
+  {
+   "i": 389,
+   "start": 968.94,
+   "end": 971.26,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Excuse me? That was MY kill."
+  },
+  {
+   "i": 390,
+   "start": 971.26,
+   "end": 972.84,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "He's going to get up at any moment."
+  },
+  {
+   "i": 391,
+   "start": 972.84,
+   "end": 974.38,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "He's got this technique too and it's--"
+  },
+  {
+   "i": 392,
+   "start": 974.38,
+   "end": 977.04,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Piccolo, it's not a competition"
+  },
+  {
+   "i": 393,
+   "start": 977.04,
+   "end": 978.36,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I already won."
+  },
+  {
+   "i": 394,
+   "start": 978.36,
+   "end": 980.24,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "You can still sense him! He's not--"
+  },
+  {
+   "i": 395,
+   "start": 980.24,
+   "end": 983.16,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "I am going to wear your entrails as sweatpants!"
+  },
+  {
+   "i": 396,
+   "start": 983.16,
+   "end": 987.0,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "I can literally SEE the debris shaking!"
+  },
+  {
+   "i": 397,
+   "start": 987.0,
+   "end": 988.18,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Rrraaahhh!!!"
+  },
+  {
+   "i": 398,
+   "start": 988.18,
+   "end": 989.58,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hyaaaa!!!"
+  },
+  {
+   "i": 399,
+   "start": 989.86,
+   "end": 993.42,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "I AM ONE HUNDRED AND TEN PERCENT DONE!!!"
+  },
+  {
+   "i": 400,
+   "start": 993.74,
+   "end": 997.6,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "RRRAAAAAHHH!!!"
+  },
+  {
+   "i": 401,
+   "start": 1012.06,
+   "end": 1014.06,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "This is the Dead Zone!"
+  },
+  {
+   "i": 402,
+   "start": 1014.06,
+   "end": 1018.08,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "The same dimension you banished my dear father to, Kami!"
+  },
+  {
+   "i": 403,
+   "start": 1018.08,
+   "end": 1021.16,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "So is that how your father receives conjugal visits?!"
+  },
+  {
+   "i": 404,
+   "start": 1021.16,
+   "end": 1024.12,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "Eat a dick, you wrinkled green dustbin!"
+  },
+  {
+   "i": 405,
+   "start": 1027.12,
+   "end": 1028.62,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "No! My castle!"
+  },
+  {
+   "i": 406,
+   "start": 1029.42,
+   "end": 1031.42,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hey, Piccolo! He's not dead!"
+  },
+  {
+   "i": 407,
+   "start": 1031.42,
+   "end": 1032.82,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Yeah, how about that?!"
+  },
+  {
+   "i": 408,
+   "start": 1032.82,
+   "end": 1034.48,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Yeah! How about that?!"
+  },
+  {
+   "i": 409,
+   "start": 1034.48,
+   "end": 1037.36,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Well then... This victory is MINE!"
+  },
+  {
+   "i": 410,
+   "start": 1039.1,
+   "end": 1040.3,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "You want I should take a turn?"
+  },
+  {
+   "i": 411,
+   "start": 1040.3,
+   "end": 1041.24,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Shove it, Goku!!"
+  },
+  {
+   "i": 412,
+   "start": 1041.64,
+   "end": 1043.5,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Ugghhh..."
+  },
+  {
+   "i": 413,
+   "start": 1043.5,
+   "end": 1044.04,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Huh?"
+  },
+  {
+   "i": 414,
+   "start": 1044.04,
+   "end": 1045.22,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "OH GOD NO!!!"
+  },
+  {
+   "i": 415,
+   "start": 1045.22,
+   "end": 1047.76,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "Everyone is getting sucked today!"
+  },
+  {
+   "i": 416,
+   "start": 1047.76,
+   "end": 1048.58,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "Demons!"
+  },
+  {
+   "i": 417,
+   "start": 1048.58,
+   "end": 1049.36,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "Humans!"
+  },
+  {
+   "i": 418,
+   "start": 1049.36,
+   "end": 1051.08,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "And gods alike!"
+  },
+  {
+   "i": 419,
+   "start": 1051.38,
+   "end": 1054.0,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "It's even sucking up your children!"
+  },
+  {
+   "i": 420,
+   "start": 1054.32,
+   "end": 1057.28,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "LEAVE MY DADDY ALONE!!!"
+  },
+  {
+   "i": 421,
+   "start": 1059.26,
+   "end": 1060.02,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "Huh?"
+  },
+  {
+   "i": 422,
+   "start": 1060.02,
+   "end": 1061.04,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Gohan?!"
+  },
+  {
+   "i": 423,
+   "start": 1061.04,
+   "end": 1063.7,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Krillin!! You had ONE job!!"
+  },
+  {
+   "i": 424,
+   "start": 1063.82,
+   "end": 1065.82,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "Oh-ho, how cute!"
+  },
+  {
+   "i": 425,
+   "start": 1065.98,
+   "end": 1069.22,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "And what is the four-year-old going to do to stop me--"
+  },
+  {
+   "i": 426,
+   "start": 1069.22,
+   "end": 1071.1,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Rrrraaahhh!!!!"
+  },
+  {
+   "i": 427,
+   "start": 1069.22,
+   "end": 1071.1,
+   "kind": "dialog",
+   "speaker": "Garlic Jr.",
+   "text": "Ahh!"
+  },
+  {
+   "i": 428,
+   "start": 1071.54,
+   "end": 1073.86,
+   "kind": "direction",
+   "speaker": null,
+   "text": "(glass shattering)"
+  },
+  {
+   "i": 429,
+   "start": 1085.96,
+   "end": 1086.68,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Huh?"
+  },
+  {
+   "i": 430,
+   "start": 1086.68,
+   "end": 1087.54,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Daddy!"
+  },
+  {
+   "i": 431,
+   "start": 1087.54,
+   "end": 1088.46,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hey, son!"
+  },
+  {
+   "i": 432,
+   "start": 1088.46,
+   "end": 1089.52,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "What happened?"
+  },
+  {
+   "i": 433,
+   "start": 1089.52,
+   "end": 1090.44,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I dunno."
+  },
+  {
+   "i": 434,
+   "start": 1090.44,
+   "end": 1091.6,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I think I won."
+  },
+  {
+   "i": 435,
+   "start": 1091.6,
+   "end": 1093.24,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "You're the best, daddy!"
+  },
+  {
+   "i": 436,
+   "start": 1093.24,
+   "end": 1094.14,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Uh-huh!"
+  },
+  {
+   "i": 437,
+   "start": 1094.38,
+   "end": 1096.42,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Now let's go han, Go-home."
+  },
+  {
+   "i": 438,
+   "start": 1096.42,
+   "end": 1098.74,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "It's almost time for dickfast."
+  },
+  {
+   "i": 439,
+   "start": 1103.28,
+   "end": 1104.64,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "I'm gonna steal that kid!"
+  },
+  {
+   "i": 440,
+   "start": 1105.56,
+   "end": 1120.16,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "And so, the brave Son Goku and his son defeated the evil Garlic Jr., with the help of Piccolo, Kami, and the greatest ally known to mankind, the sex master and kung-fu legend,"
+  },
+  {
+   "i": 441,
+   "start": 1120.16,
+   "end": 1121.42,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "KRILLIN!!!"
+  },
+  {
+   "i": 442,
+   "start": 1121.42,
+   "end": 1123.7,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Yeah, OK, so I'm gonna have to stop you right there."
+  },
+  {
+   "i": 443,
+   "start": 1124.02,
+   "end": 1125.22,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "First question."
+  },
+  {
+   "i": 444,
+   "start": 1125.52,
+   "end": 1127.28,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Why would he summon the Dead Zone?"
+  },
+  {
+   "i": 445,
+   "start": 1127.28,
+   "end": 1129.14,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "The only thing that could defeat him?"
+  },
+  {
+   "i": 446,
+   "start": 1129.14,
+   "end": 1130.98,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "OK, y'know, I wrote myself into a corner"
+  },
+  {
+   "i": 447,
+   "start": 1130.98,
+   "end": 1132.46,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "with that whole immortality thing."
+  },
+  {
+   "i": 448,
+   "start": 1132.46,
+   "end": 1134.82,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Pretty much regretted it immediately after."
+  },
+  {
+   "i": 449,
+   "start": 1134.82,
+   "end": 1135.98,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Second question."
+  },
+  {
+   "i": 450,
+   "start": 1135.98,
+   "end": 1137.3,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "And I mean no offense..."
+  },
+  {
+   "i": 451,
+   "start": 1137.62,
+   "end": 1139.54,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Why exactly were you there?"
+  },
+  {
+   "i": 452,
+   "start": 1139.54,
+   "end": 1142.22,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I do bring a certain humanistic edge to the setting."
+  },
+  {
+   "i": 453,
+   "start": 1142.22,
+   "end": 1144.4,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "And WHY did you write yourself getting peed on?"
+  },
+  {
+   "i": 454,
+   "start": 1144.4,
+   "end": 1145.66,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "The better question is..."
+  },
+  {
+   "i": 455,
+   "start": 1145.66,
+   "end": 1148.18,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "how much will you PAY me to get peed on?"
+  },
+  {
+   "i": 456,
+   "start": 1149.24,
+   "end": 1151.66,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "You're gonna go far in this business."
+  },
+  {
+   "i": 457,
+   "start": 1151.66,
+   "end": 1152.7,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "WOOHOO!!!"
+  }
+ ],
+ "segments": [
+  {
+   "start": 15.5,
+   "end": 43.0,
+   "title": "Maybe Even a Trebuch--",
+   "quote": "(Now I have a place to put my castle once I rule the world.) / Maybe even a trebuch-- / Oh, you better just KILL me!",
+   "line_start": 1,
+   "line_end": 16
+  },
+  {
+   "start": 46.5,
+   "end": 70.74,
+   "title": "DRAMA QUEEN!",
+   "quote": "Then he ain't dead, is he, drama queen? / DRAMA QUEEEEEN! / (sigh) Garlic Jr.'s back.",
+   "line_start": 19,
+   "line_end": 31
+  },
+  {
+   "start": 127.1,
+   "end": 147.84,
+   "title": "A Puppy! BOOKS!!",
+   "quote": "A puppy! / BOOKS!! / Yaaayy... / Mommy! Grandpa's having a stroke!",
+   "line_start": 49,
+   "line_end": 59
+  },
+  {
+   "start": 164.2,
+   "end": 191.96,
+   "title": "F*ck It! I'm Taking Your Dad!",
+   "quote": "F*ck it! I'm taking your dad! He's a f*cking fatass! / Please? If you wouldn't mind? / I do. / Too f*cking bad!",
+   "line_start": 67,
+   "line_end": 85
+  },
+  {
+   "start": 196.0,
+   "end": 228.0,
+   "title": "OUR LUNCH?! / Linner",
+   "quote": "Goku... they took... / OUR LUNCH?! / It's the fourth most important meal of the day! Right after brunch... But right before linner.",
+   "line_start": 86,
+   "line_end": 101
+  },
+  {
+   "start": 260.2,
+   "end": 287.74,
+   "title": "YOU MORONS STOLE GOKU'S KID?!",
+   "quote": "OH MY GOD! YOU MORONS STOLE GOKU'S KID?! / Well, first, we beat up his wife... / Oh my shit! / It's not like they make a RADAR for this shit!",
+   "line_start": 115,
+   "line_end": 129
+  },
+  {
+   "start": 326.8,
+   "end": 353.68,
+   "title": "Don't Eat That Apple!",
+   "quote": "Imma eat the apple! / DO! NOT! EAT! THAT! APP-- / Well, I hope you packed your bags, kid... because you're about to go on a trip...",
+   "line_start": 148,
+   "line_end": 161
+  },
+  {
+   "start": 406.2,
+   "end": 434.18,
+   "title": "Can't Wait to Hear How You F*ck This Up",
+   "quote": "I can't remember the last time someone actually nutted up and asked for that. Congrats! / Can't wait to hear how you f*ck this up.",
+   "line_start": 170,
+   "line_end": 180
+  },
+  {
+   "start": 446.3,
+   "end": 466.36,
+   "title": "Hail Garlic Jr. / Hey Garlic Jr.",
+   "quote": "Hail Garlic Jr.! / Hey Garlic Jr.! / I am Son Goku! And your name sounds yummy! / I have been told.",
+   "line_start": 183,
+   "line_end": 191
+  },
+  {
+   "start": 537.5,
+   "end": 557.5,
+   "title": "The Spice Rack",
+   "quote": "How about some motherf*ckin ginger?! / Or cinnabuuuns?! / I got nothing. Umm... EGGS!!",
+   "line_start": 223,
+   "line_end": 231
+  },
+  {
+   "start": 584.3,
+   "end": 606.66,
+   "title": "Thank God My Minions Are So Incompetent",
+   "quote": "Wait, so you tried to have me killed, THEN use the Dragonballs? / Wow, I dodged a bullet on that one!",
+   "line_start": 239,
+   "line_end": 247
+  },
+  {
+   "start": 670.8,
+   "end": 691.92,
+   "title": "WHERE IS YOUR GOD NOW?!",
+   "quote": "WHERE! IS! YOUR! GOD! NOW?! / And then, like every person who's ever prayed to you, I'll ignore it.",
+   "line_start": 273,
+   "line_end": 281
+  },
+  {
+   "start": 920.6,
+   "end": 943.94,
+   "title": "The Weighted Gi Argument",
+   "quote": "Why would YOU? / Because I don't have a house to LEAVE them in! / One with a house. And a wife. And a son.",
+   "line_start": 369,
+   "line_end": 379
+  },
+  {
+   "start": 1011.5,
+   "end": 1041.24,
+   "title": "This Victory Is MINE!",
+   "quote": "This is the Dead Zone! / Hey, Piccolo! He's not dead! / Well then... This victory is MINE! / Shove it, Goku!!",
+   "line_start": 401,
+   "line_end": 411
+  },
+  {
+   "start": 1119.7,
+   "end": 1152.7,
+   "title": "Krillin's Script Pitch",
+   "quote": "KRILLIN!!! / Why would he summon the Dead Zone? The only thing that could defeat him? / how much will you PAY me to get peed on? / You're gonna go far in this business.",
+   "line_start": 441,
+   "line_end": 457
+  }
+ ]
+}

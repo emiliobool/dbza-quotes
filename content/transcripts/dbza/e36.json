@@ -1,0 +1,1419 @@
+{
+ "item": "e36",
+ "show": "dbza",
+ "youtube": "mxSRmLBuL4k",
+ "title": "Episode 32",
+ "duration": 560,
+ "lines": [
+  {
+   "i": 0,
+   "start": 11.6,
+   "end": 12.72,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Hey, Yamcha!"
+  },
+  {
+   "i": 1,
+   "start": 12.72,
+   "end": 15.24,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Thanks for coming by and picking up the rest of your stuff."
+  },
+  {
+   "i": 2,
+   "start": 15.4,
+   "end": 16.36,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Hey, no problem!"
+  },
+  {
+   "i": 3,
+   "start": 16.36,
+   "end": 19.58,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "I mean... didn't have to, y'know... throw out most of it..."
+  },
+  {
+   "i": 4,
+   "start": 19.58,
+   "end": 21.86,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Eh, you were dead and it was taking up space."
+  },
+  {
+   "i": 5,
+   "start": 21.86,
+   "end": 23.1,
+   "kind": "dialog",
+   "speaker": "Oolong",
+   "text": "Much like your corpse."
+  },
+  {
+   "i": 6,
+   "start": 23.1,
+   "end": 26.2,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Ha ha! Ah... where did you bury me anyway?"
+  },
+  {
+   "i": 7,
+   "start": 26.2,
+   "end": 27.02,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Bury?"
+  },
+  {
+   "i": 8,
+   "start": 27.32,
+   "end": 29.64,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Flies buzzing"
+  },
+  {
+   "i": 9,
+   "start": 30.02,
+   "end": 32.5,
+   "kind": "dialog",
+   "speaker": "Oolong",
+   "text": "So, Bulma, how's the single life treating you?"
+  },
+  {
+   "i": 10,
+   "start": 32.5,
+   "end": 35.56,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "It's been nice actually, had a dream about Vegeta last night--"
+  },
+  {
+   "i": 11,
+   "start": 35.56,
+   "end": 36.42,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "You slut!"
+  },
+  {
+   "i": 12,
+   "start": 36.42,
+   "end": 37.8,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "We were walking in a park!"
+  },
+  {
+   "i": 13,
+   "start": 37.8,
+   "end": 38.64,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "You slut!"
+  },
+  {
+   "i": 14,
+   "start": 38.64,
+   "end": 41.0,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "OK, first off, we're not even dating!"
+  },
+  {
+   "i": 15,
+   "start": 41.0,
+   "end": 42.94,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Second of all, I don't even like him."
+  },
+  {
+   "i": 16,
+   "start": 42.94,
+   "end": 46.62,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Third, he's probably running out of fuel soon, so God knows if he'll ever make it back here."
+  },
+  {
+   "i": 17,
+   "start": 46.62,
+   "end": 48.16,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "BOOM"
+  },
+  {
+   "i": 18,
+   "start": 49.6,
+   "end": 51.0,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I'M BACK, BITCHES!"
+  },
+  {
+   "i": 19,
+   "start": 73.38,
+   "end": 76.06,
+   "kind": "dialog",
+   "speaker": "Panchy",
+   "text": "Sweetie, roll out the cot! I think we have a visitor!"
+  },
+  {
+   "i": 20,
+   "start": 76.06,
+   "end": 77.48,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "Is he colored?!"
+  },
+  {
+   "i": 21,
+   "start": 77.52,
+   "end": 80.0,
+   "kind": "dialog",
+   "speaker": "Panchy",
+   "text": "I'm not sure, I never open my eyes!"
+  },
+  {
+   "i": 22,
+   "start": 80.06,
+   "end": 82.5,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Hey, you've got a lot of nerve coming back here!"
+  },
+  {
+   "i": 23,
+   "start": 82.5,
+   "end": 85.1,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Oh, a valet. Neat. I'm not tipping."
+  },
+  {
+   "i": 24,
+   "start": 85.1,
+   "end": 88.16,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Don't you remember who I am?! We fought when you landed on Earth!"
+  },
+  {
+   "i": 25,
+   "start": 88.16,
+   "end": 91.66,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "No, I fought Kakarot. *Nappa* fought everyone else."
+  },
+  {
+   "i": 26,
+   "start": 91.84,
+   "end": 94.32,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Well, except for that one scrub who got killed by a Saiba--"
+  },
+  {
+   "i": 27,
+   "start": 96.3,
+   "end": 100.98,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Hahaha! Ahahahahaha! AHAHAHAHAhahaha!"
+  },
+  {
+   "i": 28,
+   "start": 99.32,
+   "end": 102.36,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Oh, yeah?! I dare you to come over here and laugh at me!"
+  },
+  {
+   "i": 29,
+   "start": 103.32,
+   "end": 106.14,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Ha... ha... ha."
+  },
+  {
+   "i": 30,
+   "start": 106.14,
+   "end": 107.84,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Yeah, see, now we can laugh together?"
+  },
+  {
+   "i": 31,
+   "start": 108.1,
+   "end": 111.7,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "OK, seriously, we have enough to clean up without a pool of Yamcha's urine."
+  },
+  {
+   "i": 32,
+   "start": 111.7,
+   "end": 113.08,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "You, come with me."
+  },
+  {
+   "i": 33,
+   "start": 113.08,
+   "end": 114.16,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "What? Why?"
+  },
+  {
+   "i": 34,
+   "start": 114.16,
+   "end": 117.24,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Because you need a shower! I could smell you from East City."
+  },
+  {
+   "i": 35,
+   "start": 117.24,
+   "end": 122.26,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "(Grumbling)... Pacific Ci-- smell you from East City... (grumbling)"
+  },
+  {
+   "i": 36,
+   "start": 120.92,
+   "end": 122.26,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "'Yeah, you better run...'"
+  },
+  {
+   "i": 37,
+   "start": 124.2,
+   "end": 128.0,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Hey, I'm setting out some new clothes for you, and I'm gonna wash your armor!"
+  },
+  {
+   "i": 38,
+   "start": 128.0,
+   "end": 130.58,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Fine, but be careful! Those are dry clean only!"
+  },
+  {
+   "i": 39,
+   "start": 130.58,
+   "end": 131.46,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Whatever."
+  },
+  {
+   "i": 40,
+   "start": 131.46,
+   "end": 134.02,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "No, seriously, they lose their elasticity!"
+  },
+  {
+   "i": 41,
+   "start": 135.16,
+   "end": 135.84,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Door shuts"
+  },
+  {
+   "i": 42,
+   "start": 137.38,
+   "end": 138.44,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "...Hello?"
+  },
+  {
+   "i": 43,
+   "start": 138.6,
+   "end": 140.58,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "So... Vegeta's living here now?"
+  },
+  {
+   "i": 44,
+   "start": 140.84,
+   "end": 141.7,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "That's neat."
+  },
+  {
+   "i": 45,
+   "start": 141.78,
+   "end": 146.5,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "The man single-handedly responsible for murdering most of the entire gang is taking a shower in the other room."
+  },
+  {
+   "i": 46,
+   "start": 146.72,
+   "end": 148.72,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "\"Neat\" is not the first word that comes to mind."
+  },
+  {
+   "i": 47,
+   "start": 148.88,
+   "end": 153.82,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "OK, so I just got a look at Vegeta's ass, and besides being surprisingly nice, he's got this weird hole."
+  },
+  {
+   "i": 48,
+   "start": 153.82,
+   "end": 155.86,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Uh, yeah, even boys have those, Bulma."
+  },
+  {
+   "i": 49,
+   "start": 155.86,
+   "end": 158.84,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "No, you idiot! I mean a hole *above* that one!"
+  },
+  {
+   "i": 50,
+   "start": 159.82,
+   "end": 161.1,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "...You mean he's a chick??"
+  },
+  {
+   "i": 51,
+   "start": 161.18,
+   "end": 163.5,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Earth-woman! Where's the cleansing powder?"
+  },
+  {
+   "i": 52,
+   "start": 163.56,
+   "end": 165.92,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "We don't have that here, we have soap!"
+  },
+  {
+   "i": 53,
+   "start": 165.92,
+   "end": 167.36,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "The hell is \"soap\"?"
+  },
+  {
+   "i": 54,
+   "start": 167.36,
+   "end": 170.08,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "It's that yellow block there made of animal fat!"
+  },
+  {
+   "i": 55,
+   "start": 170.08,
+   "end": 171.22,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "That sounds *awesome*!"
+  },
+  {
+   "i": 56,
+   "start": 171.22,
+   "end": 171.86,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "CHOMP"
+  },
+  {
+   "i": 57,
+   "start": 172.54,
+   "end": 175.34,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Blah! This tastes nothing like what you just said!"
+  },
+  {
+   "i": 58,
+   "start": 175.34,
+   "end": 177.32,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "OK, I change my mind, this *is* pretty neat."
+  },
+  {
+   "i": 59,
+   "start": 177.32,
+   "end": 178.86,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Is that the beta male?!"
+  },
+  {
+   "i": 60,
+   "start": 178.86,
+   "end": 180.8,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "No! Krillin just got here!"
+  },
+  {
+   "i": 61,
+   "start": 180.8,
+   "end": 182.84,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Oh *God*, they're *breeding*!"
+  },
+  {
+   "i": 62,
+   "start": 183.04,
+   "end": 186.92,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I swear, the only thing I hate more than weaklings, is the color pink!"
+  },
+  {
+   "i": 63,
+   "start": 186.92,
+   "end": 194.84,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Sounds of Vegeta getting out of the shower"
+  },
+  {
+   "i": 64,
+   "start": 195.64,
+   "end": 197.86,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "AAAAAAAAHHHHHHH!!"
+  },
+  {
+   "i": 65,
+   "start": 203.12,
+   "end": 204.44,
+   "kind": "dialog",
+   "speaker": "King Cold",
+   "text": "There it is..."
+  },
+  {
+   "i": 66,
+   "start": 204.64,
+   "end": 208.6,
+   "kind": "dialog",
+   "speaker": "King Cold",
+   "text": "The home of the brute who dared lay hands on my darling little angel."
+  },
+  {
+   "i": 67,
+   "start": 208.6,
+   "end": 210.1,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Yes, Daddy."
+  },
+  {
+   "i": 68,
+   "start": 210.18,
+   "end": 212.7,
+   "kind": "dialog",
+   "speaker": "King Cold",
+   "text": "What a pretty little blue pearl it is."
+  },
+  {
+   "i": 69,
+   "start": 212.88,
+   "end": 215.12,
+   "kind": "dialog",
+   "speaker": "King Cold",
+   "text": "What was it called? \"Ee-arth\"?"
+  },
+  {
+   "i": 70,
+   "start": 215.12,
+   "end": 218.58,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Actually, it's pronounced \"Earth\", Daddy-Daddy-Daddy-Daddy."
+  },
+  {
+   "i": 71,
+   "start": 218.08,
+   "end": 218.58,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "BZZZT"
+  },
+  {
+   "i": 72,
+   "start": 218.88,
+   "end": 221.1,
+   "kind": "dialog",
+   "speaker": "King Cold",
+   "text": "Really? But there's an \"A\" in it."
+  },
+  {
+   "i": 73,
+   "start": 221.5,
+   "end": 223.76,
+   "kind": "dialog",
+   "speaker": "King Cold",
+   "text": "I'm just going to keep calling it Ee-arth."
+  },
+  {
+   "i": 74,
+   "start": 223.76,
+   "end": 228.4,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "It doesn't really matter anyway. Soon, it'll have a brand new name..."
+  },
+  {
+   "i": 75,
+   "start": 228.6,
+   "end": 230.02,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "*Vacant Lot*!"
+  },
+  {
+   "i": 76,
+   "start": 230.3,
+   "end": 231.74,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Son of a BITCH!"
+  },
+  {
+   "i": 77,
+   "start": 231.74,
+   "end": 233.12,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "What, still ticked off about the shirt?"
+  },
+  {
+   "i": 78,
+   "start": 233.12,
+   "end": 236.86,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "No, I'm-- well, yes actually, I'm absolutely livid. But that's not the point!"
+  },
+  {
+   "i": 79,
+   "start": 236.86,
+   "end": 240.52,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "That idiot Kakarot *failed*! Freeza's *still alive*!"
+  },
+  {
+   "i": 80,
+   "start": 242.02,
+   "end": 244.02,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Chiaotzu... do you feel that?"
+  },
+  {
+   "i": 81,
+   "start": 244.2,
+   "end": 246.8,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "There are two enormous power levels approaching the planet."
+  },
+  {
+   "i": 82,
+   "start": 246.9,
+   "end": 251.04,
+   "kind": "dialog",
+   "speaker": "Chiaotzu",
+   "text": "Yeah, see, last time this happened... I blew myself up."
+  },
+  {
+   "i": 83,
+   "start": 251.04,
+   "end": 253.96,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Yeah, I was gonna ask you to hold off on that this time."
+  },
+  {
+   "i": 84,
+   "start": 253.96,
+   "end": 256.46,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "RAAAAAAAAAaargh!"
+  },
+  {
+   "i": 85,
+   "start": 256.82,
+   "end": 261.68,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'See, now we just have to carve out an area and then we'll start building the hi--eyyy, do you feel that?'"
+  },
+  {
+   "i": 86,
+   "start": 261.68,
+   "end": 266.72,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Freeza?! NOOOOOOOOOooooo!!"
+  },
+  {
+   "i": 87,
+   "start": 264.06,
+   "end": 266.72,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'OK, I'm right here! Please stop yelling!'"
+  },
+  {
+   "i": 88,
+   "start": 266.72,
+   "end": 271.4,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Oh God, Gohan! It's him it's him it's him it's him it's him it's him it's him it's him it's him it's him it's him it's him!"
+  },
+  {
+   "i": 89,
+   "start": 271.4,
+   "end": 274.84,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Krillin, calm down! Now are you sure it's him?"
+  },
+  {
+   "i": 90,
+   "start": 274.84,
+   "end": 280.02,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Gohan, once you've had a man inside of you... you know when he's coming."
+  },
+  {
+   "i": 91,
+   "start": 281.14,
+   "end": 283.94,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Mom! Where's my Saiyan suit?!"
+  },
+  {
+   "i": 92,
+   "start": 283.94,
+   "end": 286.14,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Woman! Where is my Saiyan suit?!"
+  },
+  {
+   "i": 93,
+   "start": 286.14,
+   "end": 287.4,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "It's under your bed!"
+  },
+  {
+   "i": 94,
+   "start": 287.4,
+   "end": 288.36,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Thank you!"
+  },
+  {
+   "i": 95,
+   "start": 288.36,
+   "end": 289.5,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "It's in the wash!"
+  },
+  {
+   "i": 96,
+   "start": 289.5,
+   "end": 290.7,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "You bitch!"
+  },
+  {
+   "i": 97,
+   "start": 304.68,
+   "end": 309.1,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Alright, judging by how quickly his power level is closing in, he should be here in about--"
+  },
+  {
+   "i": 98,
+   "start": 309.1,
+   "end": 310.86,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Hey, so I need to talk to you about Bulma!"
+  },
+  {
+   "i": 99,
+   "start": 310.86,
+   "end": 312.38,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "You cannot be serious!"
+  },
+  {
+   "i": 100,
+   "start": 312.38,
+   "end": 315.9,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Look, we're not dating anymore, but still, she's a really close friend and--"
+  },
+  {
+   "i": 101,
+   "start": 315.9,
+   "end": 318.02,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "You are actually doing this right now."
+  },
+  {
+   "i": 102,
+   "start": 320.26,
+   "end": 321.58,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Hey, guys!"
+  },
+  {
+   "i": 103,
+   "start": 321.58,
+   "end": 323.9,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Oh, great! And she's here too!"
+  },
+  {
+   "i": 104,
+   "start": 323.9,
+   "end": 326.52,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Why don't all you idiots just start showing up?!"
+  },
+  {
+   "i": 105,
+   "start": 326.66,
+   "end": 327.82,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Hey, Vegeta!"
+  },
+  {
+   "i": 106,
+   "start": 327.82,
+   "end": 329.74,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I was f*cking *kidding*!"
+  },
+  {
+   "i": 107,
+   "start": 330.4,
+   "end": 331.84,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Tenshinhan! Chiaotzu!"
+  },
+  {
+   "i": 108,
+   "start": 332.02,
+   "end": 334.12,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Huh, looks like we got here in time."
+  },
+  {
+   "i": 109,
+   "start": 334.68,
+   "end": 336.54,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Oh hey... Vegeta."
+  },
+  {
+   "i": 110,
+   "start": 336.54,
+   "end": 337.32,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "What?"
+  },
+  {
+   "i": 111,
+   "start": 337.72,
+   "end": 338.84,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Nice shirt."
+  },
+  {
+   "i": 112,
+   "start": 338.84,
+   "end": 340.56,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "And there it is!"
+  },
+  {
+   "i": 113,
+   "start": 340.56,
+   "end": 343.86,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Now all we need is the Namekian and we'll have the whole potpourri of pathetic."
+  },
+  {
+   "i": 114,
+   "start": 344.02,
+   "end": 346.12,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Uh, been here the whole time, actually."
+  },
+  {
+   "i": 115,
+   "start": 346.12,
+   "end": 347.64,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Oh, what do you want? A medal?"
+  },
+  {
+   "i": 116,
+   "start": 348.44,
+   "end": 349.3,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "...Nice shirt."
+  },
+  {
+   "i": 117,
+   "start": 349.3,
+   "end": 350.9,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Kiss my ass, green man."
+  },
+  {
+   "i": 118,
+   "start": 350.9,
+   "end": 352.86,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Yeah, it's the kind of shirt that really screams--"
+  },
+  {
+   "i": 119,
+   "start": 352.88,
+   "end": 353.76,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "HUH...!"
+  },
+  {
+   "i": 120,
+   "start": 353.76,
+   "end": 354.82,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "HE'S COMING!"
+  },
+  {
+   "i": 121,
+   "start": 370.02,
+   "end": 371.52,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "He's landing over there!"
+  },
+  {
+   "i": 122,
+   "start": 371.9,
+   "end": 373.66,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Wait, now he's pulling back."
+  },
+  {
+   "i": 123,
+   "start": 373.66,
+   "end": 376.66,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "No, now he's-- Going back that way..."
+  },
+  {
+   "i": 124,
+   "start": 378.32,
+   "end": 379.72,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "What's he doing?"
+  },
+  {
+   "i": 125,
+   "start": 380.24,
+   "end": 382.42,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Daddy, we can park anywhere we want!"
+  },
+  {
+   "i": 126,
+   "start": 382.62,
+   "end": 387.12,
+   "kind": "dialog",
+   "speaker": "King Cold",
+   "text": "Now, son, if this is anything like that jockstrap incident, we don't want to get boxed in."
+  },
+  {
+   "i": 127,
+   "start": 388.22,
+   "end": 392.74,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "So has anyone else noticed that there are *two* power levels around the same strength on that ship?"
+  },
+  {
+   "i": 128,
+   "start": 392.74,
+   "end": 394.3,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Yeah, it's probably his dad."
+  },
+  {
+   "i": 129,
+   "start": 394.3,
+   "end": 395.46,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "He has a father?!"
+  },
+  {
+   "i": 130,
+   "start": 395.46,
+   "end": 397.52,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Makes sense. Everyone has a dad."
+  },
+  {
+   "i": 131,
+   "start": 398.04,
+   "end": 399.52,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "...'Ceeept me."
+  },
+  {
+   "i": 132,
+   "start": 399.52,
+   "end": 401.0,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Ha! Your dad's dead!"
+  },
+  {
+   "i": 133,
+   "start": 401.0,
+   "end": 402.12,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "So's yours!"
+  },
+  {
+   "i": 134,
+   "start": 402.12,
+   "end": 402.78,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "HA!"
+  },
+  {
+   "i": 135,
+   "start": 402.82,
+   "end": 408.84,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "So, essentially, we have two opponents of equal strength that my father could only beat after fulfilling an ancient alien prophecy."
+  },
+  {
+   "i": 136,
+   "start": 408.86,
+   "end": 413.86,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Does anyone in particular know exactly what we're doing here besides trying not to lose it?!"
+  },
+  {
+   "i": 137,
+   "start": 413.86,
+   "end": 419.22,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Guys, we are so screwed! I don't know what we're gonna do! I mean this is completely crazy! Why did I come here again?! We're going to die!"
+  },
+  {
+   "i": 138,
+   "start": 419.22,
+   "end": 423.14,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "I'm gonna die again! I don't wanna die again! Dying once is bad enough! Oh go-ha-hah!"
+  },
+  {
+   "i": 139,
+   "start": 419.22,
+   "end": 423.14,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "You know, if he weren't doing it... I would."
+  },
+  {
+   "i": 140,
+   "start": 423.14,
+   "end": 425.58,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "We don't need Kakarot or anyone else."
+  },
+  {
+   "i": 141,
+   "start": 425.64,
+   "end": 428.88,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "You have enough badass Saiyan on your team as it is."
+  },
+  {
+   "i": 142,
+   "start": 428.88,
+   "end": 435.06,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Now if you'll excuse me, you all can just sit on your hands while I go up there and take care of business."
+  },
+  {
+   "i": 143,
+   "start": 435.4,
+   "end": 443.5,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Or - maybe we could hide our power levels, sneak closer to them, survey the situation from up close, and, perhaps, catch them by surprise?"
+  },
+  {
+   "i": 144,
+   "start": 444.1,
+   "end": 445.52,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Y'all are bitches."
+  },
+  {
+   "i": 145,
+   "start": 448.38,
+   "end": 450.86,
+   "kind": "dialog",
+   "speaker": "King Cold",
+   "text": "Well, son, is this what you were expecting?"
+  },
+  {
+   "i": 146,
+   "start": 450.86,
+   "end": 453.1,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "My God, this is droll."
+  },
+  {
+   "i": 147,
+   "start": 453.1,
+   "end": 461.42,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "We're so far out in the space sti-ti-ti-ticks, there's not even a space Radioshack, much less a space Best Buy-Buy-Buy-Buy--"
+  },
+  {
+   "i": 148,
+   "start": 460.86,
+   "end": 461.42,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "BZZZT"
+  },
+  {
+   "i": 149,
+   "start": 461.42,
+   "end": 462.5,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Circuit City."
+  },
+  {
+   "i": 150,
+   "start": 462.5,
+   "end": 463.52,
+   "kind": "dialog",
+   "speaker": "King Cold",
+   "text": "Are you alright?"
+  },
+  {
+   "i": 151,
+   "start": 463.52,
+   "end": 465.4,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Yes, Daddy, just processing."
+  },
+  {
+   "i": 152,
+   "start": 465.4,
+   "end": 468.06,
+   "kind": "dialog",
+   "speaker": "King Cold",
+   "text": "And wouldn't you know it, no place to buy more RAM!"
+  },
+  {
+   "i": 153,
+   "start": 468.06,
+   "end": 472.36,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "But I won't lie, Daddy. I'm absolutely ecstatic."
+  },
+  {
+   "i": 154,
+   "start": 472.66,
+   "end": 479.38,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "When that filthy monkey arrives back on the planet, he'll return not to the smiling faces of his dear friends and family..."
+  },
+  {
+   "i": 155,
+   "start": 479.38,
+   "end": 484.04,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "but a Total. Unadulterated. *Genocide*!"
+  },
+  {
+   "i": 156,
+   "start": 484.04,
+   "end": 488.54,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Speaking of which... Soldiers! The scavenger hunt will proceed as such:"
+  },
+  {
+   "i": 157,
+   "start": 488.54,
+   "end": 494.9,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "* Normal human heads are worth one point. * Namekian heads are worth twenty. * Filthy half-Saiyan brats, fifty!"
+  },
+  {
+   "i": 158,
+   "start": 495.38,
+   "end": 502.54,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "And if you find any miserable, odious, insubordinate, full-blooded monkey garbage..."
+  },
+  {
+   "i": 159,
+   "start": 502.54,
+   "end": 503.22,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "you win!"
+  },
+  {
+   "i": 160,
+   "start": 503.62,
+   "end": 504.96,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Well, off you go!"
+  },
+  {
+   "i": 161,
+   "start": 504.96,
+   "end": 505.84,
+   "kind": "dialog",
+   "speaker": "Mooks",
+   "text": "Yes, sir!"
+  },
+  {
+   "i": 162,
+   "start": 522.8,
+   "end": 525.64,
+   "kind": "dialog",
+   "speaker": "Mook",
+   "text": "So... how many points are those?"
+  },
+  {
+   "i": 163,
+   "start": 525.82,
+   "end": 529.56,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ Closing theme (DBZ intermission) ♫"
+  },
+  {
+   "i": 164,
+   "start": 530.68,
+   "end": 557.74,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Oh my God guys, I don't know what we're gonna do here, I- I mean I can't do anything! This is completely insane! I- ike- I'm talking completely, and totally, out of your mind insane! I mean look at thi- look at those guys! I mean I can't see them but I can know they're there! And that's bad enough! I-I-do-Oh-ger- there it goes, there goes my pants- I can't believe! My pants are-- moist now! I mea- no, no no, I'm a man, I'm a ma- OH GOD I'M NOT A MAN ANYMORE WHAT DOES IT MATTER IF I'M A MAN- A WOMAN- A MONKEY! Ehuh! I'm talking nonsense right now..."
+  }
+ ],
+ "segments": [
+  {
+   "start": 29.5,
+   "end": 51.6,
+   "title": "I'M BACK, BITCHES!",
+   "quote": "God knows if he'll ever make it back here. / I'M BACK, BITCHES!",
+   "line_start": 9,
+   "line_end": 18
+  },
+  {
+   "start": 79.6,
+   "end": 108.0,
+   "title": "Nappa Fought Everyone Else",
+   "quote": "No, I fought Kakarot. *Nappa* fought everyone else.",
+   "line_start": 22,
+   "line_end": 30
+  },
+  {
+   "start": 160.7,
+   "end": 177.32,
+   "title": "The Hell Is \"Soap\"?",
+   "quote": "It's that yellow block there made of animal fat! / That sounds *awesome*!",
+   "line_start": 51,
+   "line_end": 58
+  },
+  {
+   "start": 202.6,
+   "end": 230.5,
+   "title": "Ee-arth",
+   "quote": "Actually, it's pronounced \"Earth\", Daddy-Daddy-Daddy-Daddy. / Soon, it'll have a brand new name... *Vacant Lot*!",
+   "line_start": 65,
+   "line_end": 75
+  },
+  {
+   "start": 266.2,
+   "end": 280.6,
+   "title": "You Know When He's Coming",
+   "quote": "Gohan, once you've had a man inside of you... you know when he's coming.",
+   "line_start": 88,
+   "line_end": 90
+  },
+  {
+   "start": 280.6,
+   "end": 291.2,
+   "title": "Where's My Saiyan Suit?",
+   "quote": "It's under your bed! / Thank you! / It's in the wash! / You bitch!",
+   "line_start": 91,
+   "line_end": 96
+  },
+  {
+   "start": 331.5,
+   "end": 350.9,
+   "title": "Nice Shirt",
+   "quote": "Nice shirt. / And there it is! / ...Nice shirt. / Kiss my ass, green man.",
+   "line_start": 108,
+   "line_end": 117
+  },
+  {
+   "start": 387.7,
+   "end": 403.3,
+   "title": "Everyone Has a Dad",
+   "quote": "...'Ceeept me. / Ha! Your dad's dead! / So's yours! / HA!",
+   "line_start": 127,
+   "line_end": 134
+  },
+  {
+   "start": 422.6,
+   "end": 446.0,
+   "title": "Y'all Are Bitches",
+   "quote": "Y'all are bitches.",
+   "line_start": 140,
+   "line_end": 144
+  },
+  {
+   "start": 483.5,
+   "end": 506.3,
+   "title": "The Scavenger Hunt",
+   "quote": "Normal human heads are worth one point. Namekian heads are worth twenty. Filthy half-Saiyan brats, fifty!",
+   "line_start": 156,
+   "line_end": 161
+  },
+  {
+   "start": 530.2,
+   "end": 557.74,
+   "title": "Yamcha Loses It (Stinger)",
+   "quote": "OH GOD I'M NOT A MAN ANYMORE WHAT DOES IT MATTER IF I'M A MAN- A WOMAN- A MONKEY!",
+   "line_start": 164,
+   "line_end": 164
+  }
+ ]
+}

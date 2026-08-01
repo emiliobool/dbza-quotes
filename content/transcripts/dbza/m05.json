@@ -1,0 +1,3811 @@
+{
+ "item": "m05",
+ "show": "dbza",
+ "youtube": "pqLvFfwcqfw",
+ "title": "Lord Slug",
+ "duration": 1278,
+ "lines": [
+  {
+   "i": 0,
+   "start": 11.98,
+   "end": 15.9,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'Alright now, hear me out: So I fire the Special Beam Cannon with one hand, right?'"
+  },
+  {
+   "i": 1,
+   "start": 15.9,
+   "end": 16.82,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'Yeah?'"
+  },
+  {
+   "i": 2,
+   "start": 16.82,
+   "end": 19.8,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'What if I used...TWO hands?'"
+  },
+  {
+   "i": 3,
+   "start": 19.8,
+   "end": 21.24,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'You mean like the Kamehameha?'"
+  },
+  {
+   "i": 4,
+   "start": 21.24,
+   "end": 25.76,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'NO! NOT LIKE THE KAMEHAMEHA! THE KAMEHAMEHA DOESN'T *DRILL* THINGS!'"
+  },
+  {
+   "i": 5,
+   "start": 25.76,
+   "end": 27.5,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'Last time I checked, neither do cannons.'"
+  },
+  {
+   "i": 6,
+   "start": 27.5,
+   "end": 30.1,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'Thaaat's what makes it SPECIAL!'"
+  },
+  {
+   "i": 7,
+   "start": 30.1,
+   "end": 34.14,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Dragon makes playful noises"
+  },
+  {
+   "i": 8,
+   "start": 30.1,
+   "end": 34.14,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Hey, Mr. Piccolo! Look what I found - it's a dragon!"
+  },
+  {
+   "i": 9,
+   "start": 34.14,
+   "end": 34.92,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'Who's that?'"
+  },
+  {
+   "i": 10,
+   "start": 34.92,
+   "end": 38.24,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'It's just Gohan. If you ignore it, it'll go away.'"
+  },
+  {
+   "i": 11,
+   "start": 38.24,
+   "end": 40.08,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Dragon continues to make noises"
+  },
+  {
+   "i": 12,
+   "start": 38.24,
+   "end": 40.08,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "He's a western style dragon."
+  },
+  {
+   "i": 13,
+   "start": 40.08,
+   "end": 42.7,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Dragon continues to make noises"
+  },
+  {
+   "i": 14,
+   "start": 40.08,
+   "end": 42.7,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "I taught him how to dance. Show him Icarus!"
+  },
+  {
+   "i": 15,
+   "start": 42.7,
+   "end": 44.96,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Gohan joins in by whistling"
+  },
+  {
+   "i": 16,
+   "start": 42.7,
+   "end": 44.96,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'So do you just ignore all of your problems?'"
+  },
+  {
+   "i": 17,
+   "start": 44.96,
+   "end": 47.9,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'No. Some of them I invite to live in my *head*.'"
+  },
+  {
+   "i": 18,
+   "start": 47.9,
+   "end": 51.26,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'Well, I'm sorry, it's just that there's so much space in here I didn't think you'd-'"
+  },
+  {
+   "i": 19,
+   "start": 51.26,
+   "end": 53.98,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'-Ahhhh! Oh my God, what the hell is that?!'"
+  },
+  {
+   "i": 20,
+   "start": 53.98,
+   "end": 57.62,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'Ahh! I don't know! It's like someone's torturing a frickin' cat!'"
+  },
+  {
+   "i": 21,
+   "start": 58.24,
+   "end": 59.94,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "[Humming]"
+  },
+  {
+   "i": 22,
+   "start": 61.04,
+   "end": 61.6,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "...What?"
+  },
+  {
+   "i": 23,
+   "start": 61.6,
+   "end": 63.82,
+   "kind": "dialog",
+   "speaker": "Kami",
+   "text": "Mr. Popo, are you torturing a cat?!"
+  },
+  {
+   "i": 24,
+   "start": 63.82,
+   "end": 66.72,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Oh come on Kami, I don't torture cats."
+  },
+  {
+   "i": 25,
+   "start": 71.48,
+   "end": 72.64,
+   "kind": "dialog",
+   "speaker": "Jynx",
+   "text": "Jynx, Jynx!"
+  },
+  {
+   "i": 26,
+   "start": 72.64,
+   "end": 73.68,
+   "kind": "dialog",
+   "speaker": "Mr. Popo",
+   "text": "Bitch, shut up!"
+  },
+  {
+   "i": 27,
+   "start": 73.88,
+   "end": 75.62,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'Make it STOP!!'"
+  },
+  {
+   "i": 28,
+   "start": 75.62,
+   "end": 77.22,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "GOHAN I WILL CARVE YOU LIKE A PUMPKIN!!"
+  },
+  {
+   "i": 29,
+   "start": 77.22,
+   "end": 78.26,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Icarus and Gohan fall silent"
+  },
+  {
+   "i": 30,
+   "start": 79.64,
+   "end": 81.18,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "I'm sorry, Mr. Piccolo."
+  },
+  {
+   "i": 31,
+   "start": 84.32,
+   "end": 84.82,
+   "kind": "dialog",
+   "speaker": "Icarus",
+   "text": "Blblbla!"
+  },
+  {
+   "i": 32,
+   "start": 84.82,
+   "end": 85.56,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "I'll kill it!"
+  },
+  {
+   "i": 33,
+   "start": 85.76,
+   "end": 86.4,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Huh?!"
+  },
+  {
+   "i": 34,
+   "start": 86.6,
+   "end": 87.22,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Uhh!"
+  },
+  {
+   "i": 35,
+   "start": 91.9,
+   "end": 93.72,
+   "kind": "direction",
+   "speaker": null,
+   "text": "\"I Don't Want To Miss A Thing\" plays in the background"
+  },
+  {
+   "i": 36,
+   "start": 93.04,
+   "end": 93.72,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "KLUN KLIN"
+  },
+  {
+   "i": 37,
+   "start": 94.06,
+   "end": 97.28,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "Honey! Good news: I've isolated the gay gene!"
+  },
+  {
+   "i": 38,
+   "start": 97.28,
+   "end": 104.22,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "Now we'll finally be able to make it through Manhattan at a decent time. I knew this combination telescope microscope would come in handy."
+  },
+  {
+   "i": 39,
+   "start": 104.54,
+   "end": 110.08,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "Also, there's a giant meteor coming towards the planet. QUICK! Get me Bruce Willis, Steve Buscemi, and Aerosmith."
+  },
+  {
+   "i": 40,
+   "start": 110.08,
+   "end": 111.54,
+   "kind": "dialog",
+   "speaker": "Oolong",
+   "text": "What about Ben Affleck?"
+  },
+  {
+   "i": 41,
+   "start": 111.54,
+   "end": 112.62,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "What about bacon?"
+  },
+  {
+   "i": 42,
+   "start": 114.44,
+   "end": 117.4,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "So if I blow this meteor up, I get bacon?"
+  },
+  {
+   "i": 43,
+   "start": 117.4,
+   "end": 119.06,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Why am I Mr. Pink?"
+  },
+  {
+   "i": 44,
+   "start": 119.06,
+   "end": 121.42,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "HYAAAAAGH!"
+  },
+  {
+   "i": 45,
+   "start": 119.56,
+   "end": 121.42,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "HAAAAAGH!"
+  },
+  {
+   "i": 46,
+   "start": 125.02,
+   "end": 125.82,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "(Think) it'll work?"
+  },
+  {
+   "i": 47,
+   "start": 129.28,
+   "end": 130.0,
+   "kind": "dialog",
+   "speaker": "Oolong",
+   "text": "Nnnope."
+  },
+  {
+   "i": 48,
+   "start": 130.12,
+   "end": 134.18,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "NOOOOOOOOO MY BACOOON!!!"
+  },
+  {
+   "i": 49,
+   "start": 131.58,
+   "end": 134.18,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I'M A VIRGIIIIIIN!!!"
+  },
+  {
+   "i": 50,
+   "start": 144.6,
+   "end": 146.42,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "BOOOM"
+  },
+  {
+   "i": 51,
+   "start": 147.5,
+   "end": 149.64,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Well, good news is we're not dead."
+  },
+  {
+   "i": 52,
+   "start": 149.8,
+   "end": 153.8,
+   "kind": "dialog",
+   "speaker": "Oolong",
+   "text": "And hey, the city's OK too. Hell, there's even a new building."
+  },
+  {
+   "i": 53,
+   "start": 153.8,
+   "end": 155.48,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "That's no building..."
+  },
+  {
+   "i": 54,
+   "start": 155.48,
+   "end": 157.48,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "That's a space station (!)"
+  },
+  {
+   "i": 55,
+   "start": 159.42,
+   "end": 161.42,
+   "kind": "dialog",
+   "speaker": "Random Dude",
+   "text": "What the heck do you think's inside?"
+  },
+  {
+   "i": 56,
+   "start": 161.42,
+   "end": 165.36,
+   "kind": "dialog",
+   "speaker": "Some Other Dude",
+   "text": "I BET IT'S JESUS! I'm calling Jesus! You heard it here, folks! I said Jesus!"
+  },
+  {
+   "i": 57,
+   "start": 173.12,
+   "end": 174.7,
+   "kind": "dialog",
+   "speaker": "Another Dude",
+   "text": "Hi, Jesus!"
+  },
+  {
+   "i": 58,
+   "start": 175.3,
+   "end": 178.26,
+   "kind": "dialog",
+   "speaker": "Mook",
+   "text": "OK guys, move out. This is easy pickings."
+  },
+  {
+   "i": 59,
+   "start": 180.82,
+   "end": 183.06,
+   "kind": "dialog",
+   "speaker": "Some Other Dude",
+   "text": "Look everyone, it's Jesus' death army!"
+  },
+  {
+   "i": 60,
+   "start": 183.74,
+   "end": 185.74,
+   "kind": "dialog",
+   "speaker": "Some Other Dude",
+   "text": "Something about what I just said doesn't sound right."
+  },
+  {
+   "i": 61,
+   "start": 186.94,
+   "end": 188.3,
+   "kind": "dialog",
+   "speaker": "Mook",
+   "text": "Inhabitants of Earth!"
+  },
+  {
+   "i": 62,
+   "start": 188.74,
+   "end": 191.74,
+   "kind": "dialog",
+   "speaker": "Mook",
+   "text": "Prepare to be conquered in the name of Lord Slug!"
+  },
+  {
+   "i": 63,
+   "start": 191.74,
+   "end": 194.0,
+   "kind": "dialog",
+   "speaker": "Some Other Dude",
+   "text": "WE LOVE YOU JESUUUS!!!"
+  },
+  {
+   "i": 64,
+   "start": 194.3,
+   "end": 197.26,
+   "kind": "dialog",
+   "speaker": "Mook",
+   "text": "What the hell is going on? Heh, open fire."
+  },
+  {
+   "i": 65,
+   "start": 197.66,
+   "end": 199.08,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Crowd screams"
+  },
+  {
+   "i": 66,
+   "start": 199.62,
+   "end": 201.46,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Gross eating noises"
+  },
+  {
+   "i": 67,
+   "start": 201.46,
+   "end": 202.44,
+   "kind": "dialog",
+   "speaker": "Zeeun",
+   "text": "GYOSHU!"
+  },
+  {
+   "i": 68,
+   "start": 202.44,
+   "end": 206.08,
+   "kind": "dialog",
+   "speaker": "Zeeun",
+   "text": "WHY IS THE PROCESS OF TERRA-FREEZING THE PLANET TAKING SO LONG?!"
+  },
+  {
+   "i": 69,
+   "start": 206.08,
+   "end": 210.38,
+   "kind": "dialog",
+   "speaker": "Gyoshu",
+   "text": "You can just say \"terra-freezing process\"; \"terra-freezing the planet\" sounds REDUNDANT."
+  },
+  {
+   "i": 70,
+   "start": 210.38,
+   "end": 212.54,
+   "kind": "dialog",
+   "speaker": "Zeeun",
+   "text": "WELL, WHY IS IT TAKING SO LONG?!"
+  },
+  {
+   "i": 71,
+   "start": 212.54,
+   "end": 215.34,
+   "kind": "dialog",
+   "speaker": "Gyoshu",
+   "text": "Because apparently someone needed a F*CKING English lesson!"
+  },
+  {
+   "i": 72,
+   "start": 215.34,
+   "end": 216.8,
+   "kind": "dialog",
+   "speaker": "Zeeun",
+   "text": "YOU LISTEN HERE!"
+  },
+  {
+   "i": 73,
+   "start": 216.8,
+   "end": 219.66,
+   "kind": "dialog",
+   "speaker": "Zeeun",
+   "text": "KING PICCOLO IS ON BORROWED TIME! WE-"
+  },
+  {
+   "i": 74,
+   "start": 217.9,
+   "end": 219.66,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "[Growling]"
+  },
+  {
+   "i": 75,
+   "start": 219.66,
+   "end": 225.22,
+   "kind": "dialog",
+   "speaker": "Zeeun",
+   "text": "-uh OH! Wuh I I-I uh, I am so sorry, that was a total slip-up on my part!"
+  },
+  {
+   "i": 76,
+   "start": 225.22,
+   "end": 227.6,
+   "kind": "dialog",
+   "speaker": "Zeeun",
+   "text": "Please forgive me King Piccolo...I did it again (!)"
+  },
+  {
+   "i": 77,
+   "start": 227.6,
+   "end": 229.88,
+   "kind": "dialog",
+   "speaker": "Zeeun",
+   "text": "AAAAAAAUUUUUUUGHH!!!"
+  },
+  {
+   "i": 78,
+   "start": 230.78,
+   "end": 232.34,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "Hrrmmmm."
+  },
+  {
+   "i": 79,
+   "start": 232.34,
+   "end": 233.66,
+   "kind": "dialog",
+   "speaker": "Gyoshu",
+   "text": "How long will it take?"
+  },
+  {
+   "i": 80,
+   "start": 233.66,
+   "end": 235.76,
+   "kind": "dialog",
+   "speaker": "Gyoshu",
+   "text": "Well, King Piccolo, I believe it will take..."
+  },
+  {
+   "i": 81,
+   "start": 234.96,
+   "end": 235.76,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "[Growling]"
+  },
+  {
+   "i": 82,
+   "start": 235.76,
+   "end": 237.92,
+   "kind": "dialog",
+   "speaker": "Gyoshu",
+   "text": "NO WAIT! I SAID IT BECAUSE HE DID IT! I SAID IT BECAUSE HE DID--IIIIT!!!"
+  },
+  {
+   "i": 83,
+   "start": 238.56,
+   "end": 240.06,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "Ehhhhrmm."
+  },
+  {
+   "i": 84,
+   "start": 240.06,
+   "end": 246.26,
+   "kind": "dialog",
+   "speaker": "Kakuja",
+   "text": "Well, Lord Slug, it is my humble opinion, Lord Slug, that it will take three days, Lord Slug...Go Team Slug."
+  },
+  {
+   "i": 85,
+   "start": 246.26,
+   "end": 247.78,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "Rrrreeimmh."
+  },
+  {
+   "i": 86,
+   "start": 247.78,
+   "end": 248.92,
+   "kind": "dialog",
+   "speaker": "Kakuja",
+   "text": "Thank you, Lord Slug!"
+  },
+  {
+   "i": 87,
+   "start": 248.92,
+   "end": 251.38,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "Heeigh hrmm hrmm mmrgh."
+  },
+  {
+   "i": 88,
+   "start": 251.38,
+   "end": 253.64,
+   "kind": "dialog",
+   "speaker": "Kakuja",
+   "text": "Your Vicodin? In the bowl next to you."
+  },
+  {
+   "i": 89,
+   "start": 253.64,
+   "end": 255.64,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "Hreeeeiiighh!"
+  },
+  {
+   "i": 90,
+   "start": 255.64,
+   "end": 260.74,
+   "kind": "direction",
+   "speaker": null,
+   "text": "More gross eating noises"
+  },
+  {
+   "i": 91,
+   "start": 260.74,
+   "end": 262.74,
+   "kind": "dialog",
+   "speaker": "Kakuja",
+   "text": "Oh...look at him go..."
+  },
+  {
+   "i": 92,
+   "start": 263.28,
+   "end": 264.64,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Aahh ya!"
+  },
+  {
+   "i": 93,
+   "start": 265.18,
+   "end": 267.76,
+   "kind": "dialog",
+   "speaker": "Mook",
+   "text": "OH GOD ALL I SEE IS GLASS AND BLOOD!!!"
+  },
+  {
+   "i": 94,
+   "start": 271.16,
+   "end": 275.48,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "ATATATATATATATATAT Yaah!"
+  },
+  {
+   "i": 95,
+   "start": 279.22,
+   "end": 281.42,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "You see, just because I'm a woman..."
+  },
+  {
+   "i": 96,
+   "start": 282.96,
+   "end": 285.08,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "That actually lasted longer than I expected."
+  },
+  {
+   "i": 97,
+   "start": 285.16,
+   "end": 285.74,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "MOM!"
+  },
+  {
+   "i": 98,
+   "start": 287.12,
+   "end": 288.32,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "'AHH! MY HAT!!'"
+  },
+  {
+   "i": 99,
+   "start": 288.86,
+   "end": 292.58,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "'Oh well... it's a good thing none of these guys don't know what a Dragon Ball is.'"
+  },
+  {
+   "i": 100,
+   "start": 293.12,
+   "end": 295.74,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "Erhh eh drehgen brall."
+  },
+  {
+   "i": 101,
+   "start": 295.74,
+   "end": 297.2,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Crap baskets."
+  },
+  {
+   "i": 102,
+   "start": 297.36,
+   "end": 299.16,
+   "kind": "dialog",
+   "speaker": "Oolong",
+   "text": "LET ME GO, YOU CRAZY BITCH!"
+  },
+  {
+   "i": 103,
+   "start": 299.16,
+   "end": 300.72,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "STOP RIGHT THERE!"
+  },
+  {
+   "i": 104,
+   "start": 300.72,
+   "end": 302.72,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "I AM KING BACON!"
+  },
+  {
+   "i": 105,
+   "start": 302.72,
+   "end": 307.14,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "LEAVE NOW! OR I WILL USE MY VOODOO POWERS ON YOU!"
+  },
+  {
+   "i": 106,
+   "start": 307.14,
+   "end": 308.56,
+   "kind": "dialog",
+   "speaker": "Angila",
+   "text": "You look like a twat!"
+  },
+  {
+   "i": 107,
+   "start": 308.56,
+   "end": 309.1,
+   "kind": "dialog",
+   "speaker": "Oolong",
+   "text": "Waaah...!"
+  },
+  {
+   "i": 108,
+   "start": 309.1,
+   "end": 310.56,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "You're talking to the pig, right?"
+  },
+  {
+   "i": 109,
+   "start": 310.56,
+   "end": 312.02,
+   "kind": "dialog",
+   "speaker": "Angila",
+   "text": "I'm talking to you, yes."
+  },
+  {
+   "i": 110,
+   "start": 312.02,
+   "end": 314.04,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Oh, I am at least an eight!"
+  },
+  {
+   "i": 111,
+   "start": 314.04,
+   "end": 317.34,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "Hehh hmm heh hmm hmm mrrghough duh."
+  },
+  {
+   "i": 112,
+   "start": 317.34,
+   "end": 319.78,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "What? You know what the Dragon Balls are?"
+  },
+  {
+   "i": 113,
+   "start": 319.78,
+   "end": 321.84,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "Hobhhrrrrghoh."
+  },
+  {
+   "i": 114,
+   "start": 321.84,
+   "end": 323.84,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "And you wanna collect all seven?"
+  },
+  {
+   "i": 115,
+   "start": 323.84,
+   "end": 329.04,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Well tough luck, Jolly Green Jackass, because I'm the only one with a radar to find them."
+  },
+  {
+   "i": 116,
+   "start": 333.26,
+   "end": 335.42,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "(Sigh)...Oh my God..."
+  },
+  {
+   "i": 117,
+   "start": 335.42,
+   "end": 336.82,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "Ngaghmmhmmm."
+  },
+  {
+   "i": 118,
+   "start": 336.82,
+   "end": 339.78,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Oh God! Get off me! Where's my rape mace?! NO NO NOOO!!!"
+  },
+  {
+   "i": 119,
+   "start": 339.78,
+   "end": 341.52,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Vacuum noise"
+  },
+  {
+   "i": 120,
+   "start": 339.78,
+   "end": 341.52,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Uhhh..."
+  },
+  {
+   "i": 121,
+   "start": 341.52,
+   "end": 343.04,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "BULMA! Ugh!"
+  },
+  {
+   "i": 122,
+   "start": 343.6,
+   "end": 344.28,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Slide whistle"
+  },
+  {
+   "i": 123,
+   "start": 344.28,
+   "end": 345.12,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Thank you..."
+  },
+  {
+   "i": 124,
+   "start": 345.68,
+   "end": 346.58,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "ughh..."
+  },
+  {
+   "i": 125,
+   "start": 345.68,
+   "end": 346.58,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Thud"
+  },
+  {
+   "i": 126,
+   "start": 346.68,
+   "end": 350.14,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "Huegh heh hiergh hmm ngh hagh huh hiergh."
+  },
+  {
+   "i": 127,
+   "start": 350.14,
+   "end": 352.72,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "Hmm hergh hrmm hugh heh hgerlh."
+  },
+  {
+   "i": 128,
+   "start": 352.72,
+   "end": 355.18,
+   "kind": "dialog",
+   "speaker": "Medamatcha",
+   "text": "YOU WANT US TO FIND THEM ALL IN AN HOUR?!"
+  },
+  {
+   "i": 129,
+   "start": 355.18,
+   "end": 356.84,
+   "kind": "dialog",
+   "speaker": "Medamatcha",
+   "text": "BUT IT'S HOT AS BALLS!!!"
+  },
+  {
+   "i": 130,
+   "start": 356.84,
+   "end": 359.7,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "Erh, bitch blitch bertch."
+  },
+  {
+   "i": 131,
+   "start": 361.54,
+   "end": 362.46,
+   "kind": "dialog",
+   "speaker": "Medamatcha",
+   "text": "Thank you!"
+  },
+  {
+   "i": 132,
+   "start": 362.8,
+   "end": 363.74,
+   "kind": "dialog",
+   "speaker": "Angila",
+   "text": "Thank you."
+  },
+  {
+   "i": 133,
+   "start": 364.16,
+   "end": 365.26,
+   "kind": "dialog",
+   "speaker": "Wings",
+   "text": "Thank you mountain."
+  },
+  {
+   "i": 134,
+   "start": 365.52,
+   "end": 366.84,
+   "kind": "dialog",
+   "speaker": "Slug Mook",
+   "text": "I got a Dragon Ball!"
+  },
+  {
+   "i": 135,
+   "start": 366.84,
+   "end": 368.22,
+   "kind": "dialog",
+   "speaker": "Another Slug Mook",
+   "text": "I got a Dragon Ball!"
+  },
+  {
+   "i": 136,
+   "start": 368.22,
+   "end": 370.02,
+   "kind": "dialog",
+   "speaker": "Yet Another Slug Mook",
+   "text": "I got a Dragon Ball!"
+  },
+  {
+   "i": 137,
+   "start": 370.02,
+   "end": 371.62,
+   "kind": "dialog",
+   "speaker": "Charlie Brown",
+   "text": "I got a rock."
+  },
+  {
+   "i": 138,
+   "start": 371.86,
+   "end": 374.1,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "HRGH HNGH HEIH HEH HEH!"
+  },
+  {
+   "i": 139,
+   "start": 374.1,
+   "end": 376.82,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "HRRGH HURGH HUH HEH HAH HUH HRRROUGH!!!"
+  },
+  {
+   "i": 140,
+   "start": 382.3,
+   "end": 388.22,
+   "kind": "dialog",
+   "speaker": "Shenron",
+   "text": "I am the Eternal Dragon. Why have you summoned me?"
+  },
+  {
+   "i": 141,
+   "start": 388.22,
+   "end": 390.0,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "WREGH HRIEEGH!"
+  },
+  {
+   "i": 142,
+   "start": 390.0,
+   "end": 393.58,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "HRUGH HMM HROUGH HAH HEH HIIIEEEGH!!!"
+  },
+  {
+   "i": 143,
+   "start": 393.86,
+   "end": 397.76,
+   "kind": "dialog",
+   "speaker": "Shenron",
+   "text": "You wish to return to the prime of your youth."
+  },
+  {
+   "i": 144,
+   "start": 397.76,
+   "end": 399.76,
+   "kind": "dialog",
+   "speaker": "Shenron",
+   "text": "Your wish shall be-"
+  },
+  {
+   "i": 145,
+   "start": 400.26,
+   "end": 404.3,
+   "kind": "dialog",
+   "speaker": "Shenron",
+   "text": "-...wait a second, hold on. Something seems really familiar about this..."
+  },
+  {
+   "i": 146,
+   "start": 404.3,
+   "end": 405.74,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "HNNNNGRRRRRGH!!!"
+  },
+  {
+   "i": 147,
+   "start": 405.74,
+   "end": 407.18,
+   "kind": "dialog",
+   "speaker": "Shenron",
+   "text": "Ah, it doesn't matter."
+  },
+  {
+   "i": 148,
+   "start": 407.18,
+   "end": 411.12,
+   "kind": "dialog",
+   "speaker": "Shenron",
+   "text": "Your wish is granted!"
+  },
+  {
+   "i": 149,
+   "start": 411.12,
+   "end": 413.12,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "HA HA HA HA HA!"
+  },
+  {
+   "i": 150,
+   "start": 413.12,
+   "end": 415.54,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "HRAH HAHAHAHAHAHA!!!"
+  },
+  {
+   "i": 151,
+   "start": 415.84,
+   "end": 420.9,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "LORD SLUG THE ALMIGHTY HAS RETURNED!!!"
+  },
+  {
+   "i": 152,
+   "start": 421.1,
+   "end": 427.24,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "My youth...my strength... MY IMPECCABLE SINGING VOICE!"
+  },
+  {
+   "i": 153,
+   "start": 427.64,
+   "end": 429.64,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ A parody of \"What a Wonderful World\" ♫"
+  },
+  {
+   "i": 154,
+   "start": 433.34,
+   "end": 440.12,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "♫ I see trees of brown! And skies of black! ♫"
+  },
+  {
+   "i": 155,
+   "start": 440.12,
+   "end": 449.06,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "♫ And I think to myself...what a wonderful world! ♫"
+  },
+  {
+   "i": 156,
+   "start": 450.78,
+   "end": 451.28,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Wha?"
+  },
+  {
+   "i": 157,
+   "start": 451.88,
+   "end": 452.88,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Where am I?"
+  },
+  {
+   "i": 158,
+   "start": 453.26,
+   "end": 455.26,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "That meteor kicked your ass!"
+  },
+  {
+   "i": 159,
+   "start": 455.26,
+   "end": 458.22,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "Turns out, it was full of bad guys too. Who knew?"
+  },
+  {
+   "i": 160,
+   "start": 458.22,
+   "end": 460.94,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Wow! I must've been out for a while."
+  },
+  {
+   "i": 161,
+   "start": 461.28,
+   "end": 463.8,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "It's all... *snowy*..."
+  },
+  {
+   "i": 162,
+   "start": 463.8,
+   "end": 465.98,
+   "kind": "dialog",
+   "speaker": "Yajirobe",
+   "text": "I know, right? It's almost like--"
+  },
+  {
+   "i": 163,
+   "start": 465.98,
+   "end": 469.54,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "IT'S CHRISTMAAAAS!!!"
+  },
+  {
+   "i": 164,
+   "start": 470.44,
+   "end": 474.44,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "It's really a shame how hard it is to find food with all the animals dying."
+  },
+  {
+   "i": 165,
+   "start": 474.44,
+   "end": 477.12,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Yes, we just have to make do with what we have."
+  },
+  {
+   "i": 166,
+   "start": 477.36,
+   "end": 481.56,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Gohan! Dragon soup's ready! It's finger licarus good!"
+  },
+  {
+   "i": 167,
+   "start": 481.8,
+   "end": 482.66,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "AHHH!!!"
+  },
+  {
+   "i": 168,
+   "start": 483.04,
+   "end": 484.86,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "BULMA! GOHAN'S MISSING!"
+  },
+  {
+   "i": 169,
+   "start": 484.86,
+   "end": 487.18,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "AND SO IS THE OUTFIT PICCOLO GAVE HIM!!!"
+  },
+  {
+   "i": 170,
+   "start": 487.18,
+   "end": 487.94,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "(GASP)"
+  },
+  {
+   "i": 171,
+   "start": 487.94,
+   "end": 490.04,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "AND RED DAWN'S ON NETFLIX!"
+  },
+  {
+   "i": 172,
+   "start": 490.04,
+   "end": 492.82,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "WOLVERIIIIIINES!"
+  },
+  {
+   "i": 173,
+   "start": 493.16,
+   "end": 494.88,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "You can't touch me up here!"
+  },
+  {
+   "i": 174,
+   "start": 494.88,
+   "end": 496.42,
+   "kind": "dialog",
+   "speaker": "Slug Mook",
+   "text": "WE HAVE BLASTERS!"
+  },
+  {
+   "i": 175,
+   "start": 496.42,
+   "end": 498.24,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "ONE OF THOSE DOES NOTHING!"
+  },
+  {
+   "i": 176,
+   "start": 498.24,
+   "end": 499.74,
+   "kind": "dialog",
+   "speaker": "Slug Mook",
+   "text": "HOW ABOUT A HUNDRED?!"
+  },
+  {
+   "i": 177,
+   "start": 499.74,
+   "end": 501.54,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Guns cocking"
+  },
+  {
+   "i": 178,
+   "start": 502.02,
+   "end": 502.84,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Wolverines...?"
+  },
+  {
+   "i": 179,
+   "start": 504.36,
+   "end": 505.22,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Ahhhhh--uuh!"
+  },
+  {
+   "i": 180,
+   "start": 505.88,
+   "end": 507.88,
+   "kind": "dialog",
+   "speaker": "Slug Mook",
+   "text": "ALRIGHTY! SH*T STOMP ON THE LITTLE KID!"
+  },
+  {
+   "i": 181,
+   "start": 510.98,
+   "end": 512.64,
+   "kind": "dialog",
+   "speaker": "Slug Mook",
+   "text": "OH MY GOD ARE YOU BATMAN?! NOOO!!!"
+  },
+  {
+   "i": 182,
+   "start": 512.64,
+   "end": 513.84,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Glass shatters"
+  },
+  {
+   "i": 183,
+   "start": 515.12,
+   "end": 517.28,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Ahaha! Mr. Piccolo!"
+  },
+  {
+   "i": 184,
+   "start": 519.68,
+   "end": 521.44,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "All right, what's your gimmick?"
+  },
+  {
+   "i": 185,
+   "start": 521.44,
+   "end": 522.08,
+   "kind": "dialog",
+   "speaker": "Wings",
+   "text": "Gimmick?"
+  },
+  {
+   "i": 186,
+   "start": 522.08,
+   "end": 526.24,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Yeah, like the last guys; they were all misfit minions and crap. What are you?"
+  },
+  {
+   "i": 187,
+   "start": 526.24,
+   "end": 530.94,
+   "kind": "dialog",
+   "speaker": "Angila",
+   "text": "We're just here for your planet. Though if I had to choose, I'd say I'm the pretty one."
+  },
+  {
+   "i": 188,
+   "start": 530.94,
+   "end": 532.16,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Eh, 6/10."
+  },
+  {
+   "i": 189,
+   "start": 532.16,
+   "end": 533.4,
+   "kind": "dialog",
+   "speaker": "Angila",
+   "text": "You sassy bitch."
+  },
+  {
+   "i": 190,
+   "start": 533.56,
+   "end": 536.2,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "That makes you the weird one with the freaky power."
+  },
+  {
+   "i": 191,
+   "start": 536.2,
+   "end": 538.08,
+   "kind": "dialog",
+   "speaker": "Medamatcha",
+   "text": "I CAN SPAWN MINI ME'S!"
+  },
+  {
+   "i": 192,
+   "start": 538.08,
+   "end": 539.18,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Spectacular."
+  },
+  {
+   "i": 193,
+   "start": 539.18,
+   "end": 542.54,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "And that would make you no doubt the big tough stupid one."
+  },
+  {
+   "i": 194,
+   "start": 542.54,
+   "end": 544.98,
+   "kind": "dialog",
+   "speaker": "Wings",
+   "text": "YOU TAKE THAT BACK OR I'LL KILL YOU!"
+  },
+  {
+   "i": 195,
+   "start": 544.98,
+   "end": 546.82,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "All right, all right, you're not tough."
+  },
+  {
+   "i": 196,
+   "start": 546.82,
+   "end": 547.92,
+   "kind": "dialog",
+   "speaker": "Wings",
+   "text": "That's better!"
+  },
+  {
+   "i": 197,
+   "start": 548.5,
+   "end": 549.24,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Wait, didn't you--"
+  },
+  {
+   "i": 198,
+   "start": 549.24,
+   "end": 550.22,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Give him a minute..."
+  },
+  {
+   "i": 199,
+   "start": 551.64,
+   "end": 552.5,
+   "kind": "dialog",
+   "speaker": "Wings",
+   "text": "HEY!"
+  },
+  {
+   "i": 200,
+   "start": 552.5,
+   "end": 554.5,
+   "kind": "dialog",
+   "speaker": "Wings",
+   "text": "YOU SON OF A BITCH!"
+  },
+  {
+   "i": 201,
+   "start": 556.54,
+   "end": 559.5,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Now now, that truck is not your eating disorder."
+  },
+  {
+   "i": 202,
+   "start": 559.5,
+   "end": 560.94,
+   "kind": "dialog",
+   "speaker": "Wings",
+   "text": "YOU'RE A PENIS!"
+  },
+  {
+   "i": 203,
+   "start": 560.94,
+   "end": 564.02,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "So long since you've seen yours that you don't even recognize one, do ya?"
+  },
+  {
+   "i": 204,
+   "start": 565.1,
+   "end": 566.38,
+   "kind": "dialog",
+   "speaker": "Wings",
+   "text": "RAAAAH--uhh!"
+  },
+  {
+   "i": 205,
+   "start": 566.38,
+   "end": 567.56,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "SPLAT"
+  },
+  {
+   "i": 206,
+   "start": 566.38,
+   "end": 567.56,
+   "kind": "dialog",
+   "speaker": "Wings",
+   "text": "UGHHHRAAGH!"
+  },
+  {
+   "i": 207,
+   "start": 568.08,
+   "end": 569.48,
+   "kind": "dialog",
+   "speaker": "Wings",
+   "text": "Please don't break mah arm."
+  },
+  {
+   "i": 208,
+   "start": 569.48,
+   "end": 569.98,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "No."
+  },
+  {
+   "i": 209,
+   "start": 569.98,
+   "end": 570.48,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "CRUNCH"
+  },
+  {
+   "i": 210,
+   "start": 569.98,
+   "end": 571.46,
+   "kind": "dialog",
+   "speaker": "Wings",
+   "text": "Aaaah!"
+  },
+  {
+   "i": 211,
+   "start": 571.46,
+   "end": 572.36,
+   "kind": "dialog",
+   "speaker": "Medamatcha",
+   "text": "D'AAAH-AAGH!"
+  },
+  {
+   "i": 212,
+   "start": 573.4,
+   "end": 575.5,
+   "kind": "dialog",
+   "speaker": "Medamatcha",
+   "text": "GO, MY LITTLE FREAKS OF NATURE!"
+  },
+  {
+   "i": 213,
+   "start": 575.5,
+   "end": 579.5,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Oh God, oh no, God! NO NO *NO* *NO*...!"
+  },
+  {
+   "i": 214,
+   "start": 582.4,
+   "end": 584.92,
+   "kind": "dialog",
+   "speaker": "Wings",
+   "text": "He thinks he's so great. Imma show him."
+  },
+  {
+   "i": 215,
+   "start": 585.06,
+   "end": 586.38,
+   "kind": "dialog",
+   "speaker": "Wings",
+   "text": "AW GOD DAMMIT!"
+  },
+  {
+   "i": 216,
+   "start": 587.04,
+   "end": 589.38,
+   "kind": "dialog",
+   "speaker": "Wings",
+   "text": "All right, go for the left, he won't see me coming from-"
+  },
+  {
+   "i": 217,
+   "start": 589.38,
+   "end": 590.48,
+   "kind": "dialog",
+   "speaker": "Wings",
+   "text": "-AW HE SAW IT COMING!"
+  },
+  {
+   "i": 218,
+   "start": 591.0,
+   "end": 593.62,
+   "kind": "dialog",
+   "speaker": "Wings",
+   "text": "Fine, I'll wait down here and catch him off guard."
+  },
+  {
+   "i": 219,
+   "start": 594.02,
+   "end": 594.94,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Hey, how's it going?"
+  },
+  {
+   "i": 220,
+   "start": 594.94,
+   "end": 598.1,
+   "kind": "dialog",
+   "speaker": "Wings",
+   "text": "Oh hey, I'm just waiting for that green jerk so I can surprise him."
+  },
+  {
+   "i": 221,
+   "start": 598.28,
+   "end": 599.02,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Neat."
+  },
+  {
+   "i": 222,
+   "start": 599.02,
+   "end": 600.98,
+   "kind": "dialog",
+   "speaker": "Wings",
+   "text": "Yeah, he'll never see it co-!"
+  },
+  {
+   "i": 223,
+   "start": 601.52,
+   "end": 602.02,
+   "kind": "dialog",
+   "speaker": "Wings",
+   "text": "-...Ohh."
+  },
+  {
+   "i": 224,
+   "start": 604.06,
+   "end": 604.68,
+   "kind": "dialog",
+   "speaker": "Wings",
+   "text": "Hurhh..."
+  },
+  {
+   "i": 225,
+   "start": 605.06,
+   "end": 613.66,
+   "kind": "dialog",
+   "speaker": "Wings",
+   "text": "All right, look. I know we said some things... but I bet if we just talk to each other a little, we could become friends."
+  },
+  {
+   "i": 226,
+   "start": 613.66,
+   "end": 615.18,
+   "kind": "dialog",
+   "speaker": "Wings",
+   "text": "Whaddya say? High-five?"
+  },
+  {
+   "i": 227,
+   "start": 615.18,
+   "end": 615.94,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Down low."
+  },
+  {
+   "i": 228,
+   "start": 615.94,
+   "end": 616.82,
+   "kind": "dialog",
+   "speaker": "Wings",
+   "text": "Wha--?"
+  },
+  {
+   "i": 229,
+   "start": 615.94,
+   "end": 616.82,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Too slow."
+  },
+  {
+   "i": 230,
+   "start": 620.4,
+   "end": 625.14,
+   "kind": "dialog",
+   "speaker": "Medamatcha",
+   "text": "All right babies, come back to Papa! It's Daddy's turn to get a shot at him now!"
+  },
+  {
+   "i": 231,
+   "start": 626.64,
+   "end": 629.38,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "WHY CAN'T YOU SAVE YOUR OWN DAMN SEEEELLLF?!?!"
+  },
+  {
+   "i": 232,
+   "start": 631.48,
+   "end": 634.08,
+   "kind": "dialog",
+   "speaker": "Medamatcha",
+   "text": "Ha ha! The boss is gonna love this!"
+  },
+  {
+   "i": 233,
+   "start": 634.54,
+   "end": 636.96,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "Oh-ho God, I loove this!"
+  },
+  {
+   "i": 234,
+   "start": 637.52,
+   "end": 640.8,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "My skin is so F*CKING smooth!"
+  },
+  {
+   "i": 235,
+   "start": 641.4,
+   "end": 643.48,
+   "kind": "dialog",
+   "speaker": "Medamatcha",
+   "text": "Now to finish them off."
+  },
+  {
+   "i": 236,
+   "start": 643.48,
+   "end": 644.1,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Ow..."
+  },
+  {
+   "i": 237,
+   "start": 644.1,
+   "end": 646.92,
+   "kind": "dialog",
+   "speaker": "Medamatcha",
+   "text": "PAPA MEDAMATCHA GONNA MAKE YOU HIS BITCH!"
+  },
+  {
+   "i": 238,
+   "start": 647.32,
+   "end": 648.02,
+   "kind": "dialog",
+   "speaker": "Medamatcha",
+   "text": "D'AAH!"
+  },
+  {
+   "i": 239,
+   "start": 648.02,
+   "end": 648.98,
+   "kind": "dialog",
+   "speaker": "Angila",
+   "text": "Who the hell?!"
+  },
+  {
+   "i": 240,
+   "start": 650.0,
+   "end": 651.08,
+   "kind": "dialog",
+   "speaker": "Medamatcha",
+   "text": "Heheheheheh."
+  },
+  {
+   "i": 241,
+   "start": 651.08,
+   "end": 655.58,
+   "kind": "dialog",
+   "speaker": "Medamatcha",
+   "text": "Look, another couple of putzes to knock around! This should be fu-..."
+  },
+  {
+   "i": 242,
+   "start": 655.58,
+   "end": 660.06,
+   "kind": "dialog",
+   "speaker": "Medamatcha",
+   "text": "-WHAT, BITCH?! I'M TALKING TO YOU! I WILL SMACK YOU WITH MY DICK!"
+  },
+  {
+   "i": 243,
+   "start": 660.06,
+   "end": 662.58,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Don't worry Gohan, I'll save Christmas."
+  },
+  {
+   "i": 244,
+   "start": 662.58,
+   "end": 665.14,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "But... it's not Christmas."
+  },
+  {
+   "i": 245,
+   "start": 665.14,
+   "end": 667.44,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Then why is it *snowing*, Gohan?"
+  },
+  {
+   "i": 246,
+   "start": 667.58,
+   "end": 670.4,
+   "kind": "dialog",
+   "speaker": "Angila",
+   "text": "Not to be rude, but we've got better things to do."
+  },
+  {
+   "i": 247,
+   "start": 670.4,
+   "end": 672.84,
+   "kind": "dialog",
+   "speaker": "Medamatcha",
+   "text": "Yeah, we're gonna take your planet and--"
+  },
+  {
+   "i": 248,
+   "start": 672.84,
+   "end": 674.26,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Steal Christmas?"
+  },
+  {
+   "i": 249,
+   "start": 674.26,
+   "end": 675.4,
+   "kind": "dialog",
+   "speaker": "Angila",
+   "text": "Does he mean Freeza Day?"
+  },
+  {
+   "i": 250,
+   "start": 675.4,
+   "end": 677.06,
+   "kind": "dialog",
+   "speaker": "Medamatcha",
+   "text": "WHAT THE HELL'S A CHRISTMA-"
+  },
+  {
+   "i": 251,
+   "start": 677.06,
+   "end": 678.68,
+   "kind": "dialog",
+   "speaker": "Medamatcha",
+   "text": "-YAAAAAGH!"
+  },
+  {
+   "i": 252,
+   "start": 681.98,
+   "end": 685.0,
+   "kind": "dialog",
+   "speaker": "Medamatcha",
+   "text": "OH, I DON'T GIVE A SH*T WHAT CHRISTMAS IS NOW!!"
+  },
+  {
+   "i": 253,
+   "start": 685.0,
+   "end": 686.86,
+   "kind": "dialog",
+   "speaker": "Medamatcha",
+   "text": "I JUST KNOW I'M GOING TO KILL IT!"
+  },
+  {
+   "i": 254,
+   "start": 686.86,
+   "end": 689.98,
+   "kind": "dialog",
+   "speaker": "Medamatcha",
+   "text": "AND THEN MY LITTLE MATCHAS ARE GOING TO *RAPE IT*!!"
+  },
+  {
+   "i": 255,
+   "start": 689.98,
+   "end": 692.56,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "*Nobody rakes Christmas*."
+  },
+  {
+   "i": 256,
+   "start": 692.56,
+   "end": 693.36,
+   "kind": "dialog",
+   "speaker": "Angila",
+   "text": "TIRAAGH!"
+  },
+  {
+   "i": 257,
+   "start": 694.22,
+   "end": 695.2,
+   "kind": "dialog",
+   "speaker": "Angila",
+   "text": "MEDAMATCHA!"
+  },
+  {
+   "i": 258,
+   "start": 695.2,
+   "end": 697.2,
+   "kind": "dialog",
+   "speaker": "Medamatcha",
+   "text": "SUCK 'EM DRY, BOYS!"
+  },
+  {
+   "i": 259,
+   "start": 699.06,
+   "end": 701.02,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hmm, what to do...?"
+  },
+  {
+   "i": 260,
+   "start": 701.02,
+   "end": 701.9,
+   "kind": "dialog",
+   "speaker": "Medamatcha",
+   "text": "D'AAAGH-"
+  },
+  {
+   "i": 261,
+   "start": 701.9,
+   "end": 702.56,
+   "kind": "dialog",
+   "speaker": "Medamatcha",
+   "text": "-HUUU...!"
+  },
+  {
+   "i": 262,
+   "start": 702.56,
+   "end": 704.48,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "HAAAAAA...!"
+  },
+  {
+   "i": 263,
+   "start": 704.48,
+   "end": 706.58,
+   "kind": "dialog",
+   "speaker": "Angila",
+   "text": "YOU LITTLE UPSTART *PRICK*!"
+  },
+  {
+   "i": 264,
+   "start": 706.82,
+   "end": 707.6,
+   "kind": "dialog",
+   "speaker": "Angila",
+   "text": "D'AAAGH!"
+  },
+  {
+   "i": 265,
+   "start": 707.6,
+   "end": 708.36,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "URRH!"
+  },
+  {
+   "i": 266,
+   "start": 708.36,
+   "end": 710.42,
+   "kind": "dialog",
+   "speaker": "Angila",
+   "text": "HUWG-...-UWAA-AGH...!"
+  },
+  {
+   "i": 267,
+   "start": 712.42,
+   "end": 714.48,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "And that's how I saved Christmas."
+  },
+  {
+   "i": 268,
+   "start": 715.16,
+   "end": 715.72,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Again."
+  },
+  {
+   "i": 269,
+   "start": 716.24,
+   "end": 718.24,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Well, that was unnecessarily brutal."
+  },
+  {
+   "i": 270,
+   "start": 718.9,
+   "end": 720.36,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Mooks are screaming"
+  },
+  {
+   "i": 271,
+   "start": 718.9,
+   "end": 719.64,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "How bout them?"
+  },
+  {
+   "i": 272,
+   "start": 719.64,
+   "end": 720.36,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "They can live."
+  },
+  {
+   "i": 273,
+   "start": 720.36,
+   "end": 721.26,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "BOOM"
+  },
+  {
+   "i": 274,
+   "start": 721.26,
+   "end": 721.92,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Or not..."
+  },
+  {
+   "i": 275,
+   "start": 722.52,
+   "end": 725.68,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "God, we go through soldiers here like copy paper."
+  },
+  {
+   "i": 276,
+   "start": 726.16,
+   "end": 730.62,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "IF YOU'RE WITH THE GOVERNMENT OR THE CHURCH, GET THE F*CK OFF MY PROPERTY!"
+  },
+  {
+   "i": 277,
+   "start": 730.62,
+   "end": 735.3,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "Which, considering I now own this rock, is effectively *everything*."
+  },
+  {
+   "i": 278,
+   "start": 735.48,
+   "end": 739.44,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Don't worry, Goku. Just sit on back and let Krillin handle this one."
+  },
+  {
+   "i": 279,
+   "start": 739.44,
+   "end": 739.94,
+   "kind": "direction",
+   "speaker": null,
+   "text": "TiVo beep"
+  },
+  {
+   "i": 280,
+   "start": 739.94,
+   "end": 742.84,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Oh-ho, my God. This is going to be amazing."
+  },
+  {
+   "i": 281,
+   "start": 742.84,
+   "end": 744.84,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Aaand, record."
+  },
+  {
+   "i": 282,
+   "start": 744.84,
+   "end": 745.34,
+   "kind": "direction",
+   "speaker": null,
+   "text": "TiVo beep"
+  },
+  {
+   "i": 283,
+   "start": 745.34,
+   "end": 746.5,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Waaah-!"
+  },
+  {
+   "i": 284,
+   "start": 746.5,
+   "end": 750.22,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "-WHAT POSSESSED ME TO DO THA-HAAAAT...?!"
+  },
+  {
+   "i": 285,
+   "start": 750.22,
+   "end": 751.4,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "BOOM"
+  },
+  {
+   "i": 286,
+   "start": 751.4,
+   "end": 753.3,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "And the Emmy goes to..."
+  },
+  {
+   "i": 287,
+   "start": 753.3,
+   "end": 754.34,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "KRILLIN!"
+  },
+  {
+   "i": 288,
+   "start": 764.48,
+   "end": 768.28,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "You know, there's a certain sport I excel at."
+  },
+  {
+   "i": 289,
+   "start": 768.28,
+   "end": 769.42,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "What's it called?"
+  },
+  {
+   "i": 290,
+   "start": 769.8,
+   "end": 771.94,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "COMPETITIVE BITCH TOSS!"
+  },
+  {
+   "i": 291,
+   "start": 774.46,
+   "end": 775.34,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Hey, Gohan."
+  },
+  {
+   "i": 292,
+   "start": 776.18,
+   "end": 780.98,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Gohan, you wanna do that thing, where you get really mad and start beating the guy up?"
+  },
+  {
+   "i": 293,
+   "start": 782.18,
+   "end": 782.86,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Gohan?"
+  },
+  {
+   "i": 294,
+   "start": 784.32,
+   "end": 785.12,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "*Gohan*?"
+  },
+  {
+   "i": 295,
+   "start": 786.32,
+   "end": 788.32,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Don't you F*CKING ignore me (!)"
+  },
+  {
+   "i": 296,
+   "start": 788.82,
+   "end": 794.78,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'All right, I just gotta pull myself together. At least he's not shooting laser eyes at me or something.'"
+  },
+  {
+   "i": 297,
+   "start": 794.78,
+   "end": 795.98,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'He's an X-Man!'"
+  },
+  {
+   "i": 298,
+   "start": 797.72,
+   "end": 803.88,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'Oh great, Iguana Street. Now I'm gonna get mugged. But jokes on them; I have no mon--'"
+  },
+  {
+   "i": 299,
+   "start": 803.88,
+   "end": 804.7,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "AGH!"
+  },
+  {
+   "i": 300,
+   "start": 804.9,
+   "end": 805.52,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "SMASH"
+  },
+  {
+   "i": 301,
+   "start": 805.66,
+   "end": 809.34,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Oh hey, I should take Chi-Chi here. She'll love this place."
+  },
+  {
+   "i": 302,
+   "start": 809.34,
+   "end": 810.04,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "UGH!"
+  },
+  {
+   "i": 303,
+   "start": 810.32,
+   "end": 810.84,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "AUGH!"
+  },
+  {
+   "i": 304,
+   "start": 811.82,
+   "end": 813.28,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "This is amazing!"
+  },
+  {
+   "i": 305,
+   "start": 813.28,
+   "end": 819.58,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "I feel like a young strapping lad, beating his meat furiously for the first time!"
+  },
+  {
+   "i": 306,
+   "start": 819.58,
+   "end": 821.1,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Goku, do you hear me?!"
+  },
+  {
+   "i": 307,
+   "start": 821.1,
+   "end": 824.76,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hey, King Kai. My nipples are rigid right now."
+  },
+  {
+   "i": 308,
+   "start": 824.76,
+   "end": 825.98,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "That's..."
+  },
+  {
+   "i": 309,
+   "start": 825.98,
+   "end": 829.58,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Anyway, I noticed you're having a hard time down there."
+  },
+  {
+   "i": 310,
+   "start": 829.74,
+   "end": 834.04,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Yeah, he's pretty really strong. I'm not sure what to do."
+  },
+  {
+   "i": 311,
+   "start": 834.04,
+   "end": 836.76,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "But if I fail, Christmas is *doomed*!"
+  },
+  {
+   "i": 312,
+   "start": 836.76,
+   "end": 837.6,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "But it's not..."
+  },
+  {
+   "i": 313,
+   "start": 837.6,
+   "end": 838.62,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "KLING"
+  },
+  {
+   "i": 314,
+   "start": 838.62,
+   "end": 843.58,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "D'I mean yes! Goku, it's Christmas, and you're about to let Christmas die!"
+  },
+  {
+   "i": 315,
+   "start": 843.58,
+   "end": 845.96,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "But he's so strong. I don't think I can--"
+  },
+  {
+   "i": 316,
+   "start": 845.96,
+   "end": 851.94,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Goku! You're the only one who can do this! You are the Champion of Christmas!"
+  },
+  {
+   "i": 317,
+   "start": 852.34,
+   "end": 854.94,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "Hehehehe. DIE!!!"
+  },
+  {
+   "i": 318,
+   "start": 855.72,
+   "end": 856.38,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "Huh?!"
+  },
+  {
+   "i": 319,
+   "start": 857.78,
+   "end": 858.9,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "HAAAAH...!"
+  },
+  {
+   "i": 320,
+   "start": 858.3,
+   "end": 858.9,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "CRUNCH"
+  },
+  {
+   "i": 321,
+   "start": 858.9,
+   "end": 861.56,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "SON OF A BITCH! MY WHITTLING HAND!"
+  },
+  {
+   "i": 322,
+   "start": 861.56,
+   "end": 864.14,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I AM CHAMPION CHRISTMAS!!!"
+  },
+  {
+   "i": 323,
+   "start": 867.44,
+   "end": 869.54,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Holy crap! Where'd this come from?!"
+  },
+  {
+   "i": 324,
+   "start": 869.54,
+   "end": 872.24,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "He's become...super powered."
+  },
+  {
+   "i": 325,
+   "start": 872.24,
+   "end": 875.92,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Like some kind of...super...saiyaman."
+  },
+  {
+   "i": 326,
+   "start": 875.92,
+   "end": 879.84,
+   "kind": "dialog",
+   "speaker": "Talking Movie Bubbles",
+   "text": "Sir, if I might interject, that sounds positively ridiculous."
+  },
+  {
+   "i": 327,
+   "start": 879.84,
+   "end": 881.52,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "SHUT UP, TALKING MOVIE BUBBLES!"
+  },
+  {
+   "i": 328,
+   "start": 881.62,
+   "end": 882.26,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "D'AAUGH!"
+  },
+  {
+   "i": 329,
+   "start": 883.6,
+   "end": 885.54,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "What the hell got into you?!"
+  },
+  {
+   "i": 330,
+   "start": 885.54,
+   "end": 888.8,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I WILL STOP YOU FROM DESTROYING CHRISTMAS!!!"
+  },
+  {
+   "i": 331,
+   "start": 889.08,
+   "end": 891.7,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "What are you talking about? It's JULY!"
+  },
+  {
+   "i": 332,
+   "start": 891.7,
+   "end": 895.04,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "DON'T \"JULY\" TO ME!!! IT'S *SNOWING*!"
+  },
+  {
+   "i": 333,
+   "start": 895.04,
+   "end": 897.78,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "I FROZE YOUR *PLANET*, YOU *MOOK*!"
+  },
+  {
+   "i": 334,
+   "start": 897.78,
+   "end": 898.34,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Wha?"
+  },
+  {
+   "i": 335,
+   "start": 899.14,
+   "end": 900.26,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Awwwwwwwww..."
+  },
+  {
+   "i": 336,
+   "start": 900.26,
+   "end": 901.7,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Aww, crap."
+  },
+  {
+   "i": 337,
+   "start": 901.7,
+   "end": 903.56,
+   "kind": "dialog",
+   "speaker": "Talking Movie Bubbles",
+   "text": "Well, that's inconvenient."
+  },
+  {
+   "i": 338,
+   "start": 903.56,
+   "end": 905.44,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "MOVIE BUBBLES, I SWEAR TO GOD!"
+  },
+  {
+   "i": 339,
+   "start": 905.44,
+   "end": 906.48,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "IN A TRUNK!"
+  },
+  {
+   "i": 340,
+   "start": 906.48,
+   "end": 907.66,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "OFF A CLIFF!"
+  },
+  {
+   "i": 341,
+   "start": 907.9,
+   "end": 911.56,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Well, I still have to defeat you. And you can't win with a broken arm."
+  },
+  {
+   "i": 342,
+   "start": 911.56,
+   "end": 912.54,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "SPLAT"
+  },
+  {
+   "i": 343,
+   "start": 912.54,
+   "end": 915.3,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "No no no! You're supposed to leave it on, it gets better!"
+  },
+  {
+   "i": 344,
+   "start": 915.3,
+   "end": 916.38,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "AUGGH-UU!"
+  },
+  {
+   "i": 345,
+   "start": 916.38,
+   "end": 920.82,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Or you know, grow it back... wait a minute, that means your..."
+  },
+  {
+   "i": 346,
+   "start": 921.66,
+   "end": 923.66,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "JAW IS ENORMOUS!"
+  },
+  {
+   "i": 347,
+   "start": 924.4,
+   "end": 926.4,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Lord Slug yells during his power-up"
+  },
+  {
+   "i": 348,
+   "start": 927.06,
+   "end": 931.62,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'Hold on a minute. I know now! I know what he is! He's a--'"
+  },
+  {
+   "i": 349,
+   "start": 931.62,
+   "end": 933.58,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "DO NOT SAY \"YOSHI\"!!"
+  },
+  {
+   "i": 350,
+   "start": 933.9,
+   "end": 934.96,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Imma still think it."
+  },
+  {
+   "i": 351,
+   "start": 934.96,
+   "end": 938.6,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "*Namekian*, Goku. Na-me-ki-an!"
+  },
+  {
+   "i": 352,
+   "start": 938.6,
+   "end": 942.52,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "A Super Namekian, mind you, who's here to rule over your planet."
+  },
+  {
+   "i": 353,
+   "start": 942.52,
+   "end": 948.92,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Apparently he is the banished other half of the Grand Elder Namekian, who became too old and decrepit to fight."
+  },
+  {
+   "i": 354,
+   "start": 948.92,
+   "end": 952.68,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "But now he has used the Dragon Balls to return himself to his prime."
+  },
+  {
+   "i": 355,
+   "start": 952.68,
+   "end": 958.62,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hold on a second. Now, I may not be the brightest knife in the crayon box... but that sure sounds a lot like..."
+  },
+  {
+   "i": 356,
+   "start": 959.76,
+   "end": 960.26,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "HEY!"
+  },
+  {
+   "i": 357,
+   "start": 960.62,
+   "end": 963.04,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "You wouldn't be related to King Piccolo, would you?"
+  },
+  {
+   "i": 358,
+   "start": 963.26,
+   "end": 968.18,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hope that doesn't sound racist, I gotta be careful about that. We're still in Iguana Street..."
+  },
+  {
+   "i": 359,
+   "start": 968.18,
+   "end": 968.88,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "RWAAGH!"
+  },
+  {
+   "i": 360,
+   "start": 968.18,
+   "end": 968.88,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "EEK!"
+  },
+  {
+   "i": 361,
+   "start": 969.9,
+   "end": 974.28,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'OK, do Namekians know about sensing energy? Seem to remember they don-...'"
+  },
+  {
+   "i": 362,
+   "start": 974.28,
+   "end": 975.32,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'-OH GOD, THEY DO!'"
+  },
+  {
+   "i": 363,
+   "start": 980.94,
+   "end": 981.5,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "Hey."
+  },
+  {
+   "i": 364,
+   "start": 981.84,
+   "end": 982.34,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Hi."
+  },
+  {
+   "i": 365,
+   "start": 982.52,
+   "end": 983.46,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "How's it going?"
+  },
+  {
+   "i": 366,
+   "start": 983.66,
+   "end": 986.54,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Eh, you know, kinda bummed it isn't actually Christmas."
+  },
+  {
+   "i": 367,
+   "start": 986.68,
+   "end": 988.38,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "Yeah, kinda sucks."
+  },
+  {
+   "i": 368,
+   "start": 990.76,
+   "end": 991.26,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "KAMEHAME--"
+  },
+  {
+   "i": 369,
+   "start": 991.26,
+   "end": 991.76,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "BWAAAAUUGH!!!"
+  },
+  {
+   "i": 370,
+   "start": 996.14,
+   "end": 998.86,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "Ahh, there's no kill quite like overki-..."
+  },
+  {
+   "i": 371,
+   "start": 999.18,
+   "end": 999.76,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "-Huh?"
+  },
+  {
+   "i": 372,
+   "start": 1000.72,
+   "end": 1003.58,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "HOW DID I MISS HIM?! I SHOT HIM POINT BLANK!"
+  },
+  {
+   "i": 373,
+   "start": 1003.96,
+   "end": 1005.86,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I love you, lucky wristbands."
+  },
+  {
+   "i": 374,
+   "start": 1006.04,
+   "end": 1007.16,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "COME HERE!"
+  },
+  {
+   "i": 375,
+   "start": 1008.98,
+   "end": 1009.94,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "RUNNING RUNNING RUNNING RUNNING!"
+  },
+  {
+   "i": 376,
+   "start": 1010.18,
+   "end": 1010.68,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "FACE!"
+  },
+  {
+   "i": 377,
+   "start": 1010.68,
+   "end": 1011.2,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "RWAARGH!"
+  },
+  {
+   "i": 378,
+   "start": 1012.52,
+   "end": 1013.08,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "RWEEGH!"
+  },
+  {
+   "i": 379,
+   "start": 1013.08,
+   "end": 1013.66,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Whoa hot!"
+  },
+  {
+   "i": 380,
+   "start": 1013.8,
+   "end": 1015.12,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "GET OVER HERE!"
+  },
+  {
+   "i": 381,
+   "start": 1016.42,
+   "end": 1017.88,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Evil chuckle"
+  },
+  {
+   "i": 382,
+   "start": 1016.42,
+   "end": 1017.88,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Now I know what you're thinking."
+  },
+  {
+   "i": 383,
+   "start": 1018.32,
+   "end": 1019.4,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "\"Should I crush him?\""
+  },
+  {
+   "i": 384,
+   "start": 1019.74,
+   "end": 1021.68,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "And the answer may surprise you."
+  },
+  {
+   "i": 385,
+   "start": 1021.76,
+   "end": 1022.58,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "SQUEAK"
+  },
+  {
+   "i": 386,
+   "start": 1021.76,
+   "end": 1022.58,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "AGH!"
+  },
+  {
+   "i": 387,
+   "start": 1022.58,
+   "end": 1023.76,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "Huh? What the..."
+  },
+  {
+   "i": 388,
+   "start": 1023.76,
+   "end": 1024.82,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "SQUEAK SQUEAK SQUEAK SQUEAK"
+  },
+  {
+   "i": 389,
+   "start": 1024.82,
+   "end": 1025.36,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Uuuu..."
+  },
+  {
+   "i": 390,
+   "start": 1025.36,
+   "end": 1027.18,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "THIS IS AMAZING!"
+  },
+  {
+   "i": 391,
+   "start": 1027.18,
+   "end": 1032.2,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Why does everyone laugh when they do that? That's my ribs crushing my *lungs*!"
+  },
+  {
+   "i": 392,
+   "start": 1032.2,
+   "end": 1032.7,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "SQUEAK"
+  },
+  {
+   "i": 393,
+   "start": 1032.7,
+   "end": 1033.52,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Uhh-huu..."
+  },
+  {
+   "i": 394,
+   "start": 1033.52,
+   "end": 1035.02,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "[Evil chuckle]"
+  },
+  {
+   "i": 395,
+   "start": 1035.02,
+   "end": 1036.38,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "Rwaagh??"
+  },
+  {
+   "i": 396,
+   "start": 1035.02,
+   "end": 1036.38,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Hey, name's Piccolo."
+  },
+  {
+   "i": 397,
+   "start": 1036.7,
+   "end": 1040.12,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Nice to meet ya. I've got your antennae. Whatcha gonna do now?"
+  },
+  {
+   "i": 398,
+   "start": 1041.8,
+   "end": 1043.8,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Aha! I knew you'd do that!"
+  },
+  {
+   "i": 399,
+   "start": 1044.18,
+   "end": 1046.56,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Now for part TWO of my master plan!"
+  },
+  {
+   "i": 400,
+   "start": 1046.56,
+   "end": 1048.38,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Aaaaahh!"
+  },
+  {
+   "i": 401,
+   "start": 1048.38,
+   "end": 1050.7,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "The hell is wrong with everyone on this planet?!"
+  },
+  {
+   "i": 402,
+   "start": 1050.98,
+   "end": 1055.66,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "GOHAN! I NEED YOU TO DO THAT THING THAT REALLY ANNOYS ME!"
+  },
+  {
+   "i": 403,
+   "start": 1055.66,
+   "end": 1057.12,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "You mean talk?"
+  },
+  {
+   "i": 404,
+   "start": 1057.12,
+   "end": 1057.74,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "WHAT?!"
+  },
+  {
+   "i": 405,
+   "start": 1058.44,
+   "end": 1061.14,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "YOU KNOW, THAT THING YOU WERE DOING EARLIER TODAY!"
+  },
+  {
+   "i": 406,
+   "start": 1061.48,
+   "end": 1063.68,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "IT REALLY GOT ON MY NERVES!"
+  },
+  {
+   "i": 407,
+   "start": 1063.68,
+   "end": 1065.32,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "I don't recall, Mr. Picco--"
+  },
+  {
+   "i": 408,
+   "start": 1065.32,
+   "end": 1065.9,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "WHAT?!"
+  },
+  {
+   "i": 409,
+   "start": 1066.56,
+   "end": 1070.06,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "HE HASN'T LOOSENED HIS GRIP YET SO YOU'RE PROBABLY NOT DOING IT!"
+  },
+  {
+   "i": 410,
+   "start": 1070.28,
+   "end": 1072.64,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "REMEMBER! BACK AT THE WATERFALL!"
+  },
+  {
+   "i": 411,
+   "start": 1072.98,
+   "end": 1074.54,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "YOU WERE DOING IT WITH YOUR MOUTH!"
+  },
+  {
+   "i": 412,
+   "start": 1076.38,
+   "end": 1076.96,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "WHAT?!"
+  },
+  {
+   "i": 413,
+   "start": 1076.96,
+   "end": 1078.64,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Ohh, whistle."
+  },
+  {
+   "i": 414,
+   "start": 1079.14,
+   "end": 1084.54,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Gohan whistles the opening theme to \"The Andy Griffifth Show\""
+  },
+  {
+   "i": 415,
+   "start": 1084.54,
+   "end": 1086.08,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "HAHAHAHAHAHA!"
+  },
+  {
+   "i": 416,
+   "start": 1086.08,
+   "end": 1088.08,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "AHAHA--what the...?"
+  },
+  {
+   "i": 417,
+   "start": 1088.08,
+   "end": 1093.52,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "Oh my God. Oh my God. Oh my God! OH MY GOD! OH MY GOD! OH MY GOD!"
+  },
+  {
+   "i": 418,
+   "start": 1093.52,
+   "end": 1101.66,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "AHH, IT'S LIKE ONE DRILL IN ONE EAR! AND ANOTHER DRILL IN THE OTHER EAR! AND THEY'RE MEETING IN THE MIDDLLLEEEE!!!"
+  },
+  {
+   "i": 419,
+   "start": 1102.04,
+   "end": 1104.68,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Gotta, get closer, to Goku..."
+  },
+  {
+   "i": 420,
+   "start": 1104.68,
+   "end": 1107.54,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Give, him, my, energy..."
+  },
+  {
+   "i": 421,
+   "start": 1107.54,
+   "end": 1110.76,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Probably, should have, stretched, my arms...!"
+  },
+  {
+   "i": 422,
+   "start": 1110.76,
+   "end": 1111.26,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Got it!"
+  },
+  {
+   "i": 423,
+   "start": 1114.48,
+   "end": 1116.2,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "What...happened?"
+  },
+  {
+   "i": 424,
+   "start": 1116.2,
+   "end": 1116.76,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "WHAT?!"
+  },
+  {
+   "i": 425,
+   "start": 1117.98,
+   "end": 1121.34,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "THAT'S IT! Time for the universal mute button!"
+  },
+  {
+   "i": 426,
+   "start": 1123.78,
+   "end": 1126.22,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "Oh balls, that was my ship..."
+  },
+  {
+   "i": 427,
+   "start": 1127.28,
+   "end": 1129.66,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "AND WHY ARE YOU STILL ALIVE?!"
+  },
+  {
+   "i": 428,
+   "start": 1129.66,
+   "end": 1130.76,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "KAIŌKEN!!!"
+  },
+  {
+   "i": 429,
+   "start": 1131.3,
+   "end": 1131.8,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "Kaiō--"
+  },
+  {
+   "i": 430,
+   "start": 1131.8,
+   "end": 1132.3,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "WHAT?!"
+  },
+  {
+   "i": 431,
+   "start": 1132.6,
+   "end": 1134.62,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "AAAAAAGH...!"
+  },
+  {
+   "i": 432,
+   "start": 1133.68,
+   "end": 1134.62,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "D'AAAARGH-!"
+  },
+  {
+   "i": 433,
+   "start": 1134.62,
+   "end": 1135.84,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "-AAAARGH...!"
+  },
+  {
+   "i": 434,
+   "start": 1134.62,
+   "end": 1135.84,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "YAAAH!"
+  },
+  {
+   "i": 435,
+   "start": 1137.76,
+   "end": 1140.94,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Now I must go. My planet needs me."
+  },
+  {
+   "i": 436,
+   "start": 1143.0,
+   "end": 1147.94,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "♫ Sun, Sun, Mr. Golden Sun, kill my enemies! ♫"
+  },
+  {
+   "i": 437,
+   "start": 1148.24,
+   "end": 1150.96,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "IF I'M GONNA DIE I'M TAKING YOU WITH ME!!!"
+  },
+  {
+   "i": 438,
+   "start": 1151.2,
+   "end": 1152.78,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "SEE YOU IN HFIL!"
+  },
+  {
+   "i": 439,
+   "start": 1153.72,
+   "end": 1155.48,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "AAAAARGH...!"
+  },
+  {
+   "i": 440,
+   "start": 1155.48,
+   "end": 1156.78,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "BOOOM"
+  },
+  {
+   "i": 441,
+   "start": 1156.78,
+   "end": 1160.96,
+   "kind": "dialog",
+   "speaker": "Lord Slug",
+   "text": "WHY DIDN'T I WISH FOR IMMORTALITYYYYY?!?!?!"
+  },
+  {
+   "i": 442,
+   "start": 1171.22,
+   "end": 1177.6,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Now that I've defeated King Piccolo, I can wish back Chiaotzu, Master Roshi, and Krillin."
+  },
+  {
+   "i": 443,
+   "start": 1180.64,
+   "end": 1181.22,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "WHAT?!"
+  },
+  {
+   "i": 444,
+   "start": 1181.88,
+   "end": 1187.96,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Yo dawg, it's the year 2000! It's time for another Nappa cover, cuz this SH*T don't get ollld!"
+  },
+  {
+   "i": 445,
+   "start": 1187.96,
+   "end": 1189.96,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ Nappa and Piccolo \"sing\" a parody of \"Disturbed\" ♫"
+  },
+  {
+   "i": 446,
+   "start": 1191.14,
+   "end": 1193.4,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "♫ I've been waiting my whole life for just one... ♫"
+  },
+  {
+   "i": 447,
+   "start": 1193.4,
+   "end": 1194.2,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "♫ WHAT?! ♫"
+  },
+  {
+   "i": 448,
+   "start": 1194.2,
+   "end": 1195.94,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "♫ All I needed was just one... ♫"
+  },
+  {
+   "i": 449,
+   "start": 1195.94,
+   "end": 1196.52,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "♫ WHAT?! ♫"
+  },
+  {
+   "i": 450,
+   "start": 1196.52,
+   "end": 1198.48,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "♫ How can you say that I don't give a... ♫"
+  },
+  {
+   "i": 451,
+   "start": 1198.48,
+   "end": 1199.06,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "♫ WHAT?! ♫"
+  },
+  {
+   "i": 452,
+   "start": 1199.06,
+   "end": 1201.26,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "♫ By myself stupified coming back again. ♫"
+  },
+  {
+   "i": 453,
+   "start": 1201.26,
+   "end": 1201.84,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "♫ WHAT?! ♫"
+  },
+  {
+   "i": 454,
+   "start": 1206.8,
+   "end": 1211.34,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "♫ I get stupefied... ♫"
+  },
+  {
+   "i": 455,
+   "start": 1213.94,
+   "end": 1215.94,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Guru's letter to Slug"
+  },
+  {
+   "i": 456,
+   "start": 1267.14,
+   "end": 1270.9,
+   "kind": "dialog",
+   "speaker": "Super Kami Guru",
+   "text": "NAAIIILL! COME AND MAAIIILL THIS FOR ME!"
+  },
+  {
+   "i": 457,
+   "start": 1270.9,
+   "end": 1273.48,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "Sir, we don't have a mail system..."
+  },
+  {
+   "i": 458,
+   "start": 1274.42,
+   "end": 1275.38,
+   "kind": "dialog",
+   "speaker": "Super Kami Guru",
+   "text": "Nail."
+  },
+  {
+   "i": 459,
+   "start": 1275.84,
+   "end": 1278.12,
+   "kind": "dialog",
+   "speaker": "Super Kami Guru",
+   "text": "Gather the Dragon Balls."
+  }
+ ],
+ "segments": [
+  {
+   "start": 11.5,
+   "end": 30.1,
+   "title": "What If I Used... TWO Hands?",
+   "quote": "'What if I used...TWO hands?' / 'You mean like the Kamehameha?' / 'THE KAMEHAMEHA DOESN'T *DRILL* THINGS!' / 'Thaaat's what makes it SPECIAL!'",
+   "line_start": 0,
+   "line_end": 6
+  },
+  {
+   "start": 51.0,
+   "end": 78.26,
+   "title": "Torturing a Frickin' Cat",
+   "quote": "Mr. Popo, are you torturing a cat?! / Bitch, shut up! / GOHAN I WILL CARVE YOU LIKE A PUMPKIN!!",
+   "line_start": 19,
+   "line_end": 29
+  },
+  {
+   "start": 93.5,
+   "end": 119.06,
+   "title": "Dr. Briefs' Gay Gene",
+   "quote": "Honey! Good news: I've isolated the gay gene! / QUICK! Get me Bruce Willis, Steve Buscemi, and Aerosmith. / Why am I Mr. Pink?",
+   "line_start": 37,
+   "line_end": 43
+  },
+  {
+   "start": 124.5,
+   "end": 134.18,
+   "title": "MY BACOOON!",
+   "quote": "NOOOOOOOOO MY BACOOON!!! / I'M A VIRGIIIIIIN!!!",
+   "line_start": 46,
+   "line_end": 49
+  },
+  {
+   "start": 158.9,
+   "end": 194.0,
+   "title": "I BET IT'S JESUS!",
+   "quote": "I BET IT'S JESUS! I'm calling Jesus! / Look everyone, it's Jesus' death army! / WE LOVE YOU JESUUUS!!!",
+   "line_start": 55,
+   "line_end": 63
+  },
+  {
+   "start": 205.6,
+   "end": 229.88,
+   "title": "King Piccolo Is on Borrowed Time",
+   "quote": "Because apparently someone needed a F*CKING English lesson! / Please forgive me King Piccolo...I did it again (!)",
+   "line_start": 69,
+   "line_end": 77
+  },
+  {
+   "start": 365.0,
+   "end": 376.82,
+   "title": "I Got a Rock",
+   "quote": "I got a Dragon Ball! / I got a Dragon Ball! / I got a Dragon Ball! / I got a rock.",
+   "line_start": 134,
+   "line_end": 139
+  },
+  {
+   "start": 381.8,
+   "end": 415.54,
+   "title": "Something Seems Really Familiar",
+   "quote": "-...wait a second, hold on. Something seems really familiar about this... / Ah, it doesn't matter. Your wish is granted!",
+   "line_start": 140,
+   "line_end": 150
+  },
+  {
+   "start": 450.3,
+   "end": 469.54,
+   "title": "IT'S CHRISTMAAAAS!",
+   "quote": "That meteor kicked your ass! / It's all... *snowy*... / IT'S CHRISTMAAAAS!!!",
+   "line_start": 156,
+   "line_end": 163
+  },
+  {
+   "start": 519.2,
+   "end": 547.92,
+   "title": "What's Your Gimmick?",
+   "quote": "I'd say I'm the pretty one. / Eh, 6/10. / You sassy bitch.",
+   "line_start": 184,
+   "line_end": 196
+  },
+  {
+   "start": 604.6,
+   "end": 616.82,
+   "title": "Down Low. Too Slow.",
+   "quote": "Whaddya say? High-five? / Down low. / Wha--? / Too slow.",
+   "line_start": 225,
+   "line_end": 229
+  },
+  {
+   "start": 659.6,
+   "end": 692.5,
+   "title": "Nobody Rakes Christmas",
+   "quote": "Don't worry Gohan, I'll save Christmas. / But... it's not Christmas. / Then why is it *snowing*, Gohan? / *Nobody rakes Christmas*.",
+   "line_start": 243,
+   "line_end": 255
+  },
+  {
+   "start": 735.0,
+   "end": 754.34,
+   "title": "And the Emmy Goes To...",
+   "quote": "Just sit on back and let Krillin handle this one. / WHAT POSSESSED ME TO DO THA-HAAAAT...?! / And the Emmy goes to... / KRILLIN!",
+   "line_start": 278,
+   "line_end": 287
+  },
+  {
+   "start": 866.9,
+   "end": 905.44,
+   "title": "Super... Saiyaman / DON'T JULY TO ME",
+   "quote": "Like some kind of...super...saiyaman. / SHUT UP, TALKING MOVIE BUBBLES! / What are you talking about? It's JULY! / DON'T \"JULY\" TO ME!!! IT'S *SNOWING*!",
+   "line_start": 323,
+   "line_end": 338
+  },
+  {
+   "start": 1063.2,
+   "end": 1101.66,
+   "title": "Drills Meeting in the Middle",
+   "quote": "Ohh, whistle. / AHH, IT'S LIKE ONE DRILL IN ONE EAR! AND ANOTHER DRILL IN THE OTHER EAR! AND THEY'RE MEETING IN THE MIDDLLLEEEE!!!",
+   "line_start": 407,
+   "line_end": 418
+  }
+ ]
+}

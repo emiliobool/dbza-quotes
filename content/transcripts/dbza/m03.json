@@ -1,0 +1,2139 @@
+{
+ "item": "m03",
+ "show": "dbza",
+ "youtube": "kmVahy7e4KE",
+ "title": "Christmas Tree of Might Part 1",
+ "duration": 654,
+ "lines": [
+  {
+   "i": 0,
+   "start": 7.74,
+   "end": 14.48,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "Twas the week before Christmas, and upon the earth, Gohan and Krillin were searching for a tree of great worth."
+  },
+  {
+   "i": 1,
+   "start": 14.48,
+   "end": 20.24,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "They longed for a tree, both tall and rare, and for some unknown reason, Oolong was there."
+  },
+  {
+   "i": 2,
+   "start": 20.24,
+   "end": 27.48,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "And with eyes full of wonder, and faces all grins, this, my dear viewer, is where our story begins..."
+  },
+  {
+   "i": 3,
+   "start": 27.48,
+   "end": 32.44,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Alright guys, sleep well. We have an early morning tomorrow to search for our perfect Christmas Tree."
+  },
+  {
+   "i": 4,
+   "start": 32.44,
+   "end": 34.42,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Hey, did anyone take care of that fire?"
+  },
+  {
+   "i": 5,
+   "start": 34.42,
+   "end": 35.52,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Oolong, you got that?"
+  },
+  {
+   "i": 6,
+   "start": 35.52,
+   "end": 36.88,
+   "kind": "dialog",
+   "speaker": "Oolong",
+   "text": "I'm watching it..."
+  },
+  {
+   "i": 7,
+   "start": 36.88,
+   "end": 39.06,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Sounds of forest fire and frightened animals"
+  },
+  {
+   "i": 8,
+   "start": 40.44,
+   "end": 42.38,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I thought you said you were watching the fire!"
+  },
+  {
+   "i": 9,
+   "start": 42.38,
+   "end": 45.48,
+   "kind": "dialog",
+   "speaker": "Oolong",
+   "text": "I *was*! It was beautiful!"
+  },
+  {
+   "i": 10,
+   "start": 45.48,
+   "end": 48.52,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Poor animals! Their Christmas is ruined now!"
+  },
+  {
+   "i": 11,
+   "start": 48.52,
+   "end": 50.68,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Yeah! And now we don't have our tree!"
+  },
+  {
+   "i": 12,
+   "start": 50.68,
+   "end": 53.42,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "I wish there was something we could do for them..."
+  },
+  {
+   "i": 13,
+   "start": 53.68,
+   "end": 54.72,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Lightbulb sound effect"
+  },
+  {
+   "i": 14,
+   "start": 53.68,
+   "end": 54.72,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "\"Wish\"?"
+  },
+  {
+   "i": 15,
+   "start": 54.72,
+   "end": 57.18,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I got it! We could use the Dragon Balls!"
+  },
+  {
+   "i": 16,
+   "start": 57.26,
+   "end": 59.22,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ CHA-LA HEAD-CHA-LA ♫ (speeded up)"
+  },
+  {
+   "i": 17,
+   "start": 59.7,
+   "end": 61.24,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "We got the Dragon Balls!"
+  },
+  {
+   "i": 18,
+   "start": 61.24,
+   "end": 64.2,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Amazing how much easier this became with time..."
+  },
+  {
+   "i": 19,
+   "start": 62.46,
+   "end": 64.2,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Shenron is summoned"
+  },
+  {
+   "i": 20,
+   "start": 72.56,
+   "end": 75.42,
+   "kind": "dialog",
+   "speaker": "Shenron",
+   "text": "I am the Eternal Dragon!"
+  },
+  {
+   "i": 21,
+   "start": 75.86,
+   "end": 76.52,
+   "kind": "dialog",
+   "speaker": "Shenron",
+   "text": "State your--"
+  },
+  {
+   "i": 22,
+   "start": 76.52,
+   "end": 82.08,
+   "kind": "dialog",
+   "speaker": "Shenron",
+   "text": "...no. No way. No, not you again. Hasn't even been a year!"
+  },
+  {
+   "i": 23,
+   "start": 82.08,
+   "end": 84.1,
+   "kind": "dialog",
+   "speaker": "Oolong",
+   "text": "Its been one year, two months and fifteen--"
+  },
+  {
+   "i": 24,
+   "start": 84.1,
+   "end": 85.46,
+   "kind": "dialog",
+   "speaker": "Shenron",
+   "text": "Shut the hell up!"
+  },
+  {
+   "i": 25,
+   "start": 85.46,
+   "end": 87.02,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Almighty Shenron!"
+  },
+  {
+   "i": 26,
+   "start": 87.02,
+   "end": 90.18,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "We called you forth to help us in this dire time!"
+  },
+  {
+   "i": 27,
+   "start": 90.38,
+   "end": 95.9,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "As you can see, this beautiful land full of trees and life has been burned to the ground!"
+  },
+  {
+   "i": 28,
+   "start": 95.9,
+   "end": 100.26,
+   "kind": "dialog",
+   "speaker": "Shenron",
+   "text": "So you want me to restore life to this desolated forest?"
+  },
+  {
+   "i": 29,
+   "start": 100.26,
+   "end": 102.32,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Hell no! I wanna Christmas Tree!"
+  },
+  {
+   "i": 30,
+   "start": 103.06,
+   "end": 106.0,
+   "kind": "dialog",
+   "speaker": "Shenron",
+   "text": "...You want... a tree?"
+  },
+  {
+   "i": 31,
+   "start": 106.0,
+   "end": 107.42,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Not just any tree."
+  },
+  {
+   "i": 32,
+   "start": 107.58,
+   "end": 109.8,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "The *perfect* Christmas Tree!"
+  },
+  {
+   "i": 33,
+   "start": 110.68,
+   "end": 113.2,
+   "kind": "dialog",
+   "speaker": "Shenron",
+   "text": "...Yeah... yeah, OK."
+  },
+  {
+   "i": 34,
+   "start": 113.4,
+   "end": 115.48,
+   "kind": "dialog",
+   "speaker": "Shenron",
+   "text": "I'll give you your tree."
+  },
+  {
+   "i": 35,
+   "start": 115.48,
+   "end": 120.46,
+   "kind": "dialog",
+   "speaker": "Shenron",
+   "text": "I'll give you the best damn tree you've ever seeen!"
+  },
+  {
+   "i": 36,
+   "start": 120.46,
+   "end": 124.58,
+   "kind": "dialog",
+   "speaker": "Shenron",
+   "text": "Muhahahahahaha! Rahahahahahahahahahaa!"
+  },
+  {
+   "i": 37,
+   "start": 125.08,
+   "end": 126.0,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Thank you!"
+  },
+  {
+   "i": 38,
+   "start": 126.0,
+   "end": 128.1,
+   "kind": "dialog",
+   "speaker": "Shenron",
+   "text": "Oh, don't thank me."
+  },
+  {
+   "i": 39,
+   "start": 128.54,
+   "end": 130.7,
+   "kind": "dialog",
+   "speaker": "Shenron",
+   "text": "'Tis the season of giving..."
+  },
+  {
+   "i": 40,
+   "start": 135.84,
+   "end": 139.6,
+   "kind": "dialog",
+   "speaker": "Slay",
+   "text": "Turles, sir, our navigation system just changed course."
+  },
+  {
+   "i": 41,
+   "start": 139.6,
+   "end": 142.28,
+   "kind": "dialog",
+   "speaker": "Slay",
+   "text": "We're on route to a new planet - Earth."
+  },
+  {
+   "i": 42,
+   "start": 142.38,
+   "end": 144.92,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "Does it contain a sufficient amount of joy?"
+  },
+  {
+   "i": 43,
+   "start": 144.92,
+   "end": 147.66,
+   "kind": "dialog",
+   "speaker": "Slay",
+   "text": "According to our sensors, yes."
+  },
+  {
+   "i": 44,
+   "start": 147.66,
+   "end": 151.58,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "Well then... Merry Christmas."
+  },
+  {
+   "i": 45,
+   "start": 148.8,
+   "end": 151.58,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"Jingle Bell Rock\" ♫"
+  },
+  {
+   "i": 46,
+   "start": 159.4,
+   "end": 161.4,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"Rock The Dragon\" ♫"
+  },
+  {
+   "i": 47,
+   "start": 166.16,
+   "end": 168.96,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "You are not allowed to go camping again, young man."
+  },
+  {
+   "i": 48,
+   "start": 167.6,
+   "end": 172.74,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "[♪ \"We Wish You a Merry Christmas\" ♪]"
+  },
+  {
+   "i": 49,
+   "start": 168.96,
+   "end": 172.74,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "But Mom, Oolong's the one who burned down the forest, not me!"
+  },
+  {
+   "i": 50,
+   "start": 172.74,
+   "end": 176.74,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "[♪ \"The Twelve Days of Christmas\" ♪]"
+  },
+  {
+   "i": 51,
+   "start": 172.74,
+   "end": 176.74,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "I don't care whose fault it is; you need to be responsible. Remember,"
+  },
+  {
+   "i": 52,
+   "start": 176.74,
+   "end": 180.7,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "[♪ \"Jingle Bells\" ♪]"
+  },
+  {
+   "i": 53,
+   "start": 176.74,
+   "end": 180.7,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "if you don't act like a good little boy, Santa won't bring you any presents this year."
+  },
+  {
+   "i": 54,
+   "start": 180.7,
+   "end": 182.9,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Goku, stop that or I will deck you in the halls!"
+  },
+  {
+   "i": 55,
+   "start": 182.9,
+   "end": 183.48,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "OK!"
+  },
+  {
+   "i": 56,
+   "start": 183.48,
+   "end": 185.26,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "He's just gonna bring me books again..."
+  },
+  {
+   "i": 57,
+   "start": 185.26,
+   "end": 187.2,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "He brings you what you like, and what do you like!?"
+  },
+  {
+   "i": 58,
+   "start": 187.2,
+   "end": 188.12,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "I like books!"
+  },
+  {
+   "i": 59,
+   "start": 188.12,
+   "end": 190.32,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "See? He brings you what you like."
+  },
+  {
+   "i": 60,
+   "start": 190.32,
+   "end": 192.16,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Well, what am I getting for Christmas?"
+  },
+  {
+   "i": 61,
+   "start": 192.16,
+   "end": 194.02,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "The same thing as last year, Goku."
+  },
+  {
+   "i": 62,
+   "start": 194.02,
+   "end": 196.16,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Ohhh, so that thing you do with your mou--"
+  },
+  {
+   "i": 63,
+   "start": 196.16,
+   "end": 197.5,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Not in front of Gohan!"
+  },
+  {
+   "i": 64,
+   "start": 200.28,
+   "end": 206.08,
+   "kind": "dialog",
+   "speaker": "Puar",
+   "text": "Yamcha, why did you spend all your baseball money on this car instead of buying Christmas gifts for your friends?"
+  },
+  {
+   "i": 65,
+   "start": 206.08,
+   "end": 210.32,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Puar, the only gift they need is the gift... of Yamcha."
+  },
+  {
+   "i": 66,
+   "start": 210.9,
+   "end": 213.1,
+   "kind": "dialog",
+   "speaker": "Puar",
+   "text": "...That's a non-refundable gift, isn't it?"
+  },
+  {
+   "i": 67,
+   "start": 213.1,
+   "end": 214.3,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Just like this car."
+  },
+  {
+   "i": 68,
+   "start": 214.3,
+   "end": 214.8,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "BOOM"
+  },
+  {
+   "i": 69,
+   "start": 214.8,
+   "end": 217.48,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Puar and Yamcha scream"
+  },
+  {
+   "i": 70,
+   "start": 219.22,
+   "end": 220.82,
+   "kind": "dialog",
+   "speaker": "Slay",
+   "text": "It is time."
+  },
+  {
+   "i": 71,
+   "start": 220.82,
+   "end": 223.12,
+   "kind": "dialog",
+   "speaker": "Slay",
+   "text": "Plant... the tree."
+  },
+  {
+   "i": 72,
+   "start": 225.18,
+   "end": 226.0,
+   "kind": "dialog",
+   "speaker": "Slay",
+   "text": "Of might."
+  },
+  {
+   "i": 73,
+   "start": 227.58,
+   "end": 228.9,
+   "kind": "dialog",
+   "speaker": "Slay",
+   "text": "The Christmas Tree of Might."
+  },
+  {
+   "i": 74,
+   "start": 228.9,
+   "end": 231.5,
+   "kind": "dialog",
+   "speaker": "Beru",
+   "text": "Oh~"
+  },
+  {
+   "i": 75,
+   "start": 228.9,
+   "end": 231.5,
+   "kind": "dialog",
+   "speaker": "Jinga",
+   "text": "Oh~"
+  },
+  {
+   "i": 76,
+   "start": 231.5,
+   "end": 232.28,
+   "kind": "dialog",
+   "speaker": "Jinga",
+   "text": "Title drop!"
+  },
+  {
+   "i": 77,
+   "start": 232.28,
+   "end": 239.68,
+   "kind": "dialog",
+   "speaker": "Slay",
+   "text": "Now... let the Yuletide celebrations... begin."
+  },
+  {
+   "i": 78,
+   "start": 237.84,
+   "end": 239.68,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"Deck the Halls Metal Style!\" ♫"
+  },
+  {
+   "i": 79,
+   "start": 239.88,
+   "end": 241.88,
+   "kind": "dialog",
+   "speaker": "Slay",
+   "text": "♫ Deck the halls with sounds of metal ♫"
+  },
+  {
+   "i": 80,
+   "start": 241.88,
+   "end": 243.88,
+   "kind": "dialog",
+   "speaker": "Slay",
+   "text": "♫ Fa la la la la, la la la la ♫"
+  },
+  {
+   "i": 81,
+   "start": 243.88,
+   "end": 245.88,
+   "kind": "dialog",
+   "speaker": "Slay",
+   "text": "♫ Tis the season to be brutal ♫"
+  },
+  {
+   "i": 82,
+   "start": 245.88,
+   "end": 247.88,
+   "kind": "dialog",
+   "speaker": "Slay",
+   "text": "♫ Fa la la la la, la la la la ♫"
+  },
+  {
+   "i": 83,
+   "start": 249.1,
+   "end": 249.6,
+   "kind": "dialog",
+   "speaker": "Boy",
+   "text": "Mommy--?"
+  },
+  {
+   "i": 84,
+   "start": 254.02,
+   "end": 257.64,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "So yeah, um, I'm gonna have to crash with you guys for a while."
+  },
+  {
+   "i": 85,
+   "start": 257.64,
+   "end": 260.9,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Ha, ha! \"Crash\"... like your car."
+  },
+  {
+   "i": 86,
+   "start": 260.9,
+   "end": 264.14,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Yes, Goku... like my car."
+  },
+  {
+   "i": 87,
+   "start": 264.14,
+   "end": 267.3,
+   "kind": "dialog",
+   "speaker": "Roshi",
+   "text": "I can't believe the wreckage landed on your house."
+  },
+  {
+   "i": 88,
+   "start": 267.3,
+   "end": 271.08,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Neither can I. And since I put all my money into the car..."
+  },
+  {
+   "i": 89,
+   "start": 271.08,
+   "end": 272.74,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "I'm pretty much destitute."
+  },
+  {
+   "i": 90,
+   "start": 272.74,
+   "end": 276.62,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "You know, studies say that depression hits worst during the holiday season."
+  },
+  {
+   "i": 91,
+   "start": 276.62,
+   "end": 278.74,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "That's why the suicide rates are so high."
+  },
+  {
+   "i": 92,
+   "start": 280.08,
+   "end": 282.44,
+   "kind": "direction",
+   "speaker": null,
+   "text": "All but Yamcha &amp; Bulma laugh at Yamcha's expense"
+  },
+  {
+   "i": 93,
+   "start": 282.44,
+   "end": 283.62,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Like your car."
+  },
+  {
+   "i": 94,
+   "start": 283.62,
+   "end": 286.58,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Hey, are we laughing at Yamcha? 'Cause I'm always up for that."
+  },
+  {
+   "i": 95,
+   "start": 286.58,
+   "end": 288.24,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "King Kai, is that you?"
+  },
+  {
+   "i": 96,
+   "start": 288.24,
+   "end": 291.32,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "I just wanted to call you up and wish you a Merry Christmas."
+  },
+  {
+   "i": 97,
+   "start": 291.32,
+   "end": 294.14,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Aw shucks, King Kai. You too."
+  },
+  {
+   "i": 98,
+   "start": 294.14,
+   "end": 297.86,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Yeah. Also thought I'd tell you about the evil space pirates who are killing your planet."
+  },
+  {
+   "i": 99,
+   "start": 297.86,
+   "end": 298.8,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Space in the what now?"
+  },
+  {
+   "i": 100,
+   "start": 298.8,
+   "end": 302.5,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "You see, a group of space pirates have sought out your planet."
+  },
+  {
+   "i": 101,
+   "start": 302.5,
+   "end": 306.24,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "And with it, are growing an evil, evil tree."
+  },
+  {
+   "i": 102,
+   "start": 306.34,
+   "end": 307.2,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "How evil?"
+  },
+  {
+   "i": 103,
+   "start": 307.2,
+   "end": 311.94,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "It's literally sucking the Christmas joy out of the entire planet."
+  },
+  {
+   "i": 104,
+   "start": 311.94,
+   "end": 313.3,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "(Gasp)..."
+  },
+  {
+   "i": 105,
+   "start": 313.3,
+   "end": 315.32,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "That's Disney evil!"
+  },
+  {
+   "i": 106,
+   "start": 315.32,
+   "end": 319.5,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Well, that’s all from here. I'm gonna go spike the eggnog and watch Gregory get smashed."
+  },
+  {
+   "i": 107,
+   "start": 319.5,
+   "end": 320.6,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Merry Christmas!"
+  },
+  {
+   "i": 108,
+   "start": 320.72,
+   "end": 322.12,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Alright, guys; group meeting."
+  },
+  {
+   "i": 109,
+   "start": 322.4,
+   "end": 325.9,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "So, it turns out someone just planted a gigantic tree..."
+  },
+  {
+   "i": 110,
+   "start": 325.9,
+   "end": 327.34,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Hooray! My tree!"
+  },
+  {
+   "i": 111,
+   "start": 327.34,
+   "end": 330.52,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "...that is sucking the Christmas joy out of the entire world!"
+  },
+  {
+   "i": 112,
+   "start": 330.52,
+   "end": 333.26,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "I mean oh, no! Who would be so dastardly?"
+  },
+  {
+   "i": 113,
+   "start": 333.26,
+   "end": 337.02,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "So, my plan is we get the Dragon Balls and wish it away!"
+  },
+  {
+   "i": 114,
+   "start": 337.02,
+   "end": 338.12,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Uuuummmm..."
+  },
+  {
+   "i": 115,
+   "start": 338.12,
+   "end": 340.12,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I'm kiddin'. We're gonna go blow it up!"
+  },
+  {
+   "i": 116,
+   "start": 342.5,
+   "end": 343.58,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Didn't work."
+  },
+  {
+   "i": 117,
+   "start": 343.62,
+   "end": 347.68,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Damn. If we don't act soon, Christmas is going to be ruined forever."
+  },
+  {
+   "i": 118,
+   "start": 347.68,
+   "end": 351.64,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Wait a minute - Tien, Chiaotzu, what are you two doing here? Aren't you Jewish?"
+  },
+  {
+   "i": 119,
+   "start": 352.04,
+   "end": 355.92,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Hey! I'm just trying to be culturally sensitive... you Buddhist ass!"
+  },
+  {
+   "i": 120,
+   "start": 356.18,
+   "end": 358.24,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Well, happy holidays to you too."
+  },
+  {
+   "i": 121,
+   "start": 358.52,
+   "end": 362.24,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I think the only course of action left... is to reason with it."
+  },
+  {
+   "i": 122,
+   "start": 362.24,
+   "end": 363.02,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Uh, Goku--?"
+  },
+  {
+   "i": 123,
+   "start": 363.02,
+   "end": 367.62,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Big tree! If you don’t leave right now, I'm gonna have to beat you up!"
+  },
+  {
+   "i": 124,
+   "start": 367.62,
+   "end": 370.14,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Goku, trees can't tal--"
+  },
+  {
+   "i": 125,
+   "start": 370.14,
+   "end": 372.4,
+   "kind": "dialog",
+   "speaker": "Slay",
+   "text": "Why don't you come up here and try it?"
+  },
+  {
+   "i": 126,
+   "start": 372.4,
+   "end": 374.28,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Y'know what? F**k it; I don't care anymore."
+  },
+  {
+   "i": 127,
+   "start": 374.28,
+   "end": 377.42,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Evil chuckling"
+  },
+  {
+   "i": 128,
+   "start": 377.42,
+   "end": 379.16,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Who the hell are these guys?"
+  },
+  {
+   "i": 129,
+   "start": 379.16,
+   "end": 382.1,
+   "kind": "dialog",
+   "speaker": "Slay",
+   "text": "We are from the planet of Misfit Minions."
+  },
+  {
+   "i": 130,
+   "start": 382.1,
+   "end": 384.84,
+   "kind": "dialog",
+   "speaker": "Reese",
+   "text": "Where all banished servants of Santa Claus are sent."
+  },
+  {
+   "i": 131,
+   "start": 384.84,
+   "end": 387.18,
+   "kind": "dialog",
+   "speaker": "Beru",
+   "text": "We were all lost, hope forsaken."
+  },
+  {
+   "i": 132,
+   "start": 387.18,
+   "end": 389.78,
+   "kind": "dialog",
+   "speaker": "Jinga",
+   "text": "But now Turles has given us a new chance at life."
+  },
+  {
+   "i": 133,
+   "start": 389.78,
+   "end": 391.8,
+   "kind": "dialog",
+   "speaker": "Beru",
+   "text": "And at revenge!"
+  },
+  {
+   "i": 134,
+   "start": 389.78,
+   "end": 391.8,
+   "kind": "dialog",
+   "speaker": "Jinga",
+   "text": "And at revenge!"
+  },
+  {
+   "i": 135,
+   "start": 391.8,
+   "end": 394.08,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "But why were you banished in the first place?"
+  },
+  {
+   "i": 136,
+   "start": 394.08,
+   "end": 395.98,
+   "kind": "dialog",
+   "speaker": "Slay",
+   "text": "Some of us did things..."
+  },
+  {
+   "i": 137,
+   "start": 395.98,
+   "end": 397.28,
+   "kind": "dialog",
+   "speaker": "Slay",
+   "text": "Terrible things."
+  },
+  {
+   "i": 138,
+   "start": 397.28,
+   "end": 400.2,
+   "kind": "dialog",
+   "speaker": "Reese",
+   "text": "Things that some of us regret, and some of us don't."
+  },
+  {
+   "i": 139,
+   "start": 400.2,
+   "end": 406.88,
+   "kind": "dialog",
+   "speaker": "Slay",
+   "text": "Take me for example: I was but a humble mall Santa trying to bring children joy."
+  },
+  {
+   "i": 140,
+   "start": 406.88,
+   "end": 408.04,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "So what happened?"
+  },
+  {
+   "i": 141,
+   "start": 408.04,
+   "end": 411.36,
+   "kind": "dialog",
+   "speaker": "Slay",
+   "text": "Well, a young child asked me for a fire truck."
+  },
+  {
+   "i": 142,
+   "start": 411.36,
+   "end": 412.22,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Awww!"
+  },
+  {
+   "i": 143,
+   "start": 412.22,
+   "end": 413.86,
+   "kind": "dialog",
+   "speaker": "Slay",
+   "text": "So I dropped one on his house."
+  },
+  {
+   "i": 144,
+   "start": 413.86,
+   "end": 414.84,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Awww."
+  },
+  {
+   "i": 145,
+   "start": 414.84,
+   "end": 416.44,
+   "kind": "dialog",
+   "speaker": "Jinga",
+   "text": "Then there was my brother and I."
+  },
+  {
+   "i": 146,
+   "start": 416.44,
+   "end": 419.18,
+   "kind": "dialog",
+   "speaker": "Beru",
+   "text": "We were once elves working at Santa's workshop."
+  },
+  {
+   "i": 147,
+   "start": 419.18,
+   "end": 422.68,
+   "kind": "dialog",
+   "speaker": "Jinga",
+   "text": "Until a robot we made to aid production went out on a murderous rampage."
+  },
+  {
+   "i": 148,
+   "start": 422.68,
+   "end": 424.36,
+   "kind": "dialog",
+   "speaker": "S.n.o.w.",
+   "text": "Fa la la la la, la la, la--"
+  },
+  {
+   "i": 149,
+   "start": 424.36,
+   "end": 425.34,
+   "kind": "dialog",
+   "speaker": "S.n.o.w.",
+   "text": "DIE."
+  },
+  {
+   "i": 150,
+   "start": 425.34,
+   "end": 426.4,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Yiiikes."
+  },
+  {
+   "i": 151,
+   "start": 426.4,
+   "end": 429.36,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Wait a minute, that doesn't cover you - what'd *you* do?"
+  },
+  {
+   "i": 152,
+   "start": 429.36,
+   "end": 433.26,
+   "kind": "dialog",
+   "speaker": "Reese",
+   "text": "Something so evil, I am forever on Santa’s naughty list!"
+  },
+  {
+   "i": 153,
+   "start": 433.26,
+   "end": 435.88,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Geez, compared to these guys, what could you have possibly--"
+  },
+  {
+   "i": 154,
+   "start": 435.88,
+   "end": 437.14,
+   "kind": "dialog",
+   "speaker": "Reese",
+   "text": "I raped Rudolph."
+  },
+  {
+   "i": 155,
+   "start": 437.14,
+   "end": 443.46,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Sounds of Reese laughing along with Rudolph's pained cries"
+  },
+  {
+   "i": 156,
+   "start": 443.46,
+   "end": 445.34,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Dibs on not fighting that guy."
+  },
+  {
+   "i": 157,
+   "start": 445.34,
+   "end": 448.26,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "We have to save Christmas, guys! Let's go!"
+  },
+  {
+   "i": 158,
+   "start": 450.42,
+   "end": 451.24,
+   "kind": "dialog",
+   "speaker": "Jinga",
+   "text": "Jinga!"
+  },
+  {
+   "i": 159,
+   "start": 451.24,
+   "end": 451.88,
+   "kind": "dialog",
+   "speaker": "Beru",
+   "text": "Beru!"
+  },
+  {
+   "i": 160,
+   "start": 451.88,
+   "end": 454.1,
+   "kind": "dialog",
+   "speaker": "Jinga",
+   "text": "The great Jinga Beru Brothers!"
+  },
+  {
+   "i": 161,
+   "start": 451.88,
+   "end": 454.1,
+   "kind": "dialog",
+   "speaker": "Beru",
+   "text": "The great Jinga Beru Brothers!"
+  },
+  {
+   "i": 162,
+   "start": 454.18,
+   "end": 455.94,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "You mean \"Jingle Bell\", right?"
+  },
+  {
+   "i": 163,
+   "start": 455.94,
+   "end": 457.02,
+   "kind": "dialog",
+   "speaker": "Jinga",
+   "text": "No, Jinga..."
+  },
+  {
+   "i": 164,
+   "start": 457.02,
+   "end": 458.04,
+   "kind": "dialog",
+   "speaker": "Beru",
+   "text": "...and Beru!"
+  },
+  {
+   "i": 165,
+   "start": 458.04,
+   "end": 462.2,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Noooo... Jingle... *Bell*."
+  },
+  {
+   "i": 166,
+   "start": 462.2,
+   "end": 462.96,
+   "kind": "dialog",
+   "speaker": "Jinga",
+   "text": "Jinga!"
+  },
+  {
+   "i": 167,
+   "start": 462.96,
+   "end": 463.5,
+   "kind": "dialog",
+   "speaker": "Beru",
+   "text": "Beru!"
+  },
+  {
+   "i": 168,
+   "start": 463.5,
+   "end": 465.68,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "F**KING WEEABOOS!"
+  },
+  {
+   "i": 169,
+   "start": 467.64,
+   "end": 472.12,
+   "kind": "dialog",
+   "speaker": "Slay",
+   "text": "Y'know, you look like one of the kids I let sit on my lap once."
+  },
+  {
+   "i": 170,
+   "start": 472.12,
+   "end": 476.26,
+   "kind": "dialog",
+   "speaker": "Slay",
+   "text": "'Course, he was the cancer patient; asked me if I could get rid of his cancer."
+  },
+  {
+   "i": 171,
+   "start": 476.26,
+   "end": 478.7,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Oh God, this is going exactly where I think this is, isn't it?"
+  },
+  {
+   "i": 172,
+   "start": 478.7,
+   "end": 480.92,
+   "kind": "dialog",
+   "speaker": "Slay",
+   "text": "So I blew him up! No more cancer!"
+  },
+  {
+   "i": 173,
+   "start": 480.92,
+   "end": 483.58,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "God, you are one of the worst mall Santas ever!"
+  },
+  {
+   "i": 174,
+   "start": 483.58,
+   "end": 485.84,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Right behind those ones that molest kids."
+  },
+  {
+   "i": 175,
+   "start": 486.18,
+   "end": 487.94,
+   "kind": "dialog",
+   "speaker": "Slay",
+   "text": "...So I'm the worst mall Santa."
+  },
+  {
+   "i": 176,
+   "start": 487.94,
+   "end": 489.1,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "Oh, come on!"
+  },
+  {
+   "i": 177,
+   "start": 490.68,
+   "end": 494.04,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Singing \"Yamcha the Scar-Faced Bandit\""
+  },
+  {
+   "i": 178,
+   "start": 494.78,
+   "end": 495.62,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Go to hell!"
+  },
+  {
+   "i": 179,
+   "start": 496.38,
+   "end": 501.08,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Oh. Come. On. Come. On. Damn. You."
+  },
+  {
+   "i": 180,
+   "start": 501.08,
+   "end": 503.06,
+   "kind": "dialog",
+   "speaker": "S.n.o.w.",
+   "text": "Do you require assistance?"
+  },
+  {
+   "i": 181,
+   "start": 503.06,
+   "end": 506.28,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Shut. Up. You. Cowardly. God."
+  },
+  {
+   "i": 182,
+   "start": 506.28,
+   "end": 508.14,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "YES! Take that, motherfu--!"
+  },
+  {
+   "i": 183,
+   "start": 508.14,
+   "end": 508.64,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "HUHG!"
+  },
+  {
+   "i": 184,
+   "start": 508.64,
+   "end": 509.88,
+   "kind": "dialog",
+   "speaker": "S.n.o.w.",
+   "text": "♫ And if you saw this guy fight ♫"
+  },
+  {
+   "i": 185,
+   "start": 509.88,
+   "end": 512.26,
+   "kind": "dialog",
+   "speaker": "S.n.o.w.",
+   "text": "♫ You would even say he blows ♫"
+  },
+  {
+   "i": 186,
+   "start": 512.26,
+   "end": 513.26,
+   "kind": "dialog",
+   "speaker": "S.n.o.w.",
+   "text": "Agreed."
+  },
+  {
+   "i": 187,
+   "start": 514.6,
+   "end": 516.86,
+   "kind": "dialog",
+   "speaker": "Jinga",
+   "text": "I'll make you pay, like the rest of them!"
+  },
+  {
+   "i": 188,
+   "start": 516.86,
+   "end": 520.9,
+   "kind": "dialog",
+   "speaker": "Chiaotzu",
+   "text": "Aaaah! I told you, I'm not an elf; I'm just really short!"
+  },
+  {
+   "i": 189,
+   "start": 520.9,
+   "end": 521.88,
+   "kind": "dialog",
+   "speaker": "Jinga",
+   "text": "Shut up, Claus lover!"
+  },
+  {
+   "i": 190,
+   "start": 522.42,
+   "end": 523.68,
+   "kind": "dialog",
+   "speaker": "Chiaotzu",
+   "text": "I don’t even celebrate Christmas--"
+  },
+  {
+   "i": 191,
+   "start": 523.68,
+   "end": 524.7,
+   "kind": "dialog",
+   "speaker": "Chiaotzu",
+   "text": "OH, MY GOD!"
+  },
+  {
+   "i": 192,
+   "start": 525.66,
+   "end": 526.24,
+   "kind": "dialog",
+   "speaker": "Jinga",
+   "text": "What the--"
+  },
+  {
+   "i": 193,
+   "start": 526.24,
+   "end": 528.72,
+   "kind": "dialog",
+   "speaker": "Jinga",
+   "text": "What the FUUUUUUUUUUU...?!"
+  },
+  {
+   "i": 194,
+   "start": 529.24,
+   "end": 531.28,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Did I just smash the Krampus?"
+  },
+  {
+   "i": 195,
+   "start": 531.28,
+   "end": 533.3,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Oh well; where are the others?"
+  },
+  {
+   "i": 196,
+   "start": 533.3,
+   "end": 536.72,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "If I don't find them soon, it's gonna be too late to go caroling!"
+  },
+  {
+   "i": 197,
+   "start": 536.88,
+   "end": 537.52,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Oh!"
+  },
+  {
+   "i": 198,
+   "start": 537.52,
+   "end": 541.92,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Hey Dad, what's with the getup? It's not Halloween, it's Christmas!"
+  },
+  {
+   "i": 199,
+   "start": 542.06,
+   "end": 543.52,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "Christmas?"
+  },
+  {
+   "i": 200,
+   "start": 543.96,
+   "end": 546.26,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "I HATE Christmas!"
+  },
+  {
+   "i": 201,
+   "start": 546.26,
+   "end": 547.3,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "You're not my Dad!"
+  },
+  {
+   "i": 202,
+   "start": 548.1,
+   "end": 550.18,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "I hate gingerbread houses."
+  },
+  {
+   "i": 203,
+   "start": 550.18,
+   "end": 552.36,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "I hate presents and toys."
+  },
+  {
+   "i": 204,
+   "start": 552.36,
+   "end": 555.74,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "I hate reindeer and all of the good girls and boys."
+  },
+  {
+   "i": 205,
+   "start": 555.74,
+   "end": 559.42,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "I hate the Whos down in Whoville and all of their songs."
+  },
+  {
+   "i": 206,
+   "start": 559.42,
+   "end": 563.46,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "I hate their whumpets and blumpets and goobag-for-brawns."
+  },
+  {
+   "i": 207,
+   "start": 563.46,
+   "end": 567.76,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "I hate carols and sleigh rides and falalalalas."
+  },
+  {
+   "i": 208,
+   "start": 567.76,
+   "end": 571.88,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "But above all things else... I hate Santa Claus!"
+  },
+  {
+   "i": 209,
+   "start": 571.88,
+   "end": 573.54,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Don't talk s**t about Santa!"
+  },
+  {
+   "i": 210,
+   "start": 573.62,
+   "end": 575.56,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "You're Saiyan, aren’t you?"
+  },
+  {
+   "i": 211,
+   "start": 575.72,
+   "end": 579.86,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "How lucky you were... to never suffer my injustice!"
+  },
+  {
+   "i": 212,
+   "start": 579.34,
+   "end": 579.86,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "CRUNCH"
+  },
+  {
+   "i": 213,
+   "start": 579.86,
+   "end": 580.92,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Gohan groans in pain"
+  },
+  {
+   "i": 214,
+   "start": 581.28,
+   "end": 587.82,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "However, after my tree is done with this planet, you'll be left with no ale to speak of!"
+  },
+  {
+   "i": 215,
+   "start": 587.82,
+   "end": 588.52,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Evil chuckling"
+  },
+  {
+   "i": 216,
+   "start": 588.52,
+   "end": 589.24,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Scouter beeps"
+  },
+  {
+   "i": 217,
+   "start": 589.24,
+   "end": 590.32,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "What? Who's there?"
+  },
+  {
+   "i": 218,
+   "start": 590.56,
+   "end": 592.14,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Bitch, you look like Goku."
+  },
+  {
+   "i": 219,
+   "start": 592.14,
+   "end": 593.8,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "And you look like a Yoshi."
+  },
+  {
+   "i": 220,
+   "start": 593.8,
+   "end": 596.0,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "I get that. Now hand over the kid."
+  },
+  {
+   "i": 221,
+   "start": 596.0,
+   "end": 597.46,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "Oh, you want this kid?"
+  },
+  {
+   "i": 222,
+   "start": 597.46,
+   "end": 598.26,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "I want him."
+  },
+  {
+   "i": 223,
+   "start": 598.26,
+   "end": 599.2,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "You want this kid?"
+  },
+  {
+   "i": 224,
+   "start": 599.2,
+   "end": 600.02,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "I want him."
+  },
+  {
+   "i": 225,
+   "start": 600.02,
+   "end": 600.84,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "You want this kid?"
+  },
+  {
+   "i": 226,
+   "start": 600.84,
+   "end": 601.58,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "I want him."
+  },
+  {
+   "i": 227,
+   "start": 601.58,
+   "end": 602.32,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "You want, you want?"
+  },
+  {
+   "i": 228,
+   "start": 602.32,
+   "end": 603.42,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "I WANT THAT KID!"
+  },
+  {
+   "i": 229,
+   "start": 604.38,
+   "end": 605.4,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Hi, Mr. Piccolo!"
+  },
+  {
+   "i": 230,
+   "start": 605.4,
+   "end": 606.5,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "Merry Christmas."
+  },
+  {
+   "i": 231,
+   "start": 606.5,
+   "end": 608.5,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "UUGHHUUGHHUUGHH!"
+  },
+  {
+   "i": 232,
+   "start": 608.8,
+   "end": 610.18,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Mr. Piccolo..."
+  },
+  {
+   "i": 233,
+   "start": 610.18,
+   "end": 610.68,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Ugh!"
+  },
+  {
+   "i": 234,
+   "start": 610.68,
+   "end": 615.22,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "Yeah, you're gonna stay right there. Now how 'bout I show you a little trick I learned?"
+  },
+  {
+   "i": 235,
+   "start": 615.22,
+   "end": 617.36,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "If I put pressure down on this part of your back..."
+  },
+  {
+   "i": 236,
+   "start": 617.36,
+   "end": 617.86,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "UGH!"
+  },
+  {
+   "i": 237,
+   "start": 617.86,
+   "end": 618.58,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "SNAP"
+  },
+  {
+   "i": 238,
+   "start": 618.58,
+   "end": 620.08,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "...your tail grows back!"
+  },
+  {
+   "i": 239,
+   "start": 620.08,
+   "end": 620.78,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "And...?"
+  },
+  {
+   "i": 240,
+   "start": 620.78,
+   "end": 621.28,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "Look!"
+  },
+  {
+   "i": 241,
+   "start": 622.22,
+   "end": 622.72,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "AGH!"
+  },
+  {
+   "i": 242,
+   "start": 624.0,
+   "end": 627.58,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "It's the Star of Bethlehem. You know what that means?"
+  },
+  {
+   "i": 243,
+   "start": 627.58,
+   "end": 629.0,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Jesus is born?"
+  },
+  {
+   "i": 244,
+   "start": 629.0,
+   "end": 632.72,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "Yeah. Only instead of Jesus... It's a giant monkey."
+  },
+  {
+   "i": 245,
+   "start": 632.72,
+   "end": 634.28,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "I don't see the paral--"
+  },
+  {
+   "i": 246,
+   "start": 636.3,
+   "end": 637.08,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Gohan!"
+  },
+  {
+   "i": 247,
+   "start": 637.88,
+   "end": 643.0,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Aw man... if Chi-Chi finds out about this, I might not get mouth present."
+  },
+  {
+   "i": 248,
+   "start": 643.0,
+   "end": 644.88,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "Now, what will you do?"
+  },
+  {
+   "i": 249,
+   "start": 644.88,
+   "end": 649.32,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "Son against father; father against son! In a battle to the death!"
+  },
+  {
+   "i": 250,
+   "start": 648.82,
+   "end": 649.32,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "HAH!"
+  },
+  {
+   "i": 251,
+   "start": 652.54,
+   "end": 653.7,
+   "kind": "dialog",
+   "speaker": "Turles",
+   "text": "...Well played."
+  }
+ ],
+ "segments": [
+  {
+   "start": 7.2,
+   "end": 27.48,
+   "title": "Twas the Week Before Christmas",
+   "quote": "...and for some unknown reason, Oolong was there.",
+   "line_start": 0,
+   "line_end": 2
+  },
+  {
+   "start": 95.4,
+   "end": 130.7,
+   "title": "I Wanna Christmas Tree",
+   "quote": "So you want me to restore life to this desolated forest? / Hell no! I wanna Christmas Tree!",
+   "line_start": 28,
+   "line_end": 39
+  },
+  {
+   "start": 199.8,
+   "end": 217.48,
+   "title": "The Gift of Yamcha",
+   "quote": "The only gift they need is the gift... of Yamcha. / ...That's a non-refundable gift, isn't it?",
+   "line_start": 64,
+   "line_end": 69
+  },
+  {
+   "start": 218.7,
+   "end": 232.28,
+   "title": "The Christmas Tree of Might (Title Drop)",
+   "quote": "Plant... the tree. Of might. The Christmas Tree of Might. / Title drop!",
+   "line_start": 70,
+   "line_end": 76
+  },
+  {
+   "start": 293.6,
+   "end": 320.6,
+   "title": "That's Disney Evil!",
+   "quote": "It's literally sucking the Christmas joy out of the entire planet. / That's Disney evil!",
+   "line_start": 98,
+   "line_end": 107
+  },
+  {
+   "start": 343.1,
+   "end": 358.24,
+   "title": "Aren't You Jewish?",
+   "quote": "Tien, Chiaotzu, what are you two doing here? Aren't you Jewish? / I'm just trying to be culturally sensitive... you Buddhist ass!",
+   "line_start": 117,
+   "line_end": 120
+  },
+  {
+   "start": 358.0,
+   "end": 374.28,
+   "title": "Reason With the Tree",
+   "quote": "Big tree! If you don't leave right now, I'm gonna have to beat you up! / Goku, trees can't tal-- / Why don't you come up here and try it?",
+   "line_start": 121,
+   "line_end": 126
+  },
+  {
+   "start": 399.7,
+   "end": 414.84,
+   "title": "So I Dropped One on His House",
+   "quote": "A young child asked me for a fire truck. / Awww! / So I dropped one on his house. / Awww.",
+   "line_start": 139,
+   "line_end": 144
+  },
+  {
+   "start": 425.9,
+   "end": 445.34,
+   "title": "Forever on Santa's Naughty List",
+   "quote": "I raped Rudolph. / Dibs on not fighting that guy.",
+   "line_start": 151,
+   "line_end": 156
+  },
+  {
+   "start": 449.9,
+   "end": 465.68,
+   "title": "The Great Jinga Beru Brothers",
+   "quote": "You mean \"Jingle Bell\", right? / No, Jinga... / ...and Beru! / F**KING WEEABOOS!",
+   "line_start": 158,
+   "line_end": 168
+  },
+  {
+   "start": 490.2,
+   "end": 513.26,
+   "title": "Yamcha vs. S.N.O.W.",
+   "quote": "♫ You would even say he blows ♫ / Agreed.",
+   "line_start": 177,
+   "line_end": 186
+  },
+  {
+   "start": 547.6,
+   "end": 573.54,
+   "title": "I Hate Santa Claus",
+   "quote": "But above all things else... I hate Santa Claus! / Don't talk s**t about Santa!",
+   "line_start": 202,
+   "line_end": 209
+  },
+  {
+   "start": 590.0,
+   "end": 606.5,
+   "title": "Bitch, You Look Like Goku",
+   "quote": "Bitch, you look like Goku. / And you look like a Yoshi. / I WANT THAT KID!",
+   "line_start": 218,
+   "line_end": 230
+  },
+  {
+   "start": 623.5,
+   "end": 634.28,
+   "title": "Instead of Jesus... a Giant Monkey",
+   "quote": "Yeah. Only instead of Jesus... It's a giant monkey. / I don't see the paral--",
+   "line_start": 242,
+   "line_end": 245
+  }
+ ]
+}

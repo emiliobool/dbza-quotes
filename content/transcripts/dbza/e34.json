@@ -1,0 +1,2067 @@
+{
+ "item": "e34",
+ "show": "dbza",
+ "youtube": "5LD7NQSie6Y",
+ "title": "Episode 30 Part 3",
+ "duration": 804,
+ "lines": [
+  {
+   "i": 0,
+   "start": 15.56,
+   "end": 18.82,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "*Oh*... *my*... *God*."
+  },
+  {
+   "i": 1,
+   "start": 18.82,
+   "end": 23.1,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Y'know, you keep reacting, trying to prompt us to ask what's going on."
+  },
+  {
+   "i": 2,
+   "start": 23.1,
+   "end": 24.14,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "You could just tell us."
+  },
+  {
+   "i": 3,
+   "start": 24.14,
+   "end": 25.38,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Alright, fine!"
+  },
+  {
+   "i": 4,
+   "start": 25.38,
+   "end": 27.52,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Freeza got cut in half!"
+  },
+  {
+   "i": 5,
+   "start": 27.52,
+   "end": 28.3,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "HU-WHOOA!"
+  },
+  {
+   "i": 6,
+   "start": 28.3,
+   "end": 30.74,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Wow - I didn't think Goku had it in him (!)"
+  },
+  {
+   "i": 7,
+   "start": 30.74,
+   "end": 33.92,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "He doesn't. Freeza did it to himself..."
+  },
+  {
+   "i": 8,
+   "start": 33.92,
+   "end": 39.24,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "HAAAAH! MY ORGANS! Stay in there! Stay in your home! Daddy needs you!"
+  },
+  {
+   "i": 9,
+   "start": 39.24,
+   "end": 42.8,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Wow, Freezer. You really were a *cut* above the rest!"
+  },
+  {
+   "i": 10,
+   "start": 42.8,
+   "end": 43.9,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "UUUOOOHH..."
+  },
+  {
+   "i": 11,
+   "start": 43.9,
+   "end": 45.6,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "But too bad you didn't make the *cut*!"
+  },
+  {
+   "i": 12,
+   "start": 45.6,
+   "end": 46.58,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "UUOOOHHH..."
+  },
+  {
+   "i": 13,
+   "start": 46.58,
+   "end": 49.18,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Guess you could call this a slice of life."
+  },
+  {
+   "i": 14,
+   "start": 49.18,
+   "end": 50.48,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Please stop!"
+  },
+  {
+   "i": 15,
+   "start": 50.48,
+   "end": 53.54,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Alright then, I'll cut you a break. I'm gonna split."
+  },
+  {
+   "i": 16,
+   "start": 53.54,
+   "end": 55.68,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Wait! Wait! Wait!"
+  },
+  {
+   "i": 17,
+   "start": 55.68,
+   "end": 70.06,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "I, I know I've a lot of terrible things... killed quite a number of people, some of which you liked... uh, but may I ask you... as one neighbor to another... can you spare a cup of energy?"
+  },
+  {
+   "i": 18,
+   "start": 70.06,
+   "end": 71.22,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Well..."
+  },
+  {
+   "i": 19,
+   "start": 71.22,
+   "end": 76.1,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "NO! NO! NO! NO! NO! NO! NO! NO!"
+  },
+  {
+   "i": 20,
+   "start": 73.7,
+   "end": 75.6,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "I'm not even asking any more..."
+  },
+  {
+   "i": 21,
+   "start": 76.1,
+   "end": 76.84,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "HIIYAAH!"
+  },
+  {
+   "i": 22,
+   "start": 78.74,
+   "end": 83.94,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "Now, be responsible with this energy! Don't use it to hurt any more people! Or on the drugs."
+  },
+  {
+   "i": 23,
+   "start": 83.94,
+   "end": 86.5,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "What? But... why?"
+  },
+  {
+   "i": 24,
+   "start": 86.5,
+   "end": 88.88,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I'm gonna go now. Got a long trip home."
+  },
+  {
+   "i": 25,
+   "start": 88.88,
+   "end": 93.44,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "I'd ask if I could take one of your legs with me, but you're probably hungry too. Bye!"
+  },
+  {
+   "i": 26,
+   "start": 93.44,
+   "end": 94.78,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "Uuh-huuuh?"
+  },
+  {
+   "i": 27,
+   "start": 94.78,
+   "end": 98.3,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "'He's... really just leaving me here...'"
+  },
+  {
+   "i": 28,
+   "start": 98.3,
+   "end": 101.62,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "'He gave me his energy and... left me...'"
+  },
+  {
+   "i": 29,
+   "start": 101.62,
+   "end": 103.5,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "'Maybe this is a sign...'"
+  },
+  {
+   "i": 30,
+   "start": 103.5,
+   "end": 105.62,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "'Maybe I should change...'"
+  },
+  {
+   "i": 31,
+   "start": 105.62,
+   "end": 110.82,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "'Maybe this is, my second... and last... chance...'"
+  },
+  {
+   "i": 32,
+   "start": 110.82,
+   "end": 114.62,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "'*Maybe*... I was wrong.'"
+  },
+  {
+   "i": 33,
+   "start": 114.62,
+   "end": 115.46,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "*Naaah*!"
+  },
+  {
+   "i": 34,
+   "start": 117.32,
+   "end": 119.7,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "God dang it Freezer, now I have to give you more!"
+  },
+  {
+   "i": 35,
+   "start": 121.76,
+   "end": 123.16,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "*No* *no*-*no*-NO-NO-NO-NO--"
+  },
+  {
+   "i": 36,
+   "start": 123.4,
+   "end": 126.0,
+   "kind": "dialog",
+   "speaker": "Freeza",
+   "text": "EEEYAAAAAAAAAAH...!!"
+  },
+  {
+   "i": 37,
+   "start": 134.92,
+   "end": 138.78,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'Huh... don't see him anymore. Guess he took the energy and left.'"
+  },
+  {
+   "i": 38,
+   "start": 139.22,
+   "end": 141.58,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'Speaking of which, where am I going?'"
+  },
+  {
+   "i": 39,
+   "start": 142.1,
+   "end": 148.32,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "HAAAH... AAAHH... HUUWAAAH... AAAHH..."
+  },
+  {
+   "i": 40,
+   "start": 148.32,
+   "end": 149.8,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "I--"
+  },
+  {
+   "i": 41,
+   "start": 148.32,
+   "end": 149.8,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Don't you dare."
+  },
+  {
+   "i": 42,
+   "start": 149.8,
+   "end": 152.84,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "...HAAAAH..."
+  },
+  {
+   "i": 43,
+   "start": 152.84,
+   "end": 155.46,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "OK, you win! Goku blew Freeza up!"
+  },
+  {
+   "i": 44,
+   "start": 155.46,
+   "end": 157.36,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "See? Was that so hard?"
+  },
+  {
+   "i": 45,
+   "start": 157.36,
+   "end": 160.02,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Well, not as hard as it's gonna be to get off Namek."
+  },
+  {
+   "i": 46,
+   "start": 160.6,
+   "end": 166.34,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'Where am I? Where's my ship?! Everything looked the same before, now looks all the same but on *fire*!'"
+  },
+  {
+   "i": 47,
+   "start": 166.34,
+   "end": 167.7,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'Uh - a ship!'"
+  },
+  {
+   "i": 48,
+   "start": 168.9,
+   "end": 170.42,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'Alright, gotta find it!'"
+  },
+  {
+   "i": 49,
+   "start": 170.78,
+   "end": 172.78,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "'Goku, hurry!'"
+  },
+  {
+   "i": 50,
+   "start": 179.84,
+   "end": 182.5,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "The controls! Where is it? Where is it?!"
+  },
+  {
+   "i": 51,
+   "start": 184.36,
+   "end": 185.82,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "It's about to blow!"
+  },
+  {
+   "i": 52,
+   "start": 185.82,
+   "end": 187.5,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "'Come on, come on...!'"
+  },
+  {
+   "i": 53,
+   "start": 187.5,
+   "end": 188.0,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "*There*!"
+  },
+  {
+   "i": 54,
+   "start": 192.34,
+   "end": 193.14,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "*YES*!!"
+  },
+  {
+   "i": 55,
+   "start": 195.56,
+   "end": 196.94,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "...Oh, my God..."
+  },
+  {
+   "i": 56,
+   "start": 196.94,
+   "end": 200.2,
+   "kind": "dialog",
+   "speaker": "Goku",
+   "text": "YAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAY--!"
+  },
+  {
+   "i": 57,
+   "start": 200.2,
+   "end": 203.98,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "BOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM"
+  },
+  {
+   "i": 58,
+   "start": 205.42,
+   "end": 207.9,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "It's... it's over."
+  },
+  {
+   "i": 59,
+   "start": 206.62,
+   "end": 207.9,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Sad, mournful music"
+  },
+  {
+   "i": 60,
+   "start": 207.9,
+   "end": 208.74,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "What?"
+  },
+  {
+   "i": 61,
+   "start": 208.74,
+   "end": 215.0,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Goku could not escape the explosion. Namek is gone... and so is he."
+  },
+  {
+   "i": 62,
+   "start": 215.0,
+   "end": 218.28,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "No... Goku, *no*..."
+  },
+  {
+   "i": 63,
+   "start": 218.28,
+   "end": 220.98,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "NOOOOOOOOO!"
+  },
+  {
+   "i": 64,
+   "start": 220.98,
+   "end": 226.36,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "(Sobbing)"
+  },
+  {
+   "i": 65,
+   "start": 226.36,
+   "end": 227.52,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Sad, mournful music suddenly ends"
+  },
+  {
+   "i": 66,
+   "start": 226.36,
+   "end": 227.52,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Why do you care?"
+  },
+  {
+   "i": 67,
+   "start": 227.52,
+   "end": 228.5,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Hah, wha?"
+  },
+  {
+   "i": 68,
+   "start": 228.5,
+   "end": 234.44,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Why do any of you care? Are you forgetting the whole reason that they went to Namek in the first place?"
+  },
+  {
+   "i": 69,
+   "start": 234.44,
+   "end": 237.38,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Now we have *two* sets of Dragon Balls!"
+  },
+  {
+   "i": 70,
+   "start": 237.38,
+   "end": 241.9,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Well, yeah, but you make it sound like death has no consequence!"
+  },
+  {
+   "i": 71,
+   "start": 241.9,
+   "end": 247.56,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "It really *doesn't* - we're literally waiting to go back. Hell, this is Chiaotzu's second time!"
+  },
+  {
+   "i": 72,
+   "start": 247.56,
+   "end": 249.58,
+   "kind": "dialog",
+   "speaker": "Chiaotzu",
+   "text": "Next time I get a free sundae!"
+  },
+  {
+   "i": 73,
+   "start": 249.58,
+   "end": 250.88,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Huh..."
+  },
+  {
+   "i": 74,
+   "start": 250.88,
+   "end": 251.94,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Hah..."
+  },
+  {
+   "i": 75,
+   "start": 251.94,
+   "end": 252.82,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "Yeah."
+  },
+  {
+   "i": 76,
+   "start": 254.16,
+   "end": 256.0,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "So, who wants to tell Bulma?"
+  },
+  {
+   "i": 77,
+   "start": 256.0,
+   "end": 258.16,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Let me do it. Bulma's my girl."
+  },
+  {
+   "i": 78,
+   "start": 258.16,
+   "end": 260.86,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "PFEH! Yeah, OK. Go ahead, stud."
+  },
+  {
+   "i": 79,
+   "start": 262.46,
+   "end": 268.06,
+   "kind": "dialog",
+   "speaker": "Mouri",
+   "text": "And now that I have devoured Guru, I have become the new Grand Elder!"
+  },
+  {
+   "i": 80,
+   "start": 268.46,
+   "end": 269.94,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Huh... seems legit."
+  },
+  {
+   "i": 81,
+   "start": 269.94,
+   "end": 272.68,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Hey, Bulma! It's me, Yamcha."
+  },
+  {
+   "i": 82,
+   "start": 272.68,
+   "end": 275.14,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Oh, hey, hold on a moment, my ex is calling me."
+  },
+  {
+   "i": 83,
+   "start": 275.14,
+   "end": 279.14,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Hey girl, let's get t--... wait, \"ex\"? What's that about?"
+  },
+  {
+   "i": 84,
+   "start": 279.14,
+   "end": 280.64,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Yeah, I'm breaking up with you."
+  },
+  {
+   "i": 85,
+   "start": 280.64,
+   "end": 282.68,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Pwha...? But *why*?"
+  },
+  {
+   "i": 86,
+   "start": 282.68,
+   "end": 284.86,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "You haven't called me in *months*."
+  },
+  {
+   "i": 87,
+   "start": 284.86,
+   "end": 286.78,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "*I have been dead*!"
+  },
+  {
+   "i": 88,
+   "start": 286.78,
+   "end": 288.88,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Oh, well, that's not stopping you NOW, is it?"
+  },
+  {
+   "i": 89,
+   "start": 288.88,
+   "end": 290.78,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Do not do this right now!"
+  },
+  {
+   "i": 90,
+   "start": 290.78,
+   "end": 294.32,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Hey, you wanna know how this is ending? Hey Vegeta, wanna come live with me?"
+  },
+  {
+   "i": 91,
+   "start": 294.32,
+   "end": 295.4,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Only if its got a pool."
+  },
+  {
+   "i": 92,
+   "start": 295.4,
+   "end": 297.22,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "HE'S THE REASON I'M *DEAD*!"
+  },
+  {
+   "i": 93,
+   "start": 297.22,
+   "end": 299.68,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Well then, I guess he's just more of a man than you, isn't he?"
+  },
+  {
+   "i": 94,
+   "start": 299.68,
+   "end": 301.76,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Oh, you dirty *BITCH*!!"
+  },
+  {
+   "i": 95,
+   "start": 301.76,
+   "end": 304.36,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Yeah, OK, I'm gonna take over, this isn't going anywhere."
+  },
+  {
+   "i": 96,
+   "start": 304.36,
+   "end": 305.82,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Now you listen here...!"
+  },
+  {
+   "i": 97,
+   "start": 305.82,
+   "end": 306.48,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Tenshinhan."
+  },
+  {
+   "i": 98,
+   "start": 306.48,
+   "end": 308.68,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "THWACK"
+  },
+  {
+   "i": 99,
+   "start": 306.48,
+   "end": 308.68,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "DOOHH-HOOHH, MY GOOD LEG!!"
+  },
+  {
+   "i": 100,
+   "start": 308.68,
+   "end": 309.76,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "OK, listen."
+  },
+  {
+   "i": 101,
+   "start": 309.76,
+   "end": 314.72,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Gohan's fatherless and the Namekians are homeless. So... that's a thing."
+  },
+  {
+   "i": 102,
+   "start": 314.72,
+   "end": 318.1,
+   "kind": "dialog",
+   "speaker": "King Kai",
+   "text": "Now have fun delivering the message, I've gotta go cast up Yamcha's leg."
+  },
+  {
+   "i": 103,
+   "start": 318.1,
+   "end": 318.76,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "WHY...?!?!"
+  },
+  {
+   "i": 104,
+   "start": 318.76,
+   "end": 319.26,
+   "kind": "direction",
+   "speaker": null,
+   "text": "King Kai hangs up"
+  },
+  {
+   "i": 105,
+   "start": 319.5,
+   "end": 323.12,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Huh... well, uh... Gohan, Goku's dead."
+  },
+  {
+   "i": 106,
+   "start": 323.12,
+   "end": 323.7,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Dammit!"
+  },
+  {
+   "i": 107,
+   "start": 323.7,
+   "end": 325.4,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Namekians, your planet blew up."
+  },
+  {
+   "i": 108,
+   "start": 325.4,
+   "end": 326.18,
+   "kind": "dialog",
+   "speaker": "Namekians",
+   "text": "DAMMIT!"
+  },
+  {
+   "i": 109,
+   "start": 326.18,
+   "end": 331.54,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Ssso, until we can use the Dragon Balls... who wants a big old sleepover?"
+  },
+  {
+   "i": 110,
+   "start": 331.54,
+   "end": 334.54,
+   "kind": "dialog",
+   "speaker": "Mouri",
+   "text": "You think you can accommodate the entirety of my people?"
+  },
+  {
+   "i": 111,
+   "start": 334.54,
+   "end": 337.26,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "My Dad's a billionaire genius playboy philanthropist."
+  },
+  {
+   "i": 112,
+   "start": 337.4,
+   "end": 339.4,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ \"Back in Black\" ♫"
+  },
+  {
+   "i": 113,
+   "start": 341.88,
+   "end": 342.66,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Speak of the devil!"
+  },
+  {
+   "i": 114,
+   "start": 346.94,
+   "end": 351.12,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ The Imperial March ♫"
+  },
+  {
+   "i": 115,
+   "start": 346.94,
+   "end": 351.12,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Wait... I feel a dark presence on that ship..."
+  },
+  {
+   "i": 116,
+   "start": 352.38,
+   "end": 353.86,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "WHERE'S MY BABY?!"
+  },
+  {
+   "i": 117,
+   "start": 354.24,
+   "end": 358.02,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "And so, the Namekians were relocated to the Briefs' compound."
+  },
+  {
+   "i": 118,
+   "start": 358.02,
+   "end": 361.22,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "So honey, you say all of these are your friends from high school?"
+  },
+  {
+   "i": 119,
+   "start": 361.22,
+   "end": 362.14,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Yes, Dad."
+  },
+  {
+   "i": 120,
+   "start": 362.14,
+   "end": 364.1,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "Tell them to keep out of my Scotch!"
+  },
+  {
+   "i": 121,
+   "start": 364.1,
+   "end": 366.1,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "The Namekian adults learned golf!"
+  },
+  {
+   "i": 122,
+   "start": 366.1,
+   "end": 370.76,
+   "kind": "dialog",
+   "speaker": "Golf Commentator",
+   "text": "Tricky bit of putting here; very difficult to read from this angle and the green's up and running rather fast today."
+  },
+  {
+   "i": 123,
+   "start": 371.14,
+   "end": 375.22,
+   "kind": "dialog",
+   "speaker": "Golf Commentator",
+   "text": "Mouri looks like he's aiming slightly to the right of the hole, and... good for par."
+  },
+  {
+   "i": 124,
+   "start": 375.22,
+   "end": 375.82,
+   "kind": "sfx",
+   "speaker": null,
+   "text": "CLAP"
+  },
+  {
+   "i": 125,
+   "start": 375.82,
+   "end": 378.48,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "The Namekian children learned strip poker."
+  },
+  {
+   "i": 126,
+   "start": 378.48,
+   "end": 381.58,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Alright, sprouts... lay 'em on the table."
+  },
+  {
+   "i": 127,
+   "start": 381.58,
+   "end": 383.4,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "Gohan caught up on his studies..."
+  },
+  {
+   "i": 128,
+   "start": 383.4,
+   "end": 385.36,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "You read it! You learn it! You love it!"
+  },
+  {
+   "i": 129,
+   "start": 385.36,
+   "end": 387.82,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "But Mom, I've already read Huck Finn."
+  },
+  {
+   "i": 130,
+   "start": 387.82,
+   "end": 390.1,
+   "kind": "dialog",
+   "speaker": "Chi-Chi",
+   "text": "Yes, but this one has the N-word taken out!"
+  },
+  {
+   "i": 131,
+   "start": 390.2,
+   "end": 394.42,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "Piccolo... did his usual thing; only with company."
+  },
+  {
+   "i": 132,
+   "start": 394.42,
+   "end": 396.6,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'So, uh, you wanna go hang out with our race?'"
+  },
+  {
+   "i": 133,
+   "start": 396.6,
+   "end": 397.72,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'Nnnno.'"
+  },
+  {
+   "i": 134,
+   "start": 397.72,
+   "end": 401.64,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "''Cause, you know, this may be the last chance we'll ever get.'"
+  },
+  {
+   "i": 135,
+   "start": 401.64,
+   "end": 402.24,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'No.'"
+  },
+  {
+   "i": 136,
+   "start": 402.72,
+   "end": 403.78,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'Well, you're boring.'"
+  },
+  {
+   "i": 137,
+   "start": 403.78,
+   "end": 405.96,
+   "kind": "dialog",
+   "speaker": "Piccolo",
+   "text": "'And *you're* ruining my meditation.'"
+  },
+  {
+   "i": 138,
+   "start": 405.96,
+   "end": 408.62,
+   "kind": "dialog",
+   "speaker": "Nail",
+   "text": "'You're not meditating, you're *napping*! I know the difference.'"
+  },
+  {
+   "i": 139,
+   "start": 408.8,
+   "end": 410.6,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "Vegeta did what he does best..."
+  },
+  {
+   "i": 140,
+   "start": 411.02,
+   "end": 412.94,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Sayonara, bitches!"
+  },
+  {
+   "i": 141,
+   "start": 412.94,
+   "end": 414.54,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "Son of a bitch took ma Scotch!"
+  },
+  {
+   "i": 142,
+   "start": 414.54,
+   "end": 415.78,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Call me!"
+  },
+  {
+   "i": 143,
+   "start": 416.12,
+   "end": 423.36,
+   "kind": "dialog",
+   "speaker": "Narrator",
+   "text": "And soon four months (or one Namekian year) passed, and the Namekian Dragon Balls became ready for use."
+  },
+  {
+   "i": 144,
+   "start": 424.3,
+   "end": 427.96,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "During our time squatting here on Earth, we taught the Dragon how to speak English!"
+  },
+  {
+   "i": 145,
+   "start": 427.96,
+   "end": 429.56,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Oh, well that's convenient."
+  },
+  {
+   "i": 146,
+   "start": 429.56,
+   "end": 431.94,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Rise, Porunga!"
+  },
+  {
+   "i": 147,
+   "start": 431.94,
+   "end": 435.28,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Wait a second, I just thought of something. Maybe we shouldn't do this out in the middle of the--"
+  },
+  {
+   "i": 148,
+   "start": 439.92,
+   "end": 443.04,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Godzilla roar"
+  },
+  {
+   "i": 149,
+   "start": 445.4,
+   "end": 447.2,
+   "kind": "dialog",
+   "speaker": "Random Lady",
+   "text": "Aaah! Gojira!"
+  },
+  {
+   "i": 150,
+   "start": 447.42,
+   "end": 450.02,
+   "kind": "direction",
+   "speaker": null,
+   "text": "People shouting \"Gojira!\" \"Godzirra!\" \"Godzilla!\" etc"
+  },
+  {
+   "i": 151,
+   "start": 450.02,
+   "end": 452.36,
+   "kind": "dialog",
+   "speaker": "Police Officer",
+   "text": "Attention everybody. [Clears throat]"
+  },
+  {
+   "i": 152,
+   "start": 453.02,
+   "end": 457.52,
+   "kind": "dialog",
+   "speaker": "Police Officer",
+   "text": "Godzirra, Godzirra. Godzirra, Godzirra, Godzirra. Godzirra, Godzirra."
+  },
+  {
+   "i": 153,
+   "start": 457.52,
+   "end": 458.16,
+   "kind": "dialog",
+   "speaker": "Random Dude",
+   "text": "Godzirra!"
+  },
+  {
+   "i": 154,
+   "start": 458.16,
+   "end": 459.62,
+   "kind": "dialog",
+   "speaker": "Another Random Lady",
+   "text": "Uwoa, Gojira!"
+  },
+  {
+   "i": 155,
+   "start": 459.62,
+   "end": 460.56,
+   "kind": "dialog",
+   "speaker": "Another Random Dude",
+   "text": "Aah, Godzilla!"
+  },
+  {
+   "i": 156,
+   "start": 460.56,
+   "end": 462.56,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Etc..."
+  },
+  {
+   "i": 157,
+   "start": 465.9,
+   "end": 470.64,
+   "kind": "dialog",
+   "speaker": "Porunga",
+   "text": "You have summoned the great Porunga! Make your wish, and I--"
+  },
+  {
+   "i": 158,
+   "start": 470.64,
+   "end": 474.88,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "OK, listen, I'm sure you get this a lot, but can we just get, like, six wishes?"
+  },
+  {
+   "i": 159,
+   "start": 474.88,
+   "end": 477.88,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "'Cus we're just gonna bring you back in four months and do this crap again."
+  },
+  {
+   "i": 160,
+   "start": 477.88,
+   "end": 480.12,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Plus, we're just bringing some schmucks back to life."
+  },
+  {
+   "i": 161,
+   "start": 480.12,
+   "end": 485.44,
+   "kind": "dialog",
+   "speaker": "Porunga",
+   "text": "Well, that is unconventional. But considering the ease of these wishes, I will accommodate--"
+  },
+  {
+   "i": 162,
+   "start": 485.44,
+   "end": 486.04,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "And a planet."
+  },
+  {
+   "i": 163,
+   "start": 486.04,
+   "end": 487.72,
+   "kind": "dialog",
+   "speaker": "Porunga",
+   "text": "Oh, that's just a dick move!"
+  },
+  {
+   "i": 164,
+   "start": 487.72,
+   "end": 489.86,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Alright, let's get the hard one out of the way."
+  },
+  {
+   "i": 165,
+   "start": 489.86,
+   "end": 493.14,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Dragon! Build the Namekians a new Namek!"
+  },
+  {
+   "i": 166,
+   "start": 496.34,
+   "end": 497.28,
+   "kind": "dialog",
+   "speaker": "Porunga",
+   "text": "Donezo."
+  },
+  {
+   "i": 167,
+   "start": 497.28,
+   "end": 499.42,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Sweet. Alright, you guys do whatever you want."
+  },
+  {
+   "i": 168,
+   "start": 499.46,
+   "end": 501.6,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "First: Tien and Chiaotzu!"
+  },
+  {
+   "i": 169,
+   "start": 505.14,
+   "end": 508.78,
+   "kind": "dialog",
+   "speaker": "Chiaotzu",
+   "text": "Oh hey, we're back! Kinda want that sundae though..."
+  },
+  {
+   "i": 170,
+   "start": 508.78,
+   "end": 509.48,
+   "kind": "dialog",
+   "speaker": "Tien",
+   "text": "*Chiaotzu*..."
+  },
+  {
+   "i": 171,
+   "start": 509.48,
+   "end": 510.54,
+   "kind": "dialog",
+   "speaker": "Chiaotzu",
+   "text": "I'll wait."
+  },
+  {
+   "i": 172,
+   "start": 510.54,
+   "end": 512.86,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "Next: ...Yamcha."
+  },
+  {
+   "i": 173,
+   "start": 514.36,
+   "end": 518.04,
+   "kind": "dialog",
+   "speaker": "Yamcha",
+   "text": "Wah! Water in my cast! I'm gonna get gangrene! Aaah!"
+  },
+  {
+   "i": 174,
+   "start": 518.04,
+   "end": 520.38,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "And I guess you wanna wish back your dad now, huh?"
+  },
+  {
+   "i": 175,
+   "start": 520.38,
+   "end": 522.2,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Actually, we wanna save him for last."
+  },
+  {
+   "i": 176,
+   "start": 523.98,
+   "end": 526.42,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "...Yeah. Like I said, you wanna wish your dad back, right?"
+  },
+  {
+   "i": 177,
+   "start": 526.42,
+   "end": 528.26,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Dende, we have to wish Krillin back."
+  },
+  {
+   "i": 178,
+   "start": 528.26,
+   "end": 530.66,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Urrrgh... fine."
+  },
+  {
+   "i": 179,
+   "start": 530.66,
+   "end": 533.68,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "We wish back... *Krillin*."
+  },
+  {
+   "i": 180,
+   "start": 534.16,
+   "end": 541.86,
+   "kind": "dialog",
+   "speaker": "Krillin",
+   "text": "WAH!"
+  },
+  {
+   "i": 181,
+   "start": 536.42,
+   "end": 537.94,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Krillin! You're alive!"
+  },
+  {
+   "i": 182,
+   "start": 539.24,
+   "end": 540.68,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Eh, just give him a minute."
+  },
+  {
+   "i": 183,
+   "start": 541.86,
+   "end": 547.18,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "And now, last but not least: Bring back my *Dad*!"
+  },
+  {
+   "i": 184,
+   "start": 547.4,
+   "end": 549.78,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Bring back his dad!"
+  },
+  {
+   "i": 185,
+   "start": 553.06,
+   "end": 554.82,
+   "kind": "dialog",
+   "speaker": "Porunga",
+   "text": "I cannot do this."
+  },
+  {
+   "i": 186,
+   "start": 554.82,
+   "end": 557.14,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Hahahaha, uh... what?"
+  },
+  {
+   "i": 187,
+   "start": 557.14,
+   "end": 560.06,
+   "kind": "dialog",
+   "speaker": "Porunga",
+   "text": "The one called Goku is still alive!"
+  },
+  {
+   "i": 188,
+   "start": 560.06,
+   "end": 562.02,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Wh-what? He is?!"
+  },
+  {
+   "i": 189,
+   "start": 562.02,
+   "end": 564.2,
+   "kind": "dialog",
+   "speaker": "Bulma",
+   "text": "That's great! Then just wish him here."
+  },
+  {
+   "i": 190,
+   "start": 564.2,
+   "end": 566.9,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Dragon, will my father here!"
+  },
+  {
+   "i": 191,
+   "start": 568.74,
+   "end": 571.5,
+   "kind": "dialog",
+   "speaker": "Porunga",
+   "text": "Uhh, sorry. Can't do that either."
+  },
+  {
+   "i": 192,
+   "start": 572.16,
+   "end": 573.06,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "...OK, what?"
+  },
+  {
+   "i": 193,
+   "start": 573.3,
+   "end": 576.58,
+   "kind": "dialog",
+   "speaker": "Porunga",
+   "text": "The one called Goku wishes not to return!"
+  },
+  {
+   "i": 194,
+   "start": 577.1,
+   "end": 577.84,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Pardon?"
+  },
+  {
+   "i": 195,
+   "start": 577.84,
+   "end": 579.58,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "He said your father wishes not to return--"
+  },
+  {
+   "i": 196,
+   "start": 579.58,
+   "end": 582.3,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "I heard what he said! I want an explanation!"
+  },
+  {
+   "i": 197,
+   "start": 582.3,
+   "end": 589.28,
+   "kind": "dialog",
+   "speaker": "Porunga",
+   "text": "Well, I'm sorry. Wishing all your other friends back to life and building a *planet* has left me a *little* worn out!"
+  },
+  {
+   "i": 198,
+   "start": 589.28,
+   "end": 595.04,
+   "kind": "dialog",
+   "speaker": "Porunga",
+   "text": "He doesn't wanna come back. End of story. Now if you have another wish for me, I can try that."
+  },
+  {
+   "i": 199,
+   "start": 595.04,
+   "end": 596.98,
+   "kind": "dialog",
+   "speaker": "Porunga",
+   "text": "Otherwise, bite me."
+  },
+  {
+   "i": 200,
+   "start": 597.6,
+   "end": 605.04,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Gohan, I... I know it must be hard... but maybe your dad is off somewhere else, doing something really important."
+  },
+  {
+   "i": 201,
+   "start": 605.82,
+   "end": 611.8,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "I just want you to know that... that I'm here for you and, and that... I... I love you."
+  },
+  {
+   "i": 202,
+   "start": 612.54,
+   "end": 614.08,
+   "kind": "dialog",
+   "speaker": "Gohan",
+   "text": "Wh--... what?"
+  },
+  {
+   "i": 203,
+   "start": 614.44,
+   "end": 620.28,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "Wha... what did I... d-did I say it too soon? Oh God, I said it too soon! Oh God, I f**ked it up!"
+  },
+  {
+   "i": 204,
+   "start": 620.28,
+   "end": 623.22,
+   "kind": "dialog",
+   "speaker": "Dende",
+   "text": "DRAGON! Take everyone from Old Namek and put them on New Namek!"
+  },
+  {
+   "i": 205,
+   "start": 629.56,
+   "end": 632.0,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Calm, soothing music"
+  },
+  {
+   "i": 206,
+   "start": 640.24,
+   "end": 641.06,
+   "kind": "dialog",
+   "speaker": "Dr. Briefs",
+   "text": "What a *fa*--!"
+  },
+  {
+   "i": 207,
+   "start": 650.7,
+   "end": 655.68,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "This ship will take me where I need to go. Now I can train, without *anyone* bothering me--"
+  },
+  {
+   "i": 208,
+   "start": 655.68,
+   "end": 657.36,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♪ \"Ghostbusters\" ringtone ♪"
+  },
+  {
+   "i": 209,
+   "start": 657.36,
+   "end": 659.84,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "...The hell is that? A phone?"
+  },
+  {
+   "i": 210,
+   "start": 657.36,
+   "end": 660.84,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♪ \"Ghostbusters\" ringtone ♪"
+  },
+  {
+   "i": 211,
+   "start": 661.3,
+   "end": 664.86,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Hey! It's me. Don't ask me how I got this number; I've got people."
+  },
+  {
+   "i": 212,
+   "start": 664.86,
+   "end": 666.94,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "What the hell is *going on*?!"
+  },
+  {
+   "i": 213,
+   "start": 666.94,
+   "end": 677.76,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "OK, listen. I figured out that they used the Dragon Balls to wish back *everyone* that was killed by Freeza's men. Technically, you worked for Freeza when you killed me, so BAM, Nappa's back baby! WOOHWOOH!"
+  },
+  {
+   "i": 214,
+   "start": 677.76,
+   "end": 679.28,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "What about all the ones *you* killed?"
+  },
+  {
+   "i": 215,
+   "start": 679.28,
+   "end": 682.62,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Well, technically I worked for you, but that has *changed*."
+  },
+  {
+   "i": 216,
+   "start": 682.76,
+   "end": 684.42,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "I'm in Hollywood now!"
+  },
+  {
+   "i": 217,
+   "start": 684.42,
+   "end": 687.12,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "What, are they doing a live adaptation of \"Mr. Clean\"?"
+  },
+  {
+   "i": 218,
+   "start": 687.36,
+   "end": 693.88,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Ha! That's hilarious! Find me the guy who writes your material and give me his number, because I'm a producer now!"
+  },
+  {
+   "i": 219,
+   "start": 693.88,
+   "end": 696.08,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "Of course you are. What do you even *do*?"
+  },
+  {
+   "i": 220,
+   "start": 696.08,
+   "end": 699.38,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Actually, I'm in charge of this new project; wrote it myself!"
+  },
+  {
+   "i": 221,
+   "start": 699.38,
+   "end": 705.06,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "It's about this one guy who's killed tragically by his best friend, but then comes back as a ghost and haunts him!"
+  },
+  {
+   "i": 222,
+   "start": 705.06,
+   "end": 707.68,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "I call it, \"Citizen Nappa\"!"
+  },
+  {
+   "i": 223,
+   "start": 707.68,
+   "end": 713.72,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Merchandising rights alone are gonna make a f**king mint! We just singed on this great new actor, too - name's Mark Satan."
+  },
+  {
+   "i": 224,
+   "start": 713.72,
+   "end": 716.94,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Need to work on the first name, thinking \"Hercule\". What d'ya think?"
+  },
+  {
+   "i": 225,
+   "start": 716.94,
+   "end": 718.74,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "I--"
+  },
+  {
+   "i": 226,
+   "start": 716.94,
+   "end": 718.74,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "What do I care, you're not on my Board!"
+  },
+  {
+   "i": 227,
+   "start": 718.74,
+   "end": 719.24,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "But I--"
+  },
+  {
+   "i": 228,
+   "start": 719.24,
+   "end": 722.6,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "Listen - I'll see you around, and when you're back on Earth, give me a call."
+  },
+  {
+   "i": 229,
+   "start": 722.6,
+   "end": 724.34,
+   "kind": "dialog",
+   "speaker": "Nappa",
+   "text": "We'll do lunch! Ciao!"
+  },
+  {
+   "i": 230,
+   "start": 724.34,
+   "end": 724.84,
+   "kind": "direction",
+   "speaker": null,
+   "text": "Nappa hangs up"
+  },
+  {
+   "i": 231,
+   "start": 728.56,
+   "end": 730.96,
+   "kind": "dialog",
+   "speaker": "Vegeta",
+   "text": "...God... damn it... Nappa..."
+  },
+  {
+   "i": 232,
+   "start": 730.96,
+   "end": 733.0,
+   "kind": "direction",
+   "speaker": null,
+   "text": "♫ Cha-La Head-Cha-La (2005 version) ♫"
+  },
+  {
+   "i": 233,
+   "start": 736.06,
+   "end": 736.96,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "♫ Sparking! ♫"
+  },
+  {
+   "i": 234,
+   "start": 738.12,
+   "end": 743.4,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "♫ Hikaru kumo o tsukinuke Fly Away (Fly Away) ♫ (Piercing the shining clouds, I fly away (fly away))"
+  },
+  {
+   "i": 235,
+   "start": 743.4,
+   "end": 749.34,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "♫ Karadajû ni hirogaru panorama ♫ (While a panorama spreads through my body)"
+  },
+  {
+   "i": 236,
+   "start": 750.6,
+   "end": 755.86,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "♫ Kao o kerareta chikyû ga okotte (okotte) ♫ (Kicked in the face, the Earth gets angry (gets angry))"
+  },
+  {
+   "i": 237,
+   "start": 755.86,
+   "end": 761.2,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "♫ Kazan o bakuhatsu saseru ♫ (And makes a volcano explode)"
+  },
+  {
+   "i": 238,
+   "start": 762.64,
+   "end": 768.2,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "♫ Toketa kôri no naka ni ♫ (Within the melted polar ice)"
+  },
+  {
+   "i": 239,
+   "start": 769.3,
+   "end": 776.92,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "♫ Kyôryû ga itara tamanori shikomitai ne ♫ (If there’s a dinosaur, I want to train it to balance on a ball)"
+  },
+  {
+   "i": 240,
+   "start": 778.22,
+   "end": 781.2,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "♫ CHA-LA HEAD-CHA-LA ♫"
+  },
+  {
+   "i": 241,
+   "start": 781.76,
+   "end": 785.46,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "♫ Mune ga pachi-pachi suru hodo ♫ (Just as loudly as my heart pounds)"
+  },
+  {
+   "i": 242,
+   "start": 785.46,
+   "end": 788.64,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "♫ Sawagu Genki-Dama ♫ (The Spirit Bomb roars)"
+  },
+  {
+   "i": 243,
+   "start": 788.64,
+   "end": 790.06,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "♫ Sparking! ♫"
+  },
+  {
+   "i": 244,
+   "start": 798.72,
+   "end": 802.86,
+   "kind": "dialog",
+   "speaker": null,
+   "text": "(Finished.)"
+  }
+ ],
+ "segments": [
+  {
+   "start": 33.5,
+   "end": 53.5,
+   "title": "MY ORGANS!",
+   "quote": "HAAAAH! MY ORGANS! Stay in there! Stay in your home! Daddy needs you! / Guess you could call this a slice of life.",
+   "line_start": 8,
+   "line_end": 15
+  },
+  {
+   "start": 55.2,
+   "end": 84.0,
+   "title": "A Cup of Energy",
+   "quote": "...as one neighbor to another... can you spare a cup of energy? / NO! NO! NO! NO! / Now, be responsible with this energy! ... Or on the drugs.",
+   "line_start": 17,
+   "line_end": 22
+  },
+  {
+   "start": 94.3,
+   "end": 120.0,
+   "title": "Maybe I Was Wrong... Naaah!",
+   "quote": "'*Maybe*... I was wrong.' / *Naaah*! / God dang it Freezer, now I have to give you more!",
+   "line_start": 27,
+   "line_end": 34
+  },
+  {
+   "start": 185.4,
+   "end": 215.0,
+   "title": "And So Is He",
+   "quote": "*There*! / *YES*!! / YAAAAAAAAY--! / Goku could not escape the explosion. Namek is gone... and so is he.",
+   "line_start": 52,
+   "line_end": 61
+  },
+  {
+   "start": 225.9,
+   "end": 253.0,
+   "title": "Death Has No Consequence",
+   "quote": "Hell, this is Chiaotzu's second time! / Next time I get a free sundae!",
+   "line_start": 66,
+   "line_end": 75
+  },
+  {
+   "start": 278.7,
+   "end": 309.0,
+   "title": "My Good Leg",
+   "quote": "*I have been dead*! / Well then, I guess he's just more of a man than you, isn't he? / Tenshinhan. / DOOHH-HOOHH, MY GOOD LEG!!",
+   "line_start": 84,
+   "line_end": 99
+  },
+  {
+   "start": 319.1,
+   "end": 337.3,
+   "title": "Gohan, Goku's Dead",
+   "quote": "Gohan, Goku's dead. / Dammit! / Namekians, your planet blew up. / DAMMIT! / My Dad's a billionaire genius playboy philanthropist.",
+   "line_start": 105,
+   "line_end": 111
+  },
+  {
+   "start": 375.4,
+   "end": 409.0,
+   "title": "Namekian Sleepover Montage",
+   "quote": "Alright, sprouts... lay 'em on the table. / Yes, but this one has the N-word taken out! / 'You're not meditating, you're *napping*!'",
+   "line_start": 125,
+   "line_end": 138
+  },
+  {
+   "start": 465.5,
+   "end": 497.4,
+   "title": "That's Just a Dick Move",
+   "quote": "...can we just get, like, six wishes? / And a planet. / Oh, that's just a dick move! / Donezo.",
+   "line_start": 157,
+   "line_end": 166
+  },
+  {
+   "start": 597.2,
+   "end": 623.2,
+   "title": "I Said It Too Soon",
+   "quote": "I just want you to know that... I... I love you. / Wh--... what? / Oh God, I said it too soon! Oh God, I f**ked it up!",
+   "line_start": 200,
+   "line_end": 204
+  },
+  {
+   "start": 660.9,
+   "end": 679.3,
+   "title": "Nappa's Back, Baby",
+   "quote": "Technically, you worked for Freeza when you killed me, so BAM, Nappa's back baby! WOOHWOOH!",
+   "line_start": 211,
+   "line_end": 214
+  },
+  {
+   "start": 693.5,
+   "end": 717.5,
+   "title": "Citizen Nappa",
+   "quote": "I call it, \"Citizen Nappa\"! / ...name's Mark Satan. Need to work on the first name, thinking \"Hercule\".",
+   "line_start": 219,
+   "line_end": 224
+  }
+ ]
+}
