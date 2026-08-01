@@ -1,0 +1,38 @@
+---
+import Base from "../../../layouts/Base.astro";
+import site from "../../../gen/site.json";
+import { fmtTime, mediaLabel } from "../../../lib/util.js";
+
+export function getStaticPaths() {
+  return site.groups.map((g) => ({ params: { show: g.show, id: g.id }, props: { group: g } }));
+}
+const { show } = Astro.params;
+const { group } = Astro.props;
+const clips = group.clips
+  .map((cid) => site.clips.find((c) => c.id === cid && c.show === show))
+  .filter(Boolean);
+const mediaById = Object.fromEntries(site.media[show].map((m) => [m.id, m]));
+const cover = clips.find((c) => c.image)?.image;
+---
+
+<Base
+  title={`${group.title} — running gag | DBZA Quotes`}
+  description={group.blurb}
+  ogImage={cover ? new URL(cover, Astro.site).href : null}
+  wide
+>
+  <p class="meta"><a class="backlink" href="/quotes/">← Quotes</a></p>
+  <h1>{group.title}</h1>
+  <p class="meta" style="margin-top:-0.4rem">{group.blurb}</p>
+  <div class="clip-grid" style="margin-top:1rem">
+    {clips.map((c) => (
+      <a class="clip-card" href={`/clip/${show}/${c.id}/`} title={c.quote}>
+        {c.image && <img loading="lazy" src={c.image} alt={c.quote} />}
+        <div class="pad">
+          <div class="title">{c.title}</div>
+          <div class="meta">{c.speaker} · {mediaLabel(mediaById[c.media])} · {fmtTime(c.start)}</div>
+        </div>
+      </a>
+    ))}
+  </div>
+</Base>

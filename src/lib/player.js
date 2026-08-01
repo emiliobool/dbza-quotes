@@ -23,9 +23,9 @@ const fmt = (s) => {
   return `${Math.floor(s / 60)}:${String(s % 60).padStart(2, "0")}`;
 };
 
-export async function createClipPlayer({ mountId, youtube, lines, captionEl, controlsEl, onTime, start = 0, end = null }) {
+export async function createClipPlayer({ mountId, youtube, lines, captionEl, controlsEl, onTime, start = 0, end = null, loop = true }) {
   await loadApi();
-  const state = { start, end, player: null, scrubbing: false };
+  const state = { start, end, loop, player: null, scrubbing: false };
 
   await new Promise((ready) => {
     state.player = new window.YT.Player(mountId, {
@@ -107,9 +107,13 @@ export async function createClipPlayer({ mountId, youtube, lines, captionEl, con
         scrub.value = Math.min(Math.max(t, state.start), state.end ?? t);
         paintScrub();
       }
-      timeLabel.textContent = `${fmt(Math.max(0, t - state.start))} / ${fmt((state.end ?? t) - state.start)}`;
+      const span = (state.end ?? t) - state.start;
+      timeLabel.textContent = `${fmt(Math.min(span, Math.max(0, t - state.start)))} / ${fmt(span)}`;
     }
-    if (state.end != null && playing && t >= state.end && !state.scrubbing) p.pauseVideo();
+    if (state.end != null && playing && t >= state.end && !state.scrubbing) {
+      if (state.loop) p.seekTo(state.start, true);
+      else p.pauseVideo();
+    }
     onTime?.(t);
   }
   setInterval(tick, 250);
@@ -126,6 +130,7 @@ export async function createClipPlayer({ mountId, youtube, lines, captionEl, con
       state.player.seekTo(t, true);
       if (play) state.player.playVideo();
     },
+    pause() { state.player.pauseVideo?.(); },
   };
 }
 

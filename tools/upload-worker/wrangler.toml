@@ -1,0 +1,9 @@
+# Temporary bulk-upload worker for the dbza-frames bucket.
+# Deploy, run tools/upload_frames.py, then `wrangler delete` this worker.
+name = "dbza-frames-uploader"
+main = "worker.js"
+compatibility_date = "2026-07-01"
+
+[[r2_buckets]]
+binding = "BUCKET"
+bucket_name = "dbza-frames"

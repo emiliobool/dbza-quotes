@@ -29,7 +29,7 @@ const shows = readdirSync(join(CONTENT, "shows"))
   .filter((f) => f.endsWith(".yaml"))
   .map((f) => readYaml(join(CONTENT, "shows", f)));
 
-const site = { shows: [], media: {}, clips: [] };
+const site = { shows: [], media: {}, clips: [], groups: [] };
 
 for (const show of shows) {
   const mediaDir = join(CONTENT, "media", show.id);
@@ -45,12 +45,16 @@ for (const show of shows) {
     const t = readJson(join(CONTENT, "transcripts", show.id, `${m.id}.json`));
     if (t.youtube !== m.youtube) errors.push(`${show.id}/${m.id}: youtube mismatch`);
     const lines = t.lines.map((l) => [l.start, l.end, l.kind, l.speaker, l.text]);
+    // per-line frame overrides: {line_i: t} — else the frame is the line's midpoint
+    const ovPath = join(CONTENT, "frame-overrides", show.id, `${m.id}.yaml`);
+    const overrides = existsSync(ovPath) ? readYaml(ovPath) ?? {} : {};
     write(join(PUB, "transcripts", show.id, `${m.id}.json`), {
       item: m.id,
       youtube: m.youtube,
       title: m.title,
       duration: m.duration,
       lines,
+      overrides,
       segments: t.segments,
     });
     for (const l of t.lines) {
@@ -92,9 +96,22 @@ for (const show of shows) {
       errors.push(`clip ${c.id}: bad range ${c.start}-${c.end}`);
   }
 
+  // groups (running gags / collections)
+  const groupsDir = join(CONTENT, "groups", show.id);
+  const groups = existsSync(groupsDir)
+    ? readdirSync(groupsDir).filter((f) => f.endsWith(".yaml")).map((f) => readYaml(join(groupsDir, f)))
+    : [];
+  const clipIds = new Set(clips.map((c) => c.id));
+  for (const g of groups)
+    for (const cid of g.clips)
+      if (!clipIds.has(cid)) errors.push(`group ${g.id}: unknown clip ${cid}`);
+  const groupByClip = {};
+  for (const g of groups) for (const cid of g.clips) groupByClip[cid] = g.id;
+
   site.shows.push(show);
   site.media[show.id] = media;
-  site.clips.push(...clips.map((c) => ({ ...c, show: show.id })));
+  site.groups.push(...groups.map((g) => ({ ...g, show: show.id })));
+  site.clips.push(...clips.map((c) => ({ ...c, show: show.id, group: groupByClip[c.id] ?? null })));
 
   write(join(PUB, "media.json"), Object.fromEntries(
     Object.entries(site.media).map(([sid, list]) => [

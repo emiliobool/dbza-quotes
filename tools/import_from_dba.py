@@ -107,8 +107,13 @@ def main():
     matched = json.loads((SRC / "default_clips.json").read_text())["matched"]
     used = set()
     published = drafts = 0
+    tcache = {}
     for r in matched:
         item = vid_to_item[r["video_id"]]
+        # main quote = the matched transcript line (clip start/end is the context window)
+        if item not in tcache:
+            tcache[item] = json.loads((CONTENT / "transcripts" / "dbza" / f"{item}.json").read_text())
+        qline = tcache[item]["lines"][r["line_i"]] if r.get("line_i") is not None else None
         base = slugify(r["segment"] or r["quote"])
         slug = base
         n = 2
@@ -127,6 +132,8 @@ def main():
             "end": r["clip_end"],
             "title": r["segment"] or r["quote"][:80],
             "quote": r["quote"],
+            "quote_start": qline["start"] if qline else None,
+            "quote_end": qline["end"] if qline else None,
             "speaker": r["speaker"],
             "tags": [slugify(r["speaker"])] if r["speaker"] else [],
             "status": "published" if corroborated else "draft",

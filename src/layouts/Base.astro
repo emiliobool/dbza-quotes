@@ -900,4 +900,91 @@ const isOn = (p) => (p === "/" ? path === "/" : path.startsWith(p));
   @media (prefers-reduced-motion: reduce) {
     * { transition-duration: 0.01ms !important; animation-duration: 0.01ms !important; }
   }
+  /* ---------- quote navigator additions ---------- */
+  /* controls overlaid on the video, revealed on hover (always shown on touch) */
+  .player-wrap.has-overlay { overflow: hidden; }
+  .player-wrap .clip-controls.overlay {
+    position: absolute;
+    left: 0; right: 0; bottom: 0;
+    margin: 0;
+    border: 0;
+    border-radius: 0;
+    background: linear-gradient(180deg, transparent, rgba(5, 7, 10, 0.88) 45%);
+    padding: 1.1rem 0.85rem 0.55rem;
+    opacity: 0;
+    transition: opacity 0.18s ease;
+    z-index: 2;
+  }
+  .player-wrap:hover .clip-controls.overlay,
+  .player-wrap:focus-within .clip-controls.overlay { opacity: 1; }
+  @media (hover: none) { .player-wrap .clip-controls.overlay { opacity: 1; } }
+
+  .media-tabs { display: flex; gap: 0.4rem; margin-bottom: 0.6rem; }
+  .mtab {
+    background: var(--bg3);
+    color: var(--fg-dim);
+    border: 1px solid var(--border);
+    border-radius: 9px;
+    padding: 0.42rem 0.95rem;
+    font-family: var(--font-display);
+    font-weight: 800;
+    font-size: 0.74rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    cursor: pointer;
+  }
+  .mtab.on {
+    background: linear-gradient(135deg, #ffc247, var(--accent-hot));
+    color: var(--ink);
+    border-color: transparent;
+  }
+
+  /* per-line frame thumbnails in the transcript panel */
+  .transcript .line .lthumb {
+    width: 72px;
+    aspect-ratio: 16/9;
+    object-fit: cover;
+    border-radius: 5px;
+    flex: none;
+    background: #0d1117;
+    border: 1px solid var(--border);
+  }
+  .transcript .line .lthumb.spacer { visibility: hidden; height: 0; border: 0; }
+  .transcript .line .lthumb.dead { display: none; }
+  .transcript .line.in-quote {
+    background: rgba(255, 167, 34, 0.12);
+    box-shadow: inset 3px 0 0 var(--accent);
+  }
+  .dialog-panel { position: relative; }
+  .dialog-panel .line { cursor: pointer; }
+  @media (max-width: 949px) {
+    /* own scroll area on mobile so playback highlighting never drags the page */
+    .dialog-panel { max-height: 46vh; overflow-y: auto; }
+  }
+
+  /* image maker */
+  .imgmaker { display: grid; gap: 0.6rem; }
+  .imgmaker canvas {
+    width: 100%;
+    height: auto;
+    border-radius: var(--radius);
+    border: 1px solid var(--border);
+    background: #000;
+    display: block;
+  }
+  .imgmaker-bar { display: grid; gap: 0.5rem; }
+  .frame-step { display: flex; align-items: center; gap: 0.6rem; }
+  .frame-step .btn { padding: 0.3rem 0.7rem; }
+  .imgmaker textarea { resize: vertical; font-size: 0.95rem; }
+
+  .group-chip {
+    display: inline-block;
+    background: var(--accent2-soft);
+    border: 1px solid rgba(77, 163, 255, 0.4);
+    color: var(--accent2);
+    border-radius: 99px;
+    padding: 0.05rem 0.6rem;
+    font-size: 0.78rem;
+  }
+  #nav-hint { font-size: 0.8rem; }
 </style>
