@@ -22,8 +22,8 @@ import requests
 ROOT = Path(__file__).parent.parent
 STORE = ROOT / "frames-store"
 MANIFEST = STORE / ".uploaded.txt"
-BATCH = 40
-WORKERS = 5
+BATCH = 60
+WORKERS = 10
 
 URL = os.environ.get("UPLOAD_URL", "").rstrip("/")
 TOKEN = os.environ.get("UPLOAD_TOKEN", "")

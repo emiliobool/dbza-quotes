@@ -9,18 +9,18 @@ export default {
     const url = new URL(request.url);
     if (request.method === "POST" && url.pathname === "/batch") {
       const form = await request.formData();
-      let n = 0;
+      const puts = [];
       for (const [key, value] of form.entries()) {
         if (typeof value === "string") continue;
-        await env.BUCKET.put(key, value.stream(), {
+        puts.push(env.BUCKET.put(key, value.stream(), {
           httpMetadata: {
             contentType: "image/webp",
             cacheControl: "public, max-age=31536000, immutable",
           },
-        });
-        n++;
+        }));
       }
-      return Response.json({ ok: true, uploaded: n });
+      await Promise.all(puts);
+      return Response.json({ ok: true, uploaded: puts.length });
     }
     if (request.method === "GET" && url.pathname === "/count") {
       // spot check: list one page under a prefix

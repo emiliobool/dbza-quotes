@@ -26,12 +26,9 @@ const cover = clips.find((c) => c.image)?.image;
   <p class="meta" style="margin-top:-0.4rem">{group.blurb}</p>
   <div class="clip-grid" style="margin-top:1rem">
     {clips.map((c) => (
-      <a class="clip-card" href={`/clip/${show}/${c.id}/`} title={c.quote}>
+      <a class="clip-card bare" href={`/clip/${show}/${c.id}/`} title={`${c.title} — ${c.speaker ?? ""} · ${mediaLabel(mediaById[c.media])} · ${fmtTime(c.start)}`}>
         {c.image && <img loading="lazy" src={c.image} alt={c.quote} />}
-        <div class="pad">
-          <div class="title">{c.title}</div>
-          <div class="meta">{c.speaker} · {mediaLabel(mediaById[c.media])} · {fmtTime(c.start)}</div>
-        </div>
+        <span class="ep-tag">{mediaLabel(mediaById[c.media]).replace("Episode", "Ep")}</span>
       </a>
     ))}
   </div>

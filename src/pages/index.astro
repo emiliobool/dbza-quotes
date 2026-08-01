@@ -112,9 +112,8 @@ const nLines = null; // shown client-side
   // top quotes on the home view
   const top = [...clips].sort((a, b) => (b.signal || 0) - (a.signal || 0)).slice(0, 6);
   $("#top-clips").innerHTML = top.map((c) => `
-    <a class="clip-card" href="/clip/dbza/${c.id}/" title="${esc(c.quote)}">
+    <a class="clip-card bare" href="/clip/dbza/${c.id}/" title="${esc(c.title)} — ${esc(c.speaker || "")} · ${esc(mediaLabel(media[c.media]))}">
       <img loading="lazy" src="${c.image ?? `https://i.ytimg.com/vi/${media[c.media]?.youtube}/mqdefault.jpg`}" alt="${esc(c.quote)}">
-      <div class="pad"><div class="title">${esc(c.title)}</div>
-      <div class="meta">${esc(c.speaker || "")} · ${esc(mediaLabel(media[c.media]))}</div></div>
+      <span class="ep-tag">${esc(mediaLabel(media[c.media]).replace("Episode", "Ep"))}</span>
     </a>`).join("");
 </script>

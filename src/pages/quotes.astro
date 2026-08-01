@@ -26,13 +26,10 @@ const mediaById = Object.fromEntries(site.media.dbza.map((m) => [m.id, m]));
     {clips.map((c) => {
       const m = mediaById[c.media];
       return (
-        <a class="clip-card" href={`/clip/dbza/${c.id}/`} title={c.quote}
+        <a class="clip-card bare" href={`/clip/dbza/${c.id}/`} title={`${c.title} — ${c.speaker ?? ""} · ${mediaLabel(m)} · ${fmtTime(c.start)}`}
           data-k={`${c.title} ${c.quote} ${c.speaker} ${mediaLabel(m)}`.toLowerCase()}>
           <img loading="lazy" src={c.image ?? ytThumb(m.youtube, "mqdefault")} alt={c.quote} />
-          <div class="pad">
-            <div class="title">{c.title}</div>
-            <div class="meta">{c.speaker} · {mediaLabel(m)} · {fmtTime(c.start)}</div>
-          </div>
+          <span class="ep-tag">{mediaLabel(m).replace("Episode", "Ep")}</span>
         </a>
       );
     })}

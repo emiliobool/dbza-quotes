@@ -78,14 +78,23 @@ const inCtx = (l) => clip && l.end > clip.start && l.start < clip.end;
       </div>
     </div>
 
-    <div class="btn-row">
-      <button class="btn primary" id="copy-link" title="Copy this quote's link">Copy link</button>
-      <button class="btn" id="copy-yt" title="Copy a YouTube link at this timestamp — plays inline on Discord">YouTube</button>
-      <button class="btn" id="copy-quote" title="Copy the dialog as text">Quote</button>
-      <button class="btn" id="save-clip" title="Save on this device">☆</button>
-      <button class="btn" id="submit-clip" title="Suggest this quote for the public list">Suggest</button>
+    <div class="action-bar">
+      <button class="abtn primary" id="copy-link" title="Copy link to this quote" aria-label="Copy link">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M10 13a5 5 0 0 0 7.5.5l3-3a5 5 0 0 0-7-7l-1.7 1.7"/><path d="M14 11a5 5 0 0 0-7.5-.5l-3 3a5 5 0 0 0 7 7l1.7-1.7"/></svg>
+      </button>
+      <button class="abtn" id="copy-yt" title="Copy YouTube link — plays inline on Discord" aria-label="Copy YouTube link">
+        <svg viewBox="0 0 24 24" fill="currentColor"><path d="M23 7.5a4 4 0 0 0-2.8-2.9C18 4 12 4 12 4s-6 0-8.2.6A4 4 0 0 0 1 7.5 42 42 0 0 0 .6 12 42 42 0 0 0 1 16.5a4 4 0 0 0 2.8 2.9C6 20 12 20 12 20s6 0 8.2-.6a4 4 0 0 0 2.8-2.9A42 42 0 0 0 23.4 12 42 42 0 0 0 23 7.5zM9.8 15.3V8.7L15.7 12l-5.9 3.3z"/></svg>
+      </button>
+      <button class="abtn" id="copy-quote" title="Copy the dialog as text" aria-label="Copy quote text">
+        <svg viewBox="0 0 24 24" fill="currentColor"><path d="M10 7H5a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h2v3l1.8-.9A6 6 0 0 0 12 11.6V9a2 2 0 0 0-2-2zm11 0h-5a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h2v3l1.8-.9A6 6 0 0 0 23 11.6V9a2 2 0 0 0-2-2z"/></svg>
+      </button>
+      <button class="abtn" id="save-clip" title="Save on this device" aria-label="Save">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M12 2.7l2.9 5.9 6.5.9-4.7 4.6 1.1 6.5L12 17.5l-5.8 3.1 1.1-6.5L2.6 9.5l6.5-.9L12 2.7z"/></svg>
+      </button>
+      <button class="abtn" id="submit-clip" title="Suggest this quote for the public list" aria-label="Suggest for the quotes page">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 2 11 13"/><path d="M22 2 15 22l-4-9-9-4 20-7z"/></svg>
+      </button>
     </div>
-    <p class="meta" id="nav-hint">Click any line to jump to that quote — shift-click to span multiple lines.</p>
   </div>
 
   <div class="transcript card dialog-panel" id="dialog">
@@ -117,17 +126,25 @@ const inCtx = (l) => clip && l.end > clip.start && l.start < clip.end;
     <h2>More from this one</h2>
     <div class="clip-grid">
       {related.map((c) => (
-        <a class="clip-card" href={`/clip/${show}/${c.id}/`} title={c.quote}>
+        <a class="clip-card bare" href={`/clip/${show}/${c.id}/`} title={`${c.title} — ${c.speaker ?? ""} · ${fmtTime(c.start)}`}>
           {c.image && <img loading="lazy" src={c.image} alt={c.quote} />}
-          <div class="pad">
-            <div class="title">{c.title}</div>
-            <div class="meta">{c.speaker} · {fmtTime(c.start)}</div>
-          </div>
+          <span class="ep-tag">{fmtTime(c.start)}</span>
         </a>
       ))}
     </div>
   </>
 )}
+
+<div class="ep-strip-wrap">
+  <div class="ep-strip" id="ep-strip" title="Jump to another episode or movie">
+    {site.media[show].map((em) => (
+      <a class:list={["ep-card", { on: em.id === item }]} href={`/c/${show}/${em.id}/`} title={em.title}>
+        <img loading="lazy" decoding="async" src={`https://i.ytimg.com/vi/${em.youtube}/default.jpg`} alt={em.title} />
+        <span>{em.kind === "episode" ? `E${em.number}` : `M${em.number}`}</span>
+      </a>
+    ))}
+  </div>
+</div>
 
 <div class="toast" id="toast"></div>
 <script
@@ -157,4 +174,9 @@ const inCtx = (l) => clip && l.end > clip.start && l.start < clip.end;
 <script>
   import { initQuoteNav } from "../lib/quotenav.js";
   initQuoteNav(JSON.parse(document.getElementById("qn-cfg").textContent));
+
+  // center the current episode in the carousel
+  const strip = document.getElementById("ep-strip");
+  const cur = strip?.querySelector(".ep-card.on");
+  if (strip && cur) strip.scrollLeft = cur.offsetLeft - strip.clientWidth / 2 + cur.clientWidth / 2;
 </script>
