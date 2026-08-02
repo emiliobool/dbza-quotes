@@ -16,8 +16,10 @@ export async function onRequestGet({ request, env }) {
   const qt = Math.round(t * 2) / 2;
   const qd = Math.min(120, Math.max(1, Math.round(d * 2) / 2));
 
+  // deploy sha in the key so a new deploy never serves last week's shell
+  const v = env.CF_PAGES_COMMIT_SHA ?? "dev";
   const cache = caches.default;
-  const cacheKey = new Request(`${url.origin}${url.pathname}?t=${qt}&d=${qd}`);
+  const cacheKey = new Request(`${url.origin}${url.pathname}?t=${qt}&d=${qd}&__v=${v}`);
   const hit = await cache.match(cacheKey);
   if (hit) return hit;
 
@@ -46,7 +48,8 @@ export async function onRequestGet({ request, env }) {
     .transform(shell);
 
   const resp = new Response(rewritten.body, rewritten);
-  resp.headers.set("cache-control", "public, s-maxage=604800");
+  // edge caches per-deploy (see cacheKey); browsers must always revalidate
+  resp.headers.set("cache-control", "public, max-age=0, must-revalidate, s-maxage=604800");
   await cache.put(cacheKey, resp.clone());
   return resp;
 }

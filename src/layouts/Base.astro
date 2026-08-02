@@ -1053,21 +1053,25 @@ const isOn = (p) => (p === "/" ? path === "/" : path.startsWith(p));
     position: absolute;
     right: 8px;
     z-index: 3;
-    width: 24px;
-    height: 24px;
     transform: translateY(-50%);
+    display: flex;
+    gap: 3px;
+  }
+  .ext-handle button {
+    width: 23px;
+    height: 23px;
     border-radius: 50%;
     border: 1px solid var(--accent);
     background: var(--bg2);
     color: var(--accent);
-    font-size: 16px;
-    line-height: 1;
     display: grid;
     place-items: center;
     cursor: pointer;
-    opacity: 0.9;
+    opacity: 0.92;
+    padding: 0;
   }
-  .ext-handle:hover { background: var(--accent); color: var(--ink); opacity: 1; }
+  .ext-handle button svg { width: 13px; height: 13px; }
+  .ext-handle button:hover { background: var(--accent); color: var(--ink); opacity: 1; }
   @media (max-width: 949px) {
     /* own scroll area on mobile so playback highlighting never drags the page */
     .dialog-panel { max-height: 46vh; overflow-y: auto; }

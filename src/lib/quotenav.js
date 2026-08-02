@@ -60,6 +60,10 @@ export async function initQuoteNav(cfg) {
       st.curated = matchCurated();
     }
     st.frameT = defaultFrameT();
+    // shared image state: custom frame + edited caption
+    const f = parseFloat(params.get("f"));
+    if (Number.isFinite(f)) st.frameT = Math.max(0, Math.min(cfg.duration ?? f, f));
+    st.pendingTxt = params.get("txt");
   }
 
   function selLines() {
@@ -111,10 +115,16 @@ export async function initQuoteNav(cfg) {
   // ---------- render ----------
   function currentUrl() {
     const h = location.hash === "#video" ? "#video" : "";
-    if (st.curated) return `/clip/${cfg.show}/${st.curated.id}/${h}`;
-    const [qs, qe] = quoteSpan();
     const r = (x) => Math.round(x * 10) / 10;
-    return `/c/${cfg.show}/${cfg.item}/?t=${r(st.ctxStart)}&d=${r(st.ctxEnd - st.ctxStart)}&qs=${r(qs)}&qe=${r(qe)}${h}`;
+    // customized image state travels in the URL so shared links reproduce it
+    const extras = new URLSearchParams();
+    if (Math.abs(st.frameT - defaultFrameT()) > 0.26) extras.set("f", r(st.frameT));
+    const txt = imgText?.value ?? "";
+    if (txt && txt !== quoteText(false)) extras.set("txt", txt.slice(0, 300));
+    const ex = extras.toString();
+    if (st.curated) return `/clip/${cfg.show}/${st.curated.id}/${ex ? `?${ex}` : ""}${h}`;
+    const [qs, qe] = quoteSpan();
+    return `/c/${cfg.show}/${cfg.item}/?t=${r(st.ctxStart)}&d=${r(st.ctxEnd - st.ctxStart)}&qs=${r(qs)}&qe=${r(qe)}${ex ? `&${ex}` : ""}${h}`;
   }
 
   function render(push = true) {
@@ -134,9 +144,9 @@ export async function initQuoteNav(cfg) {
     }
     player.setRange(st.ctxStart, st.ctxEnd);
     $("#img-gif").hidden = sel.length < 2;
-    if (push) history.pushState({ a: st.selA, b: st.selB, cs: st.ctxStart, ce: st.ctxEnd }, "", currentUrl());
     imgState.text = quoteText(false);
     if (imgText) imgText.value = imgState.text;
+    if (push) history.pushState({ a: st.selA, b: st.selB, cs: st.ctxStart, ce: st.ctxEnd }, "", currentUrl());
     if (!$("#tab-image").hidden) { buildFilmstrip(); drawCard(); }
     placeHandles();
   }
@@ -161,45 +171,58 @@ export async function initQuoteNav(cfg) {
   // ---------- transcript interaction ----------
   // click = select exactly that line; shift-click / "+" handles / shift+arrows
   // grow the selection
-  let anchor = null;
+  let anchor = null, focusEnd = null; // text-editor selection: fixed anchor, moving focus
   $("#dialog").addEventListener("click", (e) => {
     const el = e.target.closest(".line");
     if (!el) return;
     const i = +el.dataset.i;
-    if (e.shiftKey && anchor !== null) navigateTo(anchor, i);
-    else { anchor = i; navigateTo(i, i); }
+    if (e.shiftKey && anchor !== null) { focusEnd = i; navigateTo(anchor, i); }
+    else { anchor = i; focusEnd = i; navigateTo(i, i); }
   });
 
-  // "+" handles at the selection edges — tap to include the previous/next
-  // line (the touch-friendly version of shift-click).
-  function nextDialog(i, dir) {
-    const j = i + dir;
-    return j >= 0 && j < lines.length ? j : null;
+  // Arrow handles at the selection edges: each edge can push outward (grow)
+  // or pull inward (shrink, only when more than one line is selected).
+  const CHEV_UP = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="m6 15 6-6 6 6"/></svg>`;
+  const CHEV_DN = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>`;
+  function mkEdge(buttons) {
+    const wrap = document.createElement("div");
+    wrap.className = "ext-handle";
+    for (const [svg, title, fn] of buttons) {
+      const b = document.createElement("button");
+      b.type = "button";
+      b.title = title;
+      b.innerHTML = svg;
+      b.addEventListener("click", (e) => {
+        e.stopPropagation();
+        fn();
+        anchor = st.selA;
+        focusEnd = st.selB;
+      });
+      wrap.appendChild(b);
+    }
+    panel.appendChild(wrap);
+    return wrap;
   }
-  function mkHandle(title, fn) {
-    const b = document.createElement("button");
-    b.type = "button";
-    b.className = "ext-handle";
-    b.title = title;
-    b.textContent = "+";
-    b.addEventListener("click", (e) => { e.stopPropagation(); fn(); });
-    panel.appendChild(b);
-    return b;
-  }
-  const extUp = mkHandle("Add the previous line to the quote", () => {
-    const j = nextDialog(st.selA, -1);
-    if (j !== null) navigateTo(j, st.selB, { play: false });
-  });
-  const extDn = mkHandle("Add the next line to the quote", () => {
-    const j = nextDialog(st.selB, 1);
-    if (j !== null) navigateTo(st.selA, j, { play: false });
-  });
+  const reselect = (a, b) => navigateTo(a, b, { play: false });
+  const edgeTop = mkEdge([
+    [CHEV_UP, "Add the line above", () => st.selA > 0 && reselect(st.selA - 1, st.selB)],
+    [CHEV_DN, "Remove the top line", () => st.selA < st.selB && reselect(st.selA + 1, st.selB)],
+  ]);
+  const edgeBot = mkEdge([
+    [CHEV_UP, "Remove the bottom line", () => st.selB > st.selA && reselect(st.selA, st.selB - 1)],
+    [CHEV_DN, "Add the line below", () => st.selB < lines.length - 1 && reselect(st.selA, st.selB + 1)],
+  ]);
   function placeHandles() {
     const a = lineEls[st.selA], b = lineEls[st.selB];
-    extUp.style.display = a && nextDialog(st.selA, -1) !== null ? "" : "none";
-    extDn.style.display = b && nextDialog(st.selB, 1) !== null ? "" : "none";
-    if (a) extUp.style.top = `${a.offsetTop}px`;
-    if (b) extDn.style.top = `${b.offsetTop + b.offsetHeight}px`;
+    const multi = st.selA < st.selB;
+    edgeTop.children[0].hidden = st.selA === 0;
+    edgeTop.children[1].hidden = !multi;
+    edgeBot.children[0].hidden = !multi;
+    edgeBot.children[1].hidden = st.selB === lines.length - 1;
+    edgeTop.style.display = a && (!edgeTop.children[0].hidden || !edgeTop.children[1].hidden) ? "" : "none";
+    edgeBot.style.display = b && (!edgeBot.children[0].hidden || !edgeBot.children[1].hidden) ? "" : "none";
+    if (a) edgeTop.style.top = `${a.offsetTop}px`;
+    if (b) edgeBot.style.top = `${b.offsetTop + b.offsetHeight}px`;
   }
 
   window.addEventListener("popstate", (e) => {
@@ -325,7 +348,7 @@ export async function initQuoteNav(cfg) {
       im.src = frameUrl(cfg.item, t);
       im.dataset.t = t;
       im.title = fmtTime(t);
-      im.addEventListener("click", () => { st.frameT = +im.dataset.t; markFilmstrip(); drawCard(); });
+      im.addEventListener("click", () => { st.frameT = +im.dataset.t; markFilmstrip(); drawCard(); syncUrl(); });
       fstrip.appendChild(im);
     }
     markFilmstrip();
@@ -348,7 +371,16 @@ export async function initQuoteNav(cfg) {
     }
   }, { passive: false });
 
-  imgText?.addEventListener("input", () => drawCard());
+  // keep the address bar in sync with customizations (replace, don't push)
+  function syncUrl() {
+    history.replaceState({ a: st.selA, b: st.selB, cs: st.ctxStart, ce: st.ctxEnd }, "", currentUrl());
+  }
+  let txtTimer;
+  imgText?.addEventListener("input", () => {
+    drawCard();
+    clearTimeout(txtTimer);
+    txtTimer = setTimeout(syncUrl, 350);
+  });
 
   const toast = (msg) => {
     const t = $("#toast");
@@ -437,12 +469,16 @@ export async function initQuoteNav(cfg) {
       e.preventDefault();
       const dir = e.key === "ArrowDown" ? 1 : -1;
       if (e.shiftKey) {
-        // grow at the edge the arrow points at
-        if (dir === 1 && st.selB < lines.length - 1) navigateTo(st.selA, st.selB + 1, { play: false });
-        if (dir === -1 && st.selA > 0) navigateTo(st.selA - 1, st.selB, { play: false });
+        // anchor stays put, the focus end moves — reverses to contract,
+        // exactly like text selection
+        anchor ??= st.selA;
+        focusEnd = Math.max(0, Math.min(lines.length - 1, (focusEnd ?? st.selB) + dir));
+        navigateTo(anchor, focusEnd, { play: false });
+        scrollPanelTo(lineEls[focusEnd]);
       } else {
         const i = Math.max(0, Math.min(lines.length - 1, (dir === 1 ? st.selB : st.selA) + dir));
         anchor = i;
+        focusEnd = i;
         navigateTo(i, i, { play: false });
         scrollPanelTo(lineEls[i]);
       }
@@ -470,6 +506,7 @@ export async function initQuoteNav(cfg) {
 
   // ---------- go ----------
   render(false);
+  if (st.pendingTxt != null && imgText) imgText.value = st.pendingTxt; // ?txt= from a shared link
   history.replaceState({ a: st.selA, b: st.selB, cs: st.ctxStart, ce: st.ctxEnd }, "", location.href);
   applyTab();
   // no initial seek: seekTo() on a cued player starts playback. The play
