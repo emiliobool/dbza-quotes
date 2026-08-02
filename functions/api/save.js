@@ -64,6 +64,20 @@ export async function onRequestPost({ request, env }) {
       "INSERT OR IGNORE INTO saved_clips (id, show, item, query, ip_hash) VALUES (?, ?, ?, ?, ?)"
     ).bind(id, c.show, c.item, query, ipHash).run();
 
+  // The saver's own page view already edge-cached a "no card yet" unfurl for
+  // this URL (300s TTL). Purge it — best-effort and per-colo, but the saver's
+  // colo is exactly where their next share gets crawled from most often.
+  // Reconstructs the cache key of functions/c/[[path]].js verbatim.
+  try {
+    const origin = new URL(request.url).origin;
+    const qt = Math.round(t * 2) / 2;
+    const qd = Math.min(120, Math.max(1, Math.round(d * 2) / 2));
+    const v = env.CF_PAGES_COMMIT_SHA ?? "dev";
+    await caches.default.delete(
+      new Request(`${origin}/c/${c.show}/${c.item}/?t=${qt}&d=${qd}&k=${cardKey}&__v=${v}`)
+    );
+  } catch {}
+
   return json({ ok: true, id, url: `/s/${id}`, existing: !!row });
 }
 
