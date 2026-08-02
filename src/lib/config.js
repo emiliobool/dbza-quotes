@@ -7,7 +7,11 @@ export function frameN(t) {
 }
 
 export function frameUrl(item, t) {
-  return `${FRAMES}/${item}/grid/${String(frameN(t)).padStart(6, "0")}.webp`;
+  // ?c partitions the edge cache: every in-app request carries an Origin header
+  // (crossorigin imgs / canvas), so these entries always cache WITH
+  // Access-Control-Allow-Origin. Origin-less fetches of the same frame (OG
+  // crawlers, direct hits) use the bare URL and can't poison canvas loads.
+  return `${FRAMES}/${item}/grid/${String(frameN(t)).padStart(6, "0")}.webp?c`;
 }
 
 /** Frame time for a transcript line: override if set, else the line's midpoint. */
