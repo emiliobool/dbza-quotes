@@ -41,12 +41,6 @@ const related = itemClips.slice(0, 8);
         <div class="canvas-wrap">
           <canvas id="imgcanvas" width="640" height="480"></canvas>
           <div id="panel-hits"></div>
-          <div class="canvas-actions">
-            <button id="cols-btn" hidden title="Panels per row" aria-label="Toggle one or two panels per row">
-              <svg data-cols="1" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="7" y="4" width="10" height="16" rx="1.5"/></svg>
-              <svg data-cols="2" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" hidden><rect x="4" y="4" width="7" height="16" rx="1.5"/><rect x="13" y="4" width="7" height="16" rx="1.5"/></svg>
-            </button>
-          </div>
           <div id="fstrips" hidden></div>
         </div>
         <div class="imgmaker-bar">
@@ -65,12 +59,28 @@ const related = itemClips.slice(0, 8);
         <button class="tbtn" id="copy-yt" title="Copy YouTube link — plays inline on Discord" aria-label="Copy YouTube link">
           <svg viewBox="0 0 24 24" fill="currentColor"><path d="M23 7.5a4 4 0 0 0-2.8-2.9C18 4 12 4 12 4s-6 0-8.2.6A4 4 0 0 0 1 7.5 42 42 0 0 0 .6 12 42 42 0 0 0 1 16.5a4 4 0 0 0 2.8 2.9C6 20 12 20 12 20s6 0 8.2-.6a4 4 0 0 0 2.8-2.9A42 42 0 0 0 23.4 12 42 42 0 0 0 23 7.5zM9.8 15.3V8.7L15.7 12l-5.9 3.3z"/></svg>
         </button>
-        <a class="tbtn" id="tab-toggle" href="#video" title="Watch the clip" aria-label="Switch between image and video">
-          <svg id="tt-video" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5.5v13l11-6.5-11-6.5z"/></svg>
-          <svg id="tt-image" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" hidden><rect x="3" y="4" width="18" height="16" rx="2"/><circle cx="9" cy="10" r="1.6"/><path d="m5 18 5-5 3 3 3-3 3 3"/></svg>
-        </a>
       </div>
-      <div class="title-actions">
+
+      <div class="seg-group">
+        <div class="seg" role="group" aria-label="Still image or video">
+          <a class="seg-btn" id="mode-image" href="#image" title="Still image" aria-label="Still image">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="16" rx="2"/><circle cx="9" cy="10" r="1.6"/><path d="m5 18 5-5 3 3 3-3 3 3"/></svg>
+          </a>
+          <a class="seg-btn" id="mode-video" href="#video" title="Watch the clip" aria-label="Watch the clip">
+            <svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5.5v13l11-6.5-11-6.5z"/></svg>
+          </a>
+        </div>
+        <div class="seg" id="cols-seg" hidden role="group" aria-label="Panels per row">
+          <button class="seg-btn" data-cols="1" title="One panel per row" aria-label="One panel per row">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="4" y="4" width="16" height="7" rx="1.5"/><rect x="4" y="13" width="16" height="7" rx="1.5"/></svg>
+          </button>
+          <button class="seg-btn" data-cols="2" title="Two panels per row" aria-label="Two panels per row">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="4" y="4" width="7" height="7" rx="1.5"/><rect x="13" y="4" width="7" height="7" rx="1.5"/><rect x="4" y="13" width="7" height="7" rx="1.5"/><rect x="13" y="13" width="7" height="7" rx="1.5"/></svg>
+          </button>
+        </div>
+      </div>
+
+      <div class="title-actions" id="img-actions">
         <button class="tbtn" id="img-download" title="Download image" aria-label="Download image">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12"/><path d="m7 11 5 5 5-5"/><path d="M4 20h16"/></svg>
         </button>

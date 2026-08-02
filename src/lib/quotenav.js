@@ -172,8 +172,7 @@ export async function initQuoteNav(cfg) {
 
     for (const el of lineEls) el.classList.toggle("in-quote", isSel(+el.dataset.i));
     player.setRange(st.ctxStart, st.ctxEnd);
-    const cb = $("#cols-btn");
-    if (cb) { cb.hidden = sel.length < 2; markCols(); }
+    if (colsSeg) { colsSeg.hidden = sel.length < 2; markCols(); }
     closeEditor(); // any open caption editor died with the old selection
     imgState.text = quoteText(false);
     if (imgText) imgText.value = imgState.text;
@@ -244,17 +243,14 @@ export async function initQuoteNav(cfg) {
 
   // ---------- image/video toggle (hash-driven so #video deep-links) ----------
   // image is the default; #video opts into the player
-  const toggle = $("#tab-toggle");
   function applyTab(autoplay = false) {
     const img = location.hash !== "#video";
     $("#tab-video").hidden = img;
     $("#tab-image").hidden = !img;
-    if (toggle) {
-      toggle.href = img ? "#video" : "#image";
-      toggle.title = img ? "Watch the clip" : "Back to the image";
-      $("#tt-video").hidden = !img;
-      $("#tt-image").hidden = img;
-    }
+    $("#mode-image")?.classList.toggle("on", img);
+    $("#mode-video")?.classList.toggle("on", !img);
+    // download/copy act on the rendered card — nothing to act on in video mode
+    $("#img-actions").hidden = !img;
     if (img) { player.pause(); buildImageUI(); drawCard(); }
     else if (autoplay) {
       // the user clicked over to the video — roll it from the quote
@@ -376,15 +372,16 @@ export async function initQuoteNav(cfg) {
     }
   }
 
-  // columns button: one overlay control that toggles 1 ↔ 2 panels per row,
-  // its icon mirroring the current layout
-  const colsBtn = $("#cols-btn");
+  // panels per row: a segmented pair in the action bar (1-up / 2-up), off the
+  // canvas so it can never land on top of a caption
+  const colsSeg = $("#cols-seg");
   function markCols() {
-    for (const s of colsBtn?.children ?? []) s.hidden = +s.dataset.cols !== st.cols;
-    if (colsBtn) colsBtn.title = st.cols === 1 ? "1 per row — click for 2" : "2 per row — click for 1";
+    for (const b of colsSeg?.children ?? []) b.classList.toggle("on", +b.dataset.cols === st.cols);
   }
-  colsBtn?.addEventListener("click", () => {
-    st.cols = st.cols === 1 ? 2 : 1;
+  colsSeg?.addEventListener("click", (e) => {
+    const n = +e.target.closest(".seg-btn")?.dataset.cols;
+    if (!n || n === st.cols) return;
+    st.cols = n;
     markCols();
     buildImageUI(); // panel geometry changed → hit-zones move
     drawCard();

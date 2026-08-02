@@ -869,9 +869,36 @@ const isOn = (p) => (p === "/" ? path === "/" : path.startsWith(p));
     gap: 0.4rem;
     margin-top: 0.6rem;
   }
-  /* left icon group, then everything after it pushed to the right */
-  .action-bar .title-actions + .title-actions { margin-left: auto; }
   .title-actions { display: flex; gap: 0.4rem; flex: none; }
+  /* segmented toggles, centred between the left icons and Save: both choices
+     stay visible and the live one is lit, so the mode reads at a glance */
+  .seg-group { display: flex; gap: 0.5rem; margin: 0 auto; }
+  .seg {
+    display: flex;
+    gap: 2px;
+    padding: 2px;
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    background: var(--bg2);
+  }
+  .seg-btn {
+    width: 2rem;
+    height: 1.9rem;
+    display: grid;
+    place-items: center;
+    padding: 0;
+    border: 0;
+    border-radius: 9px;
+    background: transparent;
+    color: var(--fg-dim);
+    cursor: pointer;
+  }
+  .seg-btn svg { width: 16px; height: 16px; }
+  .seg-btn:hover { color: var(--fg); background: rgba(255, 255, 255, 0.06); text-decoration: none; }
+  .seg-btn.on {
+    background: linear-gradient(135deg, #ffc247, var(--accent-hot));
+    color: var(--ink);
+  }
   .tbtn {
     width: 2.2rem;
     height: 2.2rem;
@@ -996,6 +1023,10 @@ const isOn = (p) => (p === "/" ? path === "/" : path.startsWith(p));
     .hero .search-wrap input { height: 3.1rem; font-size: 1rem; }
     .clip-controls { gap: 0.6rem; padding: 0.5rem 0.6rem; }
     .btn { padding: 0.45rem 0.7rem; font-size: 0.7rem; }
+    /* two icon groups + two segmented pairs + Save overflow a phone in one row */
+    .action-bar { flex-wrap: wrap; row-gap: 0.5rem; }
+    .seg-btn { width: 1.8rem; height: 1.7rem; }
+    .seg-btn svg { width: 14px; height: 14px; }
     .variant-strip img { height: 66px; }
   }
   @media (prefers-reduced-motion: reduce) {
@@ -1105,33 +1136,6 @@ const isOn = (p) => (p === "/" ? path === "/" : path.startsWith(p));
     display: block;
   }
   .canvas-wrap { position: relative; min-width: 0; }
-  .canvas-actions {
-    position: absolute;
-    top: 0.6rem;
-    right: 0.6rem;
-    display: flex;
-    gap: 0.4rem;
-    opacity: 0.85;
-  }
-  .canvas-wrap:hover .canvas-actions { opacity: 1; }
-  .canvas-actions button {
-    width: 2.4rem;
-    height: 2.4rem;
-    display: grid;
-    place-items: center;
-    border-radius: 10px;
-    border: 1px solid rgba(255, 255, 255, 0.16);
-    background: rgba(5, 7, 11, 0.72);
-    backdrop-filter: blur(3px);
-    color: #fff;
-    cursor: pointer;
-    font-family: var(--font-display);
-    font-weight: 800;
-    font-size: 0.7rem;
-    letter-spacing: 0.06em;
-  }
-  .canvas-actions button svg { width: 17px; height: 17px; }
-  .canvas-actions button:hover { border-color: var(--accent); color: var(--accent); }
   .imgmaker-bar { display: grid; gap: 0.5rem; }
   /* the canvas is the control surface: per-panel hit-zones over the image —
      tap the picture to pop open its frame carousel, tap the painted words to
