@@ -108,10 +108,11 @@ export async function initQuoteNav(cfg) {
 
   // ---------- render ----------
   function currentUrl() {
-    if (st.curated) return `/clip/${cfg.show}/${st.curated.id}/`;
+    const h = location.hash === "#image" ? "#image" : "";
+    if (st.curated) return `/clip/${cfg.show}/${st.curated.id}/${h}`;
     const [qs, qe] = quoteSpan();
     const r = (x) => Math.round(x * 10) / 10;
-    return `/c/${cfg.show}/${cfg.item}/?t=${r(st.ctxStart)}&d=${r(st.ctxEnd - st.ctxStart)}&qs=${r(qs)}&qe=${r(qe)}`;
+    return `/c/${cfg.show}/${cfg.item}/?t=${r(st.ctxStart)}&d=${r(st.ctxEnd - st.ctxStart)}&qs=${r(qs)}&qe=${r(qe)}${h}`;
   }
 
   function render(push = true) {
@@ -138,7 +139,8 @@ export async function initQuoteNav(cfg) {
     if (push) history.pushState({ a: st.selA, b: st.selB, cs: st.ctxStart, ce: st.ctxEnd }, "", currentUrl());
     imgState.text = quoteText(false);
     if (imgText) imgText.value = imgState.text;
-    if (!$("#tab-image").hidden) drawCard();
+    if (!$("#tab-image").hidden) { buildFilmstrip(); drawCard(); }
+    placeHandles();
   }
 
   function navigateTo(a, b, { play = true } = {}) {
@@ -167,6 +169,39 @@ export async function initQuoteNav(cfg) {
     else { anchor = i; navigateTo(i, i); }
   });
 
+  // "+" handles at the selection edges — tap to include the previous/next
+  // line (the touch-friendly version of shift-click).
+  function nextDialog(i, dir) {
+    for (let j = i + dir; j >= 0 && j < lines.length; j += dir)
+      if (lines[j][2] === "dialog") return j;
+    return null;
+  }
+  function mkHandle(title, fn) {
+    const b = document.createElement("button");
+    b.type = "button";
+    b.className = "ext-handle";
+    b.title = title;
+    b.textContent = "+";
+    b.addEventListener("click", (e) => { e.stopPropagation(); fn(); });
+    panel.appendChild(b);
+    return b;
+  }
+  const extUp = mkHandle("Add the previous line to the quote", () => {
+    const j = nextDialog(st.selA, -1);
+    if (j !== null) navigateTo(j, st.selB, { play: false });
+  });
+  const extDn = mkHandle("Add the next line to the quote", () => {
+    const j = nextDialog(st.selB, 1);
+    if (j !== null) navigateTo(st.selA, j, { play: false });
+  });
+  function placeHandles() {
+    const a = lineEls[st.selA], b = lineEls[st.selB];
+    extUp.style.display = a && nextDialog(st.selA, -1) !== null ? "" : "none";
+    extDn.style.display = b && nextDialog(st.selB, 1) !== null ? "" : "none";
+    if (a) extUp.style.top = `${a.offsetTop}px`;
+    if (b) extDn.style.top = `${b.offsetTop + b.offsetHeight}px`;
+  }
+
   window.addEventListener("popstate", (e) => {
     if (e.state) {
       st.selA = e.state.a; st.selB = e.state.b;
@@ -177,17 +212,16 @@ export async function initQuoteNav(cfg) {
     }
   });
 
-  // ---------- tabs ----------
+  // ---------- tabs (hash-driven so #video / #image deep-link) ----------
   const tabs = document.querySelectorAll(".mtab");
-  tabs.forEach((b) =>
-    b.addEventListener("click", () => {
-      tabs.forEach((x) => x.classList.toggle("on", x === b));
-      const img = b.dataset.tab === "image";
-      $("#tab-video").hidden = img;
-      $("#tab-image").hidden = !img;
-      if (img) { player.pause(); drawCard(); }
-    })
-  );
+  function applyTab() {
+    const img = location.hash === "#image";
+    tabs.forEach((x) => x.classList.toggle("on", (x.dataset.tab === "image") === img));
+    $("#tab-video").hidden = img;
+    $("#tab-image").hidden = !img;
+    if (img) { player.pause(); buildFilmstrip(); drawCard(); }
+  }
+  window.addEventListener("hashchange", applyTab);
 
   // ---------- image maker ----------
   const canvas = $("#imgcanvas");
@@ -260,8 +294,33 @@ export async function initQuoteNav(cfg) {
     }
   }
 
-  $("#fprev")?.addEventListener("click", () => { st.frameT = Math.max(0, st.frameT - 0.5); drawCard(); });
-  $("#fnext")?.addEventListener("click", () => { st.frameT = Math.min(cfg.duration ?? Infinity, st.frameT + 0.5); drawCard(); });
+  // Filmstrip: thumbnails of the frames around the quote — click to pick.
+  const fstrip = $("#fstrip");
+  function buildFilmstrip() {
+    if (!fstrip) return;
+    const [qs, qe] = quoteSpan();
+    const from = Math.max(0, Math.round((qs - 3) * 2) / 2);
+    const to = Math.min(cfg.duration ?? qe + 3, qe + 3);
+    fstrip.innerHTML = "";
+    for (let t = from; t <= to; t += 0.5) {
+      const im = new Image();
+      im.crossOrigin = "anonymous";
+      im.loading = "lazy";
+      im.src = frameUrl(cfg.item, t);
+      im.dataset.t = t;
+      im.title = fmtTime(t);
+      im.addEventListener("click", () => { st.frameT = +im.dataset.t; markFilmstrip(); drawCard(); });
+      fstrip.appendChild(im);
+    }
+    markFilmstrip();
+    const cur = fstrip.querySelector(".on");
+    if (cur) fstrip.scrollLeft = cur.offsetLeft - fstrip.clientWidth / 2 + cur.clientWidth / 2;
+  }
+  function markFilmstrip() {
+    if (!fstrip) return;
+    for (const el of fstrip.children) el.classList.toggle("on", Math.abs(+el.dataset.t - st.frameT) < 0.26);
+  }
+
   imgText?.addEventListener("input", () => drawCard());
 
   const toast = (msg) => {
@@ -360,6 +419,7 @@ export async function initQuoteNav(cfg) {
   initState();
   render(false);
   history.replaceState({ a: st.selA, b: st.selB, cs: st.ctxStart, ce: st.ctxEnd }, "", location.href);
+  if (location.hash === "#image") applyTab();
   player.seek(st.ctxStart, false);
   setTimeout(() => scrollPanelTo(lineEls[st.selA], true), 100);
 }

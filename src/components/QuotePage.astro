@@ -57,8 +57,8 @@ const inCtx = (l) => clip && l.end > clip.start && l.start < clip.end;
 <div class="clip-layout">
   <div class="clip-main">
     <div class="media-tabs" role="tablist">
-      <button class="mtab on" data-tab="video" title="Watch the clip">▶ Video</button>
-      <button class="mtab" data-tab="image" title="Make a shareable image from this quote">🖼 Image</button>
+      <a class="mtab on" data-tab="video" href="#video" title="Watch the clip">▶ Video</a>
+      <a class="mtab" data-tab="image" href="#image" title="Make a shareable image from this quote">🖼 Image</a>
     </div>
 
     <div id="tab-video">
@@ -72,17 +72,14 @@ const inCtx = (l) => clip && l.end > clip.start && l.start < clip.end;
     <div id="tab-image" hidden>
       <div class="imgmaker">
         <canvas id="imgcanvas" width="640" height="480"></canvas>
+        <div class="fstrip" id="fstrip" title="Pick a different frame"></div>
         <div class="imgmaker-bar">
-          <div class="frame-step" title="Pick a different frame (steps of 0.5s)">
-            <button class="btn" id="fprev">◀</button>
-            <span class="time-label" id="flabel"></span>
-            <button class="btn" id="fnext">▶</button>
-          </div>
           <textarea id="imgtext" rows="2" title="Edit the caption — your image, your words"></textarea>
           <div class="btn-row" style="margin:0.5rem 0 0">
             <button class="btn primary" id="img-download" title="Download as PNG">Download</button>
             <button class="btn" id="img-copy" title="Copy image to clipboard">Copy</button>
             <button class="btn" id="img-gif" hidden title="Animated GIF — one slide per selected line">GIF</button>
+            <span class="tstamp" id="flabel" style="margin-left:auto" title="Frame time"></span>
           </div>
           <p class="meta" id="img-note" hidden>Frames are still uploading — try again soon.</p>
         </div>
@@ -113,13 +110,19 @@ const inCtx = (l) => clip && l.end > clip.start && l.start < clip.end;
       <div
         class={`line ${l.kind} ${inQuote(l) ? "in-quote" : ""} ${inCtx(l) ? "in-range" : ""}`}
         data-i={l.i} data-t={l.start} data-e={l.end}
+        title={l.kind === "dialog" ? (l.speaker ? `${l.speaker}: ${l.text}` : l.text) : `[${l.text}]`}
       >
         {l.kind === "dialog" ? (
-          <img class="lthumb" loading="lazy" decoding="async" src={frameUrl(item, lineFrameT([l.start, l.end], l.i, overrides))} alt="" onerror="this.classList.add('dead')" />
+          <span class="lthumb-wrap">
+            <img class="lthumb" loading="lazy" decoding="async" crossorigin="anonymous" src={frameUrl(item, lineFrameT([l.start, l.end], l.i, overrides))} alt="" onerror="this.classList.add('dead')" />
+            <span class="tstamp">{fmtTime(l.start)}</span>
+          </span>
         ) : (
-          <span class="lthumb spacer" />
+          <>
+            <span class="lthumb spacer" />
+            <span class="tstamp">{fmtTime(l.start)}</span>
+          </>
         )}
-        <span class="tstamp">{fmtTime(l.start)}</span>
         <div class="text">
           {l.kind === "dialog" ? (
             <>{l.speaker && <span class="speaker">{l.speaker}: </span>}{l.text}</>
