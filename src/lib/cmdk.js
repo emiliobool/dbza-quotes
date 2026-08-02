@@ -122,8 +122,15 @@ export function initCmdk() {
     document.body.style.overflow = "";
   }
 
-  document.getElementById("cmdk-open")?.addEventListener("click", open);
+  document.querySelectorAll("#cmdk-open, [data-cmdk-open]").forEach((el) => {
+    el.addEventListener("click", (e) => { e.preventDefault(); open(); });
+    if (el.tagName === "INPUT") el.addEventListener("focus", open);
+  });
   overlay.addEventListener("click", (e) => { if (e.target === overlay) close(); });
+
+  // old-style /?q=... links land in the command bar
+  const q0 = new URLSearchParams(location.search).get("q");
+  if (q0) { input.value = q0; open(); }
   resultsEl.addEventListener("click", (e) => {
     const chip = e.target.closest(".cmdk-chip");
     if (chip) {
