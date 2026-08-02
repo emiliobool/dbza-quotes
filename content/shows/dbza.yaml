@@ -13,3 +13,31 @@ sources:
 - kind: youtube_playlist
   playlist: PL5j80D9V7lqb69YBC9aNjQeQcpH7Ps11y
   label: Movies
+# Media kinds, in display order. `tag` is the chip shown next to a title
+# (tag + number); `label` heads that group. Kind is a grouping label only —
+# it never appears in a URL, and nothing derives it from an item id.
+kinds:
+- id: episode
+  label: Episodes
+  tag: E
+- id: movie
+  label: Movies & specials
+  tag: M
+- id: kai
+  label: Kai Abridged
+  tag: K
+- id: hfil
+  label: HFIL
+  tag: H
+- id: buu
+  label: Buu Bits
+  tag: B
+- id: cellvs
+  label: Cell Vs
+  tag: C
+- id: shortz
+  label: DragonShortZ
+  tag: DS
+- id: super
+  label: Super Shorts
+  tag: S

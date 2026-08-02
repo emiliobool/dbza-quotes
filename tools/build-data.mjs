@@ -31,12 +31,25 @@ const shows = readdirSync(join(CONTENT, "shows"))
 
 const site = { shows: [], media: {}, clips: [], collections: [] };
 
+// A show declares its media kinds (order, group heading, chip prefix). Shows
+// predating that field get the original two. Kind is presentation only: it is
+// never in a URL, and no id is ever parsed to recover it.
+const DEFAULT_KINDS = [
+  { id: "episode", label: "Episodes", tag: "E" },
+  { id: "movie", label: "Movies & specials", tag: "M" },
+];
+
 for (const show of shows) {
+  show.kinds = show.kinds?.length ? show.kinds : DEFAULT_KINDS;
+  const kindRank = new Map(show.kinds.map((k, i) => [k.id, i]));
+
   const mediaDir = join(CONTENT, "media", show.id);
   const media = readdirSync(mediaDir)
     .filter((f) => f.endsWith(".yaml"))
     .map((f) => readYaml(join(mediaDir, f)))
-    .sort((a, b) => (a.kind === b.kind ? a.number - b.number : a.kind === "episode" ? -1 : 1));
+    .sort((a, b) => (kindRank.get(a.kind) ?? 99) - (kindRank.get(b.kind) ?? 99) || a.number - b.number);
+  for (const m of media)
+    if (!kindRank.has(m.kind)) errors.push(`${show.id}/${m.id}: kind "${m.kind}" not declared in shows/${show.id}.yaml`);
   const mediaById = Object.fromEntries(media.map((m) => [m.id, m]));
 
   // transcripts → compact public JSON + search docs
