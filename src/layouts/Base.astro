@@ -669,18 +669,15 @@ const isOn = (p) => (p === "/" ? path === "/" : path.startsWith(p));
   }
   .transcript .line:hover { background: rgba(255, 255, 255, 0.045); }
   .transcript .line .tstamp { padding-top: 0.16rem; flex: none; }
+  /* playhead (time-based, cool tint) vs selection (orange) — kept visually
+     distinct so simultaneous captions never read as a selected range */
   .transcript .line.active {
-    background: linear-gradient(90deg, rgba(255, 167, 34, 0.16), rgba(255, 167, 34, 0.04));
-    box-shadow: inset 3px 0 0 var(--accent);
+    background: rgba(140, 180, 220, 0.1);
+    box-shadow: inset 3px 0 0 #86b3d9;
   }
-  /* selection: .in-quote = part of the quote, .main = the title line */
   .transcript .line.in-quote {
-    background: rgba(255, 167, 34, 0.09);
-    box-shadow: inset 3px 0 0 rgba(255, 167, 34, 0.55);
-  }
-  .transcript .line.main {
-    background: rgba(255, 167, 34, 0.16);
-    box-shadow: inset 3px 0 0 var(--accent), 0 0 0 1px rgba(255, 167, 34, 0.4);
+    background: rgba(255, 167, 34, 0.13);
+    box-shadow: inset 3px 0 0 var(--accent);
   }
   .transcript .line .text {
     flex: 1;

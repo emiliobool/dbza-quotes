@@ -114,7 +114,7 @@ export async function createClipPlayer({ mountId, youtube, lines, captionEl, con
       if (state.loop) p.seekTo(state.start, true);
       else p.pauseVideo();
     }
-    onTime?.(t);
+    onTime?.(t, playing);
   }
   setInterval(tick, 250);
   syncControls();

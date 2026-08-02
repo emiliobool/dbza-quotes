@@ -123,11 +123,12 @@ export async function initQuoteNav(cfg) {
     captionEl: $("#caption"),
     controlsEl: $("#controls"),
     start: st.ctxStart, end: st.ctxEnd, loop: true,
-    onTime: (t) => {
-      // playback highlight only makes sense while the video is visible
+    onTime: (t, playing) => {
+      // playhead highlight: only while the video is visible AND rolling —
+      // a paused player shouldn't leave rows lit up like a selection
       const imgMode = !document.getElementById("tab-image")?.hidden;
       for (const el of lineEls) {
-        const active = !imgMode && +el.dataset.t <= t && t <= +el.dataset.e + 0.3;
+        const active = playing && !imgMode && +el.dataset.t <= t && t <= +el.dataset.e + 0.3;
         if (active && !el.classList.contains("active")) scrollPanelTo(el);
         el.classList.toggle("active", active);
       }
@@ -164,11 +165,7 @@ export async function initQuoteNav(cfg) {
     const sel = selLines();
     document.title = `"${pageTitle()}" — ${cfg.mediaTitle} | DBZA Quotes`;
 
-    for (const el of lineEls) {
-      const i = +el.dataset.i;
-      el.classList.toggle("in-quote", isSel(i));
-      el.classList.toggle("main", i === selFirst());
-    }
+    for (const el of lineEls) el.classList.toggle("in-quote", isSel(+el.dataset.i));
     player.setRange(st.ctxStart, st.ctxEnd);
     $("#img-gif").hidden = sel.length < 2;
     const cb = $("#cols-btn");
