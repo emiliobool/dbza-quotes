@@ -36,8 +36,14 @@ export async function onRequestGet({ request, env }) {
     const tr = await env.ASSETS.fetch(new URL(`/data/transcripts/${show}/${item}.json`, url.origin));
     if (tr.ok) {
       data = await tr.json();
-      quote = data.lines
-        .filter((l) => l[2] === "dialog" && l[1] > qt && l[0] < qt + qd)
+      // sparse selection (?sel= line indices) unfurls only the picked lines
+      const selI = (url.searchParams.get("sel") ?? "")
+        .split(",").map((v) => parseInt(v, 10))
+        .filter((n) => Number.isInteger(n) && n >= 0 && n < data.lines.length);
+      quote = (selI.length
+        ? selI.map((i) => data.lines[i])
+        : data.lines.filter((l) => l[1] > qt && l[0] < qt + qd))
+        .filter((l) => l[2] === "dialog")
         .map((l) => (l[3] ? `${l[3]}: ${l[4]}` : l[4]))
         .join(" ")
         .slice(0, 300);

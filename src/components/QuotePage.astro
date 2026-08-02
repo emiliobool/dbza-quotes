@@ -4,7 +4,7 @@
 // clicking any line navigates to that quote (curated line → its clip page,
 // anything else → a stateless /c/ URL) without a reload.
 import site from "../gen/site.json";
-import { fmtTime, mediaLabel } from "../lib/util.js";
+import { fmtTime } from "../lib/util.js";
 import { frameUrl, lineFrameT } from "../lib/config.js";
 
 const { show, item, clip = null } = Astro.props;
@@ -42,22 +42,6 @@ const inQuote = (l) => clip && l.end > qStart && l.start < qEnd;
 
 <div class="clip-layout">
   <div class="clip-main">
-    <div class="clip-head">
-      <h1 id="q-title"><span class="qmark">“</span><span id="q-title-text">{clip ? clip.title : mediaLabel(m)}</span><span class="qmark">”</span></h1>
-      <div class="title-actions">
-        <button class="tbtn primary" id="copy-link" title="Copy link to this quote" aria-label="Copy link">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M10 13a5 5 0 0 0 7.5.5l3-3a5 5 0 0 0-7-7l-1.7 1.7"/><path d="M14 11a5 5 0 0 0-7.5-.5l-3 3a5 5 0 0 0 7 7l1.7-1.7"/></svg>
-        </button>
-        <button class="tbtn" id="copy-yt" title="Copy YouTube link — plays inline on Discord" aria-label="Copy YouTube link">
-          <svg viewBox="0 0 24 24" fill="currentColor"><path d="M23 7.5a4 4 0 0 0-2.8-2.9C18 4 12 4 12 4s-6 0-8.2.6A4 4 0 0 0 1 7.5 42 42 0 0 0 .6 12 42 42 0 0 0 1 16.5a4 4 0 0 0 2.8 2.9C6 20 12 20 12 20s6 0 8.2-.6a4 4 0 0 0 2.8-2.9A42 42 0 0 0 23.4 12 42 42 0 0 0 23 7.5zM9.8 15.3V8.7L15.7 12l-5.9 3.3z"/></svg>
-        </button>
-        <a class="tbtn" id="tab-toggle" href="#video" title="Watch the clip" aria-label="Switch between image and video">
-          <svg id="tt-video" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5.5v13l11-6.5-11-6.5z"/></svg>
-          <svg id="tt-image" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" hidden><rect x="3" y="4" width="18" height="16" rx="2"/><circle cx="9" cy="10" r="1.6"/><path d="m5 18 5-5 3 3 3-3 3 3"/></svg>
-        </a>
-      </div>
-    </div>
-
     <div id="tab-video" hidden>
       <div class="player-wrap has-overlay" id="player-wrap">
         <div id="yt-player"></div>
@@ -70,39 +54,53 @@ const inQuote = (l) => clip && l.end > qStart && l.start < qEnd;
       <div class="imgmaker">
         <div class="canvas-wrap">
           <canvas id="imgcanvas" width="640" height="480"></canvas>
+          <div id="panel-hits"></div>
           <div class="canvas-actions">
-            <button id="cols-btn" hidden title="Panels per row" aria-label="Switch panels per row">
+            <button id="cols-btn" hidden title="Panels per row" aria-label="Toggle one or two panels per row">
               <svg data-cols="1" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="7" y="4" width="10" height="16" rx="1.5"/></svg>
               <svg data-cols="2" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" hidden><rect x="4" y="4" width="7" height="16" rx="1.5"/><rect x="13" y="4" width="7" height="16" rx="1.5"/></svg>
-              <svg data-cols="3" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" hidden><rect x="3" y="4" width="5" height="16" rx="1"/><rect x="9.5" y="4" width="5" height="16" rx="1"/><rect x="16" y="4" width="5" height="16" rx="1"/></svg>
             </button>
-            <button id="img-download" title="Download image" aria-label="Download image">
-              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12"/><path d="m7 11 5 5 5-5"/><path d="M4 20h16"/></svg>
-            </button>
-            <button id="img-copy" title="Copy image to clipboard" aria-label="Copy image">
-              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><rect x="8" y="8" width="12" height="12" rx="2"/><path d="M16 4H6a2 2 0 0 0-2 2v10"/></svg>
-            </button>
-            <button id="img-gif" hidden title="Animated GIF — one slide per selected line" aria-label="Download GIF">GIF</button>
           </div>
+          <div id="fstrips" hidden></div>
         </div>
-        <div id="fstrips"></div>
         <div class="imgmaker-bar">
-          <div class="textwrap">
-            <textarea id="imgtext" rows="2" title="Edit the caption — your image, your words"></textarea>
-            <button class="txtbtn" id="copy-quote" title="Copy the dialog as text" aria-label="Copy quote text">
-              <svg viewBox="0 0 24 24" fill="currentColor"><path d="M10 7H5a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h2v3l1.8-.9A6 6 0 0 0 12 11.6V9a2 2 0 0 0-2-2zm11 0h-5a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h2v3l1.8-.9A6 6 0 0 0 23 11.6V9a2 2 0 0 0-2-2z"/></svg>
-            </button>
-          </div>
-          <div class="btn-row" style="margin:0.5rem 0 0">
-            <button class="btn" id="save-clip" title="Save — mints a shareable permalink and stashes it on your Saved page">
-              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" style="width:14px;height:14px"><path d="M12 2.7l2.9 5.9 6.5.9-4.7 4.6 1.1 6.5L12 17.5l-5.8 3.1 1.1-6.5L2.6 9.5l6.5-.9L12 2.7z"/></svg>
-              Save
-            </button>
-            <span class="tstamp" id="flabel" style="margin-left:auto" title="Frame time"></span>
-          </div>
+          <!-- hidden master caption: line k captions panel k; the on-canvas editors write here -->
+          <textarea id="imgtext" hidden></textarea>
           <p class="meta" id="img-note" hidden>Frames are still uploading — try again soon.</p>
         </div>
       </div>
+    </div>
+
+    <div class="action-bar">
+      <div class="title-actions">
+        <button class="tbtn primary" id="copy-link" title="Copy link to this quote" aria-label="Copy link">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M10 13a5 5 0 0 0 7.5.5l3-3a5 5 0 0 0-7-7l-1.7 1.7"/><path d="M14 11a5 5 0 0 0-7.5-.5l-3 3a5 5 0 0 0 7 7l1.7-1.7"/></svg>
+        </button>
+        <button class="tbtn" id="copy-yt" title="Copy YouTube link — plays inline on Discord" aria-label="Copy YouTube link">
+          <svg viewBox="0 0 24 24" fill="currentColor"><path d="M23 7.5a4 4 0 0 0-2.8-2.9C18 4 12 4 12 4s-6 0-8.2.6A4 4 0 0 0 1 7.5 42 42 0 0 0 .6 12 42 42 0 0 0 1 16.5a4 4 0 0 0 2.8 2.9C6 20 12 20 12 20s6 0 8.2-.6a4 4 0 0 0 2.8-2.9A42 42 0 0 0 23.4 12 42 42 0 0 0 23 7.5zM9.8 15.3V8.7L15.7 12l-5.9 3.3z"/></svg>
+        </button>
+        <a class="tbtn" id="tab-toggle" href="#video" title="Watch the clip" aria-label="Switch between image and video">
+          <svg id="tt-video" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5.5v13l11-6.5-11-6.5z"/></svg>
+          <svg id="tt-image" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" hidden><rect x="3" y="4" width="18" height="16" rx="2"/><circle cx="9" cy="10" r="1.6"/><path d="m5 18 5-5 3 3 3-3 3 3"/></svg>
+        </a>
+      </div>
+      <span class="tstamp" id="flabel" title="Frame time"></span>
+      <div class="title-actions">
+        <button class="tbtn" id="img-download" title="Download image" aria-label="Download image">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12"/><path d="m7 11 5 5 5-5"/><path d="M4 20h16"/></svg>
+        </button>
+        <button class="tbtn" id="img-copy" title="Copy image to clipboard" aria-label="Copy image">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><rect x="8" y="8" width="12" height="12" rx="2"/><path d="M16 4H6a2 2 0 0 0-2 2v10"/></svg>
+        </button>
+        <button class="tbtn" id="copy-quote" title="Copy the dialog as text" aria-label="Copy quote text">
+          <svg viewBox="0 0 24 24" fill="currentColor"><path d="M10 7H5a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h2v3l1.8-.9A6 6 0 0 0 12 11.6V9a2 2 0 0 0-2-2zm11 0h-5a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h2v3l1.8-.9A6 6 0 0 0 23 11.6V9a2 2 0 0 0-2-2z"/></svg>
+        </button>
+        <button class="tbtn" id="img-gif" hidden title="Animated GIF — one slide per selected line" aria-label="Download GIF">GIF</button>
+      </div>
+      <button class="btn" id="save-clip" title="Save — mints a shareable permalink and stashes it on your Saved page">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" style="width:14px;height:14px"><path d="M12 2.7l2.9 5.9 6.5.9-4.7 4.6 1.1 6.5L12 17.5l-5.8 3.1 1.1-6.5L2.6 9.5l6.5-.9L12 2.7z"/></svg>
+        Save
+      </button>
     </div>
   </div>
 
@@ -119,6 +117,10 @@ const inQuote = (l) => clip && l.end > qStart && l.start < qEnd;
           <span class="tstamp">{fmtTime(l.start)}</span>
         </span>
         <div class="text">{l.kind === "dialog" ? l.text : <>[{l.text}]</>}</div>
+        <button class="lsel" title="Add or remove this line (or ⌘-click the line)" aria-label="Toggle this line in the quote">
+          <svg class="ic-add" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round"><path d="M12 5v14M5 12h14"/></svg>
+          <svg class="ic-rem" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round"><path d="M5 12h14"/></svg>
+        </button>
       </div>
     ))}
   </div>

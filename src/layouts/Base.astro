@@ -811,15 +811,15 @@ const isOn = (p) => (p === "/" ? path === "/" : path.startsWith(p));
   }
   .dialog-panel::-webkit-scrollbar-thumb:hover { background: var(--border-lit); background-clip: content-box; }
 
-  /* clip page header block */
-  .clip-head {
-    margin-bottom: 1.1rem;
+  /* quote page action bar: link/video icons left, Save pushed right */
+  .action-bar {
     display: flex;
-    align-items: flex-start;
-    gap: 0.8rem;
+    align-items: center;
+    gap: 0.4rem;
+    margin-top: 0.6rem;
   }
-  .clip-head h1 { flex: 1; min-width: 0; }
-  .title-actions { display: flex; gap: 0.4rem; flex: none; margin-top: 0.45rem; }
+  .action-bar .tstamp { margin-left: auto; }
+  .title-actions { display: flex; gap: 0.4rem; flex: none; }
   .tbtn {
     width: 2.2rem;
     height: 2.2rem;
@@ -832,18 +832,18 @@ const isOn = (p) => (p === "/" ? path === "/" : path.startsWith(p));
     cursor: pointer;
   }
   .tbtn svg { width: 17px; height: 17px; }
+  #img-gif {
+    font-family: var(--font-display);
+    font-weight: 800;
+    font-size: 0.7rem;
+    letter-spacing: 0.06em;
+  }
   .tbtn:hover { color: var(--fg); border-color: var(--border-lit); text-decoration: none; }
   .tbtn.primary {
     background: linear-gradient(135deg, #ffc247, var(--accent-hot));
     color: var(--ink);
     border-color: transparent;
   }
-  .clip-head h1 {
-    font-size: clamp(1.7rem, 1rem + 2.6vw, 2.5rem);
-    margin: 0;
-    text-wrap: balance;
-  }
-  .clip-head h1 .qmark { color: var(--accent); opacity: 0.55; }
   .clip-credits {
     display: flex;
     align-items: center;
@@ -1043,35 +1043,7 @@ const isOn = (p) => (p === "/" ? path === "/" : path.startsWith(p));
     text-overflow: ellipsis;
     border-radius: 0 0 4px 0;
   }
-  /* mobile only: the desktop panel is position:sticky (which is also a
-     containing block for the ext-handles) — don't override it */
-  @media (max-width: 949px) {
-    .dialog-panel { position: relative; }
-  }
   .dialog-panel .line { cursor: pointer; }
-  .ext-handle {
-    position: absolute;
-    right: 8px;
-    z-index: 3;
-    transform: translateY(-50%);
-    display: flex;
-    gap: 3px;
-  }
-  .ext-handle button {
-    width: 23px;
-    height: 23px;
-    border-radius: 50%;
-    border: 1px solid var(--accent);
-    background: var(--bg2);
-    color: var(--accent);
-    display: grid;
-    place-items: center;
-    cursor: pointer;
-    opacity: 0.92;
-    padding: 0;
-  }
-  .ext-handle button svg { width: 13px; height: 13px; }
-  .ext-handle button:hover { background: var(--accent); color: var(--ink); opacity: 1; }
   @media (max-width: 949px) {
     /* own scroll area on mobile so playback highlighting never drags the page */
     .dialog-panel { max-height: 46vh; overflow-y: auto; }
@@ -1115,88 +1087,167 @@ const isOn = (p) => (p === "/" ? path === "/" : path.startsWith(p));
   }
   .canvas-actions button svg { width: 17px; height: 17px; }
   .canvas-actions button:hover { border-color: var(--accent); color: var(--accent); }
-  .textwrap { position: relative; }
-  .textwrap textarea { width: 100%; padding-right: 2.6rem; }
-  .txtbtn {
+  .imgmaker-bar { display: grid; gap: 0.5rem; }
+  /* the canvas is the control surface: per-panel hit-zones over the image —
+     tap the picture to pop open its frame carousel, tap the painted words to
+     pop open their editor. The text zone is inline-positioned by JS to hug
+     exactly where the caption is drawn. */
+  #panel-hits { position: absolute; inset: 1px; }
+  .phit { position: absolute; }
+  .phit-img { position: absolute; inset: 0; cursor: pointer; }
+  .phit-txt { position: absolute; cursor: text; z-index: 2; }
+  .phit-ico {
     position: absolute;
-    top: 0.45rem;
-    right: 0.45rem;
-    width: 1.9rem;
-    height: 1.9rem;
+    top: 6px;
+    left: 6px;
+    width: 1.8rem;
+    height: 1.8rem;
     display: grid;
     place-items: center;
     border-radius: 8px;
-    border: 1px solid var(--border);
-    background: var(--bg3);
-    color: var(--fg-dim);
-    cursor: pointer;
+    background: rgba(5, 7, 11, 0.62);
+    color: #fff;
+    opacity: 0;
+    transition: opacity 0.12s;
+    pointer-events: none;
   }
-  .txtbtn svg { width: 14px; height: 14px; }
-  .txtbtn:hover { color: var(--accent); border-color: var(--accent); }
-  .imgmaker-bar { display: grid; gap: 0.5rem; }
-  .imgmaker textarea { resize: vertical; font-size: 0.95rem; }
-  .fstrip-wrap { position: relative; min-width: 0; }
-  .fstrip {
-    display: flex;
-    gap: 4px;
-    overflow-x: auto;
-    padding: 2px 2px 6px;
+  .phit-txt .phit-ico {
+    top: auto;
+    left: auto;
+    bottom: 2px;
+    right: -0.5rem;
+    width: 1.4rem;
+    height: 1.4rem;
+  }
+  .phit-ico svg { width: 15px; height: 15px; }
+  .phit-txt .phit-ico svg { width: 11px; height: 11px; }
+  .phit-img:hover .phit-ico,
+  .phit-txt:hover .phit-ico { opacity: 0.95; }
+  .phit-img:hover::before,
+  .phit.strip-open .phit-img::before {
+    content: "";
+    position: absolute;
+    inset: 3px;
+    border: 2px dashed rgba(255, 255, 255, 0.45);
+    border-radius: 8px;
+    pointer-events: none;
+  }
+  .phit-txt:hover::before {
+    content: "";
+    position: absolute;
+    inset: -2px;
+    border: 1.5px dashed rgba(255, 255, 255, 0.55);
+    border-radius: 6px;
+    pointer-events: none;
+  }
+  .phit.strip-open .phit-img::before { border-style: solid; border-color: var(--accent); }
+  @media (hover: none) { .phit-ico { opacity: 0.55; } }
+  /* floating popups (frame carousel, caption editor) anchored under a panel */
+  .canvas-pop {
+    position: absolute;
+    left: 0.4rem;
+    right: 0.4rem;
+    z-index: 5;
+    background: var(--bg2);
+    border: 1px solid var(--border-lit);
+    border-radius: var(--radius);
+    box-shadow: 0 14px 34px rgba(0, 0, 0, 0.55);
+    padding: 0.45rem 0.55rem;
+  }
+  .edit-pop textarea {
+    width: 100%;
+    resize: vertical;
+    font-size: 0.95rem;
+  }
+  /* frame picker: a grid of frames covering exactly the picked panel — the
+     panel becomes its own control */
+  #fstrips {
+    position: absolute;
+    z-index: 6;
+    overflow: hidden;
+    background: rgba(5, 7, 11, 0.95);
+    border: 1.5px solid var(--accent);
+    border-radius: 10px;
+  }
+  #fstrips[hidden] { display: none; }
+  .fgrid-scroll {
+    position: absolute;
+    inset: 0;
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    padding: 0.35rem;
     scrollbar-width: thin;
     scrollbar-color: var(--border-lit) transparent;
   }
-  .fstrip::-webkit-scrollbar { height: 7px; }
-  .fstrip::-webkit-scrollbar-track { background: transparent; }
-  .fstrip::-webkit-scrollbar-thumb { background: var(--border-lit); border-radius: 4px; }
-  .fs-nav {
-    position: absolute;
-    top: 2px;
-    bottom: 8px;
-    z-index: 2;
-    width: 26px;
-    border: 0;
-    color: var(--fg);
-    font-size: 1.4rem;
-    line-height: 1;
-    cursor: pointer;
+  .fgrid {
     display: grid;
-    place-items: center;
-    opacity: 0.9;
+    grid-template-columns: repeat(auto-fill, minmax(128px, 1fr));
+    gap: 5px;
   }
-  .fs-nav.prev {
-    left: 0;
-    border-radius: 5px 0 0 5px;
-    background: linear-gradient(90deg, rgba(5, 7, 11, 0.92), rgba(5, 7, 11, 0));
-  }
-  .fs-nav.next {
-    right: 0;
-    border-radius: 0 5px 5px 0;
-    background: linear-gradient(270deg, rgba(5, 7, 11, 0.92), rgba(5, 7, 11, 0));
-  }
-  .fs-nav:hover { color: var(--accent); }
-  .fstrip img {
-    width: 84px;
+  .fgrid img {
+    width: 100%;
     aspect-ratio: 16/9;
     object-fit: cover;
-    border-radius: 5px;
-    flex: none;
+    border-radius: 4px;
     cursor: pointer;
-    opacity: 0.55;
-    border: 2px solid transparent;
+    opacity: 0.6;
+    border: 2px solid var(--border-lit);
     background: #0d1117;
   }
-  .fstrip img:hover { opacity: 0.9; }
-  .fstrip img.on { opacity: 1; border-color: var(--accent); }
-  #fstrips { display: grid; gap: 0.15rem; min-width: 0; }
-  .fs-label {
-    font-size: 0.78rem;
+  .fgrid img:hover { opacity: 0.95; }
+  .fgrid img.on { opacity: 1; border-color: var(--accent); }
+  /* per-line select/deselect toggle in the transcript */
+  .dialog-panel .line .lsel {
+    flex: none;
+    align-self: center;
+    width: 1.45rem;
+    height: 1.45rem;
+    display: grid;
+    place-items: center;
+    border-radius: 50%;
+    border: 1px solid var(--border-lit);
+    background: var(--bg3);
     color: var(--fg-dim);
-    margin-top: 0.35rem;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
+    cursor: pointer;
+    padding: 0;
+    opacity: 0;
+    transition: opacity 0.12s;
   }
-  .fs-label .who { color: var(--accent); font-weight: 700; }
-  .fs-text { width: 100%; min-height: 2.2rem; margin-top: 0.2rem; }
+  .dialog-panel .line:hover .lsel { opacity: 1; }
+  .dialog-panel .line.in-quote .lsel {
+    opacity: 1;
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+  .dialog-panel .line .lsel:hover {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: var(--ink);
+  }
+  .lsel svg { width: 12px; height: 12px; }
+  .lsel .ic-rem { display: none; }
+  .line.in-quote .lsel .ic-add { display: none; }
+  .line.in-quote .lsel .ic-rem { display: block; }
+  @media (hover: none) {
+    .dialog-panel .line .lsel { opacity: 0.75; }
+  }
+  .fs-close {
+    position: absolute;
+    top: 0.35rem;
+    right: 0.35rem;
+    z-index: 2;
+    width: 1.9rem;
+    height: 1.9rem;
+    border-radius: 50%;
+    border: 1px solid var(--border-lit);
+    background: var(--bg3);
+    color: var(--fg);
+    font-size: 1.05rem;
+    line-height: 1;
+    cursor: pointer;
+    padding: 0;
+  }
+  .fs-close:hover { color: var(--accent); border-color: var(--accent); }
 
   /* header command-bar search */
   .nav-search {
