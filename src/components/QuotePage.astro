@@ -71,6 +71,11 @@ const inQuote = (l) => clip && l.end > qStart && l.start < qEnd;
         <div class="canvas-wrap">
           <canvas id="imgcanvas" width="640" height="480"></canvas>
           <div class="canvas-actions">
+            <button id="cols-btn" hidden title="Panels per row" aria-label="Switch panels per row">
+              <svg data-cols="1" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="7" y="4" width="10" height="16" rx="1.5"/></svg>
+              <svg data-cols="2" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" hidden><rect x="4" y="4" width="7" height="16" rx="1.5"/><rect x="13" y="4" width="7" height="16" rx="1.5"/></svg>
+              <svg data-cols="3" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" hidden><rect x="3" y="4" width="5" height="16" rx="1"/><rect x="9.5" y="4" width="5" height="16" rx="1"/><rect x="16" y="4" width="5" height="16" rx="1"/></svg>
+            </button>
             <button id="img-download" title="Download image" aria-label="Download image">
               <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12"/><path d="m7 11 5 5 5-5"/><path d="M4 20h16"/></svg>
             </button>
@@ -80,11 +85,7 @@ const inQuote = (l) => clip && l.end > qStart && l.start < qEnd;
             <button id="img-gif" hidden title="Animated GIF — one slide per selected line" aria-label="Download GIF">GIF</button>
           </div>
         </div>
-        <div class="fstrip-wrap">
-          <button class="fs-nav prev" id="fs-prev" title="Earlier frames" aria-label="Scroll to earlier frames">‹</button>
-          <div class="fstrip" id="fstrip" title="Pick a different frame"></div>
-          <button class="fs-nav next" id="fs-next" title="Later frames" aria-label="Scroll to later frames">›</button>
-        </div>
+        <div id="fstrips"></div>
         <div class="imgmaker-bar">
           <div class="textwrap">
             <textarea id="imgtext" rows="2" title="Edit the caption — your image, your words"></textarea>

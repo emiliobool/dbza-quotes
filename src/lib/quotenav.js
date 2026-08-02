@@ -17,8 +17,11 @@ export async function initQuoteNav(cfg) {
     selA: 0, selB: 0,           // selected line span (indices, inclusive)
     curated: null,               // adopted saved clip or null
     ctxStart: 0, ctxEnd: 10,     // player window
-    frameT: 0,                   // image tab frame time
+    frameTs: new Map(),          // per-line frame picks (line index → time)
+    cols: 1,                     // panels per row for multi-line images
   };
+
+  const clampT = (t) => Math.max(0, Math.min(cfg.duration ?? t, t));
 
   // Scroll within the panel only — never drag the page (on mobile the panel
   // isn't its own scroll container, so we simply don't auto-scroll there).
@@ -59,10 +62,15 @@ export async function initQuoteNav(cfg) {
       if (sel) [st.selA, st.selB] = sel;
       st.curated = matchCurated();
     }
-    st.frameT = defaultFrameT();
-    // shared image state: custom frame + edited caption
-    const f = parseFloat(params.get("f"));
-    if (Number.isFinite(f)) st.frameT = Math.max(0, Math.min(cfg.duration ?? f, f));
+    // shared image state: custom frames (one per selected line) + edited caption
+    const f = params.get("f");
+    if (f)
+      f.split(",").forEach((v, k) => {
+        const t = parseFloat(v);
+        if (Number.isFinite(t) && st.selA + k <= st.selB) st.frameTs.set(st.selA + k, clampT(t));
+      });
+    const cols = parseInt(params.get("cols"), 10);
+    if (cols === 2 || cols === 3) st.cols = cols;
     st.pendingTxt = params.get("txt");
   }
 
@@ -74,11 +82,8 @@ export async function initQuoteNav(cfg) {
     if (!sel.length) return [st.ctxStart, st.ctxEnd];
     return [sel[0].l[0], sel[sel.length - 1].l[1]];
   }
-  function defaultFrameT() {
-    const sel = selLines();
-    if (!sel.length) return (st.ctxStart + st.ctxEnd) / 2;
-    return lineFrameT(sel[0].l, sel[0].i, cfg.overrides);
-  }
+  const defFrameFor = (i) => lineFrameT(lines[i], i, cfg.overrides);
+  const frameFor = (i) => st.frameTs.get(i) ?? defFrameFor(i);
   function quoteText(withSpeakers = true) {
     return selLines()
       .map(({ l }) =>
@@ -118,7 +123,10 @@ export async function initQuoteNav(cfg) {
     const r = (x) => Math.round(x * 10) / 10;
     // customized image state travels in the URL so shared links reproduce it
     const extras = new URLSearchParams();
-    if (Math.abs(st.frameT - defaultFrameT()) > 0.26) extras.set("f", r(st.frameT));
+    const sel = selLines();
+    if (sel.some(({ i }) => Math.abs(frameFor(i) - defFrameFor(i)) > 0.26))
+      extras.set("f", sel.map(({ i }) => r(frameFor(i))).join(","));
+    if (sel.length > 1 && st.cols > 1) extras.set("cols", st.cols);
     const txt = imgText?.value ?? "";
     if (txt && txt !== quoteText(false)) extras.set("txt", txt.slice(0, 300));
     const ex = extras.toString();
@@ -144,6 +152,8 @@ export async function initQuoteNav(cfg) {
     }
     player.setRange(st.ctxStart, st.ctxEnd);
     $("#img-gif").hidden = sel.length < 2;
+    const cb = $("#cols-btn");
+    if (cb) { cb.hidden = sel.length < 2; markCols(); }
     imgState.text = quoteText(false);
     if (imgText) imgText.value = imgState.text;
     if (push) history.pushState({ a: st.selA, b: st.selB, cs: st.ctxStart, ce: st.ctxEnd }, "", currentUrl());
@@ -161,7 +171,9 @@ export async function initQuoteNav(cfg) {
       st.ctxStart = Math.max(0, qs - PAD_S);
       st.ctxEnd = Math.min(cfg.duration ?? qe + PAD_E, qe + PAD_E);
     }
-    st.frameT = defaultFrameT();
+    // frame picks survive grow/shrink but reset for lines that left the selection
+    for (const k of [...st.frameTs.keys()])
+      if (k < st.selA || k > st.selB) st.frameTs.delete(k);
     render();
     // don't start (hidden) playback while the image tab is up
     if (play && $("#tab-image").hidden)
@@ -172,6 +184,9 @@ export async function initQuoteNav(cfg) {
   // click = select exactly that line; shift-click / "+" handles / shift+arrows
   // grow the selection
   let anchor = null, focusEnd = null; // text-editor selection: fixed anchor, moving focus
+  // shift-click extends the quote selection — keep the browser from also
+  // sweeping a native text selection across the transcript
+  panel.addEventListener("mousedown", (e) => { if (e.shiftKey) e.preventDefault(); });
   $("#dialog").addEventListener("click", (e) => {
     const el = e.target.closest(".line");
     if (!el) return;
@@ -230,7 +245,8 @@ export async function initQuoteNav(cfg) {
       st.selA = e.state.a; st.selB = e.state.b;
       st.ctxStart = e.state.cs; st.ctxEnd = e.state.ce;
       st.curated = matchCurated();
-      st.frameT = defaultFrameT();
+      for (const k of [...st.frameTs.keys()])
+        if (k < st.selA || k > st.selB) st.frameTs.delete(k);
       render(false);
     }
   });
@@ -314,15 +330,37 @@ export async function initQuoteNav(cfg) {
     }
   }
 
+  // Textarea line k captions panel k; extra trailing lines stay on the last
+  // panel (so a single panel still takes the whole text, paragraphs and all).
+  function panelTexts() {
+    const n = selLines().length;
+    const parts = (imgText?.value ?? imgState.text).split("\n");
+    if (n <= 1) return [parts.join("\n")];
+    const out = parts.slice(0, n - 1);
+    out.push(parts.slice(n - 1).join("\n"));
+    return out;
+  }
+
+  // One panel per selected line — its frame, its caption — tiled st.cols wide.
   async function drawCard() {
     if (!ctx2d) return;
-    $("#flabel").textContent = fmtTime(st.frameT);
+    const sel = selLines();
+    const texts = panelTexts();
+    $("#flabel").textContent = sel.length === 1 ? fmtTime(frameFor(sel[0].i)) : "";
     try {
-      const im = await loadFrame(st.frameT);
-      canvas.width = 640;
-      canvas.height = Math.round(im.height * (640 / im.width));
-      ctx2d.drawImage(im, 0, 0, canvas.width, canvas.height);
-      drawCaption(ctx2d, imgText?.value ?? imgState.text, canvas.width, canvas.height);
+      const imgs = await Promise.all(sel.map(({ i }) => loadFrame(frameFor(i))));
+      const pw = 640;
+      const ph = Math.round(imgs[0].height * (pw / imgs[0].width));
+      const cols = Math.min(sel.length === 1 ? 1 : st.cols, sel.length);
+      canvas.width = pw * cols;
+      canvas.height = ph * Math.ceil(sel.length / cols);
+      imgs.forEach((im, k) => {
+        ctx2d.save();
+        ctx2d.translate((k % cols) * pw, Math.floor(k / cols) * ph);
+        ctx2d.drawImage(im, 0, 0, pw, ph);
+        drawCaption(ctx2d, texts[k] ?? "", pw, ph);
+        ctx2d.restore();
+      });
       $("#img-note").hidden = true;
     } catch {
       canvas.width = 640; canvas.height = 360;
@@ -333,43 +371,91 @@ export async function initQuoteNav(cfg) {
     }
   }
 
-  // Filmstrip: thumbnails of the frames around the quote — click to pick.
-  const fstrip = $("#fstrip");
+  // columns button: one overlay control that cycles 1 → 2 → 3 panels per row,
+  // its icon mirroring the current layout
+  const colsBtn = $("#cols-btn");
+  function markCols() {
+    for (const s of colsBtn?.children ?? []) s.hidden = +s.dataset.cols !== st.cols;
+    if (colsBtn) colsBtn.title = `${st.cols} per row — click to switch`;
+  }
+  colsBtn?.addEventListener("click", () => {
+    st.cols = (st.cols % 3) + 1;
+    markCols();
+    drawCard();
+    syncUrl();
+  });
+
+  // Frame carousels: one strip per selected line — click to pick that panel's
+  // frame. A single line looks exactly like the old filmstrip (no label).
+  const strips = $("#fstrips");
   function buildFilmstrip() {
-    if (!fstrip) return;
-    const [qs, qe] = quoteSpan();
-    const from = Math.max(0, Math.round((qs - 3) * 2) / 2);
-    const to = Math.min(cfg.duration ?? qe + 3, qe + 3);
-    fstrip.innerHTML = "";
-    for (let t = from; t <= to; t += 0.5) {
-      const im = new Image();
-      im.crossOrigin = "anonymous";
-      im.loading = "lazy";
-      im.src = frameUrl(cfg.item, t);
-      im.dataset.t = t;
-      im.title = fmtTime(t);
-      im.addEventListener("click", () => { st.frameT = +im.dataset.t; markFilmstrip(); drawCard(); syncUrl(); });
-      fstrip.appendChild(im);
+    if (!strips) return;
+    strips.innerHTML = "";
+    const sel = selLines();
+    const pad = sel.length > 1 ? 2 : 3;
+    for (const { l, i } of sel) {
+      if (sel.length > 1) {
+        const lab = document.createElement("div");
+        lab.className = "fs-label";
+        const snippet = l[2] !== "dialog" ? `[${l[4]}]` : l[4];
+        lab.innerHTML = `${l[3] && l[2] === "dialog" ? `<span class="who">${escapeHtml(l[3])}</span> ` : ""}${escapeHtml(snippet.length > 60 ? snippet.slice(0, 57) + "…" : snippet)}`;
+        strips.appendChild(lab);
+      }
+      const wrap = document.createElement("div");
+      wrap.className = "fstrip-wrap";
+      const strip = document.createElement("div");
+      strip.className = "fstrip";
+      strip.dataset.line = i;
+      strip.title = "Pick a different frame";
+      const from = Math.max(0, Math.round((l[0] - pad) * 2) / 2);
+      const to = Math.min(cfg.duration ?? l[1] + pad, l[1] + pad);
+      for (let t = from; t <= to; t += 0.5) {
+        const im = new Image();
+        im.crossOrigin = "anonymous";
+        im.loading = "lazy";
+        im.src = frameUrl(cfg.item, t);
+        im.dataset.t = t;
+        im.title = fmtTime(t);
+        im.addEventListener("click", () => {
+          st.frameTs.set(i, +im.dataset.t);
+          markFilmstrip();
+          drawCard();
+          syncUrl();
+        });
+        strip.appendChild(im);
+      }
+      for (const [cls, txt, dir] of [["prev", "‹", -1], ["next", "›", 1]]) {
+        const b = document.createElement("button");
+        b.className = `fs-nav ${cls}`;
+        b.textContent = txt;
+        b.title = dir < 0 ? "Earlier frames" : "Later frames";
+        b.addEventListener("click", () =>
+          strip.scrollBy({ left: dir * strip.clientWidth * 0.7, behavior: "smooth" }));
+        wrap.appendChild(b);
+      }
+      wrap.appendChild(strip);
+      // plain mouse wheel scrolls the strip horizontally
+      strip.addEventListener("wheel", (e) => {
+        if (Math.abs(e.deltaY) > Math.abs(e.deltaX)) {
+          e.preventDefault();
+          strip.scrollLeft += e.deltaY;
+        }
+      }, { passive: false });
+      strips.appendChild(wrap);
     }
     markFilmstrip();
-    const cur = fstrip.querySelector(".on");
-    if (cur) fstrip.scrollLeft = cur.offsetLeft - fstrip.clientWidth / 2 + cur.clientWidth / 2;
+    for (const strip of strips.querySelectorAll(".fstrip")) {
+      const cur = strip.querySelector(".on");
+      if (cur) strip.scrollLeft = cur.offsetLeft - strip.clientWidth / 2 + cur.clientWidth / 2;
+    }
   }
   function markFilmstrip() {
-    if (!fstrip) return;
-    for (const el of fstrip.children) el.classList.toggle("on", Math.abs(+el.dataset.t - st.frameT) < 0.26);
-  }
-  // easy horizontal scrolling: edge arrows + plain mouse wheel
-  $("#fs-prev")?.addEventListener("click", () =>
-    fstrip.scrollBy({ left: -fstrip.clientWidth * 0.7, behavior: "smooth" }));
-  $("#fs-next")?.addEventListener("click", () =>
-    fstrip.scrollBy({ left: fstrip.clientWidth * 0.7, behavior: "smooth" }));
-  fstrip?.addEventListener("wheel", (e) => {
-    if (Math.abs(e.deltaY) > Math.abs(e.deltaX)) {
-      e.preventDefault();
-      fstrip.scrollLeft += e.deltaY;
+    if (!strips) return;
+    for (const strip of strips.querySelectorAll(".fstrip")) {
+      const t = frameFor(+strip.dataset.line);
+      for (const el of strip.children) el.classList.toggle("on", Math.abs(+el.dataset.t - t) < 0.26);
     }
-  }, { passive: false });
+  }
 
   // keep the address bar in sync with customizations (replace, don't push)
   function syncUrl() {
@@ -421,11 +507,12 @@ export async function initQuoteNav(cfg) {
       const gif = GIFEncoder();
       const c = document.createElement("canvas");
       const cx = c.getContext("2d");
-      for (const { l, i } of sel) {
-        const im = await loadFrame(lineFrameT(l, i, cfg.overrides));
+      const texts = panelTexts();
+      for (const [k, { i }] of sel.entries()) {
+        const im = await loadFrame(frameFor(i));
         c.width = 480; c.height = Math.round(im.height * (480 / im.width));
         cx.drawImage(im, 0, 0, c.width, c.height);
-        drawCaption(cx, l[4], c.width, c.height);
+        drawCaption(cx, texts[k] ?? "", c.width, c.height);
         const { data } = cx.getImageData(0, 0, c.width, c.height);
         const palette = quantize(data, 256);
         gif.writeFrame(applyPalette(data, palette), c.width, c.height, { palette, delay: 1600 });
@@ -492,10 +579,13 @@ export async function initQuoteNav(cfg) {
         }
       } else if (!$("#tab-image").hidden) {
         e.preventDefault();
-        st.frameT = Math.max(0, Math.min(cfg.duration ?? Infinity, st.frameT + dir * 0.5));
+        const i = st.selA; // multi-panel: arrows step the first panel's frame
+        st.frameTs.set(i, clampT(frameFor(i) + dir * 0.5));
         markFilmstrip();
         drawCard();
-        fstrip?.querySelector(".on")?.scrollIntoView({ block: "nearest", inline: "center", behavior: "smooth" });
+        syncUrl();
+        strips?.querySelector(`.fstrip[data-line="${i}"] .on`)
+          ?.scrollIntoView({ block: "nearest", inline: "center", behavior: "smooth" });
       } else {
         e.preventDefault();
         const t = player.raw()?.getCurrentTime?.() ?? st.ctxStart;

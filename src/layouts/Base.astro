@@ -1186,6 +1186,16 @@ const isOn = (p) => (p === "/" ? path === "/" : path.startsWith(p));
   }
   .fstrip img:hover { opacity: 0.9; }
   .fstrip img.on { opacity: 1; border-color: var(--accent); }
+  #fstrips { display: grid; gap: 0.15rem; min-width: 0; }
+  .fs-label {
+    font-size: 0.78rem;
+    color: var(--fg-dim);
+    margin-top: 0.35rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .fs-label .who { color: var(--accent); font-weight: 700; }
 
   /* header command-bar search */
   .nav-search {
