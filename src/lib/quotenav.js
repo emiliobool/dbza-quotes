@@ -58,10 +58,14 @@ export async function initQuoteNav(cfg) {
     const qs = parseFloat(params.get("qs"));
     const qe = parseFloat(params.get("qe"));
     st.ctxStart = t; st.ctxEnd = Math.min(cfg.duration ?? t + d, t + d);
-    const sel = Number.isFinite(qs) && Number.isFinite(qe)
+    // An explicit qs/qe is somebody's actual quote — honour it whole. Without
+    // one we're just opening the page cold on a default 15s window, which on
+    // rapid-fire dialog can swallow a dozen lines and open as a 12-up collage.
+    const explicit = Number.isFinite(qs) && Number.isFinite(qe);
+    const sel = explicit
       ? selFromRange(qs, qe)
       : selFromRange(t + 0.01, st.ctxEnd - 0.01);
-    if (sel) st.sel = rangeArr(sel[0], sel[1]);
+    if (sel) st.sel = rangeArr(sel[0], explicit ? sel[1] : Math.min(sel[1], sel[0] + 1));
     // sparse selection: ?sel= lists the picked line indices
     const selP = params.get("sel");
     if (selP) {
