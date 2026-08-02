@@ -45,22 +45,9 @@ const inCtx = (l) => clip && l.end > clip.start && l.start < clip.end;
   <div class="clip-main">
     <div class="clip-head">
       <h1 id="q-title"><span class="qmark">“</span><span id="q-title-text">{clip ? clip.title : mediaLabel(m)}</span><span class="qmark">”</span></h1>
-      <p class="clip-credits">
-        <span id="q-speaker" class="speaker">{clip?.speaker ?? ""}</span>
-        <span class="sep" id="q-speaker-sep" style={clip?.speaker ? "" : "display:none"}>·</span>
-        <a href={`/${show}/${item}/`} title="Episode page & full transcript">{mediaLabel(m)}</a>
-        <span class="sep">·</span>
-        <span class="tstamp" id="q-time" title="Start time in the episode">{fmtTime(clip?.start ?? 0)}</span>
-        {group && <span class="sep">·</span>}
-        {group && <a href={`/group/${show}/${group.id}/`} class="group-chip" title={group.blurb}>{group.title}</a>}
-      </p>
-    </div>
-    <div class="media-tabs" role="tablist">
-      <a class="mtab on" data-tab="video" href="#video" title="Watch the clip">▶ Video</a>
-      <a class="mtab" data-tab="image" href="#image" title="Make a shareable image from this quote">🖼 Image</a>
     </div>
 
-    <div id="tab-video">
+    <div id="tab-video" hidden>
       <div class="player-wrap has-overlay" id="player-wrap">
         <div id="yt-player"></div>
         <div class="clip-controls overlay" id="controls"></div>
@@ -68,10 +55,14 @@ const inCtx = (l) => clip && l.end > clip.start && l.start < clip.end;
       <div class="caption-bar" id="caption"></div>
     </div>
 
-    <div id="tab-image" hidden>
+    <div id="tab-image">
       <div class="imgmaker">
         <canvas id="imgcanvas" width="640" height="480"></canvas>
-        <div class="fstrip" id="fstrip" title="Pick a different frame"></div>
+        <div class="fstrip-wrap">
+          <button class="fs-nav prev" id="fs-prev" title="Earlier frames" aria-label="Scroll to earlier frames">‹</button>
+          <div class="fstrip" id="fstrip" title="Pick a different frame"></div>
+          <button class="fs-nav next" id="fs-next" title="Later frames" aria-label="Scroll to later frames">›</button>
+        </div>
         <div class="imgmaker-bar">
           <textarea id="imgtext" rows="2" title="Edit the caption — your image, your words"></textarea>
           <div class="btn-row" style="margin:0.5rem 0 0">
@@ -83,6 +74,11 @@ const inCtx = (l) => clip && l.end > clip.start && l.start < clip.end;
           <p class="meta" id="img-note" hidden>Frames are still uploading — try again soon.</p>
         </div>
       </div>
+    </div>
+
+    <div class="media-tabs" role="tablist">
+      <a class="mtab on" data-tab="image" href="#image" title="Make a shareable image from this quote">🖼 Image</a>
+      <a class="mtab" data-tab="video" href="#video" title="Watch the clip">▶ Video</a>
     </div>
 
     <div class="action-bar">
@@ -113,15 +109,10 @@ const inCtx = (l) => clip && l.end > clip.start && l.start < clip.end;
       >
         <span class="lthumb-wrap">
           <img class="lthumb" loading="lazy" decoding="async" crossorigin="anonymous" src={frameUrl(item, lineFrameT([l.start, l.end], l.i, overrides))} alt="" onerror="this.classList.add('dead')" />
+          {l.kind === "dialog" && l.speaker && <span class="lspeaker">{l.speaker}</span>}
           <span class="tstamp">{fmtTime(l.start)}</span>
         </span>
-        <div class="text">
-          {l.kind === "dialog" ? (
-            <>{l.speaker && <span class="speaker">{l.speaker}: </span>}{l.text}</>
-          ) : (
-            <>[{l.text}]</>
-          )}
-        </div>
+        <div class="text">{l.kind === "dialog" ? l.text : <>[{l.text}]</>}</div>
       </div>
     ))}
   </div>

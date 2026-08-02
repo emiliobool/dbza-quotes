@@ -90,13 +90,14 @@ export async function initQuoteNav(cfg) {
   }
 
   // ---------- player ----------
+  initState(); // before the player so it cues at the real clip start
   const player = await createClipPlayer({
     mountId: "yt-player",
     youtube: cfg.youtube,
     lines,
     captionEl: $("#caption"),
     controlsEl: $("#controls"),
-    start: 0, end: 10, loop: true,
+    start: st.ctxStart, end: st.ctxEnd, loop: true,
     onTime: (t) => {
       for (const el of lineEls) {
         const active = +el.dataset.t <= t && t <= +el.dataset.e + 0.3;
@@ -108,7 +109,7 @@ export async function initQuoteNav(cfg) {
 
   // ---------- render ----------
   function currentUrl() {
-    const h = location.hash === "#image" ? "#image" : "";
+    const h = location.hash === "#video" ? "#video" : "";
     if (st.curated) return `/clip/${cfg.show}/${st.curated.id}/${h}`;
     const [qs, qe] = quoteSpan();
     const r = (x) => Math.round(x * 10) / 10;
@@ -121,12 +122,8 @@ export async function initQuoteNav(cfg) {
     const title = st.curated
       ? st.curated.title
       : first ? (first.l[4].length > 64 ? first.l[4].slice(0, 61) + "…" : first.l[4]) : cfg.mediaTitle;
-    const speaker = st.curated?.speaker ?? first?.l[3] ?? "";
 
     $("#q-title-text").textContent = title;
-    $("#q-speaker").textContent = speaker;
-    $("#q-speaker-sep").style.display = speaker ? "" : "none";
-    $("#q-time").textContent = fmtTime(quoteSpan()[0]);
     document.title = `"${title}" — ${cfg.mediaTitle} | DBZA Quotes`;
 
     for (const el of lineEls) {
@@ -218,18 +215,23 @@ export async function initQuoteNav(cfg) {
   });
 
   // ---------- tabs (hash-driven so #video / #image deep-link) ----------
+  // image is the default; #video opts into the player
   const tabs = document.querySelectorAll(".mtab");
   function applyTab() {
-    const img = location.hash === "#image";
+    const img = location.hash !== "#video";
     tabs.forEach((x) => x.classList.toggle("on", (x.dataset.tab === "image") === img));
     $("#tab-video").hidden = img;
     $("#tab-image").hidden = !img;
     if (img) { player.pause(); buildFilmstrip(); drawCard(); }
     else {
-      // back to video: if the paused spot is outside the (possibly new) clip
-      // window, line the player up with it — paused, ready to play
-      const t = player.raw()?.getCurrentTime?.() ?? null;
-      if (t !== null && (t < st.ctxStart - 0.5 || t > st.ctxEnd)) player.seek(st.ctxStart, false);
+      // to video: line the player up with the clip window. Only seek a player
+      // that has already been started — seekTo() on a freshly-cued player
+      // kicks off playback, which is exactly what we don't want on load.
+      const yt = player.raw();
+      const started = [1, 2, 3].includes(yt?.getPlayerState?.());
+      const t = yt?.getCurrentTime?.() ?? null;
+      if (started && t !== null && (t < st.ctxStart - 0.5 || t > st.ctxEnd))
+        player.seek(st.ctxStart, false);
     }
   }
   window.addEventListener("hashchange", applyTab);
@@ -331,6 +333,17 @@ export async function initQuoteNav(cfg) {
     if (!fstrip) return;
     for (const el of fstrip.children) el.classList.toggle("on", Math.abs(+el.dataset.t - st.frameT) < 0.26);
   }
+  // easy horizontal scrolling: edge arrows + plain mouse wheel
+  $("#fs-prev")?.addEventListener("click", () =>
+    fstrip.scrollBy({ left: -fstrip.clientWidth * 0.7, behavior: "smooth" }));
+  $("#fs-next")?.addEventListener("click", () =>
+    fstrip.scrollBy({ left: fstrip.clientWidth * 0.7, behavior: "smooth" }));
+  fstrip?.addEventListener("wheel", (e) => {
+    if (Math.abs(e.deltaY) > Math.abs(e.deltaX)) {
+      e.preventDefault();
+      fstrip.scrollLeft += e.deltaY;
+    }
+  }, { passive: false });
 
   imgText?.addEventListener("input", () => drawCard());
 
@@ -427,10 +440,10 @@ export async function initQuoteNav(cfg) {
   });
 
   // ---------- go ----------
-  initState();
   render(false);
   history.replaceState({ a: st.selA, b: st.selB, cs: st.ctxStart, ce: st.ctxEnd }, "", location.href);
-  if (location.hash === "#image") applyTab();
-  player.seek(st.ctxStart, false);
+  applyTab();
+  // no initial seek: seekTo() on a cued player starts playback. The play
+  // button snaps into the clip window on its own.
   setTimeout(() => scrollPanelTo(lineEls[st.selA], true), 100);
 }

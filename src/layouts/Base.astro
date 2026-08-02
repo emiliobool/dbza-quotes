@@ -999,11 +999,33 @@ const isOn = (p) => (p === "/" ? path === "/" : path.startsWith(p));
     border-radius: 0 4px 0 0;
   }
   .transcript .line .lthumb.dead { display: none; }
+  /* quote-page sidebar: speaker overlaid on the thumbnail, wider thumb */
+  .dialog-panel .line .lthumb-wrap { width: 88px; }
+  .dialog-panel .line .lthumb-wrap .lspeaker {
+    position: absolute;
+    top: 0;
+    left: 0;
+    max-width: 100%;
+    padding: 0 0.28rem;
+    font-size: 0.55rem;
+    line-height: 1.7;
+    font-weight: 700;
+    background: rgba(0, 0, 0, 0.72);
+    color: var(--accent);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    border-radius: 0 0 4px 0;
+  }
   .transcript .line.in-quote {
     background: rgba(255, 167, 34, 0.12);
     box-shadow: inset 3px 0 0 var(--accent);
   }
-  .dialog-panel { position: relative; }
+  /* mobile only: the desktop panel is position:sticky (which is also a
+     containing block for the ext-handles) — don't override it */
+  @media (max-width: 949px) {
+    .dialog-panel { position: relative; }
+  }
   .dialog-panel .line { cursor: pointer; }
   .ext-handle {
     position: absolute;
@@ -1041,13 +1063,44 @@ const isOn = (p) => (p === "/" ? path === "/" : path.startsWith(p));
   }
   .imgmaker-bar { display: grid; gap: 0.5rem; }
   .imgmaker textarea { resize: vertical; font-size: 0.95rem; }
+  .fstrip-wrap { position: relative; min-width: 0; }
   .fstrip {
     display: flex;
     gap: 4px;
     overflow-x: auto;
-    padding: 2px;
+    padding: 2px 2px 6px;
     scrollbar-width: thin;
+    scrollbar-color: var(--border-lit) transparent;
   }
+  .fstrip::-webkit-scrollbar { height: 7px; }
+  .fstrip::-webkit-scrollbar-track { background: transparent; }
+  .fstrip::-webkit-scrollbar-thumb { background: var(--border-lit); border-radius: 4px; }
+  .fs-nav {
+    position: absolute;
+    top: 2px;
+    bottom: 8px;
+    z-index: 2;
+    width: 26px;
+    border: 0;
+    color: var(--fg);
+    font-size: 1.4rem;
+    line-height: 1;
+    cursor: pointer;
+    display: grid;
+    place-items: center;
+    opacity: 0.9;
+  }
+  .fs-nav.prev {
+    left: 0;
+    border-radius: 5px 0 0 5px;
+    background: linear-gradient(90deg, rgba(5, 7, 11, 0.92), rgba(5, 7, 11, 0));
+  }
+  .fs-nav.next {
+    right: 0;
+    border-radius: 0 5px 5px 0;
+    background: linear-gradient(270deg, rgba(5, 7, 11, 0.92), rgba(5, 7, 11, 0));
+  }
+  .fs-nav:hover { color: var(--accent); }
   .fstrip img {
     width: 84px;
     aspect-ratio: 16/9;
