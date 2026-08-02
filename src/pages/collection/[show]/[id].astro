@@ -1,14 +1,14 @@
 ---
 import Base from "../../../layouts/Base.astro";
 import site from "../../../gen/site.json";
-import { fmtTime, mediaLabel } from "../../../lib/util.js";
+import { fmtTime, mediaLabel, clipUrl } from "../../../lib/util.js";
 
 export function getStaticPaths() {
-  return site.groups.map((g) => ({ params: { show: g.show, id: g.id }, props: { group: g } }));
+  return site.collections.map((g) => ({ params: { show: g.show, id: g.id }, props: { collection: g } }));
 }
 const { show } = Astro.params;
-const { group } = Astro.props;
-const clips = group.clips
+const { collection } = Astro.props;
+const clips = collection.clips
   .map((cid) => site.clips.find((c) => c.id === cid && c.show === show))
   .filter(Boolean);
 const mediaById = Object.fromEntries(site.media[show].map((m) => [m.id, m]));
@@ -16,17 +16,17 @@ const cover = clips.find((c) => c.image)?.image;
 ---
 
 <Base
-  title={`${group.title} — running gag | DBZA Quotes`}
-  description={group.blurb}
+  title={`${collection.title} — collection | DBZA Quotes`}
+  description={collection.blurb}
   ogImage={cover ? new URL(cover, Astro.site).href : null}
   wide
 >
   <p class="meta"><a class="backlink" href="/quotes/">← Quotes</a></p>
-  <h1>{group.title}</h1>
-  <p class="meta" style="margin-top:-0.4rem">{group.blurb}</p>
+  <h1>{collection.title}</h1>
+  <p class="meta" style="margin-top:-0.4rem">{collection.blurb}</p>
   <div class="clip-grid" style="margin-top:1rem">
     {clips.map((c) => (
-      <a class="clip-card bare" href={`/clip/${show}/${c.id}/`} title={`${c.title} — ${c.speaker ?? ""} · ${mediaLabel(mediaById[c.media])} · ${fmtTime(c.start)}`}>
+      <a class="clip-card bare" href={clipUrl(c)} title={`${c.title} — ${c.speaker ?? ""} · ${mediaLabel(mediaById[c.media])} · ${fmtTime(c.start)}`}>
         {c.image && <img loading="lazy" src={c.image} alt={c.quote} />}
         <span class="ep-tag">{mediaLabel(mediaById[c.media]).replace("Episode", "Ep")}</span>
       </a>

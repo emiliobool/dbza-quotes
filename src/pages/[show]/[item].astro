@@ -1,7 +1,7 @@
 ---
 import Base from "../../layouts/Base.astro";
 import site from "../../gen/site.json";
-import { fmtTime, ytThumb, ytLink, mediaLabel } from "../../lib/util.js";
+import { fmtTime, ytThumb, ytLink, mediaLabel, clipUrl } from "../../lib/util.js";
 import { frameUrl, lineFrameT } from "../../lib/config.js";
 
 export function getStaticPaths() {
@@ -51,7 +51,7 @@ const lineUrl = (l) => {
     {lines.map((l) => {
       const q = l.kind === "dialog" ? quoteAt(l) : null;
       return (
-        <a class={`line ${l.kind} ${q ? "in-quote" : ""}`} id={`L${l.i}`} href={q ? `/clip/${show}/${q.id}/` : lineUrl(l)} title={l.kind === "dialog" ? (l.speaker ? `${l.speaker}: ${l.text}` : l.text) : `[${l.text}]`}>
+        <a class={`line ${l.kind} ${q ? "in-quote" : ""}`} id={`L${l.i}`} href={q ? clipUrl(q) : lineUrl(l)} title={l.kind === "dialog" ? (l.speaker ? `${l.speaker}: ${l.text}` : l.text) : `[${l.text}]`}>
           <span class="lthumb-wrap">
             <img class="lthumb" loading="lazy" decoding="async" crossorigin="anonymous" src={frameUrl(item, lineFrameT([l.start, l.end], l.i, overrides))} alt="" onerror="this.classList.add('dead')" />
             <span class="tstamp">{fmtTime(l.start)}</span>

@@ -1,7 +1,7 @@
-// Quote navigator: the transcript is the UI. Click a line → that's the quote
-// (a saved line becomes its clip page; anything else becomes a stateless /c/
-// URL) — title, player window, links, and the image maker all follow. No
-// separate editor page, no reload.
+// Quote navigator: the transcript is the UI. Click a line → that's the quote,
+// always a stateful /c/ URL (curated quotes adopt their title via itemClips) —
+// title, player window, links, and the image maker all follow. No separate
+// editor page, no reload.
 import { createClipPlayer } from "./player.js";
 import { fmtTime } from "./util.js";
 import { frameUrl, lineFrameT } from "./config.js";
@@ -18,6 +18,7 @@ export async function initQuoteNav(cfg) {
     curated: null,               // adopted saved clip or null
     ctxStart: 0, ctxEnd: 10,     // player window
     frameTs: new Map(),          // per-line frame picks (line index → time)
+    capTop: new Set(),           // lines whose caption sits at the top of its panel
     cols: 1,                     // panels per row for multi-line images
     openStrip: null,             // line index whose frame carousel is open
     editPanel: null,             // panel index (k) whose caption editor is open
@@ -52,33 +53,26 @@ export async function initQuoteNav(cfg) {
 
   function initState() {
     const params = new URLSearchParams(location.search);
-    if (cfg.clip && !params.has("t")) {
-      st.curated = cfg.clip;
-      st.ctxStart = cfg.clip.start; st.ctxEnd = cfg.clip.end;
-      const sel = selFromRange(cfg.clip.qStart, cfg.clip.qEnd) ?? selFromRange(cfg.clip.start, cfg.clip.end);
-      if (sel) st.sel = rangeArr(sel[0], sel[1]);
-    } else {
-      const t = Math.max(0, parseFloat(params.get("t") ?? "0") || 0);
-      const d = parseFloat(params.get("d") ?? "15") || 15;
-      const qs = parseFloat(params.get("qs"));
-      const qe = parseFloat(params.get("qe"));
-      st.ctxStart = t; st.ctxEnd = Math.min(cfg.duration ?? t + d, t + d);
-      const sel = Number.isFinite(qs) && Number.isFinite(qe)
-        ? selFromRange(qs, qe)
-        : selFromRange(t + 0.01, st.ctxEnd - 0.01);
-      if (sel) st.sel = rangeArr(sel[0], sel[1]);
-      // sparse selection: ?sel= lists the picked line indices
-      const selP = params.get("sel");
-      if (selP) {
-        const picked = [...new Set(
-          selP.split(",").map((v) => parseInt(v, 10))
-            .filter((n) => Number.isInteger(n) && n >= 0 && n < lines.length)
-            .slice(0, 40)
-        )].sort((x, y) => x - y);
-        if (picked.length) st.sel = picked;
-      }
-      st.curated = matchCurated();
+    const t = Math.max(0, parseFloat(params.get("t") ?? "0") || 0);
+    const d = parseFloat(params.get("d") ?? "15") || 15;
+    const qs = parseFloat(params.get("qs"));
+    const qe = parseFloat(params.get("qe"));
+    st.ctxStart = t; st.ctxEnd = Math.min(cfg.duration ?? t + d, t + d);
+    const sel = Number.isFinite(qs) && Number.isFinite(qe)
+      ? selFromRange(qs, qe)
+      : selFromRange(t + 0.01, st.ctxEnd - 0.01);
+    if (sel) st.sel = rangeArr(sel[0], sel[1]);
+    // sparse selection: ?sel= lists the picked line indices
+    const selP = params.get("sel");
+    if (selP) {
+      const picked = [...new Set(
+        selP.split(",").map((v) => parseInt(v, 10))
+          .filter((n) => Number.isInteger(n) && n >= 0 && n < lines.length)
+          .slice(0, 40)
+      )].sort((x, y) => x - y);
+      if (picked.length) st.sel = picked;
     }
+    st.curated = matchCurated();
     // shared image state: custom frames (one per selected line) + edited caption
     const f = params.get("f");
     if (f)
@@ -86,6 +80,10 @@ export async function initQuoteNav(cfg) {
         const t = parseFloat(v);
         if (Number.isFinite(t) && k < st.sel.length) st.frameTs.set(st.sel[k], clampT(t));
       });
+    // caption placement, one "t"/"b" per selected line, in selection order
+    const cap = params.get("cap");
+    if (cap)
+      [...cap].forEach((ch, k) => { if (ch === "t" && k < st.sel.length) st.capTop.add(st.sel[k]); });
     const cols = parseInt(params.get("cols"), 10);
     if (cols === 2 || cols === 3) st.cols = 2; // 3-up retired; old links get 2-up
     st.pendingTxt = params.get("txt");
@@ -101,17 +99,22 @@ export async function initQuoteNav(cfg) {
   }
   const defFrameFor = (i) => lineFrameT(lines[i], i, cfg.overrides);
   const frameFor = (i) => st.frameTs.get(i) ?? defFrameFor(i);
+  const capTop = (i) => st.capTop.has(i);
   function quoteText(withSpeakers = true) {
     return selLines()
       .map(({ l }) =>
         l[2] !== "dialog" ? `[${l[4]}]` : withSpeakers && l[3] ? `${l[3]}: ${l[4]}` : l[4])
       .join("\n");
   }
+  // adopt a curated quote (its title) when the selection is exactly the line
+  // set its qStart/qEnd range produces — i.e. what its canonical URL selects
   function matchCurated() {
-    if (st.sel.length !== 1) return null;
-    const l = lines[st.sel[0]];
-    const mid = (l[0] + l[1]) / 2;
-    return cfg.itemClips.find((c) => c.qStart <= mid && mid <= c.qEnd) ?? null;
+    if (!st.sel.length || !contiguous()) return null;
+    const a = st.sel[0], b = st.sel[st.sel.length - 1];
+    return cfg.itemClips.find((c) => {
+      const r = selFromRange(c.qStart, c.qEnd);
+      return r && r[0] === a && r[1] === b;
+    }) ?? null;
   }
 
   // ---------- player ----------
@@ -122,6 +125,8 @@ export async function initQuoteNav(cfg) {
     lines,
     captionEl: $("#caption"),
     controlsEl: $("#controls"),
+    shieldEl: $("#player-shield"),
+    posterUrl: (t) => frameUrl(cfg.item, Math.min(t, cfg.duration ?? t)),
     start: st.ctxStart, end: st.ctxEnd, loop: true,
     onTime: (t, playing) => {
       // playhead highlight: only while the video is visible AND rolling —
@@ -144,12 +149,12 @@ export async function initQuoteNav(cfg) {
     const sel = selLines();
     if (sel.some(({ i }) => Math.abs(frameFor(i) - defFrameFor(i)) > 0.26))
       extras.set("f", sel.map(({ i }) => r(frameFor(i))).join(","));
+    if (sel.some(({ i }) => capTop(i))) extras.set("cap", sel.map(({ i }) => (capTop(i) ? "t" : "b")).join(""));
     if (sel.length > 1 && st.cols > 1) extras.set("cols", st.cols);
     if (!contiguous()) extras.set("sel", st.sel.join(","));
     const txt = imgText?.value ?? "";
     if (txt && txt !== quoteText(false)) extras.set("txt", txt.slice(0, 300));
     const ex = extras.toString();
-    if (st.curated) return `/clip/${cfg.show}/${st.curated.id}/${ex ? `?${ex}` : ""}${h}`;
     const [qs, qe] = quoteSpan();
     return `/c/${cfg.show}/${cfg.item}/?t=${r(st.ctxStart)}&d=${r(st.ctxEnd - st.ctxStart)}&qs=${r(qs)}&qe=${r(qe)}${ex ? `&${ex}` : ""}${h}`;
   }
@@ -167,7 +172,6 @@ export async function initQuoteNav(cfg) {
 
     for (const el of lineEls) el.classList.toggle("in-quote", isSel(+el.dataset.i));
     player.setRange(st.ctxStart, st.ctxEnd);
-    $("#img-gif").hidden = sel.length < 2;
     const cb = $("#cols-btn");
     if (cb) { cb.hidden = sel.length < 2; markCols(); }
     closeEditor(); // any open caption editor died with the old selection
@@ -187,8 +191,10 @@ export async function initQuoteNav(cfg) {
       st.ctxStart = Math.max(0, qs - PAD_S);
       st.ctxEnd = Math.min(cfg.duration ?? qe + PAD_E, qe + PAD_E);
     }
-    // frame picks survive grow/shrink but reset for lines that left the selection
+    // frame picks and caption placement survive grow/shrink but reset for
+    // lines that left the selection
     for (const k of [...st.frameTs.keys()]) if (!isSel(k)) st.frameTs.delete(k);
+    for (const k of [...st.capTop]) if (!isSel(k)) st.capTop.delete(k);
     render();
     // don't start (hidden) playback while the image tab is up
     if (play && $("#tab-image").hidden)
@@ -231,6 +237,7 @@ export async function initQuoteNav(cfg) {
       st.ctxStart = e.state.cs; st.ctxEnd = e.state.ce;
       st.curated = matchCurated();
       for (const k of [...st.frameTs.keys()]) if (!isSel(k)) st.frameTs.delete(k);
+      for (const k of [...st.capTop]) if (!isSel(k)) st.capTop.delete(k);
       render(false);
     }
   });
@@ -290,7 +297,7 @@ export async function initQuoteNav(cfg) {
 
   // Wrap + measure the caption exactly as it will be painted, so the click
   // target over the words can hug the words (and nothing else).
-  function captionLayout(c, text, W, H) {
+  function captionLayout(c, text, W, H, top = false) {
     if (!text.trim()) return null;
     const size = Math.max(20, Math.round(W / 21));
     c.font = `bold ${size}px "Arial", sans-serif`;
@@ -307,13 +314,14 @@ export async function initQuoteNav(cfg) {
     }
     const show = out.slice(0, 5);
     const lh = size * 1.16;
-    const yBase = H - show.length * lh - H * 0.035 + size; // first line's baseline
+    // first line's baseline — hugging the top or the bottom of the frame
+    const yBase = top ? H * 0.035 + size : H - show.length * lh - H * 0.035 + size;
     const width = Math.min(maxW, Math.max(...show.map((ln) => c.measureText(ln).width)));
     return { show, size, lh, yBase, width };
   }
 
-  function drawCaption(c, text, W, H) {
-    const lay = captionLayout(c, text, W, H);
+  function drawCaption(c, text, W, H, top = false) {
+    const lay = captionLayout(c, text, W, H, top);
     if (!lay) return;
     c.textAlign = "center";
     c.lineJoin = "round";
@@ -343,7 +351,6 @@ export async function initQuoteNav(cfg) {
     if (!ctx2d) return;
     const sel = selLines();
     const texts = panelTexts();
-    $("#flabel").textContent = sel.length === 1 ? fmtTime(frameFor(sel[0].i)) : "";
     try {
       const imgs = await Promise.all(sel.map(({ i }) => loadFrame(frameFor(i))));
       const pw = 640;
@@ -355,7 +362,7 @@ export async function initQuoteNav(cfg) {
         ctx2d.save();
         ctx2d.translate((k % cols) * pw, Math.floor(k / cols) * ph);
         ctx2d.drawImage(im, 0, 0, pw, ph);
-        drawCaption(ctx2d, texts[k] ?? "", pw, ph);
+        drawCaption(ctx2d, texts[k] ?? "", pw, ph, capTop(sel[k].i));
         ctx2d.restore();
       });
       placeTxtZones(sel, texts, pw, ph);
@@ -364,7 +371,7 @@ export async function initQuoteNav(cfg) {
       canvas.width = 640; canvas.height = 360;
       ctx2d.fillStyle = "#141821";
       ctx2d.fillRect(0, 0, 640, 360);
-      drawCaption(ctx2d, imgText?.value ?? imgState.text, 640, 360);
+      drawCaption(ctx2d, imgText?.value ?? imgState.text, 640, 360, capTop(sel[0]?.i));
       $("#img-note").hidden = false;
     }
   }
@@ -392,6 +399,8 @@ export async function initQuoteNav(cfg) {
   const canvasWrap = document.querySelector("#tab-image .canvas-wrap");
   const ICO_FILM = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="16" rx="2"/><circle cx="9" cy="10" r="1.6"/><path d="m5 18 5-5 3 3 3-3 3 3"/></svg>`;
   const ICO_PEN = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 3a2.8 2.8 0 1 1 4 4L7.5 20.5 2 22l1.5-5.5L17 3z"/></svg>`;
+  const ICO_UP = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20V5"/><path d="m5 12 7-7 7 7"/></svg>`;
+  const ICO_DOWN = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 4v15"/><path d="m19 12-7 7-7-7"/></svg>`;
 
   function panelGrid() {
     const sel = selLines();
@@ -399,8 +408,8 @@ export async function initQuoteNav(cfg) {
     return { sel, cols, rows: Math.ceil(sel.length / cols) };
   }
 
-  // fallback caption zone (no words yet): a strip along the panel's bottom
-  const EMPTY_TXT_RECT = { left: "10%", top: "78%", width: "80%", height: "18%" };
+  // fallback caption zone (no words yet): a strip along the panel's caption edge
+  const emptyTxtRect = (top) => ({ left: "10%", top: top ? "4%" : "78%", width: "80%", height: "18%" });
 
   function buildPanelHits() {
     if (!hits) return;
@@ -419,11 +428,16 @@ export async function initQuoteNav(cfg) {
       img.innerHTML = `<span class="phit-ico">${ICO_FILM}</span>`;
       img.addEventListener("click", () => (st.openStrip === i ? closeStrip() : openStripFor(i)));
       const txt = document.createElement("div");
-      txt.className = "phit-txt";
+      txt.className = `phit-txt${capTop(i) ? " cap-top" : ""}`;
       txt.title = "Edit this caption";
       txt.innerHTML = `<span class="phit-ico">${ICO_PEN}</span>`;
-      Object.assign(txt.style, EMPTY_TXT_RECT);
+      Object.assign(txt.style, emptyTxtRect(capTop(i)));
       txt.addEventListener("click", () => openEditor(k));
+      const move = document.createElement("button");
+      move.className = "phit-move";
+      paintMoveBtn(move, i);
+      move.addEventListener("click", (e) => { e.stopPropagation(); toggleCapPos(i); });
+      txt.appendChild(move);
       p.append(img, txt);
       hits.appendChild(p);
     });
@@ -433,11 +447,11 @@ export async function initQuoteNav(cfg) {
   // After each draw, move every caption hit-zone to hug its painted words.
   function placeTxtZones(sel, texts, pw, ph) {
     const zones = hits ? [...hits.children] : [];
-    sel.forEach((_, k) => {
+    sel.forEach(({ i }, k) => {
       const z = zones[k]?.querySelector(".phit-txt");
       if (!z) return;
-      const lay = captionLayout(ctx2d, texts[k] ?? "", pw, ph);
-      if (!lay) { Object.assign(z.style, EMPTY_TXT_RECT); return; }
+      const lay = captionLayout(ctx2d, texts[k] ?? "", pw, ph, capTop(i));
+      if (!lay) { Object.assign(z.style, emptyTxtRect(capTop(i))); return; }
       const pad = lay.size * 0.5;
       const x = Math.max(0, pw / 2 - lay.width / 2 - pad);
       const y = Math.max(0, lay.yBase - lay.size);
@@ -448,6 +462,22 @@ export async function initQuoteNav(cfg) {
       z.style.width = `${(w / pw) * 100}%`;
       z.style.height = `${(h / ph) * 100}%`;
     });
+  }
+
+  // arrow points where the caption would go: up when it's at the bottom, down when it's up top
+  function paintMoveBtn(btn, i) {
+    btn.title = capTop(i) ? "Move this caption back to the bottom" : "Move this caption to the top";
+    btn.setAttribute("aria-label", btn.title);
+    btn.innerHTML = capTop(i) ? ICO_DOWN : ICO_UP;
+  }
+
+  // send a panel's caption to the top of its frame, or back to the bottom
+  function toggleCapPos(i, { keepEditor = false } = {}) {
+    if (capTop(i)) st.capTop.delete(i); else st.capTop.add(i);
+    if (!keepEditor) closeEditor();
+    buildPanelHits(); // the button flips direction; zones move on the next draw
+    drawCard();
+    syncUrl();
   }
 
   function markStripOpen() {
@@ -464,7 +494,7 @@ export async function initQuoteNav(cfg) {
 
   // Caption editor popup: floats under the panel so the live caption on the
   // canvas stays visible while you type. Writes into the hidden master
-  // textarea (line k ↔ panel k), so ?txt=, the GIF, and saves keep working.
+  // textarea (line k ↔ panel k), so ?txt= and saves keep working.
   let editPop = null;
   function closeEditor() {
     st.editPanel = null;
@@ -502,7 +532,17 @@ export async function initQuoteNav(cfg) {
     });
     ta.addEventListener("blur", () =>
       setTimeout(() => { if (st.editPanel === k && document.activeElement !== ta) closeEditor(); }, 0));
-    editPop.appendChild(ta);
+    // same caption up/down toggle, alongside the words you're typing
+    const i = selLines()[k]?.i;
+    const move = document.createElement("button");
+    move.className = "pop-move";
+    paintMoveBtn(move, i);
+    move.addEventListener("mousedown", (e) => e.preventDefault()); // don't blur the textarea
+    move.addEventListener("click", () => { toggleCapPos(i, { keepEditor: true }); paintMoveBtn(move, i); });
+    const row = document.createElement("div");
+    row.className = "edit-row";
+    row.append(ta, move);
+    editPop.appendChild(row);
     canvasWrap?.appendChild(editPop);
     ta.focus();
     ta.setSelectionRange(ta.value.length, ta.value.length);
@@ -620,34 +660,6 @@ export async function initQuoteNav(cfg) {
     }, "image/png")
   );
 
-  $("#img-gif")?.addEventListener("click", async () => {
-    const sel = selLines();
-    if (sel.length < 2) return;
-    toast("Building GIF…");
-    try {
-      const { GIFEncoder, quantize, applyPalette } = await import("gifenc");
-      const gif = GIFEncoder();
-      const c = document.createElement("canvas");
-      const cx = c.getContext("2d");
-      const texts = panelTexts();
-      for (const [k, { i }] of sel.entries()) {
-        const im = await loadFrame(frameFor(i));
-        c.width = 480; c.height = Math.round(im.height * (480 / im.width));
-        cx.drawImage(im, 0, 0, c.width, c.height);
-        drawCaption(cx, texts[k] ?? "", c.width, c.height);
-        const { data } = cx.getImageData(0, 0, c.width, c.height);
-        const palette = quantize(data, 256);
-        gif.writeFrame(applyPalette(data, palette), c.width, c.height, { palette, delay: 1600 });
-      }
-      gif.finish();
-      const a = document.createElement("a");
-      a.href = URL.createObjectURL(new Blob([gif.bytes()], { type: "image/gif" }));
-      a.download = fileName("gif");
-      a.click();
-      URL.revokeObjectURL(a.href);
-    } catch { toast("GIF failed — frames may still be uploading"); }
-  });
-
   // ---------- actions ----------
   const copy = (text, msg) => navigator.clipboard.writeText(text).then(() => toast(msg));
 
@@ -678,7 +690,6 @@ export async function initQuoteNav(cfg) {
   });
   $("#copy-yt").addEventListener("click", () =>
     copy(`https://youtu.be/${cfg.youtube}?t=${Math.floor(quoteSpan()[0])}`, "YouTube link copied"));
-  $("#copy-quote").addEventListener("click", () => copy(quoteText(), "Quote copied"));
 
   // Save = publish: local stash first (never lost to a network hiccup), then
   // mint the public permalink — POST the state + rendered card to /api/save.
@@ -695,7 +706,7 @@ export async function initQuoteNav(cfg) {
 
     const u = currentUrl();
     const q = u.split("#")[0].split("?")[1] ?? "";
-    if (!u.startsWith("/c/") || !q) { toast("Saved on this device"); return; } // curated pages have permalinks already
+    if (!u.startsWith("/c/") || !q) { toast("Saved on this device"); return; }
     toast("Saving…");
     try {
       await drawCard();

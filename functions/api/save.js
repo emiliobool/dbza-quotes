@@ -23,6 +23,7 @@ export async function onRequestPost({ request, env }) {
   q.set("qe", c.qe);
   if (c.f) q.set("f", c.f);
   if (c.cols) q.set("cols", c.cols);
+  if (c.cap) q.set("cap", c.cap);
   if (c.sel) q.set("sel", c.sel);
   if (c.txt) q.set("txt", c.txt);
   const query = q.toString();

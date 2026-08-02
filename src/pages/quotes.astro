@@ -1,7 +1,7 @@
 ---
 import Base from "../layouts/Base.astro";
 import site from "../gen/site.json";
-import { mediaLabel, ytThumb, fmtTime } from "../lib/util.js";
+import { mediaLabel, ytThumb, fmtTime, clipUrl } from "../lib/util.js";
 
 const clips = site.clips
   .filter((c) => c.status === "published")
@@ -15,10 +15,10 @@ const mediaById = Object.fromEntries(site.media.dbza.map((m) => [m.id, m]));
   <div class="search-wrap">
     <input type="search" id="filter" placeholder={`Filter ${clips.length} quotes…`} autocomplete="off" />
   </div>
-  {site.groups.length > 0 && (
+  {site.collections.length > 0 && (
     <div class="btn-row" style="margin-top:0.9rem">
-      {site.groups.map((g) => (
-        <a class="group-chip" href={`/group/${g.show}/${g.id}/`} title={g.blurb}>{g.title}</a>
+      {site.collections.map((g) => (
+        <a class="collection-chip" href={`/collection/${g.show}/${g.id}/`} title={g.blurb}>{g.title}</a>
       ))}
     </div>
   )}
@@ -26,7 +26,7 @@ const mediaById = Object.fromEntries(site.media.dbza.map((m) => [m.id, m]));
     {clips.map((c) => {
       const m = mediaById[c.media];
       return (
-        <a class="clip-card bare" href={`/clip/dbza/${c.id}/`} title={`${c.title} — ${c.speaker ?? ""} · ${mediaLabel(m)} · ${fmtTime(c.start)}`}
+        <a class="clip-card bare" href={clipUrl(c)} title={`${c.title} — ${c.speaker ?? ""} · ${mediaLabel(m)} · ${fmtTime(c.start)}`}
           data-k={`${c.title} ${c.quote} ${c.speaker} ${mediaLabel(m)}`.toLowerCase()}>
           <img loading="lazy" src={c.image ?? ytThumb(m.youtube, "mqdefault")} alt={c.quote} />
           <span class="ep-tag">{mediaLabel(m).replace("Episode", "Ep")}</span>

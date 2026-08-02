@@ -23,7 +23,7 @@ const fmt = (s) => {
   return `${Math.floor(s / 60)}:${String(s % 60).padStart(2, "0")}`;
 };
 
-export async function createClipPlayer({ mountId, youtube, lines, captionEl, controlsEl, onTime, start = 0, end = null, loop = true }) {
+export async function createClipPlayer({ mountId, youtube, lines, captionEl, controlsEl, shieldEl, posterUrl, onTime, start = 0, end = null, loop = true }) {
   await loadApi();
   const state = { start, end, loop, player: null, scrubbing: false };
 
@@ -31,12 +31,42 @@ export async function createClipPlayer({ mountId, youtube, lines, captionEl, con
     state.player = new window.YT.Player(mountId, {
       videoId: youtube,
       playerVars: {
-        rel: 0, modestbranding: 1, cc_load_policy: 1, playsinline: 1,
+        rel: 0, modestbranding: 1, playsinline: 1, disablekb: 1, fs: 0,
         controls: 0, iv_load_policy: 3, start: Math.floor(start),
       },
-      events: { onReady: ready },
+      events: {
+        onReady: ready,
+        // our transcript captions are overlaid on the video; keep YouTube's own
+        // CC off even for viewers whose stored YT prefs force it on. The module
+        // loads lazily, so unload whenever it announces itself (onApiChange).
+        onApiChange: (e) => {
+          try { e.target.unloadModule("captions"); e.target.unloadModule("cc"); } catch {}
+        },
+      },
     });
   });
+
+  function togglePlay() {
+    const p = state.player;
+    if (p.getPlayerState() === 1) p.pauseVideo();
+    else {
+      const t = p.getCurrentTime();
+      if (state.end != null && (t < state.start - 0.5 || t >= state.end - 0.1)) p.seekTo(state.start, true);
+      p.playVideo();
+    }
+  }
+
+  // click shield: the iframe ignores pointer events (so YouTube never shows its
+  // hover UI); this layer takes the clicks and hides paused/idle YT overlays
+  // ("More videos" wall, title card) behind a frame poster.
+  if (shieldEl) {
+    shieldEl.addEventListener("click", togglePlay);
+    if (posterUrl) {
+      state.posterT = start;
+      shieldEl.style.setProperty("--poster", `url("${posterUrl(start)}")`);
+    }
+    shieldEl.classList.add("idle");
+  }
 
   // control bar
   let playBtn, scrub, timeLabel;
@@ -48,15 +78,7 @@ export async function createClipPlayer({ mountId, youtube, lines, captionEl, con
     playBtn = controlsEl.querySelector(".play-btn");
     scrub = controlsEl.querySelector(".scrub");
     timeLabel = controlsEl.querySelector(".time-label");
-    playBtn.addEventListener("click", () => {
-      const p = state.player;
-      if (p.getPlayerState() === 1) p.pauseVideo();
-      else {
-        const t = p.getCurrentTime();
-        if (state.end != null && (t < state.start - 0.5 || t >= state.end - 0.1)) p.seekTo(state.start, true);
-        p.playVideo();
-      }
-    });
+    playBtn.addEventListener("click", togglePlay);
     scrub.addEventListener("input", () => {
       state.scrubbing = true;
       paintScrub();
@@ -94,7 +116,16 @@ export async function createClipPlayer({ mountId, youtube, lines, captionEl, con
     const p = state.player;
     if (!p?.getCurrentTime) return;
     const t = p.getCurrentTime();
-    const playing = p.getPlayerState?.() === 1;
+    const st = p.getPlayerState?.();
+    const playing = st === 1;
+    if (shieldEl) {
+      const idle = st !== 1 && st !== 3; // paused/cued/ended — cover YT's overlays
+      if (idle && posterUrl && Math.abs(t - (state.posterT ?? -9)) > 0.3) {
+        state.posterT = t; // follows the scrubber while paused
+        shieldEl.style.setProperty("--poster", `url("${posterUrl(t)}")`);
+      }
+      shieldEl.classList.toggle("idle", idle);
+    }
     if (captionEl) {
       const l = lineAt(t);
       captionEl.innerHTML = l

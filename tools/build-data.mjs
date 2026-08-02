@@ -29,7 +29,7 @@ const shows = readdirSync(join(CONTENT, "shows"))
   .filter((f) => f.endsWith(".yaml"))
   .map((f) => readYaml(join(CONTENT, "shows", f)));
 
-const site = { shows: [], media: {}, clips: [], groups: [] };
+const site = { shows: [], media: {}, clips: [], collections: [] };
 
 for (const show of shows) {
   const mediaDir = join(CONTENT, "media", show.id);
@@ -96,22 +96,22 @@ for (const show of shows) {
       errors.push(`clip ${c.id}: bad range ${c.start}-${c.end}`);
   }
 
-  // groups (running gags / collections)
-  const groupsDir = join(CONTENT, "groups", show.id);
-  const groups = existsSync(groupsDir)
-    ? readdirSync(groupsDir).filter((f) => f.endsWith(".yaml")).map((f) => readYaml(join(groupsDir, f)))
+  // collections (running gags and other themed sets)
+  const collectionsDir = join(CONTENT, "collections", show.id);
+  const collections = existsSync(collectionsDir)
+    ? readdirSync(collectionsDir).filter((f) => f.endsWith(".yaml")).map((f) => readYaml(join(collectionsDir, f)))
     : [];
   const clipIds = new Set(clips.map((c) => c.id));
-  for (const g of groups)
+  for (const g of collections)
     for (const cid of g.clips)
-      if (!clipIds.has(cid)) errors.push(`group ${g.id}: unknown clip ${cid}`);
-  const groupByClip = {};
-  for (const g of groups) for (const cid of g.clips) groupByClip[cid] = g.id;
+      if (!clipIds.has(cid)) errors.push(`collection ${g.id}: unknown clip ${cid}`);
+  const collectionByClip = {};
+  for (const g of collections) for (const cid of g.clips) collectionByClip[cid] = g.id;
 
   site.shows.push(show);
   site.media[show.id] = media;
-  site.groups.push(...groups.map((g) => ({ ...g, show: show.id })));
-  site.clips.push(...clips.map((c) => ({ ...c, show: show.id, group: groupByClip[c.id] ?? null })));
+  site.collections.push(...collections.map((g) => ({ ...g, show: show.id })));
+  site.clips.push(...clips.map((c) => ({ ...c, show: show.id, collection: collectionByClip[c.id] ?? null })));
 
   write(join(PUB, "media.json"), Object.fromEntries(
     Object.entries(site.media).map(([sid, list]) => [
@@ -128,6 +128,27 @@ if (errors.length) {
 }
 
 write(join(GEN, "site.json"), site);
+
+// retired /clip/{show}/{slug} pages → the same quote as a stateful /c/ URL
+// (Cloudflare Pages _redirects; keeps every previously shared link alive)
+const r10 = (x) => Math.round(x * 10) / 10;
+const redirects = site.clips
+  .filter((c) => c.status === "published")
+  .flatMap((c) => {
+    // qs/qe round inward — see clipUrl() in src/lib/util.js
+    const qs = Math.ceil((c.quote_start ?? c.start) * 10) / 10;
+    const qe = Math.floor((c.quote_end ?? c.end) * 10) / 10;
+    const q = `t=${r10(c.start)}&d=${r10(c.end - c.start)}&qs=${qs}&qe=${qe}`;
+    const dest = `/c/${c.show}/${c.media}/?${q}`;
+    return [`/clip/${c.show}/${c.id}/ ${dest} 301`, `/clip/${c.show}/${c.id} ${dest} 301`];
+  });
+// groups were renamed to collections — keep the old paths alive
+for (const g of site.collections)
+  redirects.push(
+    `/group/${g.show}/${g.id}/ /collection/${g.show}/${g.id}/ 301`,
+    `/group/${g.show}/${g.id} /collection/${g.show}/${g.id}/ 301`
+  );
+writeFileSync(join(ROOT, "public", "_redirects"), redirects.join("\n") + "\n");
 const pub = site.clips.filter((c) => c.status === "published").length;
 console.log(
   `data ok: ${site.shows.length} show(s), ${Object.values(site.media).flat().length} media, ` +

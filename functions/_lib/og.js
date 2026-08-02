@@ -20,12 +20,14 @@ export function canonState(show, item, params) {
     .split(",").map((v) => parseFloat(v)).filter(Number.isFinite).map(r).join(",");
   const cols = ["2", "3"].includes(params.get("cols")) ? params.get("cols") : "";
   const txt = (params.get("txt") ?? "").slice(0, 300);
+  // caption placement, one "t"/"b" per selected line (absent = all bottom)
+  const cap = /^[tb]{1,40}$/.test(params.get("cap") ?? "") ? params.get("cap") : "";
   // sparse selection: indices of the picked lines (absent = contiguous)
   const sel = (params.get("sel") ?? "")
     .split(",").map((v) => parseInt(v, 10))
     .filter((n) => Number.isInteger(n) && n >= 0 && n < 100000)
     .slice(0, 40).join(",");
-  return { show, item, qs: r(qs), qe: r(qe), f, cols, txt, sel };
+  return { show, item, qs: r(qs), qe: r(qe), f, cols, txt, sel, cap };
 }
 
 async function sha256hex(s) {
@@ -37,9 +39,10 @@ async function sha256hex(s) {
 export async function ogCardKey(show, item, params) {
   const c = canonState(show, item, params);
   if (!c) return null;
-  // sel appended only when present, so keys for pre-sel URLs never change
+  // sel/cap appended only when present, so keys for URLs without them never change
   const parts = [c.show, c.item, c.qs, c.qe, c.f, c.cols, c.txt];
   if (c.sel) parts.push(c.sel);
+  if (c.cap) parts.push(`cap:${c.cap}`);
   const hex = await sha256hex(parts.join("|"));
   return `og/${hex.slice(0, 40)}.jpg`;
 }
