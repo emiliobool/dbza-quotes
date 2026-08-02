@@ -10,8 +10,8 @@ export function frameImgUrl(item, t) {
   return `https://dbza-frames.bool.is/${item}/grid/${String(n).padStart(6, "0")}.webp`;
 }
 
-/** R2 key for a share URL's rendered card, or null if the state can't have one. */
-export async function ogCardKey(show, item, params) {
+/** Validated, normalized image state from a share URL's params, or null. */
+export function canonState(show, item, params) {
   if (!/^[a-z0-9-]{1,40}$/.test(show ?? "") || !/^[a-z0-9-]{1,40}$/.test(item ?? "")) return null;
   const qs = parseFloat(params.get("qs"));
   const qe = parseFloat(params.get("qe"));
@@ -20,8 +20,24 @@ export async function ogCardKey(show, item, params) {
     .split(",").map((v) => parseFloat(v)).filter(Number.isFinite).map(r).join(",");
   const cols = ["2", "3"].includes(params.get("cols")) ? params.get("cols") : "";
   const txt = (params.get("txt") ?? "").slice(0, 300);
-  const canon = [show, item, r(qs), r(qe), f, cols, txt].join("|");
-  const digest = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(canon));
-  const hex = [...new Uint8Array(digest)].map((b) => b.toString(16).padStart(2, "0")).join("");
+  return { show, item, qs: r(qs), qe: r(qe), f, cols, txt };
+}
+
+async function sha256hex(s) {
+  const digest = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(s));
+  return [...new Uint8Array(digest)].map((b) => b.toString(16).padStart(2, "0")).join("");
+}
+
+/** R2 key for a share URL's rendered card, or null if the state can't have one. */
+export async function ogCardKey(show, item, params) {
+  const c = canonState(show, item, params);
+  if (!c) return null;
+  const hex = await sha256hex([c.show, c.item, c.qs, c.qe, c.f, c.cols, c.txt].join("|"));
   return `og/${hex.slice(0, 40)}.jpg`;
+}
+
+/** Short content-addressed id for a saved clip: same state → same id, always. */
+export async function savedId(show, item, query, len = 8) {
+  const hex = await sha256hex(`${show}/${item}?${query}`);
+  return BigInt(`0x${hex.slice(0, 24)}`).toString(36).padStart(len, "0").slice(0, len);
 }

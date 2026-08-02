@@ -588,14 +588,41 @@ export async function initQuoteNav(cfg) {
     copy(`https://youtu.be/${cfg.youtube}?t=${Math.floor(quoteSpan()[0])}`, "YouTube link copied"));
   $("#copy-quote").addEventListener("click", () => copy(quoteText(), "Quote copied"));
 
-  $("#save-clip").addEventListener("click", () => {
+  // Save = publish: local stash first (never lost to a network hiccup), then
+  // mint the public permalink — POST the state + rendered card to /api/save.
+  // Content-addressed server-side: re-saving the same state returns the same
+  // /s/ id, so this button is always safe to mash.
+  $("#save-clip").addEventListener("click", async () => {
     const saved = JSON.parse(localStorage.getItem("savedClips") || "[]");
-    saved.unshift({
+    const rec = {
       show: cfg.show, item: cfg.item, t: st.ctxStart, d: st.ctxEnd - st.ctxStart,
       title: $("#q-title-text").textContent, quote: quoteText().slice(0, 200), when: Date.now(),
-    });
+    };
+    saved.unshift(rec);
     localStorage.setItem("savedClips", JSON.stringify(saved.slice(0, 200)));
-    toast("Saved on this device");
+
+    const u = currentUrl();
+    const q = u.split("#")[0].split("?")[1] ?? "";
+    if (!u.startsWith("/c/") || !q) { toast("Saved on this device"); return; } // curated pages have permalinks already
+    toast("Saving…");
+    try {
+      await drawCard();
+      const blob = await new Promise((res) => canvas.toBlob(res, "image/jpeg", 0.85));
+      if (!blob || !$("#img-note").hidden) throw new Error("no card");
+      const resp = await fetch(`/api/save?show=${cfg.show}&item=${cfg.item}&${q}`, {
+        method: "POST",
+        headers: { "content-type": "image/jpeg" },
+        body: blob,
+      }).then((x) => x.json());
+      if (!resp?.id) throw new Error(resp?.error ?? "save failed");
+      rec.url = `${location.origin}/s/${resp.id}`;
+      localStorage.setItem("savedClips", JSON.stringify(saved.slice(0, 200)));
+      ogUploaded = q; // the card rode along — no need to re-send on copy-link
+      await navigator.clipboard.writeText(rec.url).catch(() => {});
+      toast("Saved — permalink copied");
+    } catch {
+      toast("Saved on this device — publishing failed");
+    }
   });
 
   // ---------- keyboard ----------
