@@ -6,12 +6,23 @@ export function frameN(t) {
   return Math.max(1, Math.round(t * 2) + 1);
 }
 
+const framePath = (item, t) =>
+  `${FRAMES}/${item}/grid/${String(frameN(t)).padStart(6, "0")}.webp`;
+
+/** For loads that send an Origin: crossorigin <img> and anything the canvas
+ *  reads. The query partitions the cache so only CORS-bearing responses land
+ *  here — a cached response without Access-Control-Allow-Origin would fail
+ *  every canvas load that reuses the entry. Anything that cannot send an
+ *  Origin must use framePlainUrl instead. Bumped c → c2 to abandon entries
+ *  poisoned before the CSS poster and cmdk thumbnails were split off. */
 export function frameUrl(item, t) {
-  // ?c partitions the edge cache: every in-app request carries an Origin header
-  // (crossorigin imgs / canvas), so these entries always cache WITH
-  // Access-Control-Allow-Origin. Origin-less fetches of the same frame (OG
-  // crawlers, direct hits) use the bare URL and can't poison canvas loads.
-  return `${FRAMES}/${item}/grid/${String(frameN(t)).padStart(6, "0")}.webp?c`;
+  return `${framePath(item, t)}?c2`;
+}
+
+/** For loads that CANNOT send an Origin — CSS background-image, OG crawlers,
+ *  direct hits. Bare URL, so they populate a separate cache entry. */
+export function framePlainUrl(item, t) {
+  return framePath(item, t);
 }
 
 /** Frame time for a transcript line: override if set, else the line's midpoint. */

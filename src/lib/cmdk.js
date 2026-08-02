@@ -98,7 +98,7 @@ export function initCmdk() {
       : "";
     resultsEl.innerHTML = head + hits.map((h, k) => `
       <a class="cmdk-hit${k === 0 ? " on" : ""}" href="${lineHref(h)}" data-k="${k}">
-        <img loading="lazy" decoding="async" src="${frameUrl(h.item, (h.start + h.end) / 2)}" alt="" onerror="this.style.visibility='hidden'">
+        <img loading="lazy" decoding="async" crossorigin="anonymous" src="${frameUrl(h.item, (h.start + h.end) / 2)}" alt="" onerror="this.style.visibility='hidden'">
         <span class="cmdk-text">${h.speaker ? `<span class="speaker">${esc(h.speaker)}:</span> ` : ""}${hl(h.text, text)}</span>
         <span class="cmdk-meta">${esc(mediaLabel(media[h.item]).replace("Episode", "Ep"))} · ${fmtTime(h.start)}</span>
       </a>`).join("");

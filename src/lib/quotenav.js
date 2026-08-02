@@ -4,7 +4,7 @@
 // editor page, no reload.
 import { createClipPlayer } from "./player.js";
 import { fmtTime } from "./util.js";
-import { frameUrl, lineFrameT } from "./config.js";
+import { frameUrl, framePlainUrl, lineFrameT } from "./config.js";
 
 const PAD_S = 1.0, PAD_E = 1.5; // ad-hoc context padding around the quote
 
@@ -130,7 +130,8 @@ export async function initQuoteNav(cfg) {
     captionEl: $("#caption"),
     controlsEl: $("#controls"),
     shieldEl: $("#player-shield"),
-    posterUrl: (t) => frameUrl(cfg.item, Math.min(t, cfg.duration ?? t)),
+    // the shield paints this as a CSS background — no Origin, so bare URL
+    posterUrl: (t) => framePlainUrl(cfg.item, Math.min(t, cfg.duration ?? t)),
     start: st.ctxStart, end: st.ctxEnd, loop: true,
     onTime: (t, playing) => {
       // playhead highlight: only while the video is visible AND rolling —
