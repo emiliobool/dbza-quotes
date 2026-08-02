@@ -35,7 +35,6 @@ export async function initQuoteNav(cfg) {
   function selFromRange(qs, qe) {
     let a = -1, b = -1;
     lines.forEach((l, i) => {
-      if (l[2] !== "dialog") return;
       if (l[1] > qs && l[0] < qe) { if (a === -1) a = i; b = i; }
     });
     return a === -1 ? null : [a, b];
@@ -64,8 +63,7 @@ export async function initQuoteNav(cfg) {
   }
 
   function selLines() {
-    return lines.slice(st.selA, st.selB + 1).map((l, k) => ({ l, i: st.selA + k }))
-      .filter((x) => x.l[2] === "dialog");
+    return lines.slice(st.selA, st.selB + 1).map((l, k) => ({ l, i: st.selA + k }));
   }
   function quoteSpan() {
     const sel = selLines();
@@ -79,7 +77,8 @@ export async function initQuoteNav(cfg) {
   }
   function quoteText(withSpeakers = true) {
     return selLines()
-      .map(({ l }) => (withSpeakers && l[3] ? `${l[3]}: ${l[4]}` : l[4]))
+      .map(({ l }) =>
+        l[2] !== "dialog" ? `[${l[4]}]` : withSpeakers && l[3] ? `${l[3]}: ${l[4]}` : l[4])
       .join("\n");
   }
   function matchCurated() {
@@ -99,8 +98,10 @@ export async function initQuoteNav(cfg) {
     controlsEl: $("#controls"),
     start: st.ctxStart, end: st.ctxEnd, loop: true,
     onTime: (t) => {
+      // playback highlight only makes sense while the video is visible
+      const imgMode = !document.getElementById("tab-image")?.hidden;
       for (const el of lineEls) {
-        const active = +el.dataset.t <= t && t <= +el.dataset.e + 0.3;
+        const active = !imgMode && +el.dataset.t <= t && t <= +el.dataset.e + 0.3;
         if (active && !el.classList.contains("active")) scrollPanelTo(el);
         el.classList.toggle("active", active);
       }
@@ -128,8 +129,8 @@ export async function initQuoteNav(cfg) {
 
     for (const el of lineEls) {
       const i = +el.dataset.i;
-      el.classList.toggle("in-quote", i >= st.selA && i <= st.selB && lines[i][2] === "dialog");
-      el.classList.toggle("in-range", lines[i][1] > st.ctxStart && lines[i][0] < st.ctxEnd);
+      el.classList.toggle("in-quote", i >= st.selA && i <= st.selB);
+      el.classList.toggle("main", i === st.selA);
     }
     player.setRange(st.ctxStart, st.ctxEnd);
     $("#img-gif").hidden = sel.length < 2;
@@ -158,15 +159,13 @@ export async function initQuoteNav(cfg) {
   }
 
   // ---------- transcript interaction ----------
+  // click = select exactly that line; shift-click / "+" handles / shift+arrows
+  // grow the selection
   let anchor = null;
   $("#dialog").addEventListener("click", (e) => {
     const el = e.target.closest(".line");
     if (!el) return;
     const i = +el.dataset.i;
-    if (lines[i][2] !== "dialog") {
-      if ($("#tab-image").hidden) player.seek(lines[i][0]);
-      return;
-    }
     if (e.shiftKey && anchor !== null) navigateTo(anchor, i);
     else { anchor = i; navigateTo(i, i); }
   });
@@ -174,9 +173,8 @@ export async function initQuoteNav(cfg) {
   // "+" handles at the selection edges — tap to include the previous/next
   // line (the touch-friendly version of shift-click).
   function nextDialog(i, dir) {
-    for (let j = i + dir; j >= 0 && j < lines.length; j += dir)
-      if (lines[j][2] === "dialog") return j;
-    return null;
+    const j = i + dir;
+    return j >= 0 && j < lines.length ? j : null;
   }
   function mkHandle(title, fn) {
     const b = document.createElement("button");
@@ -214,14 +212,19 @@ export async function initQuoteNav(cfg) {
     }
   });
 
-  // ---------- tabs (hash-driven so #video / #image deep-link) ----------
+  // ---------- image/video toggle (hash-driven so #video deep-links) ----------
   // image is the default; #video opts into the player
-  const tabs = document.querySelectorAll(".mtab");
+  const toggle = $("#tab-toggle");
   function applyTab() {
     const img = location.hash !== "#video";
-    tabs.forEach((x) => x.classList.toggle("on", (x.dataset.tab === "image") === img));
     $("#tab-video").hidden = img;
     $("#tab-image").hidden = !img;
+    if (toggle) {
+      toggle.href = img ? "#video" : "#image";
+      toggle.title = img ? "Watch the clip" : "Back to the image";
+      $("#tt-video").hidden = !img;
+      $("#tt-image").hidden = img;
+    }
     if (img) { player.pause(); buildFilmstrip(); drawCard(); }
     else {
       // to video: line the player up with the clip window. Only seek a player
@@ -421,22 +424,48 @@ export async function initQuoteNav(cfg) {
     toast("Saved on this device");
   });
 
-  $("#submit-clip").addEventListener("click", async () => {
-    const note = prompt("Suggest this quote for the public list?\nOptional note:");
-    if (note === null) return;
-    try {
-      const [qs, qe] = quoteSpan();
-      const r = await fetch("/api/submit", {
-        method: "POST",
-        headers: { "content-type": "application/json" },
-        body: JSON.stringify({
-          kind: "clip_suggestion",
-          payload: { show: cfg.show, item: cfg.item, t: st.ctxStart, d: st.ctxEnd - st.ctxStart,
-            qs, qe, note, quote: quoteText().slice(0, 500) },
-        }),
-      });
-      toast(r.ok ? "Submitted — thanks!" : "Submissions are closed right now");
-    } catch { toast("Submissions are unavailable right now"); }
+  // ---------- keyboard ----------
+  // ↑/↓ move the quote line · shift+↑/↓ grow the selection · ←/→ step the
+  // frame (image) or scrub 5s (video) · shift+←/→ previous/next episode
+  document.addEventListener("keydown", (e) => {
+    if (/^(INPUT|TEXTAREA|SELECT)$/.test(document.activeElement?.tagName)) return;
+    if (document.activeElement?.isContentEditable) return;
+    if (!document.getElementById("cmdk")?.hidden) return;
+    if (e.metaKey || e.ctrlKey || e.altKey) return;
+
+    if (e.key === "ArrowDown" || e.key === "ArrowUp") {
+      e.preventDefault();
+      const dir = e.key === "ArrowDown" ? 1 : -1;
+      if (e.shiftKey) {
+        // grow at the edge the arrow points at
+        if (dir === 1 && st.selB < lines.length - 1) navigateTo(st.selA, st.selB + 1, { play: false });
+        if (dir === -1 && st.selA > 0) navigateTo(st.selA - 1, st.selB, { play: false });
+      } else {
+        const i = Math.max(0, Math.min(lines.length - 1, (dir === 1 ? st.selB : st.selA) + dir));
+        anchor = i;
+        navigateTo(i, i, { play: false });
+        scrollPanelTo(lineEls[i]);
+      }
+    } else if (e.key === "ArrowLeft" || e.key === "ArrowRight") {
+      const dir = e.key === "ArrowRight" ? 1 : -1;
+      if (e.shiftKey) {
+        const idx = cfg.items.indexOf(cfg.item) + dir;
+        if (idx >= 0 && idx < cfg.items.length) {
+          e.preventDefault();
+          location.href = `/c/${cfg.show}/${cfg.items[idx]}/`;
+        }
+      } else if (!$("#tab-image").hidden) {
+        e.preventDefault();
+        st.frameT = Math.max(0, Math.min(cfg.duration ?? Infinity, st.frameT + dir * 0.5));
+        markFilmstrip();
+        drawCard();
+        fstrip?.querySelector(".on")?.scrollIntoView({ block: "nearest", inline: "center", behavior: "smooth" });
+      } else {
+        e.preventDefault();
+        const t = player.raw()?.getCurrentTime?.() ?? st.ctxStart;
+        player.seek(Math.max(st.ctxStart, Math.min(st.ctxEnd, t + dir * 5)), false);
+      }
+    }
   });
 
   // ---------- go ----------
