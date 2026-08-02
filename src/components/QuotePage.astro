@@ -41,21 +41,20 @@ const inCtx = (l) => clip && l.end > clip.start && l.start < clip.end;
   </div>
 </div>
 
-<div class="clip-head">
-  <h1 id="q-title"><span class="qmark">“</span><span id="q-title-text">{clip ? clip.title : mediaLabel(m)}</span><span class="qmark">”</span></h1>
-  <p class="clip-credits">
-    <span id="q-speaker" class="speaker">{clip?.speaker ?? ""}</span>
-    <span class="sep" id="q-speaker-sep" style={clip?.speaker ? "" : "display:none"}>·</span>
-    <a href={`/${show}/${item}/`} title="Episode page & full transcript">{mediaLabel(m)}</a>
-    <span class="sep">·</span>
-    <span class="tstamp" id="q-time" title="Start time in the episode">{fmtTime(clip?.start ?? 0)}</span>
-    {group && <span class="sep">·</span>}
-    {group && <a href={`/group/${show}/${group.id}/`} class="group-chip" title={group.blurb}>{group.title}</a>}
-  </p>
-</div>
-
 <div class="clip-layout">
   <div class="clip-main">
+    <div class="clip-head">
+      <h1 id="q-title"><span class="qmark">“</span><span id="q-title-text">{clip ? clip.title : mediaLabel(m)}</span><span class="qmark">”</span></h1>
+      <p class="clip-credits">
+        <span id="q-speaker" class="speaker">{clip?.speaker ?? ""}</span>
+        <span class="sep" id="q-speaker-sep" style={clip?.speaker ? "" : "display:none"}>·</span>
+        <a href={`/${show}/${item}/`} title="Episode page & full transcript">{mediaLabel(m)}</a>
+        <span class="sep">·</span>
+        <span class="tstamp" id="q-time" title="Start time in the episode">{fmtTime(clip?.start ?? 0)}</span>
+        {group && <span class="sep">·</span>}
+        {group && <a href={`/group/${show}/${group.id}/`} class="group-chip" title={group.blurb}>{group.title}</a>}
+      </p>
+    </div>
     <div class="media-tabs" role="tablist">
       <a class="mtab on" data-tab="video" href="#video" title="Watch the clip">▶ Video</a>
       <a class="mtab" data-tab="image" href="#image" title="Make a shareable image from this quote">🖼 Image</a>
@@ -112,17 +111,10 @@ const inCtx = (l) => clip && l.end > clip.start && l.start < clip.end;
         data-i={l.i} data-t={l.start} data-e={l.end}
         title={l.kind === "dialog" ? (l.speaker ? `${l.speaker}: ${l.text}` : l.text) : `[${l.text}]`}
       >
-        {l.kind === "dialog" ? (
-          <span class="lthumb-wrap">
-            <img class="lthumb" loading="lazy" decoding="async" crossorigin="anonymous" src={frameUrl(item, lineFrameT([l.start, l.end], l.i, overrides))} alt="" onerror="this.classList.add('dead')" />
-            <span class="tstamp">{fmtTime(l.start)}</span>
-          </span>
-        ) : (
-          <>
-            <span class="lthumb spacer" />
-            <span class="tstamp">{fmtTime(l.start)}</span>
-          </>
-        )}
+        <span class="lthumb-wrap">
+          <img class="lthumb" loading="lazy" decoding="async" crossorigin="anonymous" src={frameUrl(item, lineFrameT([l.start, l.end], l.i, overrides))} alt="" onerror="this.classList.add('dead')" />
+          <span class="tstamp">{fmtTime(l.start)}</span>
+        </span>
         <div class="text">
           {l.kind === "dialog" ? (
             <>{l.speaker && <span class="speaker">{l.speaker}: </span>}{l.text}</>

@@ -34,6 +34,11 @@ const isOn = (p) => (p === "/" ? path === "/" : path.startsWith(p));
         <a href="/" class="brand" aria-label="DBZA Quotes — home">
           <span class="brand-mark">DBZA</span><span class="brand-word">Quotes</span>
         </a>
+        <button class="nav-search" id="cmdk-open" title="Search every line (⌘K or /)" aria-label="Search">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.8-3.8"/></svg>
+          <span class="nav-search-hint">Search…</span>
+          <kbd>⌘K</kbd>
+        </button>
         <span class="nav-spacer"></span>
         <a href="/quotes/" class:list={{ on: isOn("/quotes") }}>Quotes</a>
         <a href="/dbza/" class:list={{ on: isOn("/dbza") }}>Episodes</a>
@@ -53,6 +58,21 @@ const isOn = (p) => (p === "/" ? path === "/" : path.startsWith(p));
       </p>
       <p class="footer-kicker">No Dragon Balls were gathered in the making of this website.</p>
     </footer>
+
+    <div class="cmdk" id="cmdk" hidden>
+      <div class="cmdk-panel">
+        <div class="cmdk-inputwrap">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.8-3.8"/></svg>
+          <input id="cmdk-input" type="search" placeholder="Search every line of DBZA…" autocomplete="off" spellcheck="false" />
+          <kbd>esc</kbd>
+        </div>
+        <div class="cmdk-results" id="cmdk-results"></div>
+      </div>
+    </div>
+    <script>
+      import { initCmdk } from "../lib/cmdk.js";
+      initCmdk();
+    </script>
   </body>
 </html>
 
@@ -770,7 +790,7 @@ const isOn = (p) => (p === "/" ? path === "/" : path.startsWith(p));
   /* ---------- clip pages: player + dialog sidebar ---------- */
   .clip-layout { display: grid; gap: 1.2rem; align-items: start; }
   @media (min-width: 950px) {
-    .clip-layout { grid-template-columns: minmax(0, 1fr) 350px; }
+    .clip-layout { grid-template-columns: minmax(0, 1fr) 420px; }
     .dialog-panel {
       position: sticky;
       top: 4.6rem;
@@ -978,7 +998,6 @@ const isOn = (p) => (p === "/" ? path === "/" : path.startsWith(p));
     color: #dfe5f0;
     border-radius: 0 4px 0 0;
   }
-  .transcript .line .lthumb.spacer { visibility: hidden; width: 72px; height: 0; border: 0; flex: none; }
   .transcript .line .lthumb.dead { display: none; }
   .transcript .line.in-quote {
     background: rgba(255, 167, 34, 0.12);
@@ -1042,6 +1061,128 @@ const isOn = (p) => (p === "/" ? path === "/" : path.startsWith(p));
   }
   .fstrip img:hover { opacity: 0.9; }
   .fstrip img.on { opacity: 1; border-color: var(--accent); }
+
+  /* header command-bar search */
+  .nav-search {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45rem;
+    margin-left: 0.9rem;
+    padding: 0.34rem 0.7rem;
+    background: rgba(255, 255, 255, 0.05);
+    color: var(--fg-dim);
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    font-size: 0.8rem;
+    cursor: pointer;
+    min-width: 9rem;
+  }
+  .nav-search:hover { border-color: var(--border-lit); color: var(--fg); }
+  .nav-search svg { width: 14px; height: 14px; flex: none; }
+  .nav-search kbd {
+    margin-left: auto;
+    font-size: 0.62rem;
+    padding: 0.05rem 0.32rem;
+    border: 1px solid var(--border);
+    border-radius: 5px;
+    background: var(--bg2);
+    color: var(--fg-dim);
+  }
+  @media (max-width: 640px) {
+    .nav-search { min-width: 0; }
+    .nav-search-hint, .nav-search kbd { display: none; }
+  }
+  .cmdk {
+    position: fixed;
+    inset: 0;
+    z-index: 50;
+    background: rgba(5, 7, 11, 0.72);
+    backdrop-filter: blur(4px);
+    padding: min(10vh, 5rem) 1rem 1rem;
+  }
+  .cmdk-panel {
+    max-width: 44rem;
+    margin: 0 auto;
+    background: var(--bg2);
+    border: 1px solid var(--border-lit);
+    border-radius: var(--radius);
+    box-shadow: 0 30px 70px -20px rgba(0, 0, 0, 0.9);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    max-height: min(70vh, 34rem);
+  }
+  .cmdk-inputwrap {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    padding: 0.85rem 1rem;
+    border-bottom: 1px solid var(--border);
+  }
+  .cmdk-inputwrap svg { width: 17px; height: 17px; color: var(--accent); flex: none; }
+  .cmdk-inputwrap input {
+    flex: 1;
+    background: none;
+    border: 0;
+    outline: none;
+    color: var(--fg);
+    font-size: 1.05rem;
+  }
+  .cmdk-inputwrap kbd {
+    font-size: 0.62rem;
+    padding: 0.1rem 0.4rem;
+    border: 1px solid var(--border);
+    border-radius: 5px;
+    color: var(--fg-dim);
+  }
+  .cmdk-results { overflow-y: auto; padding: 0.4rem; }
+  .cmdk-note { color: var(--fg-dim); font-size: 0.9rem; margin: 0.6rem 0.7rem; }
+  .cmdk-hit {
+    display: flex;
+    align-items: center;
+    gap: 0.7rem;
+    padding: 0.42rem 0.55rem;
+    border-radius: 9px;
+    color: var(--fg);
+  }
+  .cmdk-hit:hover { text-decoration: none; }
+  .cmdk-hit.on { background: var(--accent-soft); }
+  .cmdk-hit img {
+    width: 76px;
+    aspect-ratio: 16/9;
+    object-fit: cover;
+    border-radius: 5px;
+    flex: none;
+    background: #0d1117;
+  }
+  .cmdk-hit .cmdk-text {
+    flex: 1;
+    font-size: 0.92rem;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .cmdk-hit .cmdk-text mark { background: var(--accent-soft); color: var(--accent); }
+  .cmdk-hit .cmdk-meta { flex: none; color: var(--fg-dim); font-size: 0.72rem; white-space: nowrap; }
+  .cmdk-chips { display: flex; flex-wrap: wrap; gap: 0.4rem; padding: 0.2rem 0.7rem 0.7rem; }
+  .cmdk-chip {
+    background: var(--bg3);
+    color: var(--fg);
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    padding: 0.28rem 0.75rem;
+    font-size: 0.8rem;
+    cursor: pointer;
+  }
+  .cmdk-chip:hover { border-color: var(--accent); color: var(--accent); }
+  .cmdk-note code {
+    background: var(--bg3);
+    border: 1px solid var(--border);
+    border-radius: 5px;
+    padding: 0.05rem 0.3rem;
+    font-size: 0.78rem;
+  }
 
   /* icon action bar */
   .action-bar { display: flex; gap: 0.5rem; margin: 0.9rem 0; }

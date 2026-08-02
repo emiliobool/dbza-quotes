@@ -155,7 +155,9 @@ export async function initQuoteNav(cfg) {
     }
     st.frameT = defaultFrameT();
     render();
-    if (play) player.seek(quoteSpan()[0] - 0.2 < st.ctxStart ? st.ctxStart : quoteSpan()[0] - 0.2);
+    // don't start (hidden) playback while the image tab is up
+    if (play && $("#tab-image").hidden)
+      player.seek(quoteSpan()[0] - 0.2 < st.ctxStart ? st.ctxStart : quoteSpan()[0] - 0.2);
   }
 
   // ---------- transcript interaction ----------
@@ -164,7 +166,10 @@ export async function initQuoteNav(cfg) {
     const el = e.target.closest(".line");
     if (!el) return;
     const i = +el.dataset.i;
-    if (lines[i][2] !== "dialog") { player.seek(lines[i][0]); return; }
+    if (lines[i][2] !== "dialog") {
+      if ($("#tab-image").hidden) player.seek(lines[i][0]);
+      return;
+    }
     if (e.shiftKey && anchor !== null) navigateTo(anchor, i);
     else { anchor = i; navigateTo(i, i); }
   });
@@ -220,6 +225,12 @@ export async function initQuoteNav(cfg) {
     $("#tab-video").hidden = img;
     $("#tab-image").hidden = !img;
     if (img) { player.pause(); buildFilmstrip(); drawCard(); }
+    else {
+      // back to video: if the paused spot is outside the (possibly new) clip
+      // window, line the player up with it — paused, ready to play
+      const t = player.raw()?.getCurrentTime?.() ?? null;
+      if (t !== null && (t < st.ctxStart - 0.5 || t > st.ctxEnd)) player.seek(st.ctxStart, false);
+    }
   }
   window.addEventListener("hashchange", applyTab);
 
