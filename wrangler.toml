@@ -8,6 +8,12 @@ binding = "DB"
 database_name = "dbza-quotes"
 database_id = "7de548fe-3e0a-4fe5-8e44-ff0eddaf9d18"
 
+# frames bucket doubles as storage for uploaded share cards (og/*.jpg),
+# already public at https://dbza-frames.bool.is
+[[r2_buckets]]
+binding = "FRAMES"
+bucket_name = "dbza-frames"
+
 # Secrets (set in the Pages dashboard or `wrangler pages secret put`):
 #   ADMIN_TOKEN      — bearer token for /api/queue*
 #   TURNSTILE_SECRET — enables Turnstile verification on /api/submit

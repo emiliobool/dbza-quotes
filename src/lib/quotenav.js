@@ -154,6 +154,10 @@ export async function initQuoteNav(cfg) {
     $("#img-gif").hidden = sel.length < 2;
     const cb = $("#cols-btn");
     if (cb) { cb.hidden = sel.length < 2; markCols(); }
+    // multi-line: each panel gets its own caption box under its carousel,
+    // so the single big textarea steps aside
+    const tw = document.querySelector("#tab-image .textwrap");
+    if (tw) tw.hidden = sel.length > 1;
     imgState.text = quoteText(false);
     if (imgText) imgText.value = imgState.text;
     if (push) history.pushState({ a: st.selA, b: st.selB, cs: st.ctxStart, ce: st.ctxEnd }, "", currentUrl());
@@ -393,7 +397,8 @@ export async function initQuoteNav(cfg) {
     strips.innerHTML = "";
     const sel = selLines();
     const pad = sel.length > 1 ? 2 : 3;
-    for (const { l, i } of sel) {
+    const texts = panelTexts();
+    for (const [k, { l, i }] of sel.entries()) {
       if (sel.length > 1) {
         const lab = document.createElement("div");
         lab.className = "fs-label";
@@ -442,6 +447,16 @@ export async function initQuoteNav(cfg) {
         }
       }, { passive: false });
       strips.appendChild(wrap);
+      if (sel.length > 1) {
+        const ta = document.createElement("textarea");
+        ta.className = "fs-text";
+        ta.rows = 1;
+        ta.dataset.line = i;
+        ta.title = "This panel's caption — your words";
+        ta.value = texts[k] ?? "";
+        ta.addEventListener("input", onPanelText);
+        strips.appendChild(ta);
+      }
     }
     markFilmstrip();
     for (const strip of strips.querySelectorAll(".fstrip")) {
@@ -467,6 +482,21 @@ export async function initQuoteNav(cfg) {
     clearTimeout(txtTimer);
     txtTimer = setTimeout(syncUrl, 350);
   });
+  // Per-panel caption boxes write back into the (hidden) main textarea, which
+  // stays the single source of truth: line k of its value captions panel k, so
+  // panelTexts(), the ?txt= param, and the GIF all keep working unchanged.
+  // Newlines only mean something in the last box — elsewhere they'd shift the
+  // line↔panel mapping, so they flatten to spaces.
+  function onPanelText() {
+    if (!imgText) return;
+    const boxes = [...strips.querySelectorAll(".fs-text")];
+    imgText.value = boxes
+      .map((b, k) => (k < boxes.length - 1 ? b.value.replace(/\n/g, " ") : b.value))
+      .join("\n");
+    drawCard();
+    clearTimeout(txtTimer);
+    txtTimer = setTimeout(syncUrl, 350);
+  }
 
   const toast = (msg) => {
     const t = $("#toast");
@@ -528,7 +558,32 @@ export async function initQuoteNav(cfg) {
 
   // ---------- actions ----------
   const copy = (text, msg) => navigator.clipboard.writeText(text).then(() => toast(msg));
-  $("#copy-link").addEventListener("click", () => copy(location.origin + currentUrl(), "Link copied"));
+
+  // Copying a /c/ link also renders the card to JPEG and stashes it in R2
+  // (see /api/og-card) so the link unfurls with the exact image on the page.
+  // Fire-and-forget: the clipboard never waits, and failures cost nothing —
+  // the OG function falls back to the first line's raw frame.
+  let ogUploaded = "";
+  function uploadOgCard() {
+    const u = currentUrl();
+    const q = u.split("#")[0].split("?")[1] ?? "";
+    if (!u.startsWith("/c/") || !q || q === ogUploaded) return;
+    drawCard().then(() =>
+      canvas?.toBlob((b) => {
+        if (!b || b.size > 3_800_000 || !$("#img-note").hidden) return;
+        fetch(`/api/og-card?show=${cfg.show}&item=${cfg.item}&${q}`, {
+          method: "POST",
+          headers: { "content-type": "image/jpeg" },
+          body: b,
+        }).then((r) => { if (r.ok) ogUploaded = q; }).catch(() => {});
+      }, "image/jpeg", 0.85)
+    );
+  }
+
+  $("#copy-link").addEventListener("click", () => {
+    copy(location.origin + currentUrl(), "Link copied");
+    uploadOgCard();
+  });
   $("#copy-yt").addEventListener("click", () =>
     copy(`https://youtu.be/${cfg.youtube}?t=${Math.floor(quoteSpan()[0])}`, "YouTube link copied"));
   $("#copy-quote").addEventListener("click", () => copy(quoteText(), "Quote copied"));
