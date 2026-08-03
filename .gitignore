@@ -8,3 +8,6 @@ src/gen/
 .dev.vars
 frames-store/
 public/_redirects
+
+# raycast extension build output
+raycast/.raycast-swift-build/

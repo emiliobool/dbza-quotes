@@ -1,0 +1,57 @@
+{
+  "$schema": "https://www.raycast.com/schemas/extension.json",
+  "name": "dbza-quotes",
+  "title": "DBZA Quotes",
+  "description": "Search every line of Dragon Ball Z Abridged; copy the quote, the link, or the frame.",
+  "icon": "icon.png",
+  "author": "emiliobool",
+  "categories": ["Fun", "Media"],
+  "license": "MIT",
+  "commands": [
+    {
+      "name": "search-quotes",
+      "title": "Search Quotes",
+      "subtitle": "DBZA",
+      "description": "Search every line ever said in Dragon Ball Z Abridged",
+      "mode": "view"
+    }
+  ],
+  "preferences": [
+    {
+      "name": "site",
+      "type": "textfield",
+      "required": false,
+      "title": "Site URL",
+      "description": "Where the quote site lives — the search index and the links come from here.",
+      "default": "https://dbza-quotes.pages.dev"
+    },
+    {
+      "name": "frames",
+      "type": "textfield",
+      "required": false,
+      "title": "Frame Store URL",
+      "description": "Public bucket serving one WebP every 0.5s per episode.",
+      "default": "https://dbza-frames.bool.is"
+    }
+  ],
+  "dependencies": {
+    "@raycast/api": "^1.103.2",
+    "@raycast/utils": "^2.2.1",
+    "minisearch": "^7.2.0"
+  },
+  "devDependencies": {
+    "@raycast/eslint-config": "^2.0.4",
+    "@types/node": "22.13.10",
+    "@types/react": "19.0.10",
+    "eslint": "^9.22.0",
+    "prettier": "^3.5.3",
+    "typescript": "^5.8.2"
+  },
+  "scripts": {
+    "build": "ray build",
+    "dev": "ray develop",
+    "fix-lint": "ray lint --fix",
+    "lint": "ray lint",
+    "publish": "npx @raycast/api@latest publish"
+  }
+}
