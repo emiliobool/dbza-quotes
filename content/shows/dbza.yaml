@@ -35,9 +35,6 @@ kinds:
 - id: cellvs
   label: Cell Vs
   tag: C
-- id: shortz
-  label: DragonShortZ
-  tag: DS
 - id: super
   label: Super Shorts
   tag: S
