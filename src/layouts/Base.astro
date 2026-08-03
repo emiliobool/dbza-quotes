@@ -40,6 +40,7 @@ const isOn = (p) => (p === "/" ? path === "/" : path.startsWith(p));
           <kbd>⌘K</kbd>
         </button>
         <span class="nav-spacer"></span>
+        <a href="/random" title="Jump to a random line">Random</a>
         <a href="/quotes/" class:list={{ on: isOn("/quotes") }}>Quotes</a>
         <a href="/dbza/" class:list={{ on: isOn("/dbza") }}>Episodes</a>
         <a href="/saved/" class:list={{ on: isOn("/saved") }}>Saved</a>

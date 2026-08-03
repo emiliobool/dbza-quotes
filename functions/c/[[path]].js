@@ -30,6 +30,13 @@ export async function onRequestGet({ request, env }) {
   const hit = await cache.match(cacheKey);
   if (hit) return hit;
 
+  // qs/qe is the actual quote selection; t/d is the playback window, whose
+  // lead-in padding can sweep in the line before the quote
+  const pqs = parseFloat(url.searchParams.get("qs"));
+  const pqe = parseFloat(url.searchParams.get("qe"));
+  const qsT = Number.isFinite(pqs) ? pqs : qt;
+  const qeT = Number.isFinite(pqe) ? pqe : qt + qd;
+
   let quote = "";
   let data = null;
   try {
@@ -42,7 +49,7 @@ export async function onRequestGet({ request, env }) {
         .filter((n) => Number.isInteger(n) && n >= 0 && n < data.lines.length);
       quote = (selI.length
         ? selI.map((i) => data.lines[i])
-        : data.lines.filter((l) => l[1] > qt && l[0] < qt + qd))
+        : data.lines.filter((l) => l[1] > qsT && l[0] < qeT))
         .filter((l) => l[2] === "dialog")
         .map((l) => (l[3] ? `${l[3]}: ${l[4]}` : l[4]))
         .join(" ")
@@ -64,11 +71,7 @@ export async function onRequestGet({ request, env }) {
     const fv = parseFloat((url.searchParams.get("f") ?? "").split(",")[0]);
     let ft = Number.isFinite(fv) ? fv : null;
     if (ft === null && data) {
-      const qs = parseFloat(url.searchParams.get("qs"));
-      const qe = parseFloat(url.searchParams.get("qe"));
-      const s = Number.isFinite(qs) ? qs : qt;
-      const e = Number.isFinite(qe) ? qe : qt + qd;
-      const i = data.lines.findIndex((l) => l[1] > s && l[0] < e);
+      const i = data.lines.findIndex((l) => l[1] > qsT && l[0] < qeT);
       if (i >= 0) {
         const ov = data.overrides?.[i];
         ft = typeof ov === "number" ? ov : (data.lines[i][0] + data.lines[i][1]) / 2;
